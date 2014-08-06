@@ -2,4 +2,4 @@
 # Ligue 1 Teams -  Monaco (mc)
 #
 
-monaco,       AS Monaco,  ASM,   city:monaco
+monaco,       AS Monaco|AS Monaco FC,  ASM,   city:monaco

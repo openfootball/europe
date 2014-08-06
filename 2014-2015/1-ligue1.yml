@@ -1,0 +1,36 @@
+############################
+# Ligue 1 2014/15
+
+
+league: fr
+season: 2014/15
+start_at: 2014-08-08
+
+fixtures:
+- li
+
+
+######################
+# 20 Teams
+
+teams:
+- bastia
+- bordeaux
+- caen
+- evian
+- guingamp
+- lens
+- lille
+- lorient
+- lyon
+- marseille
+- metz
+- monaco
+- montpellier
+- nantes
+- nice
+- paris
+- reims
+- rennes
+- saintetienne
+- toulouse
