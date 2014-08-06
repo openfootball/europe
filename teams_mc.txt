@@ -2,11 +2,4 @@
 # Ligue 1 Teams -  Monaco (mc)
 #
 
-[monaco]
-  AS Monaco|Monaco|AS Monaco FC, 1919, ASM
-  // Monaco
-  www.asm-fc.com
-  wikipedia: AS_Monaco_FC
-
-
-
+monaco,       AS Monaco|AS Monaco FC,  ASM,   city:monaco
