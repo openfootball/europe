@@ -1,30 +1,27 @@
 ################################
 # Ligue 1
-# - 20 teams
+# - 19 teams
 
 
-# two/three letter codes from -> en.wikipedia.org/wiki/2012-13_Ligue_1
+# two/three letter codes from -> en.wikipedia.org/wiki/2014-15_Ligue_1
 #   fix: use letter codes from ligue1 (wikipedia letters are not common)
 
-paris,        Paris St. Germain|Paris S.Germai|Paris Saint Germain|Paris Saint-Germain, PSG,  city:paris
-montpellier,  HSC Montpellier|Montpellier|Montpellier Hérault SC,  MHS,     city:montpellier
+bastia,       SC Bastia|Sporting Club de Bastia,  BAS,   city:bastia
+bordeaux,     Bordeaux|Girondins de Bordeaux, BOR, city:bordeaux
+caen,	SM Caen|Stade Malherbe de Caen, CAE, city:caen
+evian,        Évian TG|Évian TG FC|Évian Thonon Gaillard FC,  EVI, city:thononlesbains
+guingamp, 	EA Guingamp|En Avant Guingamp, EAG, city:guingamp
+lens, 	RC Lens|Racing Club de Lens, RCL, city:lens
 lille,        OSC Lille|Lille OSC|LOSC Lille,    LIL,         city:lille
-marseille,    Marseille|Olympique Marseille|Olympique de Marseille,  OM,   city:marseille
-
-lyon,         Lyon|Olympique Lyonnais,  OL, city:lyon
-bordeaux,     Bordeaux|Girondins de Bordeaux|FC Girondins de Bordeaux|Football Club des Girondins de Bordeaux, BOR, city:bordeaux
-nice,         OGC Nice|Olympique Gymnaste Club Nice Côte d'Azur,  NIC,    city:nice
-rennes,       Stade Rennais FC|Stade Rennais Football Club, REN, city:rennes
 lorient,      FC Lorient,  LOR,  city:lorient
-valenciennes, Valenciennes FC,  VAL,  city:valenciennes
+lyon,         Lyon|Olympique Lyonnais,  OL, city:lyon
+marseille,    Marseille|Olympique Marseille|Olympique de Marseille,  OM,   city:marseille
+metz, 	FC Metz|Football Club de Metz, FCM, city:metz
+montpellier,  Montpellier|HSC Montpellier|Montpellier Hérault SC,  MHS,     city:montpellier
+nantes, FC Nantes|Football Club de Nantes, FCN, city:nantes
+nice,         OGC Nice|Olympique Gymnaste Club Nice Côte d'Azur,  NIC,    city:nice
+paris,        Paris SG|Paris S.Germain|Paris Saint Germain|Paris Saint-Germain, PSG,  city:paris
+reims,        Stade de Reims|Stade Reims,  REI, city:reims
+rennes,       Stade Rennais FC|Stade Rennais Football Club, REN, city:rennes
 saintetienne, AS Saint-Étienne|Association Sportive de Saint-Étienne Loire, STE, city:saintetienne
 toulouse,     Toulouse FC,  TFC,  city:toulouse
-bastia,       SC Bastia|Sporting Club de Bastia,  BAS,   city:bastia
-brest,        Stade Brestois|Stade Brestois 29,  BRS,  city:brest
-sochaux,      FC Sochaux-Montbéliard|Football Club Sochaux-Montbéliard, SOC, city:sochaux
-ajaccio,      AC Ajaccio|Athletic Club Ajaccio,   ACA,  city:ajaccio
-evian,        Évian TG|Évian TG FC|Évian Thonon Gaillard FC,  EVI, city:thononlesbains
-reims,        Stade de Reims|Stade Reims,  REI, city:reims
-troyes,       ES Troyes AC|ESTAC Troyes|Espérance Sportive Troyes Aube Champagne, TRO,   city:troyes
-nancy,        AS Nancy|AS Nancy-Lorraine|Association Sportive Nancy-Lorraine,  NAL, city:nancy
-
