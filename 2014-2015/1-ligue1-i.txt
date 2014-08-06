@@ -37,13 +37,28 @@ Journée 2
 Journée 3
 
 [Sam 23. Août]
- 20.00  SC Bastia - Toulouse FC
- 20.00  Evian TG - Paris SG
- 20.00  EA Guingamp - Olympique de Marseille
- 20.00  LOSC Lille - FC Lorient
- 20.00  Olympique Lyonnais - RC Lens
- 20.00  Montpellier Hérault SC - FC Metz
- 20.00  FC Nantes - AS Monaco FC
- 20.00  OGC Nice - Girondins de Bordeaux
- 20.00  Stade de Reims - SM Caen
- 20.00  AS Saint-Etienne - Stade Rennais FC
+  20.00  SC Bastia - Toulouse FC
+  20.00  Evian TG - Paris SG
+  20.00  EA Guingamp - Olympique de Marseille
+  20.00  LOSC Lille - FC Lorient
+  20.00  Olympique Lyonnais - RC Lens
+  20.00  Montpellier Hérault SC - FC Metz
+  20.00  FC Nantes - AS Monaco FC
+  20.00  OGC Nice - Girondins de Bordeaux
+  20.00  Stade de Reims - SM Caen
+  20.00  AS Saint-Etienne - Stade Rennais FC
+ 
+ Journée 4
+
+[Sam 30. Août]
+  20.00  Girondins de Bordeaux - SC Bastia
+  20.00  SM Caen - Stade Rennais FC
+  20.00  RC Lens - Stade de Reims
+  20.00  FC Lorient - EA Guingamp
+  20.00  Olympique de Marseille - OGC Nice
+  20.00  FC Metz - Olympique Lyonnais
+  20.00  AS Monaco FC - LOSC Lille
+  20.00  FC Nantes - Montpellier Hérault SC
+  20.00  Toulouse FC - Evian TG
+[Dim 31. Août]
+  21.00  Paris SG - AS Saint-Etienne
