@@ -1,4 +1,4 @@
-################################
+﻿################################
 # Ligue 1
 # - 19 teams
 
@@ -9,7 +9,7 @@
 bastia,       SC Bastia|Sporting Club de Bastia,  BAS,   city:bastia
 bordeaux,     Bordeaux|Girondins de Bordeaux, BOR, city:bordeaux
 caen,	SM Caen|Stade Malherbe de Caen, CAE, city:caen
-evian,        Évian TG|Évian TG FC|Évian Thonon Gaillard FC,  EVI, city:thononlesbains
+evian,        Evian TG|Évian TG|Évian TG FC|Évian Thonon Gaillard FC,  EVI, city:thononlesbains
 guingamp, 	EA Guingamp|En Avant Guingamp, EAG, city:guingamp
 lens, 	RC Lens|Racing Club de Lens, RCL, city:lens
 lille,        LOSC Lille|OSC Lille|Lille OSC|LOSC Lille,    LIL,         city:lille
