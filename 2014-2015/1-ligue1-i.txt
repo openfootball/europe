@@ -2,7 +2,7 @@
 # Ligue 1 2014/15
 
 
-Matchday 1
+Journée 1
 
 [Ven 8. Août]
   20.30  Stade de Reims -  Paris SG
@@ -29,7 +29,7 @@ Journée 2
   20.00  FC Metz - FC Nantes
   20.00  Stade Rennais FC - Evian TG
   20.00  Toulouse FC - Olympique Lyonnais
-[Dimanche 17. Août]
+[Dim 17. Août]
   14.00  Olympique de Marseille - Montpellier Hérault SC
   17.00  AS Saint-Etienne - Stade de Reims
   21.00  Girondins de Bordeaux - AS Monaco FC
@@ -37,14 +37,13 @@ Journée 2
 Journée 3
 
 [Sam 23. Août]
-	20.00  SC Bastia - Toulouse FC
-	20.00  Evian TG - Paris SG
-	20.00  EA Guingamp - Olympique de Marseille
-	20.00  LOSC Lille - FC Lorient
-	20.00  Olympique Lyonnais - RC Lens
-	20.00  Montpellier Hérault SC - FC Metz
-	20.00  FC Nantes - AS Monaco FC
-	20.00  OGC Nice - Girondins de Bordeaux
-	20.00  Stade de Reims - SM Caen
-	20.00  AS Saint-Etienne - Stade Rennais FC
-	
+ 20.00  SC Bastia - Toulouse FC
+ 20.00  Evian TG - Paris SG
+ 20.00  EA Guingamp - Olympique de Marseille
+ 20.00  LOSC Lille - FC Lorient
+ 20.00  Olympique Lyonnais - RC Lens
+ 20.00  Montpellier Hérault SC - FC Metz
+ 20.00  FC Nantes - AS Monaco FC
+ 20.00  OGC Nice - Girondins de Bordeaux
+ 20.00  Stade de Reims - SM Caen
+ 20.00  AS Saint-Etienne - Stade Rennais FC
