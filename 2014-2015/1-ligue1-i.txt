@@ -5,26 +5,26 @@
 Journée 1
 
 [Ven 8. Août]
-  20.30  Stade de Reims -  Paris SG
+  20.30  Stade de Reims - Paris SG
 [Sam 9. Août]
-  21.00  SC Bastia -  Olympique de Marseille
-  21.00  Evian TG -  SM Caen
-  21.00  EA Guingamp -  AS Saint-Etienne
-  21.00  LOSC Lille -  FC Metz
-  21.00  Montpellier Hérault SC -  Girondins de Bordeaux
-  21.00  FC Nantes -  RC Lens
-  21.00  OGC Nice -  Toulouse FC
+  21.00  SC Bastia - Olympique de Marseille
+  21.00  Evian TG - SM Caen
+  21.00  EA Guingamp - AS Saint-Etienne
+  21.00  LOSC Lille - FC Metz
+  21.00  Montpellier Hérault SC - Girondins de Bordeaux
+  21.00  FC Nantes - RC Lens
+  21.00  OGC Nice - Toulouse FC
 [Dim 10. Août]
-  17.00  Olympique Lyonnais -  Stade Rennais FC
-  21.00  AS Monaco FC -  FC Lorient
+  17.00  Olympique Lyonnais - Stade Rennais FC
+  21.00  AS Monaco FC - FC Lorient
   
 Journée 2
 
 [Ven 15. Août]
-  20.30  SM Caen -  LOSC Lille
+  20.30  SM Caen - LOSC Lille
 [Sam 16. Août]
-  17.00  Paris SG -  SC Bastia
-  20.00  RC Lens -  EA Guingamp
+  17.00  Paris SG - SC Bastia
+  20.00  RC Lens - EA Guingamp
   20.00  FC Lorient - OGC Nice
   20.00  FC Metz - FC Nantes
   20.00  Stade Rennais FC - Evian TG
@@ -105,3 +105,46 @@ Journée 7
   20.00  Stade de Reims - Olympique de Marseille
   20.00  Stade Rennais FC - Toulouse FC
   20.00  AS Saint-Etienne - Girondins de Bordeaux
+
+Journée 8
+
+[Sam 27. Sept]
+  20.00  Girondins de Bordeaux - Stade Rennais FC
+  20.00  RC Lens - SM Caen
+  20.00  LOSC Lille - SC Bastia
+  20.00  FC Lorient - Evian TG
+  20.00  Olympique de Marseille - AS Saint-Etienne
+  20.00  FC Metz - Stade de Reims
+  20.00  AS Monaco FC - OFC Nice
+  20.00  Montpellier Hérault SC - EA Guingamp
+  20.00  FC Nantes - Olympique Lyonnais
+  20.00  Toulouse FC - Paris SG
+
+Journée 9
+
+[Sam 4. Oct]
+  20.00  SC Bastia - FC Lorient
+  20.00  SM Caen - Olympique de Marseille
+  20.00  Evian TG - FC Metz
+  20.00  EA Guingamp - FC Nantes
+  20.00  Olympique Lyonnais - LOSC Lille
+  20.00  OGC Nice - Montpellier Hérault SC
+  20.00  Stade de Reims - Girondins de Bordeaux
+  20.00  Stade Rennais FC - RC Lens
+  20.00  AS Saint-Etienne - Toulouse FC
+[Dim 5. Oct]
+  21.00  Paris SG - AS Monaco FC
+
+Journée 10
+
+[Sam 18. Oct]
+  20.00  Girondins de Bordeaux - SM Caen
+  20.00  RC Lens - Paris SG
+  20.00  LOSC Lille - EA Guingamp
+  20.00  FC Lorient - AS Saint-Etienne
+  20.00  Olympique de Marseille - Toulouse FC
+  20.00  FC Metz - Stade Rennais FC
+  20.00  AS Monaco FC - Evian TG
+  20.00  Montpellier Hérault SC - Olympique Lyonnais
+  20.00  FC Nantes - Sta de Reims
+  20.00  OGC Nice - SC Bastia
