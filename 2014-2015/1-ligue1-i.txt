@@ -146,7 +146,7 @@ Journée 10
   20.00  FC Metz - Stade Rennais FC
   20.00  AS Monaco FC - Evian TG
   20.00  Montpellier Hérault SC - Olympique Lyonnais
-  20.00  FC Nantes - Sta de Reims
+  20.00  FC Nantes - Stade Reims
   20.00  OGC Nice - SC Bastia
 
 Journée 11
@@ -192,3 +192,32 @@ Journée 13
   20.00  Toulouse FC - FC Metz
 [Dim 9. Nov]
   21.00  Paris SG - Olympique de Marseille
+
+Journée 14
+
+[Sam 22. Nov]
+  20.00  SC Bastia - Olympique Lyonnais
+  20.00  EA Guingamp - Stade Rennais FC
+  20.00  LOSC Lille - Evian TG
+  20.00  FC Lorient - RC Lens
+  20.00  Olympique de Marseille - Girondins de Bordeaux
+  20.00  FC Metz - Paris SG
+  20.00  AS Monaco FC - SM Caen
+  20.00  Montpellier Hérault SC - Toulouse FC
+  20.00  FC Nantes - AS Saint-Etienne
+  20.00  OGC Nice - Stade de Reims
+
+Journée 15
+
+[Sam 29. Nov]
+  20.00  Girondins de Bordeaux - LOSC Lille
+  20.00  SM Caen - Montpellier Hérault SC
+  20.00  Evian TG - EA Guingamp
+  20.00  RC Lens - FC Metz
+  20.00  Olympique de Marseille - FC Nantes
+  20.00  Paris SG - OGC Nice
+  20.00  Stade de Reims - SC Bastia
+  20.00  Stade Rennais FC - AS Monaco FC
+  20.00  Toulouse FC - FC Lorient
+[Dim 30. Nov]
+  21.00  AS Saint-Etienne - Olympique Lyonnais
