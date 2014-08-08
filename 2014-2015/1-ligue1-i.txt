@@ -221,3 +221,47 @@ Journée 15
   20.00  Toulouse FC - FC Lorient
 [Dim 30. Nov]
   21.00  AS Saint-Etienne - Olympique Lyonnais
+
+
+Journée 16
+
+[Mer 03. Déce]
+  20.00  SC Bastia - Evian TG
+  20.00  EA Guingamp - SM Caen
+  20.00  LOSC Lille - Paris SG
+  20.00  FC Lorient - Olympique de Marseille
+  20.00  Olympique Lyonnais - Stade de Reims
+  20.00  FC Metz - Girondins de Bordeaux
+  20.00  AS Monaco FC - RC Lens
+  20.00  Montpellier Hérault SC - AS Saint-Etienne
+  20.00  FC Nantes - Toulouse FC
+  20.00  OGC Nice - Stade Rennais FC
+
+Journée 17
+
+[Sam 06. Déce]
+  20.00  Girondins de Bordeaux - FC Lorient
+  20.00  SM Caen - OGC Nice
+  20.00  Evian TG - Olympique Lyonnais
+  20.00  RC Lens - LOSC Lille
+  20.00  Olympique de Marseille - FC Metz
+  20.00  Paris SG - FC Nantes
+  20.00  Stade de Reims - EA Guingamp
+  20.00  Stade Rennais FC - Montpellier Hérault SC
+  20.00  AS Saint-Etienne - SC Bastia
+  20.00  Toulouse FC - AS Monaco FC
+
+Journée 18
+
+[Sam 13. Déce]
+  20.00  SC Bastia - Stade Rennais FC
+  20.00  EA Guingamp - Paris SG
+  20.00  LOSC Lille - Toulouse FC
+  20.00  FC Lorient - FC Metz
+  20.00  Olympique Lyonnais - SM Caen
+  20.00  Montpellier Hérault SC - RC Lens
+  20.00  FC Nantes - Girondins de Bordeaux
+  20.00  OGC Nice - AS Saint-Etienne
+  20.00  Stade de Reims - Evian TG
+[Dim 14. Déce]
+  21.00  AS Monaco FC - Olympique de Marseille
