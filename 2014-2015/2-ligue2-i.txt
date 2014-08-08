@@ -1,0 +1,260 @@
+﻿####################################
+# Ligue 2 2014/15
+
+
+Journée 1
+
+[Ven 01. Août]
+  20.00  AC Arles Avignon 0:0 AC Ajaccio
+  20.00  AJ Auxerre 2:0 Havre AC
+  20.00  GFC Ajaccio 2:0 Valenciennes FC
+  20.00  Châteauroux 0:1 ESTAC Troyes
+  20.00  Nîmes Olympique 3:2 Angers SCO
+  20.00  Tours FC 4:2 US Créteil-Lusitanos
+  20.00  AS Nancy-Lorraine 1:1 Dijon FCO
+  20.00  Stade Lavallois 1:1 Chamois Niortais
+[Sam 02. Août]
+  17.00  FC Sochaux-Montbéliard 0:1 US Orléans
+[Lun 04. Août]
+  20.30  Stade Brestois 29 2:1 Clermont Foot
+
+Journée 2
+
+[Ven 08. Août]
+  20.00  Angers SCO - AC Arles Avignon
+  20.00  Clermont Foot - AJ Auxerre
+  20.00  US Créteil-Lusitanos - Châteauroux
+  20.00  Dijon FCO - Stade Lavallois
+  20.00  Havre AC - GFC Ajaccio
+  20.00  Chamois Niortais - Stade Brestois 29
+  20.00  US Orléans - AS Nancy-Lorraine
+  20.00  ESTAC Troyes - Tours FC
+[Sam 09. Août]
+  13.30  Valenciennes FC - Nîmes Olympique
+  18.00  AC Ajaccio - FC Sochaux-Montbéliard
+
+Journée 3
+
+[Ven 15. Août]
+  20.00  AJ Auxerre - US Orléans
+  20.00  Stade Lavallois - US Créteil-Lusitanos
+  20.00  Châteauroux - Clermont Foot
+  20.00  AS Nancy-Lorraine - AC Arles Avignon
+  20.00  Nîmes Olympique - Dijon FCO
+  20.00  Chamois Niortais - Havre AC
+  20.00  Tours FC - Valenciennes FC
+[Sam 16. Août]
+  14.00  Stade Brestois 29 - Angers SCO
+[Lun 18. Août]
+  20.00  GFC Ajaccio - AC Ajaccio
+  20.30  FC Sochaux-Montbéliard - ESTAC Troyes
+
+Journée 4
+
+[Ven 22. Août]
+  20.00  AC Ajaccio - Tours FC
+  20.00  Angers SCO - Châteauroux
+  20.00  AC Arles Avignon - FC Sochaux-Montbéliard
+  20.00  Clermont Foot - GFC Ajaccio
+  20.00  US Créteil-Lusitanos - Chamois Niortais
+  20.00  Dijon FCO - AJ Auxerre
+  20.00  AS Nancy-Lorraine - Nîmes Olympique
+  20.00  US Orléans - Stade Brestois 29
+  20.00  ESTAC Troyes - Stade Lavallois
+  20.00  Valenciennes FC - Havre AC
+
+Journée 5
+
+[Ven 29. Août]
+  20.00  AJ Auxerre - Valenciennes FC
+  20.00  Stade Brestois 29 - AS Nancy-Lorraine
+  20.00  GFC Ajaccio - ESTAC Troyes
+  20.00  Stade Lavallois - AC Ajaccio
+  20.00  Havre AC - US Créteil-Lusitanos
+  20.00  Châteauroux - US Orléans
+  20.00  Nîmes Olympique - AC Arles Avignon
+  20.00  Chamois Niortais - Clermont Foot
+  20.00  FC Sochaux-Montbéliard - Dijon FCO
+  20.00  Tours FC - Angers SCO
+
+Journée 6
+
+[Ven 12. Sept]
+  20.00  AC Ajaccio - Châteauroux
+  20.00  Angers SCO - GFC Ajaccio
+  20.00  AC Arles Avignon - Tours FC
+  20.00  Clermont Foot - Havre AC
+  20.00  Dijon FCO - Chamois Niortais
+  20.00  AS Nancy-Lorraine - FC Sochaux-Montbéliard
+  20.00  Nîmes Olympique - Stade Brestois 29
+  20.00  US Orléans - Stade Lavallois
+  20.00  ESTAC Troyes - AJ Auxerre
+  20.00  Valenciennes FC - US Créteil-Lusitanos
+
+Journée 7
+
+[Ven 19. Sept]
+  20.00  AJ Auxerre - AC Ajaccio
+  20.00  Stade Brestois 29 - AC Arles Avignon
+  20.00  US Créteil-Lusitanos - Clermont Foot
+  20.00  GFC Ajaccio - Dijon FCO
+  20.00  Stade Lavallois - Angers SCO
+  20.00  Havre AC - ESTAC Troyes
+  20.00  Châteauroux - AS Nancy-Lorraine
+  20.00  Chamois Niortais - Valenciennes FC
+  20.00  FC Sochaux-Montbéliard - Nîmes Olympique
+  20.00  Tours FC - US Orléans
+
+Journée 8
+
+[Mar 23. Sept]
+  20.00  AC Ajaccio - Havre AC
+  20.00  Angers SCO - AJ Auxerre
+  20.00  AC Arles Avignon - Stade Lavallois
+  20.00  Dijon FCO - US Créteil-Lusitanos
+  20.00  AS Nancy-Lorraine - Tours FC
+  20.00  Nîmes Olympique - Châteauroux
+  20.00  US Orléans - GFC Ajaccio
+  20.00  FC Sochaux-Montbéliard - Stade Brestois 29
+  20.00  ESTAC Troyes - Chamois Niortais
+  20.00  Valenciennes FC - Clermont Foot
+
+Journée 9
+
+[Ven 26. Sept]
+  20.00  AJ Auxerre - AC Arles Avignon
+  20.00  Clermont Foot - ESTAC Troyes
+  20.00  US Créteil-Lusitanos - AC Ajaccio
+  20.00  GFC Ajaccio - Nîmes Olympique
+  20.00  Stade Lavallois - AS Nancy-Lorraine
+  20.00  Havre AC - Dijon FCO
+  20.00  Châteauroux - Stade Brestois 29
+  20.00  Chamois Niortais - Angers SCO
+  20.00  Tours FC - FC Sochaux-Montbéliard
+  20.00  Valenciennes FC - US Orléans
+
+Journée 10
+
+[Ven 03. Octo]
+  20.00  AC Ajaccio - Chamois Niortais
+  20.00  Angers SCO - US Créteil-Lusitanos
+  20.00  AC Arles Avignon - Châteauroux
+  20.00  Stade Brestois 29 - Tours FC
+  20.00  Dijon FCO - Clermont Foot
+  20.00  AS Nancy-Lorraine - GFC Ajaccio
+  20.00  Nîmes Olympique - Stade Lavallois
+  20.00  US Orléans - Havre AC
+  20.00  FC Sochaux-Montbéliard - AJ Auxerre
+  20.00  ESTAC Troyes - Valenciennes FC
+
+Journée 11
+
+[Ven 17. Octo]
+  20.00  AJ Auxerre - AS Nancy-Lorraine
+  20.00  Clermont Foot - AC Ajaccio
+  20.00  US Créteil-Lusitanos - ESTAC Troyes
+  20.00  GFC Ajaccio - AC Arles Avignon
+  20.00  Stade Lavallois - Stade Brestois 29
+  20.00  Havre AC - Angers SCO
+  20.00  Châteauroux - FC Sochaux-Montbéliard
+  20.00  Chamois Niortais - US Orléans
+  20.00  Tours FC - Nîmes Olympique
+  20.00  Valenciennes FC - Dijon FCO
+
+Journée 12
+
+[Ven 24. Octo]
+  20.00  AC Ajaccio - Valenciennes FC
+  20.00  Angers SCO - Clermont Foot
+  20.00  AC Arles Avignon - Chamois Niortais
+  20.00  Stade Brestois 29 - GFC Ajaccio
+  20.00  Châteauroux - Tours FC
+  20.00  AS Nancy-Lorraine - Havre AC
+  20.00  Nîmes Olympique - AJ Auxerre
+  20.00  US Orléans - US Créteil-Lusitanos
+  20.00  FC Sochaux-Montbéliard - Stade Lavallois
+  20.00  ESTAC Troyes - Dijon FCO
+
+Journée 13
+
+[Ven 31. Octo]
+  20.00  AJ Auxerre - Stade Brestois 29
+  20.00  Clermont Foot - Nîmes Olympique
+  20.00  US Créteil-Lusitanos - FC Sochaux-Montbéliard
+  20.00  Dijon FCO - AC Ajaccio
+  20.00  GFC Ajaccio - Châteauroux
+  20.00  Stade Lavallois - Tours FC
+  20.00  Havre AC - AC Arles Avignon
+  20.00  Chamois Niortais - AS Nancy-Lorraine
+  20.00  ESTAC Troyes - US Orléans
+  20.00  Valenciennes FC - Angers SCO
+
+Journée 14
+
+[Ven 07. Nove]
+  20.00  AC Ajaccio - ESTAC Troyes
+  20.00  Angers SCO - Dijon FCO
+  20.00  AC Arles Avignon - Valenciennes FC
+  20.00  Stade Brestois 29 - Havre AC
+  20.00  Châteauroux - Stade Lavallois
+  20.00  AS Nancy-Lorraine - US Créteil-Lusitanos
+  20.00  Nîmes Olympique - Chamois Niortais
+  20.00  US Orléans - Clermont Foot
+  20.00  FC Sochaux-Montbéliard - GFC Ajaccio
+  20.00  Tours FC - AJ Auxerre
+
+Journée 15
+
+[Ven 21. Nove]
+  20.00  AC Ajaccio - Angers SCO
+  20.00  AJ Auxerre - Châteauroux
+  20.00  Clermont Foot - AC Arles Avignon
+  20.00  US Créteil-Lusitanos - Nîmes Olympique
+  20.00  Dijon FCO - US Orléans
+  20.00  GFC Ajaccio - Stade Lavallois
+  20.00  Havre AC - FC Sochaux-Montbéliard
+  20.00  Chamois Niortais - Tours FC
+  20.00  ESTAC Troyes - AS Nancy-Lorraine
+  20.00  Valenciennes FC - Stade Brestois 29
+
+Journée 16
+
+[Ven 28. Nove]
+  20.00  Angers SCO - ESTAC Troyes
+  20.00  AC Arles Avignon - Dijon FCO
+  20.00  Stade Brestois 29 - US Créteil-Lusitanos
+  20.00  Stade Lavallois - AJ Auxerre
+  20.00  Châteauroux - Chamois Niortais
+  20.00  AS Nancy-Lorraine - Valenciennes FC
+  20.00  Nîmes Olympique - Havre AC
+  20.00  US Orléans - AC Ajaccio
+  20.00  FC Sochaux-Montbéliard - Clermont Foot
+  20.00  Tours FC - GFC Ajaccio
+
+Journée 17
+
+[Ven 12. Déce]
+  20.00  AC Ajaccio - AS Nancy-Lorraine
+  20.00  Clermont Foot - Tours FC
+  20.00  US Créteil-Lusitanos - AC Arles Avignon
+  20.00  Dijon FCO - Stade Brestois 29
+  20.00  GFC Ajaccio - AJ Auxerre
+  20.00  Havre AC - Stade Lavallois
+  20.00  Chamois Niortais - FC Sochaux-Montbéliard
+  20.00  US Orléans - Angers SCO
+  20.00  ESTAC Troyes - Nîmes Olympique
+  20.00  Valenciennes FC - Châteauroux
+
+Journée 18
+
+[Ven 19. Déce]
+  20.00  AC Arles Avignon - ESTAC Troyes
+  20.00  AJ Auxerre - Chamois Niortais
+  20.00  Stade Brestois 29 - AC Ajaccio
+  20.00  GFC Ajaccio - US Créteil-Lusitanos
+  20.00  Stade Lavallois - Valenciennes FC
+  20.00  Châteauroux - Dijon FCO
+  20.00  AS Nancy-Lorraine - Clermont Foot
+  20.00  Nîmes Olympique - US Orléans
+  20.00  FC Sochaux-Montbéliard - Angers SCO
+  20.00  Tours FC - Havre AC

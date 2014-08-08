@@ -1,0 +1,36 @@
+############################
+# Ligue 1 2014/15
+
+
+league: fr.2
+season: 2014/15
+start_at: 2014-08-01
+
+fixtures:
+- li2
+
+
+######################
+# 20 Teams
+
+teams:
+- avignon
+- ajaccio
+- auxerre
+- havre
+- ajacciogfc
+- valenciennes
+- chateauroux
+- troyes
+- nimes
+- angers
+- tours
+- creteil
+- nancy
+- dijon
+- laval
+- niort
+- sochaux
+- orleans
+- brest
+- clermont
