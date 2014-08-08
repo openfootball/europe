@@ -122,7 +122,7 @@ Journée 8
 
 Journée 9
 
-[Sam 4. Oct]
+[Sam 4. Octo]
   20.00  SC Bastia - FC Lorient
   20.00  SM Caen - Olympique de Marseille
   20.00  Evian TG - FC Metz
@@ -132,12 +132,12 @@ Journée 9
   20.00  Stade de Reims - Girondins de Bordeaux
   20.00  Stade Rennais FC - RC Lens
   20.00  AS Saint-Etienne - Toulouse FC
-[Dim 5. Oct]
+[Dim 5. Octo]
   21.00  Paris SG - AS Monaco FC
 
 Journée 10
 
-[Sam 18. Oct]
+[Sam 18. Octo]
   20.00  Girondins de Bordeaux - SM Caen
   20.00  RC Lens - Paris SG
   20.00  LOSC Lille - EA Guingamp
@@ -151,7 +151,7 @@ Journée 10
 
 Journée 11
 
-[Sam 25. Oct]
+[Sam 25. Octo]
   20.00  SC Bastia - AS Monaco FC
   20.00  SM Caen - FC Lorient
   20.00  Evian TG - FC Nantes
@@ -161,12 +161,12 @@ Journée 11
   20.00  Stade Rennais FC - LOSC Lille
   20.00  AS Saint-Etienne - FC Metz
   20.00  Toulouse FC - RC Lens
-[Dim 26. Oct]
+[Dim 26. Octo]
   21.00  Olympique Lyonnais - Olympique de Marseille
 
 Journée 12
 
-[Sam 1. Nov]
+[Sam 1. Nove]
   20.00  Girondins de Bordeaux - Toulouse FC
   20.00  EA Guingamp - SC Bastia
   20.00  LOSC Lille - AS Saint-Etienne
@@ -180,7 +180,7 @@ Journée 12
 
 Journée 13
 
-[Sam 8. Nov]
+[Sam 8. Nove]
   20.00  SC Bastia - Montpellier Hérault SC
   20.00  SM Caen - FC Nantes
   20.00  Evian TG - OGC Nice
@@ -190,12 +190,12 @@ Journée 13
   20.00  Stade Rennais FC - FC Lorient
   20.00  AS Saint-Etienne - AS Monaco FC
   20.00  Toulouse FC - FC Metz
-[Dim 9. Nov]
+[Dim 9. Nove]
   21.00  Paris SG - Olympique de Marseille
 
 Journée 14
 
-[Sam 22. Nov]
+[Sam 22. Nove]
   20.00  SC Bastia - Olympique Lyonnais
   20.00  EA Guingamp - Stade Rennais FC
   20.00  LOSC Lille - Evian TG
@@ -209,7 +209,7 @@ Journée 14
 
 Journée 15
 
-[Sam 29. Nov]
+[Sam 29. Nove]
   20.00  Girondins de Bordeaux - LOSC Lille
   20.00  SM Caen - Montpellier Hérault SC
   20.00  Evian TG - EA Guingamp
@@ -219,7 +219,7 @@ Journée 15
   20.00  Stade de Reims - SC Bastia
   20.00  Stade Rennais FC - AS Monaco FC
   20.00  Toulouse FC - FC Lorient
-[Dim 30. Nov]
+[Dim 30. Nove]
   21.00  AS Saint-Etienne - Olympique Lyonnais
 
 
