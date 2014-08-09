@@ -1,23 +1,23 @@
-﻿####################################
+##################################test
 # Ligue 1 2014/15
 
 
 Journée 1
 
-[Ven 8. Août]
+[Ven 08. Août]
   20.30  Stade de Reims 2:2 Paris SG
-[Sam 9. Août]
-  21.00  SC Bastia - Olympique de Marseille
-  21.00  Evian TG - SM Caen
-  21.00  EA Guingamp - AS Saint-Etienne
-  21.00  LOSC Lille - FC Metz
-  21.00  Montpellier Hérault SC - Girondins de Bordeaux
-  21.00  FC Nantes - RC Lens
-  21.00  OGC Nice - Toulouse FC
+[Sam 09. Août]
+  21.00  SC Bastia 3:3 Olympique de Marseille
+  21.00  Evian TG 0:3 SM Caen
+  21.00  EA Guingamp 0:2 AS Saint-Etienne
+  21.00  LOSC Lille 0:0 FC Metz
+  21.00  Montpellier Hérault SC 0:1 Girondins de Bordeaux
+  21.00  FC Nantes 1:0 RC Lens
+  21.00  OGC Nice 3:2 Toulouse FC
 [Dim 10. Août]
   17.00  Olympique Lyonnais - Stade Rennais FC
   21.00  AS Monaco FC - FC Lorient
-  
+
 Journée 2
 
 [Ven 15. Août]
@@ -33,7 +33,7 @@ Journée 2
   14.00  Olympique de Marseille - Montpellier Hérault SC
   17.00  AS Saint-Etienne - Stade de Reims
   21.00  Girondins de Bordeaux - AS Monaco FC
-  
+
 Journée 3
 
 [Sam 23. Août]
@@ -47,8 +47,8 @@ Journée 3
   20.00  OGC Nice - Girondins de Bordeaux
   20.00  Stade de Reims - SM Caen
   20.00  AS Saint-Etienne - Stade Rennais FC
- 
- Journée 4
+
+Journée 4
 
 [Sam 30. Août]
   20.00  Girondins de Bordeaux - SC Bastia
@@ -62,7 +62,7 @@ Journée 3
   20.00  Toulouse FC - Evian TG
 [Dim 31. Août]
   21.00  Paris SG - AS Saint-Etienne
-  
+
 Journée 5
 
 [Sam 13. Sept]
@@ -115,14 +115,14 @@ Journée 8
   20.00  FC Lorient - Evian TG
   20.00  Olympique de Marseille - AS Saint-Etienne
   20.00  FC Metz - Stade de Reims
-  20.00  AS Monaco FC - OFC Nice
+  20.00  AS Monaco FC - OGC Nice
   20.00  Montpellier Hérault SC - EA Guingamp
   20.00  FC Nantes - Olympique Lyonnais
   20.00  Toulouse FC - Paris SG
 
 Journée 9
 
-[Sam 4. Octo]
+[Sam 04. Octo]
   20.00  SC Bastia - FC Lorient
   20.00  SM Caen - Olympique de Marseille
   20.00  Evian TG - FC Metz
@@ -132,7 +132,7 @@ Journée 9
   20.00  Stade de Reims - Girondins de Bordeaux
   20.00  Stade Rennais FC - RC Lens
   20.00  AS Saint-Etienne - Toulouse FC
-[Dim 5. Octo]
+[Dim 05. Octo]
   21.00  Paris SG - AS Monaco FC
 
 Journée 10
@@ -146,11 +146,13 @@ Journée 10
   20.00  FC Metz - Stade Rennais FC
   20.00  AS Monaco FC - Evian TG
   20.00  Montpellier Hérault SC - Olympique Lyonnais
-  20.00  FC Nantes - Stade Reims
+  20.00  FC Nantes - Stade de Reims
   20.00  OGC Nice - SC Bastia
 
 Journée 11
 
+[Mar 21. Octo]
+  21.00  Olympique Lyonnais - Olympique de Marseille
 [Sam 25. Octo]
   20.00  SC Bastia - AS Monaco FC
   20.00  SM Caen - FC Lorient
@@ -161,12 +163,10 @@ Journée 11
   20.00  Stade Rennais FC - LOSC Lille
   20.00  AS Saint-Etienne - FC Metz
   20.00  Toulouse FC - RC Lens
-[Dim 26. Octo]
-  21.00  Olympique Lyonnais - Olympique de Marseille
 
 Journée 12
 
-[Sam 1. Nove]
+[Sam 01. Nove]
   20.00  Girondins de Bordeaux - Toulouse FC
   20.00  EA Guingamp - SC Bastia
   20.00  LOSC Lille - AS Saint-Etienne
@@ -180,7 +180,7 @@ Journée 12
 
 Journée 13
 
-[Sam 8. Nove]
+[Sam 08. Nove]
   20.00  SC Bastia - Montpellier Hérault SC
   20.00  SM Caen - FC Nantes
   20.00  Evian TG - OGC Nice
@@ -190,7 +190,7 @@ Journée 13
   20.00  Stade Rennais FC - FC Lorient
   20.00  AS Saint-Etienne - AS Monaco FC
   20.00  Toulouse FC - FC Metz
-[Dim 9. Nove]
+[Dim 09. Nove]
   21.00  Paris SG - Olympique de Marseille
 
 Journée 14
@@ -221,7 +221,6 @@ Journée 15
   20.00  Toulouse FC - FC Lorient
 [Dim 30. Nove]
   21.00  AS Saint-Etienne - Olympique Lyonnais
-
 
 Journée 16
 
