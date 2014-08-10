@@ -3,26 +3,23 @@
 #  - 20 teams
 
 
-# to be done
-
-avignon, ??
-ajaccio, ??
-auxerre, ??
-havre, ??
-ajacciogfc, ??
-valenciennes, ??
-chateauroux, ??
-troyes, ??
-nimes, ??
-angers, ??
-tours, ??
-creteil, ??
-nancy, ??
-dijon, ??
-laval, ??
-niort, ??
-sochaux, ??
-orleans, ??
-brest, ??
-clermont, ??
-
+avignon,       AC Arles Avignon
+ajaccio,       AC Ajaccio
+auxerre,       AJ Auxerre
+havre,         Havre AC
+ajacciogfc,    GFC Ajaccio
+valenciennes,  Valenciennes FC
+chateauroux,   Châteauroux
+troyes,        ESTAC Troyes
+nimes,         Nîmes Olympique
+angers,        Angers SCO
+tours,         Tours FC
+creteil,       US Créteil-Lusitanos
+nancy,         AS Nancy-Lorraine
+dijon,         Dijon FCO
+laval,         Stade Lavallois
+niort,         Chamois Niortais
+sochaux,       FC Sochaux-Montbéliard
+orleans,       US Orléans
+brest,         Stade Brestois 29
+clermont,      Clermont Foot
