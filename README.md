@@ -14,6 +14,7 @@ Free open public domain football data for France (incl. Monaco) / Europe. Events
 | Level |                                |            |
 | ----- | ------------------------------ | ---------- |
 | I     |  Ligue 1                       |  20 Clubs  |
+| II    |  Ligue 2                       |  20 Clubs  |
 
 
 Example:
@@ -27,6 +28,27 @@ lille,        OSC Lille|Lille OSC|LOSC Lille,    LIL,        city:lille
 marseille,    Marseille|Olympique Marseille,  OM,   city:marseille
 ...
 ~~~
+
+~~~
+## Ligue 1 - 2014/15
+
+Journée 1
+
+[Ven 08. Août]
+  20.30  Stade de Reims 2:2 Paris SG
+[Sam 09. Août]
+  21.00  SC Bastia 3:3 Olympique de Marseille
+  21.00  Evian TG 0:3 SM Caen
+  21.00  EA Guingamp 0:2 AS Saint-Etienne
+  21.00  LOSC Lille 0:0 FC Metz
+  21.00  Montpellier Hérault SC 0:1 Girondins de Bordeaux
+  21.00  FC Nantes 1:0 RC Lens
+  21.00  OGC Nice 3:2 Toulouse FC
+[Dim 10. Août]
+  17.00  Olympique Lyonnais - Stade Rennais FC
+  21.00  AS Monaco FC - FC Lorient
+~~~
+
 
 
 ## Build Your Own `football.db` Copy

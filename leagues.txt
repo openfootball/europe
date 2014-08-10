@@ -1,4 +1,4 @@
 
-fr, Ligue 1,  fr
-
+fr,    Ligue 1
+fr.2,  Ligue 2
 

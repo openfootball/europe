@@ -1,0 +1,6 @@
+############################
+# Monaco (mc) Teams
+#
+
+monaco,       AS Monaco|AS Monaco FC,  ASM,  mc,  city:monaco
+

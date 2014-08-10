@@ -1,6 +1,6 @@
 ﻿################################
 # Ligue 1
-# - 19 teams
+# - 19 teams (+1 team from Monaco see/incl. clubs_mc.txt) 
 
 
 # two/three letter codes from -> en.wikipedia.org/wiki/2014-15_Ligue_1
@@ -8,17 +8,17 @@
 
 bastia,       SC Bastia|Sporting Club de Bastia,  BAS,   city:bastia
 bordeaux,     Bordeaux|Girondins de Bordeaux, BOR, city:bordeaux
-caen,	SM Caen|Stade Malherbe de Caen, CAE, city:caen
+caen,         SM Caen|Stade Malherbe de Caen, CAE, city:caen
 evian,        Evian TG|Évian TG|Évian TG FC|Évian Thonon Gaillard FC,  EVI, city:thononlesbains
-guingamp, 	EA Guingamp|En Avant Guingamp, EAG, city:guingamp
-lens, 	RC Lens|Racing Club de Lens, RCL, city:lens
+guingamp,     EA Guingamp|En Avant Guingamp, EAG, city:guingamp
+lens,         RC Lens|Racing Club de Lens, RCL, city:lens
 lille,        LOSC Lille|OSC Lille|Lille OSC|LOSC Lille,    LIL,         city:lille
 lorient,      FC Lorient,  LOR,  city:lorient
 lyon,         Lyon|Olympique Lyonnais,  OL, city:lyon
 marseille,    Marseille|Olympique Marseille|Olympique de Marseille,  OM,   city:marseille
-metz, 	FC Metz|Football Club de Metz, FCM, city:metz
+metz,         FC Metz|Football Club de Metz, FCM, city:metz
 montpellier,  Montpellier|HSC Montpellier|Montpellier Hérault SC,  MHS,     city:montpellier
-nantes, FC Nantes|Football Club de Nantes, FCN, city:nantes
+nantes,       FC Nantes|Football Club de Nantes, FCN, city:nantes
 nice,         OGC Nice|Olympique Gymnaste Club Nice Côte d'Azur,  NIC,    city:nice
 paris,        Paris SG|Paris S.Germain|Paris Saint Germain|Paris Saint-Germain, PSG,  city:paris
 reims,        Stade de Reims|Stade Reims,  REI, city:reims

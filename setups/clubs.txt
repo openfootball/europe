@@ -1,0 +1,6 @@
+##################
+# clubs
+
+fr-france!/clubs
+fr-france!/clubs_mc
+
