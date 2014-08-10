@@ -4,7 +4,7 @@
 
 Journée 1
 
-[Ven 01. Août]
+[Ven 1. Août]
   20.00  AC Arles Avignon 0:0 AC Ajaccio
   20.00  AJ Auxerre 2:0 Havre AC
   20.00  GFC Ajaccio 2:0 Valenciennes FC
@@ -13,14 +13,14 @@ Journée 1
   20.00  Tours FC 4:2 US Créteil-Lusitanos
   20.00  AS Nancy-Lorraine 1:1 Dijon FCO
   20.00  Stade Lavallois 1:1 Chamois Niortais
-[Sam 02. Août]
+[Sam 2. Août]
   17.00  FC Sochaux-Montbéliard 0:1 US Orléans
-[Lun 04. Août]
+[Lun 4. Août]
   20.30  Stade Brestois 29 2:1 Clermont Foot
 
 Journée 2
 
-[Ven 08. Août]
+[Ven 8. Août]
   20.00  Angers SCO 2:0 AC Arles Avignon
   20.00  Clermont Foot 1:1 AJ Auxerre
   20.00  US Créteil-Lusitanos 3:0 Châteauroux
@@ -29,7 +29,7 @@ Journée 2
   20.00  Chamois Niortais 0:0 Stade Brestois 29
   20.00  US Orléans 0:1 AS Nancy-Lorraine
   20.00  ESTAC Troyes 1:0 Tours FC
-[Sam 09. Août]
+[Sam 9. Août]
   13.30  Valenciennes FC 2:2 Nîmes Olympique
   18.00  AC Ajaccio 0:2 FC Sochaux-Montbéliard
 
@@ -135,7 +135,7 @@ Journée 9
 
 Journée 10
 
-[Ven 03. Octo]
+[Ven 3. Oct]
   20.00  AC Ajaccio - Chamois Niortais
   20.00  Angers SCO - US Créteil-Lusitanos
   20.00  AC Arles Avignon - Châteauroux
@@ -149,7 +149,7 @@ Journée 10
 
 Journée 11
 
-[Ven 17. Octo]
+[Ven 17. Oct]
   20.00  AJ Auxerre - AS Nancy-Lorraine
   20.00  Clermont Foot - AC Ajaccio
   20.00  US Créteil-Lusitanos - ESTAC Troyes
@@ -163,7 +163,7 @@ Journée 11
 
 Journée 12
 
-[Ven 24. Octo]
+[Ven 24. Oct]
   20.00  AC Ajaccio - Valenciennes FC
   20.00  Angers SCO - Clermont Foot
   20.00  AC Arles Avignon - Chamois Niortais
@@ -177,7 +177,7 @@ Journée 12
 
 Journée 13
 
-[Ven 31. Octo]
+[Ven 31. Oct]
   20.00  AJ Auxerre - Stade Brestois 29
   20.00  Clermont Foot - Nîmes Olympique
   20.00  US Créteil-Lusitanos - FC Sochaux-Montbéliard
@@ -191,7 +191,7 @@ Journée 13
 
 Journée 14
 
-[Ven 07. Nove]
+[Ven 7. Nov]
   20.00  AC Ajaccio - ESTAC Troyes
   20.00  Angers SCO - Dijon FCO
   20.00  AC Arles Avignon - Valenciennes FC
@@ -205,7 +205,7 @@ Journée 14
 
 Journée 15
 
-[Ven 21. Nove]
+[Ven 21. Nov]
   20.00  AC Ajaccio - Angers SCO
   20.00  AJ Auxerre - Châteauroux
   20.00  Clermont Foot - AC Arles Avignon
@@ -219,7 +219,7 @@ Journée 15
 
 Journée 16
 
-[Ven 28. Nove]
+[Ven 28. Nov]
   20.00  Angers SCO - ESTAC Troyes
   20.00  AC Arles Avignon - Dijon FCO
   20.00  Stade Brestois 29 - US Créteil-Lusitanos
@@ -233,7 +233,7 @@ Journée 16
 
 Journée 17
 
-[Ven 12. Déce]
+[Ven 12. Déc]
   20.00  AC Ajaccio - AS Nancy-Lorraine
   20.00  Clermont Foot - Tours FC
   20.00  US Créteil-Lusitanos - AC Arles Avignon
@@ -247,7 +247,7 @@ Journée 17
 
 Journée 18
 
-[Ven 19. Déce]
+[Ven 19. Déc]
   20.00  AC Arles Avignon - ESTAC Troyes
   20.00  AJ Auxerre - Chamois Niortais
   20.00  Stade Brestois 29 - AC Ajaccio

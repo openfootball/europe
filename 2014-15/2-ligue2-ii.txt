@@ -4,7 +4,7 @@
 
 Journée 19
 
-[Ven 09. Janv]
+[Ven 9. Janv]
   20.00  AC Ajaccio - Nîmes Olympique
   20.00  Angers SCO - AS Nancy-Lorraine
   20.00  Clermont Foot - Stade Lavallois
@@ -60,7 +60,7 @@ Journée 22
 
 Journée 23
 
-[Ven 06. Févr]
+[Ven 6. Févr]
   20.00  AC Ajaccio - Stade Lavallois
   20.00  Angers SCO - Tours FC
   20.00  AC Arles Avignon - Nîmes Olympique
@@ -116,7 +116,7 @@ Journée 26
 
 Journée 27
 
-[Ven 06. Mars]
+[Ven 6. Mars]
   20.00  AC Ajaccio - US Créteil-Lusitanos
   20.00  Angers SCO - Chamois Niortais
   20.00  AC Arles Avignon - AJ Auxerre
@@ -158,7 +158,7 @@ Journée 29
 
 Journée 30
 
-[Ven 03. Avri]
+[Ven 3. Avril]
   20.00  AJ Auxerre - Nîmes Olympique
   20.00  Clermont Foot - Angers SCO
   20.00  US Créteil-Lusitanos - US Orléans
@@ -172,7 +172,7 @@ Journée 30
 
 Journée 31
 
-[Ven 10. Avri]
+[Ven 10. Avril]
   20.00  AC Ajaccio - Dijon FCO
   20.00  Angers SCO - Valenciennes FC
   20.00  AC Arles Avignon - Havre AC
@@ -186,7 +186,7 @@ Journée 31
 
 Journée 32
 
-[Ven 17. Avri]
+[Ven 17. Avril]
   20.00  AJ Auxerre - Tours FC
   20.00  Clermont Foot - US Orléans
   20.00  US Créteil-Lusitanos - AS Nancy-Lorraine
@@ -200,7 +200,7 @@ Journée 32
 
 Journée 33
 
-[Ven 24. Avri]
+[Ven 24. Avril]
   20.00  Angers SCO - AC Ajaccio
   20.00  AC Arles Avignon - Clermont Foot
   20.00  Stade Brestois 29 - Valenciennes FC
@@ -214,7 +214,7 @@ Journée 33
 
 Journée 34
 
-[Mar 28. Avri]
+[Mar 28. Avril]
   20.00  AC Ajaccio - US Orléans
   20.00  AJ Auxerre - Stade Lavallois
   20.00  Clermont Foot - FC Sochaux-Montbéliard
@@ -228,7 +228,7 @@ Journée 34
 
 Journée 35
 
-[Ven 01. Mai]
+[Ven 1. Mai]
   20.00  Angers SCO - US Orléans
   20.00  AC Arles Avignon - US Créteil-Lusitanos
   20.00  AJ Auxerre - GFC Ajaccio
@@ -242,7 +242,7 @@ Journée 35
 
 Journée 36
 
-[Ven 08. Mai]
+[Ven 8. Mai]
   20.00  AC Ajaccio - Stade Brestois 29
   20.00  Angers SCO - FC Sochaux-Montbéliard
   20.00  Clermont Foot - AS Nancy-Lorraine

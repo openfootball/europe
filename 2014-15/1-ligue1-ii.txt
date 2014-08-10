@@ -4,7 +4,7 @@
 
 Journée 19
 
-[Sam 20. Déce]
+[Sam 20. Déc]
   20.00  Girondins de Bordeaux - Olympique Lyonnais
   20.00  SM Caen - SC Bastia
   20.00  RC Lens - OGC Nice
@@ -74,7 +74,7 @@ Journée 23
 
 Journée 24
 
-[Sam 07. Févr]
+[Sam 7. Févr]
   20.00  SC Bastia - FC Metz
   20.00  SM Caen - Toulouse FC
   20.00  Evian TG - Girondins de Bordeaux
@@ -130,7 +130,7 @@ Journée 27
 
 Journée 28
 
-[Sam 07. Mars]
+[Sam 7. Mars]
   20.00  SC Bastia - OGC Nice
   20.00  SM Caen - Girondins de Bordeaux
   20.00  Evian TG - AS Monaco FC
@@ -172,7 +172,7 @@ Journée 30
 
 Journée 31
 
-[Sam 04. Avri]
+[Sam 4. Avril]
   20.00  Girondins de Bordeaux - RC Lens
   20.00  EA Guingamp - Olympique Lyonnais
   20.00  LOSC Lille - Stade de Reims
@@ -186,7 +186,7 @@ Journée 31
 
 Journée 32
 
-[Dim 12. Avri]
+[Dim 12. Avril]
   20.00  Girondins de Bordeaux - Olympique de Marseille
   20.00  SM Caen - AS Monaco FC
   20.00  Evian TG - LOSC Lille
@@ -200,7 +200,7 @@ Journée 32
 
 Journée 33
 
-[Sam 18. Avri]
+[Sam 18. Avril]
   20.00  SC Bastia - Stade de Reims
   20.00  EA Guingamp - Evian TG
   20.00  LOSC Lille - Girondins de Bordeaux
@@ -214,7 +214,7 @@ Journée 33
 
 Journée 34
 
-[Sam 25. Avri]
+[Sam 25. Avril]
   20.00  Girondins de Bordeaux - FC Metz
   20.00  SM Caen - EA Guingamp
   20.00  Evian TG - SC Bastia
@@ -228,7 +228,7 @@ Journée 34
 
 Journée 35
 
-[Sam 02. Mai]
+[Sam 2. Mai]
   20.00  SC Bastia - AS Saint-Etienne
   20.00  EA Guingamp - Stade de Reims
   20.00  LOSC Lille - RC Lens
@@ -242,7 +242,7 @@ Journée 35
 
 Journée 36
 
-[Sam 09. Mai]
+[Sam 9. Mai]
   20.00  Girondins de Bordeaux - FC Nantes
   20.00  SM Caen - Olympique Lyonnais
   20.00  Evian TG - Stade de Reims

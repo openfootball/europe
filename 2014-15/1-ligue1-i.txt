@@ -4,9 +4,9 @@
 
 Journée 1
 
-[Ven 08. Août]
+[Ven 8. Août]
   20.30  Stade de Reims 2:2 Paris SG
-[Sam 09. Août]
+[Sam 9. Août]
   21.00  SC Bastia 3:3 Olympique de Marseille
   21.00  Evian TG 0:3 SM Caen
   21.00  EA Guingamp 0:2 AS Saint-Etienne
@@ -122,7 +122,7 @@ Journée 8
 
 Journée 9
 
-[Sam 04. Octo]
+[Sam 4. Oct]
   20.00  SC Bastia - FC Lorient
   20.00  SM Caen - Olympique de Marseille
   20.00  Evian TG - FC Metz
@@ -132,12 +132,12 @@ Journée 9
   20.00  Stade de Reims - Girondins de Bordeaux
   20.00  Stade Rennais FC - RC Lens
   20.00  AS Saint-Etienne - Toulouse FC
-[Dim 05. Octo]
+[Dim 5. Oct]
   21.00  Paris SG - AS Monaco FC
 
 Journée 10
 
-[Sam 18. Octo]
+[Sam 18. Oct]
   20.00  Girondins de Bordeaux - SM Caen
   20.00  RC Lens - Paris SG
   20.00  LOSC Lille - EA Guingamp
@@ -151,9 +151,9 @@ Journée 10
 
 Journée 11
 
-[Mar 21. Octo]
+[Mar 21. Oct]
   21.00  Olympique Lyonnais - Olympique de Marseille
-[Sam 25. Octo]
+[Sam 25. Oct]
   20.00  SC Bastia - AS Monaco FC
   20.00  SM Caen - FC Lorient
   20.00  Evian TG - FC Nantes
@@ -166,7 +166,7 @@ Journée 11
 
 Journée 12
 
-[Sam 01. Nove]
+[Sam 1. Nov]
   20.00  Girondins de Bordeaux - Toulouse FC
   20.00  EA Guingamp - SC Bastia
   20.00  LOSC Lille - AS Saint-Etienne
@@ -180,7 +180,7 @@ Journée 12
 
 Journée 13
 
-[Sam 08. Nove]
+[Sam 8. Nov]
   20.00  SC Bastia - Montpellier Hérault SC
   20.00  SM Caen - FC Nantes
   20.00  Evian TG - OGC Nice
@@ -190,12 +190,12 @@ Journée 13
   20.00  Stade Rennais FC - FC Lorient
   20.00  AS Saint-Etienne - AS Monaco FC
   20.00  Toulouse FC - FC Metz
-[Dim 09. Nove]
+[Dim 9. Nov]
   21.00  Paris SG - Olympique de Marseille
 
 Journée 14
 
-[Sam 22. Nove]
+[Sam 22. Nov]
   20.00  SC Bastia - Olympique Lyonnais
   20.00  EA Guingamp - Stade Rennais FC
   20.00  LOSC Lille - Evian TG
@@ -209,7 +209,7 @@ Journée 14
 
 Journée 15
 
-[Sam 29. Nove]
+[Sam 29. Nov]
   20.00  Girondins de Bordeaux - LOSC Lille
   20.00  SM Caen - Montpellier Hérault SC
   20.00  Evian TG - EA Guingamp
@@ -224,7 +224,7 @@ Journée 15
 
 Journée 16
 
-[Mer 03. Déce]
+[Mer 3. Déc]
   20.00  SC Bastia - Evian TG
   20.00  EA Guingamp - SM Caen
   20.00  LOSC Lille - Paris SG
@@ -238,7 +238,7 @@ Journée 16
 
 Journée 17
 
-[Sam 06. Déce]
+[Sam 6. Déc]
   20.00  Girondins de Bordeaux - FC Lorient
   20.00  SM Caen - OGC Nice
   20.00  Evian TG - Olympique Lyonnais
@@ -252,7 +252,7 @@ Journée 17
 
 Journée 18
 
-[Sam 13. Déce]
+[Sam 13. Déc]
   20.00  SC Bastia - Stade Rennais FC
   20.00  EA Guingamp - Paris SG
   20.00  LOSC Lille - Toulouse FC
@@ -262,5 +262,5 @@ Journée 18
   20.00  FC Nantes - Girondins de Bordeaux
   20.00  OGC Nice - AS Saint-Etienne
   20.00  Stade de Reims - Evian TG
-[Dim 14. Déce]
+[Dim 14. Déc]
   21.00  AS Monaco FC - Olympique de Marseille
