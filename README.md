@@ -1,10 +1,10 @@
-# France (incl. Monaco)
+# France (incl. Monaco) - Ligue 1, Ligue 2
+
 
 ## What's `football.db`?
 
-A free open public domain football (soccer) database & schema
-for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+A free open public domain football database & schema
+for use in any (programming) language (e.g. uses plain text data sets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
@@ -20,12 +20,12 @@ Free open public domain football data for France (incl. Monaco) / Europe. Events
 Example:
 
 ~~~
-### Ligue 1 Teams
+### Ligue 1 Clubs
 
-paris,        Paris St. Germain|Paris Saint-Germain, PSG,    city:paris
-montpellier,  HSC Montpellier|Montpellier Hérault SC,  MHS,  city:montpellier
-lille,        OSC Lille|Lille OSC|LOSC Lille,    LIL,        city:lille
-marseille,    Marseille|Olympique Marseille,  OM,   city:marseille
+paris,        Paris St. Germain|Paris Saint-Germain, PSG
+montpellier,  HSC Montpellier|Montpellier Hérault SC,  MHS
+lille,        OSC Lille|Lille OSC|LOSC Lille,    LIL
+marseille,    Marseille|Olympique Marseille,  OM
 ...
 ~~~
 
@@ -34,27 +34,39 @@ marseille,    Marseille|Olympique Marseille,  OM,   city:marseille
 
 Journée 1
 
-[Ven 8. Août]
-  20.30  Stade de Reims   2:2   Paris SG
-[Sam 9. Août]
-  21.00  SC Bastia    3:3   Olympique de Marseille
-  21.00  Evian TG     0:3   SM Caen
-  21.00  EA Guingamp  0:2   AS Saint-Etienne
-  21.00  LOSC Lille   0:0   FC Metz
-  21.00  Montpellier Hérault SC  0:1  Girondins de Bordeaux
-  21.00  FC Nantes    1:0   RC Lens
-  21.00  OGC Nice     3:2   Toulouse FC
-[Dim 10. Août]
-  17.00  Olympique Lyonnais  -  Stade Rennais FC
-  21.00  AS Monaco FC  -  FC Lorient
+[Ven 8 Août]
+  20h30  Stade de Reims      2-2  Paris SG
+[Sam 9 Août]
+  21h00  SC Bastia           3-3  Olympique de Marseille
+  21h00  Evian TG            0-3  SM Caen
+  21h00  EA Guingamp         0-2  AS Saint-Etienne
+  21h00  LOSC Lille          0-0  FC Metz
+  21h00  HSC Montpellier     0-1  Girondins de Bordeaux
+  21h00  FC Nantes           1-0  RC Lens
+  21h00  OGC Nice            3-2  Toulouse FC
+[Dim 10 Août]
+  17h00  Olympique Lyonnais  2-0  Stade Rennais FC
+  21h00  AS Monaco FC        1-2  FC Lorient
 ~~~
 
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `france.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
+Use the `sportdb` command line tool to build your own `france.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+
+
+### Examples
+
+Build the database for all French clubs, leagues and seasons:
+
+    $ rake build DATA=fr
+
+Build the database for the 2014/15 season:
+
+    $ rake build DATA=fr_2014_15
+
 
 
 ## Questions? Comments?
