@@ -54,7 +54,7 @@ Journée 1
 ## Build Your Own `france.db` Copy
 
 Use the `sportdb` command line tool to build your own `france.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text datasets. [More »](http://openfootball.github.io/build.html)
 
 
 ### Examples
