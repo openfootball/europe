@@ -1,283 +1,283 @@
 ﻿#####################################
-# Ligue 1 2014/15
+# Ligue 1 2014/15 - Matches Retour
 
 
 Journée 19
 
 [Sam 20. Déc]
-  20.00  Girondins de Bordeaux - Olympique Lyonnais
-  20.00  SM Caen - SC Bastia
-  20.00  RC Lens - OGC Nice
-  20.00  FC Lorient - FC Nantes
-  20.00  Olympique de Marseille - LOSC Lille
-  20.00  FC Metz - AS Monaco FC
-  20.00  Paris SG - Montpellier Hérault SC
-  20.00  Stade Rennais FC - Stade de Reims
-  20.00  AS Saint-Etienne - Evian TG
-  20.00  Toulouse FC - EA Guingamp
+  20h00  Girondins de Bordeaux - Olympique Lyonnais
+  20h00  SM Caen - SC Bastia
+  20h00  RC Lens - OGC Nice
+  20h00  FC Lorient - FC Nantes
+  20h00  Olympique de Marseille - LOSC Lille
+  20h00  FC Metz - AS Monaco FC
+  20h00  Paris SG - Montpellier Hérault SC
+  20h00  Stade Rennais FC - Stade de Reims
+  20h00  AS Saint-Étienne - Évian TG
+  20h00  Toulouse FC - EA Guingamp
 
 Journée 20
 
 [Sam 10. Janv]
-  20.00  SC Bastia - Paris SG
-  20.00  Evian TG - Stade Rennais FC
-  20.00  EA Guingamp - RC Lens
-  20.00  LOSC Lille - SM Caen
-  20.00  Olympique Lyonnais - Toulouse FC
-  20.00  AS Monaco FC - Girondins de Bordeaux
-  20.00  Montpellier Hérault SC - Olympique de Marseille
-  20.00  FC Nantes - FC Metz
-  20.00  OGC Nice - FC Lorient
-  20.00  Stade de Reims - AS Saint-Etienne
+  20h00  SC Bastia - Paris SG
+  20h00  Évian TG - Stade Rennais FC
+  20h00  EA Guingamp - RC Lens
+  20h00  LOSC Lille - SM Caen
+  20h00  Olympique Lyonnais - Toulouse FC
+  20h00  AS Monaco FC - Girondins de Bordeaux
+  20h00  Montpellier Hérault SC - Olympique de Marseille
+  20h00  FC Nantes - FC Metz
+  20h00  OGC Nice - FC Lorient
+  20h00  Stade de Reims - AS Saint-Étienne
 
 Journée 21
 
 [Sam 17. Janv]
-  20.00  Girondins de Bordeaux - OGC Nice
-  20.00  SM Caen - Stade de Reims
-  20.00  RC Lens - Olympique Lyonnais
-  20.00  FC Lorient - LOSC Lille
-  20.00  Olympique de Marseille - EA Guingamp
-  20.00  FC Metz - Montpellier Hérault SC
-  20.00  AS Monaco FC - FC Nantes
-  20.00  Paris SG - Evian TG
-  20.00  Stade Rennais FC - AS Saint-Etienne
-  20.00  Toulouse FC - SC Bastia
+  20h00  Girondins de Bordeaux - OGC Nice
+  20h00  SM Caen - Stade de Reims
+  20h00  RC Lens - Olympique Lyonnais
+  20h00  FC Lorient - LOSC Lille
+  20h00  Olympique de Marseille - EA Guingamp
+  20h00  FC Metz - Montpellier Hérault SC
+  20h00  AS Monaco FC - FC Nantes
+  20h00  Paris SG - Évian TG
+  20h00  Stade Rennais FC - AS Saint-Étienne
+  20h00  Toulouse FC - SC Bastia
 
 Journée 22
 
 [Sam 24. Janv]
-  20.00  SC Bastia - Girondins de Bordeaux
-  20.00  Evian TG - Toulouse FC
-  20.00  EA Guingamp - FC Lorient
-  20.00  LOSC Lille - AS Monaco FC
-  20.00  Olympique Lyonnais - FC Metz
-  20.00  Montpellier Hérault SC - FC Nantes
-  20.00  OGC Nice - Olympique de Marseille
-  20.00  Stade de Reims - RC Lens
-  20.00  Stade Rennais FC - SM Caen
-  20.00  AS Saint-Etienne - Paris SG
+  20h00  SC Bastia - Girondins de Bordeaux
+  20h00  Évian TG - Toulouse FC
+  20h00  EA Guingamp - FC Lorient
+  20h00  LOSC Lille - AS Monaco FC
+  20h00  Olympique Lyonnais - FC Metz
+  20h00  Montpellier Hérault SC - FC Nantes
+  20h00  OGC Nice - Olympique de Marseille
+  20h00  Stade de Reims - RC Lens
+  20h00  Stade Rennais FC - SM Caen
+  20h00  AS Saint-Étienne - Paris SG
 
 Journée 23
 
 [Sam 31. Janv]
-  20.00  Girondins de Bordeaux - EA Guingamp
-  20.00  SM Caen - AS Saint-Etienne
-  20.00  RC Lens - SC Bastia
-  20.00  FC Lorient - Montpellier Hérault SC
-  20.00  Olympique de Marseille - Evian TG
-  20.00  FC Metz - OGC Nice
-  20.00  AS Monaco FC - Olympique Lyonnais
-  20.00  FC Nantes - LOSC Lille
-  20.00  Paris SG - Stade Rennais FC
-  20.00  Toulouse FC - Stade de Reims
+  20h00  Girondins de Bordeaux - EA Guingamp
+  20h00  SM Caen - AS Saint-Étienne
+  20h00  RC Lens - SC Bastia
+  20h00  FC Lorient - Montpellier Hérault SC
+  20h00  Olympique de Marseille - Évian TG
+  20h00  FC Metz - OGC Nice
+  20h00  AS Monaco FC - Olympique Lyonnais
+  20h00  FC Nantes - LOSC Lille
+  20h00  Paris SG - Stade Rennais FC
+  20h00  Toulouse FC - Stade de Reims
 
 Journée 24
 
 [Sam 7. Févr]
-  20.00  SC Bastia - FC Metz
-  20.00  SM Caen - Toulouse FC
-  20.00  Evian TG - Girondins de Bordeaux
-  20.00  EA Guingamp - AS Monaco FC
-  20.00  Olympique Lyonnais - Paris SG
-  20.00  Montpellier Hérault SC - LOSC Lille
-  20.00  OGC Nice - FC Nantes
-  20.00  Stade de Reims - FC Lorient
-  20.00  Stade Rennais FC - Olympique de Marseille
-  20.00  AS Saint-Etienne - RC Lens
+  20h00  SC Bastia - FC Metz
+  20h00  SM Caen - Toulouse FC
+  20h00  Évian TG - Girondins de Bordeaux
+  20h00  EA Guingamp - AS Monaco FC
+  20h00  Olympique Lyonnais - Paris SG
+  20h00  Montpellier Hérault SC - LOSC Lille
+  20h00  OGC Nice - FC Nantes
+  20h00  Stade de Reims - FC Lorient
+  20h00  Stade Rennais FC - Olympique de Marseille
+  20h00  AS Saint-Étienne - RC Lens
 
 Journée 25
 
 [Sam 14. Févr]
-  20.00  Girondins de Bordeaux - AS Saint-Etienne
-  20.00  RC Lens - Evian TG
-  20.00  LOSC Lille - OGC Nice
-  20.00  FC Lorient - Olympique Lyonnais
-  20.00  Olympique de Marseille - Stade de Reims
-  20.00  FC Metz - EA Guingamp
-  20.00  AS Monaco FC - Montpellier Hérault SC
-  20.00  FC Nantes - SC Bastia
-  20.00  Paris SG - SM Caen
-  20.00  Toulouse FC - Stade Rennais FC
+  20h00  Girondins de Bordeaux - AS Saint-Étienne
+  20h00  RC Lens - Évian TG
+  20h00  LOSC Lille - OGC Nice
+  20h00  FC Lorient - Olympique Lyonnais
+  20h00  Olympique de Marseille - Stade de Reims
+  20h00  FC Metz - EA Guingamp
+  20h00  AS Monaco FC - Montpellier Hérault SC
+  20h00  FC Nantes - SC Bastia
+  20h00  Paris SG - SM Caen
+  20h00  Toulouse FC - Stade Rennais FC
 
 Journée 26
 
 [Sam 21. Févr]
-  20.00  SC Bastia - LOSC Lille
-  20.00  SM Caen - RC Lens
-  20.00  Evian TG - FC Lorient
-  20.00  EA Guingamp - Montpellier Hérault SC
-  20.00  Olympique Lyonnais - FC Nantes
-  20.00  OGC Nice - AS Monaco FC
-  20.00  Paris SG - Toulouse FC
-  20.00  Stade de Reims - FC Metz
-  20.00  Stade Rennais FC - Girondins de Bordeaux
-  20.00  AS Saint-Etienne - Olympique de Marseille
+  20h00  SC Bastia - LOSC Lille
+  20h00  SM Caen - RC Lens
+  20h00  Évian TG - FC Lorient
+  20h00  EA Guingamp - Montpellier Hérault SC
+  20h00  Olympique Lyonnais - FC Nantes
+  20h00  OGC Nice - AS Monaco FC
+  20h00  Paris SG - Toulouse FC
+  20h00  Stade de Reims - FC Metz
+  20h00  Stade Rennais FC - Girondins de Bordeaux
+  20h00  AS Saint-Étienne - Olympique de Marseille
 
 Journée 27
 
 [Sam 28. Févr]
-  20.00  Girondins de Bordeaux - Stade de Reims
-  20.00  RC Lens - Stade Rennais FC
-  20.00  LOSC Lille - Olympique Lyonnais
-  20.00  FC Lorient - SC Bastia
-  20.00  Olympique de Marseille - SM Caen
-  20.00  FC Metz - Evian TG
-  20.00  AS Monaco FC - Paris SG
-  20.00  Montpellier Hérault SC - OGC Nice
-  20.00  FC Nantes - EA Guingamp
-  20.00  Toulouse FC - AS Saint-Etienne
+  20h00  Girondins de Bordeaux - Stade de Reims
+  20h00  RC Lens - Stade Rennais FC
+  20h00  LOSC Lille - Olympique Lyonnais
+  20h00  FC Lorient - SC Bastia
+  20h00  Olympique de Marseille - SM Caen
+  20h00  FC Metz - Évian TG
+  20h00  AS Monaco FC - Paris SG
+  20h00  Montpellier Hérault SC - OGC Nice
+  20h00  FC Nantes - EA Guingamp
+  20h00  Toulouse FC - AS Saint-Étienne
 
 Journée 28
 
 [Sam 7. Mars]
-  20.00  SC Bastia - OGC Nice
-  20.00  SM Caen - Girondins de Bordeaux
-  20.00  Evian TG - AS Monaco FC
-  20.00  EA Guingamp - LOSC Lille
-  20.00  Olympique Lyonnais - Montpellier Hérault SC
-  20.00  Paris SG - RC Lens
-  20.00  Stade de Reims - FC Nantes
-  20.00  Stade Rennais FC - FC Metz
-  20.00  AS Saint-Etienne - FC Lorient
-  20.00  Toulouse FC - Olympique de Marseille
+  20h00  SC Bastia - OGC Nice
+  20h00  SM Caen - Girondins de Bordeaux
+  20h00  Évian TG - AS Monaco FC
+  20h00  EA Guingamp - LOSC Lille
+  20h00  Olympique Lyonnais - Montpellier Hérault SC
+  20h00  Paris SG - RC Lens
+  20h00  Stade de Reims - FC Nantes
+  20h00  Stade Rennais FC - FC Metz
+  20h00  AS Saint-Étienne - FC Lorient
+  20h00  Toulouse FC - Olympique de Marseille
 
 Journée 29
 
 [Sam 14. Mars]
-  20.00  Girondins de Bordeaux - Paris SG
-  20.00  RC Lens - Toulouse FC
-  20.00  LOSC Lille - Stade Rennais FC
-  20.00  FC Lorient - SM Caen
-  20.00  Olympique de Marseille - Olympique Lyonnais
-  20.00  FC Metz - AS Saint-Etienne
-  20.00  AS Monaco FC - SC Bastia
-  20.00  Montpellier Hérault SC - Stade de Reims
-  20.00  FC Nantes - Evian TG
-  20.00  OGC Nice - EA Guingamp
+  20h00  Girondins de Bordeaux - Paris SG
+  20h00  RC Lens - Toulouse FC
+  20h00  LOSC Lille - Stade Rennais FC
+  20h00  FC Lorient - SM Caen
+  20h00  Olympique de Marseille - Olympique Lyonnais
+  20h00  FC Metz - AS Saint-Étienne
+  20h00  AS Monaco FC - SC Bastia
+  20h00  Montpellier Hérault SC - Stade de Reims
+  20h00  FC Nantes - Évian TG
+  20h00  OGC Nice - EA Guingamp
 
 Journée 30
 
 [Sam 21. Mars]
-  20.00  SC Bastia - EA Guingamp
-  20.00  SM Caen - FC Metz
-  20.00  Evian TG - Montpellier Hérault SC
-  20.00  RC Lens - Olympique de Marseille
-  20.00  Olympique Lyonnais - OGC Nice
-  20.00  Paris SG - FC Lorient
-  20.00  Stade de Reims - AS Monaco FC
-  20.00  Stade Rennais FC - FC Nantes
-  20.00  AS Saint-Etienne - LOSC Lille
-  20.00  Toulouse FC - Girondins de Bordeaux
+  20h00  SC Bastia - EA Guingamp
+  20h00  SM Caen - FC Metz
+  20h00  Évian TG - Montpellier Hérault SC
+  20h00  RC Lens - Olympique de Marseille
+  20h00  Olympique Lyonnais - OGC Nice
+  20h00  Paris SG - FC Lorient
+  20h00  Stade de Reims - AS Monaco FC
+  20h00  Stade Rennais FC - FC Nantes
+  20h00  AS Saint-Étienne - LOSC Lille
+  20h00  Toulouse FC - Girondins de Bordeaux
 
 Journée 31
 
 [Sam 4. Avril]
-  20.00  Girondins de Bordeaux - RC Lens
-  20.00  EA Guingamp - Olympique Lyonnais
-  20.00  LOSC Lille - Stade de Reims
-  20.00  FC Lorient - Stade Rennais FC
-  20.00  Olympique de Marseille - Paris SG
-  20.00  FC Metz - Toulouse FC
-  20.00  AS Monaco FC - AS Saint-Etienne
-  20.00  Montpellier Hérault SC - SC Bastia
-  20.00  FC Nantes - SM Caen
-  20.00  OGC Nice - Evian TG
+  20h00  Girondins de Bordeaux - RC Lens
+  20h00  EA Guingamp - Olympique Lyonnais
+  20h00  LOSC Lille - Stade de Reims
+  20h00  FC Lorient - Stade Rennais FC
+  20h00  Olympique de Marseille - Paris SG
+  20h00  FC Metz - Toulouse FC
+  20h00  AS Monaco FC - AS Saint-Étienne
+  20h00  Montpellier Hérault SC - SC Bastia
+  20h00  FC Nantes - SM Caen
+  20h00  OGC Nice - Évian TG
 
 Journée 32
 
 [Dim 12. Avril]
-  20.00  Girondins de Bordeaux - Olympique de Marseille
-  20.00  SM Caen - AS Monaco FC
-  20.00  Evian TG - LOSC Lille
-  20.00  RC Lens - FC Lorient
-  20.00  Olympique Lyonnais - SC Bastia
-  20.00  Paris SG - FC Metz
-  20.00  Stade de Reims - OGC Nice
-  20.00  Stade Rennais FC - EA Guingamp
-  20.00  AS Saint-Etienne - FC Nantes
-  20.00  Toulouse FC - Montpellier Hérault SC
+  20h00  Girondins de Bordeaux - Olympique de Marseille
+  20h00  SM Caen - AS Monaco FC
+  20h00  Évian TG - LOSC Lille
+  20h00  RC Lens - FC Lorient
+  20h00  Olympique Lyonnais - SC Bastia
+  20h00  Paris SG - FC Metz
+  20h00  Stade de Reims - OGC Nice
+  20h00  Stade Rennais FC - EA Guingamp
+  20h00  AS Saint-Étienne - FC Nantes
+  20h00  Toulouse FC - Montpellier Hérault SC
 
 Journée 33
 
 [Sam 18. Avril]
-  20.00  SC Bastia - Stade de Reims
-  20.00  EA Guingamp - Evian TG
-  20.00  LOSC Lille - Girondins de Bordeaux
-  20.00  FC Lorient - Toulouse FC
-  20.00  Olympique Lyonnais - AS Saint-Etienne
-  20.00  FC Metz - RC Lens
-  20.00  AS Monaco FC - Stade Rennais FC
-  20.00  Montpellier Hérault SC - SM Caen
-  20.00  FC Nantes - Olympique de Marseille
-  20.00  OGC Nice - Paris SG
+  20h00  SC Bastia - Stade de Reims
+  20h00  EA Guingamp - Évian TG
+  20h00  LOSC Lille - Girondins de Bordeaux
+  20h00  FC Lorient - Toulouse FC
+  20h00  Olympique Lyonnais - AS Saint-Étienne
+  20h00  FC Metz - RC Lens
+  20h00  AS Monaco FC - Stade Rennais FC
+  20h00  Montpellier Hérault SC - SM Caen
+  20h00  FC Nantes - Olympique de Marseille
+  20h00  OGC Nice - Paris SG
 
 Journée 34
 
 [Sam 25. Avril]
-  20.00  Girondins de Bordeaux - FC Metz
-  20.00  SM Caen - EA Guingamp
-  20.00  Evian TG - SC Bastia
-  20.00  RC Lens - AS Monaco FC
-  20.00  Olympique de Marseille - FC Lorient
-  20.00  Paris SG - LOSC Lille
-  20.00  Stade de Reims - Olympique Lyonnais
-  20.00  Stade Rennais FC - OGC Nice
-  20.00  AS Saint-Etienne - Montpellier Hérault SC
-  20.00  Toulouse FC - FC Nantes
+  20h00  Girondins de Bordeaux - FC Metz
+  20h00  SM Caen - EA Guingamp
+  20h00  Évian TG - SC Bastia
+  20h00  RC Lens - AS Monaco FC
+  20h00  Olympique de Marseille - FC Lorient
+  20h00  Paris SG - LOSC Lille
+  20h00  Stade de Reims - Olympique Lyonnais
+  20h00  Stade Rennais FC - OGC Nice
+  20h00  AS Saint-Étienne - Montpellier Hérault SC
+  20h00  Toulouse FC - FC Nantes
 
 Journée 35
 
 [Sam 2. Mai]
-  20.00  SC Bastia - AS Saint-Etienne
-  20.00  EA Guingamp - Stade de Reims
-  20.00  LOSC Lille - RC Lens
-  20.00  FC Lorient - Girondins de Bordeaux
-  20.00  Olympique Lyonnais - Evian TG
-  20.00  FC Metz - Olympique de Marseille
-  20.00  AS Monaco FC - Toulouse FC
-  20.00  Montpellier Hérault SC - Stade Rennais FC
-  20.00  FC Nantes - Paris SG
-  20.00  OGC Nice - SM Caen
+  20h00  SC Bastia - AS Saint-Étienne
+  20h00  EA Guingamp - Stade de Reims
+  20h00  LOSC Lille - RC Lens
+  20h00  FC Lorient - Girondins de Bordeaux
+  20h00  Olympique Lyonnais - Évian TG
+  20h00  FC Metz - Olympique de Marseille
+  20h00  AS Monaco FC - Toulouse FC
+  20h00  Montpellier Hérault SC - Stade Rennais FC
+  20h00  FC Nantes - Paris SG
+  20h00  OGC Nice - SM Caen
 
 Journée 36
 
 [Sam 9. Mai]
-  20.00  Girondins de Bordeaux - FC Nantes
-  20.00  SM Caen - Olympique Lyonnais
-  20.00  Evian TG - Stade de Reims
-  20.00  RC Lens - Montpellier Hérault SC
-  20.00  Olympique de Marseille - AS Monaco FC
-  20.00  FC Metz - FC Lorient
-  20.00  Paris SG - EA Guingamp
-  20.00  Stade Rennais FC - SC Bastia
-  20.00  AS Saint-Etienne - OGC Nice
-  20.00  Toulouse FC - LOSC Lille
+  20h00  Girondins de Bordeaux - FC Nantes
+  20h00  SM Caen - Olympique Lyonnais
+  20h00  Évian TG - Stade de Reims
+  20h00  RC Lens - Montpellier Hérault SC
+  20h00  Olympique de Marseille - AS Monaco FC
+  20h00  FC Metz - FC Lorient
+  20h00  Paris SG - EA Guingamp
+  20h00  Stade Rennais FC - SC Bastia
+  20h00  AS Saint-Étienne - OGC Nice
+  20h00  Toulouse FC - LOSC Lille
 
 Journée 37
 
 [Sam 16. Mai]
-  20.00  SC Bastia - SM Caen
-  20.00  Evian TG - AS Saint-Etienne
-  20.00  EA Guingamp - Toulouse FC
-  20.00  LOSC Lille - Olympique de Marseille
-  20.00  Olympique Lyonnais - Girondins de Bordeaux
-  20.00  AS Monaco FC - FC Metz
-  20.00  Montpellier Hérault SC - Paris SG
-  20.00  FC Nantes - FC Lorient
-  20.00  OGC Nice - RC Lens
-  20.00  Stade de Reims - Stade Rennais FC
+  20h00  SC Bastia - SM Caen
+  20h00  Évian TG - AS Saint-Étienne
+  20h00  EA Guingamp - Toulouse FC
+  20h00  LOSC Lille - Olympique de Marseille
+  20h00  Olympique Lyonnais - Girondins de Bordeaux
+  20h00  AS Monaco FC - FC Metz
+  20h00  Montpellier Hérault SC - Paris SG
+  20h00  FC Nantes - FC Lorient
+  20h00  OGC Nice - RC Lens
+  20h00  Stade de Reims - Stade Rennais FC
 
 Journée 38
 
 [Sam 23. Mai]
-  20.00  Girondins de Bordeaux - Montpellier Hérault SC
-  20.00  SM Caen - Evian TG
-  20.00  RC Lens - FC Nantes
-  20.00  FC Lorient - AS Monaco FC
-  20.00  Olympique de Marseille - SC Bastia
-  20.00  FC Metz - LOSC Lille
-  20.00  Paris SG - Stade de Reims
-  20.00  Stade Rennais FC - Olympique Lyonnais
-  20.00  AS Saint-Etienne - EA Guingamp
-  20.00  Toulouse FC - OGC Nice
+  20h00  Girondins de Bordeaux - Montpellier Hérault SC
+  20h00  SM Caen - Évian TG
+  20h00  RC Lens - FC Nantes
+  20h00  FC Lorient - AS Monaco FC
+  20h00  Olympique de Marseille - SC Bastia
+  20h00  FC Metz - LOSC Lille
+  20h00  Paris SG - Stade de Reims
+  20h00  Stade Rennais FC - Olympique Lyonnais
+  20h00  AS Saint-Étienne - EA Guingamp
+  20h00  Toulouse FC - OGC Nice
