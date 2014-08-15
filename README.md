@@ -4,7 +4,7 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language (e.g. uses plain text data sets).
+for use in any (programming) language (e.g. uses plain text datasets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
@@ -38,8 +38,8 @@ Journée 1
   20h30  Stade de Reims      2-2  Paris SG
 [Sam 9 Août]
   21h00  SC Bastia           3-3  Olympique de Marseille
-  21h00  Evian TG            0-3  SM Caen
-  21h00  EA Guingamp         0-2  AS Saint-Etienne
+  21h00  Évian TG            0-3  SM Caen
+  21h00  EA Guingamp         0-2  AS Saint-Étienne
   21h00  LOSC Lille          0-0  FC Metz
   21h00  HSC Montpellier     0-1  Girondins de Bordeaux
   21h00  FC Nantes           1-0  RC Lens
