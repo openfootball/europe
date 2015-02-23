@@ -117,158 +117,175 @@ Journée 7
 Journée 8
 
 [Sam 27. Sept]
-  20h00  Girondins de Bordeaux - Stade Rennais FC
-  20h00  RC Lens - SM Caen
-  20h00  LOSC Lille - SC Bastia
-  20h00  FC Lorient - Évian TG
-  20h00  Olympique de Marseille - AS Saint-Étienne
-  20h00  FC Metz - Stade de Reims
-  20h00  AS Monaco FC - OGC Nice
-  20h00  Montpellier Hérault SC - EA Guingamp
-  20h00  FC Nantes - Olympique Lyonnais
-  20h00  Toulouse FC - Paris SG
+  14h00  AS Monaco FC 0-1 OGC Nice
+  17h00  Toulouse FC 1-1 Paris SG
+  20h00  LOSC Lille 1-0 SC Bastia
+  20h00  FC Lorient 0-2 Évian TG
+  20h00  FC Metz 3-0 Stade de Reims
+  20h00  Montpellier Hérault SC 2-1 EA Guingamp
+[Dim 28. Sept]
+  14h00  Girondins de Bordeaux 2-1 Stade Rennais FC
+  17h00  RC Lens 0-0 SM Caen
+  17h00  FC Nantes 1-1 Olympique Lyonnais
+  21h00  Olympique de Marseille 2-1 AS Saint-Étienne
 
 Journée 9
 
+[Vend 3. Oct]
+  20h30  Stade de Reims 1-0 Girondins de Bordeaux
 [Sam 4. Oct]
-  20h00  SC Bastia - FC Lorient
-  20h00  SM Caen - Olympique de Marseille
-  20h00  Évian TG - FC Metz
-  20h00  EA Guingamp - FC Nantes
-  20h00  Olympique Lyonnais - LOSC Lille
-  20h00  OGC Nice - Montpellier Hérault SC
-  20h00  Stade de Reims - Girondins de Bordeaux
-  20h00  Stade Rennais FC - RC Lens
-  20h00  AS Saint-Étienne - Toulouse FC
+  17h00  SM Caen 1-2 Olympique de Marseille
+  20h00  SC Bastia 0-2 FC Lorient
+  20h00  Évian TG 3-0 FC Metz
+  20h00  OGC Nice 1-1 Montpellier Hérault SC
+  20h00  Stade Rennais FC 2-0 RC Lens
 [Dim 5. Oct]
-  21h00  Paris SG - AS Monaco FC
+  14h00  AS Saint-Étienne 0-1 Toulouse FC
+  17h00  EA Guingamp 0-1 FC Nantes
+  17h00  Olympique Lyonnais 3-0 LOSC Lille
+  21h00  Paris SG 1-1 AS Monaco FC
 
 Journée 10
 
+[Ven 17. Oct]
+  20h30  RC Lens 1-3 Paris SG
 [Sam 18. Oct]
-  20h00  Girondins de Bordeaux - SM Caen
-  20h00  RC Lens - Paris SG
-  20h00  LOSC Lille - EA Guingamp
-  20h00  FC Lorient - AS Saint-Étienne
-  20h00  Olympique de Marseille - Toulouse FC
-  20h00  FC Metz - Stade Rennais FC
-  20h00  AS Monaco FC - Évian TG
-  20h00  Montpellier Hérault SC - Olympique Lyonnais
-  20h00  FC Nantes - Stade de Reims
-  20h00  OGC Nice - SC Bastia
+  17h00  FC Lorient 0-1 AS Saint-Étienne
+  20h00  LOSC Lille 1-2 EA Guingamp
+  20h00  FC Metz 0-0 Stade Rennais FC
+  20h00  AS Monaco FC 2-0 Évian TG
+  20h00  FC Nantes 1-1 Stade de Reims
+  20h00  OGC Nice 0-1 SC Bastia
+[Dim 19. Oct]
+  14h00  Olympique de Marseille - Toulouse FC
+  17h00  Girondins de Bordeaux 1-1 SM Caen
+  21h00  Olympique Lyonnais 5-1 Montpellier Hérault SC  
 
 Journée 11
 
-[Mar 21. Oct]
-  21h00  Olympique Lyonnais - Olympique de Marseille
+[Ven 24. Oct]
+  20h30  Toulouse FC 0-2 RC Lens
 [Sam 25. Oct]
-  20h00  SC Bastia - AS Monaco FC
-  20h00  SM Caen - FC Lorient
-  20h00  Évian TG - FC Nantes
-  20h00  EA Guingamp - OGC Nice
-  20h00  Paris SG - Girondins de Bordeaux
-  20h00  Stade de Reims - Montpellier Hérault SC
-  20h00  Stade Rennais FC - LOSC Lille
-  20h00  AS Saint-Étienne - FC Metz
-  20h00  Toulouse FC - RC Lens
+  17h00  Paris SG 3-0 Girondins de Bordeaux
+  20h00  SC Bastia 1-3 AS Monaco FC
+  20h00  SM Caen 2-1 FC Lorient
+  20h00  Évian TG 0-2 FC Nantes
+  20h00  Stade de Reims 1-0 Montpellier Hérault SC
+[Dim 26. Oct]
+  14h00  Stade Rennais FC 2-0 LOSC Lille
+  17h00  EA Guingamp 2-7 OGC Nice
+  17h00  AS Saint-Étienne 1-0 FC Metz
+  21h00  Olympique Lyonnais 1-0 Olympique de Marseille
 
 Journée 12
 
+[Ven 24. Oct]
+  20h30  AS Monaco FC 1-1 Stade de Reims
 [Sam 1. Nov]
-  20h00  Girondins de Bordeaux - Toulouse FC
-  20h00  EA Guingamp - SC Bastia
-  20h00  LOSC Lille - AS Saint-Étienne
-  20h00  FC Lorient - Paris SG
-  20h00  Olympique de Marseille - RC Lens
-  20h00  FC Metz - SM Caen
-  20h00  AS Monaco FC - Stade de Reims
-  20h00  Montpellier Hérault SC - Évian TG
-  20h00  FC Nantes - Stade Rennais FC
-  20h00  OGC Nice - Olympique Lyonnais
+  17h00  FC Lorient 1-2 Paris SG
+  20h00  EA Guingamp 1-0 SC Bastia
+  20h00  LOSC Lille 1-1 AS Saint-Étienne
+  20h00  FC Metz 3-2 SM Caen
+  20h00  Montpellier Hérault SC 2-0 Évian TG
+  20h00  OGC Nice 1-3 Olympique Lyonnais
+[Dim 2. Nov]
+  14h00  FC Nantes 1-1 Stade Rennais FC
+  17h00  Girondins de Bordeaux 2-1 Toulouse FC
+  21h00  Olympique de Marseille 2-1 RC Lens
 
 Journée 13
 
+[Ven 7. Nov]
+  20h30  Stade Rennais FC 1-0 FC Lorient
 [Sam 8. Nov]
-  20h00  SC Bastia - Montpellier Hérault SC
-  20h00  SM Caen - FC Nantes
-  20h00  Évian TG - OGC Nice
-  20h00  RC Lens - Girondins de Bordeaux
-  20h00  Olympique Lyonnais - EA Guingamp
-  20h00  Stade de Reims - LOSC Lille
-  20h00  Stade Rennais FC - FC Lorient
-  20h00  AS Saint-Étienne - AS Monaco FC
-  20h00  Toulouse FC - FC Metz
+  17h00  RC Lens 1-2 Girondins de Bordeaux
+  20h00  SC Bastia 2-0 Montpellier Hérault SC
+  20h00  SM Caen 1-2 FC Nantes
+  20h00  Évian TG 1-0 OGC Nice
+  20h00  Toulouse FC 3-0 FC Metz
 [Dim 9. Nov]
-  21h00  Paris SG - Olympique de Marseille
+  14h00  Olympique Lyonnais 3-1 EA Guingamp
+  17h00  Stade de Reims 2-0 LOSC Lille
+  17h00  AS Saint-Étienne 1-1 AS Monaco FC
+  21h00  Paris SG 2-0 Olympique de Marseille
 
 Journée 14
 
+[Ven 21. Nov]
+  20h30  FC Metz 2-3 Paris SG
 [Sam 22. Nov]
-  20h00  SC Bastia - Olympique Lyonnais
-  20h00  EA Guingamp - Stade Rennais FC
-  20h00  LOSC Lille - Évian TG
-  20h00  FC Lorient - RC Lens
-  20h00  Olympique de Marseille - Girondins de Bordeaux
-  20h00  FC Metz - Paris SG
-  20h00  AS Monaco FC - SM Caen
-  20h00  Montpellier Hérault SC - Toulouse FC
-  20h00  FC Nantes - AS Saint-Étienne
-  20h00  OGC Nice - Stade de Reims
+  17h00  SC Bastia 0-0 Olympique Lyonnais
+  20h00  EA Guingamp 0-1 Stade Rennais FC
+  20h00  FC Lorient 1-0 RC Lens
+  20h00  AS Monaco FC 2-2 SM Caen
+  20h00  OGC Nice 0-0 Stade de Reims
+[Dim 22. Nov]
+  14h00  FC Nantes 0-0 AS Saint-Étienne
+  17h00  Montpellier Hérault SC 2-0 Toulouse FC
+  21h00  Olympique de Marseille 3-1 Girondins de Bordeaux
+[Mer 7. Jan]
+  20h30  LOSC Lille 1-0 Évian TG
 
 Journée 15
 
+[Ven 28. Nov]
+  20h30  Olympique de Marseille 2-0 FC Nantes
 [Sam 29. Nov]
-  20h00  Girondins de Bordeaux - LOSC Lille
-  20h00  SM Caen - Montpellier Hérault SC
-  20h00  Évian TG - EA Guingamp
-  20h00  RC Lens - FC Metz
-  20h00  Olympique de Marseille - FC Nantes
-  20h00  Paris SG - OGC Nice
-  20h00  Stade de Reims - SC Bastia
-  20h00  Stade Rennais FC - AS Monaco FC
-  20h00  Toulouse FC - FC Lorient
+  17h00  Paris SG 1-0 OGC Nice
+  20h00  SM Caen 1-1 Montpellier Hérault SC
+  20h00  RC Lens 2-0 FC Metz
+  20h00  Stade de Reims 2-1 SC Bastia
+  20h00  Stade Rennais FC 2-0 AS Monaco FC
+  20h00  Toulouse FC 2-3 FC Lorient
 [Dim 30. Nove]
-  21h00  AS Saint-Étienne - Olympique Lyonnais
+  14h00  Girondins de Bordeaux 1-0 LOSC Lille
+  17h00  Évian TG 2-0 EA Guingamp
+  21h00  AS Saint-Étienne 3-0 Olympique Lyonnais
 
 Journée 16
 
+[Mar 2. Déc]
+  19h00  FC Lorient 1-1 Olympique de Marseille
+  19h00  FC Nantes 1-2 Toulouse FC
+  21h00  AS Monaco FC 2-0 RC Lens
 [Mer 3. Déc]
-  20h00  SC Bastia - Évian TG
-  20h00  EA Guingamp - SM Caen
-  20h00  LOSC Lille - Paris SG
-  20h00  FC Lorient - Olympique de Marseille
-  20h00  Olympique Lyonnais - Stade de Reims
-  20h00  FC Metz - Girondins de Bordeaux
-  20h00  AS Monaco FC - RC Lens
-  20h00  Montpellier Hérault SC - AS Saint-Étienne
-  20h00  FC Nantes - Toulouse FC
-  20h00  OGC Nice - Stade Rennais FC
+  19h00  SC Bastia 1-2 Évian TG
+  19h00  EA Guingamp 5-1 SM Caen
+  19h00  FC Metz 0-0 Girondins de Bordeaux
+  19h00  Montpellier Hérault SC 0-2 AS Saint-Étienne
+  19h00  OGC Nice 1-2 Stade Rennais FC
+  21h00  LOSC Lille 1-1 Paris SG
+[Jeu 4. Déc]
+  21h00  Olympique Lyonnais 2-1 Stade de Reims
 
 Journée 17
 
+[Ven 5. Déc]
+  20h30  Toulouse FC 0-2 AS Monaco FC
 [Sam 6. Déc]
-  20h00  Girondins de Bordeaux - FC Lorient
-  20h00  SM Caen - OGC Nice
-  20h00  Évian TG - Olympique Lyonnais
-  20h00  RC Lens - LOSC Lille
-  20h00  Olympique de Marseille - FC Metz
-  20h00  Paris SG - FC Nantes
-  20h00  Stade de Reims - EA Guingamp
-  20h00  Stade Rennais FC - Montpellier Hérault SC
-  20h00  AS Saint-Étienne - SC Bastia
-  20h00  Toulouse FC - AS Monaco FC
+  17h00  Paris SG 2-1 FC Nantes
+  20h00  Girondins de Bordeaux 3-2 FC Lorient
+  20h00  SM Caen 2-3 OGC Nice
+  20h00  Stade Rennais FC 0-4 Montpellier Hérault SC
+  20h00  AS Saint-Étienne 1-0 SC Bastia
+[Dim 7. Déc]
+  14h00  Évian TG 2-3 Olympique Lyonnais
+  17h00  RC Lens 1-1 LOSC Lille
+  17h00  Stade de Reims 2-3 EA Guingamp
+  21h00  Olympique de Marseille 3-1 FC Metz
 
 Journée 18
 
+[Ven 12. Déc]
+  20h30  Olympique Lyonnais 3-0 SM Caen
 [Sam 13. Déc]
-  20h00  SC Bastia - Stade Rennais FC
-  20h00  EA Guingamp - Paris SG
-  20h00  LOSC Lille - Toulouse FC
-  20h00  FC Lorient - FC Metz
-  20h00  Olympique Lyonnais - SM Caen
-  20h00  Montpellier Hérault SC - RC Lens
-  20h00  FC Nantes - Girondins de Bordeaux
-  20h00  OGC Nice - AS Saint-Étienne
-  20h00  Stade de Reims - Évian TG
+  17h00  FC Nantes 2-1 Girondins de Bordeaux
+  20h00  SC Bastia 2-0 Stade Rennais FC
+  20h00  FC Lorient 3-1 FC Metz
+  20h00  Montpellier Hérault SC 3-3 RC Lens
+  20h00  Stade de Reims 3-2 Évian TG
 [Dim 14. Déc]
-  21h00  AS Monaco FC - Olympique de Marseille
+  14h00  OGC Nice 0-0 AS Saint-Étienne
+  17h00  EA Guingamp 1-0 Paris SG
+  17h00  LOSC Lille 3-0 Toulouse FC
+  21h00  AS Monaco FC 1-0 Olympique de Marseille
