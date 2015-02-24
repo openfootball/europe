@@ -85,7 +85,7 @@ Journée 23
 Journée 24
 
 [Ven 6. Févr]
-  20h30  AS Saint-Étienne - RC Lens
+  20h30  AS Saint-Étienne 3-3 RC Lens
 [Sam 7. Févr]
   16h00  Stade Rennais FC 1-1 Olympique de Marseille
   20h00  SC Bastia 2-0 FC Metz
@@ -117,7 +117,7 @@ Journée 25
 Journée 26
 
 [Ven 20. Févr]
-  20h00  OGC Nice 0-1 AS Monaco FC
+  20h30  OGC Nice 0-1 AS Monaco FC
 [Sam 21. Févr]
   17h00  Paris SG 3-1 Toulouse FC
   20h00  SC Bastia 2-1 LOSC Lille
@@ -125,52 +125,58 @@ Journée 26
   20h00  Évian TG - FC Lorient
   20h00  Stade Rennais FC 1-1 Girondins de Bordeaux
 [Dim 22. Févr]
-  20h00  EA Guingamp 0-2 Montpellier Hérault SC
-  21h00  Olympique Lyonnais 1-0 FC Nantes
-  20h00  Stade de Reims 0-0 FC Metz
-  20h00  AS Saint-Étienne 2-2 Olympique de Marseille
+  14h00  EA Guingamp 0-2 Montpellier Hérault SC
+  17h00  Olympique Lyonnais 1-0 FC Nantes
+  17h00  Stade de Reims 0-0 FC Metz
+  21h00  AS Saint-Étienne 2-2 Olympique de Marseille
 
 Journée 27
 
+[Ven 27. Févr]
+  20h30  Olympique de Marseille - SM Caen
 [Sam 28. Févr]
+  16h00  LOSC Lille - Olympique Lyonnais
   20h00  Girondins de Bordeaux - Stade de Reims
   20h00  RC Lens - Stade Rennais FC
-  20h00  LOSC Lille - Olympique Lyonnais
   20h00  FC Lorient - SC Bastia
-  20h00  Olympique de Marseille - SM Caen
   20h00  FC Metz - Évian TG
-  20h00  AS Monaco FC - Paris SG
-  20h00  Montpellier Hérault SC - OGC Nice
-  20h00  FC Nantes - EA Guingamp
   20h00  Toulouse FC - AS Saint-Étienne
+[Dim 1. Mars]
+  14h00  FC Nantes - EA Guingamp
+  17h00  Montpellier Hérault SC - OGC Nice
+  21h00  AS Monaco FC - Paris SG
 
 Journée 28
 
+[Ven 6. Mars]
+  20h30  Toulouse FC - Olympique de Marseille
 [Sam 7. Mars]
+  17h00  Paris SG - RC Lens
   20h00  SC Bastia - OGC Nice
   20h00  SM Caen - Girondins de Bordeaux
   20h00  Évian TG - AS Monaco FC
-  20h00  EA Guingamp - LOSC Lille
-  20h00  Olympique Lyonnais - Montpellier Hérault SC
-  20h00  Paris SG - RC Lens
   20h00  Stade de Reims - FC Nantes
   20h00  Stade Rennais FC - FC Metz
-  20h00  AS Saint-Étienne - FC Lorient
-  20h00  Toulouse FC - Olympique de Marseille
+[Dim 8. Mars]
+  14h00  AS Saint-Étienne - FC Lorient
+  17h00  EA Guingamp - LOSC Lille
+  21h00  Olympique Lyonnais - Montpellier Hérault SC
 
 Journée 29
 
+[Ven 13. Mars]
+  20h30  OGC Nice - EA Guingamp
+  20h30  AS Monaco FC - SC Bastia
 [Sam 14. Mars]
-  20h00  Girondins de Bordeaux - Paris SG
+  17h00  FC Metz - AS Saint-Étienne
   20h00  RC Lens - Toulouse FC
-  20h00  LOSC Lille - Stade Rennais FC
   20h00  FC Lorient - SM Caen
-  20h00  Olympique de Marseille - Olympique Lyonnais
-  20h00  FC Metz - AS Saint-Étienne
-  20h00  AS Monaco FC - SC Bastia
   20h00  Montpellier Hérault SC - Stade de Reims
   20h00  FC Nantes - Évian TG
-  20h00  OGC Nice - EA Guingamp
+[Dim 15. Mars]
+  14h00  LOSC Lille - Stade Rennais FC
+  17h00  Girondins de Bordeaux - Paris SG
+  21h00  Olympique de Marseille - Olympique Lyonnais
 
 Journée 30
 
