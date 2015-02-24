@@ -30,7 +30,7 @@ Journée 2
   20h00  Stade Rennais FC 6-2 Évian TG
   20h00  Toulouse FC 2-1 Olympique Lyonnais
 [Dim 17. Août]
-  14h00  Olympique de Marseille 0-2 Montpellier Hérault SC
+  17h00  Olympique de Marseille 0-2 Montpellier Hérault SC
   17h00  AS Saint-Étienne 3-1 Stade de Reims
   21h00  Girondins de Bordeaux 4-1 AS Monaco FC
 
@@ -93,8 +93,8 @@ Journée 6
   20h00  FC Nantes 2-1 OGC Nice
   20h00  Toulouse FC 3-3 SM Caen
 [Dim 21. Sept]
-  14h00  RC Lens 0-1 AS Saint-Étienne
-  17h00  LOSC Lille 0-0 Montpellier Hérault SC
+  14h00  LOSC Lille 0-0 Montpellier Hérault SC
+  17h00  RC Lens 0-1 AS Saint-Étienne
   17h00  AS Monaco FC 1-0 EA Guingamp
   21h00  Paris SG 1-1 Olympique Lyonnais
 
@@ -112,7 +112,7 @@ Journée 7
   19h00  OGC Nice 1-0 LOSC Lille
   21h00  SM Caen 0-2 Paris SG
 [Jeu 24. Sept]
-  20h00  AS Saint-Étienne 1-1 Girondins de Bordeaux
+  21h00  AS Saint-Étienne 1-1 Girondins de Bordeaux
 
 Journée 8
 
@@ -157,9 +157,9 @@ Journée 10
   20h00  FC Nantes 1-1 Stade de Reims
   20h00  OGC Nice 0-1 SC Bastia
 [Dim 19. Oct]
-  14h00  Olympique de Marseille - Toulouse FC
+  14h00  Olympique de Marseille 2-0 Toulouse FC
   17h00  Girondins de Bordeaux 1-1 SM Caen
-  21h00  Olympique Lyonnais 5-1 Montpellier Hérault SC  
+  21h00  Olympique Lyonnais 5-1 Montpellier Hérault SC
 
 Journée 11
 
@@ -179,7 +179,7 @@ Journée 11
 
 Journée 12
 
-[Ven 24. Oct]
+[Ven 31. Oct]
   20h30  AS Monaco FC 1-1 Stade de Reims
 [Sam 1. Nov]
   17h00  FC Lorient 1-2 Paris SG
