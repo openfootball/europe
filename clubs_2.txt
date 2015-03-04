@@ -3,17 +3,17 @@
 #  - 20 teams
 
 ajaccio,       AC Ajaccio|Athletic Club Ajaccien, ACA, city:ajaccio
-angers,        Angers SCO|Angers Sporting Club de l'Ouest, SCO, city: angers
-avignon,       AC Arles Avignon|Athletic Club Arles-Avignon, ACA, city: avignon
-auxerre,       AJ Auxerre|Association de la Jeunesse Auxerroise, AJA, city: auxerre
+angers,        Angers SCO|Angers Sporting Club de l'Ouest, SCO, city:angers
+avignon,       AC Arles Avignon|Athletic Club Arles-Avignon, ACA, city:avignon
+auxerre,       AJ Auxerre|Association de la Jeunesse Auxerroise, AJA, city:auxerre
 brest,         Stade Brestois 29, SB29, city:brest
 chateauroux,   Châteauroux|La Berrichonne de Châteauroux, LBC, city:chateauroux
-clermont,      Clermont Foot|Clermont Foot 63, CF63, city:clermont-ferrand
-creteil,       US Créteil-Lusitanos|Union Sportive Créteil-Lusitanos, USCL, city:creteil
+clermont,      Clermont Foot|Clermont Foot 63, CF63, city:clermont-ferrand  ## todo: check if key with - works
+creteil,       US Créteil-Lusitanos|Union Sportive Créteil-Lusitanos, USCL, city:creteil   ## todo/fix: allow four-letter codes
 dijon,         Dijon FCO|Dijon Football Côte-d'Or, DFCO, city:dijon
 ajacciogfc,    GFC Ajaccio|Gazélec Football Club Ajaccio, GFCA, city:ajaccio
 laval,         Stade Lavallois|Stade Lavallois Mayenne Football Club, LAVAL, city:laval
-havre,         Havre AC|Le Havre Athletic Club Football, HAC, city: harfleur
+havre,         Havre AC|Le Havre Athletic Club Football, HAC, city:harfleur
 nancy,         AS Nancy-Lorraine|Association Sportive Nancy-Lorraine, ASNL, city:tomblaine
 niort,         Chamois Niortais|Chamois Niortais Football Club, NIORT, city:niort
 nimes,         Nîmes Olympique, NIMES, city:nîmes
@@ -24,14 +24,3 @@ troyes,        ESTAC Troyes|Espérance Sportive Troyes Aube Champagne, ESTAC, ci
 valenciennes,  Valenciennes FC|Valenciennes Football Club, VAFC, city:valenciennes
 
 
-
-
-
-
-
-
-
-
-
-
-t
