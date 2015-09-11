@@ -22,22 +22,67 @@
   www.angers-sco.fr
 
 
-avignon,       AC Arles Avignon|Athletic Club Arles-Avignon, ACA, city:avignon
-auxerre,       AJ Auxerre|Association de la Jeunesse Auxerroise, AJA, city:auxerre
-brest,         Stade Brestois 29, SB29, city:brest
-chateauroux,   Châteauroux|La Berrichonne de Châteauroux, LBC, city:chateauroux
-clermont,      Clermont Foot|Clermont Foot 63, CF63, city:clermont-ferrand  ## todo: check if key with - works
-creteil,       US Créteil-Lusitanos|Union Sportive Créteil-Lusitanos, USCL, city:creteil   ## todo/fix: allow four-letter codes
-dijon,         Dijon FCO|Dijon Football Côte-d'Or, DFCO, city:dijon
-ajacciogfc,    GFC Ajaccio|Gazélec Football Club Ajaccio, GFCA, city:ajaccio
-laval,         Stade Lavallois|Stade Lavallois Mayenne Football Club, LAVAL, city:laval
-havre,         Havre AC|Le Havre Athletic Club Football, HAC, city:harfleur
-nancy,         AS Nancy-Lorraine|Association Sportive Nancy-Lorraine, ASNL, city:tomblaine
-niort,         Chamois Niortais|Chamois Niortais Football Club, NIORT, city:niort
-nimes,         Nîmes Olympique, NIMES, city:nîmes
-orleans,       US Orléans|Union sportive Orléans Loiret football, USO, city:orléans
-sochaux,       FC Sochaux-Montbéliard|Football Club de Sochaux-Montbéliard, FCSM, city:montbéliard
-tours,         Tours FC|Tours Football Club, TOURS, city:tours
-valenciennes,  Valenciennes FC|Valenciennes Football Club, VAFC, city:valenciennes
+[avignon]
+  AC Arles Avignon|Athletic Club Arles-Avignon, ACA
+  // Avignon
 
+[auxerre]
+  AJ Auxerre|Association de la Jeunesse Auxerroise, AJA
+  // Auxerre
+
+[brest]
+  Stade Brestois|Stade Brestois 29, SB29
+  // Brest
+
+[chateauroux]
+  Châteauroux|La Berrichonne de Châteauroux, LBC
+  // Châteauroux
+
+[clermont]
+  Clermont Foot|Clermont Foot 63, CF63
+  // Clermont-Ferrand
+
+[creteil]
+  US Créteil-Lusitanos|Union Sportive Créteil-Lusitanos, USCL   ## todo/fix: allow four-letter codes
+  // Créteil   
+
+[dijon]
+   Dijon FCO|Dijon Football Côte-d'Or, DFCO
+   // Dijon
+   
+[laval]
+  Stade Lavallois|Stade Lavallois Mayenne Football Club, LAVAL
+  // Laval
+
+[havre]
+  Havre AC|Le Havre Athletic Club Football, HAC
+  // Harfleur
+  
+[nancy]
+  AS Nancy-Lorraine|Association Sportive Nancy-Lorraine, ASNL
+  // Tomblaine
+
+[niort]
+  Chamois Niortais|Chamois Niortais Football Club, NIORT
+  // Niort
+
+[nimes]
+  Nîmes Olympique, NIMES
+  // Nîmes
+
+[orleans]
+  US Orléans|Union sportive Orléans Loiret football, USO
+  // Orléans
+
+[sochaux]
+  FC Sochaux-Montbéliard|Football Club de Sochaux-Montbéliard, FCSM 
+  // Montbéliard
+
+[tours]
+  Tours FC|Tours Football Club, TOURS
+  // Tours
+  
+[valenciennes]
+  Valenciennes FC|Valenciennes Football Club, VAFC
+  // Valenciennes
 
