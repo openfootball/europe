@@ -109,20 +109,3 @@
 
 
 
-[evian]
-  Évian TG|Évian TG FC|Évian Thonon Gaillard FC|Evian Thonon Gaillard Football Club,  ETG, 2007
-  // Thonon-les-Bains     ## Haute-Savoie > Rhône-Alpes
-  wikipedia: Evian_Thonon_Gaillard_F.C.
-  www.etgfc.com
-
-[lens]
-  RC Lens|Racing Club de Lens, RCL, 1906
-  // Lens    ## Pas-de-Calais > Nord-Pas-de-Calais
-  wikipedia: RC_Lens
-  www.rclens.fr
-
-[metz]
-  FC Metz|Football Club de Metz, FCM, 1932
-  // Metz     ## Moselle > Lorraine
-  wikipedia: FC_Metz
-  www.fcmetz.com
