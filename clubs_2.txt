@@ -3,24 +3,30 @@
 #  - 20 teams
 
 
-[troyes]
-  ESTAC Troyes|ES Troyes AC|Espérance Sportive Troyes Aube Champagne, ESTAC, 1986   ## todo/fix: allow five letter code
-  // Troyes    ## Aube > Champagne-Ardenne
-  wikipedia: Troyes_AC
-  www.estac.fr
+[evian]
+  Évian TG|Évian TG FC|Évian Thonon Gaillard FC|Evian Thonon Gaillard Football Club,  ETG, 2007
+  // Thonon-les-Bains     ## Haute-Savoie > Rhône-Alpes
+  wikipedia: Evian_Thonon_Gaillard_F.C.
+  www.etgfc.com
+
+[lens]
+  RC Lens|Racing Club de Lens, RCL, 1906
+  // Lens    ## Pas-de-Calais > Nord-Pas-de-Calais
+  wikipedia: RC_Lens
+  www.rclens.fr
+
+[metz]
+  FC Metz|Football Club de Metz, FCM, 1932
+  // Metz     ## Moselle > Lorraine
+  wikipedia: FC_Metz
+  www.fcmetz.com
+
 
 [ajaccio]
-  AC Ajaccio|Athletic Club Ajaccien|GFC Ajaccio|Gazélec Football Club Ajaccio, ACA, 1910
+  AC Ajaccio|Athletic Club Ajaccien, ACA, 1910
   // Ajaccio   ## Corse-du-Sud > Corsica
-  wikipedia: Gazélec_Ajaccio
-  www.gfca-foot.com
-
-[angers]
-  Angers SCO|Angers Sporting Club de l'Ouest, SCO, 1919
-  // Angers     ##  Maine-et-Loire > Pays de la Loire
-  wikipedia: Angers_SCO
-  www.angers-sco.fr
-
+  wikipedia: AC_Ajaccio
+  www.ac-ajaccio.com
 
 [avignon]
   AC Arles Avignon|Athletic Club Arles-Avignon, ACA
