@@ -108,4 +108,21 @@
   www.tfc.info
 
 
+[ajacciofc]
+  GFC Ajaccio|Gazélec Football Club Ajaccio, 1910
+  // Ajaccio   ## Corse-du-Sud > Corsica
+  wikipedia: Gazélec_Ajaccio
+  www.gfca-foot.com
+
+[troyes]
+  ESTAC Troyes|ES Troyes AC|Espérance Sportive Troyes Aube Champagne, ESTAC, 1986   ## todo/fix: allow five letter code
+  // Troyes    ## Aube > Champagne-Ardenne
+  wikipedia: Troyes_AC
+  www.estac.fr
+
+[angers]
+  Angers SCO|Angers Sporting Club de l'Ouest, SCO, 1919
+  // Angers     ##  Maine-et-Loire > Pays de la Loire
+  wikipedia: Angers_SCO
+  www.angers-sco.fr
 
