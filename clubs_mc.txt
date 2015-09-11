@@ -2,5 +2,10 @@
 # Monaco (mc) Teams
 #
 
-monaco,       AS Monaco|Association sportive de Monaco FC, ASM, mc, city:monaco
+[monaco]
+  AS Monaco|Association sportive de Monaco FC|Association Sportive de Monaco Football Club, ASM, 1924 
+  // Monaco
+  mc              ## note: use country code
+  wikipedia: AS_Monaco_FC
+  www.asmonaco.com
 
