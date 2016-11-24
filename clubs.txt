@@ -108,7 +108,7 @@
   www.tfc.info
 
 
-[ajacciofc]
+[ajacciogfc]
   GFC Ajaccio|Gazélec Football Club Ajaccio, 1910
   // Ajaccio   ## Corse-du-Sud > Corsica
   wikipedia: Gazélec_Ajaccio
