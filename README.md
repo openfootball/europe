@@ -61,11 +61,11 @@ from the plain text datasets. [More »](https://github.com/openfootball/datafile
 
 Build the database for all French clubs, leagues and seasons:
 
-    $ rake build DATA=fr
+    $ sportdb new fr
 
 Build the database for the 2014/15 season:
 
-    $ rake build DATA=fr_2014_15
+    $ sportdb new fr2014-15
 
 
 
