@@ -19,7 +19,8 @@ Free open public domain football data for France (incl. Monaco) / Europe. Events
 
 Example:
 
-~~~
+<!--
+```
 ### Ligue 1 Clubs
 
 paris,        Paris St. Germain|Paris Saint-Germain, PSG
@@ -27,9 +28,10 @@ montpellier,  HSC Montpellier|Montpellier Hérault SC,  MHS
 lille,        OSC Lille|Lille OSC|LOSC Lille,    LIL
 marseille,    Marseille|Olympique Marseille,  OM
 ...
-~~~
+```
+-->
 
-~~~
+```
 ## Ligue 1 - 2014/15
 
 Journée 1
@@ -47,7 +49,7 @@ Journée 1
 [Dim 10 Août]
   17h00  Olympique Lyonnais  2-0  Stade Rennais FC
   21h00  AS Monaco FC        1-2  FC Lorient
-~~~
+```
 
 
 
