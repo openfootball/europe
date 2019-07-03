@@ -1,0 +1,43 @@
+################################
+#  France, fr
+
+Key,           Name,                    Code
+paris,         Paris SG,                PSG
+bastia,        SC Bastia,               SCB
+bordeaux,      Girondins de Bordeaux,   FCGB    ## todo/fix: allow four letter codes
+caen,          SM Caen,                 SMC
+lyon,          Olympique Lyonnais,      OL
+saintetienne,  AS Saint-Étienne,        ASSE    ## todo/fix: allow four letter codes
+lille,         OSC Lille,               LOSC
+lorient,       FC Lorient,              FCL
+rennes,        Stade Rennais FC,        SRFC
+guingamp,      EA Guingamp,             EAG
+marseille,     Olympique Marseille,     OM
+nice,          OGC Nice,                OGCN
+montpellier,   HSC Montpellier,         MHSC
+nantes,        FC Nantes,               FCN
+reims,         Stade de Reims,          SDR
+toulouse,      Toulouse FC,             TFC
+ajacciogfc,    GFC Ajaccio
+troyes,        ESTAC Troyes,            ESTAC    ## todo/fix: allow five letter code
+angers,        Angers SCO,              SCO
+evian,         Évian TG,                ETG
+lens,          RC Lens,                 RCL
+metz,          FC Metz,                 FCM
+ajaccio,       AC Ajaccio,              ACA
+avignon,       AC Arles Avignon,        ACA   ## ???
+auxerre,       AJ Auxerre,              AJA
+brest,         Stade Brestois 29,       SB29
+chateauroux,   Châteauroux,             LBC
+clermont,      Clermont Foot 63,        CF63
+creteil,       US Créteil-Lusitanos,    USCL      ## todo/fix: allow four-letter codes
+dijon,         Dijon FCO,               DFCO
+laval,         Stade Lavallois,         LAVAL
+havre,         Havre AC,                HAC
+nancy,         AS Nancy-Lorraine,       ASNL
+niort,         Chamois Niortais,        NIORT
+nimes,         Nîmes Olympique,         NIMES
+orleans,       US Orléans,              USO
+sochaux,       FC Sochaux-Montbéliard,  FCSM
+tours,         Tours FC,                TOURS
+valenciennes,  Valenciennes FC,         VAFC
