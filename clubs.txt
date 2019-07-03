@@ -1,5 +1,5 @@
 ################################
-#  France, fr
+#  France (FRA), fr
 
 Key,           Name,                    Code
 paris,         Paris SG,                PSG
@@ -18,7 +18,7 @@ montpellier,   HSC Montpellier,         MHSC
 nantes,        FC Nantes,               FCN
 reims,         Stade de Reims,          SDR
 toulouse,      Toulouse FC,             TFC
-ajacciogfc,    GFC Ajaccio
+ajacciogfc,    GFC Ajaccio,             ?
 troyes,        ESTAC Troyes,            ESTAC    ## todo/fix: allow five letter code
 angers,        Angers SCO,              SCO
 evian,         Évian TG,                ETG
@@ -42,4 +42,5 @@ sochaux,       FC Sochaux-Montbéliard,  FCSM
 tours,         Tours FC,                TOURS
 valenciennes,  Valenciennes FC,         VAFC
 
+# Monaco (MCO), mc
 monaco,        AS Monaco,               ASM
