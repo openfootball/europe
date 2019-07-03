@@ -41,3 +41,5 @@ orleans,       US Orléans,              USO
 sochaux,       FC Sochaux-Montbéliard,  FCSM
 tours,         Tours FC,                TOURS
 valenciennes,  Valenciennes FC,         VAFC
+
+monaco,        AS Monaco,               ASM
