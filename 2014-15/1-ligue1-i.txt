@@ -1,22 +1,24 @@
-###################################
-# Ligue 1 2014/15 - Matches Aller
+= Ligue 1 2014/15
+
+# start_at: 2014-08-08
+# Matches Aller
 
 
 Journée 1
 
 [Ven 8. Août]
-  20h30  Stade de Reims 2-2 Paris SG
+  20h30  Stade de Reims  2-2  Paris SG
 [Sam 9. Août]
-  21h00  SC Bastia 3-3 Olympique de Marseille
-  21h00  Évian TG 0-3 SM Caen
-  21h00  EA Guingamp 0-2 AS Saint-Étienne
-  21h00  LOSC Lille 0-0 FC Metz
-  21h00  Montpellier Hérault SC 0-1 Girondins de Bordeaux
-  21h00  FC Nantes 1-0 RC Lens
-  21h00  OGC Nice 3-2 Toulouse FC
+  21h00  SC Bastia      3-3  Olympique de Marseille
+         Évian TG       0-3  SM Caen
+         EA Guingamp    0-2  AS Saint-Étienne
+         LOSC Lille     0-0  FC Metz
+         Montpellier Hérault SC  0-1  Girondins de Bordeaux
+         FC Nantes      1-0  RC Lens
+         OGC Nice       3-2  Toulouse FC
 [Dim 10. Août]
-  17h00  Olympique Lyonnais 2-0 Stade Rennais FC
-  21h00  AS Monaco FC 1-2 FC Lorient
+  17h00  Olympique Lyonnais  2-0  Stade Rennais FC
+  21h00  AS Monaco FC  1-2  FC Lorient
 
 Journée 2
 
@@ -25,13 +27,13 @@ Journée 2
 [Sam 16. Août]
   17h00  Paris SG 2-0 SC Bastia
   20h00  RC Lens 0-1 EA Guingamp
-  20h00  FC Lorient 0-0 OGC Nice
-  20h00  FC Metz 1-1 FC Nantes
-  20h00  Stade Rennais FC 6-2 Évian TG
-  20h00  Toulouse FC 2-1 Olympique Lyonnais
+         FC Lorient 0-0 OGC Nice
+         FC Metz 1-1 FC Nantes
+         Stade Rennais FC 6-2 Évian TG
+         Toulouse FC 2-1 Olympique Lyonnais
 [Dim 17. Août]
   17h00  Olympique de Marseille 0-2 Montpellier Hérault SC
-  17h00  AS Saint-Étienne 3-1 Stade de Reims
+         AS Saint-Étienne 3-1 Stade de Reims
   21h00  Girondins de Bordeaux 4-1 AS Monaco FC
 
 Journée 3
@@ -41,10 +43,10 @@ Journée 3
 [Sam 23. Août]
   17h00  EA Guingamp 0-1 Olympique de Marseille
   20h00  SC Bastia 1-0 Toulouse FC
-  20h00  LOSC Lille 2-0 FC Lorient
-  20h00  Montpellier Hérault SC 2-0 FC Metz
-  20h00  OGC Nice 1-3 Girondins de Bordeaux
-  20h00  Stade de Reims 0-2 SM Caen
+         LOSC Lille 2-0 FC Lorient
+         Montpellier Hérault SC 2-0 FC Metz
+         OGC Nice 1-3 Girondins de Bordeaux
+         Stade de Reims 0-2 SM Caen
 [Dim 24. Août]
   14h00  Olympique Lyonnais 0-1 RC Lens
   17h00  AS Saint-Étienne 0-0 Stade Rennais FC

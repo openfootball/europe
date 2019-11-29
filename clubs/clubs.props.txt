@@ -1,5 +1,5 @@
 ################################
-#  France (FRA), fr
+#  France
 
 Key,           Name,                    Code
 paris,         Paris SG,                PSG

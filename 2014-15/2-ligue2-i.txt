@@ -1,37 +1,39 @@
-###################################
-# Ligue 2 2014/15 - Matches Aller
+= Ligue 2 2014/15
+
+# start_at: 2014-08-01
+# Matches Aller
 
 
 Journée 1
 
 [Ven 1. Août]
-  20h00  AC Arles Avignon 0-0 AC Ajaccio
-  20h00  AJ Auxerre 2-0 Havre AC
-  20h00  GFC Ajaccio 2-0 Valenciennes FC
-  20h00  Châteauroux 0-1 ESTAC Troyes
-  20h00  Nîmes Olympique 3-2 Angers SCO
-  20h00  Tours FC 4-2 US Créteil-Lusitanos
-  20h00  AS Nancy-Lorraine 1-1 Dijon FCO
-  20h00  Stade Lavallois 1-1 Chamois Niortais
+  20h00  AC Arles Avignon  0-0  AC Ajaccio
+         AJ Auxerre  2-0  Havre AC
+         GFC Ajaccio  2-0  Valenciennes FC
+         Châteauroux  0-1  ESTAC Troyes
+         Nîmes Olympique  3-2  Angers SCO
+         Tours FC  4-2  US Créteil-Lusitanos
+         AS Nancy-Lorraine  1-1  Dijon FCO
+         Stade Lavallois  1-1  Chamois Niortais
 [Sam 2. Août]
-  17h00  FC Sochaux-Montbéliard 0-1 US Orléans
+  17h00  FC Sochaux-Montbéliard  0-1  US Orléans
 [Lun 4. Août]
-  20h30  Stade Brestois 29 2-1 Clermont Foot
+  20h30  Stade Brestois 29  2-1  Clermont Foot
 
 Journée 2
 
 [Ven 8. Août]
-  20h00  Angers SCO 2-0 AC Arles Avignon
-  20h00  Clermont Foot 1-1 AJ Auxerre
-  20h00  US Créteil-Lusitanos 3-0 Châteauroux
-  20h00  Dijon FCO 1-0 Stade Lavallois
-  20h00  Havre AC 1-1 GFC Ajaccio
-  20h00  Chamois Niortais 0-0 Stade Brestois 29
-  20h00  US Orléans 0-1 AS Nancy-Lorraine
-  20h00  ESTAC Troyes 1-0 Tours FC
+  20h00  Angers SCO  2-0  AC Arles Avignon
+         Clermont Foot  1-1  AJ Auxerre
+         US Créteil-Lusitanos  3-0  Châteauroux
+         Dijon FCO         1-0  Stade Lavallois
+         Havre AC          1-1  GFC Ajaccio
+         Chamois Niortais  0-0  Stade Brestois 29
+         US Orléans        0-1  AS Nancy-Lorraine
+         ESTAC Troyes      1-0  Tours FC
 [Sam 9. Août]
-  13h30  Valenciennes FC 2-2 Nîmes Olympique
-  18h00  AC Ajaccio 0-2 FC Sochaux-Montbéliard
+  13h30  Valenciennes FC  2-2  Nîmes Olympique
+  18h00  AC Ajaccio       0-2  FC Sochaux-Montbéliard
 
 Journée 3
 

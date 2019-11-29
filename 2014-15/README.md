@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bordeaux                       3   1  0  0   4:1     2  0  0   4:1      8:2    +6    9
@@ -26,11 +26,10 @@
 18. FC Metz                        3   0  1  0   1:1     0  1  1   0:2      1:3    -2    2
 19. Stade de Reims                 3   0  1  1   2:4     0  0  1   1:3      3:7    -4    1
 20. Évian TG                       3   0  1  1   0:3     0  0  1   2:6      2:9    -7    1
-~~~
+```
 
 
 
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
-

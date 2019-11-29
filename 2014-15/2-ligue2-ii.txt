@@ -1,22 +1,23 @@
-﻿####################################
-# Ligue 2 2014/15 - Matches Retour
+= Ligue 2 2014/15
+
+# Matches Retour
 
 
 Journée 19
 
 [Ven 9. Janv]
-  20h00  AC Ajaccio 0-1 Nîmes Olympique
-  20h00  Angers SCO 3-1 AS Nancy-Lorraine
-  20h00  Clermont Foot 0-0 Stade Lavallois
-  20h00  US Créteil-Lusitanos 2-2 AJ Auxerre
-  20h00  Dijon FCO 0-3 Tours FC
-  20h00  Havre AC 1-1 Châteauroux
-  20h00  Chamois Niortais 1-1 GFC Ajaccio
-  20h00  US Orléans 1-1 AC Arles Avignon
+  20h00  AC Ajaccio  0-1  Nîmes Olympique
+         Angers SCO  3-1  AS Nancy-Lorraine
+         Clermont Foot  0-0  Stade Lavallois
+         US Créteil-Lusitanos  2-2  AJ Auxerre
+         Dijon FCO  0-3  Tours FC
+         Havre AC   1-1  Châteauroux
+         Chamois Niortais  1-1  GFC Ajaccio
+         US Orléans  1-1  AC Arles Avignon
 [Sam 10. Janv]
-  14h00  ESTAC Troyes 1-0 Stade Brestois 29
+  14h00  ESTAC Troyes  1-0  Stade Brestois 29
 [Lun 12. Janv]
-  20h30  Valenciennes FC 1-2 FC Sochaux-Montbéliard
+  20h30  Valenciennes FC  1-2  FC Sochaux-Montbéliard
 
 Journée 20
 
