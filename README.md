@@ -21,7 +21,7 @@ Example:
 
 <!--
 ```
-### Ligue 1 Clubs
+## Ligue 1 Clubs
 
 paris,        Paris St. Germain|Paris Saint-Germain, PSG
 montpellier,  HSC Montpellier|Montpellier Hérault SC,  MHS
@@ -32,7 +32,7 @@ marseille,    Marseille|Olympique Marseille,  OM
 -->
 
 ```
-## Ligue 1 - 2014/15
+= Ligue 1
 
 Journée 1
 
@@ -40,12 +40,12 @@ Journée 1
   20h30  Stade de Reims      2-2  Paris SG
 [Sam 9 Août]
   21h00  SC Bastia           3-3  Olympique de Marseille
-  21h00  Évian TG            0-3  SM Caen
-  21h00  EA Guingamp         0-2  AS Saint-Étienne
-  21h00  LOSC Lille          0-0  FC Metz
-  21h00  HSC Montpellier     0-1  Girondins de Bordeaux
-  21h00  FC Nantes           1-0  RC Lens
-  21h00  OGC Nice            3-2  Toulouse FC
+         Évian TG            0-3  SM Caen
+         EA Guingamp         0-2  AS Saint-Étienne
+         LOSC Lille          0-0  FC Metz
+         HSC Montpellier     0-1  Girondins de Bordeaux
+         FC Nantes           1-0  RC Lens
+         OGC Nice            3-2  Toulouse FC
 [Dim 10 Août]
   17h00  Olympique Lyonnais  2-0  Stade Rennais FC
   21h00  AS Monaco FC        1-2  FC Lorient
