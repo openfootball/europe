@@ -2,326 +2,176 @@
 [1/4] >2014-15/1-ligue1-i.txt<
   1 section(s):
     252 lines - league: >Ligue 1< (fr.1), season: >2014/15<
-      100 clubs:
-        20h30  Stade de Reims x2
-        Paris SG x10
-        21h00  SC Bastia x1
-        Olympique de Marseille x9
-        Évian TG x10
-        SM Caen x10
-        EA Guingamp x9
-        AS Saint-Étienne x10
-        LOSC Lille x10
-        FC Metz x11
-        Montpellier Hérault SC x11
-        Girondins de Bordeaux x10
-        FC Nantes x9
-        RC Lens x10
-        OGC Nice x10
-        Toulouse FC x11
-        17h00  Olympique Lyonnais x2
-        Stade Rennais FC x11
-        21h00  AS Monaco FC x3
-        FC Lorient x10
-        20h30  SM Caen x1
-        17h00  Paris SG x4
-        SC Bastia x8
-        20h00  RC Lens x3
-        Olympique Lyonnais x8
-        17h00  Olympique de Marseille x2
-        Stade de Reims x9
-        21h00  Girondins de Bordeaux x1
-        AS Monaco FC x9
-        20h30  Évian TG x1
-        17h00  EA Guingamp x5
-        20h00  SC Bastia x6
-        14h00  Olympique Lyonnais x2
-        17h00  AS Saint-Étienne x3
-        21h00  FC Nantes x1
-        20h30  Olympique de Marseille x2
-        17h00  AS Monaco FC x2
-        20h00  SM Caen x5
-        20h00  FC Lorient x5
-        20h00  FC Nantes x3
-        20h00  Toulouse FC x4
-        14h00  Girondins de Bordeaux x3
-        17h00  FC Metz x1
-        21h00  Paris SG x4
-        20h30  Olympique Lyonnais x2
-        17h00  Stade Rennais FC x1
-        20h00  Montpellier Hérault SC x4
-        20h00  OGC Nice x5
-        20h00  Stade de Reims x4
-        20h00  AS Saint-Étienne x2
-        14h00  LOSC Lille x2
-        21h00  Évian TG x1
-        20h30  Girondins de Bordeaux x1
-        20h00  FC Metz x4
-        17h00  RC Lens x4
-        19h00  Stade de Reims x1
-        21h00  Stade Rennais FC x1
-        19h00  SC Bastia x2
-        19h00  Évian TG x1
-        19h00  EA Guingamp x2
-        19h00  Olympique Lyonnais x1
-        19h00  Montpellier Hérault SC x2
-        19h00  OGC Nice x2
-        21h00  SM Caen x1
-        21h00  AS Saint-Étienne x2
-        14h00  AS Monaco FC x1
-        17h00  Toulouse FC x1
-        20h00  LOSC Lille x3
-        17h00  FC Nantes x2
-        21h00  Olympique de Marseille x4
-        17h00  SM Caen x1
-        20h00  Évian TG x3
-        20h00  Stade Rennais FC x3
-        14h00  AS Saint-Étienne x1
-        20h30  RC Lens x1
-        17h00  FC Lorient x2
-        20h00  AS Monaco FC x2
-        14h00  Olympique de Marseille x1
-        17h00  Girondins de Bordeaux x2
-        21h00  Olympique Lyonnais x3
-        20h30  Toulouse FC x2
-        14h00  Stade Rennais FC x1
-        20h30  AS Monaco FC x1
-        20h00  EA Guingamp x2
-        14h00  FC Nantes x2
-        20h30  Stade Rennais FC x1
-        17h00  Stade de Reims x2
-        20h30  FC Metz x1
-        17h00  SC Bastia x1
-        17h00  Montpellier Hérault SC x1
-        20h30  LOSC Lille x1
-        17h00  Évian TG x1
-        19h00  FC Lorient x1
-        19h00  FC Nantes x1
-        19h00  FC Metz x1
-        21h00  LOSC Lille x1
-        20h00  Girondins de Bordeaux x1
-        14h00  Évian TG x1
-        14h00  OGC Nice x1
-        17h00  LOSC Lille x1
+      20 clubs:
+        AS Monaco FC x18
+        AS Saint-Étienne x18
+        EA Guingamp x18
+        FC Lorient x18
+        FC Metz x18
+        FC Nantes x18
+        Girondins de Bordeaux x18
+        LOSC Lille x18
+        Montpellier Hérault SC x18
+        OGC Nice x18
+        Olympique Lyonnais x18
+        Olympique de Marseille x18
+        Paris SG x18
+        RC Lens x18
+        SC Bastia x18
+        SM Caen x18
+        Stade Rennais FC x18
+        Stade de Reims x18
+        Toulouse FC x18
+        Évian TG x18
+      18 rounds:
+        Journée 1, 10 matches
+        Journée 2, 10 matches
+        Journée 3, 10 matches
+        Journée 4, 10 matches
+        Journée 5, 10 matches
+        Journée 6, 10 matches
+        Journée 7, 10 matches
+        Journée 8, 10 matches
+        Journée 9, 10 matches
+        Journée 10, 10 matches
+        Journée 11, 10 matches
+        Journée 12, 10 matches
+        Journée 13, 10 matches
+        Journée 14, 10 matches
+        Journée 15, 10 matches
+        Journée 16, 10 matches
+        Journée 17, 10 matches
+        Journée 18, 10 matches
 [2/4] >2014-15/1-ligue1-ii.txt<
   1 section(s):
     265 lines - league: >Ligue 1< (fr.1), season: >2014/15<
-      87 clubs:
-        20h30  RC Lens x1
-        OGC Nice x11
-        17h00  Paris SG x3
-        Montpellier Hérault SC x10
-        20h00  SM Caen x10
-        SC Bastia x11
-        FC Lorient x11
-        FC Nantes x11
-        FC Metz x10
-        AS Monaco FC x10
-        Stade Rennais FC x10
-        Stade de Reims x11
-        Toulouse FC x10
-        EA Guingamp x11
-        14h00  Olympique de Marseille x1
-        LOSC Lille x11
-        17h00  AS Saint-Étienne x1
-        Évian TG x10
-        21h00  Girondins de Bordeaux x1
-        Olympique Lyonnais x11
-        20h30  Montpellier Hérault SC x1
-        Olympique de Marseille x10
-        17h00  SC Bastia x1
-        Paris SG x9
-        20h00  Évian TG x8
-        20h00  EA Guingamp x6
-        RC Lens x9
-        20h00  LOSC Lille x6
-        SM Caen x9
-        20h00  OGC Nice x5
-        20h00  Stade de Reims x6
-        AS Saint-Étienne x10
-        17h00  Olympique Lyonnais x2
-        17h00  FC Nantes x1
-        21h00  AS Monaco FC x3
-        Girondins de Bordeaux x9
-        20h30  Girondins de Bordeaux x1
-        17h00  RC Lens x1
-        20h00  FC Lorient x8
-        20h00  FC Metz x8
-        20h00  AS Monaco FC x6
-        20h00  Toulouse FC x9
-        14h00  Paris SG x1
-        17h00  Stade Rennais FC x2
-        21h00  Olympique de Marseille x2
-        20h30  OGC Nice x3
-        17h00  LOSC Lille x1
-        20h00  SC Bastia x8
-        20h00  Montpellier Hérault SC x7
-        14h00  Évian TG x1
-        14h00  Olympique Lyonnais x1
-        17h00  Stade de Reims x3
-        21h00  AS Saint-Étienne x2
-        20h30  Paris SG x2
-        16h30  Olympique de Marseille x1
-        20h00  RC Lens x8
-        20h00  FC Nantes x7
-        14h00  SM Caen x1
-        17h00  Girondins de Bordeaux x2
-        20h30  AS Saint-Étienne x1
-        16h00  Stade Rennais FC x1
-        14h00  EA Guingamp x2
-        17h00  OGC Nice x1
-        21h00  Olympique Lyonnais x1
-        20h30  Olympique de Marseille x2
-        16h00  Paris SG x1
-        14h00  Girondins de Bordeaux x1
-        17h00  FC Metz x2
-        21h00  FC Lorient x1
-        20h00  Stade Rennais FC x7
-        19h00  Évian TG x1
-        16h00  LOSC Lille x1
-        20h00  Girondins de Bordeaux x6
-        14h00  FC Nantes x1
-        17h00  Montpellier Hérault SC x1
-        20h30  Toulouse FC x1
-        14h00  AS Saint-Étienne x2
-        17h00  EA Guingamp x1
-        21h00  Montpellier Hérault SC x1
-        20h30  AS Monaco FC x1
-        14h00  LOSC Lille x1
-        16h00  Olympique Lyonnais x1
-        21h00  RC Lens x1
-        20h00  Olympique de Marseille x4
-        20h00  Olympique Lyonnais x4
-        20h00  Paris SG x4
-        20h00  AS Saint-Étienne x4
+      20 clubs:
+        AS Monaco FC x20
+        AS Saint-Étienne x20
+        EA Guingamp x20
+        FC Lorient x20
+        FC Metz x20
+        FC Nantes x20
+        Girondins de Bordeaux x20
+        LOSC Lille x20
+        Montpellier Hérault SC x20
+        OGC Nice x20
+        Olympique Lyonnais x20
+        Olympique de Marseille x20
+        Paris SG x20
+        RC Lens x20
+        SC Bastia x20
+        SM Caen x20
+        Stade Rennais FC x20
+        Stade de Reims x20
+        Toulouse FC x20
+        Évian TG x20
+      20 rounds:
+        Journée 19, 10 matches
+        Journée 20, 10 matches
+        Journée 21, 10 matches
+        Journée 22, 10 matches
+        Journée 23, 10 matches
+        Journée 24, 10 matches
+        Journée 25, 10 matches
+        Journée 26, 10 matches
+        Journée 27, 10 matches
+        Journée 28, 10 matches
+        Journée 29, 10 matches
+        Journée 30, 10 matches
+        Journée 31, 10 matches
+        Journée 32, 10 matches
+        Journée 33, 10 matches
+        Journée 34, 10 matches
+        Journée 35, 10 matches
+        Journée 36, 10 matches
+        Journée 37, 10 matches
+        Journée 38, 10 matches
 [3/4] >2014-15/2-ligue2-i.txt<
   1 section(s):
     247 lines - league: >Ligue 2< (fr.2), season: >2014/15<
-      69 clubs:
-        20h00  AC Arles Avignon x7
-        AC Ajaccio x9
-        AJ Auxerre x10
-        Havre AC x11
-        GFC Ajaccio x9
-        Valenciennes FC x9
-        Châteauroux x9
-        ESTAC Troyes x10
-        Nîmes Olympique x9
-        Angers SCO x10
-        Tours FC x10
-        US Créteil-Lusitanos x11
-        AS Nancy-Lorraine x9
-        Dijon FCO x11
-        Stade Lavallois x10
-        Chamois Niortais x10
-        17h00  FC Sochaux-Montbéliard x1
-        US Orléans x10
-        20h30  Stade Brestois 29 x3
-        Clermont Foot x11
-        20h00  Angers SCO x6
-        AC Arles Avignon x9
-        Stade Brestois 29 x9
-        13h30  Valenciennes FC x1
-        18h00  AC Ajaccio x1
-        FC Sochaux-Montbéliard x8
-        20h00  AJ Auxerre x8
-        20h00  Stade Lavallois x8
-        20h00  Châteauroux x9
-        20h00  AS Nancy-Lorraine x4
-        20h00  Nîmes Olympique x8
-        20h00  Chamois Niortais x7
-        20h00  Tours FC x7
-        14h00  Stade Brestois 29 x3
-        20h00  GFC Ajaccio x8
-        20h30  FC Sochaux-Montbéliard x2
-        20h00  AC Ajaccio x7
-        20h00  Clermont Foot x6
-        20h00  US Créteil-Lusitanos x6
-        20h00  US Orléans x7
-        20h00  ESTAC Troyes x2
-        20h00  Valenciennes FC x5
-        14h00  Dijon FCO x2
-        20h00  Havre AC x6
-        20h00  FC Sochaux-Montbéliard x6
-        14h00  Tours FC x1
-        20h00  Dijon FCO x4
-        14h00  AS Nancy-Lorraine x1
-        20h30  ESTAC Troyes x3
-        20h00  Stade Brestois 29 x3
-        20h30  Valenciennes FC x3
-        20h55  AC Ajaccio x1
-        20h55  Angers SCO x1
-        20h55  AC Arles Avignon x1
-        20h55  Dijon FCO x1
-        20h55  AS Nancy-Lorraine x1
-        20h55  Nîmes Olympique x1
-        20h55  US Orléans x1
-        20h55  FC Sochaux-Montbéliard x1
-        20h55  ESTAC Troyes x1
-        20h30  Clermont Foot x1
-        14h00  ESTAC Troyes x2
-        14h00  US Créteil-Lusitanos x1
-        20h30  AS Nancy-Lorraine x3
-        14h00  Chamois Niortais x1
-        14h00  Havre AC x1
-        14h00  Angers SCO x1
-        14h00  AC Arles Avignon x1
-        14h00  GFC Ajaccio x1
+      20 clubs:
+        AC Ajaccio x18
+        AC Arles Avignon x18
+        AJ Auxerre x18
+        AS Nancy-Lorraine x18
+        Angers SCO x18
+        Chamois Niortais x18
+        Châteauroux x18
+        Clermont Foot x18
+        Dijon FCO x18
+        ESTAC Troyes x18
+        FC Sochaux-Montbéliard x18
+        GFC Ajaccio x18
+        Havre AC x18
+        Nîmes Olympique x18
+        Stade Brestois 29 x18
+        Stade Lavallois x18
+        Tours FC x18
+        US Créteil-Lusitanos x18
+        US Orléans x18
+        Valenciennes FC x18
+      18 rounds:
+        Journée 1, 10 matches
+        Journée 2, 10 matches
+        Journée 3, 10 matches
+        Journée 4, 10 matches
+        Journée 5, 10 matches
+        Journée 6, 10 matches
+        Journée 7, 10 matches
+        Journée 8, 10 matches
+        Journée 9, 10 matches
+        Journée 10, 10 matches
+        Journée 11, 10 matches
+        Journée 12, 10 matches
+        Journée 13, 10 matches
+        Journée 14, 10 matches
+        Journée 15, 10 matches
+        Journée 16, 10 matches
+        Journée 17, 10 matches
+        Journée 18, 10 matches
 [4/4] >2014-15/2-ligue2-ii.txt<
   1 section(s):
     256 lines - league: >Ligue 2< (fr.2), season: >2014/15<
-      54 clubs:
-        20h00  AC Ajaccio x10
-        Nîmes Olympique x11
-        Angers SCO x10
-        AS Nancy-Lorraine x11
-        Clermont Foot x10
-        Stade Lavallois x10
-        US Créteil-Lusitanos x10
-        AJ Auxerre x10
-        Dijon FCO x10
-        Tours FC x10
-        Havre AC x10
-        Châteauroux x11
-        Chamois Niortais x11
-        GFC Ajaccio x11
-        US Orléans x11
-        AC Arles Avignon x10
-        14h00  ESTAC Troyes x3
-        Stade Brestois 29 x10
-        20h30  Valenciennes FC x1
-        FC Sochaux-Montbéliard x11
-        20h00  AC Arles Avignon x10
-        20h00  AJ Auxerre x8
-        20h00  Stade Brestois 29 x8
-        20h00  GFC Ajaccio x9
-        20h00  Stade Lavallois x10
-        20h00  Châteauroux x9
-        20h00  Nîmes Olympique x8
-        Valenciennes FC x10
-        20h00  Tours FC x10
-        ESTAC Troyes x10
-        14h00  FC Sochaux-Montbéliard x2
-        AC Ajaccio x10
-        20h30  AS Nancy-Lorraine x1
-        20h00  US Créteil-Lusitanos x10
-        20h00  Dijon FCO x9
-        20h00  Havre AC x9
-        20h00  US Orléans x9
-        14h00  Clermont Foot x1
-        14h00  Valenciennes FC x1
-        20h30  Angers SCO x1
-        20h00  Chamois Niortais x9
-        20h00  FC Sochaux-Montbéliard x7
-        14h00  AJ Auxerre x1
-        20h30  Havre AC x1
-        20h00  Angers SCO x9
-        20h00  Clermont Foot x9
-        20h00  ESTAC Troyes x7
-        20h00  Valenciennes FC x8
-        14h00  Dijon FCO x1
-        20h00  AS Nancy-Lorraine x8
-        20h30  Stade Brestois 29 x1
-        20h30  Nîmes Olympique x1
-        14h00  Stade Brestois 29 x1
-        20h30  AJ Auxerre x1
+      20 clubs:
+        AC Ajaccio x20
+        AC Arles Avignon x20
+        AJ Auxerre x20
+        AS Nancy-Lorraine x20
+        Angers SCO x20
+        Chamois Niortais x20
+        Châteauroux x20
+        Clermont Foot x20
+        Dijon FCO x20
+        ESTAC Troyes x20
+        FC Sochaux-Montbéliard x20
+        GFC Ajaccio x20
+        Havre AC x20
+        Nîmes Olympique x20
+        Stade Brestois 29 x20
+        Stade Lavallois x20
+        Tours FC x20
+        US Créteil-Lusitanos x20
+        US Orléans x20
+        Valenciennes FC x20
+      20 rounds:
+        Journée 19, 10 matches
+        Journée 20, 10 matches
+        Journée 21, 10 matches
+        Journée 22, 10 matches
+        Journée 23, 10 matches
+        Journée 24, 10 matches
+        Journée 25, 10 matches
+        Journée 26, 10 matches
+        Journée 27, 10 matches
+        Journée 28, 10 matches
+        Journée 29, 10 matches
+        Journée 30, 10 matches
+        Journée 31, 10 matches
+        Journée 32, 10 matches
+        Journée 33, 10 matches
+        Journée 34, 10 matches
+        Journée 35, 10 matches
+        Journée 36, 10 matches
+        Journée 37, 10 matches
+        Journée 38, 10 matches
