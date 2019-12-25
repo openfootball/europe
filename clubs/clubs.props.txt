@@ -4,10 +4,10 @@
 Key,           Name,                    Code
 paris,         Paris SG,                PSG
 bastia,        SC Bastia,               SCB
-bordeaux,      Girondins de Bordeaux,   FCGB    ## todo/fix: allow four letter codes
+bordeaux,      Girondins de Bordeaux,   FCGB
 caen,          SM Caen,                 SMC
 lyon,          Olympique Lyonnais,      OL
-saintetienne,  AS Saint-Étienne,        ASSE    ## todo/fix: allow four letter codes
+saintetienne,  AS Saint-Étienne,        ASSE
 lille,         OSC Lille,               LOSC
 lorient,       FC Lorient,              FCL
 rennes,        Stade Rennais FC,        SRFC
@@ -18,8 +18,8 @@ montpellier,   HSC Montpellier,         MHSC
 nantes,        FC Nantes,               FCN
 reims,         Stade de Reims,          SDR
 toulouse,      Toulouse FC,             TFC
-ajacciogfc,    GFC Ajaccio,             ?
-troyes,        ESTAC Troyes,            ESTAC    ## todo/fix: allow five letter code
+##  ajacciogfc,    GFC Ajaccio,             ?     ## fix: add nil or n/a support via ?
+troyes,        ESTAC Troyes,            ESTAC
 angers,        Angers SCO,              SCO
 evian,         Évian TG,                ETG
 lens,          RC Lens,                 RCL
@@ -30,7 +30,7 @@ auxerre,       AJ Auxerre,              AJA
 brest,         Stade Brestois 29,       SB29
 chateauroux,   Châteauroux,             LBC
 clermont,      Clermont Foot 63,        CF63
-creteil,       US Créteil-Lusitanos,    USCL      ## todo/fix: allow four-letter codes
+creteil,       US Créteil-Lusitanos,    USCL
 dijon,         Dijon FCO,               DFCO
 laval,         Stade Lavallois,         LAVAL
 havre,         Havre AC,                HAC
