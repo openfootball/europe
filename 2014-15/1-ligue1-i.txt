@@ -1,4 +1,4 @@
-= Ligue 1 2014/15
+= French Ligue 1 2014/15
 
 # start_at: 2014-08-08
 # Matches Aller
