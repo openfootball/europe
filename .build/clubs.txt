@@ -1,0 +1,91 @@
+# Clubs
+
+  Ligue 1 - 1 records
+    Ligue 1 2014/15  -- teams: 20, matches: 380, rounds: 38
+
+  Ligue 2 - 1 records
+    Ligue 2 2014/15  -- teams: 20, matches: 380, rounds: 38
+
+
+40 Clubs
+
+   1. AC Ajaccio              
+      - Ligue 2                    1  (2014/15)
+   2. AC Arles-Avignon        
+      - Ligue 2                    1  (2014/15)
+   3. AJ Auxerre              
+      - Ligue 2                    1  (2014/15)
+   4. AS Monaco               
+      - Ligue 1                    1  (2014/15)
+   5. AS Nancy Lorraine       
+      - Ligue 2                    1  (2014/15)
+   6. AS Saint-Étienne        
+      - Ligue 1                    1  (2014/15)
+   7. Angers SCO              
+      - Ligue 2                    1  (2014/15)
+   8. Chamois Niortais FC     
+      - Ligue 2                    1  (2014/15)
+   9. Clermont Foot 63        
+      - Ligue 2                    1  (2014/15)
+  10. Dijon FCO               
+      - Ligue 2                    1  (2014/15)
+  11. EA Guingamp             
+      - Ligue 1                    1  (2014/15)
+  12. ES Troyes AC            
+      - Ligue 2                    1  (2014/15)
+  13. FC Lorient              
+      - Ligue 1                    1  (2014/15)
+  14. FC Metz                 
+      - Ligue 1                    1  (2014/15)
+  15. FC Nantes               
+      - Ligue 1                    1  (2014/15)
+  16. FC Sochaux-Montbéliard  
+      - Ligue 2                    1  (2014/15)
+  17. GFC Ajaccio             
+      - Ligue 2                    1  (2014/15)
+  18. Girondins de Bordeaux   
+      - Ligue 1                    1  (2014/15)
+  19. LB Châteauroux          
+      - Ligue 2                    1  (2014/15)
+  20. Le Havre AC             
+      - Ligue 2                    1  (2014/15)
+  21. Lille OSC               
+      - Ligue 1                    1  (2014/15)
+  22. Montpellier HSC         
+      - Ligue 1                    1  (2014/15)
+  23. Nîmes Olympique         
+      - Ligue 2                    1  (2014/15)
+  24. OGC Nice                
+      - Ligue 1                    1  (2014/15)
+  25. Olympique Lyonnais      
+      - Ligue 1                    1  (2014/15)
+  26. Olympique de Marseille  
+      - Ligue 1                    1  (2014/15)
+  27. Paris Saint-Germain     
+      - Ligue 1                    1  (2014/15)
+  28. RC Lens                 
+      - Ligue 1                    1  (2014/15)
+  29. SC Bastia               
+      - Ligue 1                    1  (2014/15)
+  30. Stade Brestois 29       
+      - Ligue 2                    1  (2014/15)
+  31. Stade Lavallois         
+      - Ligue 2                    1  (2014/15)
+  32. Stade Malherbe Caen     
+      - Ligue 1                    1  (2014/15)
+  33. Stade Rennais FC        
+      - Ligue 1                    1  (2014/15)
+  34. Stade de Reims          
+      - Ligue 1                    1  (2014/15)
+  35. Toulouse FC             
+      - Ligue 1                    1  (2014/15)
+  36. Tours FC                
+      - Ligue 2                    1  (2014/15)
+  37. US Créteil              
+      - Ligue 2                    1  (2014/15)
+  38. US Orléans              
+      - Ligue 2                    1  (2014/15)
+  39. Valenciennes FC         
+      - Ligue 2                    1  (2014/15)
+  40. Évian TG FC             
+      - Ligue 1                    1  (2014/15)

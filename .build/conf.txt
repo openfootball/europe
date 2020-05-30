@@ -1,22 +1,17 @@
 4 datafiles:
-[1/4] >2014-15/1-ligue1-i.txt<
-  1 section(s):
-    252 lines - league: >Ligue 1< (fr.1), season: >2014/15<, 20 clubs, 18 rounds
-[2/4] >2014-15/1-ligue1-ii.txt<
-  1 section(s):
-    265 lines - league: >Ligue 1< (fr.1), season: >2014/15<, 20 clubs, 20 rounds
-[3/4] >2014-15/2-ligue2-i.txt<
-  1 section(s):
-    247 lines - league: >Ligue 2< (fr.2), season: >2014/15<, 20 clubs, 18 rounds
-[4/4] >2014-15/2-ligue2-ii.txt<
-  1 section(s):
-    256 lines - league: >Ligue 2< (fr.2), season: >2014/15<, 20 clubs, 20 rounds
+[1/4] >2014-15/1-ligue1-i.txt< - 1 section(s):
+    252 lines, 180 matches - Ligue 1 (fr.1) 2014/15, 20 team refs, 18 round defs
+[2/4] >2014-15/1-ligue1-ii.txt< - 1 section(s):
+    265 lines, 200 matches - Ligue 1 (fr.1) 2014/15, 20 team refs, 20 round defs
+[3/4] >2014-15/2-ligue2-i.txt< - 1 section(s):
+    247 lines, 180 matches - Ligue 2 (fr.2) 2014/15, 20 team refs, 18 round defs
+[4/4] >2014-15/2-ligue2-ii.txt< - 1 section(s):
+    256 lines, 200 matches - Ligue 2 (fr.2) 2014/15, 20 team refs, 20 round defs
 
 
-[1/4] >2014-15/1-ligue1-i.txt<
-  1 section(s):
-    252 lines - league: >Ligue 1< (fr.1), season: >2014/15<
-      20 clubs:
+[1/4] >2014-15/1-ligue1-i.txt< - 1 section(s):
+    252 lines, 180 matches - Ligue 1 (fr.1) 2014/15
+      20 teams (referenced):
         18× AS Monaco FC ⇒ AS Monaco
         18× AS Saint-Étienne
         18× EA Guingamp
@@ -37,7 +32,7 @@
         18× Stade de Reims
         18× Toulouse FC
         18× Évian TG ⇒ Évian TG FC
-      18 rounds:
+      18 rounds (referenced):
         Journée 1, 10 matches
         Journée 2, 10 matches
         Journée 3, 10 matches
@@ -56,10 +51,9 @@
         Journée 16, 10 matches
         Journée 17, 10 matches
         Journée 18, 10 matches
-[2/4] >2014-15/1-ligue1-ii.txt<
-  1 section(s):
-    265 lines - league: >Ligue 1< (fr.1), season: >2014/15<
-      20 clubs:
+[2/4] >2014-15/1-ligue1-ii.txt< - 1 section(s):
+    265 lines, 200 matches - Ligue 1 (fr.1) 2014/15
+      20 teams (referenced):
         20× AS Monaco FC ⇒ AS Monaco
         20× AS Saint-Étienne
         20× EA Guingamp
@@ -80,7 +74,7 @@
         20× Stade de Reims
         20× Toulouse FC
         20× Évian TG ⇒ Évian TG FC
-      20 rounds:
+      20 rounds (referenced):
         Journée 19, 10 matches
         Journée 20, 10 matches
         Journée 21, 10 matches
@@ -101,10 +95,9 @@
         Journée 36, 10 matches
         Journée 37, 10 matches
         Journée 38, 10 matches
-[3/4] >2014-15/2-ligue2-i.txt<
-  1 section(s):
-    247 lines - league: >Ligue 2< (fr.2), season: >2014/15<
-      20 clubs:
+[3/4] >2014-15/2-ligue2-i.txt< - 1 section(s):
+    247 lines, 180 matches - Ligue 2 (fr.2) 2014/15
+      20 teams (referenced):
         18× AC Ajaccio
         18× AC Arles Avignon ⇒ AC Arles-Avignon
         18× AJ Auxerre
@@ -125,7 +118,7 @@
         18× US Créteil-Lusitanos ⇒ US Créteil
         18× US Orléans
         18× Valenciennes FC
-      18 rounds:
+      18 rounds (referenced):
         Journée 1, 10 matches
         Journée 2, 10 matches
         Journée 3, 10 matches
@@ -144,10 +137,9 @@
         Journée 16, 10 matches
         Journée 17, 10 matches
         Journée 18, 10 matches
-[4/4] >2014-15/2-ligue2-ii.txt<
-  1 section(s):
-    256 lines - league: >Ligue 2< (fr.2), season: >2014/15<
-      20 clubs:
+[4/4] >2014-15/2-ligue2-ii.txt< - 1 section(s):
+    256 lines, 200 matches - Ligue 2 (fr.2) 2014/15
+      20 teams (referenced):
         20× AC Ajaccio
         20× AC Arles Avignon ⇒ AC Arles-Avignon
         20× AJ Auxerre
@@ -168,7 +160,7 @@
         20× US Créteil-Lusitanos ⇒ US Créteil
         20× US Orléans
         20× Valenciennes FC
-      20 rounds:
+      20 rounds (referenced):
         Journée 19, 10 matches
         Journée 20, 10 matches
         Journée 21, 10 matches
