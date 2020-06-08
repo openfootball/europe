@@ -107,7 +107,7 @@ Journée 25
   16h00  Paris SG 2-2 SM Caen
   20h00  RC Lens 0-2 Évian TG
   20h00  LOSC Lille 0-0 OGC Nice
-  20h00  AS Monaco FC - Montpellier Hérault SC
+  20h00  AS Monaco FC  0-0  Montpellier Hérault SC
   20h00  FC Nantes 0-2 SC Bastia
   20h00  Toulouse FC 2-1 Stade Rennais FC
 [Dim 15. Févr]
@@ -183,127 +183,127 @@ Journée 29
 Journée 30
 
 [Ven 20. Mars]
-  20h30  Paris SG - FC Lorient
+  20h30  Paris SG  3-1  FC Lorient
 [Sam 21. Mars]
-  16h00  Olympique Lyonnais - OGC Nice
-  20h00  SC Bastia - EA Guingamp
-  20h00  SM Caen - FC Metz
-  20h00  Évian TG - Montpellier Hérault SC
-  20h00  Stade Rennais FC - FC Nantes
-  20h00  Toulouse FC - Girondins de Bordeaux
+  16h00  Olympique Lyonnais  1-2  OGC Nice
+  20h00  SC Bastia  0-0  EA Guingamp
+  20h00  SM Caen  0-0  FC Metz
+  20h00  Évian TG  1-0  Montpellier Hérault SC
+  20h00  Stade Rennais FC  0-0  FC Nantes
+  20h00  Toulouse FC  2-1  Girondins de Bordeaux
 [Dim 22. Mars]
-  14h00  AS Saint-Étienne - LOSC Lille
-  17h00  Stade de Reims - AS Monaco FC
-  21h00  RC Lens - Olympique de Marseille
+  14h00  AS Saint-Étienne  2-0  LOSC Lille
+  17h00  Stade de Reims  1-3  AS Monaco FC
+  21h00  RC Lens  0-4  Olympique de Marseille
 
 Journée 31
 
 [Sam 4. Avril]
-  20h00  Girondins de Bordeaux - RC Lens
-  20h00  EA Guingamp - Olympique Lyonnais
-  20h00  LOSC Lille - Stade de Reims
-  20h00  FC Lorient - Stade Rennais FC
-  20h00  Olympique de Marseille - Paris SG
-  20h00  FC Metz - Toulouse FC
-  20h00  AS Monaco FC - AS Saint-Étienne
-  20h00  Montpellier Hérault SC - SC Bastia
-  20h00  FC Nantes - SM Caen
-  20h00  OGC Nice - Évian TG
+  20h00  Girondins de Bordeaux  2-1  RC Lens
+  20h00  EA Guingamp  1-3  Olympique Lyonnais
+  20h00  LOSC Lille  3-1  Stade de Reims
+  20h00  FC Lorient  0-3  Stade Rennais FC
+  20h00  Olympique de Marseille  2-3  Paris SG
+  20h00  FC Metz  3-2  Toulouse FC
+  20h00  AS Monaco FC  1-1  AS Saint-Étienne
+  20h00  Montpellier Hérault SC  3-1  SC Bastia
+  20h00  FC Nantes  1-2  SM Caen
+  20h00  OGC Nice  2-2  Évian TG
 
 Journée 32
 
 [Dim 12. Avril]
-  20h00  Girondins de Bordeaux - Olympique de Marseille
-  20h00  SM Caen - AS Monaco FC
-  20h00  Évian TG - LOSC Lille
-  20h00  RC Lens - FC Lorient
-  20h00  Olympique Lyonnais - SC Bastia
-  20h00  Paris SG - FC Metz
-  20h00  Stade de Reims - OGC Nice
-  20h00  Stade Rennais FC - EA Guingamp
-  20h00  AS Saint-Étienne - FC Nantes
-  20h00  Toulouse FC - Montpellier Hérault SC
+  20h00  Girondins de Bordeaux  1-0  Olympique de Marseille
+  20h00  SM Caen  0-3  AS Monaco FC
+  20h00  Évian TG  0-1  LOSC Lille
+  20h00  RC Lens  0-0  FC Lorient
+  20h00  Olympique Lyonnais  2-0  SC Bastia
+  20h00  Paris SG  3-1  FC Metz
+  20h00  Stade de Reims  0-1  OGC Nice
+  20h00  Stade Rennais FC  1-0  EA Guingamp
+  20h00  AS Saint-Étienne  1-0  FC Nantes
+  20h00  Toulouse FC  1-0  Montpellier Hérault SC
 
 Journée 33
 
 [Sam 18. Avril]
-  20h00  SC Bastia - Stade de Reims
-  20h00  EA Guingamp - Évian TG
-  20h00  LOSC Lille - Girondins de Bordeaux
-  20h00  FC Lorient - Toulouse FC
-  20h00  Olympique Lyonnais - AS Saint-Étienne
-  20h00  FC Metz - RC Lens
-  20h00  AS Monaco FC - Stade Rennais FC
-  20h00  Montpellier Hérault SC - SM Caen
-  20h00  FC Nantes - Olympique de Marseille
-  20h00  OGC Nice - Paris SG
+  20h00  SC Bastia  1-2  Stade de Reims
+  20h00  EA Guingamp  1-1  Évian TG
+  20h00  LOSC Lille  2-0  Girondins de Bordeaux
+  20h00  FC Lorient  0-1  Toulouse FC
+  20h00  Olympique Lyonnais  2-2  AS Saint-Étienne
+  20h00  FC Metz  3-1  RC Lens
+  20h00  AS Monaco FC  1-1  Stade Rennais FC
+  20h00  Montpellier Hérault SC  1-0  SM Caen
+  20h00  FC Nantes  1-0  Olympique de Marseille
+  20h00  OGC Nice  1-3  Paris SG
 
 Journée 34
 
 [Sam 25. Avril]
-  20h00  Girondins de Bordeaux - FC Metz
-  20h00  SM Caen - EA Guingamp
-  20h00  Évian TG - SC Bastia
-  20h00  RC Lens - AS Monaco FC
-  20h00  Olympique de Marseille - FC Lorient
-  20h00  Paris SG - LOSC Lille
-  20h00  Stade de Reims - Olympique Lyonnais
-  20h00  Stade Rennais FC - OGC Nice
-  20h00  AS Saint-Étienne - Montpellier Hérault SC
-  20h00  Toulouse FC - FC Nantes
+  20h00  Girondins de Bordeaux  1-1  FC Metz
+  20h00  SM Caen  0-2  EA Guingamp
+  20h00  Évian TG  1-2  SC Bastia
+  20h00  RC Lens  0-3  AS Monaco FC
+  20h00  Olympique de Marseille  3-5  FC Lorient
+  20h00  Paris SG  6-1  LOSC Lille
+  20h00  Stade de Reims  2-4  Olympique Lyonnais
+  20h00  Stade Rennais FC  2-1  OGC Nice
+  20h00  AS Saint-Étienne  1-0  Montpellier Hérault SC
+  20h00  Toulouse FC  1-1  FC Nantes
 
 Journée 35
 
 [Sam 2. Mai]
-  20h00  SC Bastia - AS Saint-Étienne
-  20h00  EA Guingamp - Stade de Reims
-  20h00  LOSC Lille - RC Lens
-  20h00  FC Lorient - Girondins de Bordeaux
-  20h00  Olympique Lyonnais - Évian TG
-  20h00  FC Metz - Olympique de Marseille
-  20h00  AS Monaco FC - Toulouse FC
-  20h00  Montpellier Hérault SC - Stade Rennais FC
-  20h00  FC Nantes - Paris SG
-  20h00  OGC Nice - SM Caen
+  20h00  SC Bastia  1-0  AS Saint-Étienne
+  20h00  EA Guingamp  2-0  Stade de Reims
+  20h00  LOSC Lille  3-1  RC Lens
+  20h00  FC Lorient  0-0  Girondins de Bordeaux
+  20h00  Olympique Lyonnais  2-0  Évian TG
+  20h00  FC Metz  0-2  Olympique de Marseille
+  20h00  AS Monaco FC  4-1  Toulouse FC
+  20h00  Montpellier Hérault SC  0-0  Stade Rennais FC
+  20h00  FC Nantes  0-2  Paris SG
+  20h00  OGC Nice  1-1  SM Caen
 
 Journée 36
 
 [Sam 9. Mai]
-  20h00  Girondins de Bordeaux - FC Nantes
-  20h00  SM Caen - Olympique Lyonnais
-  20h00  Évian TG - Stade de Reims
-  20h00  RC Lens - Montpellier Hérault SC
-  20h00  Olympique de Marseille - AS Monaco FC
-  20h00  FC Metz - FC Lorient
-  20h00  Paris SG - EA Guingamp
-  20h00  Stade Rennais FC - SC Bastia
-  20h00  AS Saint-Étienne - OGC Nice
-  20h00  Toulouse FC - LOSC Lille
+  20h00  Girondins de Bordeaux  2-1  FC Nantes
+  20h00  SM Caen  3-0  Olympique Lyonnais
+  20h00  Évian TG  2-3  Stade de Reims
+  20h00  RC Lens  0-1  Montpellier Hérault SC
+  20h00  Olympique de Marseille  2-1  AS Monaco FC
+  20h00  FC Metz  0-4  FC Lorient
+  20h00  Paris SG  6-0  EA Guingamp
+  20h00  Stade Rennais FC  0-1  SC Bastia
+  20h00  AS Saint-Étienne  5-0  OGC Nice
+  20h00  Toulouse FC  3-2  LOSC Lille
 
 Journée 37
 
 [Sam 16. Mai]
-  20h00  SC Bastia - SM Caen
-  20h00  Évian TG - AS Saint-Étienne
-  20h00  EA Guingamp - Toulouse FC
-  20h00  LOSC Lille - Olympique de Marseille
-  20h00  Olympique Lyonnais - Girondins de Bordeaux
-  20h00  AS Monaco FC - FC Metz
-  20h00  Montpellier Hérault SC - Paris SG
-  20h00  FC Nantes - FC Lorient
-  20h00  OGC Nice - RC Lens
-  20h00  Stade de Reims - Stade Rennais FC
+  20h00  SC Bastia  1-1  SM Caen
+  20h00  Évian TG  1-2  AS Saint-Étienne
+  20h00  EA Guingamp  2-1  Toulouse FC
+  20h00  LOSC Lille  0-4  Olympique de Marseille
+  20h00  Olympique Lyonnais  1-1  Girondins de Bordeaux
+  20h00  AS Monaco FC  2-0  FC Metz
+  20h00  Montpellier Hérault SC  1-2  Paris SG
+  20h00  FC Nantes  1-1  FC Lorient
+  20h00  OGC Nice  2-1  RC Lens
+  20h00  Stade de Reims  1-0  Stade Rennais FC
 
 Journée 38
 
 [Sam 23. Mai]
-  20h00  Girondins de Bordeaux - Montpellier Hérault SC
-  20h00  SM Caen - Évian TG
-  20h00  RC Lens - FC Nantes
-  20h00  FC Lorient - AS Monaco FC
-  20h00  Olympique de Marseille - SC Bastia
-  20h00  FC Metz - LOSC Lille
-  20h00  Paris SG - Stade de Reims
-  20h00  Stade Rennais FC - Olympique Lyonnais
-  20h00  AS Saint-Étienne - EA Guingamp
-  20h00  Toulouse FC - OGC Nice
+  20h00  Girondins de Bordeaux  2-1  Montpellier Hérault SC
+  20h00  SM Caen  3-2  Évian TG
+  20h00  RC Lens  1-0  FC Nantes
+  20h00  FC Lorient  0-1  AS Monaco FC
+  20h00  Olympique de Marseille  3-0  SC Bastia
+  20h00  FC Metz  1-4  LOSC Lille
+  20h00  Paris SG  3-2  Stade de Reims
+  20h00  Stade Rennais FC  0-1  Olympique Lyonnais
+  20h00  AS Saint-Étienne  2-1  EA Guingamp
+  20h00  Toulouse FC  2-3  OGC Nice

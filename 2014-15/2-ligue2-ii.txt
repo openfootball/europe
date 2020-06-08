@@ -134,167 +134,167 @@ Journée 26
 Journée 27
 
 [Ven 6. Mars]
-  20h00  AC Ajaccio - US Créteil-Lusitanos
-  20h00  Angers SCO - Chamois Niortais
-  20h00  AC Arles Avignon - AJ Auxerre
-  20h00  Stade Brestois 29 - Châteauroux
-  20h00  Dijon FCO - Havre AC
-  20h00  AS Nancy-Lorraine - Stade Lavallois
-  20h00  Nîmes Olympique - GFC Ajaccio
-  20h00  US Orléans - Valenciennes FC
-  20h00  FC Sochaux-Montbéliard - Tours FC
-  20h00  ESTAC Troyes - Clermont Foot
+  20h00  AC Ajaccio  0-1  US Créteil-Lusitanos
+  20h00  Angers SCO  0-0  Chamois Niortais
+  20h00  AC Arles Avignon  2-4  AJ Auxerre
+  20h00  Stade Brestois 29  3-0  Châteauroux
+  20h00  Dijon FCO  1-1  Havre AC
+  20h00  AS Nancy-Lorraine  1-1  Stade Lavallois
+  20h00  Nîmes Olympique  2-0  GFC Ajaccio
+  20h00  US Orléans  0-1  Valenciennes FC
+  20h00  FC Sochaux-Montbéliard  2-1  Tours FC
+  20h00  ESTAC Troyes  2-0  Clermont Foot
 
 Journée 28
 
 [Ven 13. Mars]
-  20h00  AJ Auxerre - FC Sochaux-Montbéliard
-  20h00  Clermont Foot - Dijon FCO
-  20h00  US Créteil-Lusitanos - Angers SCO
-  20h00  GFC Ajaccio - AS Nancy-Lorraine
-  20h00  Stade Lavallois - Nîmes Olympique
-  20h00  Havre AC - US Orléans
-  20h00  Châteauroux - AC Arles Avignon
-  20h00  Chamois Niortais - AC Ajaccio
-  20h00  Tours FC - Stade Brestois 29
-  20h00  Valenciennes FC - ESTAC Troyes
+  20h00  AJ Auxerre  1-0  FC Sochaux-Montbéliard
+  20h00  Clermont Foot  2-5  Dijon FCO
+  20h00  US Créteil-Lusitanos  0-1  Angers SCO
+  20h00  GFC Ajaccio  1-0  AS Nancy-Lorraine
+  20h00  Stade Lavallois  0-1  Nîmes Olympique
+  20h00  Havre AC  3-1  US Orléans
+  20h00  Châteauroux  1-2  AC Arles Avignon
+  20h00  Chamois Niortais  1-0  AC Ajaccio
+  20h00  Tours FC  1-1  Stade Brestois 29
+  20h00  Valenciennes FC  1-1  ESTAC Troyes
 
 Journée 29
 
 [Ven 20. Mars]
-  20h00  AC Ajaccio - Clermont Foot
-  20h00  Angers SCO - Havre AC
-  20h00  AC Arles Avignon - GFC Ajaccio
-  20h00  Stade Brestois 29 - Stade Lavallois
-  20h00  Dijon FCO - Valenciennes FC
-  20h00  AS Nancy-Lorraine - AJ Auxerre
-  20h00  Nîmes Olympique - Tours FC
-  20h00  US Orléans - Chamois Niortais
-  20h00  FC Sochaux-Montbéliard - Châteauroux
-  20h00  ESTAC Troyes - US Créteil-Lusitanos
+  20h00  AC Ajaccio  1-2  Clermont Foot
+  20h00  Angers SCO  1-0  Havre AC
+  20h00  AC Arles Avignon  0-0  GFC Ajaccio
+  20h00  Stade Brestois 29  0-0  Stade Lavallois
+  20h00  Dijon FCO  1-1  Valenciennes FC
+  20h00  AS Nancy-Lorraine  2-1  AJ Auxerre
+  20h00  Nîmes Olympique  3-2  Tours FC
+  20h00  US Orléans  0-0  Chamois Niortais
+  20h00  FC Sochaux-Montbéliard  3-0  Châteauroux
+  20h00  ESTAC Troyes  2-0  US Créteil-Lusitanos
 
 Journée 30
 
 [Ven 3. Avril]
-  20h00  AJ Auxerre - Nîmes Olympique
-  20h00  Clermont Foot - Angers SCO
-  20h00  US Créteil-Lusitanos - US Orléans
-  20h00  Dijon FCO - ESTAC Troyes
-  20h00  GFC Ajaccio - Stade Brestois 29
-  20h00  Stade Lavallois - FC Sochaux-Montbéliard
-  20h00  Havre AC - AS Nancy-Lorraine
-  20h00  Chamois Niortais - AC Arles Avignon
-  20h00  Tours FC - Châteauroux
-  20h00  Valenciennes FC - AC Ajaccio
+  20h00  AJ Auxerre  3-1  Nîmes Olympique
+  20h00  Clermont Foot  2-0  Angers SCO
+  20h00  US Créteil-Lusitanos  1-0  US Orléans
+  20h00  Dijon FCO  0-1  ESTAC Troyes
+  20h00  GFC Ajaccio  1-1  Stade Brestois 29
+  20h00  Stade Lavallois  2-2  FC Sochaux-Montbéliard
+  20h00  Havre AC  0-1  AS Nancy-Lorraine
+  20h00  Chamois Niortais  1-1  AC Arles Avignon
+  20h00  Tours FC  1-0  Châteauroux
+  20h00  Valenciennes FC  1-1  AC Ajaccio
 
 Journée 31
 
 [Ven 10. Avril]
-  20h00  AC Ajaccio - Dijon FCO
-  20h00  Angers SCO - Valenciennes FC
-  20h00  AC Arles Avignon - Havre AC
-  20h00  Stade Brestois 29 - AJ Auxerre
-  20h00  Châteauroux - GFC Ajaccio
-  20h00  AS Nancy-Lorraine - Chamois Niortais
-  20h00  Nîmes Olympique - Clermont Foot
-  20h00  US Orléans - ESTAC Troyes
-  20h00  FC Sochaux-Montbéliard - US Créteil-Lusitanos
-  20h00  Tours FC - Stade Lavallois
+  20h00  AC Ajaccio  1-0  Dijon FCO
+  20h00  Angers SCO  0-0  Valenciennes FC
+  20h00  AC Arles Avignon  0-1  Havre AC
+  20h00  Stade Brestois 29  0-1  AJ Auxerre
+  20h00  Châteauroux  0-2  GFC Ajaccio
+  20h00  AS Nancy-Lorraine  1-2  Chamois Niortais
+  20h00  Nîmes Olympique  0-1  Clermont Foot
+  20h00  US Orléans  0-1  ESTAC Troyes
+  20h00  FC Sochaux-Montbéliard  2-1  US Créteil-Lusitanos
+  20h00  Tours FC  1-1  Stade Lavallois
 
 Journée 32
 
 [Ven 17. Avril]
-  20h00  AJ Auxerre - Tours FC
-  20h00  Clermont Foot - US Orléans
-  20h00  US Créteil-Lusitanos - AS Nancy-Lorraine
-  20h00  Dijon FCO - Angers SCO
-  20h00  GFC Ajaccio - FC Sochaux-Montbéliard
-  20h00  Stade Lavallois - Châteauroux
-  20h00  Havre AC - Stade Brestois 29
-  20h00  Chamois Niortais - Nîmes Olympique
-  20h00  ESTAC Troyes - AC Ajaccio
-  20h00  Valenciennes FC - AC Arles Avignon
+  20h00  AJ Auxerre  2-3  Tours FC
+  20h00  Clermont Foot  1-0  US Orléans
+  20h00  US Créteil-Lusitanos  1-1  AS Nancy-Lorraine
+  20h00  Dijon FCO  1-1  Angers SCO
+  20h00  GFC Ajaccio  3-0  FC Sochaux-Montbéliard
+  20h00  Stade Lavallois  1-0  Châteauroux
+  20h00  Havre AC  1-1  Stade Brestois 29
+  20h00  Chamois Niortais  3-2  Nîmes Olympique
+  20h00  ESTAC Troyes  2-0  AC Ajaccio
+  20h00  Valenciennes FC  3-0  AC Arles Avignon
 
 Journée 33
 
 [Ven 24. Avril]
-  20h00  Angers SCO - AC Ajaccio
-  20h00  AC Arles Avignon - Clermont Foot
-  20h00  Stade Brestois 29 - Valenciennes FC
-  20h00  Stade Lavallois - GFC Ajaccio
-  20h00  Châteauroux - AJ Auxerre
-  20h00  AS Nancy-Lorraine - ESTAC Troyes
-  20h00  Nîmes Olympique - US Créteil-Lusitanos
-  20h00  US Orléans - Dijon FCO
-  20h00  FC Sochaux-Montbéliard - Havre AC
-  20h00  Tours FC - Chamois Niortais
+  20h00  Angers SCO  1-0  AC Ajaccio
+  20h00  AC Arles Avignon  0-0  Clermont Foot
+  20h00  Stade Brestois 29  1-0  Valenciennes FC
+  20h00  Stade Lavallois  0-2  GFC Ajaccio
+  20h00  Châteauroux  2-1  AJ Auxerre
+  20h00  AS Nancy-Lorraine  2-0  ESTAC Troyes
+  20h00  Nîmes Olympique  0-1  US Créteil-Lusitanos
+  20h00  US Orléans  0-1  Dijon FCO
+  20h00  FC Sochaux-Montbéliard  0-1  Havre AC
+  20h00  Tours FC  1-0  Chamois Niortais
 
 Journée 34
 
 [Mar 28. Avril]
-  20h00  AC Ajaccio - US Orléans
-  20h00  AJ Auxerre - Stade Lavallois
-  20h00  Clermont Foot - FC Sochaux-Montbéliard
-  20h00  US Créteil-Lusitanos - Stade Brestois 29
-  20h00  Dijon FCO - AC Arles Avignon
-  20h00  GFC Ajaccio - Tours FC
-  20h00  Havre AC - Nîmes Olympique
-  20h00  Chamois Niortais - Châteauroux
-  20h00  ESTAC Troyes - Angers SCO
-  20h00  Valenciennes FC - AS Nancy-Lorraine
+  20h00  AC Ajaccio  2-3  US Orléans
+  20h00  AJ Auxerre  1-1  Stade Lavallois
+  20h00  Clermont Foot  0-0  FC Sochaux-Montbéliard
+  20h00  US Créteil-Lusitanos  2-1  Stade Brestois 29
+  20h00  Dijon FCO  1-0  AC Arles Avignon
+  20h00  GFC Ajaccio  1-1  Tours FC
+  20h00  Havre AC  2-0  Nîmes Olympique
+  20h00  Chamois Niortais  3-0  Châteauroux
+  20h00  ESTAC Troyes  2-1  Angers SCO
+  20h00  Valenciennes FC  1-1  AS Nancy-Lorraine
 
 Journée 35
 
 [Ven 1. Mai]
-  20h00  Angers SCO - US Orléans
-  20h00  AC Arles Avignon - US Créteil-Lusitanos
-  20h00  AJ Auxerre - GFC Ajaccio
-  20h00  Stade Brestois 29 - Dijon FCO
-  20h00  Stade Lavallois - Havre AC
-  20h00  Châteauroux - Valenciennes FC
-  20h00  AS Nancy-Lorraine - AC Ajaccio
-  20h00  Nîmes Olympique - ESTAC Troyes
-  20h00  FC Sochaux-Montbéliard - Chamois Niortais
-  20h00  Tours FC - Clermont Foot
+  20h00  Angers SCO  2-1  US Orléans
+  20h00  AC Arles Avignon  2-0  US Créteil-Lusitanos
+  20h00  AJ Auxerre  0-0  GFC Ajaccio
+  20h00  Stade Brestois 29  0-0  Dijon FCO
+  20h00  Stade Lavallois  1-1  Havre AC
+  20h00  Châteauroux  3-0  Valenciennes FC
+  20h00  AS Nancy-Lorraine  2-0  AC Ajaccio
+  20h00  Nîmes Olympique  1-2  ESTAC Troyes
+  20h00  FC Sochaux-Montbéliard  2-3  Chamois Niortais
+  20h00  Tours FC  0-1  Clermont Foot
 
 Journée 36
 
 [Ven 8. Mai]
-  20h00  AC Ajaccio - Stade Brestois 29
-  20h00  Angers SCO - FC Sochaux-Montbéliard
-  20h00  Clermont Foot - AS Nancy-Lorraine
-  20h00  US Créteil-Lusitanos - GFC Ajaccio
-  20h00  Dijon FCO - Châteauroux
-  20h00  Havre AC - Tours FC
-  20h00  Chamois Niortais - AJ Auxerre
-  20h00  US Orléans - Nîmes Olympique
-  20h00  ESTAC Troyes - AC Arles Avignon
-  20h00  Valenciennes FC - Stade Lavallois
+  20h00  AC Ajaccio  2-1  Stade Brestois 29
+  20h00  Angers SCO  0-0  FC Sochaux-Montbéliard
+  20h00  Clermont Foot  0-1  AS Nancy-Lorraine
+  20h00  US Créteil-Lusitanos  1-1  GFC Ajaccio
+  20h00  Dijon FCO  0-1  Châteauroux
+  20h00  Havre AC  0-1  Tours FC
+  20h00  Chamois Niortais  1-1  AJ Auxerre
+  20h00  US Orléans  1-1  Nîmes Olympique
+  20h00  ESTAC Troyes  4-0  AC Arles Avignon
+  20h00  Valenciennes FC  2-2  Stade Lavallois
 
 Journée 37
 
 [Ven 15. Mai]
-  20h00  AC Arles Avignon - US Orléans
-  20h00  AJ Auxerre - US Créteil-Lusitanos
-  20h00  Stade Brestois 29 - ESTAC Troyes
-  20h00  GFC Ajaccio - Chamois Niortais
-  20h00  Stade Lavallois - Clermont Foot
-  20h00  Châteauroux - Havre AC
-  20h00  AS Nancy-Lorraine - Angers SCO
-  20h00  Nîmes Olympique - AC Ajaccio
-  20h00  FC Sochaux-Montbéliard - Valenciennes FC
-  20h00  Tours FC - Dijon FCO
+  20h00  AC Arles Avignon  4-1  US Orléans
+  20h00  AJ Auxerre  2-2  US Créteil-Lusitanos
+  20h00  Stade Brestois 29  2-1  ESTAC Troyes
+  20h00  GFC Ajaccio  3-2  Chamois Niortais
+  20h00  Stade Lavallois  3-1  Clermont Foot
+  20h00  Châteauroux  0-0  Havre AC
+  20h00  AS Nancy-Lorraine  0-0  Angers SCO
+  20h00  Nîmes Olympique  1-1  AC Ajaccio
+  20h00  FC Sochaux-Montbéliard  1-1  Valenciennes FC
+  20h00  Tours FC  0-0  Dijon FCO
 
 Journée 38
 
 [Ven 22. Mai]
-  20h00  AC Ajaccio - AC Arles Avignon
-  20h00  Angers SCO - Nîmes Olympique
-  20h00  Clermont Foot - Stade Brestois 29
-  20h00  US Créteil-Lusitanos - Tours FC
-  20h00  Dijon FCO - AS Nancy-Lorraine
-  20h00  Havre AC - AJ Auxerre
-  20h00  Chamois Niortais - Stade Lavallois
-  20h00  US Orléans - FC Sochaux-Montbéliard
-  20h00  ESTAC Troyes - Châteauroux
-  20h00  Valenciennes FC - GFC Ajaccio
+  20h00  AC Ajaccio  2-1  AC Arles Avignon
+  20h00  Angers SCO  3-0  Nîmes Olympique
+  20h00  Clermont Foot  1-0  Stade Brestois 29
+  20h00  US Créteil-Lusitanos  1-4  Tours FC
+  20h00  Dijon FCO  3-1  AS Nancy-Lorraine
+  20h00  Havre AC  2-1  AJ Auxerre
+  20h00  Chamois Niortais  0-3  Stade Lavallois
+  20h00  US Orléans  1-0  FC Sochaux-Montbéliard
+  20h00  ESTAC Troyes  4-1  Châteauroux
+  20h00  Valenciennes FC  2-1  GFC Ajaccio
