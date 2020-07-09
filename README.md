@@ -65,9 +65,9 @@ Build the database for all French clubs, leagues and seasons:
 
     $ sportdb new fr
 
-Build the database for the 2014/15 season:
+Build the database for the 2019/20 season:
 
-    $ sportdb new fr2014-15
+    $ sportdb new fr2019-20
 
 
 
