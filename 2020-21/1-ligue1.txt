@@ -1,0 +1,537 @@
+= French Ligue 1 2020/21
+
+
+Journée 1
+[Ven 21. Août]
+  Olympique de Marseille   -  AS Saint-Étienne
+[Sam 22. Août]
+  Girondins de Bordeaux    -  FC Nantes
+  Lille OSC                -  Stade Rennais FC
+  AS Monaco                -  Stade de Reims
+  Montpellier HSC          -  Olympique Lyonnais
+  OGC Nice                 -  RC Lens
+  Paris Saint-Germain      -  FC Metz
+[Dim 23. Août]
+  Dijon FCO                -  Angers SCO
+  FC Lorient               -  RC Strasbourg
+  Nîmes Olympique          -  Stade Brestois 29
+
+
+Journée 2
+[Ven 28. Août]
+  Olympique Lyonnais       -  Dijon FCO
+[Sam 29. Août]
+  Stade Rennais FC         -  Montpellier HSC
+  RC Lens                  -  Paris Saint-Germain
+[Dim 30. Août]
+  Stade Brestois 29        -  Olympique de Marseille
+  Angers SCO               -  Girondins de Bordeaux
+  FC Metz                  -  AS Monaco
+  FC Nantes                -  Nîmes Olympique
+  AS Saint-Étienne         -  FC Lorient
+  RC Strasbourg            -  OGC Nice
+  Stade de Reims           -  Lille OSC
+
+
+Journée 3
+[Dim 13. Sept]
+  Angers SCO               -  Stade de Reims
+  Girondins de Bordeaux    -  Olympique Lyonnais
+  Dijon FCO                -  Stade Brestois 29
+  Lille OSC                -  FC Metz
+  FC Lorient               -  RC Lens
+  AS Monaco                -  FC Nantes
+  Montpellier HSC          -  OGC Nice
+  Nîmes Olympique          -  Stade Rennais FC
+  Paris Saint-Germain      -  Olympique de Marseille
+  AS Saint-Étienne         -  RC Strasbourg
+
+
+Journée 4
+[Dim 20. Sept]
+  Stade Brestois 29        -  FC Lorient
+  RC Lens                  -  Girondins de Bordeaux
+  Olympique Lyonnais       -  Nîmes Olympique
+  Olympique de Marseille   -  Lille OSC
+  FC Metz                  -  Stade de Reims
+  Montpellier HSC          -  Angers SCO
+  FC Nantes                -  AS Saint-Étienne
+  OGC Nice                 -  Paris Saint-Germain
+  Stade Rennais FC         -  AS Monaco
+  RC Strasbourg            -  Dijon FCO
+
+
+Journée 5
+[Dim 27. Sept]
+  Angers SCO               -  Stade Brestois 29
+  Girondins de Bordeaux    -  OGC Nice
+  Dijon FCO                -  Montpellier HSC
+  Lille OSC                -  FC Nantes
+  FC Lorient               -  Olympique Lyonnais
+  Olympique de Marseille   -  FC Metz
+  AS Monaco                -  RC Strasbourg
+  Nîmes Olympique          -  RC Lens
+  Stade de Reims           -  Paris Saint-Germain
+  AS Saint-Étienne         -  Stade Rennais FC
+
+
+Journée 6
+[Dim 4. Oct]
+  Girondins de Bordeaux    -  Dijon FCO
+  Stade Brestois 29        -  AS Monaco
+  RC Lens                  -  AS Saint-Étienne
+  Olympique Lyonnais       -  Olympique de Marseille
+  FC Metz                  -  FC Lorient
+  Montpellier HSC          -  Nîmes Olympique
+  OGC Nice                 -  FC Nantes
+  Paris Saint-Germain      -  Angers SCO
+  Stade Rennais FC         -  Stade de Reims
+  RC Strasbourg            -  Lille OSC
+
+
+Journée 7
+[Dim 18. Oct]
+  Angers SCO               -  FC Metz
+  Dijon FCO                -  Stade Rennais FC
+  Lille OSC                -  RC Lens
+  Olympique de Marseille   -  Girondins de Bordeaux
+  AS Monaco                -  Montpellier HSC
+  FC Nantes                -  Stade Brestois 29
+  Nîmes Olympique          -  Paris Saint-Germain
+  Stade de Reims           -  FC Lorient
+  AS Saint-Étienne         -  OGC Nice
+  RC Strasbourg            -  Olympique Lyonnais
+
+
+Journée 8
+[Dim 25. Oct]
+  Girondins de Bordeaux    -  Nîmes Olympique
+  Stade Brestois 29        -  RC Strasbourg
+  RC Lens                  -  FC Nantes
+  FC Lorient               -  Olympique de Marseille
+  Olympique Lyonnais       -  AS Monaco
+  FC Metz                  -  AS Saint-Étienne
+  Montpellier HSC          -  Stade de Reims
+  OGC Nice                 -  Lille OSC
+  Paris Saint-Germain      -  Dijon FCO
+  Stade Rennais FC         -  Angers SCO
+
+
+Journée 9
+[Dim 1. Nov]
+  Angers SCO               -  OGC Nice
+  Dijon FCO                -  FC Lorient
+  Lille OSC                -  Olympique Lyonnais
+  Olympique de Marseille   -  RC Lens
+  AS Monaco                -  Girondins de Bordeaux
+  FC Nantes                -  Paris Saint-Germain
+  Nîmes Olympique          -  FC Metz
+  Stade de Reims           -  RC Strasbourg
+  Stade Rennais FC         -  Stade Brestois 29
+  AS Saint-Étienne         -  Montpellier HSC
+
+
+Journée 10
+[Dim 8. Nov]
+  Girondins de Bordeaux    -  Montpellier HSC
+  Stade Brestois 29        -  Lille OSC
+  RC Lens                  -  Stade de Reims
+  FC Lorient               -  FC Nantes
+  Olympique Lyonnais       -  AS Saint-Étienne
+  FC Metz                  -  Dijon FCO
+  OGC Nice                 -  AS Monaco
+  Nîmes Olympique          -  Angers SCO
+  Paris Saint-Germain      -  Stade Rennais FC
+  RC Strasbourg            -  Olympique de Marseille
+
+
+Journée 11
+[Dim 22. Nov]
+  Angers SCO               -  Olympique Lyonnais
+  Stade Brestois 29        -  AS Saint-Étienne
+  Dijon FCO                -  RC Lens
+  Lille OSC                -  FC Lorient
+  Olympique de Marseille   -  OGC Nice
+  AS Monaco                -  Paris Saint-Germain
+  Montpellier HSC          -  RC Strasbourg
+  FC Nantes                -  FC Metz
+  Stade de Reims           -  Nîmes Olympique
+  Stade Rennais FC         -  Girondins de Bordeaux
+
+
+Journée 12
+[Dim 29. Nov]
+  RC Lens                  -  Angers SCO
+  FC Lorient               -  Montpellier HSC
+  Olympique Lyonnais       -  Stade de Reims
+  Olympique de Marseille   -  FC Nantes
+  FC Metz                  -  Stade Brestois 29
+  AS Monaco                -  Nîmes Olympique
+  OGC Nice                 -  Dijon FCO
+  Paris Saint-Germain      -  Girondins de Bordeaux
+  AS Saint-Étienne         -  Lille OSC
+  RC Strasbourg            -  Stade Rennais FC
+
+
+Journée 13
+[Dim 6. Déc]
+  Angers SCO               -  FC Lorient
+  Girondins de Bordeaux    -  Stade Brestois 29
+  Dijon FCO                -  AS Saint-Étienne
+  Lille OSC                -  AS Monaco
+  FC Metz                  -  Olympique Lyonnais
+  Montpellier HSC          -  Paris Saint-Germain
+  FC Nantes                -  RC Strasbourg
+  Nîmes Olympique          -  Olympique de Marseille
+  Stade de Reims           -  OGC Nice
+  Stade Rennais FC         -  RC Lens
+
+
+Journée 14
+[Dim 13. Déc]
+  Stade Brestois 29        -  Stade de Reims
+  RC Lens                  -  Montpellier HSC
+  Lille OSC                -  Girondins de Bordeaux
+  FC Lorient               -  Nîmes Olympique
+  Olympique de Marseille   -  AS Monaco
+  FC Nantes                -  Dijon FCO
+  OGC Nice                 -  Stade Rennais FC
+  Paris Saint-Germain      -  Olympique Lyonnais
+  AS Saint-Étienne         -  Angers SCO
+  RC Strasbourg            -  FC Metz
+
+
+Journée 15
+[Mer 16. Déc]
+  Angers SCO               -  RC Strasbourg
+  Girondins de Bordeaux    -  AS Saint-Étienne
+  Dijon FCO                -  Lille OSC
+  Olympique Lyonnais       -  Stade Brestois 29
+  AS Monaco                -  RC Lens
+  Montpellier HSC          -  FC Metz
+  Nîmes Olympique          -  OGC Nice
+  Paris Saint-Germain      -  FC Lorient
+  Stade de Reims           -  FC Nantes
+  Stade Rennais FC         -  Olympique de Marseille
+
+
+Journée 16
+[Dim 20. Déc]
+  Stade Brestois 29        -  Montpellier HSC
+  Dijon FCO                -  AS Monaco
+  Lille OSC                -  Paris Saint-Germain
+  FC Lorient               -  Stade Rennais FC
+  Olympique de Marseille   -  Stade de Reims
+  FC Metz                  -  RC Lens
+  FC Nantes                -  Angers SCO
+  OGC Nice                 -  Olympique Lyonnais
+  AS Saint-Étienne         -  Nîmes Olympique
+  RC Strasbourg            -  Girondins de Bordeaux
+
+
+Journée 17
+[Mer 23. Déc]
+  Angers SCO               -  Olympique de Marseille
+  Girondins de Bordeaux    -  Stade de Reims
+  RC Lens                  -  Stade Brestois 29
+  Olympique Lyonnais       -  FC Nantes
+  AS Monaco                -  AS Saint-Étienne
+  Montpellier HSC          -  Lille OSC
+  OGC Nice                 -  FC Lorient
+  Nîmes Olympique          -  Dijon FCO
+  Paris Saint-Germain      -  RC Strasbourg
+  Stade Rennais FC         -  FC Metz
+
+
+Journée 18
+[Mer 6. Jan]
+  Stade Brestois 29        -  OGC Nice
+  Lille OSC                -  Angers SCO
+  FC Lorient               -  AS Monaco
+  Olympique Lyonnais       -  RC Lens
+  Olympique de Marseille   -  Montpellier HSC
+  FC Metz                  -  Girondins de Bordeaux
+  FC Nantes                -  Stade Rennais FC
+  Stade de Reims           -  Dijon FCO
+  AS Saint-Étienne         -  Paris Saint-Germain
+  RC Strasbourg            -  Nîmes Olympique
+
+
+Journée 19
+[Dim 10. Jan]
+  Girondins de Bordeaux    -  FC Lorient
+  Dijon FCO                -  Olympique de Marseille
+  RC Lens                  -  RC Strasbourg
+  FC Metz                  -  OGC Nice
+  AS Monaco                -  Angers SCO
+  Montpellier HSC          -  FC Nantes
+  Nîmes Olympique          -  Lille OSC
+  Paris Saint-Germain      -  Stade Brestois 29
+  Stade de Reims           -  AS Saint-Étienne
+  Stade Rennais FC         -  Olympique Lyonnais
+
+
+Journée 20
+[Mer 20. Jan]
+  Angers SCO               -  Paris Saint-Germain
+  Stade Brestois 29        -  Stade Rennais FC
+  Lille OSC                -  Stade de Reims
+  FC Lorient               -  Dijon FCO
+  Olympique Lyonnais       -  FC Metz
+  Olympique de Marseille   -  Nîmes Olympique
+  Montpellier HSC          -  AS Monaco
+  FC Nantes                -  RC Lens
+  OGC Nice                 -  Girondins de Bordeaux
+  RC Strasbourg            -  AS Saint-Étienne
+
+
+Journée 21
+[Dim 24. Jan]
+  Girondins de Bordeaux    -  Angers SCO
+  Dijon FCO                -  RC Strasbourg
+  RC Lens                  -  OGC Nice
+  FC Metz                  -  FC Nantes
+  AS Monaco                -  Olympique de Marseille
+  Nîmes Olympique          -  FC Lorient
+  Paris Saint-Germain      -  Montpellier HSC
+  Stade de Reims           -  Stade Brestois 29
+  Stade Rennais FC         -  Lille OSC
+  AS Saint-Étienne         -  Olympique Lyonnais
+
+
+Journée 22
+[Dim 31. Jan]
+  Angers SCO               -  Nîmes Olympique
+  Stade Brestois 29        -  FC Metz
+  Lille OSC                -  Dijon FCO
+  FC Lorient               -  Paris Saint-Germain
+  Olympique de Marseille   -  Stade Rennais FC
+  Montpellier HSC          -  RC Lens
+  FC Nantes                -  AS Monaco
+  OGC Nice                 -  AS Saint-Étienne
+  RC Strasbourg            -  Stade de Reims
+  Olympique Lyonnais       -  Girondins de Bordeaux
+
+
+Journée 23
+[Mer 3. Fév]
+  Girondins de Bordeaux    -  Lille OSC
+  Dijon FCO                -  Olympique Lyonnais
+  RC Lens                  -  Olympique de Marseille
+  FC Metz                  -  Montpellier HSC
+  Paris Saint-Germain      -  Nîmes Olympique
+  Stade de Reims           -  Angers SCO
+  Stade Rennais FC         -  FC Lorient
+  AS Saint-Étienne         -  FC Nantes
+  RC Strasbourg            -  Stade Brestois 29
+  AS Monaco                -  OGC Nice
+
+
+Journée 24
+[Dim 7. Fév]
+  Stade Brestois 29        -  Girondins de Bordeaux
+  RC Lens                  -  Stade Rennais FC
+  FC Lorient               -  Stade de Reims
+  Olympique Lyonnais       -  RC Strasbourg
+  Olympique de Marseille   -  Paris Saint-Germain
+  Montpellier HSC          -  Dijon FCO
+  FC Nantes                -  Lille OSC
+  OGC Nice                 -  Angers SCO
+  Nîmes Olympique          -  AS Monaco
+  AS Saint-Étienne         -  FC Metz
+
+
+Journée 25
+[Dim 14. Fév]
+  Angers SCO               -  FC Nantes
+  Girondins de Bordeaux    -  Olympique de Marseille
+  Dijon FCO                -  Nîmes Olympique
+  Lille OSC                -  Stade Brestois 29
+  Olympique Lyonnais       -  Montpellier HSC
+  FC Metz                  -  RC Strasbourg
+  AS Monaco                -  FC Lorient
+  Paris Saint-Germain      -  OGC Nice
+  Stade de Reims           -  RC Lens
+  Stade Rennais FC         -  AS Saint-Étienne
+
+
+Journée 26
+[Dim 21. Fév]
+  Stade Brestois 29        -  Olympique Lyonnais
+  RC Lens                  -  Dijon FCO
+  FC Lorient               -  Lille OSC
+  Montpellier HSC          -  Stade Rennais FC
+  FC Nantes                -  Olympique de Marseille
+  OGC Nice                 -  FC Metz
+  Nîmes Olympique          -  Girondins de Bordeaux
+  Paris Saint-Germain      -  AS Monaco
+  AS Saint-Étienne         -  Stade de Reims
+  RC Strasbourg            -  Angers SCO
+
+
+Journée 27
+[Dim 28. Fév]
+  Angers SCO               -  RC Lens
+  Girondins de Bordeaux    -  FC Metz
+  Dijon FCO                -  Paris Saint-Germain
+  Lille OSC                -  RC Strasbourg
+  FC Lorient               -  AS Saint-Étienne
+  Olympique de Marseille   -  Olympique Lyonnais
+  AS Monaco                -  Stade Brestois 29
+  Nîmes Olympique          -  FC Nantes
+  Stade de Reims           -  Montpellier HSC
+  Stade Rennais FC         -  OGC Nice
+
+
+Journée 28
+[Dim 7. Mars]
+  Girondins de Bordeaux    -  Paris Saint-Germain
+  Stade Brestois 29        -  Dijon FCO
+  Lille OSC                -  Olympique de Marseille
+  Olympique Lyonnais       -  Stade Rennais FC
+  FC Metz                  -  Angers SCO
+  Montpellier HSC          -  FC Lorient
+  FC Nantes                -  Stade de Reims
+  OGC Nice                 -  Nîmes Olympique
+  AS Saint-Étienne         -  RC Lens
+  RC Strasbourg            -  AS Monaco
+
+
+Journée 29
+[Dim 14. Mars]
+  Angers SCO               -  AS Saint-Étienne
+  Dijon FCO                -  Girondins de Bordeaux
+  RC Lens                  -  FC Metz
+  FC Lorient               -  OGC Nice
+  Olympique de Marseille   -  Stade Brestois 29
+  AS Monaco                -  Lille OSC
+  Nîmes Olympique          -  Montpellier HSC
+  Paris Saint-Germain      -  FC Nantes
+  Stade de Reims           -  Olympique Lyonnais
+  Stade Rennais FC         -  RC Strasbourg
+
+
+Journée 30
+[Dim 21. Mars]
+  Stade Brestois 29        -  Angers SCO
+  Dijon FCO                -  Stade de Reims
+  Lille OSC                -  Nîmes Olympique
+  Olympique Lyonnais       -  Paris Saint-Germain
+  FC Metz                  -  Stade Rennais FC
+  Montpellier HSC          -  Girondins de Bordeaux
+  FC Nantes                -  FC Lorient
+  OGC Nice                 -  Olympique de Marseille
+  AS Saint-Étienne         -  AS Monaco
+  RC Strasbourg            -  RC Lens
+
+
+Journée 31
+[Dim 4. Avril]
+  Angers SCO               -  Montpellier HSC
+  Girondins de Bordeaux    -  RC Strasbourg
+  RC Lens                  -  Olympique Lyonnais
+  FC Lorient               -  Stade Brestois 29
+  Olympique de Marseille   -  Dijon FCO
+  AS Monaco                -  FC Metz
+  FC Nantes                -  OGC Nice
+  Nîmes Olympique          -  AS Saint-Étienne
+  Paris Saint-Germain      -  Lille OSC
+  Stade de Reims           -  Stade Rennais FC
+
+
+Journée 32
+[Dim 11. Avril]
+  Stade Brestois 29        -  Nîmes Olympique
+  RC Lens                  -  FC Lorient
+  Olympique Lyonnais       -  Angers SCO
+  FC Metz                  -  Lille OSC
+  AS Monaco                -  Dijon FCO
+  Montpellier HSC          -  Olympique de Marseille
+  OGC Nice                 -  Stade de Reims
+  Stade Rennais FC         -  FC Nantes
+  AS Saint-Étienne         -  Girondins de Bordeaux
+  RC Strasbourg            -  Paris Saint-Germain
+
+
+Journée 33
+[Dim 18. Avril]
+  Angers SCO               -  Stade Rennais FC
+  Girondins de Bordeaux    -  AS Monaco
+  Stade Brestois 29        -  RC Lens
+  Dijon FCO                -  OGC Nice
+  Lille OSC                -  Montpellier HSC
+  Olympique de Marseille   -  FC Lorient
+  FC Nantes                -  Olympique Lyonnais
+  Nîmes Olympique          -  RC Strasbourg
+  Paris Saint-Germain      -  AS Saint-Étienne
+  Stade de Reims           -  FC Metz
+
+
+Journée 34
+[Mer 21. Avril]
+  Angers SCO               -  AS Monaco
+  RC Lens                  -  Nîmes Olympique
+  FC Lorient               -  Girondins de Bordeaux
+  Olympique Lyonnais       -  Lille OSC
+  FC Metz                  -  Paris Saint-Germain
+  OGC Nice                 -  Montpellier HSC
+  Stade de Reims           -  Olympique de Marseille
+  Stade Rennais FC         -  Dijon FCO
+  AS Saint-Étienne         -  Stade Brestois 29
+  RC Strasbourg            -  FC Nantes
+
+
+Journée 35
+[Dim 2. Mai]
+  Girondins de Bordeaux    -  Stade Rennais FC
+  Stade Brestois 29        -  FC Nantes
+  Dijon FCO                -  FC Metz
+  Lille OSC                -  OGC Nice
+  FC Lorient               -  Angers SCO
+  Olympique de Marseille   -  RC Strasbourg
+  AS Monaco                -  Olympique Lyonnais
+  Montpellier HSC          -  AS Saint-Étienne
+  Nîmes Olympique          -  Stade de Reims
+  Paris Saint-Germain      -  RC Lens
+
+
+Journée 36
+[Dim 9. Mai]
+  Angers SCO               -  Dijon FCO
+  RC Lens                  -  Lille OSC
+  Olympique Lyonnais       -  FC Lorient
+  FC Metz                  -  Nîmes Olympique
+  FC Nantes                -  Girondins de Bordeaux
+  OGC Nice                 -  Stade Brestois 29
+  Stade de Reims           -  AS Monaco
+  Stade Rennais FC         -  Paris Saint-Germain
+  AS Saint-Étienne         -  Olympique de Marseille
+  RC Strasbourg            -  Montpellier HSC
+
+
+Journée 37
+[Dim 16. Mai]
+  Girondins de Bordeaux    -  RC Lens
+  Dijon FCO                -  FC Nantes
+  Lille OSC                -  AS Saint-Étienne
+  FC Lorient               -  FC Metz
+  Olympique de Marseille   -  Angers SCO
+  AS Monaco                -  Stade Rennais FC
+  Montpellier HSC          -  Stade Brestois 29
+  OGC Nice                 -  RC Strasbourg
+  Nîmes Olympique          -  Olympique Lyonnais
+  Paris Saint-Germain      -  Stade de Reims
+
+
+Journée 38
+[Dim 23. Mai]
+  Angers SCO               -  Lille OSC
+  Stade Brestois 29        -  Paris Saint-Germain
+  RC Lens                  -  AS Monaco
+  Olympique Lyonnais       -  OGC Nice
+  FC Metz                  -  Olympique de Marseille
+  FC Nantes                -  Montpellier HSC
+  Stade de Reims           -  Girondins de Bordeaux
+  Stade Rennais FC         -  Nîmes Olympique
+  AS Saint-Étienne         -  Dijon FCO
+  RC Strasbourg            -  FC Lorient
