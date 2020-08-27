@@ -3,70 +3,80 @@
 
 Journée 1
 [Ven 21. Août]
-  Olympique de Marseille   -  AS Saint-Étienne
+  19.00  Girondins de Bordeaux    0-0  FC Nantes
 [Sam 22. Août]
-  Girondins de Bordeaux    -  FC Nantes
-  Lille OSC                -  Stade Rennais FC
-  AS Monaco                -  Stade de Reims
-  Montpellier HSC          -  Olympique Lyonnais
-  OGC Nice                 -  RC Lens
-  Paris Saint-Germain      -  FC Metz
+  17.00  Dijon FCO                0-1 (0-1)  Angers SCO
+  21.00  Lille OSC                1-1 (1-0)  Stade Rennais FC
 [Dim 23. Août]
-  Dijon FCO                -  Angers SCO
-  FC Lorient               -  RC Strasbourg
-  Nîmes Olympique          -  Stade Brestois 29
+  13.00  AS Monaco                2-2 (1-2)  Stade de Reims
+  15.00  Nîmes Olympique          4-0 (2-0)  Stade Brestois 29
+         FC Lorient               3-1 (0-1)  RC Strasbourg
+  17.00  OGC Nice                 2-1 (1-1)  RC Lens
 
 
 Journée 2
 [Ven 28. Août]
-  Olympique Lyonnais       -  Dijon FCO
+  21.00  Olympique Lyonnais       -  Dijon FCO
 [Sam 29. Août]
-  Stade Rennais FC         -  Montpellier HSC
-  RC Lens                  -  Paris Saint-Germain
+  17.00  Stade Rennais FC         -  Montpellier HSC
+  21.00  RC Lens                  -  Paris Saint-Germain
 [Dim 30. Août]
-  Stade Brestois 29        -  Olympique de Marseille
-  Angers SCO               -  Girondins de Bordeaux
-  FC Metz                  -  AS Monaco
-  FC Nantes                -  Nîmes Olympique
-  AS Saint-Étienne         -  FC Lorient
-  RC Strasbourg            -  OGC Nice
-  Stade de Reims           -  Lille OSC
+  13.00  Stade de Reims           -  Lille OSC
+  15.00  AS Saint-Étienne         -  FC Lorient
+         FC Metz                  -  AS Monaco
+         Angers SCO               -  Girondins de Bordeaux
+         FC Nantes                -  Nîmes Olympique
+  17.00  RC Strasbourg            -  OGC Nice
+  21.00  Stade Brestois 29        -  Olympique de Marseille
 
 
 Journée 3
+[Ven 11. Sept]
+  21.00  Girondins de Bordeaux    -  Olympique Lyonnais
+[Sam 12. Sept]
+  17.00  Montpellier HSC          -  OGC Nice
+  21.00  AS Saint-Étienne         -  RC Strasbourg
 [Dim 13. Sept]
-  Angers SCO               -  Stade de Reims
-  Girondins de Bordeaux    -  Olympique Lyonnais
-  Dijon FCO                -  Stade Brestois 29
-  Lille OSC                -  FC Metz
-  FC Lorient               -  RC Lens
-  AS Monaco                -  FC Nantes
-  Montpellier HSC          -  OGC Nice
-  Nîmes Olympique          -  Stade Rennais FC
-  Paris Saint-Germain      -  Olympique de Marseille
-  AS Saint-Étienne         -  RC Strasbourg
+  13.00  Lille OSC                -  FC Metz
+  15.00  Angers SCO               -  Stade de Reims
+         Dijon FCO                -  Stade Brestois 29
+         Nîmes Olympique          -  Stade Rennais FC
+         FC Lorient               -  RC Lens
+  17.00  AS Monaco                -  FC Nantes
+  21.00  Paris Saint-Germain      -  Olympique de Marseille
+
+
+Journée 1
+[Mar  15. Sept]
+  21.00  Montpellier HSC          -  Olympique Lyonnais
+[Mer 16. Sept]
+  19.00  Paris Saint-Germain      -  FC Metz
+[Jeu 17. Sept]
+  21.00  Olympique de Marseille   -  AS Saint-Étienne
 
 
 Journée 4
+[Ven 18. Sept]
+  21.00  Olympique Lyonnais       -  Nîmes Olympique
+[Sam 19. Sept]
+  17.00  RC Lens                  -  Girondins de Bordeaux
+  21.00  Stade Rennais FC         -  AS Monaco
 [Dim 20. Sept]
-  Stade Brestois 29        -  FC Lorient
-  RC Lens                  -  Girondins de Bordeaux
-  Olympique Lyonnais       -  Nîmes Olympique
-  Olympique de Marseille   -  Lille OSC
-  FC Metz                  -  Stade de Reims
-  Montpellier HSC          -  Angers SCO
-  FC Nantes                -  AS Saint-Étienne
-  OGC Nice                 -  Paris Saint-Germain
-  Stade Rennais FC         -  AS Monaco
-  RC Strasbourg            -  Dijon FCO
+  15.00  FC Metz                  -  Stade de Reims
+         Stade Brestois 29        -  FC Lorient
+         Montpellier HSC          -  Angers SCO
+         OGC Nice                 -  Paris Saint-Germain
+         RC Strasbourg            -  Dijon FCO
+  17.00  FC Nantes                -  AS Saint-Étienne
+  21.00  Olympique de Marseille   -  Lille OSC
 
 
 Journée 5
 [Dim 27. Sept]
-  Angers SCO               -  Stade Brestois 29
+  Lille OSC                -  FC Nantes
   Girondins de Bordeaux    -  OGC Nice
   Dijon FCO                -  Montpellier HSC
-  Lille OSC                -  FC Nantes
+  Angers SCO               -  Stade Brestois 29
   FC Lorient               -  Olympique Lyonnais
   Olympique de Marseille   -  FC Metz
   AS Monaco                -  RC Strasbourg

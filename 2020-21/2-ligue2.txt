@@ -3,531 +3,534 @@
 
 Journée 1
 [Sam 22. Août]
-  AC Ajaccio               -  LB Châteauroux
-  AJ Auxerre               -  FC Sochaux-Montbéliard
-  Clermont Foot 63         -  Stade Malherbe Caen
-  EA Guingamp              -  Chamois Niortais FC
-  ES Troyes AC             -  Le Havre AC
-  FC Chambly               -  Paris FC
-  Toulouse FC              -  USL Dunkerque
-  Valenciennes FC          -  Pau FC
-  Rodez AF                 -  Grenoble Foot 38
-  Amiens SC                -  AS Nancy Lorraine
+  15.00  Toulouse FC              0-1 (0-0)  USL Dunkerque
+  19.00  AC Ajaccio               0-1 (0-0)  LB Châteauroux
+         AJ Auxerre               0-2 (0-1)  FC Sochaux-Montbéliard
+         Clermont Foot 63         0-0  Stade Malherbe Caen
+         EA Guingamp              0-1 (0-1)  Chamois Niortais FC
+         FC Chambly               0-3 (0-1)  Paris FC
+         Valenciennes FC          3-0 (2-0)  Pau FC
+         Rodez AF                 1-0 (0-0)  Grenoble Foot 38
+         Amiens SC                1-0 (0-0)  AS Nancy Lorraine
+[Lun 24. Août]
+  20.45  ES Troyes AC             2-0 (0-0)  Le Havre AC
 
 
 Journée 2
 [Sam 29. Août]
-  Le Havre AC              -  Amiens SC
-  AS Nancy Lorraine        -  EA Guingamp
-  Chamois Niortais FC      -  FC Chambly
-  Paris FC                 -  Valenciennes FC
-  Pau FC                   -  Rodez AF
-  FC Sochaux-Montbéliard   -  ES Troyes AC
-  Grenoble Foot 38         -  Toulouse FC
-  LB Châteauroux           -  AJ Auxerre
-  Stade Malherbe Caen      -  AC Ajaccio
-  USL Dunkerque            -  Clermont Foot 63
+  15.00  AS Nancy Lorraine        -  EA Guingamp
+         Stade Malherbe Caen      -  AC Ajaccio
+  19.00  Le Havre AC              -  Amiens SC
+         Chamois Niortais FC      -  FC Chambly
+         Paris FC                 -  Valenciennes FC
+         Pau FC                   -  Rodez AF
+         FC Sochaux-Montbéliard   -  ES Troyes AC
+         Grenoble Foot 38         -  Toulouse FC
+         LB Châteauroux           -  AJ Auxerre
+         USL Dunkerque            -  Clermont Foot 63
 
 
 Journée 3
 [Sam 12. Sept]
-  AC Ajaccio               -  USL Dunkerque
-  AJ Auxerre               -  Clermont Foot 63
-  EA Guingamp              -  Le Havre AC
-  ES Troyes AC             -  Pau FC
-  FC Chambly               -  Grenoble Foot 38
-  Chamois Niortais FC      -  AS Nancy Lorraine
-  Toulouse FC              -  FC Sochaux-Montbéliard
-  Valenciennes FC          -  LB Châteauroux
-  Rodez AF                 -  Stade Malherbe Caen
-  Amiens SC                -  Paris FC
+  15.00  EA Guingamp              -  Le Havre AC
+  19.00  AC Ajaccio               -  USL Dunkerque
+         AJ Auxerre               -  Clermont Foot 63
+         ES Troyes AC             -  Pau FC
+         FC Chambly               -  Grenoble Foot 38
+         Chamois Niortais FC      -  AS Nancy Lorraine
+         Valenciennes FC          -  LB Châteauroux
+         Rodez AF                 -  Stade Malherbe Caen
+         Amiens SC                -  Paris FC
+[Lun 14. Sept]
+  20.45  Toulouse FC              -  FC Sochaux-Montbéliard
 
 
 Journée 4
 [Sam 19. Sept]
-  Le Havre AC              -  Chamois Niortais FC
-  AJ Auxerre               -  ES Troyes AC
-  Clermont Foot 63         -  Toulouse FC
-  Paris FC                 -  AS Nancy Lorraine
-  Pau FC                   -  EA Guingamp
-  FC Sochaux-Montbéliard   -  Rodez AF
-  Grenoble Foot 38         -  AC Ajaccio
-  LB Châteauroux           -  Amiens SC
-  Stade Malherbe Caen      -  FC Chambly
-  USL Dunkerque            -  Valenciennes FC
+  15.00  Clermont Foot 63         -  Toulouse FC
+  19.00  Le Havre AC              -  Chamois Niortais FC
+         Paris FC                 -  AS Nancy Lorraine
+         Pau FC                   -  EA Guingamp
+         FC Sochaux-Montbéliard   -  Rodez AF
+         Grenoble Foot 38         -  AC Ajaccio
+         LB Châteauroux           -  Amiens SC
+         Stade Malherbe Caen      -  FC Chambly
+         USL Dunkerque            -  Valenciennes FC
+[Lun 21. Sept]
+  20.45  AJ Auxerre               -  ES Troyes AC
 
 
 Journée 5
 [Sam 26. Sept]
-  AC Ajaccio               -  FC Sochaux-Montbéliard
-  AS Nancy Lorraine        -  Le Havre AC
-  EA Guingamp              -  Grenoble Foot 38
-  ES Troyes AC             -  Clermont Foot 63
-  FC Chambly               -  LB Châteauroux
-  Chamois Niortais FC      -  Paris FC
-  Toulouse FC              -  AJ Auxerre
-  Valenciennes FC          -  Stade Malherbe Caen
-  Rodez AF                 -  USL Dunkerque
-  Amiens SC                -  Pau FC
+  20.00  AC Ajaccio               -  FC Sochaux-Montbéliard
+         AS Nancy Lorraine        -  Le Havre AC
+         EA Guingamp              -  Grenoble Foot 38
+         ES Troyes AC             -  Clermont Foot 63
+         FC Chambly               -  LB Châteauroux
+         Chamois Niortais FC      -  Paris FC
+         Toulouse FC              -  AJ Auxerre
+         Valenciennes FC          -  Stade Malherbe Caen
+         Rodez AF                 -  USL Dunkerque
+         Amiens SC                -  Pau FC
 
 
 Journée 6
 [Sam 3. Oct]
-  AJ Auxerre               -  AC Ajaccio
-  Clermont Foot 63         -  Rodez AF
-  Paris FC                 -  Le Havre AC
-  Pau FC                   -  AS Nancy Lorraine
-  FC Sochaux-Montbéliard   -  FC Chambly
-  Toulouse FC              -  ES Troyes AC
-  Grenoble Foot 38         -  Valenciennes FC
-  LB Châteauroux           -  Chamois Niortais FC
-  Stade Malherbe Caen      -  Amiens SC
-  USL Dunkerque            -  EA Guingamp
+  20.00  AJ Auxerre               -  AC Ajaccio
+         Clermont Foot 63         -  Rodez AF
+         Paris FC                 -  Le Havre AC
+         Pau FC                   -  AS Nancy Lorraine
+         FC Sochaux-Montbéliard   -  FC Chambly
+         Toulouse FC              -  ES Troyes AC
+         Grenoble Foot 38         -  Valenciennes FC
+         LB Châteauroux           -  Chamois Niortais FC
+         Stade Malherbe Caen      -  Amiens SC
+         USL Dunkerque            -  EA Guingamp
 
 
 Journée 7
 [Sam 17. Oct]
-  AC Ajaccio               -  Toulouse FC
-  Le Havre AC              -  LB Châteauroux
-  AS Nancy Lorraine        -  USL Dunkerque
-  EA Guingamp              -  AJ Auxerre
-  FC Chambly               -  Clermont Foot 63
-  Chamois Niortais FC      -  Stade Malherbe Caen
-  Paris FC                 -  Pau FC
-  Valenciennes FC          -  FC Sochaux-Montbéliard
-  Rodez AF                 -  ES Troyes AC
-  Amiens SC                -  Grenoble Foot 38
+  20.00  AC Ajaccio               -  Toulouse FC
+         Le Havre AC              -  LB Châteauroux
+         AS Nancy Lorraine        -  USL Dunkerque
+         EA Guingamp              -  AJ Auxerre
+         FC Chambly               -  Clermont Foot 63
+         Chamois Niortais FC      -  Stade Malherbe Caen
+         Paris FC                 -  Pau FC
+         Valenciennes FC          -  FC Sochaux-Montbéliard
+         Rodez AF                 -  ES Troyes AC
+         Amiens SC                -  Grenoble Foot 38
 
 
 Journée 8
 [Sam 24. Oct]
-  AJ Auxerre               -  FC Chambly
-  Clermont Foot 63         -  AC Ajaccio
-  ES Troyes AC             -  Valenciennes FC
-  Pau FC                   -  Chamois Niortais FC
-  FC Sochaux-Montbéliard   -  Amiens SC
-  Toulouse FC              -  Rodez AF
-  Grenoble Foot 38         -  AS Nancy Lorraine
-  LB Châteauroux           -  Paris FC
-  Stade Malherbe Caen      -  EA Guingamp
-  USL Dunkerque            -  Le Havre AC
+  20.00  AJ Auxerre               -  FC Chambly
+         Clermont Foot 63         -  AC Ajaccio
+         ES Troyes AC             -  Valenciennes FC
+         Pau FC                   -  Chamois Niortais FC
+         FC Sochaux-Montbéliard   -  Amiens SC
+         Toulouse FC              -  Rodez AF
+         Grenoble Foot 38         -  AS Nancy Lorraine
+         LB Châteauroux           -  Paris FC
+         Stade Malherbe Caen      -  EA Guingamp
+         USL Dunkerque            -  Le Havre AC
 
 
 Journée 9
 [Sam 31. Oct]
-  AC Ajaccio               -  ES Troyes AC
-  Le Havre AC              -  Pau FC
-  AS Nancy Lorraine        -  LB Châteauroux
-  EA Guingamp              -  FC Sochaux-Montbéliard
-  FC Chambly               -  USL Dunkerque
-  Chamois Niortais FC      -  Grenoble Foot 38
-  Paris FC                 -  Stade Malherbe Caen
-  Valenciennes FC          -  Clermont Foot 63
-  Rodez AF                 -  AJ Auxerre
-  Amiens SC                -  Toulouse FC
+  20.00  AC Ajaccio               -  ES Troyes AC
+         Le Havre AC              -  Pau FC
+         AS Nancy Lorraine        -  LB Châteauroux
+         EA Guingamp              -  FC Sochaux-Montbéliard
+         FC Chambly               -  USL Dunkerque
+         Chamois Niortais FC      -  Grenoble Foot 38
+         Paris FC                 -  Stade Malherbe Caen
+         Valenciennes FC          -  Clermont Foot 63
+         Rodez AF                 -  AJ Auxerre
+         Amiens SC                -  Toulouse FC
 
 
 Journée 10
 [Sam 7. Nov]
-  AJ Auxerre               -  Amiens SC
-  Clermont Foot 63         -  EA Guingamp
-  ES Troyes AC             -  FC Chambly
-  FC Sochaux-Montbéliard   -  Chamois Niortais FC
-  Toulouse FC              -  Valenciennes FC
-  Grenoble Foot 38         -  Le Havre AC
-  LB Châteauroux           -  Pau FC
-  Rodez AF                 -  AC Ajaccio
-  Stade Malherbe Caen      -  AS Nancy Lorraine
-  USL Dunkerque            -  Paris FC
+  20.00  AJ Auxerre               -  Amiens SC
+         Clermont Foot 63         -  EA Guingamp
+         ES Troyes AC             -  FC Chambly
+         FC Sochaux-Montbéliard   -  Chamois Niortais FC
+         Toulouse FC              -  Valenciennes FC
+         Grenoble Foot 38         -  Le Havre AC
+         LB Châteauroux           -  Pau FC
+         Rodez AF                 -  AC Ajaccio
+         Stade Malherbe Caen      -  AS Nancy Lorraine
+         USL Dunkerque            -  Paris FC
 
 
 Journée 11
 [Sam 21. Nov]
-  Le Havre AC              -  Stade Malherbe Caen
-  AS Nancy Lorraine        -  ES Troyes AC
-  EA Guingamp              -  AC Ajaccio
-  FC Chambly               -  Toulouse FC
-  Chamois Niortais FC      -  USL Dunkerque
-  Paris FC                 -  AJ Auxerre
-  Pau FC                   -  Grenoble Foot 38
-  Valenciennes FC          -  Rodez AF
-  LB Châteauroux           -  FC Sochaux-Montbéliard
-  Amiens SC                -  Clermont Foot 63
+  20.00  Le Havre AC              -  Stade Malherbe Caen
+         AS Nancy Lorraine        -  ES Troyes AC
+         EA Guingamp              -  AC Ajaccio
+         FC Chambly               -  Toulouse FC
+         Chamois Niortais FC      -  USL Dunkerque
+         Paris FC                 -  AJ Auxerre
+         Pau FC                   -  Grenoble Foot 38
+         Valenciennes FC          -  Rodez AF
+         LB Châteauroux           -  FC Sochaux-Montbéliard
+         Amiens SC                -  Clermont Foot 63
 
 
 Journée 12
 [Sam 28. Nov]
-  AC Ajaccio               -  FC Chambly
-  AJ Auxerre               -  Valenciennes FC
-  Clermont Foot 63         -  AS Nancy Lorraine
-  ES Troyes AC             -  Amiens SC
-  FC Sochaux-Montbéliard   -  Le Havre AC
-  Toulouse FC              -  Chamois Niortais FC
-  Grenoble Foot 38         -  Paris FC
-  Rodez AF                 -  EA Guingamp
-  Stade Malherbe Caen      -  LB Châteauroux
-  USL Dunkerque            -  Pau FC
+  20.00  AC Ajaccio               -  FC Chambly
+         AJ Auxerre               -  Valenciennes FC
+         Clermont Foot 63         -  AS Nancy Lorraine
+         ES Troyes AC             -  Amiens SC
+         FC Sochaux-Montbéliard   -  Le Havre AC
+         Toulouse FC              -  Chamois Niortais FC
+         Grenoble Foot 38         -  Paris FC
+         Rodez AF                 -  EA Guingamp
+         Stade Malherbe Caen      -  LB Châteauroux
+         USL Dunkerque            -  Pau FC
 
 
 Journée 13
 [Mar  1. Déc]
-  Le Havre AC              -  AJ Auxerre
-  AS Nancy Lorraine        -  Toulouse FC
-  EA Guingamp              -  ES Troyes AC
-  FC Chambly               -  Rodez AF
-  Chamois Niortais FC      -  Clermont Foot 63
-  Paris FC                 -  FC Sochaux-Montbéliard
-  Pau FC                   -  Stade Malherbe Caen
-  Valenciennes FC          -  AC Ajaccio
-  LB Châteauroux           -  Grenoble Foot 38
-  Amiens SC                -  USL Dunkerque
+  20.00  Le Havre AC              -  AJ Auxerre
+         AS Nancy Lorraine        -  Toulouse FC
+         EA Guingamp              -  ES Troyes AC
+         FC Chambly               -  Rodez AF
+         Chamois Niortais FC      -  Clermont Foot 63
+         Paris FC                 -  FC Sochaux-Montbéliard
+         Pau FC                   -  Stade Malherbe Caen
+         Valenciennes FC          -  AC Ajaccio
+         LB Châteauroux           -  Grenoble Foot 38
+         Amiens SC                -  USL Dunkerque
 
 
 Journée 14
 [Sam 5. Déc]
-  AC Ajaccio               -  Le Havre AC
-  AJ Auxerre               -  Chamois Niortais FC
-  Clermont Foot 63         -  Pau FC
-  ES Troyes AC             -  Paris FC
-  FC Chambly               -  Valenciennes FC
-  FC Sochaux-Montbéliard   -  AS Nancy Lorraine
-  Toulouse FC              -  EA Guingamp
-  Rodez AF                 -  Amiens SC
-  Stade Malherbe Caen      -  Grenoble Foot 38
-  USL Dunkerque            -  LB Châteauroux
+  20.00  AC Ajaccio               -  Le Havre AC
+         AJ Auxerre               -  Chamois Niortais FC
+         Clermont Foot 63         -  Pau FC
+         ES Troyes AC             -  Paris FC
+         FC Chambly               -  Valenciennes FC
+         FC Sochaux-Montbéliard   -  AS Nancy Lorraine
+         Toulouse FC              -  EA Guingamp
+         Rodez AF                 -  Amiens SC
+         Stade Malherbe Caen      -  Grenoble Foot 38
+         USL Dunkerque            -  LB Châteauroux
 
 
 Journée 15
 [Mar  15. Déc]
-  Le Havre AC              -  Clermont Foot 63
-  AS Nancy Lorraine        -  AJ Auxerre
-  EA Guingamp              -  Valenciennes FC
-  Chamois Niortais FC      -  AC Ajaccio
-  Paris FC                 -  Rodez AF
-  Pau FC                   -  FC Sochaux-Montbéliard
-  Grenoble Foot 38         -  USL Dunkerque
-  LB Châteauroux           -  Toulouse FC
-  Amiens SC                -  FC Chambly
-  Stade Malherbe Caen      -  ES Troyes AC
+  20.00  Le Havre AC              -  Clermont Foot 63
+         AS Nancy Lorraine        -  AJ Auxerre
+         EA Guingamp              -  Valenciennes FC
+         Chamois Niortais FC      -  AC Ajaccio
+         Paris FC                 -  Rodez AF
+         Pau FC                   -  FC Sochaux-Montbéliard
+         Grenoble Foot 38         -  USL Dunkerque
+         LB Châteauroux           -  Toulouse FC
+         Amiens SC                -  FC Chambly
+         Stade Malherbe Caen      -  ES Troyes AC
 
 
 Journée 16
 [Sam 19. Déc]
-  AC Ajaccio               -  AS Nancy Lorraine
-  AJ Auxerre               -  Pau FC
-  Clermont Foot 63         -  Paris FC
-  ES Troyes AC             -  Chamois Niortais FC
-  FC Chambly               -  EA Guingamp
-  FC Sochaux-Montbéliard   -  Grenoble Foot 38
-  Toulouse FC              -  Le Havre AC
-  Valenciennes FC          -  Amiens SC
-  Rodez AF                 -  LB Châteauroux
-  USL Dunkerque            -  Stade Malherbe Caen
+  20.00  AC Ajaccio               -  AS Nancy Lorraine
+         AJ Auxerre               -  Pau FC
+         Clermont Foot 63         -  Paris FC
+         ES Troyes AC             -  Chamois Niortais FC
+         FC Chambly               -  EA Guingamp
+         FC Sochaux-Montbéliard   -  Grenoble Foot 38
+         Toulouse FC              -  Le Havre AC
+         Valenciennes FC          -  Amiens SC
+         Rodez AF                 -  LB Châteauroux
+         USL Dunkerque            -  Stade Malherbe Caen
 
 
 Journée 17
 [Mar  22. Déc]
-  Le Havre AC              -  Rodez AF
-  AS Nancy Lorraine        -  FC Chambly
-  Chamois Niortais FC      -  Valenciennes FC
-  Paris FC                 -  EA Guingamp
-  Pau FC                   -  Toulouse FC
-  Grenoble Foot 38         -  ES Troyes AC
-  LB Châteauroux           -  Clermont Foot 63
-  Amiens SC                -  AC Ajaccio
-  Stade Malherbe Caen      -  FC Sochaux-Montbéliard
-  USL Dunkerque            -  AJ Auxerre
+  20.00  Le Havre AC              -  Rodez AF
+         AS Nancy Lorraine        -  FC Chambly
+         Chamois Niortais FC      -  Valenciennes FC
+         Paris FC                 -  EA Guingamp
+         Pau FC                   -  Toulouse FC
+         Grenoble Foot 38         -  ES Troyes AC
+         LB Châteauroux           -  Clermont Foot 63
+         Amiens SC                -  AC Ajaccio
+         Stade Malherbe Caen      -  FC Sochaux-Montbéliard
+         USL Dunkerque            -  AJ Auxerre
 
 
 Journée 18
 [Mar  5. Jan]
-  AC Ajaccio               -  Pau FC
-  AJ Auxerre               -  Stade Malherbe Caen
-  Clermont Foot 63         -  Grenoble Foot 38
-  EA Guingamp              -  Amiens SC
-  ES Troyes AC             -  LB Châteauroux
-  FC Chambly               -  Le Havre AC
-  FC Sochaux-Montbéliard   -  USL Dunkerque
-  Toulouse FC              -  Paris FC
-  Valenciennes FC          -  AS Nancy Lorraine
-  Rodez AF                 -  Chamois Niortais FC
+  20.00  AC Ajaccio               -  Pau FC
+         AJ Auxerre               -  Stade Malherbe Caen
+         Clermont Foot 63         -  Grenoble Foot 38
+         EA Guingamp              -  Amiens SC
+         ES Troyes AC             -  LB Châteauroux
+         FC Chambly               -  Le Havre AC
+         FC Sochaux-Montbéliard   -  USL Dunkerque
+         Toulouse FC              -  Paris FC
+         Valenciennes FC          -  AS Nancy Lorraine
+         Rodez AF                 -  Chamois Niortais FC
 
 
 Journée 19
 [Sam 9. Jan]
-  Le Havre AC              -  Valenciennes FC
-  AS Nancy Lorraine        -  Rodez AF
-  Chamois Niortais FC      -  Amiens SC
-  Paris FC                 -  AC Ajaccio
-  Pau FC                   -  FC Chambly
-  FC Sochaux-Montbéliard   -  Clermont Foot 63
-  Grenoble Foot 38         -  AJ Auxerre
-  LB Châteauroux           -  EA Guingamp
-  Stade Malherbe Caen      -  Toulouse FC
-  USL Dunkerque            -  ES Troyes AC
+  20.00  Le Havre AC              -  Valenciennes FC
+         AS Nancy Lorraine        -  Rodez AF
+         Chamois Niortais FC      -  Amiens SC
+         Paris FC                 -  AC Ajaccio
+         Pau FC                   -  FC Chambly
+         FC Sochaux-Montbéliard   -  Clermont Foot 63
+         Grenoble Foot 38         -  AJ Auxerre
+         LB Châteauroux           -  EA Guingamp
+         Stade Malherbe Caen      -  Toulouse FC
+         USL Dunkerque            -  ES Troyes AC
 
 
 Journée 20
 [Mar  19. Jan]
-  AC Ajaccio               -  Stade Malherbe Caen
-  AJ Auxerre               -  LB Châteauroux
-  Clermont Foot 63         -  USL Dunkerque
-  EA Guingamp              -  AS Nancy Lorraine
-  ES Troyes AC             -  FC Sochaux-Montbéliard
-  FC Chambly               -  Chamois Niortais FC
-  Toulouse FC              -  Grenoble Foot 38
-  Valenciennes FC          -  Paris FC
-  Rodez AF                 -  Pau FC
-  Amiens SC                -  Le Havre AC
+  20.00  AC Ajaccio               -  Stade Malherbe Caen
+         AJ Auxerre               -  LB Châteauroux
+         Clermont Foot 63         -  USL Dunkerque
+         EA Guingamp              -  AS Nancy Lorraine
+         ES Troyes AC             -  FC Sochaux-Montbéliard
+         FC Chambly               -  Chamois Niortais FC
+         Toulouse FC              -  Grenoble Foot 38
+         Valenciennes FC          -  Paris FC
+         Rodez AF                 -  Pau FC
+         Amiens SC                -  Le Havre AC
 
 
 Journée 21
 [Sam 23. Jan]
-  Le Havre AC              -  EA Guingamp
-  AS Nancy Lorraine        -  Chamois Niortais FC
-  Clermont Foot 63         -  AJ Auxerre
-  Paris FC                 -  Amiens SC
-  Pau FC                   -  ES Troyes AC
-  FC Sochaux-Montbéliard   -  Toulouse FC
-  Grenoble Foot 38         -  FC Chambly
-  LB Châteauroux           -  Valenciennes FC
-  Stade Malherbe Caen      -  Rodez AF
-  USL Dunkerque            -  AC Ajaccio
+  20.00  Le Havre AC              -  EA Guingamp
+         AS Nancy Lorraine        -  Chamois Niortais FC
+         Clermont Foot 63         -  AJ Auxerre
+         Paris FC                 -  Amiens SC
+         Pau FC                   -  ES Troyes AC
+         FC Sochaux-Montbéliard   -  Toulouse FC
+         Grenoble Foot 38         -  FC Chambly
+         LB Châteauroux           -  Valenciennes FC
+         Stade Malherbe Caen      -  Rodez AF
+         USL Dunkerque            -  AC Ajaccio
 
 
 Journée 22
 [Sam 30. Jan]
-  AC Ajaccio               -  Grenoble Foot 38
-  AS Nancy Lorraine        -  Paris FC
-  EA Guingamp              -  Pau FC
-  ES Troyes AC             -  AJ Auxerre
-  FC Chambly               -  Stade Malherbe Caen
-  Chamois Niortais FC      -  Le Havre AC
-  Toulouse FC              -  Clermont Foot 63
-  Valenciennes FC          -  USL Dunkerque
-  Rodez AF                 -  FC Sochaux-Montbéliard
-  Amiens SC                -  LB Châteauroux
+  20.00  AC Ajaccio               -  Grenoble Foot 38
+         AS Nancy Lorraine        -  Paris FC
+         EA Guingamp              -  Pau FC
+         ES Troyes AC             -  AJ Auxerre
+         FC Chambly               -  Stade Malherbe Caen
+         Chamois Niortais FC      -  Le Havre AC
+         Toulouse FC              -  Clermont Foot 63
+         Valenciennes FC          -  USL Dunkerque
+         Rodez AF                 -  FC Sochaux-Montbéliard
+         Amiens SC                -  LB Châteauroux
 
 
 Journée 23
 [Mar  2. Fév]
-  Le Havre AC              -  AS Nancy Lorraine
-  AJ Auxerre               -  Toulouse FC
-  Clermont Foot 63         -  ES Troyes AC
-  Paris FC                 -  Chamois Niortais FC
-  Pau FC                   -  Amiens SC
-  FC Sochaux-Montbéliard   -  AC Ajaccio
-  Grenoble Foot 38         -  EA Guingamp
-  LB Châteauroux           -  FC Chambly
-  Stade Malherbe Caen      -  Valenciennes FC
-  USL Dunkerque            -  Rodez AF
+  20.00  Le Havre AC              -  AS Nancy Lorraine
+         AJ Auxerre               -  Toulouse FC
+         Clermont Foot 63         -  ES Troyes AC
+         Paris FC                 -  Chamois Niortais FC
+         Pau FC                   -  Amiens SC
+         FC Sochaux-Montbéliard   -  AC Ajaccio
+         Grenoble Foot 38         -  EA Guingamp
+         LB Châteauroux           -  FC Chambly
+         Stade Malherbe Caen      -  Valenciennes FC
+         USL Dunkerque            -  Rodez AF
 
 
 Journée 24
 [Sam 6. Fév]
-  AC Ajaccio               -  AJ Auxerre
-  Le Havre AC              -  Paris FC
-  AS Nancy Lorraine        -  Pau FC
-  EA Guingamp              -  USL Dunkerque
-  ES Troyes AC             -  Toulouse FC
-  FC Chambly               -  FC Sochaux-Montbéliard
-  Chamois Niortais FC      -  LB Châteauroux
-  Valenciennes FC          -  Grenoble Foot 38
-  Rodez AF                 -  Clermont Foot 63
-  Amiens SC                -  Stade Malherbe Caen
+  20.00  AC Ajaccio               -  AJ Auxerre
+         Le Havre AC              -  Paris FC
+         AS Nancy Lorraine        -  Pau FC
+         EA Guingamp              -  USL Dunkerque
+         ES Troyes AC             -  Toulouse FC
+         FC Chambly               -  FC Sochaux-Montbéliard
+         Chamois Niortais FC      -  LB Châteauroux
+         Valenciennes FC          -  Grenoble Foot 38
+         Rodez AF                 -  Clermont Foot 63
+         Amiens SC                -  Stade Malherbe Caen
 
 
 Journée 25
 [Sam 13. Fév]
-  AJ Auxerre               -  EA Guingamp
-  Clermont Foot 63         -  FC Chambly
-  ES Troyes AC             -  Rodez AF
-  Pau FC                   -  Paris FC
-  FC Sochaux-Montbéliard   -  Valenciennes FC
-  Toulouse FC              -  AC Ajaccio
-  Grenoble Foot 38         -  Amiens SC
-  LB Châteauroux           -  Le Havre AC
-  Stade Malherbe Caen      -  Chamois Niortais FC
-  USL Dunkerque            -  AS Nancy Lorraine
+  20.00  AJ Auxerre               -  EA Guingamp
+         Clermont Foot 63         -  FC Chambly
+         ES Troyes AC             -  Rodez AF
+         Pau FC                   -  Paris FC
+         FC Sochaux-Montbéliard   -  Valenciennes FC
+         Toulouse FC              -  AC Ajaccio
+         Grenoble Foot 38         -  Amiens SC
+         LB Châteauroux           -  Le Havre AC
+         Stade Malherbe Caen      -  Chamois Niortais FC
+         USL Dunkerque            -  AS Nancy Lorraine
 
 
 Journée 26
 [Sam 20. Fév]
-  AC Ajaccio               -  Clermont Foot 63
-  Le Havre AC              -  USL Dunkerque
-  AS Nancy Lorraine        -  Grenoble Foot 38
-  EA Guingamp              -  Stade Malherbe Caen
-  FC Chambly               -  AJ Auxerre
-  Chamois Niortais FC      -  Pau FC
-  Paris FC                 -  LB Châteauroux
-  Valenciennes FC          -  ES Troyes AC
-  Rodez AF                 -  Toulouse FC
-  Amiens SC                -  FC Sochaux-Montbéliard
+  20.00  AC Ajaccio               -  Clermont Foot 63
+         Le Havre AC              -  USL Dunkerque
+         AS Nancy Lorraine        -  Grenoble Foot 38
+         EA Guingamp              -  Stade Malherbe Caen
+         FC Chambly               -  AJ Auxerre
+         Chamois Niortais FC      -  Pau FC
+         Paris FC                 -  LB Châteauroux
+         Valenciennes FC          -  ES Troyes AC
+         Rodez AF                 -  Toulouse FC
+         Amiens SC                -  FC Sochaux-Montbéliard
 
 
 Journée 27
 [Sam 27. Fév]
-  AJ Auxerre               -  Rodez AF
-  Clermont Foot 63         -  Valenciennes FC
-  ES Troyes AC             -  AC Ajaccio
-  Pau FC                   -  Le Havre AC
-  FC Sochaux-Montbéliard   -  EA Guingamp
-  Toulouse FC              -  Amiens SC
-  Grenoble Foot 38         -  Chamois Niortais FC
-  LB Châteauroux           -  AS Nancy Lorraine
-  Stade Malherbe Caen      -  Paris FC
-  USL Dunkerque            -  FC Chambly
+  20.00  AJ Auxerre               -  Rodez AF
+         Clermont Foot 63         -  Valenciennes FC
+         ES Troyes AC             -  AC Ajaccio
+         Pau FC                   -  Le Havre AC
+         FC Sochaux-Montbéliard   -  EA Guingamp
+         Toulouse FC              -  Amiens SC
+         Grenoble Foot 38         -  Chamois Niortais FC
+         LB Châteauroux           -  AS Nancy Lorraine
+         Stade Malherbe Caen      -  Paris FC
+         USL Dunkerque            -  FC Chambly
 
 
 Journée 28
 [Sam 6. Mars]
-  AC Ajaccio               -  Rodez AF
-  Le Havre AC              -  Grenoble Foot 38
-  AS Nancy Lorraine        -  Stade Malherbe Caen
-  EA Guingamp              -  Clermont Foot 63
-  FC Chambly               -  ES Troyes AC
-  Chamois Niortais FC      -  FC Sochaux-Montbéliard
-  Paris FC                 -  USL Dunkerque
-  Pau FC                   -  LB Châteauroux
-  Valenciennes FC          -  Toulouse FC
-  Amiens SC                -  AJ Auxerre
+  20.00  AC Ajaccio               -  Rodez AF
+         Le Havre AC              -  Grenoble Foot 38
+         AS Nancy Lorraine        -  Stade Malherbe Caen
+         EA Guingamp              -  Clermont Foot 63
+         FC Chambly               -  ES Troyes AC
+         Chamois Niortais FC      -  FC Sochaux-Montbéliard
+         Paris FC                 -  USL Dunkerque
+         Pau FC                   -  LB Châteauroux
+         Valenciennes FC          -  Toulouse FC
+         Amiens SC                -  AJ Auxerre
 
 
 Journée 29
 [Sam 13. Mars]
-  AC Ajaccio               -  EA Guingamp
-  AJ Auxerre               -  Paris FC
-  Clermont Foot 63         -  Amiens SC
-  ES Troyes AC             -  AS Nancy Lorraine
-  FC Sochaux-Montbéliard   -  LB Châteauroux
-  Toulouse FC              -  FC Chambly
-  Grenoble Foot 38         -  Pau FC
-  Rodez AF                 -  Valenciennes FC
-  Stade Malherbe Caen      -  Le Havre AC
-  USL Dunkerque            -  Chamois Niortais FC
+  20.00  AC Ajaccio               -  EA Guingamp
+         AJ Auxerre               -  Paris FC
+         Clermont Foot 63         -  Amiens SC
+         ES Troyes AC             -  AS Nancy Lorraine
+         FC Sochaux-Montbéliard   -  LB Châteauroux
+         Toulouse FC              -  FC Chambly
+         Grenoble Foot 38         -  Pau FC
+         Rodez AF                 -  Valenciennes FC
+         Stade Malherbe Caen      -  Le Havre AC
+         USL Dunkerque            -  Chamois Niortais FC
 
 
 Journée 30
 [Sam 20. Mars]
-  Le Havre AC              -  FC Sochaux-Montbéliard
-  AS Nancy Lorraine        -  Clermont Foot 63
-  EA Guingamp              -  Rodez AF
-  FC Chambly               -  AC Ajaccio
-  Chamois Niortais FC      -  Toulouse FC
-  Paris FC                 -  Grenoble Foot 38
-  Pau FC                   -  USL Dunkerque
-  Valenciennes FC          -  AJ Auxerre
-  LB Châteauroux           -  Stade Malherbe Caen
-  Amiens SC                -  ES Troyes AC
+  20.00  Le Havre AC              -  FC Sochaux-Montbéliard
+         AS Nancy Lorraine        -  Clermont Foot 63
+         EA Guingamp              -  Rodez AF
+         FC Chambly               -  AC Ajaccio
+         Chamois Niortais FC      -  Toulouse FC
+         Paris FC                 -  Grenoble Foot 38
+         Pau FC                   -  USL Dunkerque
+         Valenciennes FC          -  AJ Auxerre
+         LB Châteauroux           -  Stade Malherbe Caen
+         Amiens SC                -  ES Troyes AC
 
 
 Journée 31
 [Sam 3. Avril]
-  AC Ajaccio               -  Valenciennes FC
-  AJ Auxerre               -  Le Havre AC
-  Clermont Foot 63         -  Chamois Niortais FC
-  ES Troyes AC             -  EA Guingamp
-  FC Sochaux-Montbéliard   -  Paris FC
-  Toulouse FC              -  AS Nancy Lorraine
-  Grenoble Foot 38         -  LB Châteauroux
-  Rodez AF                 -  FC Chambly
-  Stade Malherbe Caen      -  Pau FC
-  USL Dunkerque            -  Amiens SC
+  20.00  AC Ajaccio               -  Valenciennes FC
+         AJ Auxerre               -  Le Havre AC
+         Clermont Foot 63         -  Chamois Niortais FC
+         ES Troyes AC             -  EA Guingamp
+         FC Sochaux-Montbéliard   -  Paris FC
+         Toulouse FC              -  AS Nancy Lorraine
+         Grenoble Foot 38         -  LB Châteauroux
+         Rodez AF                 -  FC Chambly
+         Stade Malherbe Caen      -  Pau FC
+         USL Dunkerque            -  Amiens SC
 
 
 Journée 32
 [Sam 10. Avril]
-  Le Havre AC              -  AC Ajaccio
-  AS Nancy Lorraine        -  FC Sochaux-Montbéliard
-  EA Guingamp              -  Toulouse FC
-  Chamois Niortais FC      -  AJ Auxerre
-  Paris FC                 -  ES Troyes AC
-  Pau FC                   -  Clermont Foot 63
-  Valenciennes FC          -  FC Chambly
-  Grenoble Foot 38         -  Stade Malherbe Caen
-  LB Châteauroux           -  USL Dunkerque
-  Amiens SC                -  Rodez AF
+  20.00  Le Havre AC              -  AC Ajaccio
+         AS Nancy Lorraine        -  FC Sochaux-Montbéliard
+         EA Guingamp              -  Toulouse FC
+         Chamois Niortais FC      -  AJ Auxerre
+         Paris FC                 -  ES Troyes AC
+         Pau FC                   -  Clermont Foot 63
+         Valenciennes FC          -  FC Chambly
+         Grenoble Foot 38         -  Stade Malherbe Caen
+         LB Châteauroux           -  USL Dunkerque
+         Amiens SC                -  Rodez AF
 
 
 Journée 33
 [Sam 17. Avril]
-  AC Ajaccio               -  Chamois Niortais FC
-  AJ Auxerre               -  AS Nancy Lorraine
-  Clermont Foot 63         -  Le Havre AC
-  ES Troyes AC             -  Stade Malherbe Caen
-  FC Chambly               -  Amiens SC
-  FC Sochaux-Montbéliard   -  Pau FC
-  Toulouse FC              -  LB Châteauroux
-  Valenciennes FC          -  EA Guingamp
-  Rodez AF                 -  Paris FC
-  USL Dunkerque            -  Grenoble Foot 38
+  20.00  AC Ajaccio               -  Chamois Niortais FC
+         AJ Auxerre               -  AS Nancy Lorraine
+         Clermont Foot 63         -  Le Havre AC
+         ES Troyes AC             -  Stade Malherbe Caen
+         FC Chambly               -  Amiens SC
+         FC Sochaux-Montbéliard   -  Pau FC
+         Toulouse FC              -  LB Châteauroux
+         Valenciennes FC          -  EA Guingamp
+         Rodez AF                 -  Paris FC
+         USL Dunkerque            -  Grenoble Foot 38
 
 
 Journée 34
 [Mar  20. Avril]
-  Le Havre AC              -  Toulouse FC
-  AS Nancy Lorraine        -  AC Ajaccio
-  EA Guingamp              -  FC Chambly
-  Chamois Niortais FC      -  ES Troyes AC
-  Paris FC                 -  Clermont Foot 63
-  Pau FC                   -  AJ Auxerre
-  Grenoble Foot 38         -  FC Sochaux-Montbéliard
-  LB Châteauroux           -  Rodez AF
-  Amiens SC                -  Valenciennes FC
-  Stade Malherbe Caen      -  USL Dunkerque
+  20.00  Le Havre AC              -  Toulouse FC
+         AS Nancy Lorraine        -  AC Ajaccio
+         EA Guingamp              -  FC Chambly
+         Chamois Niortais FC      -  ES Troyes AC
+         Paris FC                 -  Clermont Foot 63
+         Pau FC                   -  AJ Auxerre
+         Grenoble Foot 38         -  FC Sochaux-Montbéliard
+         LB Châteauroux           -  Rodez AF
+         Amiens SC                -  Valenciennes FC
+         Stade Malherbe Caen      -  USL Dunkerque
 
 
 Journée 35
 [Sam 24. Avril]
-  AC Ajaccio               -  Amiens SC
-  AJ Auxerre               -  USL Dunkerque
-  Clermont Foot 63         -  LB Châteauroux
-  EA Guingamp              -  Paris FC
-  ES Troyes AC             -  Grenoble Foot 38
-  FC Chambly               -  AS Nancy Lorraine
-  FC Sochaux-Montbéliard   -  Stade Malherbe Caen
-  Toulouse FC              -  Pau FC
-  Valenciennes FC          -  Chamois Niortais FC
-  Rodez AF                 -  Le Havre AC
+  20.00  AC Ajaccio               -  Amiens SC
+         AJ Auxerre               -  USL Dunkerque
+         Clermont Foot 63         -  LB Châteauroux
+         EA Guingamp              -  Paris FC
+         ES Troyes AC             -  Grenoble Foot 38
+         FC Chambly               -  AS Nancy Lorraine
+         FC Sochaux-Montbéliard   -  Stade Malherbe Caen
+         Toulouse FC              -  Pau FC
+         Valenciennes FC          -  Chamois Niortais FC
+         Rodez AF                 -  Le Havre AC
 
 
 Journée 36
 [Sam 1. Mai]
-  Le Havre AC              -  FC Chambly
-  AS Nancy Lorraine        -  Valenciennes FC
-  Chamois Niortais FC      -  Rodez AF
-  Paris FC                 -  Toulouse FC
-  Pau FC                   -  AC Ajaccio
-  Grenoble Foot 38         -  Clermont Foot 63
-  LB Châteauroux           -  ES Troyes AC
-  Amiens SC                -  EA Guingamp
-  Stade Malherbe Caen      -  AJ Auxerre
-  USL Dunkerque            -  FC Sochaux-Montbéliard
+  20.00  Le Havre AC              -  FC Chambly
+         AS Nancy Lorraine        -  Valenciennes FC
+         Chamois Niortais FC      -  Rodez AF
+         Paris FC                 -  Toulouse FC
+         Pau FC                   -  AC Ajaccio
+         Grenoble Foot 38         -  Clermont Foot 63
+         LB Châteauroux           -  ES Troyes AC
+         Amiens SC                -  EA Guingamp
+         Stade Malherbe Caen      -  AJ Auxerre
+         USL Dunkerque            -  FC Sochaux-Montbéliard
 
 
 Journée 37
 [Sam 8. Mai]
-  AC Ajaccio               -  Paris FC
-  AJ Auxerre               -  Grenoble Foot 38
-  Clermont Foot 63         -  FC Sochaux-Montbéliard
-  EA Guingamp              -  LB Châteauroux
-  ES Troyes AC             -  USL Dunkerque
-  FC Chambly               -  Pau FC
-  Toulouse FC              -  Stade Malherbe Caen
-  Valenciennes FC          -  Le Havre AC
-  Rodez AF                 -  AS Nancy Lorraine
-  Amiens SC                -  Chamois Niortais FC
+  20.00  AC Ajaccio               -  Paris FC
+         AJ Auxerre               -  Grenoble Foot 38
+         Clermont Foot 63         -  FC Sochaux-Montbéliard
+         EA Guingamp              -  LB Châteauroux
+         ES Troyes AC             -  USL Dunkerque
+         FC Chambly               -  Pau FC
+         Toulouse FC              -  Stade Malherbe Caen
+         Valenciennes FC          -  Le Havre AC
+         Rodez AF                 -  AS Nancy Lorraine
+         Amiens SC                -  Chamois Niortais FC
 
 
 Journée 38
 [Sam 15. Mai]
-  Le Havre AC              -  ES Troyes AC
-  AS Nancy Lorraine        -  Amiens SC
-  Chamois Niortais FC      -  EA Guingamp
-  Paris FC                 -  FC Chambly
-  Pau FC                   -  Valenciennes FC
-  FC Sochaux-Montbéliard   -  AJ Auxerre
-  Grenoble Foot 38         -  Rodez AF
-  LB Châteauroux           -  AC Ajaccio
-  Stade Malherbe Caen      -  Clermont Foot 63
-  USL Dunkerque            -  Toulouse FC
+  20.00  Le Havre AC              -  ES Troyes AC
+         AS Nancy Lorraine        -  Amiens SC
+         Chamois Niortais FC      -  EA Guingamp
+         Paris FC                 -  FC Chambly
+         Pau FC                   -  Valenciennes FC
+         FC Sochaux-Montbéliard   -  AJ Auxerre
+         Grenoble Foot 38         -  Rodez AF
+         LB Châteauroux           -  AC Ajaccio
+         Stade Malherbe Caen      -  Clermont Foot 63
+         USL Dunkerque            -  Toulouse FC
