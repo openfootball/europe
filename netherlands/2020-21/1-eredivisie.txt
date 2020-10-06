@@ -1,0 +1,480 @@
+= Dutch Eredivisie 2020/21
+
+
+Round 1
+[Sat Sep/12]
+  18.45  SC Heerenveen            2-0 (1-0)  Willem II Tilburg
+  20.00  PEC Zwolle               0-2 (0-1)  Feyenoord Rotterdam
+  21.00  FC Twente                2-0 (1-0)  Fortuna Sittard
+[Sun Sep/13]
+  12.15  FC Emmen                 3-5 (1-0)  VVV Venlo
+  14.30  Heracles Almelo          2-0 (0-0)  ADO Den Haag
+         Sparta Rotterdam         0-1 (0-1)  Ajax Amsterdam
+  16.45  RKC Waalwijk             0-1 (0-1)  Vitesse Arnhem
+         FC Groningen             1-3 (0-1)  PSV Eindhoven
+
+
+Round 2
+[Fri Sep/18]
+  20.00  VVV Venlo                1-1 (1-0)  FC Utrecht
+[Sat Sep/19]
+  16.30  AZ Alkmaar               1-1 (0-1)  PEC Zwolle
+  18.45  Vitesse Arnhem           2-0 (1-0)  Sparta Rotterdam
+  20.00  PSV Eindhoven            2-1 (1-0)  FC Emmen
+  21.00  Fortuna Sittard          1-3 (0-3)  SC Heerenveen
+[Sun Sep/20]
+  12.15  ADO Den Haag             0-1 (0-1)  FC Groningen
+  14.30  Feyenoord Rotterdam      1-1 (1-1)  FC Twente
+         Willem II Tilburg        4-0 (0-0)  Heracles Almelo
+  16.45  Ajax Amsterdam           3-0 (2-0)  RKC Waalwijk
+
+
+Round 3
+[Fri Sep/25]
+  20.00  FC Twente                3-1 (2-0)  FC Groningen
+[Sat Sep/26]
+  16.30  PEC Zwolle               4-0 (1-0)  Sparta Rotterdam
+  18.45  Fortuna Sittard          3-3 (1-1)  AZ Alkmaar
+  20.00  SC Heerenveen            1-0 (1-0)  VVV Venlo
+  21.00  Ajax Amsterdam           2-1 (1-0)  Vitesse Arnhem
+[Sun Sep/27]
+  12.15  Feyenoord Rotterdam      4-2 (1-1)  ADO Den Haag
+  14.30  FC Utrecht               3-1 (1-0)  RKC Waalwijk
+  16.45  Heracles Almelo          1-1 (1-0)  PSV Eindhoven
+         FC Emmen                 1-1 (1-1)  Willem II Tilburg
+
+
+Round 4
+[Fri Oct/2]
+  20.00  FC Utrecht               1-1 (1-1)  SC Heerenveen
+[Sat Oct/3]
+  20.00  VVV Venlo                1-2 (1-1)  ADO Den Haag
+  21.00  FC Twente                1-1 (0-0)  FC Emmen
+  16.30  Vitesse Arnhem           3-0 (2-0)  Heracles Almelo
+  RKC Waalwijk             -  PEC Zwolle
+[Sun Oct/4]
+  12.15  FC Groningen             1-0 (0-0)  Ajax Amsterdam
+  14.30  Willem II Tilburg        1-4 (1-1)  Feyenoord Rotterdam
+         Sparta Rotterdam         4-4 (0-4)  AZ Alkmaar
+  16.45  PSV Eindhoven            2-0 (1-0)  Fortuna Sittard
+
+
+Round 5
+[Sat Oct/17]
+  18.45  Ajax Amsterdam           -  SC Heerenveen
+  20.00  Heracles Almelo          -  RKC Waalwijk
+         Willem II Tilburg        -  FC Twente
+  21.00  AZ Alkmaar               -  VVV Venlo
+[Sun Oct/18]
+  12.15  Feyenoord Rotterdam      -  Sparta Rotterdam
+  14.30  ADO Den Haag             -  Vitesse Arnhem
+         FC Emmen                 -  Fortuna Sittard
+  16.45  PEC Zwolle               -  PSV Eindhoven
+         FC Groningen             -  FC Utrecht
+
+
+Round 6
+[Sat Oct/24]
+  16.30  VVV Venlo                -  Ajax Amsterdam
+  18.45  FC Utrecht               -  FC Twente
+  20.00  ADO Den Haag             -  AZ Alkmaar
+  21.00  SC Heerenveen            -  FC Emmen
+[Sun Oct/25]
+  12.15  RKC Waalwijk             -  Feyenoord Rotterdam
+  14.30  Fortuna Sittard          -  FC Groningen
+         Vitesse Arnhem           -  PSV Eindhoven
+  16.45  Sparta Rotterdam         -  Heracles Almelo
+         PEC Zwolle               -  Willem II Tilburg
+
+
+Round 7
+[Sat Oct/31]
+  18.45  Ajax Amsterdam           -  Fortuna Sittard
+  20.00  FC Groningen             -  VVV Venlo
+         FC Twente                -  PEC Zwolle
+  21.00  AZ Alkmaar               -  RKC Waalwijk
+[Sun Nov/1]
+  12.15  Heracles Almelo          -  FC Utrecht
+  14.30  PSV Eindhoven            -  ADO Den Haag
+         Sparta Rotterdam         -  SC Heerenveen
+  16.45  FC Emmen                 -  Feyenoord Rotterdam
+         Willem II Tilburg        -  Vitesse Arnhem
+
+
+Round 8
+[Fri Nov/6]
+  20.00  Fortuna Sittard          -  PEC Zwolle
+[Sat Nov/7]
+  16.30  ADO Den Haag             -  FC Twente
+  18.45  VVV Venlo                -  Heracles Almelo
+  20.00  SC Heerenveen            -  AZ Alkmaar
+  21.00  Vitesse Arnhem           -  FC Emmen
+[Sun Nov/8]
+  12.15  FC Utrecht               -  Ajax Amsterdam
+  14.30  PSV Eindhoven            -  Willem II Tilburg
+         RKC Waalwijk             -  Sparta Rotterdam
+  16.45  Feyenoord Rotterdam      -  FC Groningen
+
+
+Round 9
+[Sat Nov/21]
+  18.45  Ajax Amsterdam           -  Heracles Almelo
+         Willem II Tilburg        -  VVV Venlo
+  21.00  PEC Zwolle               -  FC Utrecht
+         AZ Alkmaar               -  FC Emmen
+[Sun Nov/22]
+  12.15  Sparta Rotterdam         -  ADO Den Haag
+  14.30  Fortuna Sittard          -  Feyenoord Rotterdam
+         FC Groningen             -  Vitesse Arnhem
+  16.45  RKC Waalwijk             -  SC Heerenveen
+         FC Twente                -  PSV Eindhoven
+
+
+Round 10
+[Fri Nov/27]
+  20.00  FC Twente                -  RKC Waalwijk
+[Sat Nov/28]
+  18.45  ADO Den Haag             -  SC Heerenveen
+         FC Emmen                 -  Ajax Amsterdam
+  21.00  Heracles Almelo          -  AZ Alkmaar
+         VVV Venlo                -  PEC Zwolle
+[Sun Nov/29]
+  12.15  Vitesse Arnhem           -  Fortuna Sittard
+  14.30  FC Groningen             -  Willem II Tilburg
+         Feyenoord Rotterdam      -  FC Utrecht
+  16.45  PSV Eindhoven            -  Sparta Rotterdam
+
+
+Round 11
+[Fri Dec/4]
+  20.00  PEC Zwolle               -  Vitesse Arnhem
+[Sat Dec/5]
+  16.30  RKC Waalwijk             -  VVV Venlo
+  18.45  AZ Alkmaar               -  FC Groningen
+  20.00  Sparta Rotterdam         -  FC Emmen
+  21.00  Ajax Amsterdam           -  FC Twente
+[Sun Dec/6]
+  12.15  FC Utrecht               -  ADO Den Haag
+  14.30  Feyenoord Rotterdam      -  Heracles Almelo
+         Fortuna Sittard          -  Willem II Tilburg
+  16.45  SC Heerenveen            -  PSV Eindhoven
+
+
+Round 12
+[Fri Dec/11]
+  20.00  Heracles Almelo          -  Fortuna Sittard
+[Sat Dec/12]
+  16.30  FC Twente                -  AZ Alkmaar
+  18.45  FC Emmen                 -  ADO Den Haag
+  20.00  Ajax Amsterdam           -  PEC Zwolle
+  21.00  FC Groningen             -  RKC Waalwijk
+[Sun Dec/13]
+  12.15  PSV Eindhoven            -  FC Utrecht
+  14.30  VVV Venlo                -  Feyenoord Rotterdam
+         Vitesse Arnhem           -  SC Heerenveen
+  16.45  Willem II Tilburg        -  Sparta Rotterdam
+
+
+Round 13
+[Fri Dec/18]
+  20.00  PEC Zwolle               -  FC Emmen
+[Sat Dec/19]
+  16.30  Sparta Rotterdam         -  FC Groningen
+  18.45  VVV Venlo                -  FC Twente
+  20.00  RKC Waalwijk             -  PSV Eindhoven
+  21.00  FC Utrecht               -  Fortuna Sittard
+[Sun Dec/20]
+  12.15  Vitesse Arnhem           -  Feyenoord Rotterdam
+  14.30  SC Heerenveen            -  Heracles Almelo
+         ADO Den Haag             -  Ajax Amsterdam
+  16.45  AZ Alkmaar               -  Willem II Tilburg
+
+
+Round 14
+[Tue Dec/22]
+  16.30  Fortuna Sittard          -  RKC Waalwijk
+  18.45  FC Emmen                 -  FC Utrecht
+  20.00  PSV Eindhoven            -  VVV Venlo
+  21.00  FC Twente                -  Sparta Rotterdam
+[Wed Dec/23]
+  16.30  AZ Alkmaar               -  Vitesse Arnhem
+  18.45  Willem II Tilburg        -  Ajax Amsterdam
+  20.00  ADO Den Haag             -  PEC Zwolle
+         FC Groningen             -  Heracles Almelo
+  21.00  Feyenoord Rotterdam      -  SC Heerenveen
+
+
+Round 1
+[Sun Dec/27]
+  14.30  FC Utrecht               -  AZ Alkmaar
+
+
+Round 15
+[Sat Jan/9]
+  16.30  RKC Waalwijk             -  ADO Den Haag
+  18.45  FC Emmen                 -  FC Twente
+  20.00  PEC Zwolle               -  AZ Alkmaar
+         Heracles Almelo          -  Vitesse Arnhem
+  21.00  FC Utrecht               -  FC Groningen
+[Sun Jan/10]
+  12.15  Sparta Rotterdam         -  Feyenoord Rotterdam
+  14.30  SC Heerenveen            -  Fortuna Sittard
+         VVV Venlo                -  Willem II Tilburg
+  16.45  Ajax Amsterdam           -  PSV Eindhoven
+
+
+Round 16
+[Tue Jan/12]
+  18.45  Vitesse Arnhem           -  FC Utrecht
+  21.00  Heracles Almelo          -  FC Emmen
+[Wed Jan/13]
+  18.45  PSV Eindhoven            -  AZ Alkmaar
+  20.00  Fortuna Sittard          -  Sparta Rotterdam
+         ADO Den Haag             -  VVV Venlo
+  21.00  Feyenoord Rotterdam      -  PEC Zwolle
+[Thu Jan/14]
+  18.45  SC Heerenveen            -  RKC Waalwijk
+  20.00  FC Twente                -  Ajax Amsterdam
+  21.00  Willem II Tilburg        -  FC Groningen
+
+
+Round 17
+[Sat Jan/16]
+  16.30  FC Emmen                 -  Vitesse Arnhem
+  18.45  FC Utrecht               -  Heracles Almelo
+  20.00  AZ Alkmaar               -  ADO Den Haag
+  21.00  PEC Zwolle               -  Fortuna Sittard
+[Sun Jan/17]
+  12.15  RKC Waalwijk             -  Willem II Tilburg
+  14.30  Sparta Rotterdam         -  PSV Eindhoven
+         FC Groningen             -  FC Twente
+  16.45  Ajax Amsterdam           -  Feyenoord Rotterdam
+         VVV Venlo                -  SC Heerenveen
+
+
+Round 18
+[Fri Jan/22]
+  20.00  ADO Den Haag             -  FC Emmen
+[Sat Jan/23]
+  16.30  Willem II Tilburg        -  PEC Zwolle
+  18.45  Vitesse Arnhem           -  FC Groningen
+  20.00  PSV Eindhoven            -  RKC Waalwijk
+  21.00  Heracles Almelo          -  SC Heerenveen
+[Sun Jan/24]
+  12.15  Fortuna Sittard          -  Ajax Amsterdam
+  14.30  FC Twente                -  VVV Venlo
+         FC Utrecht               -  Sparta Rotterdam
+  16.45  Feyenoord Rotterdam      -  AZ Alkmaar
+
+
+Round 19
+[Tue Jan/26]
+  18.45  PEC Zwolle               -  Heracles Almelo
+  20.00  FC Emmen                 -  PSV Eindhoven
+  21.00  FC Groningen             -  ADO Den Haag
+[Wed Jan/27]
+  18.45  AZ Alkmaar               -  FC Utrecht
+  20.00  RKC Waalwijk             -  Fortuna Sittard
+         VVV Venlo                -  Vitesse Arnhem
+  21.00  SC Heerenveen            -  Feyenoord Rotterdam
+[Thu Jan/28]
+  18.45  Sparta Rotterdam         -  FC Twente
+  21.00  Ajax Amsterdam           -  Willem II Tilburg
+
+
+Round 20
+[Sat Jan/30]
+  16.30  Heracles Almelo          -  FC Groningen
+  18.45  FC Utrecht               -  PEC Zwolle
+  20.00  Fortuna Sittard          -  VVV Venlo
+  21.00  Vitesse Arnhem           -  RKC Waalwijk
+[Sun Jan/31]
+  12.15  FC Twente                -  SC Heerenveen
+  14.30  Feyenoord Rotterdam      -  PSV Eindhoven
+         Willem II Tilburg        -  FC Emmen
+  16.45  AZ Alkmaar               -  Ajax Amsterdam
+         ADO Den Haag             -  Sparta Rotterdam
+
+
+Round 21
+[Fri Feb/5]
+  20.00  Fortuna Sittard          -  Heracles Almelo
+[Sat Feb/6]
+  16.30  PSV Eindhoven            -  FC Twente
+  18.45  PEC Zwolle               -  RKC Waalwijk
+  20.00  FC Emmen                 -  AZ Alkmaar
+  21.00  SC Heerenveen            -  Vitesse Arnhem
+[Sun Feb/7]
+  12.15  FC Groningen             -  Feyenoord Rotterdam
+  14.30  Ajax Amsterdam           -  FC Utrecht
+         Willem II Tilburg        -  ADO Den Haag
+  16.45  VVV Venlo                -  Sparta Rotterdam
+
+
+Round 22
+[Sun Feb/14]
+  ADO Den Haag             -  PSV Eindhoven
+  AZ Alkmaar               -  SC Heerenveen
+  FC Groningen             -  PEC Zwolle
+  FC Utrecht               -  VVV Venlo
+  Feyenoord Rotterdam      -  Willem II Tilburg
+  Heracles Almelo          -  Ajax Amsterdam
+  RKC Waalwijk             -  FC Emmen
+  Sparta Rotterdam         -  Fortuna Sittard
+  Vitesse Arnhem           -  FC Twente
+
+
+Round 23
+[Sun Feb/21]
+  Ajax Amsterdam           -  Sparta Rotterdam
+  FC Emmen                 -  PEC Zwolle
+  FC Twente                -  Feyenoord Rotterdam
+  Fortuna Sittard          -  ADO Den Haag
+  PSV Eindhoven            -  Vitesse Arnhem
+  RKC Waalwijk             -  Heracles Almelo
+  SC Heerenveen            -  FC Groningen
+  VVV Venlo                -  AZ Alkmaar
+  Willem II Tilburg        -  FC Utrecht
+
+
+Round 24
+[Sun Feb/28]
+  ADO Den Haag             -  RKC Waalwijk
+  AZ Alkmaar               -  Feyenoord Rotterdam
+  FC Groningen             -  Fortuna Sittard
+  FC Utrecht               -  FC Emmen
+  Heracles Almelo          -  FC Twente
+  PEC Zwolle               -  SC Heerenveen
+  PSV Eindhoven            -  Ajax Amsterdam
+  Sparta Rotterdam         -  Willem II Tilburg
+  Vitesse Arnhem           -  VVV Venlo
+
+
+Round 25
+[Sun Mar/7]
+  Ajax Amsterdam           -  FC Groningen
+  FC Emmen                 -  Sparta Rotterdam
+  FC Twente                -  Willem II Tilburg
+  Feyenoord Rotterdam      -  VVV Venlo
+  Fortuna Sittard          -  PSV Eindhoven
+  Heracles Almelo          -  PEC Zwolle
+  RKC Waalwijk             -  FC Utrecht
+  SC Heerenveen            -  ADO Den Haag
+  Vitesse Arnhem           -  AZ Alkmaar
+
+
+Round 26
+[Sun Mar/14]
+  ADO Den Haag             -  Heracles Almelo
+  AZ Alkmaar               -  FC Twente
+  FC Groningen             -  FC Emmen
+  FC Utrecht               -  Vitesse Arnhem
+  PEC Zwolle               -  Ajax Amsterdam
+  PSV Eindhoven            -  Feyenoord Rotterdam
+  Sparta Rotterdam         -  RKC Waalwijk
+  VVV Venlo                -  Fortuna Sittard
+  Willem II Tilburg        -  SC Heerenveen
+
+
+Round 27
+[Sun Mar/21]
+  Ajax Amsterdam           -  ADO Den Haag
+  AZ Alkmaar               -  PSV Eindhoven
+  Feyenoord Rotterdam      -  FC Emmen
+  Fortuna Sittard          -  FC Utrecht
+  Heracles Almelo          -  Sparta Rotterdam
+  PEC Zwolle               -  VVV Venlo
+  RKC Waalwijk             -  FC Groningen
+  SC Heerenveen            -  FC Twente
+  Vitesse Arnhem           -  Willem II Tilburg
+
+
+Round 28
+[Sun Apr/4]
+  ADO Den Haag             -  FC Utrecht
+  FC Emmen                 -  RKC Waalwijk
+  FC Twente                -  Vitesse Arnhem
+  Feyenoord Rotterdam      -  Fortuna Sittard
+  PSV Eindhoven            -  Heracles Almelo
+  SC Heerenveen            -  Ajax Amsterdam
+  Sparta Rotterdam         -  PEC Zwolle
+  VVV Venlo                -  FC Groningen
+  Willem II Tilburg        -  AZ Alkmaar
+
+
+Round 29
+[Sun Apr/11]
+  AZ Alkmaar               -  Sparta Rotterdam
+  FC Groningen             -  SC Heerenveen
+  FC Utrecht               -  Feyenoord Rotterdam
+  Fortuna Sittard          -  FC Emmen
+  Heracles Almelo          -  Willem II Tilburg
+  PEC Zwolle               -  FC Twente
+  RKC Waalwijk             -  Ajax Amsterdam
+  Vitesse Arnhem           -  ADO Den Haag
+  VVV Venlo                -  PSV Eindhoven
+
+
+Round 30
+[Sun Apr/25]
+  ADO Den Haag             -  Fortuna Sittard
+  Ajax Amsterdam           -  AZ Alkmaar
+  FC Emmen                 -  Heracles Almelo
+  FC Twente                -  FC Utrecht
+  Feyenoord Rotterdam      -  Vitesse Arnhem
+  PSV Eindhoven            -  FC Groningen
+  SC Heerenveen            -  PEC Zwolle
+  Sparta Rotterdam         -  VVV Venlo
+  Willem II Tilburg        -  RKC Waalwijk
+
+
+Round 31
+[Sun May/2]
+  ADO Den Haag             -  Feyenoord Rotterdam
+  Ajax Amsterdam           -  FC Emmen
+  FC Groningen             -  Sparta Rotterdam
+  FC Utrecht               -  Willem II Tilburg
+  Fortuna Sittard          -  FC Twente
+  Heracles Almelo          -  VVV Venlo
+  PSV Eindhoven            -  SC Heerenveen
+  RKC Waalwijk             -  AZ Alkmaar
+  Vitesse Arnhem           -  PEC Zwolle
+
+
+Round 32
+[Sun May/9]
+  AZ Alkmaar               -  Fortuna Sittard
+  FC Emmen                 -  FC Groningen
+  FC Twente                -  Heracles Almelo
+  Feyenoord Rotterdam      -  Ajax Amsterdam
+  PEC Zwolle               -  ADO Den Haag
+  SC Heerenveen            -  FC Utrecht
+  Sparta Rotterdam         -  Vitesse Arnhem
+  VVV Venlo                -  RKC Waalwijk
+  Willem II Tilburg        -  PSV Eindhoven
+
+
+Round 33
+[Thu May/13]
+  ADO Den Haag             -  Willem II Tilburg
+  Ajax Amsterdam           -  VVV Venlo
+  FC Emmen                 -  SC Heerenveen
+  FC Groningen             -  AZ Alkmaar
+  Fortuna Sittard          -  Vitesse Arnhem
+  Heracles Almelo          -  Feyenoord Rotterdam
+  PSV Eindhoven            -  PEC Zwolle
+  RKC Waalwijk             -  FC Twente
+  Sparta Rotterdam         -  FC Utrecht
+
+
+Round 34
+[Sun May/16]
+  AZ Alkmaar               -  Heracles Almelo
+  FC Twente                -  ADO Den Haag
+  FC Utrecht               -  PSV Eindhoven
+  Feyenoord Rotterdam      -  RKC Waalwijk
+  PEC Zwolle               -  FC Groningen
+  SC Heerenveen            -  Sparta Rotterdam
+  Vitesse Arnhem           -  Ajax Amsterdam
+  VVV Venlo                -  FC Emmen
+  Willem II Tilburg        -  Fortuna Sittard

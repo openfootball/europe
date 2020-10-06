@@ -1,0 +1,220 @@
+
+
+Matchday 1
+
+[Sun. 12.03.]
+  CSKA                1-0  Amkar
+[Mon. 13.03.]
+  Krylia Sovetov      0-1  Zenit
+  Anzhi               0-0  Spartak Nalchik
+  Rostov              0-2  Tom
+[Tue. 14.03.]
+  Sibir               0-2  Terek
+  Rubin               2-0  Lokomotiv
+  Alania              1-1  Saturn
+  Spartak             0-1  Dinamo
+
+
+Matchday 2
+
+[Sun. 19.03.]
+  Spartak Nalchik     2-1  Alania
+[Mon. 20.03.]
+  Amkar               1-0  Anzhi
+  Terek               1-1  Rostov
+  Saturn              1-1  Sibir
+  Lokomotiv           3-0  Krylia Sovetov
+[Tue. 21.03.]
+  Zenit               1-1  Spartak
+  CSKA                0-0  Dinamo
+  Tom                 0-1  Rubin
+
+
+Matchday 3
+
+[Sun. 26.03.]
+  Alania              0-0  Amkar
+[Mon. 27.03.]
+  Anzhi               1-2  CSKA
+  Sibir               0-2  Spartak Nalchik
+  Krylia Sovetov      2-3  Tom
+  Dinamo              1-2  Zenit
+[Tue. 28.03.]
+  Spartak             2-1  Lokomotiv
+  Rubin               0-0  Terek
+  Rostov              1-0  Saturn
+
+
+Matchday 4
+
+[Mon. 03.04.]
+  Amkar               3-1  Sibir
+  Anzhi               2-0  Alania
+  Spartak Nalchik     5-2  Rostov
+  CSKA                0-2  Zenit
+[Tue. 04.04.]
+  Tom                 2-2  Spartak
+  Terek               2-0  Krylia Sovetov
+  Saturn              0-0  Rubin
+  Lokomotiv           3-2  Dinamo
+
+
+Matchday 5
+
+[Mon. 10.04.]
+  Krylia Sovetov      2-1  Saturn
+  Spartak             2-1  Terek
+  Dinamo              0-0  Tom
+[Tue. 11.04.]
+  Sibir               2-4  Anzhi
+  Zenit               1-0  Lokomotiv
+  Alania              1-3  CSKA
+  Rostov              2-1  Amkar
+[Wed. 12.04.]
+  Rubin               1-1  Spartak Nalchik
+
+
+Matchday 6
+
+[Mon. 17.04.]
+  Tom                 0-0  Zenit
+  CSKA                1-1  Lokomotiv
+  Amkar               0-1  Rubin
+  Alania              2-1  Sibir
+[Tue. 18.04.]
+  Terek               1-1  Dinamo
+  Saturn              0-0  Spartak
+  Spartak Nalchik     1-0  Krylia Sovetov
+[Wed. 19.04.]
+  Anzhi               1-2  Rostov
+
+
+Matchday 7
+
+[Mon. 24.04.]
+  Sibir               1-4  CSKA
+  Dinamo              1-0  Saturn
+  Lokomotiv           2-1  Tom
+[Tue. 25.04.]
+  Spartak             0-0  Spartak Nalchik
+  Zenit               0-0  Terek
+  Rubin               0-0  Anzhi
+  Rostov              0-1  Alania
+[Wed. 26.04.]
+  Krylia Sovetov      1-1  Amkar
+
+
+Matchday 8
+
+[Sun. 30.04.]
+  Anzhi               0-0  Krylia Sovetov
+[Mon. 01.05.]
+  Terek               0-0  Lokomotiv
+  Spartak Nalchik     1-0  Dinamo
+[Tue. 02.05.]
+  Sibir               2-0  Rostov
+  Saturn              0-1  Zenit
+  CSKA                3-1  Tom
+  Alania              1-1  Rubin
+  Amkar               0-2  Spartak
+
+
+Matchday 9
+
+[Fri. 05.05.]
+  Krylia Sovetov      1-0  Alania
+  Lokomotiv           0-1  Saturn
+  Dinamo              1-1  Amkar
+[Sat. 06.05.]
+  Tom                 2-1  Terek
+  Rubin               1-0  Sibir
+  Rostov              1-0  CSKA
+  Zenit               3-1  Spartak Nalchik
+  Spartak             3-0  Anzhi
+
+
+Matchday 10
+
+[Wed. 10.05.]
+  Sibir               4-1  Krylia Sovetov
+  CSKA                4-1  Terek
+  Alania              5-2  Spartak
+  Amkar               0-2  Zenit
+  Rostov              0-2  Rubin
+[Thu. 11.05.]
+  Saturn              1-2  Tom
+  Spartak Nalchik     1-1  Lokomotiv
+  Anzhi               1-1  Dinamo
+
+
+Matchday 11
+
+[Sun. 14.05.]
+  Terek               2-0  Saturn
+  Rubin               0-1  CSKA
+  Krylia Sovetov      1-2  Rostov
+[Mon. 15.05.]
+  Lokomotiv           2-0  Amkar
+  Tom                 1-0  Spartak Nalchik
+  Dinamo              2-0  Alania
+  Zenit               2-1  Anzhi
+  Spartak             5-3  Sibir
+
+
+Matchday 12
+
+[Sat. 08.07.]
+  Spartak Nalchik     2-1  Terek
+[Sun. 09.07.]
+  Sibir               2-2  Dinamo
+  Rubin               3-0  Krylia Sovetov
+  Alania              1-3  Zenit
+  Rostov              1-0  Spartak
+[Mon. 10.07.]
+  CSKA                1-1  Saturn
+  Amkar               2-1  Tom
+  Anzhi               0-1  Lokomotiv
+
+
+Matchday 13
+
+[Mon. 17.07.]
+  Zenit               2-0  Sibir
+  Spartak             0-1  Rubin
+  Dinamo              3-2  Rostov
+[Tue. 18.07.]
+  Tom                 1-4  Anzhi
+  Terek               1-0  Amkar
+  Lokomotiv           3-0  Alania
+[Wed. 19.07.]
+  Krylia Sovetov      0-1  CSKA
+  Saturn              3-1  Spartak Nalchik
+
+
+Matchday 14
+
+[Mon. 24.07.]
+  Alania              2-1  Tom
+  Rostov              1-3  Zenit
+  Rubin               2-0  Dinamo
+  Sibir               2-2  Lokomotiv
+[Tue. 25.07.]
+  Amkar               0-1  Saturn
+  Anzhi               1-0  Terek
+  Krylia Sovetov      0-0  Spartak
+  CSKA                1-2  Spartak Nalchik
+
+
+Matchday 15
+
+[Sun. 30.07.]
+  Saturn              1-0  Anzhi
+  Spartak Nalchik     2-1  Amkar
+[Mon. 31.07.]
+  Zenit               2-0  Rubin
+  Terek               2-0  Alania
+  Dinamo              1-1  Krylia Sovetov
+[Tue. 01.08.]
+  Spartak             1-2  CSKA
+  Lokomotiv           0-1  Rostov
+  Tom                 3-2  Sibir

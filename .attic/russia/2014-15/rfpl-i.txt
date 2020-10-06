@@ -1,0 +1,231 @@
+
+
+Matchday 1
+
+[Fri. 01.08.]
+  Rubin               0-4  Spartak
+[Sat. 02.08.]
+  Ural                2-3  Mordovia
+  Arsenal Tula        0-4  Zenit
+  CSKA                4-1  Torpedo
+[Sun. 03.08.]
+  Dinamo              7-3  Rostov
+  Kuban               2-0  Ufa
+  Lokomotiv           0-0  Krasnodar
+[Mon. 04.08.]
+  Terek               4-0  Amkar
+
+
+Matchday 2
+
+[Fri. 08.08.]
+  Amkar               0-1  Ufa
+  Kuban               2-2  Rostov
+[Sat. 09.08.]
+  Mordovia            0-1  CSKA
+  Zenit               8-1  Torpedo
+  Terek               1-1  Rubin
+[Sun. 10.08.]
+  Dinamo              1-2  Spartak
+  Ural                1-1  Krasnodar
+  Arsenal Tula        0-2  Lokomotiv
+
+
+Matchday 3
+
+[Tue. 12.08.]
+  Torpedo             1-1  Amkar
+[Wed. 13.08.]
+  Ufa                 0-2  Dinamo
+  Ural                1-2  Zenit
+  Arsenal Tula        0-0  Rubin
+  CSKA                1-0  Terek
+[Thu. 14.08.]
+  Lokomotiv           2-1  Rostov
+  Krasnodar           4-0  Spartak
+[Fri. 15.08.]
+  Mordovia            0-0  Kuban
+
+
+Matchday 4
+
+[Sat. 16.08.]
+  Ural                0-2  Torpedo
+  Zenit               1-0  Ufa
+[Sun. 17.08.]
+  CSKA                0-1  Spartak
+  Arsenal Tula        1-2  Dinamo
+  Rubin               1-1  Lokomotiv
+  Rostov              0-2  Krasnodar
+[Mon. 18.08.]
+  Terek               1-0  Mordovia
+  Kuban               1-0  Amkar
+
+
+Matchday 5
+
+[Fri. 22.08.]
+  Terek               3-0  Arsenal Tula
+[Sat. 23.08.]
+  Ufa                 1-2  Spartak
+  Zenit               2-0  Amkar
+  Rubin               2-1  CSKA
+[Sun. 24.08.]
+  Dinamo              2-0  Ural
+  Torpedo             0-3  Krasnodar
+  Kuban               2-1  Lokomotiv
+  Rostov              2-1  Mordovia
+
+
+Matchday 6
+
+[Fri. 29.08.]
+  Ural                0-1  Terek
+[Sat. 30.08.]
+  Mordovia            1-0  Torpedo
+  Amkar               2-0  Spartak
+  Arsenal Tula        0-1  Kuban
+[Sun. 31.08.]
+  CSKA                6-0  Rostov
+  Rubin               1-1  Ufa
+  Lokomotiv           0-1  Zenit
+  Krasnodar           0-2  Dinamo
+
+
+Matchday 7
+
+[Sat. 13.09.]
+  CSKA                2-1  Arsenal Tula
+  Zenit               3-2  Dinamo
+  Rostov              1-2  Rubin
+  Lokomotiv           1-1  Mordovia
+[Sun. 14.09.]
+  Spartak             3-1  Torpedo
+  Krasnodar           0-2  Ufa
+[Mon. 15.09.]
+  Amkar               2-1  Ural
+  Terek               0-0  Kuban
+
+
+Matchday 8
+
+[Fri. 19.09.]
+  Arsenal Tula        0-1  Mordovia
+[Sat. 20.09.]
+  Ufa                 0-1  Ural
+  Rostov              0-5  Zenit
+  Kuban               2-1  Rubin
+  Spartak             1-1  Terek
+[Sun. 21.09.]
+  CSKA                1-0  Lokomotiv
+[Mon. 22.09.]
+  Amkar               1-2  Krasnodar
+  Torpedo             1-3  Dinamo
+
+
+Matchday 9
+
+[Sat. 27.09.]
+  Ural                3-4  CSKA
+  Mordovia            0-2  Ufa
+  Zenit               0-0  Spartak
+[Sun. 28.09.]
+  Dinamo              2-2  Kuban
+  Lokomotiv           3-1  Amkar
+  Krasnodar           3-0  Arsenal Tula
+  Terek               2-1  Rostov
+[Mon. 29.09.]
+  Rubin               2-1  Torpedo
+
+
+Matchday 10
+
+[Sat. 18.10.]
+  CSKA                6-0  Kuban
+  Krasnodar           2-2  Zenit
+  Lokomotiv           2-1  Terek
+[Sun. 19.10.]
+  Ural                2-0  Spartak
+  Arsenal Tula        1-1  Rostov
+[Mon. 20.10.]
+  Ufa                 1-1  Torpedo
+  Rubin               5-0  Mordovia
+[Thu. 30.04.]
+  Amkar               2-0  Dinamo
+
+
+Matchday 11
+
+[Fri. 24.10.]
+  Ural                1-0  Arsenal Tula
+[Sat. 25.10.]
+  Amkar               2-0  Rostov
+  Torpedo             0-0  Kuban
+[Sun. 26.10.]
+  Spartak             1-1  Lokomotiv
+  Ufa                 3-3  CSKA
+  Zenit               5-0  Mordovia
+[Mon. 27.10.]
+  Krasnodar           2-0  Terek
+  Dinamo              0-2  Rubin
+
+
+Matchday 12
+
+[Fri. 31.10.]
+  Rostov              1-0  Ural
+[Sat. 01.11.]
+  CSKA                0-1  Zenit
+[Sun. 02.11.]
+  Lokomotiv           4-2  Dinamo
+  Mordovia            2-1  Krasnodar
+  Kuban               3-3  Spartak
+[Mon. 03.11.]
+  Torpedo             0-1  Arsenal Tula
+  Rubin               1-1  Amkar
+  Terek               1-0  Ufa
+
+
+Matchday 13
+
+[Fri. 07.11.]
+  Ural                0-1  Kuban
+[Sat. 08.11.]
+  Amkar               0-1  Mordovia
+  Torpedo             0-1  Lokomotiv
+  Zenit               1-3  Terek
+[Sun. 09.11.]
+  Dinamo              1-0  CSKA
+  Ufa                 0-0  Rostov
+  Krasnodar           2-0  Rubin
+  Spartak             2-0  Arsenal Tula
+
+
+Matchday 14
+
+[Sat. 22.11.]
+  Ural                1-3  Rubin
+  Torpedo             2-1  Rostov
+  Krasnodar           2-1  CSKA
+  Zenit               1-0  Kuban
+[Sun. 23.11.]
+  Dinamo              3-0  Terek
+  Arsenal Tula        4-0  Amkar
+  Spartak             4-2  Mordovia
+[Mon. 24.11.]
+  Lokomotiv           0-0  Ufa
+
+
+Matchday 15
+
+[Fri. 28.11.]
+  Rostov              1-1  Amkar
+[Sat. 29.11.]
+  Arsenal Tula        1-2  Ural
+  CSKA                5-0  Ufa
+  Mordovia            1-0  Zenit
+  Kuban               1-1  Torpedo
+[Sun. 30.11.]
+  Lokomotiv           1-0  Spartak
+  Rubin               1-1  Dinamo
+  Terek               0-1  Krasnodar

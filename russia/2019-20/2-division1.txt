@@ -1,0 +1,545 @@
+= Russian 1. Division 2019/20
+
+
+Matchday 1
+[Sun Jul/7]
+  SKA Khabarovsk           1-2  Shinnik
+  Luch Energia Vladivostok  2-5  FC Khimki
+  Nizhnii Novgorod         0-2  Tom Tomsk
+  FC Tekstilshchik Ivanovo  0-1  Yenisey
+  FC Mordovia              0-1  Neftekhimik Nizhnekamsk
+  FC Avangard Kursk        0-3  Rotor
+  FC Chayka                0-1  FC Chertanovo Moskva
+  FC Fakel Voronezh        0-1  Torpedo Moskva
+  FC Baltika               0-1  Spartak Moskva II
+[Tue Jul/9]
+  FC Armavir               2-1  FC Krasnodar 2
+
+
+Matchday 2
+[Sat Jul/13]
+  Spartak Moskva II        2-2  SKA Khabarovsk
+  Tom Tomsk                2-0  FC Armavir
+  FC Fakel Voronezh        0-0  FC Chayka
+  Torpedo Moskva           2-0  FC Baltika
+  Shinnik                  1-0  FC Mordovia
+  FC Khimki                3-0  FC Avangard Kursk
+  Neftekhimik Nizhnekamsk  1-1  Nizhnii Novgorod
+  FC Krasnodar 2           1-2  Luch Energia Vladivostok
+  Rotor                    3-2  FC Tekstilshchik Ivanovo
+  FC Chertanovo Moskva     2-1  Yenisey
+
+
+Matchday 3
+[Fri Jul/19]
+  Nizhnii Novgorod         1-3  Shinnik
+[Sat Jul/20]
+  Luch Energia Vladivostok  1-1  Tom Tomsk
+  SKA Khabarovsk           0-1  Torpedo Moskva
+  Yenisey                  0-3  Rotor
+  FC Tekstilshchik Ivanovo  1-4  FC Khimki
+  FC Fakel Voronezh        0-0  FC Chertanovo Moskva
+  FC Mordovia              1-0  Spartak Moskva II
+  FC Avangard Kursk        1-1  FC Krasnodar 2
+  FC Baltika               0-1  FC Chayka
+  FC Armavir               0-2  Neftekhimik Nizhnekamsk
+
+
+Matchday 4
+[Wed Jul/24]
+  Tom Tomsk                2-0  FC Avangard Kursk
+  Spartak Moskva II        2-0  Nizhnii Novgorod
+  FC Krasnodar 2           1-1  FC Tekstilshchik Ivanovo
+  Neftekhimik Nizhnekamsk  1-1  Luch Energia Vladivostok
+  Shinnik                  1-1  FC Armavir
+  FC Fakel Voronezh        1-2  FC Baltika
+  Torpedo Moskva           2-2  FC Mordovia
+  FC Khimki                4-0  Yenisey
+  FC Chertanovo Moskva     1-0  Rotor
+  FC Chayka                0-2  SKA Khabarovsk
+
+
+Matchday 5
+[Sun Jul/28]
+  SKA Khabarovsk           1-0  FC Fakel Voronezh
+  Luch Energia Vladivostok  2-1  Shinnik
+  Yenisey                  0-1  FC Krasnodar 2
+  Tom Tomsk                2-1  FC Tekstilshchik Ivanovo
+  FC Mordovia              0-0  FC Chayka
+  Nizhnii Novgorod         2-1  Torpedo Moskva
+  FC Baltika               1-2  FC Chertanovo Moskva
+  FC Avangard Kursk        1-0  Neftekhimik Nizhnekamsk
+  Rotor                    1-1  FC Khimki
+[Mon Jul/29]
+  FC Armavir               1-1  Spartak Moskva II
+
+
+Matchday 6
+[Sat Aug/3]
+  SKA Khabarovsk           2-0  FC Baltika
+  Luch Energia Vladivostok  2-4  Spartak Moskva II
+  Tom Tomsk                0-0  Yenisey
+  FC Chertanovo Moskva     0-0  FC Khimki
+  Shinnik                  1-3  FC Avangard Kursk
+  FC Fakel Voronezh        2-1  FC Mordovia
+  Neftekhimik Nizhnekamsk  1-2  FC Tekstilshchik Ivanovo
+  FC Krasnodar 2           0-1  Rotor
+  FC Chayka                0-0  Nizhnii Novgorod
+[Sun Aug/4]
+  Torpedo Moskva           2-1  FC Armavir
+
+
+Matchday 7
+[Sat Aug/10]
+  SKA Khabarovsk           0-0  FC Chertanovo Moskva
+  Luch Energia Vladivostok  0-1  Torpedo Moskva
+  Yenisey                  2-2  Neftekhimik Nizhnekamsk
+  Tom Tomsk                0-1  Rotor
+  FC Mordovia              0-3  FC Baltika
+  Nizhnii Novgorod         2-1  FC Fakel Voronezh
+  FC Tekstilshchik Ivanovo  1-1  Shinnik
+  FC Avangard Kursk        2-2  Spartak Moskva II
+  FC Khimki                3-0  FC Krasnodar 2
+  FC Armavir               2-1  FC Chayka
+
+
+Matchday 8
+[Wed Aug/14]
+  SKA Khabarovsk           1-2  FC Mordovia
+  Luch Energia Vladivostok  1-1  FC Chayka
+  Tom Tomsk                0-0  FC Khimki
+  Spartak Moskva II        1-2  FC Tekstilshchik Ivanovo
+  Neftekhimik Nizhnekamsk  1-2  Rotor
+  Shinnik                  0-0  Yenisey
+  FC Fakel Voronezh        0-2  FC Armavir
+  FC Chertanovo Moskva     1-2  FC Krasnodar 2
+  Torpedo Moskva           3-1  FC Avangard Kursk
+  FC Baltika               2-1  Nizhnii Novgorod
+
+
+Matchday 9
+[Sun Aug/18]
+  Luch Energia Vladivostok  3-0  FC Fakel Voronezh
+  FC Mordovia              2-3  FC Chertanovo Moskva
+  Nizhnii Novgorod         1-1  SKA Khabarovsk
+  FC Khimki                3-2  Neftekhimik Nizhnekamsk
+  FC Avangard Kursk        1-1  FC Chayka
+  FC Tekstilshchik Ivanovo  1-3  Torpedo Moskva
+  Rotor                    2-3  Shinnik
+  FC Armavir               1-1  FC Baltika
+  FC Krasnodar 2           0-1  Tom Tomsk
+[Tue Aug/20]
+  Spartak Moskva II        2-0  Yenisey
+
+
+Matchday 10
+[Sun Aug/25]
+  SKA Khabarovsk           3-0  FC Armavir
+  FC Chertanovo Moskva     1-1  Tom Tomsk
+  Neftekhimik Nizhnekamsk  1-0  FC Krasnodar 2
+  FC Mordovia              0-1  Nizhnii Novgorod
+  Shinnik                  0-1  FC Khimki
+  FC Fakel Voronezh        0-0  FC Avangard Kursk
+  Torpedo Moskva           2-0  Yenisey
+  FC Baltika               0-0  Luch Energia Vladivostok
+  FC Chayka                3-0  FC Tekstilshchik Ivanovo
+[Mon Aug/26]
+  Spartak Moskva II        0-1  Rotor
+
+
+Matchday 11
+[Sat Aug/31]
+  Luch Energia Vladivostok  0-2  SKA Khabarovsk
+  Yenisey                  1-3  FC Chayka
+  Nizhnii Novgorod         0-0  FC Chertanovo Moskva
+  Tom Tomsk                0-1  Neftekhimik Nizhnekamsk
+  FC Avangard Kursk        0-0  FC Baltika
+  FC Tekstilshchik Ivanovo  1-4  FC Fakel Voronezh
+  Rotor                    0-2  Torpedo Moskva
+  FC Khimki                1-0  Spartak Moskva II
+  FC Krasnodar 2           2-2  Shinnik
+  FC Armavir               0-0  FC Mordovia
+
+
+Matchday 12
+[Sat Sep/7]
+  SKA Khabarovsk           1-0  FC Avangard Kursk
+  Nizhnii Novgorod         1-0  FC Armavir
+  Shinnik                  2-1  Tom Tomsk
+  FC Chertanovo Moskva     2-2  Neftekhimik Nizhnekamsk
+  Spartak Moskva II        0-3  FC Krasnodar 2
+  FC Mordovia              1-2  Luch Energia Vladivostok
+  FC Fakel Voronezh        1-1  Yenisey
+  FC Chayka                2-1  Rotor
+[Sun Sep/8]
+  FC Tekstilshchik Ivanovo  1-5  FC Baltika
+  Torpedo Moskva           1-0  FC Khimki
+
+
+Matchday 13
+[Sat Sep/14]
+  Luch Energia Vladivostok  0-0  Nizhnii Novgorod
+  Yenisey                  2-2  FC Baltika
+  Tom Tomsk                2-2  Spartak Moskva II
+  FC Tekstilshchik Ivanovo  3-1  SKA Khabarovsk
+  Neftekhimik Nizhnekamsk  2-2  Shinnik
+  FC Avangard Kursk        2-2  FC Mordovia
+  Rotor                    2-0  FC Fakel Voronezh
+  FC Khimki                1-0  FC Chayka
+  Torpedo Moskva           2-1  FC Krasnodar 2
+[Sun Sep/15]
+  FC Armavir               1-1  FC Chertanovo Moskva
+
+
+Matchday 14
+[Fri Sep/20]
+  SKA Khabarovsk           2-0  Yenisey
+[Sat Sep/21]
+  Nizhnii Novgorod         1-1  FC Avangard Kursk
+  Spartak Moskva II        0-3  Neftekhimik Nizhnekamsk
+  FC Mordovia              1-0  FC Tekstilshchik Ivanovo
+  FC Chayka                1-1  FC Krasnodar 2
+  Torpedo Moskva           2-1  Tom Tomsk
+  FC Armavir               0-0  Luch Energia Vladivostok
+  FC Baltika               2-1  Rotor
+  FC Fakel Voronezh        0-3  FC Khimki
+  FC Chertanovo Moskva     0-1  Shinnik
+
+
+Matchday 15
+[Sun Sep/29]
+  Luch Energia Vladivostok  0-1  FC Chertanovo Moskva
+  Yenisey                  2-1  FC Mordovia
+  Tom Tomsk                3-1  FC Chayka
+  Shinnik                  3-2  Spartak Moskva II
+  FC Avangard Kursk        2-1  FC Armavir
+  FC Tekstilshchik Ivanovo  0-2  Nizhnii Novgorod
+  Neftekhimik Nizhnekamsk  1-0  Torpedo Moskva
+  Rotor                    5-3  SKA Khabarovsk
+  FC Khimki                0-1  FC Baltika
+[Mon Sep/30]
+  FC Krasnodar 2           0-0  FC Fakel Voronezh
+
+
+Matchday 16
+[Sat Oct/5]
+  Luch Energia Vladivostok  2-2  FC Avangard Kursk
+  SKA Khabarovsk           1-1  FC Khimki
+  Nizhnii Novgorod         1-3  Yenisey
+  FC Chertanovo Moskva     2-2  Spartak Moskva II
+  FC Armavir               2-0  FC Tekstilshchik Ivanovo
+  FC Mordovia              0-1  Rotor
+  FC Fakel Voronezh        0-0  Tom Tomsk
+  FC Baltika               4-1  FC Krasnodar 2
+  FC Chayka                0-2  Neftekhimik Nizhnekamsk
+  Torpedo Moskva           2-0  Shinnik
+
+
+Matchday 17
+[Sat Oct/12]
+  Tom Tomsk                0-0  FC Baltika
+  Spartak Moskva II        2-3  Torpedo Moskva
+  Yenisey                  1-1  FC Armavir
+  FC Tekstilshchik Ivanovo  4-3  Luch Energia Vladivostok
+  Rotor                    2-1  Nizhnii Novgorod
+  FC Khimki                4-0  FC Mordovia
+  FC Krasnodar 2           2-2  SKA Khabarovsk
+  Shinnik                  2-3  FC Chayka
+  FC Avangard Kursk        0-1  FC Chertanovo Moskva
+  Neftekhimik Nizhnekamsk  1-0  FC Fakel Voronezh
+
+
+Matchday 18
+[Sat Oct/19]
+  Luch Energia Vladivostok  0-1  Yenisey
+  SKA Khabarovsk           1-1  Tom Tomsk
+  FC Avangard Kursk        2-1  FC Tekstilshchik Ivanovo
+  Nizhnii Novgorod         1-0  FC Khimki
+  FC Mordovia              0-3  FC Krasnodar 2
+  FC Armavir               0-0  Rotor
+  FC Fakel Voronezh        0-4  Shinnik
+  FC Chayka                2-1  Spartak Moskva II
+  FC Baltika               1-0  Neftekhimik Nizhnekamsk
+  Torpedo Moskva           0-1  FC Chertanovo Moskva
+
+
+Matchday 19
+[Wed Oct/23]
+  Tom Tomsk                2-0  FC Mordovia
+  Yenisey                  1-1  FC Avangard Kursk
+  Spartak Moskva II        7-2  FC Fakel Voronezh
+  FC Krasnodar 2           2-2  Nizhnii Novgorod
+  Rotor                    2-0  Luch Energia Vladivostok
+  Neftekhimik Nizhnekamsk  2-2  SKA Khabarovsk
+  FC Khimki                1-0  FC Armavir
+  Shinnik                  0-2  FC Baltika
+  FC Chertanovo Moskva     1-0  FC Tekstilshchik Ivanovo
+  Torpedo Moskva           2-1  FC Chayka
+
+
+Matchday 20
+[Sun Oct/27]
+  SKA Khabarovsk           3-0  Spartak Moskva II
+  Luch Energia Vladivostok  1-1  FC Krasnodar 2
+  Yenisey                  0-2  FC Chertanovo Moskva
+  FC Tekstilshchik Ivanovo  0-1  Rotor
+  FC Mordovia              1-1  Shinnik
+  Nizhnii Novgorod         0-1  Neftekhimik Nizhnekamsk
+  FC Avangard Kursk        0-3  FC Khimki
+  FC Chayka                0-1  FC Fakel Voronezh
+  FC Baltika               1-1  Torpedo Moskva
+  FC Armavir               1-1  Tom Tomsk
+
+
+Matchday 21
+[Sun Nov/3]
+  Tom Tomsk                4-0  Luch Energia Vladivostok
+  Spartak Moskva II        2-0  FC Mordovia
+  Shinnik                  1-3  Nizhnii Novgorod
+  Neftekhimik Nizhnekamsk  2-1  FC Armavir
+  FC Chertanovo Moskva     4-0  FC Fakel Voronezh
+  Rotor                    2-1  Yenisey
+  FC Chayka                1-0  FC Baltika
+  FC Khimki                2-1  FC Tekstilshchik Ivanovo
+  Torpedo Moskva           2-1  SKA Khabarovsk
+[Mon Nov/4]
+  FC Krasnodar 2           1-0  FC Avangard Kursk
+
+
+Matchday 22
+[Sat Nov/9]
+  Luch Energia Vladivostok  0-2  Neftekhimik Nizhnekamsk
+  SKA Khabarovsk           3-2  FC Chayka
+  Yenisey                  1-0  FC Khimki
+  FC Tekstilshchik Ivanovo  1-0  FC Krasnodar 2
+  FC Mordovia              1-1  Torpedo Moskva
+  Nizhnii Novgorod         2-2  Spartak Moskva II
+  FC Avangard Kursk        3-2  Tom Tomsk
+  Rotor                    1-1  FC Chertanovo Moskva
+  FC Armavir               0-1  Shinnik
+  FC Baltika               3-0  FC Fakel Voronezh
+
+
+Matchday 23
+[Wed Nov/13]
+  Spartak Moskva II        1-3  FC Armavir
+  Neftekhimik Nizhnekamsk  1-1  FC Avangard Kursk
+  FC Krasnodar 2           4-0  Yenisey
+  FC Fakel Voronezh        0-2  SKA Khabarovsk
+  FC Chayka                3-1  FC Mordovia
+  Shinnik                  3-1  Luch Energia Vladivostok
+  FC Tekstilshchik Ivanovo  0-2  Tom Tomsk
+  FC Khimki                0-2  Rotor
+  FC Chertanovo Moskva     3-1  FC Baltika
+  Torpedo Moskva           0-2  Nizhnii Novgorod
+
+
+Matchday 24
+[Sun Nov/17]
+  Yenisey                  3-0  Tom Tomsk
+  FC Tekstilshchik Ivanovo  1-2  Neftekhimik Nizhnekamsk
+  Spartak Moskva II        0-2  Luch Energia Vladivostok
+  FC Avangard Kursk        2-2  Shinnik
+  FC Mordovia              1-1  FC Fakel Voronezh
+  Nizhnii Novgorod         1-2  FC Chayka
+  Rotor                    0-0  FC Krasnodar 2
+  FC Armavir               2-1  Torpedo Moskva
+  FC Baltika               1-0  SKA Khabarovsk
+  FC Khimki                3-1  FC Chertanovo Moskva
+
+
+Matchday 25
+[Sat Nov/23]
+  Spartak Moskva II        1-1  FC Avangard Kursk
+  FC Chayka                1-0  FC Armavir
+  Shinnik                  3-0  FC Tekstilshchik Ivanovo
+  Neftekhimik Nizhnekamsk  1-0  Yenisey
+  FC Chertanovo Moskva     1-0  SKA Khabarovsk
+  FC Fakel Voronezh        0-2  Nizhnii Novgorod
+  Rotor                    2-0  Tom Tomsk
+  FC Krasnodar 2           2-2  FC Khimki
+  FC Baltika               0-2  FC Mordovia
+  Torpedo Moskva           0-2  Luch Energia Vladivostok
+
+
+Matchday 26
+[Mon Mar/9]
+  Yenisey                  1-3  Shinnik
+  FC Khimki                3-0  Tom Tomsk
+  Nizhnii Novgorod         0-0  FC Baltika
+  FC Avangard Kursk        2-2  Torpedo Moskva
+  Rotor                    1-1  Neftekhimik Nizhnekamsk
+  FC Mordovia              2-3  SKA Khabarovsk
+  FC Armavir               1-0  FC Fakel Voronezh
+  FC Chayka                1-1  Luch Energia Vladivostok
+  FC Tekstilshchik Ivanovo  1-1  Spartak Moskva II
+[Tue Mar/10]
+  FC Krasnodar 2           1-2  FC Chertanovo Moskva
+
+
+Matchday 27
+[Sun Mar/15]
+  SKA Khabarovsk           2-0  Nizhnii Novgorod
+  Tom Tomsk                2-1  FC Krasnodar 2
+  Yenisey                  1-0  Spartak Moskva II
+  Neftekhimik Nizhnekamsk  2-2  FC Khimki
+  FC Chertanovo Moskva     3-0  FC Mordovia
+  Shinnik                  0-1  Rotor
+  FC Chayka                1-1  FC Avangard Kursk
+  FC Baltika               2-0  FC Armavir
+  FC Fakel Voronezh        1-0  Luch Energia Vladivostok
+  FC Tekstilshchik Ivanovo  0-0  Torpedo Moskva
+
+
+Matchday 28
+[Sun Mar/22]
+  Nizhnii Novgorod         -  FC Mordovia
+  FC Armavir               -  SKA Khabarovsk
+  Luch Energia Vladivostok  -  FC Baltika
+  FC Avangard Kursk        -  FC Fakel Voronezh
+  FC Tekstilshchik Ivanovo  -  FC Chayka
+  Yenisey                  -  Torpedo Moskva
+  Rotor                    -  Spartak Moskva II
+  FC Khimki                -  Shinnik
+  FC Krasnodar 2           -  Neftekhimik Nizhnekamsk
+  Tom Tomsk                -  FC Chertanovo Moskva
+
+
+Matchday 29
+[Sun Mar/29]
+  FC Chertanovo Moskva     -  Nizhnii Novgorod
+  FC Mordovia              -  FC Armavir
+  SKA Khabarovsk           -  Luch Energia Vladivostok
+  FC Baltika               -  FC Avangard Kursk
+  FC Fakel Voronezh        -  FC Tekstilshchik Ivanovo
+  FC Chayka                -  Yenisey
+  Torpedo Moskva           -  Rotor
+  Spartak Moskva II        -  FC Khimki
+  Shinnik                  -  FC Krasnodar 2
+  Neftekhimik Nizhnekamsk  -  Tom Tomsk
+
+
+Matchday 30
+[Sat Apr/4]
+  FC Armavir               -  Nizhnii Novgorod
+  Luch Energia Vladivostok  -  FC Mordovia
+  FC Avangard Kursk        -  SKA Khabarovsk
+  FC Tekstilshchik Ivanovo  -  FC Baltika
+  Yenisey                  -  FC Fakel Voronezh
+  Rotor                    -  FC Chayka
+  FC Khimki                -  Torpedo Moskva
+  FC Krasnodar 2           -  Spartak Moskva II
+  Tom Tomsk                -  Shinnik
+  Neftekhimik Nizhnekamsk  -  FC Chertanovo Moskva
+
+
+Matchday 31
+[Wed Apr/8]
+  FC Chertanovo Moskva     -  FC Armavir
+  Nizhnii Novgorod         -  Luch Energia Vladivostok
+  FC Mordovia              -  FC Avangard Kursk
+  SKA Khabarovsk           -  FC Tekstilshchik Ivanovo
+  FC Baltika               -  Yenisey
+  FC Fakel Voronezh        -  Rotor
+  FC Chayka                -  FC Khimki
+  Torpedo Moskva           -  FC Krasnodar 2
+  Spartak Moskva II        -  Tom Tomsk
+  Shinnik                  -  Neftekhimik Nizhnekamsk
+
+
+Matchday 32
+[Sun Apr/12]
+  Luch Energia Vladivostok  -  FC Armavir
+  FC Avangard Kursk        -  Nizhnii Novgorod
+  FC Tekstilshchik Ivanovo  -  FC Mordovia
+  Yenisey                  -  SKA Khabarovsk
+  Rotor                    -  FC Baltika
+  FC Khimki                -  FC Fakel Voronezh
+  FC Krasnodar 2           -  FC Chayka
+  Tom Tomsk                -  Torpedo Moskva
+  Neftekhimik Nizhnekamsk  -  Spartak Moskva II
+  Shinnik                  -  FC Chertanovo Moskva
+
+
+Matchday 33
+[Sat Apr/18]
+  FC Baltika               -  FC Khimki
+  FC Chertanovo Moskva     -  Luch Energia Vladivostok
+  FC Armavir               -  FC Avangard Kursk
+  Nizhnii Novgorod         -  FC Tekstilshchik Ivanovo
+  FC Mordovia              -  Yenisey
+  SKA Khabarovsk           -  Rotor
+  FC Fakel Voronezh        -  FC Krasnodar 2
+  FC Chayka                -  Tom Tomsk
+  Torpedo Moskva           -  Neftekhimik Nizhnekamsk
+  Spartak Moskva II        -  Shinnik
+
+
+Matchday 34
+[Sun Apr/26]
+  FC Avangard Kursk        -  Luch Energia Vladivostok
+  FC Tekstilshchik Ivanovo  -  FC Armavir
+  Yenisey                  -  Nizhnii Novgorod
+  FC Khimki                -  SKA Khabarovsk
+  FC Krasnodar 2           -  FC Baltika
+  Tom Tomsk                -  FC Fakel Voronezh
+  Neftekhimik Nizhnekamsk  -  FC Chayka
+  Rotor                    -  FC Mordovia
+  Shinnik                  -  Torpedo Moskva
+  Spartak Moskva II        -  FC Chertanovo Moskva
+
+
+Matchday 35
+[Sat May/2]
+  FC Chertanovo Moskva     -  FC Avangard Kursk
+  Luch Energia Vladivostok  -  FC Tekstilshchik Ivanovo
+  FC Armavir               -  Yenisey
+  Nizhnii Novgorod         -  Rotor
+  FC Mordovia              -  FC Khimki
+  SKA Khabarovsk           -  FC Krasnodar 2
+  FC Baltika               -  Tom Tomsk
+  FC Fakel Voronezh        -  Neftekhimik Nizhnekamsk
+  FC Chayka                -  Shinnik
+  Torpedo Moskva           -  Spartak Moskva II
+
+
+Matchday 36
+[Wed May/6]
+  FC Tekstilshchik Ivanovo  -  FC Avangard Kursk
+  Rotor                    -  FC Armavir
+  Yenisey                  -  Luch Energia Vladivostok
+  FC Khimki                -  Nizhnii Novgorod
+  FC Krasnodar 2           -  FC Mordovia
+  Tom Tomsk                -  SKA Khabarovsk
+  Neftekhimik Nizhnekamsk  -  FC Baltika
+  Shinnik                  -  FC Fakel Voronezh
+  Spartak Moskva II        -  FC Chayka
+  FC Chertanovo Moskva     -  Torpedo Moskva
+
+
+Matchday 37
+[Sun May/10]
+  FC Chertanovo Moskva     -  FC Tekstilshchik Ivanovo
+  FC Avangard Kursk        -  Yenisey
+  Luch Energia Vladivostok  -  Rotor
+  FC Armavir               -  FC Khimki
+  Nizhnii Novgorod         -  FC Krasnodar 2
+  FC Mordovia              -  Tom Tomsk
+  SKA Khabarovsk           -  Neftekhimik Nizhnekamsk
+  FC Baltika               -  Shinnik
+  FC Fakel Voronezh        -  Spartak Moskva II
+  FC Chayka                -  Torpedo Moskva
+
+
+Matchday 38
+[Sat May/16]
+  Yenisey                  -  FC Tekstilshchik Ivanovo
+  Rotor                    -  FC Avangard Kursk
+  FC Khimki                -  Luch Energia Vladivostok
+  FC Krasnodar 2           -  FC Armavir
+  Tom Tomsk                -  Nizhnii Novgorod
+  Neftekhimik Nizhnekamsk  -  FC Mordovia
+  Shinnik                  -  SKA Khabarovsk
+  Spartak Moskva II        -  FC Baltika
+  Torpedo Moskva           -  FC Fakel Voronezh
+  FC Chertanovo Moskva     -  FC Chayka

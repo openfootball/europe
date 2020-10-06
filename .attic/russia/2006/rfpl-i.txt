@@ -1,0 +1,221 @@
+
+
+Matchday 1
+
+[Fri. 17.03.]
+  Torpedo             1-2  Tom
+  Moskva              1-0  Amkar
+[Sat. 18.03.]
+  Dinamo              1-1  Shinnik
+  Spartak             1-1  Luch
+[Sun. 19.03.]
+  Rubin               2-1  Rostov
+  Zenit               1-1  Saturn
+  Spartak Nalchik     0-1  CSKA
+  Lokomotiv           0-1  Krylia Sovetov
+
+
+Matchday 2
+
+[Sun. 26.03.]
+  Luch                1-1  Lokomotiv
+  CSKA                5-1  Shinnik
+  Tom                 1-0  Dinamo
+  Rostov              4-0  Moskva
+  Amkar               1-3  Zenit
+  Spartak Nalchik     2-2  Spartak
+  Saturn              0-0  Torpedo
+[Mon. 27.03.]
+  Krylia Sovetov      0-0  Rubin
+
+
+Matchday 3
+
+[Fri. 31.03.]
+  Torpedo             0-0  Amkar
+  Dinamo              1-1  Saturn
+[Sat. 01.04.]
+  Spartak             1-1  CSKA
+  Shinnik             0-1  Tom
+[Sun. 02.04.]
+  Rubin               1-0  Luch
+  Lokomotiv           2-3  Spartak Nalchik
+  Moskva              1-0  Krylia Sovetov
+  Zenit               1-1  Rostov
+
+
+Matchday 4
+
+[Sat. 08.04.]
+  Moskva              2-1  Luch
+  Rostov              1-1  Torpedo
+  CSKA                2-0  Tom
+  Saturn              3-0  Shinnik
+[Sun. 09.04.]
+  Lokomotiv           1-2  Spartak
+  Amkar               3-2  Dinamo
+  Krylia Sovetov      3-2  Zenit
+  Spartak Nalchik     3-1  Rubin
+
+
+Matchday 5
+
+[Sat. 15.04.]
+  Zenit               3-1  Luch
+  Lokomotiv           3-2  CSKA
+[Sun. 16.04.]
+  Tom                 0-0  Saturn
+  Rubin               2-0  Spartak
+  Moskva              1-1  Spartak Nalchik
+  Torpedo             1-1  Krylia Sovetov
+  Shinnik             0-0  Amkar
+[Mon. 17.04.]
+  Dinamo              0-1  Rostov
+
+
+Matchday 6
+
+[Sat. 22.04.]
+  Luch                2-0  Torpedo
+  CSKA                1-0  Saturn
+  Amkar               0-0  Tom
+[Sun. 23.04.]
+  Spartak             3-3  Moskva
+  Lokomotiv           4-4  Rubin
+  Rostov              0-0  Shinnik
+  Dinamo              0-1  Krylia Sovetov
+  Spartak Nalchik     1-1  Zenit
+
+
+Matchday 7
+
+[Sat. 29.04.]
+  Rubin               1-0  CSKA
+  Torpedo             2-0  Spartak Nalchik
+  Dinamo              2-1  Luch
+[Sun. 30.04.]
+  Zenit               1-4  Spartak
+  Tom                 3-1  Rostov
+  Shinnik             1-0  Krylia Sovetov
+  Saturn              0-0  Amkar
+  Moskva              0-1  Lokomotiv
+
+
+Matchday 8
+
+[Sat. 06.05.]
+  Krylia Sovetov      2-1  Tom
+  CSKA                2-0  Amkar
+  Rostov              0-2  Saturn
+  Lokomotiv           3-1  Zenit
+[Sun. 07.05.]
+  Luch                1-0  Shinnik
+  Rubin               2-0  Moskva
+  Spartak             2-0  Torpedo
+  Spartak Nalchik     1-0  Dinamo
+
+
+Matchday 9
+
+[Sat. 13.05.]
+  Tom                 2-1  Luch
+  Shinnik             0-1  Spartak Nalchik
+[Sun. 14.05.]
+  Moskva              0-1  CSKA
+  Torpedo             1-4  Lokomotiv
+  Saturn              1-1  Krylia Sovetov
+  Zenit               1-0  Rubin
+[Mon. 15.05.]
+  Amkar               1-0  Rostov
+  Dinamo              0-0  Spartak
+
+
+Matchday 10
+
+[Mon. 10.07.]
+  CSKA                1-2  Rostov
+[Tue. 11.07.]
+  Lokomotiv           2-0  Dinamo
+  Moskva              0-0  Zenit
+[Wed. 12.07.]
+  Luch                2-0  Saturn
+  Krylia Sovetov      6-1  Amkar
+  Spartak             3-1  Shinnik
+  Rubin               1-1  Torpedo
+  Spartak Nalchik     1-0  Tom
+
+
+Matchday 11
+
+[Sat. 15.07.]
+  Zenit               0-0  CSKA
+[Sun. 16.07.]
+  Tom                 2-2  Spartak
+  Amkar               0-0  Luch
+  Saturn              1-4  Spartak Nalchik
+  Shinnik             1-3  Lokomotiv
+  Rostov              2-2  Krylia Sovetov
+[Mon. 17.07.]
+  Moskva              1-1  Torpedo
+[Wed. 19.07.]
+  Dinamo              2-2  Rubin
+
+
+Matchday 12
+
+[Fri. 21.07.]
+  Spartak             1-1  Saturn
+[Sat. 22.07.]
+  Lokomotiv           1-1  Tom
+  Zenit               2-1  Torpedo
+[Sun. 23.07.]
+  Luch                4-2  Rostov
+  CSKA                1-1  Krylia Sovetov
+  Spartak Nalchik     2-1  Amkar
+  Moskva              1-1  Dinamo
+[Wed. 26.07.]
+  Rubin               0-0  Shinnik
+
+
+Matchday 13
+
+[Sat. 29.07.]
+  Amkar               1-3  Spartak
+  Torpedo             2-2  CSKA
+  Dinamo              2-2  Zenit
+[Sun. 30.07.]
+  Saturn              1-1  Lokomotiv
+  Tom                 4-0  Rubin
+  Shinnik             1-2  Moskva
+  Krylia Sovetov      2-1  Luch
+[Mon. 31.07.]
+  Rostov              2-1  Spartak Nalchik
+
+
+Matchday 14
+
+[Fri. 04.08.]
+  CSKA                2-1  Luch
+  Torpedo             3-0  Dinamo
+[Sat. 05.08.]
+  Spartak             5-2  Rostov
+  Rubin               0-3  Saturn
+[Sun. 06.08.]
+  Zenit               1-0  Shinnik
+  Lokomotiv           0-0  Amkar
+  Moskva              0-0  Tom
+  Spartak Nalchik     1-1  Krylia Sovetov
+
+
+Matchday 15
+
+[Sat. 12.08.]
+  Tom                 2-2  Zenit
+  Saturn              1-1  Moskva
+[Sun. 13.08.]
+  Luch                1-0  Spartak Nalchik
+  Dinamo              2-3  CSKA
+  Amkar               0-0  Rubin
+  Spartak             3-2  Krylia Sovetov
+  Shinnik             1-1  Torpedo
+  Rostov              1-2  Lokomotiv

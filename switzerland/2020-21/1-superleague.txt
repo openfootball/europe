@@ -1,0 +1,173 @@
+= Swiss Super League 2020/21
+
+
+Spieltag 1
+[Sa 19.9.]
+  19.00  FC Lugano                2:1 (2:0)  FC Luzern
+         BSC Young Boys           2:1 (1:1)  FC Zürich
+[So 20.9.]
+  16.00  FC Basel                 2:2 (2:1)  FC Vaduz
+         FC Lausanne              2:1 (1:0)  Servette FC
+         FC St. Gallen            1:0 (1:0)  FC Sion
+
+
+Spieltag 2
+[Sa 26.9.]
+  19.00  FC Sion                  0:0  BSC Young Boys
+         FC Zürich                2:2 (1:1)  FC Lugano
+[So 27.9.]
+  16.00  FC Luzern                2:2 (1:1)  FC Lausanne
+         FC Vaduz                 0:1 (0:0)  FC St. Gallen
+         Servette FC              1:0 (0:0)  FC Basel
+
+
+Spieltag 3
+[Sa 3.10.]
+  19.00  FC Lausanne              4:0 (2:0)  FC Zürich
+         FC Lugano                2:2 (0:1)  FC Sion
+[So 4.10.]
+  16.00  FC Basel                 3:2 (2:1)  FC Luzern
+         FC St. Gallen            1:0 (1:0)  Servette FC
+         BSC Young Boys           1:0 (0:0)  FC Vaduz
+
+
+Spieltag 4
+[Sa 17.10.]
+  19.00  FC Vaduz                 -  FC Lugano
+         Servette FC              -  BSC Young Boys
+[So 18.10.]
+  16.00  FC Luzern                -  FC St. Gallen
+         FC Sion                  -  FC Lausanne
+         FC Zürich                -  FC Basel
+
+
+Spieltag 5
+[Sa 24.10.]
+  19.00  FC Vaduz                 -  FC Zürich
+         FC Lugano                -  FC St. Gallen
+[So 25.10.]
+  16.00  BSC Young Boys           -  FC Luzern
+         FC Basel                 -  FC Lausanne
+         FC Sion                  -  Servette FC
+
+
+Spieltag 6
+[Sa 31.10.]
+  19.00  FC Lausanne              -  FC Vaduz
+         Servette FC              -  FC Zürich
+[So 1.11.]
+  16.00  FC Luzern                -  FC Sion
+         FC Lugano                -  BSC Young Boys
+         FC St. Gallen            -  FC Basel
+
+
+Spieltag 7
+[Sa 7.11.]
+  19.00  FC Lausanne              -  FC Lugano
+         FC Zürich                -  FC Luzern
+[So 8.11.]
+  16.00  FC Basel                 -  FC Sion
+         FC Vaduz                 -  Servette FC
+         BSC Young Boys           -  FC St. Gallen
+
+
+Spieltag 8
+[Sa 21.11.]
+  19.00  FC Luzern                -  FC Vaduz
+         BSC Young Boys           -  FC Basel
+[So 22.11.]
+  16.00  FC Sion                  -  FC Zürich
+         FC St. Gallen            -  FC Lausanne
+         Servette FC              -  FC Lugano
+
+
+Spieltag 9
+[Sa 28.11.]
+  19.00  FC Vaduz                 -  FC Sion
+         Servette FC              -  FC Luzern
+[So 29.11.]
+  16.00  FC Lausanne              -  BSC Young Boys
+         FC Lugano                -  FC Basel
+         FC Zürich                -  FC St. Gallen
+
+
+Spieltag 10
+[Sa 5.12.]
+  FC Basel                 -  Servette FC
+  FC Luzern                -  BSC Young Boys
+[So 6.12.]
+  FC Sion                  -  FC Lugano
+  FC St. Gallen            -  FC Vaduz
+  FC Zürich                -  FC Lausanne
+
+
+Spieltag 11
+[So 13.12.]
+  FC Lausanne              -  FC St. Gallen
+  FC Lugano                -  FC Zürich
+  FC Sion                  -  FC Luzern
+  FC Vaduz                 -  FC Basel
+  BSC Young Boys           -  Servette FC
+
+
+Spieltag 12
+[Mi 16.12.]
+  FC Basel                 -  BSC Young Boys
+  FC Luzern                -  FC Zürich
+  FC St. Gallen            -  FC Lugano
+  FC Vaduz                 -  FC Lausanne
+  Servette FC              -  FC Sion
+
+
+Spieltag 13
+[So 20.12.]
+  FC Basel                 -  FC St. Gallen
+  FC Lausanne              -  FC Luzern
+  FC Sion                  -  FC Vaduz
+  FC Zürich                -  Servette FC
+  BSC Young Boys           -  FC Lugano
+
+
+Spieltag 14
+[Do 24.12.]
+  FC Lugano                -  FC Lausanne
+  FC Luzern                -  FC Basel
+  FC St. Gallen            -  BSC Young Boys
+  FC Zürich                -  FC Sion
+  Servette FC              -  FC Vaduz
+
+
+Spieltag 15
+[So 24.1.]
+  FC Basel                 -  FC Zürich
+  FC Lausanne              -  FC Sion
+  FC Luzern                -  FC Lugano
+  FC Vaduz                 -  BSC Young Boys
+  Servette FC              -  FC St. Gallen
+
+
+Spieltag 16
+[Do 28.1.]
+  FC Lugano                -  Servette FC
+  FC Sion                  -  FC Basel
+  FC St. Gallen            -  FC Luzern
+  FC Zürich                -  FC Vaduz
+  BSC Young Boys           -  FC Lausanne
+
+
+Spieltag 17
+[So 31.1.]
+  FC Basel                 -  FC Lugano
+  FC St. Gallen            -  FC Zürich
+  FC Vaduz                 -  FC Luzern
+  Servette FC              -  FC Lausanne
+  BSC Young Boys           -  FC Sion
+
+
+Spieltag 18
+[Do 4.2.]
+  FC Lausanne              -  FC Basel
+  FC Lugano                -  FC Vaduz
+  FC Luzern                -  Servette FC
+  FC Sion                  -  FC St. Gallen
+  FC Zürich                -  BSC Young Boys

@@ -1,0 +1,451 @@
+= Portuguese Primeira Liga 2020/21
+
+
+Jornada 1
+[Sex, 18/Set]
+  19.00  FC Famalicão             1-5 (0-3)  SL Benfica
+  21.15  Vitória de Guimarães     0-1 (0-0)  Os Belenenses
+[Sáb, 19/Set]
+  Sporting CP              -  Gil Vicente FC
+  16.00  CD Nacional Madeira      3-3 (2-2)  Boavista FC
+  21.00  FC Porto                 3-1 (2-1)  SC Braga
+[Dom, 20/Set]
+  16.00  CD Santa Clara           2-0 (0-0)  CS Marítimo
+  18.30  Moreirense FC            2-0 (1-0)  SC Farense
+  21.00  CD Tondela               1-1 (1-0)  Rio Ave FC
+[Seg, 21/Set]
+  19.45  Portimonense SC          1-1 (0-1)  FC Paços de Ferreira
+
+
+Jornada 2
+[Sex, 25/Set]
+  20.30  SC Braga                 0-1 (0-1)  CD Santa Clara
+[Sáb, 26/Set]
+  15.30  CS Marítimo              2-1 (2-1)  CD Tondela
+  18.30  SL Benfica               2-0 (1-0)  Moreirense FC
+  21.00  Boavista FC              0-5 (0-0)  FC Porto
+[Dom, 27/Set]
+  15.30  SC Farense               0-1 (0-0)  CD Nacional Madeira
+  16.00  Gil Vicente FC           1-0 (0-0)  Portimonense SC
+  18.30  FC Paços de Ferreira     0-2 (0-1)  Sporting CP
+  21.00  Rio Ave FC               0-0  Vitória de Guimarães
+[Seg, 28/Set]
+  19.45  Os Belenenses            1-2 (1-0)  FC Famalicão
+
+
+Jornada 3
+[Sex, 2/Out]
+  19.00  Moreirense FC            1-1 (0-1)  Boavista FC
+  21.15  Vitória de Guimarães     1-0 (0-0)  FC Paços de Ferreira
+[Sáb, 3/Out]
+  16.00  CD Santa Clara           0-0  Gil Vicente FC
+  18.30  FC Porto                 2-3 (1-1)  CS Marítimo
+  21.00  CD Tondela               0-4 (0-4)  SC Braga
+[Dom, 4/Out]
+  15.30  CD Nacional Madeira      0-0  Os Belenenses
+  18.30  SL Benfica               3-2 (1-0)  SC Farense
+         FC Famalicão             1-1 (1-0)  Rio Ave FC
+  21.00  Portimonense SC          0-2 (0-2)  Sporting CP
+
+
+Jornada 4
+[Dom, 18/Out]
+  Boavista FC              -  Vitória de Guimarães
+  SC Farense               -  FC Famalicão
+  Rio Ave FC               -  SL Benfica
+  Gil Vicente FC           -  CD Tondela
+  CS Marítimo              -  Portimonense SC
+  Os Belenenses            -  Moreirense FC
+  FC Paços de Ferreira     -  CD Santa Clara
+  SC Braga                 -  CD Nacional Madeira
+  Sporting CP              -  FC Porto
+
+
+Jornada 5
+[Dom, 25/Out]
+  SL Benfica               -  Os Belenenses
+  CD Santa Clara           -  Sporting CP
+  CD Tondela               -  Portimonense SC
+  SC Farense               -  Rio Ave FC
+  FC Famalicão             -  Boavista FC
+  Moreirense FC            -  CS Marítimo
+  FC Porto                 -  Gil Vicente FC
+  CD Nacional Madeira      -  FC Paços de Ferreira
+  Vitória de Guimarães     -  SC Braga
+
+
+Jornada 6
+[Dom, 1/Nov]
+  Boavista FC              -  SL Benfica
+  Rio Ave FC               -  Moreirense FC
+  Gil Vicente FC           -  Vitória de Guimarães
+  CS Marítimo              -  CD Nacional Madeira
+  Os Belenenses            -  SC Farense
+  FC Paços de Ferreira     -  FC Porto
+  Portimonense SC          -  CD Santa Clara
+  SC Braga                 -  FC Famalicão
+  Sporting CP              -  CD Tondela
+
+
+Jornada 7
+[Dom, 8/Nov]
+  SL Benfica               -  SC Braga
+  CD Tondela               -  CD Santa Clara
+  SC Farense               -  Boavista FC
+  FC Famalicão             -  CS Marítimo
+  Moreirense FC            -  FC Paços de Ferreira
+  FC Porto                 -  Portimonense SC
+  CD Nacional Madeira      -  Gil Vicente FC
+  Os Belenenses            -  Rio Ave FC
+  Vitória de Guimarães     -  Sporting CP
+
+
+Jornada 8
+[Dom, 29/Nov]
+  Boavista FC              -  Os Belenenses
+  CD Santa Clara           -  FC Porto
+  CD Tondela               -  Vitória de Guimarães
+  Gil Vicente FC           -  Rio Ave FC
+  CS Marítimo              -  SL Benfica
+  FC Paços de Ferreira     -  FC Famalicão
+  Portimonense SC          -  CD Nacional Madeira
+  SC Braga                 -  SC Farense
+  Sporting CP              -  Moreirense FC
+
+
+Jornada 9
+[Dom, 6/Dez]
+  SL Benfica               -  FC Paços de Ferreira
+  SC Farense               -  CS Marítimo
+  FC Famalicão             -  Sporting CP
+  Moreirense FC            -  Gil Vicente FC
+  FC Porto                 -  CD Tondela
+  CD Nacional Madeira      -  CD Santa Clara
+  Os Belenenses            -  SC Braga
+  Vitória de Guimarães     -  Portimonense SC
+  Rio Ave FC               -  Boavista FC
+
+
+Jornada 10
+[Dom, 20/Dez]
+  CD Santa Clara           -  Vitória de Guimarães
+  CD Tondela               -  Moreirense FC
+  FC Porto                 -  CD Nacional Madeira
+  Gil Vicente FC           -  SL Benfica
+  CS Marítimo              -  Os Belenenses
+  FC Paços de Ferreira     -  Boavista FC
+  Portimonense SC          -  FC Famalicão
+  SC Braga                 -  Rio Ave FC
+  Sporting CP              -  SC Farense
+
+
+Jornada 11
+[Dom, 27/Dez]
+  SL Benfica               -  Portimonense SC
+  Boavista FC              -  SC Braga
+  SC Farense               -  FC Paços de Ferreira
+  FC Famalicão             -  Gil Vicente FC
+  Moreirense FC            -  CD Santa Clara
+  Rio Ave FC               -  CS Marítimo
+  CD Nacional Madeira      -  CD Tondela
+  Os Belenenses            -  Sporting CP
+  Vitória de Guimarães     -  FC Porto
+
+
+Jornada 12
+[Dom, 3/Jan]
+  CD Santa Clara           -  SL Benfica
+  CD Tondela               -  FC Famalicão
+  FC Porto                 -  Moreirense FC
+  Gil Vicente FC           -  Os Belenenses
+  CS Marítimo              -  Boavista FC
+  FC Paços de Ferreira     -  Rio Ave FC
+  Portimonense SC          -  SC Farense
+  Sporting CP              -  SC Braga
+  Vitória de Guimarães     -  CD Nacional Madeira
+
+
+Jornada 13
+[Dom, 10/Jan]
+  SL Benfica               -  CD Tondela
+  Boavista FC              -  CD Santa Clara
+  SC Farense               -  Gil Vicente FC
+  FC Famalicão             -  FC Porto
+  Moreirense FC            -  Vitória de Guimarães
+  Rio Ave FC               -  Portimonense SC
+  CD Nacional Madeira      -  Sporting CP
+  Os Belenenses            -  FC Paços de Ferreira
+  SC Braga                 -  CS Marítimo
+
+
+Jornada 14
+[Dom, 17/Jan]
+  CD Santa Clara           -  FC Famalicão
+  CD Tondela               -  Boavista FC
+  FC Porto                 -  SL Benfica
+  Gil Vicente FC           -  CS Marítimo
+  CD Nacional Madeira      -  Moreirense FC
+  FC Paços de Ferreira     -  SC Braga
+  Portimonense SC          -  Os Belenenses
+  Sporting CP              -  Rio Ave FC
+  Vitória de Guimarães     -  SC Farense
+
+
+Jornada 15
+[Dom, 24/Jan]
+  SL Benfica               -  CD Nacional Madeira
+  Boavista FC              -  Sporting CP
+  SC Farense               -  FC Porto
+  FC Famalicão             -  Vitória de Guimarães
+  Moreirense FC            -  Portimonense SC
+  Rio Ave FC               -  CD Santa Clara
+  CS Marítimo              -  FC Paços de Ferreira
+  Os Belenenses            -  CD Tondela
+  SC Braga                 -  Gil Vicente FC
+
+
+Jornada 16
+[Dom, 31/Jan]
+  CD Santa Clara           -  Os Belenenses
+  CD Tondela               -  SC Farense
+  Moreirense FC            -  SC Braga
+  FC Porto                 -  Rio Ave FC
+  Gil Vicente FC           -  FC Paços de Ferreira
+  CD Nacional Madeira      -  FC Famalicão
+  Portimonense SC          -  Boavista FC
+  Sporting CP              -  SL Benfica
+  Vitória de Guimarães     -  CS Marítimo
+
+
+Jornada 17
+[Qua, 3/Fev]
+  SL Benfica               -  Vitória de Guimarães
+  Boavista FC              -  Gil Vicente FC
+  SC Farense               -  CD Santa Clara
+  FC Famalicão             -  Moreirense FC
+  Rio Ave FC               -  CD Nacional Madeira
+  CS Marítimo              -  Sporting CP
+  Os Belenenses            -  FC Porto
+  FC Paços de Ferreira     -  CD Tondela
+  SC Braga                 -  Portimonense SC
+
+
+Jornada 18
+[Dom, 7/Fev]
+  SL Benfica               -  FC Famalicão
+  Boavista FC              -  CD Nacional Madeira
+  SC Farense               -  Moreirense FC
+  Rio Ave FC               -  CD Tondela
+  Gil Vicente FC           -  Sporting CP
+  CS Marítimo              -  CD Santa Clara
+  Os Belenenses            -  Vitória de Guimarães
+  FC Paços de Ferreira     -  Portimonense SC
+  SC Braga                 -  FC Porto
+
+
+Jornada 19
+[Dom, 14/Fev]
+  CD Santa Clara           -  SC Braga
+  CD Tondela               -  CS Marítimo
+  FC Famalicão             -  Os Belenenses
+  Moreirense FC            -  SL Benfica
+  FC Porto                 -  Boavista FC
+  CD Nacional Madeira      -  SC Farense
+  Portimonense SC          -  Gil Vicente FC
+  Sporting CP              -  FC Paços de Ferreira
+  Vitória de Guimarães     -  Rio Ave FC
+
+
+Jornada 20
+[Dom, 21/Fev]
+  Boavista FC              -  Moreirense FC
+  SC Farense               -  SL Benfica
+  Rio Ave FC               -  FC Famalicão
+  Gil Vicente FC           -  CD Santa Clara
+  CS Marítimo              -  FC Porto
+  Os Belenenses            -  CD Nacional Madeira
+  FC Paços de Ferreira     -  Vitória de Guimarães
+  SC Braga                 -  CD Tondela
+  Sporting CP              -  Portimonense SC
+
+
+Jornada 21
+[Dom, 28/Fev]
+  SL Benfica               -  Rio Ave FC
+  CD Santa Clara           -  FC Paços de Ferreira
+  CD Tondela               -  Gil Vicente FC
+  FC Famalicão             -  SC Farense
+  Moreirense FC            -  Os Belenenses
+  FC Porto                 -  Sporting CP
+  CD Nacional Madeira      -  SC Braga
+  Portimonense SC          -  CS Marítimo
+  Vitória de Guimarães     -  Boavista FC
+
+
+Jornada 22
+[Dom, 7/Março]
+  Boavista FC              -  FC Famalicão
+  Rio Ave FC               -  SC Farense
+  Gil Vicente FC           -  FC Porto
+  CS Marítimo              -  Moreirense FC
+  Os Belenenses            -  SL Benfica
+  FC Paços de Ferreira     -  CD Nacional Madeira
+  Portimonense SC          -  CD Tondela
+  SC Braga                 -  Vitória de Guimarães
+  Sporting CP              -  CD Santa Clara
+
+
+Jornada 23
+[Dom, 14/Março]
+  SL Benfica               -  Boavista FC
+  CD Santa Clara           -  Portimonense SC
+  CD Tondela               -  Sporting CP
+  SC Farense               -  Os Belenenses
+  FC Famalicão             -  SC Braga
+  Moreirense FC            -  Rio Ave FC
+  FC Porto                 -  FC Paços de Ferreira
+  CD Nacional Madeira      -  CS Marítimo
+  Vitória de Guimarães     -  Gil Vicente FC
+
+
+Jornada 24
+[Dom, 21/Março]
+  Boavista FC              -  SC Farense
+  CD Santa Clara           -  CD Tondela
+  Rio Ave FC               -  Os Belenenses
+  Gil Vicente FC           -  CD Nacional Madeira
+  CS Marítimo              -  FC Famalicão
+  FC Paços de Ferreira     -  Moreirense FC
+  Portimonense SC          -  FC Porto
+  SC Braga                 -  SL Benfica
+  Sporting CP              -  Vitória de Guimarães
+
+
+Jornada 25
+[Sáb, 3/Abril]
+  SL Benfica               -  CS Marítimo
+  SC Farense               -  SC Braga
+  FC Famalicão             -  FC Paços de Ferreira
+  Moreirense FC            -  Sporting CP
+  FC Porto                 -  CD Santa Clara
+  Rio Ave FC               -  Gil Vicente FC
+  CD Nacional Madeira      -  Portimonense SC
+  Os Belenenses            -  Boavista FC
+  Vitória de Guimarães     -  CD Tondela
+
+
+Jornada 26
+[Dom, 11/Abril]
+  CD Santa Clara           -  CD Nacional Madeira
+  CD Tondela               -  FC Porto
+  Gil Vicente FC           -  Moreirense FC
+  CS Marítimo              -  SC Farense
+  FC Paços de Ferreira     -  SL Benfica
+  Portimonense SC          -  Vitória de Guimarães
+  SC Braga                 -  Os Belenenses
+  Sporting CP              -  FC Famalicão
+  Boavista FC              -  Rio Ave FC
+
+
+Jornada 27
+[Dom, 18/Abril]
+  SL Benfica               -  Gil Vicente FC
+  Boavista FC              -  FC Paços de Ferreira
+  SC Farense               -  Sporting CP
+  FC Famalicão             -  Portimonense SC
+  Moreirense FC            -  CD Tondela
+  Rio Ave FC               -  SC Braga
+  CD Nacional Madeira      -  FC Porto
+  Os Belenenses            -  CS Marítimo
+  Vitória de Guimarães     -  CD Santa Clara
+
+
+Jornada 28
+[Qua, 21/Abril]
+  CD Santa Clara           -  Moreirense FC
+  CD Tondela               -  CD Nacional Madeira
+  FC Porto                 -  Vitória de Guimarães
+  Gil Vicente FC           -  FC Famalicão
+  CS Marítimo              -  Rio Ave FC
+  FC Paços de Ferreira     -  SC Farense
+  Portimonense SC          -  SL Benfica
+  SC Braga                 -  Boavista FC
+  Sporting CP              -  Os Belenenses
+
+
+Jornada 29
+[Dom, 25/Abril]
+  SL Benfica               -  CD Santa Clara
+  Boavista FC              -  CS Marítimo
+  SC Farense               -  Portimonense SC
+  FC Famalicão             -  CD Tondela
+  Moreirense FC            -  FC Porto
+  Rio Ave FC               -  FC Paços de Ferreira
+  CD Nacional Madeira      -  Vitória de Guimarães
+  Os Belenenses            -  Gil Vicente FC
+  SC Braga                 -  Sporting CP
+
+
+Jornada 30
+[Dom, 2/Maio]
+  CD Santa Clara           -  Boavista FC
+  CD Tondela               -  SL Benfica
+  FC Porto                 -  FC Famalicão
+  Gil Vicente FC           -  SC Farense
+  CS Marítimo              -  SC Braga
+  FC Paços de Ferreira     -  Os Belenenses
+  Portimonense SC          -  Rio Ave FC
+  Sporting CP              -  CD Nacional Madeira
+  Vitória de Guimarães     -  Moreirense FC
+
+
+Jornada 31
+[Dom, 9/Maio]
+  SL Benfica               -  FC Porto
+  Boavista FC              -  CD Tondela
+  SC Farense               -  Vitória de Guimarães
+  FC Famalicão             -  CD Santa Clara
+  Moreirense FC            -  CD Nacional Madeira
+  Rio Ave FC               -  Sporting CP
+  CS Marítimo              -  Gil Vicente FC
+  Os Belenenses            -  Portimonense SC
+  SC Braga                 -  FC Paços de Ferreira
+
+
+Jornada 32
+[Qua, 12/Maio]
+  CD Santa Clara           -  Rio Ave FC
+  CD Tondela               -  Os Belenenses
+  FC Porto                 -  SC Farense
+  Gil Vicente FC           -  SC Braga
+  CD Nacional Madeira      -  SL Benfica
+  FC Paços de Ferreira     -  CS Marítimo
+  Portimonense SC          -  Moreirense FC
+  Sporting CP              -  Boavista FC
+  Vitória de Guimarães     -  FC Famalicão
+
+
+Jornada 33
+[Dom, 16/Maio]
+  SL Benfica               -  Sporting CP
+  Boavista FC              -  Portimonense SC
+  SC Farense               -  CD Tondela
+  FC Famalicão             -  CD Nacional Madeira
+  Rio Ave FC               -  FC Porto
+  CS Marítimo              -  Vitória de Guimarães
+  Os Belenenses            -  CD Santa Clara
+  FC Paços de Ferreira     -  Gil Vicente FC
+  SC Braga                 -  Moreirense FC
+
+
+Jornada 34
+[Qua, 19/Maio]
+  CD Santa Clara           -  SC Farense
+  CD Tondela               -  FC Paços de Ferreira
+  Moreirense FC            -  FC Famalicão
+  FC Porto                 -  Os Belenenses
+  Gil Vicente FC           -  Boavista FC
+  CD Nacional Madeira      -  Rio Ave FC
+  Portimonense SC          -  SC Braga
+  Sporting CP              -  CS Marítimo
+  Vitória de Guimarães     -  SL Benfica

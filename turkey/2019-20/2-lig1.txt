@@ -1,0 +1,526 @@
+= Turkish 1. Lig 2019/20
+
+
+Matchday 1
+[Fri Aug/16]
+  Giresunspor              0-2  Menemenspor
+[Sat Aug/17]
+  Fatih Karagümrük         3-1  Bursaspor
+  Adana Demirspor          2-0  Balıkesirspor
+  Osmanlıspor Ankara       2-1  Boluspor
+[Sun Aug/18]
+  Hatayspor                1-0  Altınordu
+  BB Erzurumspor           2-2  İstanbulspor
+  Altay SK                 1-3  Ümraniyespor
+  Akhisarspor              1-0  Adanaspor
+[Mon Aug/19]
+  Eskişehirspor            1-1  Keçiörengücü
+
+
+Matchday 2
+[Fri Aug/23]
+  Boluspor                 0-0  Adana Demirspor
+[Sat Aug/24]
+  Keçiörengücü             1-0  Osmanlıspor Ankara
+  Balıkesirspor            2-1  BB Erzurumspor
+  Altınordu                1-2  Fatih Karagümrük
+[Sun Aug/25]
+  Ümraniyespor             4-1  Giresunspor
+  Menemenspor              0-4  Hatayspor
+  Adanaspor                3-2  Eskişehirspor
+  Bursaspor                2-1  Akhisarspor
+[Mon Aug/26]
+  İstanbulspor             2-2  Altay SK
+
+
+Matchday 3
+[Fri Aug/30]
+  Osmanlıspor Ankara       2-2  Adanaspor
+[Sat Aug/31]
+  Altay SK                 1-0  Balıkesirspor
+  Ümraniyespor             2-1  İstanbulspor
+  Akhisarspor              0-0  Altınordu
+  BB Erzurumspor           1-0  Boluspor
+[Sun Sep/1]
+  Giresunspor              2-2  Hatayspor
+  Fatih Karagümrük         1-1  Menemenspor
+  Adana Demirspor          0-0  Keçiörengücü
+  Eskişehirspor            0-2  Bursaspor
+
+
+Matchday 4
+[Fri Sep/13]
+  Balıkesirspor            2-0  Ümraniyespor
+[Sat Sep/14]
+  Boluspor                 0-2  Altay SK
+  Altınordu                4-1  Eskişehirspor
+  Keçiörengücü             1-0  BB Erzurumspor
+[Sun Sep/15]
+  Bursaspor                3-1  Osmanlıspor Ankara
+  Menemenspor              0-1  Akhisarspor
+  Adanaspor                0-0  Adana Demirspor
+  İstanbulspor             2-1  Giresunspor
+[Mon Sep/16]
+  Hatayspor                0-0  Fatih Karagümrük
+
+
+Matchday 5
+[Fri Sep/20]
+  BB Erzurumspor           2-1  Adanaspor
+  İstanbulspor             2-2  Balıkesirspor
+[Sat Sep/21]
+  Adana Demirspor          4-1  Bursaspor
+  Altay SK                 0-0  Keçiörengücü
+  Osmanlıspor Ankara       2-1  Altınordu
+  Ümraniyespor             1-1  Boluspor
+[Sun Sep/22]
+  Giresunspor              1-1  Fatih Karagümrük
+  Eskişehirspor            3-0  Menemenspor
+  Akhisarspor              3-1  Hatayspor
+
+
+Matchday 6
+[Sat Sep/28]
+  Keçiörengücü             1-1  Ümraniyespor
+  Boluspor                 1-2  İstanbulspor
+  Bursaspor                1-0  BB Erzurumspor
+  Adanaspor                3-3  Altay SK
+[Sun Sep/29]
+  Hatayspor                1-0  Eskişehirspor
+  Fatih Karagümrük         2-3  Akhisarspor
+  Balıkesirspor            2-0  Giresunspor
+  Menemenspor              1-2  Osmanlıspor Ankara
+[Mon Sep/30]
+  Altınordu                2-2  Adana Demirspor
+
+
+Matchday 7
+[Fri Oct/4]
+  Altay SK                 2-1  Bursaspor
+[Sat Oct/5]
+  Giresunspor              1-0  Akhisarspor
+  Eskişehirspor            1-3  Fatih Karagümrük
+  Balıkesirspor            3-2  Boluspor
+  İstanbulspor             1-1  Keçiörengücü
+[Sun Oct/6]
+  Adana Demirspor          0-1  Menemenspor
+  BB Erzurumspor           1-0  Altınordu
+  Osmanlıspor Ankara       0-1  Hatayspor
+  Ümraniyespor             2-1  Adanaspor
+
+
+Matchday 8
+[Fri Oct/18]
+  Akhisarspor              2-1  Eskişehirspor
+[Sat Oct/19]
+  Hatayspor                2-1  Adana Demirspor
+  Bursaspor                2-1  Ümraniyespor
+  Menemenspor              0-0  BB Erzurumspor
+[Sun Oct/20]
+  Keçiörengücü             1-0  Balıkesirspor
+  Boluspor                 2-0  Giresunspor
+  Altınordu                0-3  Altay SK
+  Adanaspor                2-2  İstanbulspor
+[Mon Oct/21]
+  Fatih Karagümrük         2-0  Osmanlıspor Ankara
+
+
+Matchday 9
+[Fri Oct/25]
+  Boluspor                 3-1  Keçiörengücü
+[Sat Oct/26]
+  Ümraniyespor             4-0  Altınordu
+  Balıkesirspor            3-0  Adanaspor
+  İstanbulspor             1-2  Bursaspor
+  Altay SK                 0-2  Menemenspor
+[Sun Oct/27]
+  BB Erzurumspor           3-1  Hatayspor
+  Giresunspor              3-1  Eskişehirspor
+  Adana Demirspor          1-1  Fatih Karagümrük
+[Mon Oct/28]
+  Osmanlıspor Ankara       2-1  Akhisarspor
+
+
+Matchday 10
+[Sat Nov/2]
+  Hatayspor                3-2  Altay SK
+  Akhisarspor              1-1  Adana Demirspor
+  Menemenspor              1-0  Ümraniyespor
+  Adanaspor                0-0  Boluspor
+[Sun Nov/3]
+  Keçiörengücü             0-0  Giresunspor
+  Eskişehirspor            3-2  Osmanlıspor Ankara
+  Altınordu                1-1  İstanbulspor
+  Fatih Karagümrük         0-1  BB Erzurumspor
+[Mon Nov/4]
+  Bursaspor                0-0  Balıkesirspor
+
+
+Matchday 11
+[Fri Nov/8]
+  Adana Demirspor          2-3  Eskişehirspor
+[Sat Nov/9]
+  BB Erzurumspor           0-0  Akhisarspor
+  Giresunspor              2-1  Osmanlıspor Ankara
+  Altay SK                 0-1  Fatih Karagümrük
+  İstanbulspor             1-2  Menemenspor
+[Sun Nov/10]
+  Keçiörengücü             2-0  Adanaspor
+  Balıkesirspor            0-0  Altınordu
+  Boluspor                 1-1  Bursaspor
+  Ümraniyespor             0-0  Hatayspor
+
+
+Matchday 12
+[Fri Nov/22]
+  Adanaspor                1-1  Giresunspor
+[Sat Nov/23]
+  Eskişehirspor            1-2  BB Erzurumspor
+  Fatih Karagümrük         2-3  Ümraniyespor
+  Bursaspor                1-0  Keçiörengücü
+[Sun Nov/24]
+  Hatayspor                1-0  İstanbulspor
+  Menemenspor              1-0  Balıkesirspor
+  Osmanlıspor Ankara       2-3  Adana Demirspor
+  Akhisarspor              2-1  Altay SK
+[Mon Nov/25]
+  Altınordu                2-0  Boluspor
+
+
+Matchday 13
+[Fri Nov/29]
+  İstanbulspor             4-0  Fatih Karagümrük
+[Sat Nov/30]
+  Keçiörengücü             2-1  Altınordu
+  BB Erzurumspor           2-0  Osmanlıspor Ankara
+  Adanaspor                2-3  Bursaspor
+[Sun Dec/1]
+  Giresunspor              1-0  Adana Demirspor
+  Ümraniyespor             2-2  Akhisarspor
+  Boluspor                 2-2  Menemenspor
+  Altay SK                 1-1  Eskişehirspor
+[Mon Dec/2]
+  Balıkesirspor            0-1  Hatayspor
+
+
+Matchday 14
+[Fri Dec/6]
+  Eskişehirspor            3-1  Ümraniyespor
+[Sat Dec/7]
+  Hatayspor                3-0  Boluspor
+  Fatih Karagümrük         0-0  Balıkesirspor
+  Akhisarspor              4-3  İstanbulspor
+[Sun Dec/8]
+  Osmanlıspor Ankara       0-0  Altay SK
+  Altınordu                1-0  Adanaspor
+  Bursaspor                2-3  Giresunspor
+  Adana Demirspor          1-0  BB Erzurumspor
+[Mon Dec/9]
+  Menemenspor              1-1  Keçiörengücü
+
+
+Matchday 15
+[Fri Dec/13]
+  Altay SK                 1-0  Adana Demirspor
+[Sat Dec/14]
+  Boluspor                 0-2  Fatih Karagümrük
+  BB Erzurumspor           2-0  Giresunspor
+  İstanbulspor             1-0  Eskişehirspor
+  Adanaspor                1-3  Menemenspor
+[Sun Dec/15]
+  Keçiörengücü             0-1  Hatayspor
+  Ümraniyespor             1-0  Osmanlıspor Ankara
+  Balıkesirspor            0-0  Akhisarspor
+  Altınordu                0-0  Bursaspor
+
+
+Matchday 16
+[Fri Dec/20]
+  Adana Demirspor          4-2  Ümraniyespor
+[Sat Dec/21]
+  Hatayspor                1-0  Adanaspor
+  Eskişehirspor            1-2  Balıkesirspor
+  Akhisarspor              0-0  Boluspor
+[Sun Dec/22]
+  Menemenspor              2-1  Bursaspor
+  Osmanlıspor Ankara       1-1  İstanbulspor
+  Fatih Karagümrük         0-2  Keçiörengücü
+  BB Erzurumspor           1-3  Altay SK
+[Mon Dec/23]
+  Giresunspor              1-1  Altınordu
+
+
+Matchday 17
+[Fri Dec/27]
+  Adanaspor                2-0  Fatih Karagümrük
+[Sat Dec/28]
+  Ümraniyespor             1-2  BB Erzurumspor
+  Balıkesirspor            1-1  Osmanlıspor Ankara
+  Bursaspor                2-1  Hatayspor
+  Altınordu                1-0  Menemenspor
+[Sun Dec/29]
+  Boluspor                 1-1  Eskişehirspor
+  Keçiörengücü             1-0  Akhisarspor
+  İstanbulspor             0-2  Adana Demirspor
+  Altay SK                 0-0  Giresunspor
+
+
+Matchday 18
+[Fri Jan/17]
+  Menemenspor              0-3  Giresunspor
+[Sat Jan/18]
+  Ümraniyespor             1-0  Altay SK
+  Adanaspor                0-0  Akhisarspor
+  Altınordu                2-2  Hatayspor
+[Sun Jan/19]
+  İstanbulspor             1-1  BB Erzurumspor
+  Keçiörengücü             0-1  Eskişehirspor
+  Bursaspor                2-1  Fatih Karagümrük
+  Boluspor                 0-2  Osmanlıspor Ankara
+[Mon Jan/20]
+  Balıkesirspor            1-6  Adana Demirspor
+
+
+Matchday 19
+[Fri Jan/24]
+  Akhisarspor              0-1  Bursaspor
+[Sat Jan/25]
+  Giresunspor              2-1  Ümraniyespor
+  Altay SK                 1-0  İstanbulspor
+  Osmanlıspor Ankara       0-0  Keçiörengücü
+[Sun Jan/26]
+  BB Erzurumspor           1-0  Balıkesirspor
+  Hatayspor                2-0  Menemenspor
+  Eskişehirspor            0-0  Adanaspor
+  Adana Demirspor          2-2  Boluspor
+[Mon Jan/27]
+  Fatih Karagümrük         3-3  Altınordu
+
+
+Matchday 20
+[Fri Jan/31]
+  Adanaspor                3-1  Osmanlıspor Ankara
+[Sat Feb/1]
+  Menemenspor              0-1  Fatih Karagümrük
+  Boluspor                 1-1  BB Erzurumspor
+  Keçiörengücü             1-3  Adana Demirspor
+[Sun Feb/2]
+  Hatayspor                1-1  Giresunspor
+  Altınordu                2-0  Akhisarspor
+  Bursaspor                0-1  Eskişehirspor
+  Balıkesirspor            0-0  Altay SK
+[Mon Feb/3]
+  İstanbulspor             2-1  Ümraniyespor
+
+
+Matchday 21
+[Fri Feb/7]
+  Fatih Karagümrük         1-1  Hatayspor
+[Sat Feb/8]
+  Eskişehirspor            3-0  Altınordu
+  Adana Demirspor          4-1  Adanaspor
+[Sun Feb/9]
+  Altay SK                 2-1  Boluspor
+  Osmanlıspor Ankara       2-4  Bursaspor
+  Ümraniyespor             0-3  Balıkesirspor
+[Mon Feb/10]
+  BB Erzurumspor           1-0  Keçiörengücü
+  Akhisarspor              2-2  Menemenspor
+
+
+Matchday 22
+[Fri Feb/14]
+  Altınordu                2-2  Osmanlıspor Ankara
+[Sat Feb/15]
+  Boluspor                 1-1  Ümraniyespor
+  Hatayspor                2-3  Akhisarspor
+  Menemenspor              3-1  Eskişehirspor
+[Sun Feb/16]
+  Fatih Karagümrük         2-1  Giresunspor
+  Keçiörengücü             2-0  Altay SK
+  Balıkesirspor            0-5  İstanbulspor
+  Bursaspor                2-1  Adana Demirspor
+[Mon Feb/17]
+  Adanaspor                0-0  BB Erzurumspor
+
+
+Matchday 23
+[Fri Feb/21]
+  Osmanlıspor Ankara       2-0  Menemenspor
+  Eskişehirspor            0-1  Hatayspor
+[Sat Feb/22]
+  BB Erzurumspor           2-1  Bursaspor
+  Adana Demirspor          4-2  Altınordu
+  Ümraniyespor             2-0  Keçiörengücü
+  Akhisarspor              0-2  Fatih Karagümrük
+[Sun Feb/23]
+  İstanbulspor             0-0  Boluspor
+  Giresunspor              0-3  Balıkesirspor
+  Altay SK                 3-1  Adanaspor
+
+
+Matchday 24
+[Tue Feb/25]
+  Fatih Karagümrük         2-0  Eskişehirspor
+  Hatayspor                1-0  Osmanlıspor Ankara
+  Menemenspor              2-3  Adana Demirspor
+[Wed Feb/26]
+  Altınordu                2-1  BB Erzurumspor
+  Akhisarspor              2-0  Giresunspor
+  Adanaspor                0-1  Ümraniyespor
+[Thu Feb/27]
+  Bursaspor                2-2  Altay SK
+  Boluspor                 1-1  Balıkesirspor
+  Keçiörengücü             0-0  İstanbulspor
+
+
+Matchday 25
+[Sat Feb/29]
+  Eskişehirspor            1-2  Akhisarspor
+  Osmanlıspor Ankara       1-1  Fatih Karagümrük
+  Adana Demirspor          1-1  Hatayspor
+[Sun Mar/1]
+  Altay SK                 1-0  Altınordu
+  BB Erzurumspor           2-0  Menemenspor
+  Ümraniyespor             1-1  Bursaspor
+  İstanbulspor             1-0  Adanaspor
+[Mon Mar/2]
+  Giresunspor              2-0  Boluspor
+  Balıkesirspor            2-2  Keçiörengücü
+
+
+Matchday 26
+[Fri Mar/6]
+  Menemenspor              1-1  Altay SK
+  Adanaspor                1-1  Balıkesirspor
+[Sat Mar/7]
+  Bursaspor                1-1  İstanbulspor
+  Hatayspor                0-0  BB Erzurumspor
+  Keçiörengücü             0-1  Boluspor
+  Eskişehirspor            0-2  Giresunspor
+  Fatih Karagümrük         2-2  Adana Demirspor
+[Sun Mar/8]
+  Akhisarspor              3-2  Osmanlıspor Ankara
+  Altınordu                1-2  Ümraniyespor
+
+
+Matchday 27
+[Tue Mar/10]
+  Boluspor                 2-1  Adanaspor
+  Balıkesirspor            1-3  Bursaspor
+  Altay SK                 2-1  Hatayspor
+  BB Erzurumspor           1-3  Fatih Karagümrük
+[Wed Mar/11]
+  Adana Demirspor          2-3  Akhisarspor
+  Ümraniyespor             1-1  Menemenspor
+  Giresunspor              1-0  Keçiörengücü
+  İstanbulspor             0-2  Altınordu
+[Thu Mar/12]
+  Osmanlıspor Ankara       1-1  Eskişehirspor
+
+
+Matchday 28
+[Sat Mar/14]
+  Bursaspor                1-1  Boluspor
+  Fatih Karagümrük         2-2  Altay SK
+[Sun Mar/15]
+  Hatayspor                2-0  Ümraniyespor
+  Osmanlıspor Ankara       1-1  Giresunspor
+  Adanaspor                1-1  Keçiörengücü
+  Menemenspor              2-2  İstanbulspor
+  Akhisarspor              0-0  BB Erzurumspor
+[Mon Mar/16]
+  Altınordu                1-1  Balıkesirspor
+  Eskişehirspor            1-4  Adana Demirspor
+
+
+Matchday 29
+[Fri Jun/19]
+  Giresunspor              3-1  Adanaspor
+  İstanbulspor             2-2  Hatayspor
+[Sat Jun/20]
+  Balıkesirspor            0-1  Menemenspor
+  BB Erzurumspor           1-0  Eskişehirspor
+  Keçiörengücü             1-0  Bursaspor
+[Sun Jun/21]
+  Altay SK                 3-1  Akhisarspor
+  Ümraniyespor             1-1  Fatih Karagümrük
+  Boluspor                 0-0  Altınordu
+[Mon Jun/22]
+  Adana Demirspor          2-1  Osmanlıspor Ankara
+
+
+Matchday 21
+[Tue Jun/23]
+  Giresunspor              -  İstanbulspor
+
+
+Matchday 30
+[Fri Jun/26]
+  Altınordu                1-2  Keçiörengücü
+  Bursaspor                1-0  Adanaspor
+[Sat Jun/27]
+  Eskişehirspor            2-2  Altay SK
+  Osmanlıspor Ankara       1-3  BB Erzurumspor
+  Menemenspor              1-1  Boluspor
+  Adana Demirspor          4-2  Giresunspor
+[Sun Jun/28]
+  Hatayspor                2-0  Balıkesirspor
+  Fatih Karagümrük         1-0  İstanbulspor
+  Akhisarspor              1-0  Ümraniyespor
+
+
+Matchday 31
+[Tue Jun/30]
+  Keçiörengücü             2-1  Menemenspor
+  Adanaspor                0-0  Altınordu
+  Giresunspor              0-1  Bursaspor
+[Wed Jul/1]
+  Boluspor                 1-0  Hatayspor
+  BB Erzurumspor           1-2  Adana Demirspor
+  Altay SK                 3-0  Osmanlıspor Ankara
+[Thu Jul/2]
+  Ümraniyespor             3-0  Eskişehirspor
+  İstanbulspor             0-1  Akhisarspor
+  Balıkesirspor            0-5  Fatih Karagümrük
+
+
+Matchday 32
+[Sat Jul/4]
+  Bursaspor                1-0  Altınordu
+  Menemenspor              4-2  Adanaspor
+[Sun Jul/5]
+  Giresunspor              0-2  BB Erzurumspor
+  Hatayspor                1-0  Keçiörengücü
+  Osmanlıspor Ankara       3-2  Ümraniyespor
+  Adana Demirspor          2-2  Altay SK
+[Mon Jul/6]
+  Fatih Karagümrük         3-1  Boluspor
+  Akhisarspor              -  Balıkesirspor
+  Eskişehirspor            -  İstanbulspor
+
+
+Matchday 33
+[Sun Jul/12]
+  Altınordu                -  Giresunspor
+  Altay SK                 -  BB Erzurumspor
+  Ümraniyespor             -  Adana Demirspor
+  Balıkesirspor            -  Eskişehirspor
+  Boluspor                 -  Akhisarspor
+  Bursaspor                -  Menemenspor
+  İstanbulspor             -  Osmanlıspor Ankara
+  Keçiörengücü             -  Fatih Karagümrük
+  Adanaspor                -  Hatayspor
+
+
+Matchday 34
+[Sun Jul/19]
+  Adana Demirspor          -  İstanbulspor
+  Akhisarspor              -  Keçiörengücü
+  BB Erzurumspor           -  Ümraniyespor
+  Eskişehirspor            -  Boluspor
+  Giresunspor              -  Altay SK
+  Hatayspor                -  Bursaspor
+  Fatih Karagümrük         -  Adanaspor
+  Menemenspor              -  Altınordu
+  Osmanlıspor Ankara       -  Balıkesirspor

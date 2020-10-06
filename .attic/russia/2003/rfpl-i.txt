@@ -1,0 +1,216 @@
+= Russian Premier League 2003
+
+# start_at: 2003-03-15
+
+
+Matchday 1
+
+[Sat. 15.03.]
+  Uralan              1-2  Lokomotiv
+  Moskva              0-0  Spartak
+  Krylia Sovetov      3-0  Rotor
+  Zenit               2-1  Saturn
+  Torpedo             1-1  Rostov
+[Sun. 16.03.]
+  CSKA                4-0  Rubin
+  Alania              0-1  Dinamo
+  Shinnik             1-1  Chernomorets
+
+
+Matchday 2
+
+[Sat. 22.03.]
+  Lokomotiv           1-2  Zenit
+  Chernomorets        1-1  Uralan
+  Rubin               1-0  Moskva
+  Rotor               1-2  CSKA
+[Sun. 23.03.]
+  Dinamo              2-1  Krylia Sovetov
+  Spartak             1-2  Alania
+  Rostov              1-1  Shinnik
+  Saturn              2-0  Torpedo
+
+
+Matchday 3
+
+[Sat. 05.04.]
+  Moskva              0-1  Dinamo
+[Sun. 06.04.]
+  Shinnik             1-1  Lokomotiv
+  Alania              1-0  Rotor
+  CSKA                3-2  Spartak
+  Krylia Sovetov      0-0  Rubin
+  Zenit               0-0  Rostov
+  Torpedo             1-1  Chernomorets
+  Uralan              0-0  Saturn
+
+
+Matchday 4
+
+[Fri. 11.04.]
+  Rostov              1-0  Uralan
+  Lokomotiv           1-2  Torpedo
+[Sat. 12.04.]
+  Chernomorets        1-0  Zenit
+  Rubin               4-0  Alania
+  Dinamo              2-3  CSKA
+  Rotor               2-2  Moskva
+  Saturn              2-1  Shinnik
+[Sun. 13.04.]
+  Spartak             1-1  Krylia Sovetov
+
+
+Matchday 5
+
+[Sat. 19.04.]
+  Alania              3-2  Lokomotiv
+  Krylia Sovetov      1-1  Chernomorets
+  Zenit               1-0  Rubin
+  Moskva              2-3  Saturn
+  Shinnik             0-0  Dinamo
+  CSKA                0-1  Rostov
+  Uralan              1-2  Spartak
+[Sun. 20.04.]
+  Torpedo             0-3  Rotor
+
+
+Matchday 6
+
+[Wed. 23.04.]
+  Spartak             1-1  Zenit
+  Chernomorets        0-1  CSKA
+  Rubin               0-0  Uralan
+  Rostov              3-1  Alania
+  Saturn              1-1  Krylia Sovetov
+[Thu. 24.04.]
+  Lokomotiv           1-0  Moskva
+  Rotor               0-0  Shinnik
+  Dinamo              1-2  Torpedo
+
+
+Matchday 7
+
+[Sun. 04.05.]
+  Alania              1-0  Saturn
+  Krylia Sovetov      3-0  Rostov
+  Zenit               0-0  Rotor
+  Moskva              0-0  Chernomorets
+  Torpedo             3-0  Spartak
+  Shinnik             2-2  Rubin
+  Uralan              1-5  Dinamo
+[Mon. 05.05.]
+  CSKA                2-0  Lokomotiv
+
+
+Matchday 8
+
+[Fri. 09.05.]
+  Krylia Sovetov      3-0  Lokomotiv
+  Saturn              2-2  CSKA
+  Rotor               2-0  Uralan
+[Sat. 10.05.]
+  Dinamo              7-1  Zenit
+  Rubin               3-1  Torpedo
+  Chernomorets        3-0  Alania
+  Rostov              1-0  Moskva
+[Sun. 11.05.]
+  Spartak             3-1  Shinnik
+
+
+Matchday 9
+
+[Sat. 17.05.]
+  Zenit               1-0  Torpedo
+  Rotor               1-1  Spartak
+  Moskva              3-0  Krylia Sovetov
+  Uralan              0-2  Shinnik
+  Rostov              1-2  Saturn
+[Sun. 18.05.]
+  Alania              0-1  CSKA
+  Chernomorets        2-5  Lokomotiv
+  Dinamo              0-0  Rubin
+
+
+Matchday 10
+
+[Sat. 24.05.]
+  CSKA                1-0  Moskva
+  Shinnik             3-0  Zenit
+  Torpedo             3-0  Uralan
+  Rotor               3-1  Rubin
+[Sun. 25.05.]
+  Krylia Sovetov      3-0  Alania
+  Spartak             2-1  Dinamo
+  Lokomotiv           0-0  Rostov
+  Saturn              2-0  Chernomorets
+
+
+Matchday 11
+
+[Sat. 31.05.]
+  Krylia Sovetov      0-2  CSKA
+  Rubin               1-0  Spartak
+  Shinnik             1-1  Torpedo
+  Saturn              0-0  Lokomotiv
+  Uralan              1-0  Zenit
+  Chernomorets        2-2  Rostov
+  Dinamo              3-1  Rotor
+[Sun. 01.06.]
+  Moskva              3-1  Alania
+
+
+Matchday 12
+
+[Wed. 11.06.]
+  Krylia Sovetov      0-0  Uralan
+  Lokomotiv           2-1  Spartak
+  Alania              0-2  Zenit
+  Chernomorets        1-0  Rubin
+  Rostov              1-1  Dinamo
+  Saturn              4-1  Rotor
+[Thu. 12.06.]
+  Moskva              0-0  Torpedo
+  CSKA                2-2  Shinnik
+
+
+Matchday 13
+
+[Wed. 18.06.]
+  Dinamo              3-2  Chernomorets
+  Torpedo             2-0  Alania
+  Uralan              2-2  CSKA
+  Zenit               3-0  Moskva
+[Thu. 19.06.]
+  Rubin               5-0  Rostov
+  Rotor               0-2  Lokomotiv
+  Shinnik             2-0  Krylia Sovetov
+  Spartak             0-1  Saturn
+
+
+Matchday 14
+
+[Fri. 23.05.]
+  Krylia Sovetov      2-1  Zenit
+[Sun. 22.06.]
+  CSKA                2-0  Torpedo
+  Alania              0-1  Uralan
+[Mon. 23.06.]
+  Lokomotiv           2-0  Dinamo
+  Moskva              1-2  Shinnik
+  Chernomorets        1-0  Rotor
+  Rostov              3-2  Spartak
+  Saturn              1-1  Rubin
+
+
+Matchday 15
+
+[Fri. 27.06.]
+  Torpedo             0-0  Krylia Sovetov
+  Shinnik             2-0  Alania
+  Rubin               3-1  Lokomotiv
+  Rotor               2-0  Rostov
+  Uralan              1-0  Moskva
+  Spartak             2-1  Chernomorets
+[Sat. 28.06.]
+  Zenit               4-1  CSKA
+  Dinamo              1-1  Saturn

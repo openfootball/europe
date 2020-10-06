@@ -1,0 +1,231 @@
+
+
+Matchday 16
+
+[Sat. 17.11.]
+  Volga               1-1  Spartak
+  Dinamo              3-0  Zenit
+  Alania              0-2  Rubin
+[Sun. 18.11.]
+  CSKA                3-0  Amkar
+  Mordovia            0-3  Kuban
+  Anzhi               0-0  Rostov
+[Mon. 19.11.]
+  Krylia Sovetov      0-1  Lokomotiv
+  Krasnodar           3-0  Terek
+
+
+Matchday 17
+
+[Fri. 23.11.]
+  Rostov              2-0  Mordovia
+[Sat. 24.11.]
+  Terek               1-0  Alania
+  Lokomotiv           3-2  Krasnodar
+[Sun. 25.11.]
+  Spartak             1-5  Dinamo
+  Kuban               4-1  Krylia Sovetov
+  Amkar               1-2  Anzhi
+  Rubin               0-0  Volga
+[Mon. 26.11.]
+  Zenit               1-1  CSKA
+
+
+Matchday 18
+
+[Fri. 30.11.]
+  Krasnodar           2-1  Kuban
+[Sat. 01.12.]
+  Spartak             2-4  Zenit
+  Alania              0-1  Lokomotiv
+  Volga               1-1  Terek
+[Sun. 02.12.]
+  Dinamo              3-0  Rubin
+  Anzhi               2-0  CSKA
+  Krylia Sovetov      0-2  Rostov
+[Mon. 03.12.]
+  Mordovia            1-1  Amkar
+
+
+Matchday 19
+
+[Fri. 07.12.]
+  Rostov              2-3  Krasnodar
+[Sat. 08.12.]
+  Amkar               0-2  Krylia Sovetov
+  Kuban               0-0  Alania
+  Lokomotiv           0-1  Volga
+[Sun. 09.12.]
+  Terek               1-2  Dinamo
+  CSKA                2-1  Mordovia
+  Zenit               1-1  Anzhi
+[Mon. 10.12.]
+  Rubin               0-1  Spartak
+
+
+Matchday 20
+
+[Fri. 08.03.]
+  Volga               0-2  Kuban
+  Krasnodar           2-1  Amkar
+[Sat. 09.03.]
+  Dinamo              1-0  Lokomotiv
+  Krylia Sovetov      0-2  CSKA
+  Alania              0-0  Rostov
+[Sun. 10.03.]
+  Spartak             3-1  Terek
+  Rubin               1-0  Zenit
+  Mordovia            2-0  Anzhi
+
+
+Matchday 21
+
+[Fri. 15.03.]
+  Rostov              1-2  Volga
+[Sat. 16.03.]
+  Spartak             0-0  Lokomotiv
+  Amkar               5-1  Alania
+  Kuban               1-1  Dinamo
+[Sun. 17.03.]
+  CSKA                1-0  Krasnodar
+  Anzhi               1-1  Krylia Sovetov
+  Terek               0-0  Rubin
+  Zenit               1-0  Mordovia
+
+
+Matchday 22
+
+[Sat. 30.03.]
+  Rubin               2-0  Lokomotiv
+  Krylia Sovetov      0-2  Mordovia
+  Dinamo              1-0  Rostov
+[Sun. 31.03.]
+  Volga               1-1  Amkar
+  Krasnodar           4-0  Anzhi
+  Terek               0-3  Zenit
+  Spartak             2-2  Kuban
+[Mon. 01.04.]
+  Alania              0-4  CSKA
+
+
+Matchday 23
+
+[Fri. 05.04.]
+  Amkar               1-1  Dinamo
+[Sat. 06.04.]
+  CSKA                2-0  Volga
+  Rostov              1-0  Spartak
+  Lokomotiv           1-1  Terek
+[Sun. 07.04.]
+  Zenit               1-0  Krylia Sovetov
+  Anzhi               0-0  Alania
+  Kuban               0-0  Rubin
+[Mon. 08.04.]
+  Mordovia            0-0  Krasnodar
+
+
+Matchday 24
+
+[Fri. 12.04.]
+  Dinamo              0-0  CSKA
+[Sat. 13.04.]
+  Lokomotiv           0-1  Zenit
+  Terek               2-2  Kuban
+  Krasnodar           0-3  Krylia Sovetov
+  Spartak             2-0  Amkar
+[Sun. 14.04.]
+  Volga               0-3  Anzhi
+  Rubin               1-1  Rostov
+[Mon. 15.04.]
+  Alania              3-1  Mordovia
+
+
+Matchday 25
+
+[Fri. 19.04.]
+  Amkar               1-1  Rubin
+[Sat. 20.04.]
+  Mordovia            1-3  Volga
+  Krylia Sovetov      2-1  Alania
+  Kuban               0-0  Lokomotiv
+[Sun. 21.04.]
+  CSKA                2-2  Spartak
+  Zenit               1-0  Krasnodar
+  Anzhi               3-3  Dinamo
+[Mon. 22.04.]
+  Rostov              0-3  Terek
+
+
+Matchday 26
+
+[Fri. 26.04.]
+  Volga               1-1  Krylia Sovetov
+[Sat. 27.04.]
+  Dinamo              3-1  Mordovia
+  Terek               2-1  Amkar
+  Lokomotiv           3-1  Rostov
+[Sun. 28.04.]
+  Spartak             2-0  Anzhi
+  Kuban               2-2  Zenit
+  Rubin               2-0  CSKA
+[Mon. 29.04.]
+  Alania              2-3  Krasnodar
+
+
+Matchday 27
+
+[Fri. 03.05.]
+  Mordovia            2-1  Spartak
+[Sat. 04.05.]
+  CSKA                1-0  Terek
+  Rostov              0-2  Kuban
+  Anzhi               2-1  Rubin
+  Zenit               4-0  Alania
+[Sun. 05.05.]
+  Krylia Sovetov      1-2  Dinamo
+  Amkar               2-4  Lokomotiv
+  Krasnodar           2-0  Volga
+
+
+Matchday 28
+
+[Fri. 10.05.]
+  Rubin               2-1  Mordovia
+  Spartak             1-1  Krylia Sovetov
+[Sat. 11.05.]
+  Dinamo              1-1  Krasnodar
+  Volga               1-0  Alania
+  Kuban               4-0  Amkar
+[Sun. 12.05.]
+  Lokomotiv           1-4  CSKA
+  Terek               1-0  Anzhi
+  Rostov              1-1  Zenit
+
+
+Matchday 29
+
+[Fri. 17.05.]
+  Amkar               3-2  Rostov
+[Sat. 18.05.]
+  CSKA                0-0  Kuban
+  Mordovia            1-1  Terek
+  Krasnodar           0-1  Spartak
+[Sun. 19.05.]
+  Alania              1-0  Dinamo
+  Krylia Sovetov      3-1  Rubin
+  Zenit               3-1  Volga
+[Mon. 20.05.]
+  Anzhi               2-1  Lokomotiv
+
+
+Matchday 30
+
+[Sun. 26.05.]
+  Amkar               0-0  Zenit
+  Rostov              3-0  CSKA
+  Kuban               1-0  Anzhi
+  Lokomotiv           2-1  Mordovia
+  Terek               4-1  Krylia Sovetov
+  Rubin               2-0  Krasnodar
+  Spartak             2-0  Alania
+  Dinamo              0-0  Volga

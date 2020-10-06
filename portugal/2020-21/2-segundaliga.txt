@@ -1,0 +1,461 @@
+= Portuguese Segunda Liga 2020/21
+
+
+Jornada 1
+[Qui, 10/Set]
+  20.00  Estoril Praia            1-0 (1-0)  FC Arouca
+[Sáb, 12/Set]
+  17.00  FC Vizela                2-1 (1-1)  UD Oliveirense
+[Dom, 13/Set]
+  11.15  CD Cova Piedade          0-4 (0-1)  CD Mafra
+  16.00  Leixões SC               2-2 (1-1)  Casa Pia
+  18.00  SL Benfica B             3-2 (1-1)  UD Vilafranquense
+  18.30  Varzim SC                1-0 (1-0)  FC Porto B
+[Seg, 14/Set]
+  19.45  FC Penafiel              1-0 (0-0)  SC Covilhã
+
+
+Jornada 2
+[Sex, 18/Set]
+  16.00  UD Oliveirense           2-1 (0-0)  FC Penafiel
+  17.00  GD Chaves                0-0  Varzim SC
+  18.00  UD Vilafranquense        0-4 (0-2)  CD Feirense
+[Sáb, 19/Set]
+  11.00  Casa Pia                 0-6 (0-3)  SL Benfica B
+  15.30  CD Mafra                 1-0 (0-0)  Académico Viseu
+         FC Arouca                0-0  Leixões SC
+  17.00  FC Porto B               4-1 (3-0)  FC Vizela
+  18.00  SC Covilhã               1-3 (0-2)  CD Cova Piedade
+[Dom, 20/Set]
+  11.15  Académica de Coimbra     1-0 (0-0)  Estoril Praia
+
+
+Jornada 3
+[Ter, 22/Set]
+  18.00  CD Feirense              2-1 (0-1)  Casa Pia
+         FC Vizela                2-1 (0-1)  SC Covilhã
+  20.00  Varzim SC                0-0  FC Arouca
+[Qua, 23/Set]
+  16.00  CD Cova Piedade          0-0  Académica de Coimbra
+         UD Oliveirense           2-2 (1-0)  FC Porto B
+         SL Benfica B             3-4 (0-3)  GD Chaves
+  18.30  FC Penafiel              1-2 (1-2)  UD Vilafranquense
+  20.00  Leixões SC               0-2 (0-1)  CD Mafra
+[Qui, 24/Set]
+  16.00  Académico Viseu          0-2 (0-2)  Estoril Praia
+
+
+Jornada 4
+[Sáb, 26/Set]
+  11.00  SC Covilhã               2-1 (0-1)  Varzim SC
+[Dom, 27/Set]
+  11.15  CD Mafra                 2-1 (1-1)  SL Benfica B
+  15.30  FC Arouca                1-1 (1-1)  Académico Viseu
+         Casa Pia                 1-1 (0-0)  FC Vizela
+  17.00  FC Porto B               1-2 (1-1)  FC Penafiel
+  18.00  UD Vilafranquense        0-0  UD Oliveirense
+         GD Chaves                1-0 (1-0)  CD Cova Piedade
+[Seg, 28/Set]
+  19.45  Estoril Praia            1-0 (1-0)  Leixões SC
+[Ter, 29/Set]
+  20.00  Académica de Coimbra     0-1 (0-1)  CD Feirense
+
+
+Jornada 5
+[Sex, 2/Out]
+  17.00  FC Penafiel              3-1 (1-0)  CD Mafra
+[Sáb, 3/Out]
+  11.00  CD Feirense              0-0  SC Covilhã
+  15.30  CD Cova Piedade          0-2 (0-1)  FC Arouca
+         UD Oliveirense           0-1 (0-0)  Casa Pia
+[Dom, 4/Out]
+  11.15  SL Benfica B             0-1 (0-0)  Estoril Praia
+         Varzim SC                0-1 (0-0)  Académica de Coimbra
+  15.30  Académico Viseu          1-1 (0-0)  Leixões SC
+  17.00  FC Porto B               2-1 (0-0)  UD Vilafranquense
+[Seg, 5/Out]
+  19.45  FC Vizela                -  GD Chaves
+
+
+Jornada 1
+[Qui, 8/Out]
+  15.00  Académico Viseu          -  Académica de Coimbra
+[Qui, 15/Out]
+  20.00  CD Feirense              -  GD Chaves
+
+
+Jornada 6
+[Dom, 18/Out]
+  Académico Viseu          -  CD Cova Piedade
+  Casa Pia                 -  FC Porto B
+  Académica de Coimbra     -  FC Penafiel
+  SC Covilhã               -  UD Vilafranquense
+  FC Arouca                -  SL Benfica B
+  GD Chaves                -  UD Oliveirense
+  Leixões SC               -  Varzim SC
+  CD Mafra                 -  FC Vizela
+  Estoril Praia            -  CD Feirense
+
+
+Jornada 7
+[Dom, 25/Out]
+  SL Benfica B             -  Académico Viseu
+  CD Cova Piedade          -  Leixões SC
+  CD Feirense              -  CD Mafra
+  FC Porto B               -  GD Chaves
+  UD Oliveirense           -  SC Covilhã
+  FC Penafiel              -  FC Arouca
+  UD Vilafranquense        -  Casa Pia
+  FC Vizela                -  Académica de Coimbra
+  Varzim SC                -  Estoril Praia
+
+
+Jornada 8
+[Dom, 1/Nov]
+  Académica de Coimbra     -  UD Oliveirense
+  Académico Viseu          -  CD Feirense
+  Casa Pia                 -  FC Penafiel
+  SC Covilhã               -  FC Porto B
+  FC Arouca                -  FC Vizela
+  GD Chaves                -  UD Vilafranquense
+  Estoril Praia            -  CD Cova Piedade
+  Leixões SC               -  SL Benfica B
+  CD Mafra                 -  Varzim SC
+
+
+Jornada 9
+[Dom, 8/Nov]
+  Casa Pia                 -  SC Covilhã
+  CD Cova Piedade          -  SL Benfica B
+  CD Feirense              -  FC Arouca
+  FC Porto B               -  CD Mafra
+  UD Oliveirense           -  Estoril Praia
+  FC Penafiel              -  GD Chaves
+  Varzim SC                -  Académico Viseu
+  UD Vilafranquense        -  Académica de Coimbra
+  FC Vizela                -  Leixões SC
+
+
+Jornada 10
+[Dom, 29/Nov]
+  Académica de Coimbra     -  SC Covilhã
+  Académico Viseu          -  FC Penafiel
+  SL Benfica B             -  Varzim SC
+  CD Cova Piedade          -  CD Feirense
+  FC Arouca                -  FC Porto B
+  GD Chaves                -  Casa Pia
+  Estoril Praia            -  FC Vizela
+  Leixões SC               -  UD Oliveirense
+  CD Mafra                 -  UD Vilafranquense
+
+
+Jornada 11
+[Dom, 6/Dez]
+  Casa Pia                 -  CD Mafra
+  CD Feirense              -  SL Benfica B
+  SC Covilhã               -  GD Chaves
+  FC Porto B               -  Académica de Coimbra
+  UD Oliveirense           -  FC Arouca
+  FC Penafiel              -  Leixões SC
+  Varzim SC                -  CD Cova Piedade
+  UD Vilafranquense        -  Estoril Praia
+  FC Vizela                -  Académico Viseu
+
+
+Jornada 12
+[Dom, 20/Dez]
+  Académica de Coimbra     -  Casa Pia
+  Académico Viseu          -  GD Chaves
+  SL Benfica B             -  FC Vizela
+  CD Cova Piedade          -  FC Penafiel
+  FC Arouca                -  SC Covilhã
+  Estoril Praia            -  FC Porto B
+  Leixões SC               -  UD Vilafranquense
+  CD Mafra                 -  UD Oliveirense
+  Varzim SC                -  CD Feirense
+
+
+Jornada 13
+[Ter, 29/Dez]
+  Casa Pia                 -  Estoril Praia
+  CD Feirense              -  Leixões SC
+  SC Covilhã               -  CD Mafra
+  FC Porto B               -  Académico Viseu
+  GD Chaves                -  Académica de Coimbra
+  UD Oliveirense           -  CD Cova Piedade
+  FC Penafiel              -  SL Benfica B
+  UD Vilafranquense        -  FC Arouca
+  FC Vizela                -  Varzim SC
+
+
+Jornada 14
+[Dom, 3/Jan]
+  Académico Viseu          -  Casa Pia
+  SL Benfica B             -  UD Oliveirense
+  CD Cova Piedade          -  FC Porto B
+  CD Feirense              -  FC Vizela
+  FC Arouca                -  Académica de Coimbra
+  Estoril Praia            -  FC Penafiel
+  Leixões SC               -  SC Covilhã
+  CD Mafra                 -  GD Chaves
+  Varzim SC                -  UD Vilafranquense
+
+
+Jornada 15
+[Dom, 10/Jan]
+  Académica de Coimbra     -  CD Mafra
+  Casa Pia                 -  FC Arouca
+  SC Covilhã               -  SL Benfica B
+  FC Porto B               -  Leixões SC
+  GD Chaves                -  Estoril Praia
+  UD Oliveirense           -  CD Feirense
+  FC Penafiel              -  Varzim SC
+  UD Vilafranquense        -  Académico Viseu
+  FC Vizela                -  CD Cova Piedade
+
+
+Jornada 16
+[Dom, 17/Jan]
+  Académico Viseu          -  UD Oliveirense
+  SL Benfica B             -  Académica de Coimbra
+  CD Cova Piedade          -  UD Vilafranquense
+  CD Feirense              -  FC Porto B
+  FC Arouca                -  CD Mafra
+  Estoril Praia            -  SC Covilhã
+  Leixões SC               -  GD Chaves
+  Varzim SC                -  Casa Pia
+  FC Vizela                -  FC Penafiel
+
+
+Jornada 17
+[Dom, 24/Jan]
+  Académica de Coimbra     -  Leixões SC
+  Casa Pia                 -  CD Cova Piedade
+  SC Covilhã               -  Académico Viseu
+  FC Porto B               -  SL Benfica B
+  GD Chaves                -  FC Arouca
+  CD Mafra                 -  Estoril Praia
+  UD Oliveirense           -  Varzim SC
+  FC Penafiel              -  CD Feirense
+  UD Vilafranquense        -  FC Vizela
+
+
+Jornada 18
+[Dom, 31/Jan]
+  Académica de Coimbra     -  Académico Viseu
+  Casa Pia                 -  Leixões SC
+  SC Covilhã               -  FC Penafiel
+  FC Arouca                -  Estoril Praia
+  FC Porto B               -  Varzim SC
+  GD Chaves                -  CD Feirense
+  CD Mafra                 -  CD Cova Piedade
+  UD Oliveirense           -  FC Vizela
+  UD Vilafranquense        -  SL Benfica B
+
+
+Jornada 19
+[Dom, 7/Fev]
+  Académico Viseu          -  CD Mafra
+  SL Benfica B             -  Casa Pia
+  CD Cova Piedade          -  SC Covilhã
+  CD Feirense              -  UD Vilafranquense
+  Estoril Praia            -  Académica de Coimbra
+  Leixões SC               -  FC Arouca
+  FC Penafiel              -  UD Oliveirense
+  Varzim SC                -  GD Chaves
+  FC Vizela                -  FC Porto B
+
+
+Jornada 20
+[Dom, 14/Fev]
+  Académica de Coimbra     -  CD Cova Piedade
+  Casa Pia                 -  CD Feirense
+  SC Covilhã               -  FC Vizela
+  FC Arouca                -  Varzim SC
+  FC Porto B               -  UD Oliveirense
+  GD Chaves                -  SL Benfica B
+  Estoril Praia            -  Académico Viseu
+  CD Mafra                 -  Leixões SC
+  UD Vilafranquense        -  FC Penafiel
+
+
+Jornada 21
+[Dom, 21/Fev]
+  Académico Viseu          -  FC Arouca
+  SL Benfica B             -  CD Mafra
+  CD Cova Piedade          -  GD Chaves
+  CD Feirense              -  Académica de Coimbra
+  Leixões SC               -  Estoril Praia
+  UD Oliveirense           -  UD Vilafranquense
+  FC Penafiel              -  FC Porto B
+  Varzim SC                -  SC Covilhã
+  FC Vizela                -  Casa Pia
+
+
+Jornada 22
+[Dom, 28/Fev]
+  Académica de Coimbra     -  Varzim SC
+  Casa Pia                 -  UD Oliveirense
+  SC Covilhã               -  CD Feirense
+  FC Arouca                -  CD Cova Piedade
+  GD Chaves                -  FC Vizela
+  Estoril Praia            -  SL Benfica B
+  Leixões SC               -  Académico Viseu
+  CD Mafra                 -  FC Penafiel
+  UD Vilafranquense        -  FC Porto B
+
+
+Jornada 23
+[Dom, 7/Março]
+  SL Benfica B             -  FC Arouca
+  CD Cova Piedade          -  Académico Viseu
+  CD Feirense              -  Estoril Praia
+  FC Porto B               -  Casa Pia
+  UD Oliveirense           -  GD Chaves
+  FC Penafiel              -  Académica de Coimbra
+  Varzim SC                -  Leixões SC
+  UD Vilafranquense        -  SC Covilhã
+  FC Vizela                -  CD Mafra
+
+
+Jornada 24
+[Dom, 14/Março]
+  Académica de Coimbra     -  FC Vizela
+  Académico Viseu          -  SL Benfica B
+  Casa Pia                 -  UD Vilafranquense
+  SC Covilhã               -  UD Oliveirense
+  FC Arouca                -  FC Penafiel
+  GD Chaves                -  FC Porto B
+  Estoril Praia            -  Varzim SC
+  Leixões SC               -  CD Cova Piedade
+  CD Mafra                 -  CD Feirense
+
+
+Jornada 25
+[Dom, 21/Março]
+  SL Benfica B             -  Leixões SC
+  CD Cova Piedade          -  Estoril Praia
+  CD Feirense              -  Académico Viseu
+  FC Porto B               -  SC Covilhã
+  UD Oliveirense           -  Académica de Coimbra
+  FC Penafiel              -  Casa Pia
+  Varzim SC                -  CD Mafra
+  UD Vilafranquense        -  GD Chaves
+  FC Vizela                -  FC Arouca
+
+
+Jornada 26
+[Dom, 28/Março]
+  Académica de Coimbra     -  UD Vilafranquense
+  Académico Viseu          -  Varzim SC
+  SL Benfica B             -  CD Cova Piedade
+  SC Covilhã               -  Casa Pia
+  FC Arouca                -  CD Feirense
+  GD Chaves                -  FC Penafiel
+  Estoril Praia            -  UD Oliveirense
+  Leixões SC               -  FC Vizela
+  CD Mafra                 -  FC Porto B
+
+
+Jornada 27
+[Sáb, 3/Abril]
+  Casa Pia                 -  GD Chaves
+  CD Feirense              -  CD Cova Piedade
+  SC Covilhã               -  Académica de Coimbra
+  FC Porto B               -  FC Arouca
+  UD Oliveirense           -  Leixões SC
+  FC Penafiel              -  Académico Viseu
+  Varzim SC                -  SL Benfica B
+  UD Vilafranquense        -  CD Mafra
+  FC Vizela                -  Estoril Praia
+
+
+Jornada 28
+[Dom, 11/Abril]
+  Académica de Coimbra     -  FC Porto B
+  Académico Viseu          -  FC Vizela
+  SL Benfica B             -  CD Feirense
+  CD Cova Piedade          -  Varzim SC
+  FC Arouca                -  UD Oliveirense
+  GD Chaves                -  SC Covilhã
+  Estoril Praia            -  UD Vilafranquense
+  Leixões SC               -  FC Penafiel
+  CD Mafra                 -  Casa Pia
+
+
+Jornada 29
+[Dom, 18/Abril]
+  Casa Pia                 -  Académica de Coimbra
+  CD Feirense              -  Varzim SC
+  SC Covilhã               -  FC Arouca
+  FC Porto B               -  Estoril Praia
+  GD Chaves                -  Académico Viseu
+  UD Oliveirense           -  CD Mafra
+  FC Penafiel              -  CD Cova Piedade
+  UD Vilafranquense        -  Leixões SC
+  FC Vizela                -  SL Benfica B
+
+
+Jornada 30
+[Dom, 25/Abril]
+  Académica de Coimbra     -  GD Chaves
+  Académico Viseu          -  FC Porto B
+  SL Benfica B             -  FC Penafiel
+  CD Cova Piedade          -  UD Oliveirense
+  FC Arouca                -  UD Vilafranquense
+  Estoril Praia            -  Casa Pia
+  Leixões SC               -  CD Feirense
+  CD Mafra                 -  SC Covilhã
+  Varzim SC                -  FC Vizela
+
+
+Jornada 31
+[Dom, 2/Maio]
+  Académica de Coimbra     -  FC Arouca
+  Casa Pia                 -  Académico Viseu
+  SC Covilhã               -  Leixões SC
+  FC Porto B               -  CD Cova Piedade
+  GD Chaves                -  CD Mafra
+  UD Oliveirense           -  SL Benfica B
+  FC Penafiel              -  Estoril Praia
+  UD Vilafranquense        -  Varzim SC
+  FC Vizela                -  CD Feirense
+
+
+Jornada 32
+[Dom, 9/Maio]
+  Académico Viseu          -  UD Vilafranquense
+  SL Benfica B             -  SC Covilhã
+  CD Cova Piedade          -  FC Vizela
+  CD Feirense              -  UD Oliveirense
+  FC Arouca                -  Casa Pia
+  Estoril Praia            -  GD Chaves
+  Leixões SC               -  FC Porto B
+  CD Mafra                 -  Académica de Coimbra
+  Varzim SC                -  FC Penafiel
+
+
+Jornada 33
+[Dom, 16/Maio]
+  Académica de Coimbra     -  SL Benfica B
+  Casa Pia                 -  Varzim SC
+  SC Covilhã               -  Estoril Praia
+  FC Porto B               -  CD Feirense
+  GD Chaves                -  Leixões SC
+  CD Mafra                 -  FC Arouca
+  UD Oliveirense           -  Académico Viseu
+  FC Penafiel              -  FC Vizela
+  UD Vilafranquense        -  CD Cova Piedade
+
+
+Jornada 34
+[Qua, 19/Maio]
+  Académico Viseu          -  SC Covilhã
+  SL Benfica B             -  FC Porto B
+  CD Cova Piedade          -  Casa Pia
+  CD Feirense              -  FC Penafiel
+  FC Arouca                -  GD Chaves
+  Estoril Praia            -  CD Mafra
+  Leixões SC               -  Académica de Coimbra
+  Varzim SC                -  UD Oliveirense
+  FC Vizela                -  UD Vilafranquense
