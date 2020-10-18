@@ -44,6 +44,11 @@ todo: add
 
 ## Build Your Own `europe.db` Copy
 
+### Alternative I - Do-It-Yourself (DIY) - Downlad and Unpack Zip Archive or Git Clone
+
+Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
+get a local copy.
+
 Try in your working folder (that is, `/europe`):
 
 ```
@@ -57,6 +62,30 @@ This will
 - read in all datasets in plain text (`.txt`)
 
 That's it.
+
+
+### Alternative II  - Read / Load Match files with `football-to-sqlite` / `football-to-psql`
+
+Run the `football-to-sqlite` tool against match files in the Football.TXT format like so:
+
+```
+$ football-to-sqlite belgium.db belgium/2020-21/1-firstdivisiona-i.txt
+```
+
+or pass in more than one match file:
+
+```
+$ football-to-sqlite switzerland.db switzerland/2020-21/1-superleague.txt \
+                                    switzerland/2020-21/2-challengeleague.txt \
+                                    switzerland/2019-20/1-superleague.txt \
+                                    switzerland/2019-20/2-challengeleague.txt
+```
+
+Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist, 
+they get auto-created on the first run.
+
+[More »](https://github.com/sportdb/football.db/tree/master/football-to-sqlite)
+
 
 
 
