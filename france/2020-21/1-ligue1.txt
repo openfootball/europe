@@ -132,7 +132,7 @@ Journée 8
          Stade Brestois 29        0-3 (0-2)  RC Strasbourg
          Girondins de Bordeaux    2-0 (0-0)  Nîmes Olympique
   17.00  OGC Nice                 1-1 (0-0)  Lille OSC
-  21.00  Olympique Lyonnais       -  AS Monaco
+  21.00  Olympique Lyonnais       4-1 (4-0)  AS Monaco
   RC Lens                  -  FC Nantes
 
 
@@ -169,17 +169,19 @@ Journée 10
 
 
 Journée 11
+[Ven 20. Nov]
+  19.00  Stade Rennais FC         -  Girondins de Bordeaux
+  21.00  AS Monaco                -  Paris Saint-Germain
+[Sam 21. Nov]
+  17.00  Stade Brestois 29        -  AS Saint-Étienne
+  21.00  Olympique de Marseille   -  OGC Nice
 [Dim 22. Nov]
-  Angers SCO               -  Olympique Lyonnais
-  Stade Brestois 29        -  AS Saint-Étienne
-  Dijon FCO                -  RC Lens
-  Lille OSC                -  FC Lorient
-  Olympique de Marseille   -  OGC Nice
-  AS Monaco                -  Paris Saint-Germain
-  Montpellier HSC          -  RC Strasbourg
-  FC Nantes                -  FC Metz
-  Stade de Reims           -  Nîmes Olympique
-  Stade Rennais FC         -  Girondins de Bordeaux
+  13.00  FC Nantes                -  FC Metz
+  15.00  Dijon FCO                -  RC Lens
+         Montpellier HSC          -  RC Strasbourg
+         Stade de Reims           -  Nîmes Olympique
+  17.00  Angers SCO               -  Olympique Lyonnais
+  21.00  Lille OSC                -  FC Lorient
 
 
 Journée 12

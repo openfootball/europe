@@ -121,7 +121,7 @@ Journée 8
          LB Châteauroux           1-2 (1-2)  Paris FC
          USL Dunkerque            0-1 (0-1)  Le Havre AC
 [Lun 26. Oct]
-  20.45  FC Sochaux-Montbéliard   -  Amiens SC
+  20.45  FC Sochaux-Montbéliard   0-2 (0-0)  Amiens SC
 
 
 Journée 9
@@ -155,16 +155,17 @@ Journée 10
 
 Journée 11
 [Sam 21. Nov]
-  20.00  Le Havre AC              -  Stade Malherbe Caen
-         AS Nancy Lorraine        -  ES Troyes AC
-         EA Guingamp              -  AC Ajaccio
+  15.00  Le Havre AC              -  Stade Malherbe Caen
+  20.00  Paris FC                 -  AJ Auxerre
          FC Chambly               -  Toulouse FC
          Chamois Niortais FC      -  USL Dunkerque
-         Paris FC                 -  AJ Auxerre
+         AS Nancy Lorraine        -  ES Troyes AC
          Pau FC                   -  Grenoble Foot 38
          Valenciennes FC          -  Rodez AF
          LB Châteauroux           -  FC Sochaux-Montbéliard
          Amiens SC                -  Clermont Foot 63
+[Lun 23. Nov]
+  20.45  EA Guingamp              -  AC Ajaccio
 
 
 Journée 12
