@@ -136,21 +136,21 @@ Journée 9
          Valenciennes FC          1-3 (1-1)  Clermont Foot 63
          Rodez AF                 2-2 (2-1)  AJ Auxerre
 [Lun 2. Nov]
-  20.45  Amiens SC                -  Toulouse FC
+  20.45  Amiens SC                0-1 (0-0)  Toulouse FC
 
 
 Journée 10
 [Sam 7. Nov]
-  15.00  Clermont Foot 63         -  EA Guingamp
-         Grenoble Foot 38         -  Le Havre AC
-  19.00  FC Sochaux-Montbéliard   -  Chamois Niortais FC
-         ES Troyes AC             -  FC Chambly
-         AJ Auxerre               -  Amiens SC
-         Toulouse FC              -  Valenciennes FC
-         LB Châteauroux           -  Pau FC
-         Rodez AF                 -  AC Ajaccio
-         Stade Malherbe Caen      -  AS Nancy Lorraine
-         USL Dunkerque            -  Paris FC
+  15.00  Clermont Foot 63         0-0  EA Guingamp
+         Grenoble Foot 38         2-1 (1-0)  Le Havre AC
+  19.00  FC Sochaux-Montbéliard   3-4 (1-2)  Chamois Niortais FC
+         ES Troyes AC             2-2 (2-1)  FC Chambly
+         AJ Auxerre               2-1 (1-0)  Amiens SC
+         Toulouse FC              4-5 (2-2)  Valenciennes FC
+         LB Châteauroux           0-3 (0-3)  Pau FC
+         Rodez AF                 0-1 (0-0)  AC Ajaccio
+         Stade Malherbe Caen      2-1 (1-1)  AS Nancy Lorraine
+         USL Dunkerque            0-1 (0-1)  Paris FC
 
 
 Journée 11
@@ -170,13 +170,13 @@ Journée 11
 
 Journée 12
 [Sam 28. Nov]
-  20.00  AC Ajaccio               -  FC Chambly
+  15.00  Toulouse FC              -  Chamois Niortais FC
+         Grenoble Foot 38         -  Paris FC
+  19.00  Clermont Foot 63         -  AS Nancy Lorraine
          AJ Auxerre               -  Valenciennes FC
-         Clermont Foot 63         -  AS Nancy Lorraine
+         AC Ajaccio               -  FC Chambly
          ES Troyes AC             -  Amiens SC
          FC Sochaux-Montbéliard   -  Le Havre AC
-         Toulouse FC              -  Chamois Niortais FC
-         Grenoble Foot 38         -  Paris FC
          Rodez AF                 -  EA Guingamp
          Stade Malherbe Caen      -  LB Châteauroux
          USL Dunkerque            -  Pau FC

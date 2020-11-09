@@ -154,18 +154,18 @@ Journée 9
 
 Journée 10
 [Ven 6. Nov]
-  21.00  RC Strasbourg            -  Olympique de Marseille
+  21.00  RC Strasbourg            0-1 (0-0)  Olympique de Marseille
 [Sam 7. Nov]
-  17.00  Girondins de Bordeaux    -  Montpellier HSC
-  21.00  Paris Saint-Germain      -  Stade Rennais FC
+  17.00  Girondins de Bordeaux    0-2 (0-0)  Montpellier HSC
+  21.00  Paris Saint-Germain      3-0 (2-0)  Stade Rennais FC
 [Dim 8. Nov]
-  13.00  Stade Brestois 29        -  Lille OSC
-  15.00  RC Lens                  -  Stade de Reims
-         FC Lorient               -  FC Nantes
-         Nîmes Olympique          -  Angers SCO
-         FC Metz                  -  Dijon FCO
-  17.00  OGC Nice                 -  AS Monaco
-  21.00  Olympique Lyonnais       -  AS Saint-Étienne
+  13.00  Stade Brestois 29        3-2 (3-1)  Lille OSC
+  15.00  RC Lens                  4-4 (1-0)  Stade de Reims
+         FC Lorient               0-2 (0-0)  FC Nantes
+         Nîmes Olympique          1-5 (0-2)  Angers SCO
+         FC Metz                  1-1 (1-1)  Dijon FCO
+  17.00  OGC Nice                 1-2 (0-1)  AS Monaco
+  21.00  Olympique Lyonnais       2-1 (0-1)  AS Saint-Étienne
 
 
 Journée 11
@@ -178,30 +178,32 @@ Journée 11
 [Dim 22. Nov]
   13.00  FC Nantes                -  FC Metz
   15.00  Dijon FCO                -  RC Lens
-         Montpellier HSC          -  RC Strasbourg
          Stade de Reims           -  Nîmes Olympique
+         Montpellier HSC          -  RC Strasbourg
   17.00  Angers SCO               -  Olympique Lyonnais
   21.00  Lille OSC                -  FC Lorient
 
 
 Journée 12
+[Ven 27. Nov]
+  21.00  RC Strasbourg            -  Stade Rennais FC
+[Sam 28. Nov]
+  17.00  Olympique de Marseille   -  FC Nantes
+  21.00  Paris Saint-Germain      -  Girondins de Bordeaux
 [Dim 29. Nov]
-  RC Lens                  -  Angers SCO
-  FC Lorient               -  Montpellier HSC
-  Olympique Lyonnais       -  Stade de Reims
-  Olympique de Marseille   -  FC Nantes
-  FC Metz                  -  Stade Brestois 29
-  AS Monaco                -  Nîmes Olympique
-  OGC Nice                 -  Dijon FCO
-  Paris Saint-Germain      -  Girondins de Bordeaux
-  AS Saint-Étienne         -  Lille OSC
-  RC Strasbourg            -  Stade Rennais FC
+  13.00  Olympique Lyonnais       -  Stade de Reims
+  15.00  RC Lens                  -  Angers SCO
+         FC Lorient               -  Montpellier HSC
+         FC Metz                  -  Stade Brestois 29
+         AS Monaco                -  Nîmes Olympique
+  17.00  OGC Nice                 -  Dijon FCO
+  21.00  AS Saint-Étienne         -  Lille OSC
 
 
 Journée 13
 [Dim 6. Déc]
-  Angers SCO               -  FC Lorient
   Girondins de Bordeaux    -  Stade Brestois 29
+  Angers SCO               -  FC Lorient
   Dijon FCO                -  AS Saint-Étienne
   Lille OSC                -  AS Monaco
   FC Metz                  -  Olympique Lyonnais
