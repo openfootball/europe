@@ -74,66 +74,84 @@ Jornada 5
   15.30  Académico Viseu          1-1 (0-0)  Leixões SC
   17.00  FC Porto B               2-1 (0-0)  UD Vilafranquense
 [Seg, 5/Out]
-  19.45  FC Vizela                -  GD Chaves
+  19.45  FC Vizela                1-1 (0-0)  GD Chaves
 
 
 Jornada 1
 [Qui, 8/Out]
-  15.00  Académico Viseu          -  Académica de Coimbra
+  15.00  Académico Viseu          0-0  Académica de Coimbra
 [Qui, 15/Out]
-  20.00  CD Feirense              -  GD Chaves
+  20.00  CD Feirense              0-4 (0-3)  GD Chaves
 
 
 Jornada 6
+[Sex, 16/Out]
+  20.00  Leixões SC               3-1 (0-0)  Varzim SC
+[Sáb, 17/Out]
+  11.00  FC Arouca                1-0 (0-0)  SL Benfica B
+  15.00  CD Mafra                 2-0 (1-0)  FC Vizela
+         Casa Pia                 2-1 (0-0)  FC Porto B
 [Dom, 18/Out]
-  Académico Viseu          -  CD Cova Piedade
-  Casa Pia                 -  FC Porto B
-  Académica de Coimbra     -  FC Penafiel
-  SC Covilhã               -  UD Vilafranquense
-  FC Arouca                -  SL Benfica B
-  GD Chaves                -  UD Oliveirense
-  Leixões SC               -  Varzim SC
-  CD Mafra                 -  FC Vizela
-  Estoril Praia            -  CD Feirense
+  11.15  Académica de Coimbra     2-1 (2-0)  FC Penafiel
+  15.00  SC Covilhã               2-2 (1-1)  UD Vilafranquense
+         Académico Viseu          0-2 (0-2)  CD Cova Piedade
+[Ter, 20/Out]
+  18.30  GD Chaves                0-2 (0-2)  UD Oliveirense
+  20.30  Estoril Praia            3-3 (2-1)  CD Feirense
 
 
 Jornada 7
+[Sex, 23/Out]
+  18.30  FC Penafiel              2-2 (1-1)  FC Arouca
+[Sáb, 24/Out]
+  11.00  FC Vizela                1-3 (1-0)  Académica de Coimbra
+  15.00  UD Vilafranquense        2-2 (1-0)  Casa Pia
+         FC Porto B               1-2 (1-1)  GD Chaves
+         CD Cova Piedade          2-0 (1-0)  Leixões SC
+  17.00  SL Benfica B             0-1 (0-1)  Académico Viseu
 [Dom, 25/Out]
-  SL Benfica B             -  Académico Viseu
-  CD Cova Piedade          -  Leixões SC
-  CD Feirense              -  CD Mafra
-  FC Porto B               -  GD Chaves
-  UD Oliveirense           -  SC Covilhã
-  FC Penafiel              -  FC Arouca
-  UD Vilafranquense        -  Casa Pia
-  FC Vizela                -  Académica de Coimbra
-  Varzim SC                -  Estoril Praia
+  11.15  Varzim SC                0-2 (0-2)  Estoril Praia
+  15.00  UD Oliveirense           1-2 (1-1)  SC Covilhã
+[Seg, 26/Out]
+  18.30  CD Feirense              3-1 (2-0)  CD Mafra
 
 
 Jornada 8
+[Sáb, 31/Out]
+  11.00  SC Covilhã               4-0 (3-0)  FC Porto B
+  15.00  Académica de Coimbra     3-0 (2-0)  UD Oliveirense
+  17.30  GD Chaves                0-0  UD Vilafranquense
 [Dom, 1/Nov]
-  Académica de Coimbra     -  UD Oliveirense
-  Académico Viseu          -  CD Feirense
-  Casa Pia                 -  FC Penafiel
-  SC Covilhã               -  FC Porto B
-  FC Arouca                -  FC Vizela
-  GD Chaves                -  UD Vilafranquense
-  Estoril Praia            -  CD Cova Piedade
-  Leixões SC               -  SL Benfica B
-  CD Mafra                 -  Varzim SC
+  11.15  Leixões SC               3-2 (1-2)  SL Benfica B
+  14.00  Casa Pia                 3-3 (1-3)  FC Penafiel
+  15.00  Académico Viseu          0-1 (0-1)  CD Feirense
+         FC Arouca                2-1 (0-0)  FC Vizela
+  17.30  CD Mafra                 3-1 (1-1)  Varzim SC
 
 
 Jornada 9
+[Sex, 6/Nov]
+  18.30  CD Feirense              0-1 (0-0)  FC Arouca
+[Sáb, 7/Nov]
+  15.00  Casa Pia                 0-1 (0-0)  SC Covilhã
+         FC Porto B               1-2 (1-1)  CD Mafra
+         Varzim SC                1-1 (1-1)  Académico Viseu
+  17.30  FC Vizela                2-1 (1-0)  Leixões SC
 [Dom, 8/Nov]
-  Casa Pia                 -  SC Covilhã
-  CD Cova Piedade          -  SL Benfica B
-  CD Feirense              -  FC Arouca
-  FC Porto B               -  CD Mafra
-  UD Oliveirense           -  Estoril Praia
-  FC Penafiel              -  GD Chaves
-  Varzim SC                -  Académico Viseu
-  UD Vilafranquense        -  Académica de Coimbra
-  FC Vizela                -  Leixões SC
+  11.15  UD Oliveirense           0-1 (0-1)  Estoril Praia
+  15.00  UD Vilafranquense        0-0  Académica de Coimbra
+[Seg, 9/Nov]
+  19.45  FC Penafiel              1-0 (0-0)  GD Chaves
+
+
+Jornada 8
+[Sáb, 14/Nov]
+  11.00  Estoril Praia            5-1 (2-0)  CD Cova Piedade
+
+
+Jornada 9
+[Qua, 25/Nov]
+  18.00  CD Cova Piedade          -  SL Benfica B
 
 
 Jornada 10

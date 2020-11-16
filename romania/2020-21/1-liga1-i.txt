@@ -37,8 +37,8 @@ Round 3
   20.00  Dinamo București         1-1 (0-1)  FC Botoșani
 [Sat Sep/12]
   14.30  FC Academica Clinceni    0-0  Chindia Târgoviște
-  17.00  FC Politehnica Iași      1-4 (1-2)  Gaz Metan Mediaș
   20.00  FC Voluntari             2-1 (1-0)  Steaua București
+  17.00  FC Politehnica Iași      1-4 (1-2)  Gaz Metan Mediaș
 [Sun Sep/13]
   18.00  Astra Giurgiu            2-2 (1-1)  Sepsi Sfântu Gheorghe
   20.30  CFR Cluj                 1-0 (0-0)  FC Hermannstadt
@@ -88,67 +88,85 @@ Round 6
   17.30  Gaz Metan Mediaș         1-1 (1-0)  FC Hermannstadt
   20.30  FC Viitorul Constanța    1-1 (1-0)  CFR Cluj
 [Mon Oct/5]
-  20.00  UTA Arad                 -  FC Academica Clinceni
+  20.00  UTA Arad                 0-0  FC Academica Clinceni
 
 
 Round 7
+[Fri Oct/16]
+  20.00  FC Argeș Pitești         1-0 (0-0)  Astra Giurgiu
 [Sat Oct/17]
-  FC Academica Clinceni    -  Steaua București
-  CFR Cluj                 -  FC Botoșani
-  Chindia Târgoviște       -  Gaz Metan Mediaș
-  Dinamo București         -  Universitatea Craiova
-  FC Argeș Pitești         -  Astra Giurgiu
-  FC Hermannstadt          -  UTA Arad
-  FC Voluntari             -  FC Viitorul Constanța
-  FC Politehnica Iași      -  Sepsi Sfântu Gheorghe
+  13.00  Chindia Târgoviște       1-0 (0-0)  Gaz Metan Mediaș
+  15.30  FC Politehnica Iași      1-4 (0-3)  Sepsi Sfântu Gheorghe
+  20.30  CFR Cluj                 2-1 (1-1)  FC Botoșani
+[Sun Oct/18]
+  17.45  FC Hermannstadt          1-1 (1-0)  UTA Arad
+  20.30  Dinamo București         0-1 (0-1)  Universitatea Craiova
+[Mon Oct/19]
+  17.00  FC Voluntari             0-2 (0-0)  FC Viitorul Constanța
+  20.00  FC Academica Clinceni    0-2 (0-0)  Steaua București
 
 
 Round 8
+[Fri Oct/23]
+  17.00  Gaz Metan Mediaș         1-2 (0-1)  FC Botoșani
+  20.00  Universitatea Craiova    0-1 (0-0)  FC Academica Clinceni
 [Sat Oct/24]
-  Astra Giurgiu            -  FC Politehnica Iași
-  FC Voluntari             -  CFR Cluj
-  Steaua București         -  FC Hermannstadt
-  Gaz Metan Mediaș         -  FC Botoșani
-  Sepsi Sfântu Gheorghe    -  Dinamo București
-  Universitatea Craiova    -  FC Academica Clinceni
-  UTA Arad                 -  Chindia Târgoviște
-  FC Viitorul Constanța    -  FC Argeș Pitești
+  13.00  UTA Arad                 1-0 (0-0)  Chindia Târgoviște
+  20.45  Sepsi Sfântu Gheorghe    2-0 (1-0)  Dinamo București
+  18.30  Astra Giurgiu            4-0 (0-0)  FC Politehnica Iași
+[Sun Oct/25]
+  17.45  FC Viitorul Constanța    2-2 (0-1)  FC Argeș Pitești
+  20.30  FC Voluntari             0-1 (0-0)  CFR Cluj
+[Mon Oct/26]
+  20.00  Steaua București         5-0 (4-0)  FC Hermannstadt
 
 
 Round 9
+[Fri Oct/30]
+  17.00  FC Argeș Pitești         2-1 (1-0)  FC Voluntari
 [Sat Oct/31]
-  FC Academica Clinceni    -  Sepsi Sfântu Gheorghe
-  FC Botoșani              -  UTA Arad
-  CFR Cluj                 -  Gaz Metan Mediaș
-  Chindia Târgoviște       -  Steaua București
-  Dinamo București         -  Astra Giurgiu
-  FC Argeș Pitești         -  FC Voluntari
-  FC Hermannstadt          -  Universitatea Craiova
-  FC Politehnica Iași      -  FC Viitorul Constanța
+  11.30  FC Academica Clinceni    2-0 (2-0)  Sepsi Sfântu Gheorghe
+  18.15  FC Botoșani              2-3 (2-1)  UTA Arad
+  20.45  FC Hermannstadt          0-1 (0-1)  Universitatea Craiova
+[Sun Nov/1]
+  17.00  FC Politehnica Iași      0-3  FC Viitorul Constanța    [awarded]
+  20.00  CFR Cluj                 1-2 (0-1)  Gaz Metan Mediaș
+[Mon Nov/2]
+  20.00  Chindia Târgoviște       0-2 (0-1)  Steaua București
 
 
 Round 10
+[Fri Nov/6]
+  20.30  Universitatea Craiova    0-1 (0-1)  Chindia Târgoviște
+  16.00  Astra Giurgiu            0-2 (0-0)  FC Academica Clinceni
 [Sat Nov/7]
-  Astra Giurgiu            -  FC Academica Clinceni
-  FC Argeș Pitești         -  CFR Cluj
-  FC Voluntari             -  FC Politehnica Iași
-  Steaua București         -  FC Botoșani
-  Sepsi Sfântu Gheorghe    -  FC Hermannstadt
-  Universitatea Craiova    -  Chindia Târgoviște
-  UTA Arad                 -  Gaz Metan Mediaș
-  FC Viitorul Constanța    -  Dinamo București
+  20.45  Steaua București         4-1 (1-1)  FC Botoșani
+  13.30  FC Voluntari             4-0 (2-0)  FC Politehnica Iași
+  16.00  Sepsi Sfântu Gheorghe    1-1 (0-0)  FC Hermannstadt
+[Sun Nov/8]
+  20.00  FC Viitorul Constanța    2-1 (0-0)  Dinamo București
+  17.00  FC Argeș Pitești         0-2 (0-2)  CFR Cluj
+[Mon Nov/9]
+  19.30  UTA Arad                 1-3 (1-2)  Gaz Metan Mediaș
+
+
+Round 9
+[Sat Nov/14]
+  20.00  Dinamo București         1-1 (0-0)  Astra Giurgiu
 
 
 Round 11
+[Fri Nov/20]
+  16.30  FC Politehnica Iași      -  FC Argeș Pitești
+  19.30  Dinamo București         -  FC Voluntari
 [Sat Nov/21]
-  FC Academica Clinceni    -  FC Viitorul Constanța
-  FC Botoșani              -  Universitatea Craiova
-  CFR Cluj                 -  UTA Arad
   Chindia Târgoviște       -  Sepsi Sfântu Gheorghe
-  Dinamo București         -  FC Voluntari
-  FC Hermannstadt          -  Astra Giurgiu
+  18.30  FC Botoșani              -  Universitatea Craiova
+  12.00  FC Academica Clinceni    -  FC Viitorul Constanța
   Gaz Metan Mediaș         -  Steaua București
-  FC Politehnica Iași      -  FC Argeș Pitești
+[Sun Nov/22]
+  16.00  FC Hermannstadt          -  Astra Giurgiu
+  19.00  CFR Cluj                 -  UTA Arad
 
 
 Round 12
@@ -201,14 +219,14 @@ Round 15
 
 Round 16
 [Wed Jan/13]
-  FC Botoșani              -  FC Argeș Pitești
+  UTA Arad                 -  FC Viitorul Constanța
   CFR Cluj                 -  FC Academica Clinceni
   Chindia Târgoviște       -  FC Politehnica Iași
   FC Hermannstadt          -  Dinamo București
   Steaua București         -  Astra Giurgiu
   Gaz Metan Mediaș         -  FC Voluntari
   Universitatea Craiova    -  Sepsi Sfântu Gheorghe
-  UTA Arad                 -  FC Viitorul Constanța
+  FC Botoșani              -  FC Argeș Pitești
 
 
 Round 17
@@ -297,14 +315,14 @@ Round 23
 
 Round 24
 [Sat Feb/20]
-  Astra Giurgiu            -  Dinamo București
+  FC Viitorul Constanța    -  FC Politehnica Iași
   FC Voluntari             -  FC Argeș Pitești
   Steaua București         -  Chindia Târgoviște
   Gaz Metan Mediaș         -  CFR Cluj
   Sepsi Sfântu Gheorghe    -  FC Academica Clinceni
   Universitatea Craiova    -  FC Hermannstadt
   UTA Arad                 -  FC Botoșani
-  FC Viitorul Constanța    -  FC Politehnica Iași
+  Astra Giurgiu            -  Dinamo București
 
 
 Round 25
@@ -345,14 +363,14 @@ Round 27
 
 Round 28
 [Sat Mar/20]
-  Astra Giurgiu            -  FC Botoșani
+  FC Viitorul Constanța    -  Chindia Târgoviște
   FC Argeș Pitești         -  FC Academica Clinceni
   FC Voluntari             -  FC Hermannstadt
   Steaua București         -  CFR Cluj
   FC Politehnica Iași      -  Dinamo București
   Sepsi Sfântu Gheorghe    -  Gaz Metan Mediaș
   Universitatea Craiova    -  UTA Arad
-  FC Viitorul Constanța    -  Chindia Târgoviște
+  Astra Giurgiu            -  FC Botoșani
 
 
 Round 29

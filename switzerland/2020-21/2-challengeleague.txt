@@ -35,117 +35,146 @@ Spieltag 3
 
 Spieltag 4
 [Fr 16.10.]
-  19.00  Stade Lausanne-Ouchy     -  FC Aarau
-  19.30  FC Chiasso               -  FC Thun
-  20.00  FC Wil                   -  SC Kriens
-         FC Winterthur            -  FC Schaffhausen
-         Xamax Neuchâtel          -  Grasshoppers Zürich
+  19.00  Stade Lausanne-Ouchy     1:1 (1:0)  FC Aarau
+  19.30  FC Chiasso               0:2 (0:0)  FC Thun
+  20.00  FC Wil                   0:1 (0:0)  SC Kriens
+         Xamax Neuchâtel          1:0 (1:0)  Grasshoppers Zürich
+         FC Winterthur            2:2 (2:1)  FC Schaffhausen
 
 
 Spieltag 5
 [Mo 19.10.]
-  20.00  FC Schaffhausen          -  FC Aarau
+  20.00  FC Schaffhausen          1:2 (0:0)  FC Aarau
 [Di 20.10.]
-  19.00  FC Thun                  -  FC Winterthur
-         Stade Lausanne-Ouchy     -  FC Chiasso
-         Xamax Neuchâtel          -  FC Wil
-  19.30  SC Kriens                -  Grasshoppers Zürich
+  19.00  Stade Lausanne-Ouchy     4:1 (3:0)  FC Chiasso
+         FC Thun                  0:1 (0:0)  FC Winterthur
+         Xamax Neuchâtel          2:1 (2:0)  FC Wil
+  19.30  SC Kriens                5:2 (1:1)  Grasshoppers Zürich
 
 
 Spieltag 6
 [Fr 23.10.]
-  20.00  SC Kriens                -  FC Thun
+  20.00  SC Kriens                1:2 (0:1)  FC Thun
 [Sa 24.10.]
-  17.30  FC Wil                   -  Stade Lausanne-Ouchy
-  18.00  FC Winterthur            -  FC Chiasso
-  18.30  FC Aarau                 -  Xamax Neuchâtel
-  19.00  Grasshoppers Zürich      -  FC Schaffhausen
+  17.30  FC Wil                   0:0  Stade Lausanne-Ouchy
+  18.30  FC Aarau                 3:1 (2:0)  Xamax Neuchâtel
+  19.00  Grasshoppers Zürich      2:1 (1:0)  FC Schaffhausen
 
 
 Spieltag 7
 [Do 29.10.]
-  20.00  Stade Lausanne-Ouchy     -  Grasshoppers Zürich
+  20.00  Stade Lausanne-Ouchy     1:2 (0:0)  Grasshoppers Zürich
 [Fr 30.10.]
-  19.00  FC Thun                  -  FC Aarau
-  20.00  Xamax Neuchâtel          -  FC Winterthur
+  20.00  FC Thun                  1:0 (0:0)  FC Aarau
 [Sa 31.10.]
-  17.30  FC Chiasso               -  FC Wil
-  19.00  FC Schaffhausen          -  SC Kriens
+  17.30  FC Chiasso               1:1 (0:0)  FC Wil
+  19.00  FC Schaffhausen          3:1 (1:0)  SC Kriens
 
 
 Spieltag 8
 [Mo 2.11.]
-  20.00  Grasshoppers Zürich      -  FC Thun
+  20.00  Grasshoppers Zürich      1:1 (0:0)  FC Thun
 [Di 3.11.]
-  19.30  FC Aarau                 -  SC Kriens
-         FC Chiasso               -  Xamax Neuchâtel
-  20.00  FC Wil                   -  FC Schaffhausen
-         FC Winterthur            -  Stade Lausanne-Ouchy
+  19.30  FC Aarau                 2:2 (1:1)  SC Kriens
+  20.00  FC Wil                   1:1 (0:0)  FC Schaffhausen
 
 
 Spieltag 9
-[Fr 6.11.]
-  19.00  Xamax Neuchâtel          -  Stade Lausanne-Ouchy
-  20.00  FC Aarau                 -  Grasshoppers Zürich
 [Sa 7.11.]
-  17.30  FC Wil                   -  FC Winterthur
-         SC Kriens                -  FC Chiasso
+  17.30  SC Kriens                0:0  FC Chiasso
 [So 8.11.]
-  14.45  FC Schaffhausen          -  FC Thun
+  14.45  FC Schaffhausen          1:1 (0:0)  FC Thun
 
 
 Spieltag 10
+[Fr 20.11.]
+  19.00  Stade Lausanne-Ouchy     -  FC Schaffhausen
+  20.00  FC Winterthur            -  SC Kriens
 [Sa 21.11.]
-  FC Chiasso               -  FC Aarau
-  FC Thun                  -  FC Wil
-  FC Winterthur            -  SC Kriens
-  Grasshoppers Zürich      -  Xamax Neuchâtel
-  Stade Lausanne-Ouchy     -  FC Schaffhausen
+  18.15  FC Thun                  -  FC Wil
+
+
+Spieltag 9
+[Mo 23.11.]
+  20.00  FC Aarau                 -  Grasshoppers Zürich
+
+
+Spieltag 8
+[Di 24.11.]
+  19.00  FC Winterthur            -  Stade Lausanne-Ouchy
+         FC Chiasso               -  Xamax Neuchâtel
 
 
 Spieltag 11
 [Sa 28.11.]
   FC Aarau                 -  FC Winterthur
-  FC Schaffhausen          -  Xamax Neuchâtel
-  FC Thun                  -  FC Chiasso
-  FC Wil                   -  Grasshoppers Zürich
   SC Kriens                -  Stade Lausanne-Ouchy
+  FC Schaffhausen          -  Xamax Neuchâtel
+  FC Wil                   -  Grasshoppers Zürich
+  FC Thun                  -  FC Chiasso
+
+
+Spieltag 6
+[Di 1.12.]
+  19.00  FC Winterthur            -  FC Chiasso
+
+
+Spieltag 9
+[Di 1.12.]
+  19.00  Xamax Neuchâtel          -  Stade Lausanne-Ouchy
 
 
 Spieltag 12
 [Sa 5.12.]
-  FC Chiasso               -  FC Schaffhausen
   FC Winterthur            -  FC Thun
-  Grasshoppers Zürich      -  SC Kriens
-  Stade Lausanne-Ouchy     -  FC Wil
   Xamax Neuchâtel          -  FC Aarau
+  FC Chiasso               -  FC Schaffhausen
+  Stade Lausanne-Ouchy     -  FC Wil
+  Grasshoppers Zürich      -  SC Kriens
+
+
+Spieltag 10
+[Mo 7.12.]
+  20.00  Grasshoppers Zürich      -  Xamax Neuchâtel
+[Di 8.12.]
+  19.00  FC Chiasso               -  FC Aarau
+
+
+Spieltag 9
+[Di 8.12.]
+  20.00  FC Wil                   -  FC Winterthur
 
 
 Spieltag 13
 [Sa 12.12.]
   FC Aarau                 -  Stade Lausanne-Ouchy
-  FC Thun                  -  Grasshoppers Zürich
-  FC Wil                   -  FC Chiasso
-  FC Winterthur            -  Xamax Neuchâtel
   SC Kriens                -  FC Schaffhausen
+  FC Winterthur            -  Xamax Neuchâtel
+  FC Wil                   -  FC Chiasso
+  FC Thun                  -  Grasshoppers Zürich
 
 
 Spieltag 14
 [Mi 16.12.]
-  FC Schaffhausen          -  FC Wil
+  SC Kriens                -  FC Aarau
+  Xamax Neuchâtel          -  FC Thun
   Grasshoppers Zürich      -  FC Chiasso
   Stade Lausanne-Ouchy     -  FC Winterthur
-  Xamax Neuchâtel          -  FC Thun
-  SC Kriens                -  FC Aarau
+  FC Schaffhausen          -  FC Wil
 
 
 Spieltag 15
 [Sa 19.12.]
+  FC Winterthur            -  FC Wil
   FC Aarau                 -  FC Thun
   FC Chiasso               -  SC Kriens
   FC Schaffhausen          -  Grasshoppers Zürich
-  FC Winterthur            -  FC Wil
   Stade Lausanne-Ouchy     -  Xamax Neuchâtel
+
+
+Spieltag 7
+[Di 22.12.]
+  19.00  Xamax Neuchâtel          -  FC Winterthur
 
 
 Spieltag 16
@@ -161,9 +190,9 @@ Spieltag 17
 [Sa 30.1.]
   FC Schaffhausen          -  FC Winterthur
   Grasshoppers Zürich      -  FC Aarau
-  Stade Lausanne-Ouchy     -  FC Thun
-  Xamax Neuchâtel          -  FC Chiasso
   SC Kriens                -  FC Wil
+  Xamax Neuchâtel          -  FC Chiasso
+  Stade Lausanne-Ouchy     -  FC Thun
 
 
 Spieltag 18

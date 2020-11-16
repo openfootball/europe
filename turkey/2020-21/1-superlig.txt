@@ -24,8 +24,8 @@ Round 2
 [Sat Sep/19]
   12.30  Gençlerbirliği Ankara SK  0-0  Konyaspor
   15.00  Denizlispor              0-0  Trabzonspor
-  18.00  Alanyaspor               2-0 (1-0)  Kayserispor
-         Beşiktaş İstanbul        1-1 (1-0)  Antalyaspor
+  18.00  Beşiktaş İstanbul        1-1 (1-0)  Antalyaspor
+         Alanyaspor               2-0 (1-0)  Kayserispor
 [Sun Sep/20]
   12.30  BB Erzurumspor           1-2 (0-0)  Sivasspor
   15.00  Kasımpaşa İstanbul       2-0 (1-0)  Çaykur Rizespor
@@ -40,13 +40,13 @@ Round 3
   19.00  Fatih Karagümrük         2-0 (0-0)  İstanbul Başakşehir
 [Sat Sep/26]
   12.30  Kayserispor              1-3 (0-2)  BB Erzurumspor
-  15.00  Göztepe İzmir            2-2 (0-1)  Gazişehir Gaziantep FK
-         Hatayspor                1-0 (0-0)  Kasımpaşa İstanbul
+  15.00  Hatayspor                1-0 (0-0)  Kasımpaşa İstanbul
+         Göztepe İzmir            2-2 (0-1)  Gazişehir Gaziantep FK
   18.00  Trabzonspor              3-1 (3-0)  Yeni Malatyaspor
 [Sun Sep/27]
   12.30  Çaykur Rizespor          1-1 (0-0)  Alanyaspor
-  15.00  Konyaspor                4-1 (1-0)  Beşiktaş İstanbul
-         Sivasspor                0-0  MKE Ankaragücü
+  15.00  Sivasspor                0-0  MKE Ankaragücü
+         Konyaspor                4-1 (1-0)  Beşiktaş İstanbul
   18.00  Galatasaray İstanbul     0-0  Fenerbahçe İstanbul
 [Mon Sep/28]
   19.00  Antalyaspor              1-0 (0-0)  Denizlispor
@@ -69,115 +69,141 @@ Round 4
 
 
 Round 5
+[Sat Oct/17]
+  12.30  Çaykur Rizespor          5-3 (2-3)  MKE Ankaragücü
+  15.00  Kayserispor              1-3 (0-1)  Sivasspor
+         Konyaspor                1-1 (0-0)  Yeni Malatyaspor
+  18.00  Trabzonspor              0-2 (0-1)  İstanbul Başakşehir
 [Sun Oct/18]
-  Antalyaspor              -  Gazişehir Gaziantep FK
-  Çaykur Rizespor          -  MKE Ankaragücü
-  Galatasaray İstanbul     -  Alanyaspor
-  Gençlerbirliği Ankara SK  -  Denizlispor
-  Göztepe İzmir            -  Fenerbahçe İstanbul
-  Hatayspor                -  BB Erzurumspor
-  Fatih Karagümrük         -  Kasımpaşa İstanbul
-  Kayserispor              -  Sivasspor
-  Konyaspor                -  Yeni Malatyaspor
-  Trabzonspor              -  İstanbul Başakşehir
+  15.00  Antalyaspor              1-1 (1-0)  Gazişehir Gaziantep FK
+         Fatih Karagümrük         1-1 (1-0)  Kasımpaşa İstanbul
+  18.00  Göztepe İzmir            2-3 (1-2)  Fenerbahçe İstanbul
+[Mon Oct/19]
+  19.00  Galatasaray İstanbul     1-2 (1-1)  Alanyaspor
+         Gençlerbirliği Ankara SK  1-2 (0-2)  Denizlispor
 
 
 Round 6
-[Sun Oct/25]
-  Alanyaspor               -  Fatih Karagümrük
+[Fri Oct/23]
+  19.00  Kasımpaşa İstanbul       0-0  Göztepe İzmir
+[Sat Oct/24]
+  15.00  Gazişehir Gaziantep FK   1-0 (0-0)  Konyaspor
+  18.00  İstanbul Başakşehir      5-1 (4-1)  Antalyaspor
   MKE Ankaragücü           -  Hatayspor
-  Denizlispor              -  Beşiktaş İstanbul
-  BB Erzurumspor           -  Galatasaray İstanbul
-  Fenerbahçe İstanbul      -  Trabzonspor
-  Gazişehir Gaziantep FK   -  Konyaspor
-  İstanbul Başakşehir      -  Antalyaspor
-  Kasımpaşa İstanbul       -  Göztepe İzmir
-  Sivasspor                -  Çaykur Rizespor
-  Yeni Malatyaspor         -  Gençlerbirliği Ankara SK
+  18.00  BB Erzurumspor           1-2 (1-1)  Galatasaray İstanbul
+[Sun Oct/25]
+  11.30  Yeni Malatyaspor         2-1 (1-1)  Gençlerbirliği Ankara SK
+  14.00  Alanyaspor               2-0 (1-0)  Fatih Karagümrük
+  17.00  Fenerbahçe İstanbul      3-1 (0-1)  Trabzonspor
+[Mon Oct/26]
+  18.00  Denizlispor              2-3 (0-2)  Beşiktaş İstanbul
+         Sivasspor                0-2 (0-1)  Çaykur Rizespor
 
 
 Round 7
+[Fri Oct/30]
+  18.00  Fatih Karagümrük         5-1 (3-0)  BB Erzurumspor
+         Trabzonspor              3-4 (3-2)  Kasımpaşa İstanbul
+[Sat Oct/31]
+  11.30  Gençlerbirliği Ankara SK  1-1 (0-1)  Gazişehir Gaziantep FK
+  17.00  Galatasaray İstanbul     1-0 (1-0)  MKE Ankaragücü
 [Sun Nov/1]
-  Antalyaspor              -  Fenerbahçe İstanbul
-  Beşiktaş İstanbul        -  Yeni Malatyaspor
-  Çaykur Rizespor          -  Kayserispor
-  Galatasaray İstanbul     -  MKE Ankaragücü
-  Gençlerbirliği Ankara SK  -  Gazişehir Gaziantep FK
-  Göztepe İzmir            -  Alanyaspor
-  Hatayspor                -  Sivasspor
-  Fatih Karagümrük         -  BB Erzurumspor
-  Konyaspor                -  İstanbul Başakşehir
-  Trabzonspor              -  Kasımpaşa İstanbul
+  11.30  Çaykur Rizespor          1-0 (1-0)  Kayserispor
+  14.00  Konyaspor                1-2 (0-1)  İstanbul Başakşehir
+  17.00  Beşiktaş İstanbul        1-0 (0-0)  Yeni Malatyaspor
+[Mon Nov/2]
+  18.00  Antalyaspor              1-2 (0-0)  Fenerbahçe İstanbul
+         Hatayspor                1-1 (1-1)  Sivasspor
 
 
 Round 8
+[Fri Nov/6]
+  18.00  Gazişehir Gaziantep FK   3-1 (1-0)  Beşiktaş İstanbul
+[Sat Nov/7]
+  11.30  Kasımpaşa İstanbul       2-2 (1-0)  Antalyaspor
+  14.00  BB Erzurumspor           1-1 (0-1)  Göztepe İzmir
+         Alanyaspor               1-1 (0-0)  Trabzonspor
+  17.00  Fenerbahçe İstanbul      0-2 (0-0)  Konyaspor
 [Sun Nov/8]
-  Alanyaspor               -  Trabzonspor
-  MKE Ankaragücü           -  Fatih Karagümrük
-  BB Erzurumspor           -  Göztepe İzmir
-  Fenerbahçe İstanbul      -  Konyaspor
-  Gazişehir Gaziantep FK   -  Beşiktaş İstanbul
-  İstanbul Başakşehir      -  Gençlerbirliği Ankara SK
-  Kasımpaşa İstanbul       -  Antalyaspor
-  Kayserispor              -  Hatayspor
-  Sivasspor                -  Galatasaray İstanbul
-  Yeni Malatyaspor         -  Denizlispor
+  11.30  Yeni Malatyaspor         2-0 (2-0)  Denizlispor
+         MKE Ankaragücü           2-2 (1-2)  Fatih Karagümrük
+  14.00  Kayserispor              0-1 (0-0)  Hatayspor
+         İstanbul Başakşehir      2-1 (0-1)  Gençlerbirliği Ankara SK
+  17.00  Sivasspor                1-2 (0-1)  Galatasaray İstanbul
 
 
 Round 9
+[Sat Nov/21]
+  11.30  Fatih Karagümrük         -  Sivasspor
+  14.00  Gençlerbirliği Ankara SK  -  Fenerbahçe İstanbul
+         Denizlispor              -  Gazişehir Gaziantep FK
+  17.00  Beşiktaş İstanbul        -  İstanbul Başakşehir
 [Sun Nov/22]
-  Antalyaspor              -  Alanyaspor
-  Beşiktaş İstanbul        -  İstanbul Başakşehir
-  Denizlispor              -  Gazişehir Gaziantep FK
-  Galatasaray İstanbul     -  Kayserispor
-  Gençlerbirliği Ankara SK  -  Fenerbahçe İstanbul
-  Göztepe İzmir            -  MKE Ankaragücü
-  Hatayspor                -  Çaykur Rizespor
-  Fatih Karagümrük         -  Sivasspor
-  Konyaspor                -  Kasımpaşa İstanbul
-  Trabzonspor              -  BB Erzurumspor
+  11.30  Hatayspor                -  Çaykur Rizespor
+  14.00  Göztepe İzmir            -  MKE Ankaragücü
+         Konyaspor                -  Kasımpaşa İstanbul
+  17.00  Antalyaspor              -  Alanyaspor
+         Trabzonspor              -  BB Erzurumspor
+[Mon Nov/23]
+  17.30  Galatasaray İstanbul     -  Kayserispor
 
 
 Round 10
+[Fri Nov/27]
+  17.30  MKE Ankaragücü           -  Trabzonspor
+[Sat Nov/28]
+  11.30  Gazişehir Gaziantep FK   -  Yeni Malatyaspor
+  14.00  İstanbul Başakşehir      -  Denizlispor
+  17.00  Çaykur Rizespor          -  Galatasaray İstanbul
 [Sun Nov/29]
-  Alanyaspor               -  Konyaspor
-  MKE Ankaragücü           -  Trabzonspor
-  Çaykur Rizespor          -  Galatasaray İstanbul
-  BB Erzurumspor           -  Antalyaspor
-  Fenerbahçe İstanbul      -  Beşiktaş İstanbul
-  Gazişehir Gaziantep FK   -  Yeni Malatyaspor
-  İstanbul Başakşehir      -  Denizlispor
-  Kasımpaşa İstanbul       -  Gençlerbirliği Ankara SK
-  Kayserispor              -  Fatih Karagümrük
-  Sivasspor                -  Göztepe İzmir
+  11.30  BB Erzurumspor           -  Antalyaspor
+  14.00  Kasımpaşa İstanbul       -  Gençlerbirliği Ankara SK
+         Alanyaspor               -  Konyaspor
+  17.00  Fenerbahçe İstanbul      -  Beşiktaş İstanbul
+[Mon Nov/30]
+  17.30  Sivasspor                -  Göztepe İzmir
+         Kayserispor              -  Fatih Karagümrük
 
 
 Round 11
+[Fri Dec/4]
+  17.30  Beşiktaş İstanbul        -  Kasımpaşa İstanbul
+[Sat Dec/5]
+  11.30  Göztepe İzmir            -  Kayserispor
+         Gençlerbirliği Ankara SK  -  Alanyaspor
+  14.00  Yeni Malatyaspor         -  İstanbul Başakşehir
+         Konyaspor                -  BB Erzurumspor
+  17.00  Galatasaray İstanbul     -  Hatayspor
 [Sun Dec/6]
-  Antalyaspor              -  MKE Ankaragücü
-  Beşiktaş İstanbul        -  Kasımpaşa İstanbul
-  Denizlispor              -  Fenerbahçe İstanbul
-  Galatasaray İstanbul     -  Hatayspor
-  Gençlerbirliği Ankara SK  -  Alanyaspor
-  Göztepe İzmir            -  Kayserispor
-  Fatih Karagümrük         -  Çaykur Rizespor
-  Konyaspor                -  BB Erzurumspor
-  Trabzonspor              -  Sivasspor
-  Yeni Malatyaspor         -  İstanbul Başakşehir
+  11.30  Fatih Karagümrük         -  Çaykur Rizespor
+  14.00  Antalyaspor              -  MKE Ankaragücü
+  17.00  Denizlispor              -  Fenerbahçe İstanbul
+[Mon Dec/7]
+  17.30  Trabzonspor              -  Sivasspor
+
+
+Round 5
+[Wed Dec/9]
+  17.30  Hatayspor                -  BB Erzurumspor
+
+
+Round 7
+[Wed Dec/9]
+  17.30  Göztepe İzmir            -  Alanyaspor
 
 
 Round 12
 [Sun Dec/13]
-  Alanyaspor               -  Beşiktaş İstanbul
+  BB Erzurumspor           -  Gençlerbirliği Ankara SK
   MKE Ankaragücü           -  Konyaspor
   Çaykur Rizespor          -  Göztepe İzmir
-  BB Erzurumspor           -  Gençlerbirliği Ankara SK
+  Alanyaspor               -  Beşiktaş İstanbul
   Fenerbahçe İstanbul      -  Yeni Malatyaspor
   Hatayspor                -  Fatih Karagümrük
   İstanbul Başakşehir      -  Gazişehir Gaziantep FK
   Kasımpaşa İstanbul       -  Denizlispor
-  Kayserispor              -  Trabzonspor
   Sivasspor                -  Antalyaspor
+  Kayserispor              -  Trabzonspor
 
 
 Round 13
@@ -185,13 +211,13 @@ Round 13
   Antalyaspor              -  Kayserispor
   Beşiktaş İstanbul        -  BB Erzurumspor
   Denizlispor              -  Alanyaspor
+  Yeni Malatyaspor         -  Kasımpaşa İstanbul
   Gazişehir Gaziantep FK   -  Fenerbahçe İstanbul
-  Gençlerbirliği Ankara SK  -  MKE Ankaragücü
   Göztepe İzmir            -  Hatayspor
   Fatih Karagümrük         -  Galatasaray İstanbul
   Konyaspor                -  Sivasspor
   Trabzonspor              -  Çaykur Rizespor
-  Yeni Malatyaspor         -  Kasımpaşa İstanbul
+  Gençlerbirliği Ankara SK  -  MKE Ankaragücü
 
 
 Round 14
@@ -204,8 +230,8 @@ Round 14
   Galatasaray İstanbul     -  Göztepe İzmir
   Hatayspor                -  Trabzonspor
   Kasımpaşa İstanbul       -  Gazişehir Gaziantep FK
-  Kayserispor              -  Konyaspor
   Sivasspor                -  Gençlerbirliği Ankara SK
+  Kayserispor              -  Konyaspor
 
 
 Round 15
@@ -241,13 +267,13 @@ Round 17
   Antalyaspor              -  Fatih Karagümrük
   Beşiktaş İstanbul        -  Çaykur Rizespor
   Denizlispor              -  Kayserispor
+  Yeni Malatyaspor         -  Sivasspor
   Fenerbahçe İstanbul      -  Alanyaspor
-  Gazişehir Gaziantep FK   -  MKE Ankaragücü
   Gençlerbirliği Ankara SK  -  Hatayspor
   İstanbul Başakşehir      -  BB Erzurumspor
   Konyaspor                -  Galatasaray İstanbul
   Trabzonspor              -  Göztepe İzmir
-  Yeni Malatyaspor         -  Sivasspor
+  Gazişehir Gaziantep FK   -  MKE Ankaragücü
 
 
 Round 18

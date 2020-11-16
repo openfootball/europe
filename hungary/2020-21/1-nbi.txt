@@ -9,7 +9,6 @@ Round 1
   18.35  Zalaegerszegi TE         3-3 (2-2)  Videoton FC
 [Sun Aug/16]
   16.55  Diósgyőri VTK            2-1 (2-1)  Mezőkövesd Zsóry SE
-  Puskás Akadémia FC       -  Budapest Honvéd FC
 [Mon Aug/17]
   19.00  Budafoki MTE             2-1 (1-1)  Kisvárda FC
 
@@ -19,8 +18,8 @@ Round 2
   16.30  Mezőkövesd Zsóry SE      1-1 (0-1)  Zalaegerszegi TE
   19.00  MTK Budapest             3-1 (1-1)  Budapest Honvéd FC
 [Sat Aug/22]
-  21.00  Videoton FC              1-1 (0-0)  Paksi SE
   Ferencvárosi TC          -  Diósgyőri VTK
+  21.00  Videoton FC              1-1 (0-0)  Paksi SE
 [Sun Aug/23]
   17.45  Újpest FC                1-1 (1-0)  Budafoki MTE
 
@@ -31,8 +30,8 @@ Round 3
 [Sat Aug/29]
   20.30  Paksi SE                 1-2 (0-2)  Mezőkövesd Zsóry SE
 [Sun Aug/30]
-  17.45  Budafoki MTE             1-4 (0-1)  Videoton FC
-         Zalaegerszegi TE         1-2 (0-1)  Ferencvárosi TC
+  17.45  Zalaegerszegi TE         1-2 (0-1)  Ferencvárosi TC
+         Budafoki MTE             1-4 (0-1)  Videoton FC
   20.00  Puskás Akadémia FC       3-2 (1-1)  Újpest FC
          Budapest Honvéd FC       1-2 (1-2)  Kisvárda FC
 
@@ -77,103 +76,129 @@ Round 6
 
 
 Round 7
+[Fri Oct/16]
+  20.00  Kisvárda FC              0-2 (0-0)  Ferencvárosi TC
 [Sat Oct/17]
-  Budapest Honvéd FC       -  Videoton FC
-  Kisvárda FC              -  Ferencvárosi TC
-  Puskás Akadémia FC       -  MTK Budapest
-  Budafoki MTE             -  Diósgyőri VTK
-  Paksi SE                 -  Zalaegerszegi TE
-  Újpest FC                -  Mezőkövesd Zsóry SE
+  14.45  Budafoki MTE             2-1 (1-0)  Diósgyőri VTK
+  17.00  Újpest FC                1-0 (0-0)  Mezőkövesd Zsóry SE
+  19.30  Puskás Akadémia FC       0-3 (0-2)  MTK Budapest
+[Sun Oct/18]
+  14.30  Paksi SE                 3-1 (1-1)  Zalaegerszegi TE
+  17.00  Budapest Honvéd FC       2-2 (1-0)  Videoton FC
 
 
 Round 8
 [Sat Oct/24]
-  MTK Budapest             -  Kisvárda FC
-  Mezőkövesd Zsóry SE      -  Videoton FC
-  Paksi SE                 -  Budapest Honvéd FC
-  Zalaegerszegi TE         -  Budafoki MTE
-  Diósgyőri VTK            -  Puskás Akadémia FC
-  Ferencvárosi TC          -  Újpest FC
+  14.45  MTK Budapest             1-1 (1-0)  Kisvárda FC
+  17.00  Paksi SE                 0-0  Budapest Honvéd FC
+  19.30  Ferencvárosi TC          2-0 (1-0)  Újpest FC
+[Sun Oct/25]
+  14.30  Zalaegerszegi TE         1-3 (1-2)  Budafoki MTE
+  17.00  Mezőkövesd Zsóry SE      1-2 (0-1)  Videoton FC
+  19.30  Diósgyőri VTK            3-0 (3-0)  Puskás Akadémia FC
 
 
 Round 9
 [Sat Oct/31]
-  Kisvárda FC              -  Diósgyőri VTK
-  Budapest Honvéd FC       -  Mezőkövesd Zsóry SE
-  Puskás Akadémia FC       -  Zalaegerszegi TE
-  Budafoki MTE             -  Paksi SE
-  Videoton FC              -  Ferencvárosi TC
-  Újpest FC                -  MTK Budapest
+  14.45  Puskás Akadémia FC       1-2 (1-1)  Zalaegerszegi TE
+  17.00  Budapest Honvéd FC       1-1 (0-0)  Mezőkövesd Zsóry SE
+  19.30  Videoton FC              1-1 (0-1)  Ferencvárosi TC
+[Sun Nov/1]
+  14.05  Budafoki MTE             2-3 (2-3)  Paksi SE
+  16.00  Újpest FC                0-4 (0-3)  MTK Budapest
+  18.30  Kisvárda FC              1-0 (0-0)  Diósgyőri VTK
+
+
+Round 1
+[Wed Nov/4]
+  15.30  Puskás Akadémia FC       1-0 (0-0)  Budapest Honvéd FC
 
 
 Round 10
+[Fri Nov/6]
+  20.00  Diósgyőri VTK            3-0  Újpest FC                [awarded]
 [Sat Nov/7]
-  Diósgyőri VTK            -  Újpest FC
-  Ferencvárosi TC          -  Mezőkövesd Zsóry SE
-  Budafoki MTE             -  Budapest Honvéd FC
-  Paksi SE                 -  Puskás Akadémia FC
-  Zalaegerszegi TE         -  Kisvárda FC
-  MTK Budapest             -  Videoton FC
+  14.45  Paksi SE                 6-2 (3-1)  Puskás Akadémia FC
+  19.45  MTK Budapest             3-1 (1-0)  Videoton FC
+[Sun Nov/8]
+  14.30  Zalaegerszegi TE         1-2 (0-1)  Kisvárda FC
+  17.00  Ferencvárosi TC          3-0 (3-0)  Mezőkövesd Zsóry SE
 
 
 Round 11
+[Fri Nov/20]
+  20.00  Kisvárda FC              -  Paksi SE
 [Sat Nov/21]
-  Újpest FC                -  Zalaegerszegi TE
-  Budapest Honvéd FC       -  Ferencvárosi TC
-  Puskás Akadémia FC       -  Budafoki MTE
-  Kisvárda FC              -  Paksi SE
-  Videoton FC              -  Diósgyőri VTK
-  Mezőkövesd Zsóry SE      -  MTK Budapest
+  14.45  Puskás Akadémia FC       -  Budafoki MTE
+  17.00  Mezőkövesd Zsóry SE      -  MTK Budapest
+  19.30  Budapest Honvéd FC       -  Ferencvárosi TC
+[Sun Nov/22]
+  14.30  Újpest FC                -  Zalaegerszegi TE
+  17.00  Videoton FC              -  Diósgyőri VTK
 
 
 Round 12
+[Fri Nov/27]
+  20.00  Újpest FC                -  Paksi SE
 [Sat Nov/28]
-  Mezőkövesd Zsóry SE      -  Diósgyőri VTK
-  Ferencvárosi TC          -  MTK Budapest
-  Budapest Honvéd FC       -  Puskás Akadémia FC
-  Kisvárda FC              -  Budafoki MTE
-  Újpest FC                -  Paksi SE
-  Videoton FC              -  Zalaegerszegi TE
+  14.45  Kisvárda FC              -  Budafoki MTE
+  17.00  Videoton FC              -  Zalaegerszegi TE
+  19.30  Ferencvárosi TC          -  MTK Budapest
+[Sun Nov/29]
+  14.05  Mezőkövesd Zsóry SE      -  Diósgyőri VTK
+  18.45  Budapest Honvéd FC       -  Puskás Akadémia FC
 
 
 Round 13
+[Fri Dec/4]
+  20.00  Budafoki MTE             -  Újpest FC
 [Sat Dec/5]
-  Budafoki MTE             -  Újpest FC
-  Budapest Honvéd FC       -  MTK Budapest
-  Diósgyőri VTK            -  Ferencvárosi TC
-  Puskás Akadémia FC       -  Kisvárda FC
-  Paksi SE                 -  Videoton FC
-  Zalaegerszegi TE         -  Mezőkövesd Zsóry SE
+  14.45  Zalaegerszegi TE         -  Mezőkövesd Zsóry SE
+  17.00  Diósgyőri VTK            -  Ferencvárosi TC
+  19.30  Puskás Akadémia FC       -  Kisvárda FC
+[Sun Dec/6]
+  15.15  Budapest Honvéd FC       -  MTK Budapest
+  17.30  Paksi SE                 -  Videoton FC
 
 
 Round 14
+[Fri Dec/11]
+  20.00  Újpest FC                -  Puskás Akadémia FC
 [Sat Dec/12]
-  MTK Budapest             -  Diósgyőri VTK
-  Kisvárda FC              -  Budapest Honvéd FC
-  Újpest FC                -  Puskás Akadémia FC
-  Videoton FC              -  Budafoki MTE
-  Mezőkövesd Zsóry SE      -  Paksi SE
-  Ferencvárosi TC          -  Zalaegerszegi TE
+  14.45  Kisvárda FC              -  Budapest Honvéd FC
+  17.00  Ferencvárosi TC          -  Zalaegerszegi TE
+  19.30  Videoton FC              -  Budafoki MTE
+[Sun Dec/13]
+  14.30  Mezőkövesd Zsóry SE      -  Paksi SE
+  17.00  MTK Budapest             -  Diósgyőri VTK
 
 
 Round 15
+[Tue Dec/15]
+  18.00  Kisvárda FC              -  Újpest FC
+  20.15  Puskás Akadémia FC       -  Videoton FC
 [Wed Dec/16]
-  Zalaegerszegi TE         -  MTK Budapest
-  Kisvárda FC              -  Újpest FC
-  Budapest Honvéd FC       -  Diósgyőri VTK
-  Puskás Akadémia FC       -  Videoton FC
-  Paksi SE                 -  Ferencvárosi TC
-  Budafoki MTE             -  Mezőkövesd Zsóry SE
+  18.00  Zalaegerszegi TE         -  MTK Budapest
+         Budapest Honvéd FC       -  Diósgyőri VTK
+  20.15  Paksi SE                 -  Ferencvárosi TC
+         Budafoki MTE             -  Mezőkövesd Zsóry SE
 
 
 Round 16
+[Fri Dec/18]
+  20.00  Videoton FC              -  Kisvárda FC
 [Sat Dec/19]
-  Videoton FC              -  Kisvárda FC
-  Újpest FC                -  Budapest Honvéd FC
-  Mezőkövesd Zsóry SE      -  Puskás Akadémia FC
-  Ferencvárosi TC          -  Budafoki MTE
-  MTK Budapest             -  Paksi SE
-  Diósgyőri VTK            -  Zalaegerszegi TE
+  14.45  MTK Budapest             -  Paksi SE
+  17.00  Diósgyőri VTK            -  Zalaegerszegi TE
+  19.30  Ferencvárosi TC          -  Budafoki MTE
+[Sun Dec/20]
+  14.30  Mezőkövesd Zsóry SE      -  Puskás Akadémia FC
+  17.00  Újpest FC                -  Budapest Honvéd FC
+
+
+Round 10
+[Wed Dec/23]
+  17.00  Budafoki MTE             -  Budapest Honvéd FC
 
 
 Round 17

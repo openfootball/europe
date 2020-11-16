@@ -6,7 +6,6 @@ Jornada 1
   19.00  FC Famalicão             1-5 (0-3)  SL Benfica
   21.15  Vitória de Guimarães     0-1 (0-0)  Os Belenenses
 [Sáb, 19/Set]
-  Sporting CP              -  Gil Vicente FC
   16.00  CD Nacional Madeira      3-3 (2-2)  Boavista FC
   21.00  FC Porto                 3-1 (2-1)  SC Braga
 [Dom, 20/Set]
@@ -49,81 +48,106 @@ Jornada 3
 
 
 Jornada 4
+[Sáb, 17/Out]
+  15.30  Gil Vicente FC           1-1 (1-0)  CD Tondela
+         CS Marítimo              1-2 (0-0)  Portimonense SC
+  18.00  SC Braga                 2-1 (2-0)  CD Nacional Madeira
+  20.30  Sporting CP              2-2 (1-2)  FC Porto
 [Dom, 18/Out]
-  Boavista FC              -  Vitória de Guimarães
-  SC Farense               -  FC Famalicão
-  Rio Ave FC               -  SL Benfica
-  Gil Vicente FC           -  CD Tondela
-  CS Marítimo              -  Portimonense SC
-  Os Belenenses            -  Moreirense FC
-  FC Paços de Ferreira     -  CD Santa Clara
-  SC Braga                 -  CD Nacional Madeira
-  Sporting CP              -  FC Porto
+  15.00  Os Belenenses            0-0  Moreirense FC
+         FC Paços de Ferreira     2-1 (1-0)  CD Santa Clara
+  17.30  SC Farense               3-3 (2-0)  FC Famalicão
+  20.00  Rio Ave FC               0-3 (0-2)  SL Benfica
+[Seg, 19/Out]
+  20.15  Boavista FC              0-1 (0-1)  Vitória de Guimarães
 
 
 Jornada 5
+[Sex, 23/Out]
+  20.30  CD Tondela               1-0 (1-0)  Portimonense SC
+[Sáb, 24/Out]
+  15.30  CD Nacional Madeira      1-1 (0-0)  FC Paços de Ferreira
+  18.00  CD Santa Clara           1-2 (1-1)  Sporting CP
+  20.30  FC Porto                 1-0 (1-0)  Gil Vicente FC
 [Dom, 25/Out]
-  SL Benfica               -  Os Belenenses
-  CD Santa Clara           -  Sporting CP
-  CD Tondela               -  Portimonense SC
-  SC Farense               -  Rio Ave FC
-  FC Famalicão             -  Boavista FC
-  Moreirense FC            -  CS Marítimo
-  FC Porto                 -  Gil Vicente FC
-  CD Nacional Madeira      -  FC Paços de Ferreira
-  Vitória de Guimarães     -  SC Braga
+  15.00  SC Farense               0-1 (0-1)  Rio Ave FC
+         Moreirense FC            2-1 (2-0)  CS Marítimo
+  17.30  FC Famalicão             2-2 (0-0)  Boavista FC
+  20.00  Vitória de Guimarães     0-1 (0-1)  SC Braga
+[Seg, 26/Out]
+  20.15  SL Benfica               2-0 (1-0)  Os Belenenses
+
+
+Jornada 1
+[Qua, 28/Out]
+  21.45  Sporting CP              3-1 (0-0)  Gil Vicente FC
 
 
 Jornada 6
+[Sex, 30/Out]
+  20.30  FC Paços de Ferreira     3-2 (2-1)  FC Porto
+[Sáb, 31/Out]
+  15.30  Os Belenenses            1-1 (0-0)  SC Farense
+  18.00  Rio Ave FC               2-0 (1-0)  Moreirense FC
+  20.30  CS Marítimo              0-0  CD Nacional Madeira
 [Dom, 1/Nov]
-  Boavista FC              -  SL Benfica
-  Rio Ave FC               -  Moreirense FC
-  Gil Vicente FC           -  Vitória de Guimarães
-  CS Marítimo              -  CD Nacional Madeira
-  Os Belenenses            -  SC Farense
-  FC Paços de Ferreira     -  FC Porto
-  Portimonense SC          -  CD Santa Clara
-  SC Braga                 -  FC Famalicão
-  Sporting CP              -  CD Tondela
+  15.00  Portimonense SC          1-2 (0-1)  CD Santa Clara
+  17.30  Gil Vicente FC           1-2 (0-1)  Vitória de Guimarães
+  20.00  Sporting CP              4-0 (1-0)  CD Tondela
+[Seg, 2/Nov]
+  18.45  SC Braga                 1-0 (0-0)  FC Famalicão
+  21.00  Boavista FC              3-0 (2-0)  SL Benfica
 
 
 Jornada 7
+[Sex, 6/Nov]
+  20.30  Os Belenenses            0-0  Rio Ave FC
+[Sáb, 7/Nov]
+  15.00  CD Tondela               2-0 (1-0)  CD Santa Clara
+  18.00  FC Famalicão             2-1 (2-1)  CS Marítimo
+  20.30  Vitória de Guimarães     0-4 (0-2)  Sporting CP
 [Dom, 8/Nov]
-  SL Benfica               -  SC Braga
-  CD Tondela               -  CD Santa Clara
-  SC Farense               -  Boavista FC
-  FC Famalicão             -  CS Marítimo
-  Moreirense FC            -  FC Paços de Ferreira
-  FC Porto                 -  Portimonense SC
-  CD Nacional Madeira      -  Gil Vicente FC
-  Os Belenenses            -  Rio Ave FC
-  Vitória de Guimarães     -  Sporting CP
+  15.00  SC Farense               3-1 (1-1)  Boavista FC
+         CD Nacional Madeira      2-1 (0-1)  Gil Vicente FC
+  17.30  FC Porto                 3-1 (1-1)  Portimonense SC
+  20.00  SL Benfica               2-3 (0-1)  SC Braga
 
 
 Jornada 8
+[Sex, 27/Nov]
+  20.30  CD Tondela               -  Vitória de Guimarães
+[Sáb, 28/Nov]
+  15.30  FC Paços de Ferreira     -  FC Famalicão
+  18.00  CD Santa Clara           -  FC Porto
+  20.30  Sporting CP              -  Moreirense FC
 [Dom, 29/Nov]
-  Boavista FC              -  Os Belenenses
-  CD Santa Clara           -  FC Porto
-  CD Tondela               -  Vitória de Guimarães
-  Gil Vicente FC           -  Rio Ave FC
-  CS Marítimo              -  SL Benfica
-  FC Paços de Ferreira     -  FC Famalicão
-  Portimonense SC          -  CD Nacional Madeira
-  SC Braga                 -  SC Farense
-  Sporting CP              -  Moreirense FC
+  15.00  Portimonense SC          -  CD Nacional Madeira
+         Gil Vicente FC           -  Rio Ave FC
+  17.30  Boavista FC              -  Os Belenenses
+  20.00  SC Braga                 -  SC Farense
+[Seg, 30/Nov]
+  19.00  CS Marítimo              -  SL Benfica
+
+
+Jornada 7
+[Ter, 1/Dez]
+  21.45  Moreirense FC            -  FC Paços de Ferreira
 
 
 Jornada 9
+[Sex, 4/Dez]
+  20.30  Moreirense FC            -  Gil Vicente FC
+[Sáb, 5/Dez]
+  15.30  Vitória de Guimarães     -  Portimonense SC
+  18.00  FC Famalicão             -  Sporting CP
+  20.30  FC Porto                 -  CD Tondela
 [Dom, 6/Dez]
-  SL Benfica               -  FC Paços de Ferreira
-  SC Farense               -  CS Marítimo
-  FC Famalicão             -  Sporting CP
-  Moreirense FC            -  Gil Vicente FC
-  FC Porto                 -  CD Tondela
-  CD Nacional Madeira      -  CD Santa Clara
-  Os Belenenses            -  SC Braga
-  Vitória de Guimarães     -  Portimonense SC
-  Rio Ave FC               -  Boavista FC
+  15.00  CD Nacional Madeira      -  CD Santa Clara
+  17.30  Rio Ave FC               -  Boavista FC
+  20.00  SL Benfica               -  FC Paços de Ferreira
+         Os Belenenses            -  SC Braga
+[Seg, 7/Dez]
+  20.15  SC Farense               -  CS Marítimo
 
 
 Jornada 10

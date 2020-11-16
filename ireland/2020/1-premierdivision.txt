@@ -161,49 +161,65 @@ Round 14
 
 Round 15
 [Fri Oct/9]
-  18.45  Bohemian FC              -  Cork City FC
-  20.45  St Patrick's Athletic FC  -  Dundalk FC
+  18.45  Bohemian FC              3-0 (2-0)  Cork City FC
 [Sat Oct/10]
-  18.00  Waterford FC             -  Shelbourne FC
-  20.30  Finn Harps FC            -  Shamrock Rovers FC
+  18.00  Waterford FC             0-1 (0-0)  Shelbourne FC
 
 
 Round 12
 [Tue Oct/13]
-  20.45  Cork City FC             -  Dundalk FC
+  20.45  Cork City FC             0-2 (0-0)  Dundalk FC
 
 
 Round 16
 [Fri Oct/16]
-  18.45  Dundalk FC               -  Bohemian FC
-  20.45  Shamrock Rovers FC       -  Derry City FC
+  18.45  Dundalk FC               0-0  Bohemian FC
 [Sat Oct/17]
-  18.00  Cork City FC             -  Waterford FC
-  20.30  Finn Harps FC            -  St Patrick's Athletic FC
+  18.00  Cork City FC             0-0  Waterford FC
 [Sun Oct/18]
-  18.00  Shelbourne FC            -  Sligo Rovers FC
+  18.00  Shelbourne FC            1-0 (1-0)  Sligo Rovers FC
 
 
 Round 10
 [Mon Oct/19]
-  20.45  Derry City FC            -  Dundalk FC
+  18.45  Derry City FC            1-2 (1-2)  Dundalk FC
 
 
 Round 17
 [Fri Oct/23]
-  18.45  Bohemian FC              -  Finn Harps FC
-  21.00  Shamrock Rovers FC       -  St Patrick's Athletic FC
+  20.45  Derry City FC            2-0 (1-0)  Shelbourne FC
 [Sat Oct/24]
-  20.30  Waterford FC             -  Dundalk FC
-  20.45  Sligo Rovers FC          -  Cork City FC
+  18.00  Sligo Rovers FC          2-1 (1-0)  Cork City FC
+  20.30  Bohemian FC              0-2 (0-1)  Finn Harps FC
 [Sun Oct/25]
-  18.00  Derry City FC            -  Shelbourne FC
+  15.00  Waterford FC             1-0 (0-0)  Dundalk FC
+
+
+Round 16
+[Wed Oct/28]
+  20.45  Finn Harps FC            3-2 (2-1)  St Patrick's Athletic FC
+
+
+Round 15
+[Sun Nov/1]
+  18.45  St Patrick's Athletic FC  1-1 (0-1)  Dundalk FC
+  20.45  Finn Harps FC            0-2 (0-1)  Shamrock Rovers FC
+
+
+Round 17
+[Wed Nov/4]
+  20.45  Shamrock Rovers FC       0-0  St Patrick's Athletic FC
+
+
+Round 16
+[Sat Nov/7]
+  16.00  Shamrock Rovers FC       2-0 (0-0)  Derry City FC
 
 
 Round 18
-[Fri Oct/30]
-  20.45  Cork City FC             -  Derry City FC
-         Dundalk FC               -  Sligo Rovers FC
-         St Patrick's Athletic FC  -  Bohemian FC
-         Shelbourne FC            -  Shamrock Rovers FC
-         Finn Harps FC            -  Waterford FC
+[Mon Nov/9]
+  20.30  Cork City FC             1-1 (0-0)  Derry City FC
+         Dundalk FC               0-2 (0-1)  Sligo Rovers FC
+         St Patrick's Athletic FC  1-2 (1-1)  Bohemian FC
+         Shelbourne FC            0-2 (0-1)  Shamrock Rovers FC
+         Finn Harps FC            1-0 (1-0)  Waterford FC

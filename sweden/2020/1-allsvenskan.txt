@@ -311,96 +311,97 @@ Round 23
 
 Round 24
 [Sat Oct/17]
-  15.00  Falkenbergs FF           -  Örebro SK
+  15.00  Falkenbergs FF           2-1 (0-0)  Örebro SK
 [Sun Oct/18]
-  14.30  IK Sirius                -  Östersunds FK
-         Hammarby IF              -  Mjällby AIF
-         IF Elfsborg              -  Kalmar FF
-  17.30  AIK                      -  IFK Göteborg
-         Varbergs BoIS            -  IFK Norrköping
+  14.30  Hammarby IF              4-2 (3-1)  Mjällby AIF
+         IF Elfsborg              3-1 (2-0)  Kalmar FF
+         IK Sirius                2-3 (0-1)  Östersunds FK
+  17.30  AIK                      2-0 (1-0)  IFK Göteborg
+         Varbergs BoIS            1-3 (1-2)  IFK Norrköping
 [Mon Oct/19]
-  19.00  Helsingborgs IF          -  BK Häcken
-         Djurgårdens IF           -  Malmö FF
+  19.00  Djurgårdens IF           3-2 (0-1)  Malmö FF
+         Helsingborgs IF          0-0  BK Häcken
 
 
 Round 25
 [Sat Oct/24]
-  15.00  BK Häcken                -  Mjällby AIF
+  15.00  BK Häcken                2-2 (0-1)  Mjällby AIF
+         Djurgårdens IF           4-0 (0-0)  IK Sirius
 [Sun Oct/25]
-  14.30  Kalmar FF                -  Falkenbergs FF
-         Östersunds FK            -  Hammarby IF
-         Djurgårdens IF           -  IK Sirius
-  17.30  Malmö FF                 -  IFK Göteborg
-         Örebro SK                -  Helsingborgs IF
+  14.30  Kalmar FF                0-0  Falkenbergs FF
+         Östersunds FK            1-3 (0-0)  Hammarby IF
+  17.30  Malmö FF                 3-1 (2-1)  IFK Göteborg
+         Örebro SK                3-2 (2-1)  Helsingborgs IF
 [Mon Oct/26]
-  19.00  IFK Norrköping           -  AIK
-         Varbergs BoIS            -  IF Elfsborg
+  19.00  IFK Norrköping           2-2 (0-1)  AIK
+         Varbergs BoIS            0-0  IF Elfsborg
 
 
 Round 19
 [Wed Oct/28]
-  BK Häcken                -  Djurgårdens IF
+  19.00  BK Häcken                0-2 (0-1)  Djurgårdens IF
 [Thu Oct/29]
-  IK Sirius                -  AIK
+  19.00  IK Sirius                0-0  AIK
 
 
 Round 26
-[Sat Oct/31]
-  Falkenbergs FF           -  Djurgårdens IF
 [Sun Nov/1]
-  14.30  IK Sirius                -  Kalmar FF
-         Mjällby AIF              -  Östersunds FK
-         IF Elfsborg              -  IFK Norrköping
-  17.30  Hammarby IF              -  BK Häcken
-         IFK Göteborg             -  Örebro SK
+  14.30  IF Elfsborg              2-1 (1-1)  IFK Norrköping
+         Mjällby AIF              3-0 (3-0)  Östersunds FK
+         IK Sirius                2-2 (2-1)  Kalmar FF
+  17.30  Falkenbergs FF           3-2 (1-1)  Djurgårdens IF
+         IFK Göteborg             0-1 (0-1)  Örebro SK
+         Hammarby IF              1-1 (0-1)  BK Häcken
 [Mon Nov/2]
-  19.00  AIK                      -  Varbergs BoIS
-         Helsingborgs IF          -  Malmö FF
+  19.00  AIK                      1-0 (0-0)  Varbergs BoIS
+         Helsingborgs IF          0-1 (0-1)  Malmö FF
 
 
 Round 27
 [Sat Nov/7]
-  15.00  BK Häcken                -  Östersunds FK
-         Falkenbergs FF           -  IF Elfsborg
-         Mjällby AIF              -  IFK Norrköping
+  15.00  BK Häcken                2-1 (1-0)  Östersunds FK
+         Falkenbergs FF           1-3 (0-2)  IF Elfsborg
+         Mjällby AIF              2-0 (1-0)  IFK Norrköping
 [Sun Nov/8]
-  14.30  Varbergs BoIS            -  Hammarby IF
-         Örebro SK                -  Kalmar FF
-         Djurgårdens IF           -  AIK
-  17.30  Helsingborgs IF          -  IFK Göteborg
-         Malmö FF                 -  IK Sirius
+  14.30  Varbergs BoIS            5-2 (2-1)  Hammarby IF
+         Örebro SK                0-1 (0-1)  Kalmar FF
+         Djurgårdens IF           0-1 (0-0)  AIK
+  17.30  Helsingborgs IF          0-1 (0-1)  IFK Göteborg
+         Malmö FF                 4-0 (3-0)  IK Sirius
 
 
 Round 28
 [Sun Nov/22]
-  19.00  AIK                      -  Örebro SK
-         Hammarby IF              -  Malmö FF
+  14.30  AIK                      -  Örebro SK
          IF Elfsborg              -  Helsingborgs IF
-         Östersunds FK            -  Varbergs BoIS
-         IFK Norrköping           -  Falkenbergs FF
-         IK Sirius                -  Mjällby AIF
          Kalmar FF                -  Djurgårdens IF
+  17.30  Östersunds FK            -  Varbergs BoIS
+         Hammarby IF              -  Malmö FF
+[Mon Nov/23]
+  19.00  IK Sirius                -  Mjällby AIF
+         IFK Norrköping           -  Falkenbergs FF
          IFK Göteborg             -  BK Häcken
 
 
 Round 29
 [Sun Nov/29]
-  19.00  AIK                      -  Kalmar FF
-         BK Häcken                -  Örebro SK
-         Hammarby IF              -  IFK Norrköping
+  14.30  Östersunds FK            -  IFK Göteborg
          Helsingborgs IF          -  Falkenbergs FF
          Varbergs BoIS            -  Malmö FF
-         Mjällby AIF              -  Djurgårdens IF
-         Östersunds FK            -  IFK Göteborg
+  17.30  Mjällby AIF              -  Djurgårdens IF
          IK Sirius                -  IF Elfsborg
+         BK Häcken                -  Örebro SK
+[Mon Nov/30]
+  19.00  Hammarby IF              -  IFK Norrköping
+         AIK                      -  Kalmar FF
 
 
 Round 30
 [Sun Dec/6]
-  19.00  Djurgårdens IF           -  Varbergs BoIS
+  14.30  IFK Göteborg             -  IK Sirius
          Falkenbergs FF           -  Mjällby AIF
          IF Elfsborg              -  AIK
-         IFK Göteborg             -  IK Sirius
+         Djurgårdens IF           -  Varbergs BoIS
          IFK Norrköping           -  Helsingborgs IF
          Kalmar FF                -  BK Häcken
          Malmö FF                 -  Östersunds FK

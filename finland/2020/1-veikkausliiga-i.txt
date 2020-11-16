@@ -205,53 +205,63 @@ Round 17
 
 Round 18
 [Fri Oct/2]
-  17.30  FC Lahti                 3-1 (0-1)  IFK Mariehamn
-  TPS Turku                -  SJK Seinäjoki
   17.30  HIFK Helsinki            1-1 (1-0)  FC Honka Espoo
+         FC Lahti                 3-1 (0-1)  IFK Mariehamn
 [Mon Oct/5]
-  17.30  KuPS Kuopio              -  FC Ilves
+  17.30  KuPS Kuopio              1-1 (0-0)  FC Ilves
 
 
 Round 16
 [Thu Oct/8]
-  17.30  KuPS Kuopio              -  HIFK Helsinki
+  17.30  KuPS Kuopio              3-2 (2-0)  HIFK Helsinki
 
 
 Round 19
 [Thu Oct/15]
-  17.00  Rovaniemen Palloseura    -  FC Lahti
-  17.30  FC Haka Valkeakoski      -  TPS Turku
-         FC Honka Espoo           -  IFK Mariehamn
-         SJK Seinäjoki            -  HJK Helsinki
-         HIFK Helsinki            -  FC Ilves
-         FC Inter Turku           -  KuPS Kuopio
+  17.30  SJK Seinäjoki            1-2 (1-1)  HJK Helsinki
+  17.00  Rovaniemen Palloseura    0-4 (0-1)  FC Lahti
+  17.30  HIFK Helsinki            1-2 (0-0)  FC Ilves
+         FC Inter Turku           2-0 (1-0)  KuPS Kuopio
+         FC Honka Espoo           1-0 (1-0)  IFK Mariehamn
+[Fri Oct/16]
+  17.30  FC Haka Valkeakoski      2-1 (1-0)  TPS Turku
 
 
 Round 20
 [Sun Oct/18]
-  15.00  FC Lahti                 -  FC Haka Valkeakoski
-         HJK Helsinki             -  HIFK Helsinki
-         IFK Mariehamn            -  SJK Seinäjoki
-         TPS Turku                -  Rovaniemen Palloseura
-         KuPS Kuopio              -  FC Honka Espoo
-         FC Ilves                 -  FC Inter Turku
+  15.00  HJK Helsinki             3-0 (0-0)  HIFK Helsinki
+         FC Ilves                 0-2 (0-0)  FC Inter Turku
+         IFK Mariehamn            2-3 (0-1)  SJK Seinäjoki
+         KuPS Kuopio              0-2 (0-1)  FC Honka Espoo
+[Mon Oct/19]
+  17.30  FC Lahti                 0-0  FC Haka Valkeakoski
+         TPS Turku                4-1 (3-0)  Rovaniemen Palloseura
 
 
 Round 21
 [Thu Oct/22]
-  17.30  FC Honka Espoo           -  FC Lahti
-         FC Inter Turku           -  TPS Turku
-         HIFK Helsinki            -  Rovaniemen Palloseura
-         IFK Mariehamn            -  HJK Helsinki
-         KuPS Kuopio              -  FC Haka Valkeakoski
-         SJK Seinäjoki            -  FC Ilves
+  17.00  HIFK Helsinki            1-0 (0-0)  Rovaniemen Palloseura
+  17.30  SJK Seinäjoki            1-3 (1-3)  FC Ilves
+         FC Honka Espoo           2-1 (2-0)  FC Lahti
+         FC Inter Turku           3-0 (3-0)  TPS Turku
+         KuPS Kuopio              2-3 (1-0)  FC Haka Valkeakoski
+
+
+Round 18
+[Sat Oct/31]
+  15.00  TPS Turku                1-0 (0-0)  SJK Seinäjoki
+
+
+Round 21
+[Sun Nov/1]
+  16.30  IFK Mariehamn            0-5 (0-3)  HJK Helsinki
 
 
 Round 22
-[Sun Oct/25]
-  13.00  FC Haka Valkeakoski      -  IFK Mariehamn
-         FC Lahti                 -  HIFK Helsinki
-         HJK Helsinki             -  FC Inter Turku
-         FC Ilves                 -  FC Honka Espoo
-         Rovaniemen Palloseura    -  SJK Seinäjoki
-         TPS Turku                -  KuPS Kuopio
+[Wed Nov/4]
+  17.30  HJK Helsinki             1-1 (0-0)  FC Inter Turku
+         FC Lahti                 2-1 (0-0)  HIFK Helsinki
+         FC Haka Valkeakoski      0-1 (0-1)  IFK Mariehamn
+         FC Ilves                 4-1 (2-1)  FC Honka Espoo
+         Rovaniemen Palloseura    2-3 (0-0)  SJK Seinäjoki
+         TPS Turku                3-2 (1-1)  KuPS Kuopio

@@ -139,110 +139,125 @@ Round 10
 
 Round 11
 [Sat Oct/17]
-  Arsenal Tula             -  Ural Yekaterinburg
-  FC Krasnodar             -  FC Rubin Kazan
-  FC Rostov                -  Akhmat Grozny
-  FC Khimki                -  FC Spartak Moskva
-  Lokomotiv Moskva         -  FC Ufa
-  Rotor                    -  FC Tambov
-  Zenit St. Petersburg     -  PFC Sochi
-  PFC CSKA Moskva          -  Dynamo Moskva
+  13.00  Zenit St. Petersburg     3-1 (2-0)  PFC Sochi
+  15.30  FC Krasnodar             3-1 (1-0)  FC Rubin Kazan
+         Lokomotiv Moskva         1-0 (0-0)  FC Ufa
+  18.00  FC Khimki                2-3 (0-0)  FC Spartak Moskva
+[Sun Oct/18]
+  13.00  Arsenal Tula             1-0 (1-0)  Ural Yekaterinburg
+         Rotor                    0-2 (0-0)  FC Tambov
+  15.30  PFC CSKA Moskva          3-1 (0-0)  Dynamo Moskva
+  18.00  FC Rostov                3-0 (1-0)  Akhmat Grozny
 
 
 Round 12
 [Sat Oct/24]
-  Akhmat Grozny            -  FC Ufa
-  Dynamo Moskva            -  PFC Sochi
-  FC Krasnodar             -  FC Spartak Moskva
-  FC Rostov                -  FC Khimki
-  Lokomotiv Moskva         -  Rotor
-  Ural Yekaterinburg       -  FC Tambov
-  Zenit St. Petersburg     -  FC Rubin Kazan
-  PFC CSKA Moskva          -  Arsenal Tula
+  13.00  Dynamo Moskva            3-1 (2-1)  PFC Sochi
+  15.30  Zenit St. Petersburg     1-2 (1-1)  FC Rubin Kazan
+  18.00  FC Krasnodar             1-3 (0-2)  FC Spartak Moskva
+         Lokomotiv Moskva         1-2 (1-1)  Rotor
+[Sun Oct/25]
+  12.00  Ural Yekaterinburg       0-0  FC Tambov
+  14.30  FC Rostov                0-2 (0-0)  FC Khimki
+  17.00  Akhmat Grozny            3-1 (1-0)  FC Ufa
+[Mon Oct/26]
+  17.00  PFC CSKA Moskva          5-1 (1-0)  Arsenal Tula
 
 
 Round 13
 [Sat Oct/31]
-  Akhmat Grozny            -  FC Krasnodar
-  FC Tambov                -  Dynamo Moskva
-  FC Ufa                   -  Ural Yekaterinburg
-  FC Khimki                -  Zenit St. Petersburg
-  Rotor                    -  PFC CSKA Moskva
-  FC Rubin Kazan           -  Arsenal Tula
-  PFC Sochi                -  Lokomotiv Moskva
-  FC Spartak Moskva        -  FC Rostov
+  12.00  FC Rubin Kazan           3-1 (2-0)  Arsenal Tula
+  14.30  Akhmat Grozny            2-0 (0-0)  FC Krasnodar
+         FC Spartak Moskva        0-1 (0-1)  FC Rostov
+  17.00  PFC Sochi                2-1 (2-0)  Lokomotiv Moskva
+[Sun Nov/1]
+  10.00  FC Ufa                   1-2 (0-2)  Ural Yekaterinburg
+  12.00  FC Khimki                0-2 (0-1)  Zenit St. Petersburg
+  14.30  Rotor                    0-1 (0-1)  PFC CSKA Moskva
+  17.00  FC Tambov                1-2 (0-1)  Dynamo Moskva
 
 
 Round 14
+[Fri Nov/6]
+  17.00  PFC Sochi                1-1 (0-0)  FC Ufa
 [Sat Nov/7]
-  Arsenal Tula             -  Rotor
-  Dynamo Moskva            -  Lokomotiv Moskva
-  FC Tambov                -  Akhmat Grozny
-  FC Khimki                -  FC Rubin Kazan
-  PFC Sochi                -  FC Ufa
-  Ural Yekaterinburg       -  FC Spartak Moskva
-  Zenit St. Petersburg     -  FC Krasnodar
-  PFC CSKA Moskva          -  FC Rostov
+  12.00  Ural Yekaterinburg       2-2 (1-2)  FC Spartak Moskva
+  14.30  Arsenal Tula             1-1 (1-0)  Rotor
+  17.00  FC Tambov                0-1 (0-0)  Akhmat Grozny
+[Sun Nov/8]
+  12.00  FC Khimki                2-0 (0-0)  FC Rubin Kazan
+  14.30  PFC CSKA Moskva          2-0 (1-0)  FC Rostov
+  17.00  Dynamo Moskva            5-1 (2-1)  Lokomotiv Moskva
+         Zenit St. Petersburg     3-1 (0-1)  FC Krasnodar
 
 
 Round 15
 [Sat Nov/21]
-  Akhmat Grozny            -  Zenit St. Petersburg
-  FC Krasnodar             -  FC Tambov
-  FC Ufa                   -  FC Khimki
-  Lokomotiv Moskva         -  Arsenal Tula
-  Rotor                    -  Ural Yekaterinburg
-  FC Rubin Kazan           -  FC Rostov
-  FC Spartak Moskva        -  Dynamo Moskva
-  PFC CSKA Moskva          -  PFC Sochi
+  12.00  FC Krasnodar             -  FC Tambov
+  14.30  Akhmat Grozny            -  Zenit St. Petersburg
+  17.00  Lokomotiv Moskva         -  Arsenal Tula
+         FC Spartak Moskva        -  Dynamo Moskva
+[Sun Nov/22]
+  12.00  PFC CSKA Moskva          -  PFC Sochi
+  14.30  Rotor                    -  Ural Yekaterinburg
+  17.00  FC Rubin Kazan           -  FC Rostov
+[Mon Nov/23]
+  15.00  FC Ufa                   -  FC Khimki
 
 
 Round 16
 [Sat Nov/28]
-  Akhmat Grozny            -  Lokomotiv Moskva
-  Arsenal Tula             -  Zenit St. Petersburg
-  FC Rostov                -  Dynamo Moskva
-  FC Ufa                   -  FC Tambov
-  FC Khimki                -  FC Krasnodar
-  FC Rubin Kazan           -  PFC CSKA Moskva
-  FC Spartak Moskva        -  Rotor
-  Ural Yekaterinburg       -  PFC Sochi
+  12.00  Arsenal Tula             -  Zenit St. Petersburg
+  14.30  FC Khimki                -  FC Krasnodar
+  17.00  Akhmat Grozny            -  Lokomotiv Moskva
+         FC Rostov                -  Dynamo Moskva
+[Sun Nov/29]
+  10.00  Ural Yekaterinburg       -  PFC Sochi
+  12.00  FC Ufa                   -  FC Tambov
+  14.30  FC Rubin Kazan           -  PFC CSKA Moskva
+  17.00  FC Spartak Moskva        -  Rotor
 
 
 Round 17
 [Sat Dec/5]
-  Dynamo Moskva            -  Arsenal Tula
-  FC Krasnodar             -  Rotor
-  FC Rostov                -  FC Ufa
-  Lokomotiv Moskva         -  FC Rubin Kazan
-  PFC Sochi                -  Akhmat Grozny
-  FC Spartak Moskva        -  FC Tambov
-  Zenit St. Petersburg     -  Ural Yekaterinburg
-  PFC CSKA Moskva          -  FC Khimki
+  12.00  Lokomotiv Moskva         -  FC Rubin Kazan
+  14.30  FC Spartak Moskva        -  FC Tambov
+  17.00  FC Krasnodar             -  Rotor
+         Zenit St. Petersburg     -  Ural Yekaterinburg
+[Sun Dec/6]
+  12.00  FC Rostov                -  FC Ufa
+  14.30  Dynamo Moskva            -  Arsenal Tula
+  17.00  PFC CSKA Moskva          -  FC Khimki
+[Mon Dec/7]
+  17.00  PFC Sochi                -  Akhmat Grozny
 
 
 Round 18
+[Fri Dec/11]
+  17.00  FC Khimki                -  Arsenal Tula
 [Sat Dec/12]
-  Akhmat Grozny            -  FC Rostov
-  FC Krasnodar             -  Lokomotiv Moskva
-  FC Tambov                -  FC Rubin Kazan
-  FC Khimki                -  Arsenal Tula
-  Rotor                    -  FC Ufa
-  PFC Sochi                -  FC Spartak Moskva
-  Zenit St. Petersburg     -  Dynamo Moskva
-  PFC CSKA Moskva          -  Ural Yekaterinburg
+  12.00  Rotor                    -  FC Ufa
+  14.30  PFC Sochi                -  FC Spartak Moskva
+  17.00  Zenit St. Petersburg     -  Dynamo Moskva
+[Sun Dec/13]
+  12.00  FC Tambov                -  FC Rubin Kazan
+  14.30  FC Krasnodar             -  Lokomotiv Moskva
+  17.00  Akhmat Grozny            -  FC Rostov
+         PFC CSKA Moskva          -  Ural Yekaterinburg
 
 
 Round 19
 [Wed Dec/16]
-  Akhmat Grozny            -  FC Rubin Kazan
-  FC Krasnodar             -  FC Ufa
-  FC Rostov                -  PFC CSKA Moskva
-  FC Tambov                -  Ural Yekaterinburg
-  FC Khimki                -  Lokomotiv Moskva
-  Rotor                    -  Arsenal Tula
-  PFC Sochi                -  Dynamo Moskva
-  Zenit St. Petersburg     -  FC Spartak Moskva
+  16.00  Rotor                    -  Arsenal Tula
+         PFC Sochi                -  Dynamo Moskva
+  18.00  Zenit St. Petersburg     -  FC Spartak Moskva
+[Thu Dec/17]
+  16.00  FC Krasnodar             -  FC Ufa
+         FC Khimki                -  Lokomotiv Moskva
+  18.00  Akhmat Grozny            -  FC Rubin Kazan
+         FC Rostov                -  PFC CSKA Moskva
+[Fri Dec/18]
+  16.00  FC Tambov                -  Ural Yekaterinburg
 
 
 Round 20

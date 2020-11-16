@@ -11,19 +11,19 @@ Round 1
   19.30  FC Zbrojovka Brno        1-4 (0-4)  AC Sparta Praha
 [Sun Aug/23]
   16.30  SK Dynamo České Budějovice  0-6 (0-3)  SK Slavia Praha
-         FK Jablonec              1-0 (0-0)  FK Pardubice
-         MFK Karviná              0-0  FC Baník Ostrava
   18.30  Bohemians Praha 1905     4-0 (2-0)  FK Mladá Boleslav
+  16.30  MFK Karviná              0-0  FC Baník Ostrava
+         FK Jablonec              1-0 (0-0)  FK Pardubice
 
 
 Round 2
 [Fri Aug/28]
   18.00  FC Baník Ostrava         2-2 (1-2)  SK Dynamo České Budějovice
 [Sat Aug/29]
-  17.00  1. FC Slovácko           1-1 (0-0)  FK Jablonec
-         FK Mladá Boleslav        1-3 (1-1)  FC Zlín
-         SFC Opava                1-2 (0-0)  MFK Karviná
   19.30  SK Slavia Praha          3-0 (2-0)  1. FK Příbram
+  17.00  1. FC Slovácko           1-1 (0-0)  FK Jablonec
+         SFC Opava                1-2 (0-0)  MFK Karviná
+         FK Mladá Boleslav        1-3 (1-1)  FC Zlín
 [Sun Aug/30]
   16.30  FC Zbrojovka Brno        0-0  Bohemians Praha 1905
          FK Pardubice             2-1 (1-0)  FK Teplice
@@ -37,9 +37,9 @@ Round 3
 [Sat Sep/12]
   17.00  SK Dynamo České Budějovice  0-2 (0-1)  FC Slovan Liberec
          FK Jablonec              2-0 (0-0)  FC Baník Ostrava
-         1. FK Příbram            1-1 (0-0)  SFC Opava
-         FK Teplice               0-2 (0-0)  1. FC Slovácko
   19.30  FK Pardubice             1-1 (1-0)  SK Slavia Praha
+  17.00  FK Teplice               0-2 (0-0)  1. FC Slovácko
+         1. FK Příbram            1-1 (0-0)  SFC Opava
 [Sun Sep/13]
   16.30  FC Zlín                  3-1 (1-1)  FC Zbrojovka Brno
          MFK Karviná              2-5 (2-2)  AC Sparta Praha
@@ -50,10 +50,9 @@ Round 4
 [Fri Sep/18]
   20.00  SK Slavia Praha          5-1 (3-0)  FK Teplice
 [Sat Sep/19]
-  1. FC Slovácko           -  1. FK Příbram
-  16.30  FC Baník Ostrava         3-0 (1-0)  FK Pardubice
-         SFC Opava                0-0  SK Dynamo České Budějovice
   19.00  Bohemians Praha 1905     1-4 (0-2)  Viktoria Plzeň
+  16.30  SFC Opava                0-0  SK Dynamo České Budějovice
+         FC Baník Ostrava         3-0 (1-0)  FK Pardubice
 [Sun Sep/20]
   15.30  FC Zbrojovka Brno        2-4 (1-1)  SK Sigma Olomouc
          FC Slovan Liberec        1-1 (0-0)  MFK Karviná
@@ -63,63 +62,75 @@ Round 4
 
 
 Round 5
-[Fri Sep/25]
-  SK Dynamo České Budějovice  -  Bohemians Praha 1905
 [Sat Sep/26]
+  19.00  SK Slavia Praha          3-0 (2-0)  1. FC Slovácko
   16.30  FC Zlín                  0-1 (0-0)  SK Sigma Olomouc
          FK Teplice               2-1 (0-0)  FC Baník Ostrava
          MFK Karviná              0-0  FK Mladá Boleslav
-  19.00  SK Slavia Praha          3-0 (2-0)  1. FC Slovácko
 [Sun Sep/27]
-  15.30  FK Jablonec              4-1 (2-1)  SFC Opava
-         FK Pardubice             3-0 (2-0)  FC Slovan Liberec
-         Viktoria Plzeň           4-1 (2-0)  FC Zbrojovka Brno
   18.00  1. FK Příbram            1-3 (1-2)  AC Sparta Praha
+  15.30  Viktoria Plzeň           4-1 (2-0)  FC Zbrojovka Brno
+         FK Pardubice             3-0 (2-0)  FC Slovan Liberec
+         FK Jablonec              4-1 (2-1)  SFC Opava
 
 
 Round 6
 [Fri Oct/2]
   19.00  1. FC Slovácko           0-1 (0-0)  FK Pardubice
 [Sat Oct/3]
-  16.30  FC Zbrojovka Brno        0-2 (0-0)  MFK Karviná
-         FK Mladá Boleslav        2-2 (2-1)  SK Dynamo České Budějovice
-         SFC Opava                2-1 (1-1)  FK Teplice
+  16.30  FK Mladá Boleslav        2-2 (2-1)  SK Dynamo České Budějovice
   19.00  AC Sparta Praha          2-1 (2-0)  FK Jablonec
+  16.30  FC Zbrojovka Brno        0-2 (0-0)  MFK Karviná
+         SFC Opava                2-1 (1-1)  FK Teplice
 [Sun Oct/4]
-  15.30  Bohemians Praha 1905     2-0 (1-0)  FC Zlín
-         SK Sigma Olomouc         2-2 (1-1)  Viktoria Plzeň
-         FC Slovan Liberec        3-0 (0-0)  1. FK Příbram
+  15.30  FC Slovan Liberec        3-0 (0-0)  1. FK Příbram
   18.00  FC Baník Ostrava         0-1 (0-0)  SK Slavia Praha
+  15.30  SK Sigma Olomouc         2-2 (1-1)  Viktoria Plzeň
+         Bohemians Praha 1905     2-0 (1-0)  FC Zlín
 
 
 Round 7
-[Sat Oct/17]
-  16.30  1. FC Slovácko           -  SK Sigma Olomouc
-         SK Dynamo České Budějovice  -  FC Zlín
-         FK Jablonec              -  FC Zbrojovka Brno
-         FK Pardubice             -  SFC Opava
-         1. FK Příbram            -  FC Baník Ostrava
-         FK Teplice               -  FC Slovan Liberec
-         MFK Karviná              -  Bohemians Praha 1905
-         SK Slavia Praha          -  FK Mladá Boleslav
-         Viktoria Plzeň           -  AC Sparta Praha
+[Fri Nov/6]
+  18.00  FK Jablonec              0-1 (0-0)  FC Zbrojovka Brno
+[Sat Nov/7]
+  16.00  SK Dynamo České Budějovice  1-2 (1-0)  FC Zlín
+  18.15  1. FK Příbram            0-4 (0-0)  FC Baník Ostrava
+  14.00  FK Pardubice             1-0 (0-0)  SFC Opava
+  16.00  1. FC Slovácko           0-0  SK Sigma Olomouc
+[Sun Nov/8]
+  16.00  SK Slavia Praha          1-0 (1-0)  FK Mladá Boleslav
+  18.15  Viktoria Plzeň           3-1 (3-0)  AC Sparta Praha
+  14.00  FK Teplice               1-2 (1-2)  FC Slovan Liberec
+         MFK Karviná              2-1 (1-0)  Bohemians Praha 1905
+
+
+Round 4
+[Sat Nov/14]
+  16.00  1. FC Slovácko           5-1 (1-0)  1. FK Příbram
 
 
 Round 8
-[Sat Oct/24]
-  FC Zbrojovka Brno        -  1. FK Příbram
-  FC Baník Ostrava         -  1. FC Slovácko
-  Bohemians Praha 1905     -  FK Teplice
-  FC Zlín                  -  Viktoria Plzeň
-  FK Mladá Boleslav        -  FK Pardubice
-  SK Sigma Olomouc         -  MFK Karviná
-  SFC Opava                -  SK Slavia Praha
-  FC Slovan Liberec        -  FK Jablonec
-  AC Sparta Praha          -  SK Dynamo České Budějovice
+[Fri Nov/20]
+  18.45  FC Slovan Liberec        -  FK Jablonec
+[Sat Nov/21]
+  14.00  FK Mladá Boleslav        -  FK Pardubice
+  16.00  SK Sigma Olomouc         -  MFK Karviná
+         Bohemians Praha 1905     -  FK Teplice
+  18.30  SFC Opava                -  SK Slavia Praha
+[Sun Nov/22]
+  18.30  AC Sparta Praha          -  SK Dynamo České Budějovice
+  14.00  FC Zbrojovka Brno        -  1. FK Příbram
+         FC Baník Ostrava         -  1. FC Slovácko
+  16.00  FC Zlín                  -  Viktoria Plzeň
+
+
+Round 5
+[Wed Nov/25]
+  17.00  SK Dynamo České Budějovice  -  Bohemians Praha 1905
 
 
 Round 9
-[Sat Oct/31]
+[Sun Nov/29]
   1. FC Slovácko           -  SFC Opava
   FC Baník Ostrava         -  FC Slovan Liberec
   SK Dynamo České Budějovice  -  Viktoria Plzeň
@@ -132,7 +143,7 @@ Round 9
 
 
 Round 10
-[Sat Nov/7]
+[Sat Dec/5]
   FC Zbrojovka Brno        -  SK Dynamo České Budějovice
   Bohemians Praha 1905     -  FK Pardubice
   FC Zlín                  -  FK Jablonec
@@ -145,33 +156,33 @@ Round 10
 
 
 Round 11
-[Sat Nov/21]
+[Sat Dec/12]
   1. FC Slovácko           -  AC Sparta Praha
   FC Baník Ostrava         -  Bohemians Praha 1905
   SK Dynamo České Budějovice  -  MFK Karviná
   FK Jablonec              -  Viktoria Plzeň
-  FK Pardubice             -  FC Zbrojovka Brno
+  SFC Opava                -  FK Mladá Boleslav
   1. FK Příbram            -  FC Zlín
   FK Teplice               -  SK Sigma Olomouc
   SK Slavia Praha          -  FC Slovan Liberec
-  SFC Opava                -  FK Mladá Boleslav
+  FK Pardubice             -  FC Zbrojovka Brno
 
 
 Round 12
-[Sat Nov/28]
+[Wed Dec/16]
   FC Zbrojovka Brno        -  1. FC Slovácko
   Bohemians Praha 1905     -  1. FK Příbram
   FC Zlín                  -  SK Slavia Praha
   FK Mladá Boleslav        -  FC Baník Ostrava
-  MFK Karviná              -  FK Jablonec
+  Viktoria Plzeň           -  FK Teplice
   SK Sigma Olomouc         -  SK Dynamo České Budějovice
   FC Slovan Liberec        -  SFC Opava
   AC Sparta Praha          -  FK Pardubice
-  Viktoria Plzeň           -  FK Teplice
+  MFK Karviná              -  FK Jablonec
 
 
 Round 13
-[Sat Dec/5]
+[Sat Dec/19]
   1. FC Slovácko           -  Viktoria Plzeň
   FC Baník Ostrava         -  SK Sigma Olomouc
   FK Jablonec              -  SK Dynamo České Budějovice
@@ -184,20 +195,20 @@ Round 13
 
 
 Round 14
-[Sat Dec/12]
+[Wed Dec/23]
   FC Zbrojovka Brno        -  FC Baník Ostrava
   Bohemians Praha 1905     -  SFC Opava
   SK Dynamo České Budějovice  -  1. FK Příbram
   FC Zlín                  -  FK Teplice
-  FK Mladá Boleslav        -  1. FC Slovácko
+  Viktoria Plzeň           -  SK Slavia Praha
   MFK Karviná              -  FK Pardubice
   SK Sigma Olomouc         -  FK Jablonec
   AC Sparta Praha          -  FC Slovan Liberec
-  Viktoria Plzeň           -  SK Slavia Praha
+  FK Mladá Boleslav        -  1. FC Slovácko
 
 
 Round 15
-[Sat Dec/19]
+[Sat Jan/16]
   1. FC Slovácko           -  MFK Karviná
   FC Baník Ostrava         -  AC Sparta Praha
   FK Mladá Boleslav        -  FC Zbrojovka Brno
@@ -237,7 +248,7 @@ Round 17
 
 Round 18
 [Sat Feb/13]
-  Bohemians Praha 1905     -  FC Zbrojovka Brno
+  Viktoria Plzeň           -  FC Slovan Liberec
   SK Dynamo České Budějovice  -  FC Baník Ostrava
   FC Zlín                  -  FK Mladá Boleslav
   FK Jablonec              -  1. FC Slovácko
@@ -245,7 +256,7 @@ Round 18
   FK Teplice               -  FK Pardubice
   MFK Karviná              -  SFC Opava
   SK Sigma Olomouc         -  AC Sparta Praha
-  Viktoria Plzeň           -  FC Slovan Liberec
+  Bohemians Praha 1905     -  FC Zbrojovka Brno
 
 
 Round 19
@@ -267,11 +278,11 @@ Round 20
   FC Zlín                  -  AC Sparta Praha
   FK Jablonec              -  FK Mladá Boleslav
   FK Pardubice             -  FC Baník Ostrava
-  1. FK Příbram            -  1. FC Slovácko
+  Viktoria Plzeň           -  Bohemians Praha 1905
   FK Teplice               -  SK Slavia Praha
   MFK Karviná              -  FC Slovan Liberec
   SK Sigma Olomouc         -  FC Zbrojovka Brno
-  Viktoria Plzeň           -  Bohemians Praha 1905
+  1. FK Příbram            -  1. FC Slovácko
 
 
 Round 21
@@ -280,11 +291,11 @@ Round 21
   1. FC Slovácko           -  SK Slavia Praha
   FC Baník Ostrava         -  FK Teplice
   Bohemians Praha 1905     -  SK Dynamo České Budějovice
-  FK Mladá Boleslav        -  MFK Karviná
+  AC Sparta Praha          -  1. FK Příbram
   SK Sigma Olomouc         -  FC Zlín
   SFC Opava                -  FK Jablonec
   FC Slovan Liberec        -  FK Pardubice
-  AC Sparta Praha          -  1. FK Příbram
+  FK Mladá Boleslav        -  MFK Karviná
 
 
 Round 22
@@ -306,11 +317,11 @@ Round 23
   FC Baník Ostrava         -  1. FK Příbram
   Bohemians Praha 1905     -  MFK Karviná
   FC Zlín                  -  SK Dynamo České Budějovice
-  FK Mladá Boleslav        -  SK Slavia Praha
+  AC Sparta Praha          -  Viktoria Plzeň
   SK Sigma Olomouc         -  1. FC Slovácko
   SFC Opava                -  FK Pardubice
   FC Slovan Liberec        -  FK Teplice
-  AC Sparta Praha          -  Viktoria Plzeň
+  FK Mladá Boleslav        -  SK Slavia Praha
 
 
 Round 24
@@ -354,7 +365,7 @@ Round 26
 
 Round 27
 [Wed Apr/21]
-  FC Zbrojovka Brno        -  FK Pardubice
+  Viktoria Plzeň           -  FK Jablonec
   Bohemians Praha 1905     -  FC Baník Ostrava
   FC Zlín                  -  1. FK Příbram
   FK Mladá Boleslav        -  SFC Opava
@@ -362,7 +373,7 @@ Round 27
   SK Sigma Olomouc         -  FK Teplice
   FC Slovan Liberec        -  SK Slavia Praha
   AC Sparta Praha          -  1. FC Slovácko
-  Viktoria Plzeň           -  FK Jablonec
+  FC Zbrojovka Brno        -  FK Pardubice
 
 
 Round 28
@@ -410,11 +421,11 @@ Round 31
   Bohemians Praha 1905     -  FC Slovan Liberec
   SK Dynamo České Budějovice  -  FK Pardubice
   FC Zlín                  -  SFC Opava
-  FK Jablonec              -  FK Teplice
+  Viktoria Plzeň           -  1. FK Příbram
   MFK Karviná              -  1. FC Slovácko
   SK Sigma Olomouc         -  SK Slavia Praha
   AC Sparta Praha          -  FC Baník Ostrava
-  Viktoria Plzeň           -  1. FK Příbram
+  FK Jablonec              -  FK Teplice
 
 
 Round 32
@@ -436,11 +447,11 @@ Round 33
   Bohemians Praha 1905     -  AC Sparta Praha
   SK Dynamo České Budějovice  -  1. FC Slovácko
   FC Zlín                  -  FC Slovan Liberec
-  FK Jablonec              -  SK Slavia Praha
+  Viktoria Plzeň           -  FC Baník Ostrava
   1. FK Příbram            -  FK Pardubice
   MFK Karviná              -  FK Teplice
   SK Sigma Olomouc         -  FK Mladá Boleslav
-  Viktoria Plzeň           -  FC Baník Ostrava
+  FK Jablonec              -  SK Slavia Praha
 
 
 Round 34

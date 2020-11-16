@@ -18,8 +18,6 @@ Round 2
   18.00  PAOK FC                  1-1 (0-0)  Atromitos FC
 [Sat Sep/19]
   19.30  Panetolikos GFS          0-2 (0-0)  AEK Athens FC
-  Panathinaikos FC         -  Apollon Smyrnis FC
-  PAS Giannina FC          -  AE Larissa FC
 [Sun Sep/20]
   19.30  Volos FC                 0-1 (0-1)  Aris Thessaloniki FC
   17.15  PAS Lamia 1964           1-2 (0-1)  OFI Crete FC
@@ -29,7 +27,6 @@ Round 3
 [Sat Sep/26]
   19.30  Olympiacos Piraeus FC    2-0 (0-0)  Panetolikos GFS
   17.30  Volos FC                 0-0  PAOK FC
-  Asteras Tripolis FC      -  Apollon Smyrnis FC
 [Sun Sep/27]
   17.00  OFI Crete FC             2-2 (0-1)  Atromitos FC
   19.30  AEK Athens FC            3-0 (1-0)  PAS Lamia 1964
@@ -42,151 +39,184 @@ Round 4
 [Sat Oct/3]
   18.30  Panetolikos GFS          1-1 (0-1)  Asteras Tripolis FC
 [Sun Oct/4]
-  19.30  PAS Giannina FC          1-1 (1-0)  Olympiacos Piraeus FC
-  20.45  Atromitos FC             1-0 (1-0)  AEK Athens FC
-  15.00  Panathinaikos FC         0-1 (0-1)  Aris Thessaloniki FC
   17.15  Apollon Smyrnis FC       1-0 (0-0)  AE Larissa FC
          PAOK FC                  3-0 (1-0)  OFI Crete FC
-
-
-Round 20
+  20.45  Atromitos FC             1-0 (1-0)  AEK Athens FC
+  19.30  PAS Giannina FC          1-1 (1-0)  Olympiacos Piraeus FC
+  15.00  Panathinaikos FC         0-1 (0-1)  Aris Thessaloniki FC
 [Mon Oct/5]
-  OFI Crete FC             -  AEK Athens FC
-
-
-Round 26
-[Mon Oct/5]
-  PAS Lamia 1964           -  Atromitos FC
-
-
-Round 4
-[Mon Oct/5]
-  18.30  PAS Lamia 1964           -  Volos FC
+  18.30  PAS Lamia 1964           1-2 (0-1)  Volos FC
 
 
 Round 5
-[Mon Oct/5]
-  AEK Athens FC            -  PAOK FC
-  AE Larissa FC            -  Asteras Tripolis FC
-  Aris Thessaloniki FC     -  Apollon Smyrnis FC
-  Volos FC                 -  PAS Giannina FC
-  OFI Crete FC             -  Panathinaikos FC
-  Olympiacos Piraeus FC    -  Atromitos FC
-  PAS Lamia 1964           -  Panetolikos GFS
+[Sat Oct/17]
+  15.00  Volos FC                 2-1 (0-1)  PAS Giannina FC
+  17.15  Aris Thessaloniki FC     1-0 (1-0)  Apollon Smyrnis FC
+  19.30  Olympiacos Piraeus FC    4-0 (0-0)  Atromitos FC
+[Sun Oct/18]
+  19.30  AEK Athens FC            1-1 (1-0)  PAOK FC
+  17.15  AE Larissa FC            1-3 (0-1)  Asteras Tripolis FC
+  15.00  OFI Crete FC             2-2 (1-0)  Panathinaikos FC
+[Mon Oct/19]
+  18.30  PAS Lamia 1964           0-0  Panetolikos GFS
+
+
+Round 1
+[Wed Oct/21]
+  16.15  Apollon Smyrnis FC       1-2 (0-2)  PAS Giannina FC
 
 
 Round 6
-[Mon Oct/5]
+[Sat Oct/24]
+  19.30  Panathinaikos FC         1-1 (0-0)  Volos FC
   AE Larissa FC            -  Aris Thessaloniki FC
-  Apollon Smyrnis FC       -  PAS Lamia 1964
-  Asteras Tripolis FC      -  OFI Crete FC
-  Atromitos FC             -  Panetolikos GFS
+[Sun Oct/25]
+  15.00  Asteras Tripolis FC      1-0 (0-0)  OFI Crete FC
   PAOK FC                  -  Olympiacos Piraeus FC
-  Panathinaikos FC         -  Volos FC
-  PAS Giannina FC          -  AEK Athens FC
+  Apollon Smyrnis FC       -  PAS Lamia 1964
+  19.30  PAS Giannina FC          0-1 (0-1)  AEK Athens FC
+[Mon Oct/26]
+  18.30  Atromitos FC             2-0 (1-0)  Panetolikos GFS
 
 
 Round 7
-[Mon Oct/5]
-  AEK Athens FC            -  OFI Crete FC
-  Aris Thessaloniki FC     -  Asteras Tripolis FC
-  Atromitos FC             -  PAS Giannina FC
-  Volos FC                 -  AE Larissa FC
-  Olympiacos Piraeus FC    -  Apollon Smyrnis FC
-  Panetolikos GFS          -  PAOK FC
-  PAS Lamia 1964           -  Panathinaikos FC
+[Sat Oct/31]
+  18.30  PAS Lamia 1964           0-2 (0-1)  Panathinaikos FC
+  16.15  Atromitos FC             0-2 (0-1)  PAS Giannina FC
+         Volos FC                 1-1 (0-0)  AE Larissa FC
+  14.00  Olympiacos Piraeus FC    2-0 (0-0)  Apollon Smyrnis FC
+[Sun Nov/1]
+  14.00  Aris Thessaloniki FC     1-0 (0-0)  Asteras Tripolis FC
+  18.30  AEK Athens FC            2-1 (1-1)  OFI Crete FC
+  16.15  Panetolikos GFS          1-3 (0-1)  PAOK FC
+
+
+Round 2
+[Tue Nov/3]
+  16.15  Panathinaikos FC         1-0 (1-0)  Apollon Smyrnis FC
+[Wed Nov/4]
+  16.15  PAS Giannina FC          1-2 (0-0)  AE Larissa FC
 
 
 Round 8
-[Mon Oct/5]
-  AE Larissa FC            -  PAS Lamia 1964
-  Apollon Smyrnis FC       -  PAOK FC
-  Aris Thessaloniki FC     -  AEK Athens FC
+[Sat Nov/7]
   Asteras Tripolis FC      -  Volos FC
-  OFI Crete FC             -  Olympiacos Piraeus FC
-  Panathinaikos FC         -  Atromitos FC
-  PAS Giannina FC          -  Panetolikos GFS
+  18.30  Panathinaikos FC         0-1 (0-0)  Atromitos FC
+  16.15  PAS Giannina FC          0-0  Panetolikos GFS
+[Sun Nov/8]
+  Aris Thessaloniki FC     -  AEK Athens FC
+  18.30  Apollon Smyrnis FC       1-3 (0-1)  PAOK FC
+  AE Larissa FC            -  PAS Lamia 1964
+  14.00  OFI Crete FC             0-2 (0-0)  Olympiacos Piraeus FC
 
 
 Round 9
-[Mon Oct/5]
-  AEK Athens FC            -  AE Larissa FC
-  Atromitos FC             -  Apollon Smyrnis FC
-  Volos FC                 -  OFI Crete FC
-  Olympiacos Piraeus FC    -  Panathinaikos FC
-  PAOK FC                  -  PAS Giannina FC
-  Panetolikos GFS          -  Aris Thessaloniki FC
-  PAS Lamia 1964           -  Asteras Tripolis FC
+[Sat Nov/21]
+  18.30  Olympiacos Piraeus FC    -  Panathinaikos FC
+  16.15  Atromitos FC             -  Apollon Smyrnis FC
+  14.00  PAS Lamia 1964           -  Asteras Tripolis FC
+[Sun Nov/22]
+  16.15  Panetolikos GFS          -  Aris Thessaloniki FC
+  14.00  AEK Athens FC            -  AE Larissa FC
+  18.30  PAOK FC                  -  PAS Giannina FC
+[Mon Nov/23]
+  18.30  Volos FC                 -  OFI Crete FC
+
+
+Round 3
+[Wed Nov/25]
+  16.15  Asteras Tripolis FC      -  Apollon Smyrnis FC
 
 
 Round 10
-[Mon Oct/5]
-  AE Larissa FC            -  Atromitos FC
-  Apollon Smyrnis FC       -  Volos FC
-  Aris Thessaloniki FC     -  Olympiacos Piraeus FC
-  Asteras Tripolis FC      -  AEK Athens FC
-  OFI Crete FC             -  PAS Giannina FC
-  Panathinaikos FC         -  Panetolikos GFS
-  PAS Lamia 1964           -  PAOK FC
+[Sat Nov/28]
+  16.15  AE Larissa FC            -  Atromitos FC
+  18.30  Aris Thessaloniki FC     -  Olympiacos Piraeus FC
+[Sun Nov/29]
+  14.00  Panathinaikos FC         -  Panetolikos GFS
+  16.15  OFI Crete FC             -  PAS Giannina FC
+  18.30  Asteras Tripolis FC      -  AEK Athens FC
+  16.15  PAS Lamia 1964           -  PAOK FC
+[Mon Nov/30]
+  18.30  Apollon Smyrnis FC       -  Volos FC
 
 
 Round 11
-[Mon Oct/5]
-  AEK Athens FC            -  Panathinaikos FC
-  Atromitos FC             -  Aris Thessaloniki FC
-  OFI Crete FC             -  Apollon Smyrnis FC
-  Olympiacos Piraeus FC    -  Volos FC
-  PAOK FC                  -  Asteras Tripolis FC
-  Panetolikos GFS          -  AE Larissa FC
-  PAS Giannina FC          -  PAS Lamia 1964
+[Sat Dec/5]
+  18.30  Olympiacos Piraeus FC    -  Volos FC
+  16.15  Atromitos FC             -  Aris Thessaloniki FC
+  14.00  Panetolikos GFS          -  AE Larissa FC
+[Sun Dec/6]
+  18.30  AEK Athens FC            -  Panathinaikos FC
+  14.00  OFI Crete FC             -  Apollon Smyrnis FC
+  16.15  PAOK FC                  -  Asteras Tripolis FC
+         PAS Giannina FC          -  PAS Lamia 1964
 
 
 Round 12
-[Mon Oct/5]
-  AE Larissa FC            -  OFI Crete FC
-  Apollon Smyrnis FC       -  AEK Athens FC
-  Aris Thessaloniki FC     -  PAOK FC
-  Asteras Tripolis FC      -  Atromitos FC
-  Volos FC                 -  Panetolikos GFS
-  Panathinaikos FC         -  PAS Giannina FC
-  PAS Lamia 1964           -  Olympiacos Piraeus FC
+[Sat Dec/12]
+  14.00  Volos FC                 -  Panetolikos GFS
+  18.30  Panathinaikos FC         -  PAS Giannina FC
+  16.15  AE Larissa FC            -  OFI Crete FC
+[Sun Dec/13]
+  16.15  Apollon Smyrnis FC       -  AEK Athens FC
+  14.00  PAS Lamia 1964           -  Olympiacos Piraeus FC
+  18.30  Aris Thessaloniki FC     -  PAOK FC
+[Mon Dec/14]
+  18.30  Asteras Tripolis FC      -  Atromitos FC
+
+
+Round 1
+[Wed Dec/16]
+  18.30  AEK Athens FC            -  Olympiacos Piraeus FC
 
 
 Round 13
-[Mon Oct/5]
-  AEK Athens FC            -  Volos FC
-  Atromitos FC             -  PAS Lamia 1964
-  OFI Crete FC             -  Aris Thessaloniki FC
-  Olympiacos Piraeus FC    -  AE Larissa FC
-  PAOK FC                  -  Panathinaikos FC
-  Panetolikos GFS          -  Apollon Smyrnis FC
-  PAS Giannina FC          -  Asteras Tripolis FC
+[Sat Dec/19]
+  16.15  Panetolikos GFS          -  Apollon Smyrnis FC
+  18.30  OFI Crete FC             -  Aris Thessaloniki FC
+[Sun Dec/20]
+  14.00  Olympiacos Piraeus FC    -  AE Larissa FC
+  18.30  PAOK FC                  -  Panathinaikos FC
+  16.15  Atromitos FC             -  PAS Lamia 1964
+[Mon Dec/21]
+  18.30  AEK Athens FC            -  Volos FC
+  16.15  PAS Giannina FC          -  Asteras Tripolis FC
 
 
 Round 14
-[Mon Oct/5]
-  AE Larissa FC            -  PAOK FC
-  Volos FC                 -  Atromitos FC
-  Olympiacos Piraeus FC    -  AEK Athens FC
-  Panathinaikos FC         -  Asteras Tripolis FC
-  Panetolikos GFS          -  OFI Crete FC
-  PAS Giannina FC          -  Apollon Smyrnis FC
-  PAS Lamia 1964           -  Aris Thessaloniki FC
+[Sun Jan/3]
+  18.30  Olympiacos Piraeus FC    -  AEK Athens FC
+  14.00  Panetolikos GFS          -  OFI Crete FC
+  16.15  AE Larissa FC            -  PAOK FC
+         PAS Giannina FC          -  Apollon Smyrnis FC
+  14.00  Panathinaikos FC         -  Asteras Tripolis FC
+[Mon Jan/4]
+  16.15  Volos FC                 -  Atromitos FC
+  18.30  PAS Lamia 1964           -  Aris Thessaloniki FC
 
 
 Round 15
-[Mon Oct/5]
-  AEK Athens FC            -  Panetolikos GFS
-  AE Larissa FC            -  PAS Giannina FC
-  Apollon Smyrnis FC       -  Panathinaikos FC
-  Aris Thessaloniki FC     -  Volos FC
-  Asteras Tripolis FC      -  Olympiacos Piraeus FC
-  Atromitos FC             -  PAOK FC
-  OFI Crete FC             -  PAS Lamia 1964
+[Wed Jan/6]
+  16.15  AEK Athens FC            -  Panetolikos GFS
+  14.00  Apollon Smyrnis FC       -  Panathinaikos FC
+  16.15  AE Larissa FC            -  PAS Giannina FC
+  18.30  Asteras Tripolis FC      -  Olympiacos Piraeus FC
+
+
+Round 23
+[Thu Jan/7]
+  PAS Giannina FC          -  OFI Crete FC
+
+
+Round 15
+[Thu Jan/7]
+  16.15  OFI Crete FC             -  PAS Lamia 1964
+  18.30  Atromitos FC             -  PAOK FC
 
 
 Round 16
-[Mon Oct/5]
+[Thu Jan/7]
   Apollon Smyrnis FC       -  Asteras Tripolis FC
   Atromitos FC             -  OFI Crete FC
   PAOK FC                  -  Volos FC
@@ -197,7 +227,7 @@ Round 16
 
 
 Round 17
-[Mon Oct/5]
+[Thu Jan/7]
   AEK Athens FC            -  Atromitos FC
   AE Larissa FC            -  Apollon Smyrnis FC
   Aris Thessaloniki FC     -  Panathinaikos FC
@@ -208,7 +238,7 @@ Round 17
 
 
 Round 18
-[Mon Oct/5]
+[Thu Jan/7]
   Apollon Smyrnis FC       -  Aris Thessaloniki FC
   Asteras Tripolis FC      -  AE Larissa FC
   Atromitos FC             -  Olympiacos Piraeus FC
@@ -219,7 +249,7 @@ Round 18
 
 
 Round 19
-[Mon Oct/5]
+[Thu Jan/7]
   AEK Athens FC            -  PAS Giannina FC
   Aris Thessaloniki FC     -  AE Larissa FC
   Volos FC                 -  Panathinaikos FC
@@ -230,45 +260,29 @@ Round 19
 
 
 Round 20
-[Mon Oct/5]
+[Thu Jan/7]
   AE Larissa FC            -  Volos FC
   Apollon Smyrnis FC       -  Olympiacos Piraeus FC
   Asteras Tripolis FC      -  Aris Thessaloniki FC
-
-
-Round 26
-[Mon Oct/5]
-  Panathinaikos FC         -  PAOK FC
-
-
-Round 20
-[Mon Oct/5]
+  OFI Crete FC             -  AEK Athens FC
   PAOK FC                  -  Panetolikos GFS
   Panathinaikos FC         -  PAS Lamia 1964
   PAS Giannina FC          -  Atromitos FC
 
 
 Round 21
-[Mon Oct/5]
+[Thu Jan/7]
   AEK Athens FC            -  Aris Thessaloniki FC
   Atromitos FC             -  Panathinaikos FC
   Volos FC                 -  Asteras Tripolis FC
-
-
-Round 26
-[Mon Oct/5]
-  Volos FC                 -  AEK Athens FC
-
-
-Round 21
-[Mon Oct/5]
+  Olympiacos Piraeus FC    -  OFI Crete FC
   PAOK FC                  -  Apollon Smyrnis FC
   Panetolikos GFS          -  PAS Giannina FC
   PAS Lamia 1964           -  AE Larissa FC
 
 
 Round 22
-[Mon Oct/5]
+[Thu Jan/7]
   AE Larissa FC            -  AEK Athens FC
   Apollon Smyrnis FC       -  Atromitos FC
   Aris Thessaloniki FC     -  Panetolikos GFS
@@ -279,18 +293,22 @@ Round 22
 
 
 Round 23
-[Mon Oct/5]
+[Thu Jan/7]
   AEK Athens FC            -  Asteras Tripolis FC
   Atromitos FC             -  AE Larissa FC
   Volos FC                 -  Apollon Smyrnis FC
   Olympiacos Piraeus FC    -  Aris Thessaloniki FC
   PAOK FC                  -  PAS Lamia 1964
   Panetolikos GFS          -  Panathinaikos FC
-  PAS Giannina FC          -  OFI Crete FC
+
+
+Round 15
+[Thu Jan/7]
+  16.15  Aris Thessaloniki FC     -  Volos FC
 
 
 Round 24
-[Mon Oct/5]
+[Thu Jan/7]
   AE Larissa FC            -  Panetolikos GFS
   Apollon Smyrnis FC       -  OFI Crete FC
   Aris Thessaloniki FC     -  Atromitos FC
@@ -301,7 +319,7 @@ Round 24
 
 
 Round 25
-[Mon Oct/5]
+[Thu Jan/7]
   AEK Athens FC            -  Apollon Smyrnis FC
   Atromitos FC             -  Asteras Tripolis FC
   OFI Crete FC             -  AE Larissa FC
@@ -312,20 +330,11 @@ Round 25
 
 
 Round 26
-[Mon Oct/5]
+[Thu Jan/7]
   AE Larissa FC            -  Olympiacos Piraeus FC
   Apollon Smyrnis FC       -  Panetolikos GFS
   Aris Thessaloniki FC     -  OFI Crete FC
   Asteras Tripolis FC      -  PAS Giannina FC
-
-
-Round 21
-[Mon Oct/5]
-  Olympiacos Piraeus FC    -  OFI Crete FC
-
-
-Round 1
-[Wed Oct/21]
-  17.15  Apollon Smyrnis FC       -  PAS Giannina FC
-[Wed Dec/16]
-  18.30  AEK Athens FC            -  Olympiacos Piraeus FC
+  Volos FC                 -  AEK Athens FC
+  Panathinaikos FC         -  PAOK FC
+  PAS Lamia 1964           -  Atromitos FC

@@ -46,8 +46,8 @@ Round 4
   19.00  Trelleborgs FF           1-1 (1-0)  GIF Sundsvall
          Jönköpings Södra IF      3-1 (1-1)  Akropolis IF
 [Sat Jul/4]
-  15.00  Umeå FC                  0-0  Östers IF
-         Dalkurd FF               1-2 (0-1)  Degerfors IF
+  15.00  Dalkurd FF               1-2 (0-1)  Degerfors IF
+         Umeå FC                  0-0  Östers IF
   17.30  Norrby IF                2-2 (0-0)  Ljungskile SK
          Örgryte Göteborg         2-1 (2-1)  AFC Eskilstuna
          IK Brage                 0-0  Halmstads BK
@@ -225,9 +225,9 @@ Round 16
 Round 17
 [Fri Sep/11]
   19.00  Akropolis IF             2-2 (2-1)  Östers IF
-         Trelleborgs FF           0-1 (0-1)  IK Brage
-         Örgryte Göteborg         4-0 (2-0)  Ljungskile SK
          Dalkurd FF               0-0  Umeå FC
+         Örgryte Göteborg         4-0 (2-0)  Ljungskile SK
+         Trelleborgs FF           0-1 (0-1)  IK Brage
 [Sat Sep/12]
   15.00  GAIS                     3-1 (1-1)  GIF Sundsvall
   17.30  AFC Eskilstuna           0-3 (0-2)  Halmstads BK
@@ -241,10 +241,10 @@ Round 18
   19.00  Östers IF                1-0 (1-0)  Trelleborgs FF
 [Wed Sep/16]
   19.00  Degerfors IF             2-1 (0-1)  Dalkurd FF
-         GIF Sundsvall            1-2 (0-2)  Akropolis IF
          Halmstads BK             4-0 (0-0)  Umeå FC
-         Jönköpings Södra IF      2-0 (2-0)  Örgryte Göteborg
          IK Brage                 2-1 (0-0)  GAIS
+         Jönköpings Södra IF      2-0 (2-0)  Örgryte Göteborg
+         GIF Sundsvall            1-2 (0-2)  Akropolis IF
 [Thu Sep/17]
   19.00  Ljungskile SK            1-1 (0-0)  Norrby IF
          Västerås SK              0-1 (0-0)  AFC Eskilstuna
@@ -252,15 +252,15 @@ Round 18
 
 Round 19
 [Sat Sep/19]
-  17.30  Trelleborgs FF           1-1 (0-0)  Örgryte Göteborg
-         Jönköpings Södra IF      4-1 (0-1)  Östers IF
+  17.30  Jönköpings Södra IF      4-1 (0-1)  Östers IF
+         Trelleborgs FF           1-1 (0-0)  Örgryte Göteborg
 [Sun Sep/20]
-  14.30  Dalkurd FF               1-1 (0-0)  IK Brage
-         Akropolis IF             1-1 (1-1)  Halmstads BK
+  14.30  Akropolis IF             1-1 (1-1)  Halmstads BK
+         Dalkurd FF               1-1 (0-0)  IK Brage
 [Mon Sep/21]
   19.00  AFC Eskilstuna           0-0  Ljungskile SK
-         Umeå FC                  0-6 (0-2)  Degerfors IF
          GAIS                     1-0 (1-0)  Västerås SK
+         Umeå FC                  0-6 (0-2)  Degerfors IF
 [Tue Sep/22]
   19.00  Norrby IF                0-1 (0-1)  GIF Sundsvall
 
@@ -269,9 +269,9 @@ Round 20
 [Sat Sep/26]
   13.00  Norrby IF                0-2 (0-1)  Degerfors IF
   15.00  Dalkurd FF               1-1 (1-0)  Akropolis IF
-  17.30  Västerås SK              2-2 (0-1)  Jönköpings Södra IF
+  17.30  Halmstads BK             2-0 (1-0)  Ljungskile SK
          IK Brage                 1-2 (0-2)  Östers IF
-         Halmstads BK             2-0 (1-0)  Ljungskile SK
+         Västerås SK              2-2 (0-1)  Jönköpings Södra IF
 [Sun Sep/27]
   14.30  GIF Sundsvall            2-1 (1-1)  Trelleborgs FF
   17.30  Umeå FC                  0-3 (0-2)  AFC Eskilstuna
@@ -289,121 +289,121 @@ Round 21
   14.30  Ljungskile SK            1-2 (1-1)  GAIS
   17.30  Akropolis IF             3-3 (3-2)  Umeå FC
 [Mon Oct/5]
-  19.00  Degerfors IF             -  Västerås SK
-         Trelleborgs FF           -  Norrby IF
+  19.00  Degerfors IF             4-1 (3-1)  Västerås SK
+         Trelleborgs FF           2-2 (1-2)  Norrby IF
 
 
 Round 22
 [Sat Oct/10]
-  13.00  Trelleborgs FF           -  Akropolis IF
-  15.00  Umeå FC                  -  Jönköpings Södra IF
-  17.30  Dalkurd FF               -  Ljungskile SK
-         IK Brage                 -  Degerfors IF
-         GAIS                     -  Halmstads BK
+  13.00  Trelleborgs FF           1-1 (0-0)  Akropolis IF
+  15.00  Umeå FC                  1-2 (0-0)  Jönköpings Södra IF
+  17.30  Dalkurd FF               2-0 (0-0)  Ljungskile SK
+         GAIS                     1-3 (0-2)  Halmstads BK
+         IK Brage                 0-0  Degerfors IF
 [Sun Oct/11]
-  14.30  Västerås SK              -  GIF Sundsvall
-  17.30  Norrby IF                -  Östers IF
+  14.30  Västerås SK              3-2 (2-1)  GIF Sundsvall
+  17.30  Norrby IF                0-2 (0-0)  Östers IF
 [Mon Oct/12]
-  19.00  AFC Eskilstuna           -  Örgryte Göteborg
-
-
-Round 25
-[Wed Oct/14]
-  17.30  Örgryte Göteborg         -  Östers IF
-         Halmstads BK             -  Västerås SK
+  19.00  AFC Eskilstuna           1-0 (0-0)  Örgryte Göteborg
 
 
 Round 23
 [Fri Oct/16]
-  19.00  Umeå FC                  -  Trelleborgs FF
-         GAIS                     -  Norrby IF
-         Akropolis IF             -  AFC Eskilstuna
+  19.00  Akropolis IF             3-2 (3-1)  AFC Eskilstuna
+         GAIS                     3-3 (2-3)  Norrby IF
+         Umeå FC                  0-1 (0-0)  Trelleborgs FF
 [Sat Oct/17]
-  15.00  Östers IF                -  Degerfors IF
-         Halmstads BK             -  IK Brage
-  17.30  GIF Sundsvall            -  Jönköpings Södra IF
-         Örgryte Göteborg         -  Dalkurd FF
-         Ljungskile SK            -  Västerås SK
+  15.00  Halmstads BK             2-0 (2-0)  IK Brage
+         Östers IF                2-0 (1-0)  Degerfors IF
+  17.30  Ljungskile SK            0-2 (0-0)  Västerås SK
+         Örgryte Göteborg         1-2 (1-1)  Dalkurd FF
+         GIF Sundsvall            3-2 (1-2)  Jönköpings Södra IF
 
 
 Round 24
 [Wed Oct/21]
-  19.00  Degerfors IF             -  Örgryte Göteborg
-         Norrby IF                -  Halmstads BK
-         Västerås SK              -  Akropolis IF
-         AFC Eskilstuna           -  Trelleborgs FF
-         Dalkurd FF               -  GIF Sundsvall
-         Östers IF                -  Umeå FC
+  19.00  AFC Eskilstuna           3-2 (2-2)  Trelleborgs FF
+         Dalkurd FF               1-3 (0-2)  GIF Sundsvall
+         Degerfors IF             2-0 (2-0)  Örgryte Göteborg
+         Norrby IF                0-2 (0-1)  Halmstads BK
+         Östers IF                2-0 (2-0)  Umeå FC
+         Västerås SK              2-1 (1-1)  Akropolis IF
 [Thu Oct/22]
-  19.00  IK Brage                 -  Ljungskile SK
-         Jönköpings Södra IF      -  GAIS
+  19.00  IK Brage                 0-1 (0-0)  Ljungskile SK
+         Jönköpings Södra IF      1-0 (0-0)  GAIS
 
 
 Round 25
+[Sat Oct/24]
+  17.30  Halmstads BK             2-1 (1-0)  Västerås SK
+         Örgryte Göteborg         4-1 (3-0)  Östers IF
 [Sun Oct/25]
-  14.30  Akropolis IF             -  Norrby IF
-         AFC Eskilstuna           -  Dalkurd FF
-  17.30  Trelleborgs FF           -  Degerfors IF
+  14.30  AFC Eskilstuna           0-1 (0-0)  Dalkurd FF
+         Akropolis IF             1-3 (0-1)  Norrby IF
+  17.30  Trelleborgs FF           1-1 (0-0)  Degerfors IF
 [Mon Oct/26]
-  19.00  Ljungskile SK            -  GIF Sundsvall
-         IK Brage                 -  Jönköpings Södra IF
-         Umeå FC                  -  GAIS
+  19.00  IK Brage                 1-4 (1-2)  Jönköpings Södra IF
+         Ljungskile SK            0-0  GIF Sundsvall
+         Umeå FC                  3-0 (2-0)  GAIS
 
 
 Round 26
 [Sat Oct/31]
-  13.00  Degerfors IF             -  Akropolis IF
-  15.00  Dalkurd FF               -  Jönköpings Södra IF
-  17.30  Östers IF                -  Halmstads BK
-         GIF Sundsvall            -  Örgryte Göteborg
+  13.00  Degerfors IF             3-2 (3-1)  Akropolis IF
+  15.00  Dalkurd FF               1-1 (0-0)  Jönköpings Södra IF
+  17.30  Östers IF                0-3 (0-1)  Halmstads BK
+         GIF Sundsvall            4-1 (2-1)  Örgryte Göteborg
 [Sun Nov/1]
-  14.30  Ljungskile SK            -  Umeå FC
-  17.30  Västerås SK              -  Trelleborgs FF
+  14.30  Ljungskile SK            0-0  Umeå FC
+  17.30  Västerås SK              3-1 (2-1)  Trelleborgs FF
 [Mon Nov/2]
-  19.00  GAIS                     -  AFC Eskilstuna
-         Norrby IF                -  IK Brage
+  19.00  GAIS                     2-0 (1-0)  AFC Eskilstuna
+         Norrby IF                1-4 (0-1)  IK Brage
 
 
 Round 27
 [Sat Nov/7]
-  13.00  IK Brage                 -  Västerås SK
-  15.00  Halmstads BK             -  Dalkurd FF
-  17.30  Örgryte Göteborg         -  Akropolis IF
-         Jönköpings Södra IF      -  Norrby IF
-         Degerfors IF             -  GAIS
+  13.00  IK Brage                 0-3 (0-3)  Västerås SK
+  15.00  Halmstads BK             4-0 (2-0)  Dalkurd FF
+  17.30  Degerfors IF             2-1 (2-1)  GAIS
+         Jönköpings Södra IF      1-0 (0-0)  Norrby IF
+         Örgryte Göteborg         0-1 (0-0)  Akropolis IF
 [Sun Nov/8]
-  14.30  Östers IF                -  AFC Eskilstuna
-  17.30  Trelleborgs FF           -  Ljungskile SK
-  19.00  Umeå FC                  -  GIF Sundsvall
+  14.30  Östers IF                2-1 (1-1)  AFC Eskilstuna
+  17.30  Trelleborgs FF           1-0 (0-0)  Ljungskile SK
+[Mon Nov/9]
+  19.00  Umeå FC                  1-0 (1-0)  GIF Sundsvall
 
 
 Round 28
-[Sun Nov/22]
-  16.00  Dalkurd FF               -  Trelleborgs FF
-         Akropolis IF             -  IK Brage
-         AFC Eskilstuna           -  Degerfors IF
+[Sat Nov/21]
+  15.00  AFC Eskilstuna           -  Degerfors IF
+         Dalkurd FF               -  Trelleborgs FF
          GAIS                     -  Östers IF
          Ljungskile SK            -  Jönköpings Södra IF
          Norrby IF                -  Umeå FC
-         Västerås SK              -  Örgryte Göteborg
          GIF Sundsvall            -  Halmstads BK
+[Sun Nov/22]
+  14.30  Västerås SK              -  Örgryte Göteborg
+  17.30  Akropolis IF             -  IK Brage
 
 
 Round 29
-[Sun Nov/29]
-  16.00  Degerfors IF             -  GIF Sundsvall
+[Sat Nov/28]
+  15.00  Degerfors IF             -  GIF Sundsvall
          GAIS                     -  Akropolis IF
-         Jönköpings Södra IF      -  Trelleborgs FF
-         IK Brage                 -  AFC Eskilstuna
-         Umeå FC                  -  Västerås SK
-         Norrby IF                -  Dalkurd FF
-         Östers IF                -  Ljungskile SK
          Halmstads BK             -  Örgryte Göteborg
+         Jönköpings Södra IF      -  Trelleborgs FF
+         Östers IF                -  Ljungskile SK
+         Umeå FC                  -  Västerås SK
+[Sun Nov/29]
+  14.30  Norrby IF                -  Dalkurd FF
+  17.30  IK Brage                 -  AFC Eskilstuna
 
 
 Round 30
 [Sat Dec/5]
-  16.00  AFC Eskilstuna           -  Norrby IF
+  15.00  AFC Eskilstuna           -  Norrby IF
          Akropolis IF             -  Jönköpings Södra IF
          Dalkurd FF               -  GAIS
          Ljungskile SK            -  Degerfors IF
