@@ -21,25 +21,25 @@ Journée 2
   15.00  AS Nancy Lorraine        2-2 (0-0)  EA Guingamp
          Stade Malherbe Caen      1-0 (1-0)  AC Ajaccio
   19.00  Paris FC                 1-0 (0-0)  Valenciennes FC
-         Chamois Niortais FC      1-1 (0-1)  FC Chambly
+         USL Dunkerque            1-1 (1-0)  Clermont Foot 63
          Le Havre AC              1-0 (1-0)  Amiens SC
          Pau FC                   1-1 (0-0)  Rodez AF
          FC Sochaux-Montbéliard   2-1 (1-0)  ES Troyes AC
          Grenoble Foot 38         5-3 (4-2)  Toulouse FC
+         Chamois Niortais FC      1-1 (0-1)  FC Chambly
          LB Châteauroux           1-2 (0-0)  AJ Auxerre
-         USL Dunkerque            1-1 (1-0)  Clermont Foot 63
 
 
 Journée 3
 [Sam 12. Sept]
   15.00  EA Guingamp              1-3 (0-2)  Le Havre AC
-  19.00  FC Chambly               1-2 (1-0)  Grenoble Foot 38
+  19.00  Amiens SC                1-2 (0-1)  Paris FC
          ES Troyes AC             2-0 (1-0)  Pau FC
+         FC Chambly               1-2 (1-0)  Grenoble Foot 38
          AJ Auxerre               0-1 (0-0)  Clermont Foot 63
-         Chamois Niortais FC      1-0 (0-0)  AS Nancy Lorraine
          Valenciennes FC          1-0 (0-0)  LB Châteauroux
          Rodez AF                 0-3 (0-1)  Stade Malherbe Caen
-         Amiens SC                1-2 (0-1)  Paris FC
+         Chamois Niortais FC      1-0 (0-0)  AS Nancy Lorraine
 [Lun 14. Sept]
   20.45  Toulouse FC              0-0  FC Sochaux-Montbéliard
 
@@ -50,11 +50,11 @@ Journée 4
   19.00  Pau FC                   0-1 (0-0)  EA Guingamp
          Le Havre AC              0-1 (0-0)  Chamois Niortais FC
          Paris FC                 0-2 (0-0)  AS Nancy Lorraine
-         Stade Malherbe Caen      0-0  FC Chambly
+         USL Dunkerque            1-0 (0-0)  Valenciennes FC
          FC Sochaux-Montbéliard   2-2 (0-2)  Rodez AF
          Grenoble Foot 38         2-0 (1-0)  AC Ajaccio
          LB Châteauroux           0-0  Amiens SC
-         USL Dunkerque            1-0 (0-0)  Valenciennes FC
+         Stade Malherbe Caen      0-0  FC Chambly
 [Lun 21. Sept]
   20.45  AJ Auxerre               2-1 (1-0)  ES Troyes AC
 
@@ -66,10 +66,10 @@ Journée 5
          AC Ajaccio               1-1 (1-0)  FC Sochaux-Montbéliard
          AS Nancy Lorraine        0-1 (0-0)  Le Havre AC
          EA Guingamp              1-0 (1-0)  Grenoble Foot 38
-         Rodez AF                 2-1 (1-0)  USL Dunkerque
+         FC Chambly               2-1 (0-1)  LB Châteauroux
          Chamois Niortais FC      2-2 (1-0)  Paris FC
          Valenciennes FC          1-0 (1-0)  Stade Malherbe Caen
-         FC Chambly               2-1 (0-1)  LB Châteauroux
+         Rodez AF                 2-1 (1-0)  USL Dunkerque
 [Lun 28. Sept]
   20.45  ES Troyes AC             1-0 (1-0)  Clermont Foot 63
 
@@ -84,13 +84,13 @@ Journée 6
   15.00  Toulouse FC              0-0  ES Troyes AC
   15.30  Stade Malherbe Caen      1-0 (1-0)  Amiens SC
   19.00  Paris FC                 3-0 (1-0)  Le Havre AC
-         Clermont Foot 63         3-0 (2-0)  Rodez AF
-         AJ Auxerre               5-1 (4-1)  AC Ajaccio
          LB Châteauroux           2-0 (1-0)  Chamois Niortais FC
+         AJ Auxerre               5-1 (4-1)  AC Ajaccio
+         Pau FC                   1-1 (1-0)  AS Nancy Lorraine
          FC Sochaux-Montbéliard   3-2 (1-1)  FC Chambly
          Grenoble Foot 38         2-0 (1-0)  Valenciennes FC
          USL Dunkerque            1-0 (0-0)  EA Guingamp
-         Pau FC                   1-1 (1-0)  AS Nancy Lorraine
+         Clermont Foot 63         3-0 (2-0)  Rodez AF
 
 
 Journée 7
@@ -101,10 +101,10 @@ Journée 7
   19.00  AC Ajaccio               0-1 (0-0)  Toulouse FC
          Amiens SC                1-0 (0-0)  Grenoble Foot 38
          AS Nancy Lorraine        2-1 (2-0)  USL Dunkerque
-         Chamois Niortais FC      3-0 (1-0)  Stade Malherbe Caen
          Le Havre AC              1-1 (1-1)  LB Châteauroux
-         Rodez AF                 0-1 (0-0)  ES Troyes AC
          Paris FC                 1-0 (0-0)  Pau FC
+         Rodez AF                 0-1 (0-0)  ES Troyes AC
+         Chamois Niortais FC      3-0 (1-0)  Stade Malherbe Caen
 [Lun 19. Oct]
   20.45  EA Guingamp              2-0 (0-0)  AJ Auxerre
 
@@ -112,74 +112,78 @@ Journée 7
 Journée 8
 [Sam 24. Oct]
   15.00  Stade Malherbe Caen      1-0 (0-0)  EA Guingamp
-  19.00  Clermont Foot 63         0-2 (0-0)  AC Ajaccio
-         AJ Auxerre               4-0 (3-0)  FC Chambly
-  Grenoble Foot 38         -  AS Nancy Lorraine
-  19.00  ES Troyes AC             1-1 (1-1)  Valenciennes FC
-         Pau FC                   4-1 (2-1)  Chamois Niortais FC
-         Toulouse FC              3-0 (1-0)  Rodez AF
-         LB Châteauroux           1-2 (1-2)  Paris FC
+  19.00  AJ Auxerre               4-0 (3-0)  FC Chambly
+         Clermont Foot 63         0-2 (0-0)  AC Ajaccio
          USL Dunkerque            0-1 (0-1)  Le Havre AC
+         Pau FC                   4-1 (2-1)  Chamois Niortais FC
+         ES Troyes AC             1-1 (1-1)  Valenciennes FC
+         LB Châteauroux           1-2 (1-2)  Paris FC
+         Toulouse FC              3-0 (1-0)  Rodez AF
 [Lun 26. Oct]
   20.45  FC Sochaux-Montbéliard   0-2 (0-0)  Amiens SC
 
 
 Journée 9
 [Sam 31. Oct]
-  Chamois Niortais FC      -  Grenoble Foot 38
   15.00  Paris FC                 3-1 (1-1)  Stade Malherbe Caen
+  19.00  Valenciennes FC          1-3 (1-1)  Clermont Foot 63
+  Chamois Niortais FC      -  Grenoble Foot 38
   19.00  AC Ajaccio               0-4 (0-1)  ES Troyes AC
-         Le Havre AC              1-0 (1-0)  Pau FC
+         Rodez AF                 2-2 (2-1)  AJ Auxerre
          AS Nancy Lorraine        2-1 (0-1)  LB Châteauroux
          EA Guingamp              0-0  FC Sochaux-Montbéliard
          FC Chambly               0-1 (0-0)  USL Dunkerque
-         Valenciennes FC          1-3 (1-1)  Clermont Foot 63
-         Rodez AF                 2-2 (2-1)  AJ Auxerre
+         Le Havre AC              1-0 (1-0)  Pau FC
 [Lun 2. Nov]
   20.45  Amiens SC                0-1 (0-0)  Toulouse FC
 
 
 Journée 10
 [Sam 7. Nov]
-  15.00  Clermont Foot 63         0-0  EA Guingamp
-         Grenoble Foot 38         2-1 (1-0)  Le Havre AC
-  19.00  FC Sochaux-Montbéliard   3-4 (1-2)  Chamois Niortais FC
-         ES Troyes AC             2-2 (2-1)  FC Chambly
+  15.00  Grenoble Foot 38         2-1 (1-0)  Le Havre AC
+         Clermont Foot 63         0-0  EA Guingamp
+  19.00  Stade Malherbe Caen      2-1 (1-1)  AS Nancy Lorraine
          AJ Auxerre               2-1 (1-0)  Amiens SC
+         ES Troyes AC             2-2 (2-1)  FC Chambly
+         FC Sochaux-Montbéliard   3-4 (1-2)  Chamois Niortais FC
          Toulouse FC              4-5 (2-2)  Valenciennes FC
          LB Châteauroux           0-3 (0-3)  Pau FC
-         Rodez AF                 0-1 (0-0)  AC Ajaccio
-         Stade Malherbe Caen      2-1 (1-1)  AS Nancy Lorraine
          USL Dunkerque            0-1 (0-1)  Paris FC
+         Rodez AF                 0-1 (0-0)  AC Ajaccio
 
 
 Journée 11
 [Sam 21. Nov]
   15.00  Le Havre AC              -  Stade Malherbe Caen
-  20.00  Paris FC                 -  AJ Auxerre
-         FC Chambly               -  Toulouse FC
-         Chamois Niortais FC      -  USL Dunkerque
+  19.00  Chamois Niortais FC      -  USL Dunkerque
          AS Nancy Lorraine        -  ES Troyes AC
+         FC Chambly               -  Toulouse FC
+         Paris FC                 -  AJ Auxerre
+         LB Châteauroux           -  FC Sochaux-Montbéliard
          Pau FC                   -  Grenoble Foot 38
          Valenciennes FC          -  Rodez AF
-         LB Châteauroux           -  FC Sochaux-Montbéliard
          Amiens SC                -  Clermont Foot 63
 [Lun 23. Nov]
   20.45  EA Guingamp              -  AC Ajaccio
+
+
+Journée 8
+[Mar  24. Nov]
+  19.00  Grenoble Foot 38         -  AS Nancy Lorraine
 
 
 Journée 12
 [Sam 28. Nov]
   15.00  Toulouse FC              -  Chamois Niortais FC
          Grenoble Foot 38         -  Paris FC
-  19.00  Clermont Foot 63         -  AS Nancy Lorraine
-         AJ Auxerre               -  Valenciennes FC
+  19.00  AJ Auxerre               -  Valenciennes FC
          AC Ajaccio               -  FC Chambly
+         USL Dunkerque            -  Pau FC
          ES Troyes AC             -  Amiens SC
          FC Sochaux-Montbéliard   -  Le Havre AC
          Rodez AF                 -  EA Guingamp
+         Clermont Foot 63         -  AS Nancy Lorraine
          Stade Malherbe Caen      -  LB Châteauroux
-         USL Dunkerque            -  Pau FC
 
 
 Journée 13
@@ -187,13 +191,13 @@ Journée 13
   20.00  Le Havre AC              -  AJ Auxerre
          AS Nancy Lorraine        -  Toulouse FC
          EA Guingamp              -  ES Troyes AC
-         FC Chambly               -  Rodez AF
          Chamois Niortais FC      -  Clermont Foot 63
+         Amiens SC                -  USL Dunkerque
          Paris FC                 -  FC Sochaux-Montbéliard
          Pau FC                   -  Stade Malherbe Caen
          Valenciennes FC          -  AC Ajaccio
          LB Châteauroux           -  Grenoble Foot 38
-         Amiens SC                -  USL Dunkerque
+         FC Chambly               -  Rodez AF
 
 
 Journée 14
@@ -201,13 +205,13 @@ Journée 14
   20.00  AC Ajaccio               -  Le Havre AC
          AJ Auxerre               -  Chamois Niortais FC
          Clermont Foot 63         -  Pau FC
-         ES Troyes AC             -  Paris FC
+         USL Dunkerque            -  LB Châteauroux
          FC Chambly               -  Valenciennes FC
          FC Sochaux-Montbéliard   -  AS Nancy Lorraine
          Toulouse FC              -  EA Guingamp
          Rodez AF                 -  Amiens SC
          Stade Malherbe Caen      -  Grenoble Foot 38
-         USL Dunkerque            -  LB Châteauroux
+         ES Troyes AC             -  Paris FC
 
 
 Journée 15
@@ -229,13 +233,13 @@ Journée 16
   20.00  AC Ajaccio               -  AS Nancy Lorraine
          AJ Auxerre               -  Pau FC
          Clermont Foot 63         -  Paris FC
-         ES Troyes AC             -  Chamois Niortais FC
+         USL Dunkerque            -  Stade Malherbe Caen
          FC Chambly               -  EA Guingamp
          FC Sochaux-Montbéliard   -  Grenoble Foot 38
          Toulouse FC              -  Le Havre AC
          Valenciennes FC          -  Amiens SC
          Rodez AF                 -  LB Châteauroux
-         USL Dunkerque            -  Stade Malherbe Caen
+         ES Troyes AC             -  Chamois Niortais FC
 
 
 Journée 17
@@ -244,12 +248,12 @@ Journée 17
          AS Nancy Lorraine        -  FC Chambly
          Chamois Niortais FC      -  Valenciennes FC
          Paris FC                 -  EA Guingamp
-         Pau FC                   -  Toulouse FC
+         USL Dunkerque            -  AJ Auxerre
          Grenoble Foot 38         -  ES Troyes AC
          LB Châteauroux           -  Clermont Foot 63
          Amiens SC                -  AC Ajaccio
          Stade Malherbe Caen      -  FC Sochaux-Montbéliard
-         USL Dunkerque            -  AJ Auxerre
+         Pau FC                   -  Toulouse FC
 
 
 Journée 18
@@ -258,12 +262,12 @@ Journée 18
          AJ Auxerre               -  Stade Malherbe Caen
          Clermont Foot 63         -  Grenoble Foot 38
          EA Guingamp              -  Amiens SC
-         ES Troyes AC             -  LB Châteauroux
+         Rodez AF                 -  Chamois Niortais FC
          FC Chambly               -  Le Havre AC
          FC Sochaux-Montbéliard   -  USL Dunkerque
          Toulouse FC              -  Paris FC
          Valenciennes FC          -  AS Nancy Lorraine
-         Rodez AF                 -  Chamois Niortais FC
+         ES Troyes AC             -  LB Châteauroux
 
 
 Journée 19

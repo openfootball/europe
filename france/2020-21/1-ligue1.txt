@@ -127,13 +127,12 @@ Journée 8
   17.00  FC Lorient               0-1 (0-0)  Olympique de Marseille
   21.00  Paris Saint-Germain      4-0 (2-0)  Dijon FCO
 [Dim 25. Oct]
-  15.00  Montpellier HSC          0-4 (0-3)  Stade de Reims
+  15.00  Stade Brestois 29        0-3 (0-2)  RC Strasbourg
+         Montpellier HSC          0-4 (0-3)  Stade de Reims
          FC Metz                  2-0 (1-0)  AS Saint-Étienne
-         Stade Brestois 29        0-3 (0-2)  RC Strasbourg
          Girondins de Bordeaux    2-0 (0-0)  Nîmes Olympique
   17.00  OGC Nice                 1-1 (0-0)  Lille OSC
   21.00  Olympique Lyonnais       4-1 (4-0)  AS Monaco
-  RC Lens                  -  FC Nantes
 
 
 Journée 9
@@ -144,10 +143,10 @@ Journée 9
   21.00  FC Nantes                0-3 (0-0)  Paris Saint-Germain
 [Dim 1. Nov]
   13.00  AS Saint-Étienne         0-1 (0-1)  Montpellier HSC
-  15.00  Angers SCO               0-3 (0-2)  OGC Nice
-         Dijon FCO                0-0  FC Lorient
+  15.00  Nîmes Olympique          0-1 (0-1)  FC Metz
+         Angers SCO               0-3 (0-2)  OGC Nice
          Stade de Reims           2-1 (2-1)  RC Strasbourg
-         Nîmes Olympique          0-1 (0-1)  FC Metz
+         Dijon FCO                0-0  FC Lorient
   17.00  AS Monaco                4-0 (3-0)  Girondins de Bordeaux
   21.00  Lille OSC                1-1 (1-1)  Olympique Lyonnais
 
@@ -160,10 +159,10 @@ Journée 10
   21.00  Paris Saint-Germain      3-0 (2-0)  Stade Rennais FC
 [Dim 8. Nov]
   13.00  Stade Brestois 29        3-2 (3-1)  Lille OSC
-  15.00  RC Lens                  4-4 (1-0)  Stade de Reims
+  15.00  FC Metz                  1-1 (1-1)  Dijon FCO
+         RC Lens                  4-4 (1-0)  Stade de Reims
          FC Lorient               0-2 (0-0)  FC Nantes
          Nîmes Olympique          1-5 (0-2)  Angers SCO
-         FC Metz                  1-1 (1-1)  Dijon FCO
   17.00  OGC Nice                 1-2 (0-1)  AS Monaco
   21.00  Olympique Lyonnais       2-1 (0-1)  AS Saint-Étienne
 
@@ -177,11 +176,16 @@ Journée 11
   21.00  Olympique de Marseille   -  OGC Nice
 [Dim 22. Nov]
   13.00  FC Nantes                -  FC Metz
-  15.00  Dijon FCO                -  RC Lens
-         Stade de Reims           -  Nîmes Olympique
+  15.00  Stade de Reims           -  Nîmes Olympique
          Montpellier HSC          -  RC Strasbourg
+         Dijon FCO                -  RC Lens
   17.00  Angers SCO               -  Olympique Lyonnais
   21.00  Lille OSC                -  FC Lorient
+
+
+Journée 8
+[Mer 25. Nov]
+  19.00  RC Lens                  -  FC Nantes
 
 
 Journée 12
@@ -201,31 +205,33 @@ Journée 12
 
 
 Journée 13
+[Ven 4. Déc]
+  21.00  Nîmes Olympique          -  Olympique de Marseille
+[Sam 5. Déc]
+  17.00  Stade Rennais FC         -  RC Lens
+  21.00  Montpellier HSC          -  Paris Saint-Germain
 [Dim 6. Déc]
-  Girondins de Bordeaux    -  Stade Brestois 29
-  Angers SCO               -  FC Lorient
-  Dijon FCO                -  AS Saint-Étienne
-  Lille OSC                -  AS Monaco
-  FC Metz                  -  Olympique Lyonnais
-  Montpellier HSC          -  Paris Saint-Germain
-  FC Nantes                -  RC Strasbourg
-  Nîmes Olympique          -  Olympique de Marseille
-  Stade de Reims           -  OGC Nice
-  Stade Rennais FC         -  RC Lens
+  13.00  Lille OSC                -  AS Monaco
+  15.00  Angers SCO               -  FC Lorient
+         Girondins de Bordeaux    -  Stade Brestois 29
+         Dijon FCO                -  AS Saint-Étienne
+         FC Nantes                -  RC Strasbourg
+  17.00  Stade de Reims           -  OGC Nice
+  21.00  FC Metz                  -  Olympique Lyonnais
 
 
 Journée 14
 [Dim 13. Déc]
-  Stade Brestois 29        -  Stade de Reims
   RC Lens                  -  Montpellier HSC
+  Stade Brestois 29        -  Stade de Reims
   Lille OSC                -  Girondins de Bordeaux
   FC Lorient               -  Nîmes Olympique
   Olympique de Marseille   -  AS Monaco
   FC Nantes                -  Dijon FCO
-  OGC Nice                 -  Stade Rennais FC
+  RC Strasbourg            -  FC Metz
   Paris Saint-Germain      -  Olympique Lyonnais
   AS Saint-Étienne         -  Angers SCO
-  RC Strasbourg            -  FC Metz
+  OGC Nice                 -  Stade Rennais FC
 
 
 Journée 15
