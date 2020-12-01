@@ -22,10 +22,10 @@ Journée 2
   21.00  RC Strasbourg            0-2 (0-1)  OGC Nice
 [Dim 30. Août]
   13.00  Stade de Reims           0-1 (0-1)  Lille OSC
-  15.00  AS Saint-Étienne         2-0 (1-0)  FC Lorient
-         Angers SCO               0-2 (0-2)  Girondins de Bordeaux
+  15.00  Angers SCO               0-2 (0-2)  Girondins de Bordeaux
          FC Metz                  0-1 (0-1)  AS Monaco
          FC Nantes                2-1 (2-0)  Nîmes Olympique
+         AS Saint-Étienne         2-0 (1-0)  FC Lorient
   21.00  Stade Brestois 29        2-3 (1-2)  Olympique de Marseille
 [Jeu 10. Sept]
   21.00  RC Lens                  1-0 (0-0)  Paris Saint-Germain
@@ -39,10 +39,10 @@ Journée 3
   21.00  AS Saint-Étienne         2-0 (0-0)  RC Strasbourg
 [Dim 13. Sept]
   13.00  Lille OSC                1-0 (0-0)  FC Metz
-  15.00  Nîmes Olympique          2-4 (1-2)  Stade Rennais FC
+  15.00  Angers SCO               1-0 (0-0)  Stade de Reims
          Dijon FCO                0-2 (0-1)  Stade Brestois 29
-         Angers SCO               1-0 (0-0)  Stade de Reims
          FC Lorient               2-3 (1-2)  RC Lens
+         Nîmes Olympique          2-4 (1-2)  Stade Rennais FC
   17.00  AS Monaco                2-1 (1-0)  FC Nantes
   21.00  Paris Saint-Germain      0-1 (0-1)  Olympique de Marseille
 
@@ -80,10 +80,10 @@ Journée 5
   21.00  Olympique de Marseille   1-1 (0-0)  FC Metz
 [Dim 27. Sept]
   13.00  Girondins de Bordeaux    0-0  OGC Nice
-  15.00  Dijon FCO                2-2 (1-0)  Montpellier HSC
-         Nîmes Olympique          1-1 (0-1)  RC Lens
+  15.00  Angers SCO               3-2 (1-2)  Stade Brestois 29
+         Dijon FCO                2-2 (1-0)  Montpellier HSC
          AS Monaco                3-2 (2-0)  RC Strasbourg
-         Angers SCO               3-2 (1-2)  Stade Brestois 29
+         Nîmes Olympique          1-1 (0-1)  RC Lens
   17.00  FC Lorient               1-1 (0-0)  Olympique Lyonnais
   21.00  Stade de Reims           0-2 (0-1)  Paris Saint-Germain
 
@@ -98,8 +98,8 @@ Journée 6
   13.00  Montpellier HSC          0-1 (0-0)  Nîmes Olympique
   15.00  Girondins de Bordeaux    3-0 (2-0)  Dijon FCO
          Stade Brestois 29        1-0 (1-0)  AS Monaco
-         RC Strasbourg            0-3 (0-1)  Lille OSC
          FC Metz                  3-1 (1-1)  FC Lorient
+         RC Strasbourg            0-3 (0-1)  Lille OSC
   17.00  Stade Rennais FC         2-2 (2-1)  Stade de Reims
   21.00  Olympique Lyonnais       1-1 (1-1)  Olympique de Marseille
 
@@ -127,10 +127,10 @@ Journée 8
   17.00  FC Lorient               0-1 (0-0)  Olympique de Marseille
   21.00  Paris Saint-Germain      4-0 (2-0)  Dijon FCO
 [Dim 25. Oct]
-  15.00  Stade Brestois 29        0-3 (0-2)  RC Strasbourg
-         Montpellier HSC          0-4 (0-3)  Stade de Reims
+  15.00  Girondins de Bordeaux    2-0 (0-0)  Nîmes Olympique
+         Stade Brestois 29        0-3 (0-2)  RC Strasbourg
          FC Metz                  2-0 (1-0)  AS Saint-Étienne
-         Girondins de Bordeaux    2-0 (0-0)  Nîmes Olympique
+         Montpellier HSC          0-4 (0-3)  Stade de Reims
   17.00  OGC Nice                 1-1 (0-0)  Lille OSC
   21.00  Olympique Lyonnais       4-1 (4-0)  AS Monaco
 
@@ -143,10 +143,10 @@ Journée 9
   21.00  FC Nantes                0-3 (0-0)  Paris Saint-Germain
 [Dim 1. Nov]
   13.00  AS Saint-Étienne         0-1 (0-1)  Montpellier HSC
-  15.00  Nîmes Olympique          0-1 (0-1)  FC Metz
-         Angers SCO               0-3 (0-2)  OGC Nice
-         Stade de Reims           2-1 (2-1)  RC Strasbourg
+  15.00  Angers SCO               0-3 (0-2)  OGC Nice
          Dijon FCO                0-0  FC Lorient
+         Nîmes Olympique          0-1 (0-1)  FC Metz
+         Stade de Reims           2-1 (2-1)  RC Strasbourg
   17.00  AS Monaco                4-0 (3-0)  Girondins de Bordeaux
   21.00  Lille OSC                1-1 (1-1)  Olympique Lyonnais
 
@@ -159,9 +159,9 @@ Journée 10
   21.00  Paris Saint-Germain      3-0 (2-0)  Stade Rennais FC
 [Dim 8. Nov]
   13.00  Stade Brestois 29        3-2 (3-1)  Lille OSC
-  15.00  FC Metz                  1-1 (1-1)  Dijon FCO
-         RC Lens                  4-4 (1-0)  Stade de Reims
+  15.00  RC Lens                  4-4 (1-0)  Stade de Reims
          FC Lorient               0-2 (0-0)  FC Nantes
+         FC Metz                  1-1 (1-1)  Dijon FCO
          Nîmes Olympique          1-5 (0-2)  Angers SCO
   17.00  OGC Nice                 1-2 (0-1)  AS Monaco
   21.00  Olympique Lyonnais       2-1 (0-1)  AS Saint-Étienne
@@ -169,31 +169,31 @@ Journée 10
 
 Journée 11
 [Ven 20. Nov]
-  19.00  Stade Rennais FC         0-1 (0-1)  Girondins de Bordeaux
-  21.00  AS Monaco                3-2 (0-2)  Paris Saint-Germain
+  19.00  Stade Rennais FC         -  Girondins de Bordeaux
+  21.00  AS Monaco                -  Paris Saint-Germain
 [Sam 21. Nov]
-  17.00  Stade Brestois 29        4-1 (4-1)  AS Saint-Étienne
-  Olympique de Marseille   -  OGC Nice
+  17.00  Stade Brestois 29        -  AS Saint-Étienne
+  21.00  Olympique de Marseille   -  OGC Nice
 [Dim 22. Nov]
-  13.00  FC Nantes                1-1 (1-1)  FC Metz
-  15.00  Stade de Reims           0-1 (0-0)  Nîmes Olympique
-         Montpellier HSC          4-3 (3-3)  RC Strasbourg
-         Dijon FCO                0-1 (0-1)  RC Lens
-  17.00  Angers SCO               0-1 (0-0)  Olympique Lyonnais
-  21.00  Lille OSC                4-0 (1-0)  FC Lorient
+  13.00  FC Nantes                -  FC Metz
+  15.00  Dijon FCO                -  RC Lens
+         Montpellier HSC          -  RC Strasbourg
+         Stade de Reims           -  Nîmes Olympique
+  17.00  Angers SCO               -  Olympique Lyonnais
+  21.00  Lille OSC                -  FC Lorient
 
 
 Journée 8
 [Mer 25. Nov]
-  19.00  RC Lens                  1-1 (1-0)  FC Nantes
+  19.00  RC Lens                  -  FC Nantes
 
 
 Journée 12
 [Ven 27. Nov]
-  21.00  RC Strasbourg            1-1 (1-0)  Stade Rennais FC
+  21.00  RC Strasbourg            -  Stade Rennais FC
 [Sam 28. Nov]
-  17.00  Olympique de Marseille   3-1 (2-0)  FC Nantes
-  21.00  Paris Saint-Germain      2-2 (2-1)  Girondins de Bordeaux
+  17.00  Olympique de Marseille   -  FC Nantes
+  21.00  Paris Saint-Germain      -  Girondins de Bordeaux
 [Dim 29. Nov]
   13.00  Olympique Lyonnais       -  Stade de Reims
   15.00  RC Lens                  -  Angers SCO
@@ -221,48 +221,45 @@ Journée 13
 
 
 Journée 14
-[Ven 11. Déc]
-  21.00  AS Saint-Étienne         -  Angers SCO
-[Sam 12. Déc]
-  17.00  Olympique de Marseille   -  AS Monaco
-  21.00  RC Lens                  -  Montpellier HSC
 [Dim 13. Déc]
-  13.00  OGC Nice                 -  Stade Rennais FC
-  15.00  Stade Brestois 29        -  Stade de Reims
-         FC Lorient               -  Nîmes Olympique
-         RC Strasbourg            -  FC Metz
-         FC Nantes                -  Dijon FCO
-  17.00  Lille OSC                -  Girondins de Bordeaux
-  21.00  Paris Saint-Germain      -  Olympique Lyonnais
+  Stade Brestois 29        -  Stade de Reims
+  RC Lens                  -  Montpellier HSC
+  Lille OSC                -  Girondins de Bordeaux
+  FC Lorient               -  Nîmes Olympique
+  Olympique de Marseille   -  AS Monaco
+  FC Nantes                -  Dijon FCO
+  OGC Nice                 -  Stade Rennais FC
+  Paris Saint-Germain      -  Olympique Lyonnais
+  AS Saint-Étienne         -  Angers SCO
+  RC Strasbourg            -  FC Metz
 
 
 Journée 15
 [Mer 16. Déc]
-  19.00  Dijon FCO                -  Lille OSC
-         Angers SCO               -  RC Strasbourg
-         Montpellier HSC          -  FC Metz
-         Stade de Reims           -  FC Nantes
-         Nîmes Olympique          -  OGC Nice
-  21.00  Girondins de Bordeaux    -  AS Saint-Étienne
-         Olympique Lyonnais       -  Stade Brestois 29
-         AS Monaco                -  RC Lens
-         Paris Saint-Germain      -  FC Lorient
-         Stade Rennais FC         -  Olympique de Marseille
+  Angers SCO               -  RC Strasbourg
+  Girondins de Bordeaux    -  AS Saint-Étienne
+  Dijon FCO                -  Lille OSC
+  Olympique Lyonnais       -  Stade Brestois 29
+  AS Monaco                -  RC Lens
+  Montpellier HSC          -  FC Metz
+  Nîmes Olympique          -  OGC Nice
+  Paris Saint-Germain      -  FC Lorient
+  Stade de Reims           -  FC Nantes
+  Stade Rennais FC         -  Olympique de Marseille
 
 
 Journée 16
-[Sam 19. Déc]
-  17.00  FC Metz                  -  RC Lens
-  19.00  Olympique de Marseille   -  Stade de Reims
-  21.00  OGC Nice                 -  Olympique Lyonnais
 [Dim 20. Déc]
-  13.00  Stade Brestois 29        -  Montpellier HSC
-  15.00  Dijon FCO                -  AS Monaco
-         FC Nantes                -  Angers SCO
-         RC Strasbourg            -  Girondins de Bordeaux
-         AS Saint-Étienne         -  Nîmes Olympique
-  17.00  FC Lorient               -  Stade Rennais FC
-  21.00  Lille OSC                -  Paris Saint-Germain
+  Stade Brestois 29        -  Montpellier HSC
+  Dijon FCO                -  AS Monaco
+  Lille OSC                -  Paris Saint-Germain
+  FC Lorient               -  Stade Rennais FC
+  Olympique de Marseille   -  Stade de Reims
+  FC Metz                  -  RC Lens
+  FC Nantes                -  Angers SCO
+  OGC Nice                 -  Olympique Lyonnais
+  AS Saint-Étienne         -  Nîmes Olympique
+  RC Strasbourg            -  Girondins de Bordeaux
 
 
 Journée 17
