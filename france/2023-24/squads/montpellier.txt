@@ -1,0 +1,35 @@
+= Montpellier-Hérault Sport Club    # Montpellier
+
+ 1  Belmin Dizdarević (BIH)        GK    # 09 Aug 2001, Zenica  -- Sarajevo
+16  Dimitry Bertaud (COD)          GK    # 06 Jun 1998, Montpellier
+40  Benjamin Lecomte (FRA)         GK    # 26 Apr 1991, Paris  -- Monaco
+
+ 3  Issiaga Sylla (GUI)            DF    # 01 Jan 1994, Conakry  -- Toulouse
+ 4  Boubakar Kouyaté (MLI)         DF    # 15 Apr 1997, Bamako  -- Metz
+ 5  Modibo Sagnan (FRA)            DF    # 14 Apr 1999, Saint-Denis  -- FC Utrecht
+ 6  Christopher Jullien (FRA)      DF    # 22 Mar 1993, Lagny-sur-Marne  -- Celtic
+17  Théo Sainte-Luce (FRA)         DF    # 20 Oct 1998, Chauny  -- Nîmes
+27  Bećir Omeragić (SUI)           DF    # 20 Jan 2002, Geneva  -- Zürich
+29  Enzo Tchato (CMR)              DF    # 23 Nov 2002, Montpellier
+35  Lucas Mincarelli-Davin (ITA)   DF    # 05 Jan 2004, Saint-Martin-d'Hères  -- Istres
+36  Silvan Hefti (SUI)             DF    # 25 Oct 1997, Rorschach  -- Genoa
+37  Teo Allix (FRA)                DF    # 05 Jul 2004, Montpellier
+77  Falaye Sacko (MLI)             DF    # 01 May 1995, Bamako  -- Vitória Guimarães
+
+10  Wahbi Khazri (TUN)             MF    # 08 Feb 1991, Ajaccio  -- St-Etienne
+11  Téji Savanier (FRA)            MF    # 22 Dec 1991, Montpellier  -- Nîmes
+12  Jordan Ferri (FRA)             MF    # 12 Mar 1992, Cavaillon  -- Lyon
+13  Joris Chotard (FRA)            MF    # 24 Sep 2001, Orange
+18  Léo Leroy (FRA)                MF    # 14 Feb 2000, Marseille  -- Châteauroux
+19  Sacha Delaye (FRA)             MF    # 23 Apr 2002, Rennes
+22  Khalil Fayad (FRA)             MF    # 09 Jun 2004, Montpellier
+70  Tanguy Coulibaly (FRA)         MF    # 18 Feb 2001, Sèvres  -- Stuttgart
+
+ 7  Arnaud Nordin (FRA)            FW    # 17 Jun 1998, Paris  -- St-Etienne
+ 8  Akor Adams (NGA)               FW    # 29 Jan 2000, Kogi  -- Lillestrøm
+ 9  Musa Al-Taamari (JOR)          FW    # 10 Jun 1997, Amman  -- OH Leuven
+23  Yann Karamoh (FRA)             FW    # 08 Jul 1998, Abidjan  -- Torino
+38  Axel Gueguin (FRA)             FW    # 24 Mar 2005, Montpellier
+39  Yanis Issoufou (FRA)           FW    # 28 Oct 2006, Nîmes  -- Nîmes
+41  Junior Ndiaye (FRA)            FW    # 29 Mar 2005, Dubai
+42  Othmane Maamma (MAR)           FW    # 06 Oct 2005, Alès

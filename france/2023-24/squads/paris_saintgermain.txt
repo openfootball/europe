@@ -1,0 +1,38 @@
+= Paris Saint-Germain Football Club    # Paris Saint-Germain
+
+ 1  Keylor Navas (CRC)             GK    # 15 Dec 1986, San Isidro de El General  -- Real Madrid
+16  Sergio Rico (ESP)              GK    # 01 Sep 1993, Seville  -- Sevilla
+30  Alexandre Letellier (FRA)      GK    # 11 Dec 1990, Paris  -- Orléans
+70  Louis Mouquet (POR)            GK    # 21 Jul 2004, Bayeux
+80  Arnau Tenas (ESP)              GK    # 30 May 2001, Vic  -- Barcelona B
+99  Gianluigi Donnarumma (ITA)     GK    # 25 Feb 1999, Castellammare di Stabia  -- Milan
+
+ 2  Achraf Hakimi (MAR)            DF    # 04 Nov 1998, Madrid  -- Internazionale
+ 3  Presnel Kimpembe (FRA)         DF    # 13 Aug 1995, Beaumont-sur-Oise
+ 5  Marquinhos (BRA)               DF    # 14 May 1994, São Paulo  -- Roma
+21  Lucas Hernández (FRA)          DF    # 14 Feb 1996, Marseille  -- Bayern Munich
+25  Nuno Mendes (POR)              DF    # 19 Jun 2002, Lisbon  -- Sporting CP
+26  Nordi Mukiele (FRA)            DF    # 01 Nov 1997, Montreuil  -- RB Leipzig
+35  Lucas Beraldo (BRA)            DF    # 24 Nov 2003, Piracicaba  -- São Paulo
+36  Serif Nhaga (POR)              DF    # 01 Sep 2005, Bissau  -- FC Porto
+37  Milan Škriniar (SVK)           DF    # 11 Feb 1995, Žiar nad Hronom  -- Internazionale
+42  Yoram Zague (FRA)              DF    # 15 May 2006, Paris
+43  Kouakou Gadou (FRA)            DF    # 17 Jan 2007, Aubervilliers
+97  Layvin Kurzawa (FRA)           DF    # 04 Sep 1992, Fréjuis  -- Monaco
+
+ 4  Manuel Ugarte (URU)            MF    # 11 Apr 2001, Montevideo  -- Sporting CP
+ 8  Fabián Ruiz (ESP)              MF    # 03 Apr 1996, Los Palacios y Villafranca  -- Napoli
+15  Danilo Pereira (POR)           MF    # 09 Sep 1991, Bissau  -- FC Porto
+17  Vitinha (POR)                  MF    # 13 Feb 2000, Vila das Aves  -- FC Porto
+19  Lee Kang-In (KOR)              MF    # 19 Feb 2001, Incheon  -- Mallorca
+28  Carlos Soler (ESP)             MF    # 02 Jan 1997, Valencia  -- Valencia
+33  Warren Zaire-Emery (FRA)       MF    # 08 Mar 2006, Montreuil
+38  Ethan Mbappé (FRA)             MF    # 29 Dec 2006, Montreuil
+41  Senny Mayulu (FRA)             MF    # 17 May 2006, Le Blanc-Mesnil
+
+ 7  Kylian Mbappé (FRA)            FW    # 20 Dec 1998, Paris  -- Monaco
+ 9  Gonçalo Ramos (POR)            FW    # 20 Jun 2001, Lisbon  -- Benfica
+10  Ousmane Dembélé (FRA)          FW    # 15 May 1997, Vernon  -- Barcelona
+11  Marco Asensio (ESP)            FW    # 21 Jan 1996, Palma de Mallorca  -- Real Madrid
+23  Randal Kolo Muani (FRA)        FW    # 05 Dec 1998, Bondy  -- Eintracht Frankfurt
+29  Bradley Barcola (FRA)          FW    # 02 Sep 2002, Villeurbanne  -- Lyon

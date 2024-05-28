@@ -1,0 +1,33 @@
+= Football Club de Metz    # Metz
+
+ 1  Guillaume Dietsch (FRA)        GK    # 17 Apr 2001, Forbach
+16  Alexandre Oukidja (ALG)        GK    # 19 Jul 1988, Nevers  -- Strasbourg
+30  Marc-Aurèle Caillard (FRA)     GK    # 12 May 1994, Melun  -- Guingamp
+
+ 2  Maxime Colin (FRA)             DF    # 15 Nov 1991, Arras  -- Birmingham C
+ 3  Matthieu Udol (FRA)            DF    # 20 Mar 1996, Metz
+ 5  Fali Candé (GNB)               DF    # 24 Jan 1998, Bissau  -- Portimonense
+ 8  Ismaël Traoré (CIV)            DF    # 18 Aug 1986, Paris  -- Angers
+15  Aboubacar Lô (SEN)             DF    # 02 Jan 2000, Dakar  -- Génération Foot Dakar
+22  Kevin Van Den Kerkhof (ALG)    DF    # 14 Mar 1996, Saint-Saulve  -- Bastia
+29  Christophe Hérelle (FRA)       DF    # 22 Aug 1992, Nice  -- Brest
+33  Albin Demouchy (FRA)           DF    # 31 May 2002, Dieppe  -- Quevilly-Rouen
+38  Sadibou Sané (SEN)             DF    # 10 Jun 2004, Diouloulou  -- Génération Foot Dakar
+39  Koffi Kouao (CIV)              DF    # 20 May 1998, Abidjan  -- Vizela
+
+ 6  Kévin Ndoram (FRA)             MF    # 22 Jan 1996, Saint-Sébastien-sur-Loire  -- Monaco
+ 7  Papa Amadou Diallo (SEN)       MF    # 25 Jun 2004, Saint-Louis  -- Génération Foot Dakar
+11  Didier Lamkel Zé (CMR)         MF    # 17 Sep 1996, Bertoua  -- Hatayspor
+12  Warren Tchimbembé (FRA)        MF    # 21 Apr 1998, Gonesse  -- Troyes
+14  Cheikh Tidiane Sabaly (SEN)    MF    # 04 Mar 1999, Kolda  -- Génération Foot Dakar
+18  Lamine Camara (SEN)            MF    # 01 Jan 2004, Bignona  -- Génération Foot Dakar
+25  Arthur Atta (FRA)              MF    # 14 Jan 2003, Rennes
+27  Danley Jean Jacques (HAI)      MF    # 20 May 2000, Petit-Goâve  -- Don Bosco
+34  Joseph Nduquidi (FRA)          MF    # 31 Oct 2004, Metz
+36  Ablie Jallow (GAM)             MF    # 14 Nov 1998, Bundung  -- Génération Foot Dakar
+
+10  Georges Mikautadze (GEO)       FW    # 31 Oct 2000, Lyon  -- Ajax
+17  Benjamin Tetteh (GHA)          FW    # 10 Jul 1997, Accra  -- Hull C
+26  Malick Mbaye (SEN)             FW    # 06 Apr 2004, Dakar  -- Génération Foot Dakar
+37  Ibou Sané (SEN)                FW    # 28 Mar 2005, Diégoune  -- Génération Foot Dakar
+99  Joel Asoro (SWE)               FW    # 27 Apr 1999, Stockholm  -- Djurgårdens IF

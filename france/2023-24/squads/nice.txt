@@ -1,0 +1,33 @@
+= Olympique Club Gymnaste Club de Nice-Côte d'Azur    # Nice
+
+ 1  Marcin Bułka (POL)             GK    # 04 Oct 1999, Płock  -- Paris St-Germain
+31  Maxime Dupé (FRA)              GK    # 04 Mar 1993, Malestroit  -- Anderlecht
+77  Teddy Boulhendi (FRA)          GK    # 09 Apr 2001, Martigues
+
+ 2  Valentin Rosier (FRA)          DF    # 19 Aug 1996, Montauban  -- Beşiktaş
+ 4  Dante (BRA)                    DF    # 18 Oct 1983, Salvador  -- Wolfsburg
+ 6  Jean-Clair Todibo (FRA)        DF    # 30 Dec 1999, Cayenne  -- Barcelona
+15  Romain Perraud (FRA)           DF    # 22 Sep 1997, Toulouse  -- Southampton
+23  Jordan Lotomba (SUI)           DF    # 29 Sep 1998, Yverdon-les-Bains  -- Young Boys
+26  Melvin Bard (FRA)              DF    # 06 Nov 2000, Écully  -- Lyon
+32  Tom Louchet (FRA)              DF    # 04 May 2003, Manosque
+33  Antoine Mendy (FRA)            DF    # 27 May 2004, Marseille
+34  Yannis Nahounou (FRA)          DF    # 16 May 2004, Meaux
+55  Youssouf Ndayishimiye (BDI)    DF    # 27 Oct 1998, Buyenzi  -- İstanbul Başakşehir
+
+ 8  Pablo Rosario (NED)            MF    # 07 Jan 1997, Amsterdam  -- PSV Eindhoven
+10  Sofiane Diop (FRA)             MF    # 09 Jun 2000, Tours  -- Monaco
+11  Morgan Sanson (FRA)            MF    # 18 Aug 1994, Saint-Doulchard  -- Aston Villa
+18  Alexis Claude-Maurice (FRA)    MF    # 06 Jun 1998, Noisy-le-Grand  -- Lorient
+19  Khéphren Thuram (FRA)          MF    # 26 Mar 2001, Reggio Emilia  -- Monaco
+21  Alexis Beka Beka (FRA)         MF    # 04 Oct 2000, Paris  -- Lokomotiv Moscow
+28  Hicham Boudaoui (ALG)          MF    # 23 Sep 1999, Béchar  -- Paradou AC
+39  Daouda Traoré (FRA)            MF    # 22 Jul 2006, Ivry-sur-Seine
+44  Amidou Doumbouya (FRA)         MF    # 05 Aug 2007, Bourges
+
+ 7  Jérémie Boga (CIV)             FW    # 03 Jan 1997, Marseille  -- Atalanta
+ 9  Terem Moffi (NGA)              FW    # 25 May 1999, Calabar  -- Lorient
+24  Gaëtan Laborde (FRA)           FW    # 03 May 1994, Mont-de-Marsan  -- Rennes
+25  Mohamed-Ali Cho (FRA)          FW    # 19 Jan 2004, Stains  -- Real Sociedad
+27  Aliou Baldé (SEN)              FW    # 12 Dec 2002, Ziguinchor  -- Lausanne-Sport
+29  Evann Guessand (FRA)           FW    # 01 Jul 2001, Ajaccio

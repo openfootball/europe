@@ -1,0 +1,35 @@
+= Le Havre Athletic Club    # Le Havre
+
+ 1  Mathieu Gorgelin (FRA)         GK    # 05 Aug 1990, Ambérieu-en-Bugey  -- Lyon
+30  Arthur Desmas (FRA)            GK    # 07 Apr 1994, Brest  -- Clermont
+40  Paul Argney (FRA)              GK    # 23 May 2006, Granville
+
+ 4  Gautier Lloris (FRA)           DF    # 18 Jul 1995, Nice  -- Auxerre
+ 6  Étienne Youté Kinkoué (FRA)    DF    # 14 Jan 2002, Lyon  -- Olympiakos
+ 7  Loïc Nego (HUN)                DF    # 15 Jan 1991, Paris  -- MOL Fehérvár
+17  Oualid El Hajjam (FRA)         DF    # 19 Feb 1991, Châteauroux  -- Troyes
+22  Yoann Salmier (FRA)            DF    # 21 Nov 1992, Villiers-le-Bel  -- Troyes
+24  Cheick Doumbia (FRA)           DF    # 18 Oct 2004, Courcouronnes  -- Lorient
+27  Christopher Operi (FRA)        DF    # 29 Apr 1997, Abidjan  -- KAA Gent
+35  Yoni Gomis (FRA)               DF    # 23 Sep 2005, Saint-Aubin-lès-Elbeuf
+66  Aliou Thiare (SEN)             DF    # 20 Dec 2003, Diouloulou  -- Diambars
+93  Arouna Sanganté (SEN)          DF    # 12 Apr 2002, Mboa  -- Red Star
+
+ 5  Oussama Targhalline (MAR)      MF    # 20 May 2002, Sidi Belyout  -- Marseille
+ 8  Yassine Kechta (MAR)           MF    # 25 Feb 2002, Paris  -- Paris FC
+11  Emmanuel Sabbi (USA)           MF    # 24 Dec 1997, Vicenza  -- Odense
+12  Mathéo Bodmer (FRA)            MF    # 06 May 2004, Lille  -- Caen
+14  Daler Kuzyayev (RUS)           MF    # 15 Jan 1993, Orenburg  -- Zenit St Petersburg
+19  Rassoul Ndiaye (FRA)           MF    # 11 Dec 2001, Besançon  -- Sochaux
+25  Aloïs Confais (FRA)            MF    # 07 Sep 1996, Evreux  -- Olympiakos Nicosia
+29  Samuel Grandsir (FRA)          MF    # 14 Aug 1996, Evreux  -- LA Galaxy
+37  Mokrane Bentoumi (FRA)         MF    # 16 Jun 2005, Rouen
+94  Abdoulaye Touré (GUI)          MF    # 03 Mar 1994, Nantes  -- Genoa
+
+ 9  Mohamed Bayo (GUI)             FW    # 04 Jun 1998, Clermont-Ferrand  -- Lille
+13  Steve Ngoura (FRA)             FW    # 22 Feb 2005, Ivry-sur-Seine
+20  Élysée Logbo (FRA)             FW    # 06 May 2004, Paris
+21  Antoine Joujou (FRA)           FW    # 12 Mar 2003, Mantes-la-Jolie
+23  Josué Casimir (FRA)            FW    # 24 Sep 2001, Baie-Mahault
+26  Simon Ebonog (CMR)             FW    # 16 Aug 2004, Yaoundé
+28  André Ayew (GHA)               FW    # 17 Dec 1989, Seclin  -- Nottingham F

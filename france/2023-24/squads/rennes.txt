@@ -1,0 +1,32 @@
+= Stade Rennais Football Club    # Rennes
+
+ 1  Gauthier Gallon (FRA)          GK    # 23 Apr 1993, Nice  -- Troyes
+30  Steve Mandanda (FRA)           GK    # 28 Mar 1985, Kinshasa  -- Marseille
+40  Geoffrey Lembet (CTA)          GK    # 23 Sep 1988, Villeneuve-St-Georges  -- Sedan
+45  Yann Batola (FRA)              GK    # 26 Jan 2004, Orléans
+
+ 3  Adrien Truffert (FRA)          DF    # 20 Nov 2001, Liège
+ 4  Christopher Wooh (CMR)         DF    # 18 Sep 2001, Paris  -- Lens
+ 5  Arthur Theate (BEL)            DF    # 25 May 2000, Liège  -- Bologna
+16  Jeanuël Belocian (FRA)         DF    # 17 Feb 2005, Les Abymes
+17  Guéla Doué (FRA)               DF    # 17 Oct 2002, Angers
+23  Warmed Omari (FRA)             DF    # 23 Apr 2000, Bandraboua
+36  Alidu Seidu (GHA)              DF    # 04 Jun 2000, Accra  -- Clermont
+43  Mahamadou Nagida (CMR)         DF    # 28 Jun 2005, Douala  -- Brasseries du Cameroun
+52  Rayan Bamba (FRA)              DF    # 14 Apr 2004, Paris
+
+ 6  Azor Matusiwa (NED)            MF    # 28 Apr 1998, Hilversum  -- Reims
+ 8  Baptiste Santamaria (FRA)      MF    # 09 Mar 1995, Bourges  -- Freiburg
+11  Ludovic Blas (FRA)             MF    # 31 Dec 1997, Colombes  -- Nantes
+14  Benjamin Bourigeaud (FRA)      MF    # 14 Jan 1994, Calais  -- Lens
+28  Enzo Le Fée (FRA)              MF    # 03 Feb 2000, Lorient  -- Lorient
+32  Fabian Rieder (SUI)            MF    # 16 Feb 2002, Bern  -- Young Boys
+33  Désiré Doué (FRA)              MF    # 03 Jun 2005, Angers
+38  Djaoui Cissé (FRA)             MF    # 31 Jan 2004, Juvisy-sur-Orge
+
+ 7  Martin Terrier (FRA)           FW    # 04 Mar 1997, Armentières  -- Lyon
+ 9  Arnaud Kalimuendo (FRA)        FW    # 20 Jan 2002, Suresnes  -- Paris St-Germain
+10  Amine Gouiri (FRA)             FW    # 16 Feb 2000, Bourgoin-Jallieu  -- Nice
+34  Ibrahim Salah (MAR)            FW    # 30 Aug 2001, Saint-Josse-ten-Noode  -- KAA Gent
+39  Mathis Lambourde (FRA)         FW    # 09 Jan 2006, Les Lilas  -- JA Drancy
+99  Bertuğ Yıldırım (TUR)          FW    # 12 Jul 2002, İstanbul  -- Hatayspor

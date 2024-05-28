@@ -1,0 +1,36 @@
+= Clermont Foot Auvergne    # Clermont
+
+ 1  Massamba Ndiaye (SEN)          GK    # 08 Oct 2001, Thiès  -- Pau
+16  Théo Borne (FRA)               GK    # 15 Jul 2002, Montbéliard  -- Angers
+99  Mory Diaw (SEN)                GK    # 22 Jun 1993, Poissy  -- Lausanne-Sport
+
+ 2  Mehdi Zeffane (ALG)            DF    # 19 May 1992, Sainte-Foy-lès-Lyon  -- Yeni Malatyaspor
+ 3  Neto Borges (BRA)              DF    # 13 Sep 1996, Salvador  -- KRC Genk
+ 4  Chrislain Matsima (FRA)        DF    # 15 May 2002, Colombes  -- Monaco
+ 5  Maximiliano Caufriez (BEL)     DF    # 16 Feb 1997, Beveren  -- Spartak Moscow
+15  Cheick Oumar Konaté (MLI)      DF    # 02 Apr 2004, Bamako  -- JMG Academy
+17  Andy Pelmard (FRA)             DF    # 12 Mar 2000, Nice  -- Basel
+21  Florent Ogier (FRA)            DF    # 21 Mar 1989, Lyon  -- Sochaux
+22  Yoël Armougom (FRA)            DF    # 05 Jun 1998, Saint-Denis  -- Sochaux
+27  Mohamed Sylla (FRA)            DF    # 30 Jan 2004, Aubervilliers  -- Rennes
+28  Ivan M'Bahia (CIV)             DF    # 19 Apr 2005, Yopougon
+97  Jérémy Jacquet (FRA)           DF    # 13 Jul 2005, Bondy  -- Rennes
+
+ 6  Habib Keïta (MLI)              MF    # 05 Feb 2002, Bamako  -- Lyon
+ 7  Yohann Magnin (FRA)            MF    # 21 Jun 1997, Clermont-Ferrand
+ 8  Bilal Boutobba (FRA)           MF    # 29 Aug 1998, Marseille  -- Niort
+10  Muhammed Cham (AUT)            MF    # 26 Sep 2000, Vienna  -- Admira Wacker Mödling
+12  Maxime Gonalons (FRA)          MF    # 10 Mar 1989, Vénissieux  -- Granada
+18  Elba Rashani (KVX)             MF    # 09 May 1993, Hillerstorp  -- BB Erzurumspor
+24  Stan Berkani (ALG)             MF    # 13 Aug 2003, Vichy
+25  Johan Gastien (FRA)            MF    # 25 Jan 1988, Niort  -- Brest
+80  Adam Mabrouk (FRA)             MF    # 03 Apr 2003, Évry  -- Lens
+91  Jérémie Bela (ANG)             MF    # 08 Apr 1993, Melun  -- Birmingham C
+
+ 9  Komnen Andrić (SRB)            FW    # 01 Jul 1995, Novi Pazar  -- Dinamo Zagreb
+11  Jim Allevinah (GAB)            FW    # 27 Feb 1995, Agen  -- Le Puy
+13  Abdellah Baallal (MAR)         FW    # 07 Nov 2004, Casablanca
+19  Mohamed-Amine Bouchenna (FRA)   FW    # 15 Jun 2006, Beaumont-sur-Oise  -- Istres
+23  Shamar Nicholson (JAM)         FW    # 16 Mar 1997, Kingston  -- Spartak Moscow
+26  Alan Virginius (FRA)           FW    # 03 Jan 2003, Soisy-sous-Montmorency  -- Lille
+95  Grejohn Kyei (FRA)             FW    # 12 Aug 1995, Gonesse  -- Servette

@@ -1,0 +1,38 @@
+= Football Club Lorient    # Lorient
+
+ 1  Alfred Gomis (SEN)             GK    # 05 Sep 1993, Ziguinchor  -- Rennes
+38  Yvon Mvogo (SUI)               GK    # 06 Jun 1994, Fribourg  -- RB Leipzig
+94  Dominique Youfeigane (FRA)     GK    # 07 Feb 2000, Saint-Maurice  -- Guingamp
+
+ 2  Igor Silva (BRA)               DF    # 21 Aug 1996, Rio de Janeiro  -- Osijek
+ 3  Montassar Talbi (TUN)          DF    # 26 May 1998, Paris  -- Rubin Kazan
+ 4  Loris Mouyokolo (FRA)          DF    # 22 May 2001, Drancy
+ 5  Benjamin Mendy (FRA)           DF    # 17 Jul 1994, Longjumeau  -- Manchester C
+12  Darlin Yongwa (CMR)            DF    # 22 Sep 2000, Douala  -- Niort
+13  Formose Mendy (SEN)            DF    # 02 Jan 2001, Dakar  -- Amiens
+15  Julien Laporte (FRA)           DF    # 04 Nov 1993, Bayonne  -- Clermont
+24  Gédéon Kalulu (COD)            DF    # 29 Aug 1997, Lyon  -- Ajaccio
+32  Nathaniel Adjei (GHA)          DF    # 21 Aug 2002, Teshie  -- Hammarby IF
+33  Aurélien Pelon (FRA)           DF    # 06 May 2004, La Roche-sur-Yon
+95  Isaak Touré (FRA)              DF    # 28 Mar 2003, Gonesse  -- Marseille
+
+ 6  Imrân Louza (MAR)              MF    # 01 May 1999, Nantes  -- Watford
+ 7  Panos Katseris (GRE)           MF    # 05 Jul 2001, Athens  -- Catanzaro
+ 8  Innocent Bonke (NGA)           MF    # 20 Jan 1996, Kaduna  -- Malmö FF
+10  Badredine Bouanani (FRA)       MF    # 08 Dec 2004, Lille  -- Nice
+14  Tiemoué Bakayoko (FRA)         MF    # 17 Aug 1994, Paris  -- Chelsea
+17  Jean-Victor Makengo (FRA)      MF    # 12 Jun 1998, Etampes  -- Udinese
+19  Laurent Abergel (FRA)          MF    # 01 Feb 1993, Marseille  -- Nancy
+21  Julien Ponceau (FRA)           MF    # 28 Nov 2000, Catumbela
+22  Eli Junior Kroupi (FRA)        MF    # 23 Jun 2006, Lorient
+34  Gino Caoki (FRA)               MF    # 17 Jul 2004, Saint-Herblain
+35  Arthur Avom (CMR)              MF    # 15 Dec 2004, Yaoundé
+37  Théo Le Bris (FRA)             MF    # 01 Oct 2002, Rennes
+39  Carmel Mabanza (COD)           MF    # 13 Aug 2003, Kinshasa  -- Lille
+44  Ayman Kari (FRA)               MF    # 19 Nov 2004, Ivry-sur-Seine  -- Paris St-Germain
+97  Quentin Boisgard (FRA)         MF    # 17 Mar 1997, Toulouse  -- Toulouse
+
+ 9  Mohamed Bamba (CIV)            FW    # 10 Dec 2001, Bouaké  -- Wolfsberger AC
+11  Bamba Dieng (SEN)              FW    # 23 Mar 2000, Diourbel  -- Marseille
+27  Tosin Aiyegun (NGA)            FW    # 26 Jun 1998, Lagos  -- Zürich
+36  Royce Openda (GAB)             FW    # 21 Apr 2002, Libreville  -- Ancienne Château-Gontier

@@ -1,0 +1,34 @@
+= Olympique Lyonnais    # Lyon
+
+ 1  Anthony Lopes (POR)            GK    # 01 Oct 1990, Givors
+23  Lucas Perri (BRA)              GK    # 10 Dec 1997, Campinas  -- Botafogo
+30  Justin Bengui João (FRA)       GK    # 09 Jul 2005, Montbéliard
+
+ 2  Sinaly Diomandé (CIV)          DF    # 09 Apr 2001, Yopougon  -- Guidars
+ 3  Nicolás Tagliafico (ARG)       DF    # 31 Aug 1992, Rafael Calzada  -- Ajax
+ 5  Dejan Lovren (CRO)             DF    # 05 Jul 1989, Karlovac  -- Zenit St Petersburg
+12  Jake O'Brien (IRL)             DF    # 15 May 2001, Cork  -- Crystal Palace
+14  Adryelson (BRA)                DF    # 23 Mar 1998, Recife  -- Botafogo
+20  Saël Kumbedi (FRA)             DF    # 26 Mar 2005, Stains  -- Le Havre
+21  Henrique Silva (BRA)           DF    # 25 Apr 1994, Rio de Janeiro  -- Vasco da Gama
+22  Clinton Mata (BRA)             DF    # 07 Nov 1992, Verviers  -- Club Brugge
+55  Duje Ćaleta-Car (CRO)          DF    # 17 Sep 1996, Šibenik  -- Southampton
+
+ 4  Paul Akouokou (CIV)            MF    # 20 Dec 1997, Abidjan  -- Betis
+ 6  Maxence Caqueret (FRA)         MF    # 15 Feb 2000, Vénissieux
+ 8  Corentin Tolisso (FRA)         MF    # 03 Aug 1994, Tarare  -- Bayern Munich
+18  Rayan Cherki (FRA)             MF    # 17 Aug 2003, Lyon
+24  Johann Lepenant (FRA)          MF    # 22 Oct 2002, Granville  -- Caen
+25  Orel Mangala (BEL)             MF    # 18 Mar 1998, Brussels  -- Nottingham F
+31  Nemanja Matić (SRB)            MF    # 01 Aug 1988, Šabac  -- Rennes
+33  Chaïm El Djebali (TUN)         MF    # 07 Feb 2004, Décines-Charpieu
+34  Mahamadou Diawara (FRA)        MF    # 17 Feb 2005, Longjumeau  -- Paris St-Germain
+84  Mohamed El Arouch (FRA)        MF    # 06 Apr 2004, Orange
+98  Ainsley Maitland-Niles (ENG)   MF    # 29 Aug 1997, Goodmayes  -- Arsenal
+
+ 7  Mama Baldé (GNB)               FW    # 06 Nov 1995, Bissau  -- Troyes
+ 9  Gift Orban (NGA)               FW    # 17 Jul 2002, Benue  -- KAA Gent
+10  Alexandre Lacazette (FRA)      FW    # 28 May 1991, Lyon  -- Arsenal
+11  Malick Fofana (BEL)            FW    # 31 Mar 2005, Aalst  -- KAA Gent
+17  Saïd Benrahma (ALG)            FW    # 10 Aug 1995, Aïn Témouchent  -- West Ham U
+37  Ernest Nuamah (GHA)            FW    # 01 Nov 2003, Kumasi  -- RWD Molenbeek

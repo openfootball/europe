@@ -1,0 +1,33 @@
+= Association Sportive de Monaco    # Monaco
+
+ 1  Radosław Majecki (POL)         GK    # 16 Nov 1999, Starachowice  -- Legia Warszawa
+16  Philipp Köhn (SUI)             GK    # 02 Apr 1998, Dinslaken  -- Red Bull Salzburg
+50  Yann Liénard (FRA)             GK    # 16 Mar 2003, Aubagne
+
+ 2  Vanderson (BRA)                DF    # 21 Jun 2001, Rondonópolis  -- Grêmio
+ 3  Guillermo Maripán (CHI)        DF    # 06 May 1994, San Miguel  -- Alavés
+ 5  Thilo Kehrer (GER)             DF    # 21 Sep 1996, Tübingen  -- West Ham U
+12  Caio Henrique (BRA)            DF    # 31 Jul 1997, Santos  -- Atlético Madrid
+14  Ismail Jakobs (SEN)            DF    # 17 Aug 1999, Cologne  -- Köln
+20  Kassoum Ouattara (FRA)         DF    # 14 Oct 2004, Paris  -- Amiens
+22  Mohammed Salisu (GHA)          DF    # 17 Apr 1999, Accra  -- Southampton
+43  Ritchy Valme (FRA)             DF    # 03 Feb 2005, Gonesse
+46  Aurélien Platret (FRA)         DF    # 20 Feb 2003, Grasse
+99  Wilfried Singo (CIV)           DF    # 25 Dec 2000, Grand-Béréby  -- Torino
+
+ 4  Mohamed Camara (MLI)           MF    # 06 Jan 2000, Bamako  -- Red Bull Salzburg
+ 6  Denis Zakaria (SUI)            MF    # 20 Nov 1996, Kinshasa  -- Juventus
+ 7  Eliesse Ben Seghir (FRA)       MF    # 16 Feb 2005, Gassin
+17  Aleksandr Golovin (RUS)        MF    # 30 May 1996, Kaltan  -- CSKA Moscow
+18  Takumi Minamino (JPN)          MF    # 16 Jan 1995, Osaka  -- Liverpool
+19  Youssouf Fofana (FRA)          MF    # 10 Jan 1999, Paris  -- Strasbourg
+21  Maghnes Akliouche (FRA)        MF    # 25 Feb 2002, Tremblay-en-France
+27  Krépin Diatta (SEN)            MF    # 25 Feb 1999, Dakar  -- Club Brugge
+37  Edan Diop (FRA)                MF    # 28 Aug 2004, Tours
+42  Mamadou Coulibaly (FRA)        MF    # 21 Apr 2004, Paris
+88  Soungoutou Magassa (FRA)       MF    # 08 Oct 2003, Stains
+
+10  Wissam Ben Yedder (FRA)        FW    # 12 Aug 1990, Sarcelles  -- Sevilla
+29  Folarin Balogun (ENG)          FW    # 03 Jul 2001, New York  -- Arsenal
+36  Breel Embolo (SUI)             FW    # 14 Feb 1997, Yaoundé  -- B Mönchengladbach
+47  Lucas Michal (FRA)             FW    # 22 Jun 2005, Bourg-la-Reine

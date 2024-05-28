@@ -1,0 +1,30 @@
+= Stade Brestois 29    # Brest
+
+16  Yan Marillat (FRA)             GK    # 12 Aug 1994, La Tronche  -- Le Puy
+30  Gregoire Coudert (FRA)         GK    # 03 Apr 1999, Rodez  -- Amiens
+40  Marco Bizot (NED)              GK    # 10 Mar 1991, Zwaag  -- AZ Alkmaar
+
+ 2  Bradley Locko (FRA)            DF    # 06 May 2002, Ivry-sur-Seine  -- Reims
+ 3  Lilian Brassier (FRA)          DF    # 02 Nov 1999, Argenteuil  -- Rennes
+ 5  Brendan Chardonnet (FRA)       DF    # 22 Dec 1994, Saint-Renan
+12  Luck Zogbé (CIV)               DF    # 24 Mar 2005, Vieil-Ousrou  -- Lys Sassandra
+18  Antonin Cartillier (FRA)       DF    # 23 Jun 2004, Blois  -- Monaco
+19  Jordan Amavi (FRA)             DF    # 09 Mar 1994, Toulon  -- Marseille
+25  Julien Le Cardinal (FRA)       DF    # 03 Aug 1997, Saint-Brieuc  -- Lens
+27  Kenny Lala (FRA)               DF    # 03 Oct 1991, VIllepinte  -- Olympiakos
+
+ 8  Hugo Magnetti (FRA)            MF    # 30 May 1998, Marseille  -- Bastia
+10  Romain Del Castillo (FRA)      MF    # 29 Mar 1996, Lyon  -- Rennes
+14  Adrien Lebeau (FRA)            MF    # 08 Jul 1999, Vénissieux  -- Waldhof Mannheim
+20  Pierre Lees-Melou (FRA)        MF    # 25 May 1993, Langon  -- Norwich C
+23  Kamory Doumbia (MLI)           MF    # 18 Feb 2003, Bamako  -- Reims
+26  Mathias Pereira Lage (FRA)     MF    # 30 Nov 1996, Clermont-Ferrand  -- Angers
+28  Jonas Martin (FRA)             MF    # 09 Apr 1990, Besançon  -- Lille
+45  Mahdi Camara (FRA)             MF    # 30 Jun 1998, Martigues  -- St-Etienne
+
+ 7  Martín Satriano (URU)          FW    # 20 Feb 2001, Montevideo  -- Internazionale
+ 9  Steve Mounié (BEN)             FW    # 29 Sep 1994, Parakou  -- Huddersfield T
+11  Axel Camblan (FRA)             FW    # 30 Aug 2003, Brest
+21  Billal Brahimi (FRA)           FW    # 14 Mar 2000, Paris  -- Nice
+22  Jérémy Le Douaron (FRA)        FW    # 21 Apr 1998, Saint-Brieuc  -- Saint-Brieuc
+33  Djibrili Konte (FRA)           FW    # 04 Nov 2002, Saint-Denis
