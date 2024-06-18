@@ -1,37 +1,37 @@
-= Football Club de Nantes Atlantique    # Nantes
+=  FC Nantes - French Ligue 1 2023/24
 
- 1  Alban Lafont (FRA)             GK    # 23 Jan 1999, Ouagadougou  -- Fiorentina
-16  Rémy Descamps (FRA)            GK    # 25 Jun 1996, Marcq-en-Barœul  -- Charleroi
-30  Denis Petric (SRB)             GK    # 24 May 1988, Ljubljana  -- Guingamp
+  1,  Alban Lafont,                      GK,   b. 1999,   Fiorentina
+ 16,  Rémy Descamps,                     GK,   b. 1996,   Charleroi
+ 30,  Denis Petric (SRB),                GK,   b. 1988,   Guingamp
 
- 2  Jean-Kévin Duverne (FRA)       DF    # 12 Jul 1997, Paris  -- Brest
- 3  Nicolas Cozza (FRA)            DF    # 08 Jan 1999, Ganges  -- Wolfsburg
- 4  Nicolas Pallois (FRA)          DF    # 19 Sep 1987, Elbeuf  -- Bordeaux
-21  Jean-Charles Castelleto (CMR)   DF    # 26 Jan 1995, Clamart  -- Brest
-22  Yannis M'Bemba (FRA)           DF    # 01 Jul 2001, Amiens
-24  Eray Cümart (SUI)              DF    # 04 Feb 1998, Basel  -- Valencia
-44  Nathan Zézé (FRA)              DF    # 18 Jun 2005, Nantes
-45  Bastien Meupiyou (FRA)         DF    # 19 Mar 2006, Paris
-46  Enzo Mongo (FRA)               DF    # 08 Apr 2005, Sarcelles
-71  Hugo Boutsingkham (FRA)        DF    # 20 Jan 2003, Champs-sur-Marne
-98  Kelvin Amian (FRA)             DF    # 08 Feb 1998, Toulouse  -- Spezia
+  2,  Jean-Kévin Duverne,                DF,   b. 1997,   Brest
+  3,  Nicolas Cozza,                     DF,   b. 1999,   Wolfsburg
+  4,  Nicolas Pallois,                   DF,   b. 1987,   Bordeaux
+ 21,  Jean-Charles Castelleto (CMR),     DF,   b. 1995,   Brest
+ 22,  Yannis M'Bemba,                    DF,   b. 2001,
+ 24,  Eray Cümart (SUI),                 DF,   b. 1998,   Valencia
+ 44,  Nathan Zézé,                       DF,   b. 2005,
+ 45,  Bastien Meupiyou,                  DF,   b. 2006,
+ 46,  Enzo Mongo,                        DF,   b. 2005,
+ 71,  Hugo Boutsingkham,                 DF,   b. 2003,
+ 98,  Kelvin Amian,                      DF,   b. 1998,   Spezia
 
- 5  Pedro Chirivella (ESP)         MF    # 23 May 1997, Valencia  -- Liverpool
- 6  Douglas (BRA)                  MF    # 13 Jan 1997, Rio de Janeiro  -- PAOK
- 8  Samuel Moutoussamy (COD)       MF    # 12 Aug 1996, Paris  -- Lyon
-17  Moussa Sissoko (FRA)           MF    # 16 Aug 1989, Le Blanc Mesnil  -- Watford
-19  Mohamed Achi (FRA)             MF    # 16 Jan 2002, Bondy
-25  Florent Mollet (FRA)           MF    # 19 Nov 1991, Fontaine-lès-Dijon  -- Schalke
-27  Moses Simon (NGA)              MF    # 12 Jul 1995, Jos  -- Levante
-59  Dehmaine Assoumani (FRA)       MF    # 17 Apr 2005, Drancy
-77  Bénie Traoré (CIV)             MF    # 30 Nov 2002, Bouaké  -- Sheffield U
+  5,  Pedro Chirivella (ESP),            MF,   b. 1997,   Liverpool
+  6,  Douglas (BRA),                     MF,   b. 1997,   PAOK
+  8,  Samuel Moutoussamy (COD),          MF,   b. 1996,   Lyon
+ 17,  Moussa Sissoko,                    MF,   b. 1989,   Watford
+ 19,  Mohamed Achi,                      MF,   b. 2002,
+ 25,  Florent Mollet,                    MF,   b. 1991,   Schalke
+ 27,  Moses Simon (NGA),                 MF,   b. 1995,   Levante
+ 59,  Dehmaine Assoumani,                MF,   b. 2005,
+ 77,  Bénie Traoré (CIV),                MF,   b. 2002,   Sheffield U
 
- 7  Ignatius Ganago (CMR)          FW    # 16 Feb 1999, Douala  -- Lens
-11  Marcus Coco (FRA)              FW    # 24 Jun 1996, Les Abymes  -- Guingamp
-12  Kader Bamba (FRA)              FW    # 25 Apr 1994, Sarcelles  -- Le Mans
-15  Tinotenda Kadewere (ZIM)       FW    # 05 Jan 1996, Harare  -- Lyon
-23  Stredair Owusu Appuah (FRA)    FW    # 27 Jun 2004, Sarcelles  -- Paris St-Germain
-31  Mostafa Mohamed (EGY)          FW    # 28 Nov 1997, Giza  -- Galatasaray
-39  Matthis Abline (FRA)           FW    # 28 Mar 2003, Angers  -- Rennes
-54  Adel Mahamoud (COM)            FW    # 04 Feb 2003, Juvisy-sur-Orge
-61  Joe-Loic Affamah (FRA)         FW    # 29 Jun 2002, Lomé
+  7,  Ignatius Ganago (CMR),             FW,   b. 1999,   Lens
+ 11,  Marcus Coco,                       FW,   b. 1996,   Guingamp
+ 12,  Kader Bamba,                       FW,   b. 1994,   Le Mans
+ 15,  Tinotenda Kadewere (ZIM),          FW,   b. 1996,   Lyon
+ 23,  Stredair Owusu Appuah,             FW,   b. 2004,   Paris St-Germain
+ 31,  Mostafa Mohamed (EGY),             FW,   b. 1997,   Galatasaray
+ 39,  Matthis Abline,                    FW,   b. 2003,   Rennes
+ 54,  Adel Mahamoud (COM),               FW,   b. 2003,
+ 61,  Joe-Loic Affamah,                  FW,   b. 2002,

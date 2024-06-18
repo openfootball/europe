@@ -1,35 +1,35 @@
-= Racing Club de Lens    # Lens
+=  RC Lens - French Ligue 1 2023/24
 
-16  Jean-Louis Leca (FRA)          GK    # 21 Sep 1985, Bastia  -- Ajaccio
-30  Brice Samba (FRA)              GK    # 25 Apr 1994, Linzolo  -- Nottingham F
-40  Yannick Pandor (FRA)           GK    # 01 May 2001, Marseille  -- Air Bel
+ 16,  Jean-Louis Leca,                   GK,   b. 1985,   Ajaccio
+ 30,  Brice Samba,                       GK,   b. 1994,   Nottingham F
+ 40,  Yannick Pandor,                    GK,   b. 2001,   Air Bel
 
- 2  Ruben Aguilar (FRA)            DF    # 26 Apr 1993, Grenoble  -- Monaco
- 3  Deiver Machado (COL)           DF    # 02 Sep 1992, Tadó  -- Toulouse
- 4  Kevin Danso (AUT)              DF    # 19 Sep 1998, Voitsberg  -- Augsburg
-13  Jhoanner Chávez (ECU)          DF    # 25 Apr 2002, Puerto Francisco de Orellana  -- Bahia
-14  Facundo Medina (ARG)           DF    # 28 May 1999, Villa Fiorito  -- Talleres (Córdoba)
-19  Jimmy Cabot (FRA)              DF    # 18 Apr 1994, Chambéry  -- Angers
-21  Massadio Haïdara (MLI)         DF    # 02 Dec 1992, Trappes  -- Newcastle U
-24  Jonathan Gradit (FRA)          DF    # 24 Nov 1992, Talence  -- Caen
-25  Abdukodir Khusanov (UZB)       DF    # 29 Feb 2004, Tashkent  -- Energetik-BGU Minsk
-29  Przemysław Frankowski (POL)    DF    # 12 Apr 1995, Gdańsk  -- Chicago Fire
-38  Kény Mbala (FRA)               DF    # 02 Jun 2004, Nantes
+  2,  Ruben Aguilar,                     DF,   b. 1993,   Monaco
+  3,  Deiver Machado (COL),              DF,   b. 1992,   Toulouse
+  4,  Kevin Danso (AUT),                 DF,   b. 1998,   Augsburg
+ 13,  Jhoanner Chávez (ECU),             DF,   b. 2002,   Bahia
+ 14,  Facundo Medina (ARG),              DF,   b. 1999,   Talleres (Córdoba)
+ 19,  Jimmy Cabot,                       DF,   b. 1994,   Angers
+ 21,  Massadio Haïdara (MLI),            DF,   b. 1992,   Newcastle U
+ 24,  Jonathan Gradit,                   DF,   b. 1992,   Caen
+ 25,  Abdukodir Khusanov (UZB),          DF,   b. 2004,   Energetik-BGU Minsk
+ 29,  Przemysław Frankowski (POL),       DF,   b. 1995,   Chicago Fire
+ 38,  Kény Mbala,                        DF,   b. 2004,
 
- 6  Salis Abdul Samed (GHA)        MF    # 26 Mar 2000, Accra  -- Clermont
-10  David Costa (POR)              MF    # 05 Jan 2001, Lisbon
-11  Angelo Fulgini (FRA)           MF    # 20 Aug 1996, Abidjan  -- Mainz
-18  Andy Diouf (FRA)               MF    # 17 May 2003, Neuilly-sur-Seine  -- Basel
-23  Neil El Aynaoui (FRA)          MF    # 02 Jul 2001, Nancy  -- Nancy
-26  Nampalys Mendy (SEN)           MF    # 23 Jun 1992, La Seyne-sur-Mer  -- Leicester C
-28  Adrien Thomasson (FRA)         MF    # 10 Dec 1993, Bourg-Saint-Maurice  -- Strasbourg
-31  Tom Pouilly (FRA)              MF    # 18 Jun 2003, Liévin
-32  Ayanda Shishuba (BEL)          MF    # 02 Feb 2005, Tournai
-33  Fodé Sylla (FRA)               MF    # 16 Apr 2006, Saint-Quentin
-34  Adam Abeddou (FRA)             MF    # 17 Aug 1996, Arras  -- Dunkerque
+  6,  Salis Abdul Samed (GHA),           MF,   b. 2000,   Clermont
+ 10,  David Costa (POR),                 MF,   b. 2001,
+ 11,  Angelo Fulgini,                    MF,   b. 1996,   Mainz
+ 18,  Andy Diouf,                        MF,   b. 2003,   Basel
+ 23,  Neil El Aynaoui,                   MF,   b. 2001,   Nancy
+ 26,  Nampalys Mendy (SEN),              MF,   b. 1992,   Leicester C
+ 28,  Adrien Thomasson,                  MF,   b. 1993,   Strasbourg
+ 31,  Tom Pouilly,                       MF,   b. 2003,
+ 32,  Ayanda Shishuba (BEL),             MF,   b. 2005,
+ 33,  Fodé Sylla,                        MF,   b. 2006,
+ 34,  Adam Abeddou,                      MF,   b. 1996,   Dunkerque
 
- 7  Florian Sotoca (FRA)           FW    # 25 Oct 1990, Narbonne  -- Grenoble
- 9  Elye Wahi (FRA)                FW    # 02 Jan 2003, Courcouronnes  -- Montpellier
-22  Wesley Saïd (FRA)              FW    # 19 Apr 1995, Noisy-le-Grand  -- Toulouse
-27  Morgan Guilavogui (GUI)        FW    # 10 Mar 1998, Ollioules  -- Paris FC
-39  Anthony Bermont (FRA)          FW    # 10 Feb 2005, Beauvais
+  7,  Florian Sotoca,                    FW,   b. 1990,   Grenoble
+  9,  Elye Wahi,                         FW,   b. 2003,   Montpellier
+ 22,  Wesley Saïd,                       FW,   b. 1995,   Toulouse
+ 27,  Morgan Guilavogui (GUI),           FW,   b. 1998,   Paris FC
+ 39,  Anthony Bermont,                   FW,   b. 2005,

@@ -1,36 +1,36 @@
-= Toulouse Football Club    # Toulouse
+=  Toulouse FC - French Ligue 1 2023/24
 
- 1  Thomas Himeur (FRA)            GK    # 17 Jan 2001, Toulouse
-30  Álex Domínguez (ESP)           GK    # 30 Jul 1998, Granollers  -- Las Palmas
-40  Justin Lacombe (FRA)           GK    # 09 Apr 2003, Tulle
-50  Guillaume Restes (FRA)         GK    # 11 Mar 2005, Toulouse
+  1,  Thomas Himeur,                     GK,   b. 2001,
+ 30,  Álex Domínguez (ESP),              GK,   b. 1998,   Las Palmas
+ 40,  Justin Lacombe,                    GK,   b. 2003,
+ 50,  Guillaume Restes,                  GK,   b. 2005,
 
- 2  Rasmus Nicolaisen (DEN)        DF    # 16 Mar 1997, Aulum  -- FC Midtjylland
- 3  Mikkel Desler (DEN)            DF    # 19 Feb 1995, Assens  -- Haugesund
- 6  Logan Costa (CPV)              DF    # 01 Apr 2001, Saint-Denis  -- Reims
-12  Warren Kamanzi (NOR)           DF    # 11 Nov 2000, Trondheim  -- Tromsø
-13  Christian Mawissa (FRA)        DF    # 18 Apr 2005, Saint-Jean-de-Verges
-17  Gabriel Suazo (CHI)            DF    # 09 Aug 1997, Santiago  -- Colo-Colo
-23  Moussa Diarra (MLI)            DF    # 10 Nov 2000, Stains  -- JA Drancy
-25  Kévin Keben (CMR)              DF    # 26 Jan 2004, Bertoua
-26  Ylies Aradj (FRA)              DF    # 05 Jun 2005, Toulouse
-32  Nicolas Wasbauer (FRA)         DF    # 04 Jul 2004, Toulouse
+  2,  Rasmus Nicolaisen (DEN),           DF,   b. 1997,   FC Midtjylland
+  3,  Mikkel Desler (DEN),               DF,   b. 1995,   Haugesund
+  6,  Logan Costa (CPV),                 DF,   b. 2001,   Reims
+ 12,  Warren Kamanzi (NOR),              DF,   b. 2000,   Tromsø
+ 13,  Christian Mawissa,                 DF,   b. 2005,
+ 17,  Gabriel Suazo (CHI),               DF,   b. 1997,   Colo-Colo
+ 23,  Moussa Diarra (MLI),               DF,   b. 2000,   JA Drancy
+ 25,  Kévin Keben (CMR),                 DF,   b. 2004,
+ 26,  Ylies Aradj,                       DF,   b. 2005,
+ 32,  Nicolas Wasbauer,                  DF,   b. 2004,
 
- 4  Stijn Spierings (NED)          MF    # 12 Mar 1996, Alkmaar  -- Lens
- 5  Denis Genreau (AUS)            MF    # 21 May 1999, Paris  -- Macarthur FC
- 8  Vincent Sierro (SUI)           MF    # 08 Oct 1995, Sierre  -- Young Boys
-11  César Gelabert (ESP)           MF    # 31 Oct 2000, Palencia  -- Mirandés
-15  Aron Dønnum (NOR)              MF    # 20 Apr 1998, Eidsvoll  -- Standard Liège
-20  Niklas Schmidt (GER)           MF    # 01 Mar 1998, Kassel  -- Werder Bremen
-22  Naatan Skyttä (FIN)            MF    # 07 May 2002, Ylöjärvi  -- Ilves Tampere
-24  Cristian Cásseres Jr (VEN)     MF    # 20 Jan 2000, Caracas  -- New York Red Bulls
-34  Noah Lahmadi (FRA)             MF    # 05 Jan 2005, La Tronche
-37  Yann Gboho (FRA)               MF    # 14 Jan 2001, Man  -- Cercle Brugge
+  4,  Stijn Spierings (NED),             MF,   b. 1996,   Lens
+  5,  Denis Genreau (AUS),               MF,   b. 1999,   Macarthur FC
+  8,  Vincent Sierro (SUI),              MF,   b. 1995,   Young Boys
+ 11,  César Gelabert (ESP),              MF,   b. 2000,   Mirandés
+ 15,  Aron Dønnum (NOR),                 MF,   b. 1998,   Standard Liège
+ 20,  Niklas Schmidt (GER),              MF,   b. 1998,   Werder Bremen
+ 22,  Naatan Skyttä (FIN),               MF,   b. 2002,   Ilves Tampere
+ 24,  Cristian Cásseres Jr (VEN),        MF,   b. 2000,   New York Red Bulls
+ 34,  Noah Lahmadi,                      MF,   b. 2005,
+ 37,  Yann Gboho,                        MF,   b. 2001,   Cercle Brugge
 
- 7  Zakaria Aboukhlal (MAR)        FW    # 18 Feb 2000, Rotterdam  -- AZ Alkmaar
- 9  Thijs Dallinga (NED)           FW    # 03 Aug 2000, Groningen  -- Excelsior
-10  Ibrahim Cissoko (NED)          FW    # 26 Mar 2003, Nijmegen  -- NEC Nijmegen
-19  Frank Magri (CMR)              FW    # 04 Sep 1999, Agen  -- Bastia
-31  Noah Edjouma (FRA)             FW    # 04 Oct 2005, Clamart
-33  Rafik Messali (ALG)            FW    # 28 Apr 2003, Toulouse
-80  Shavy Babicka (GAB)            FW    # 01 Jun 2000, Libreville  -- Aris Limassol
+  7,  Zakaria Aboukhlal (MAR),           FW,   b. 2000,   AZ Alkmaar
+  9,  Thijs Dallinga (NED),              FW,   b. 2000,   Excelsior
+ 10,  Ibrahim Cissoko (NED),             FW,   b. 2003,   NEC Nijmegen
+ 19,  Frank Magri (CMR),                 FW,   b. 1999,   Bastia
+ 31,  Noah Edjouma,                      FW,   b. 2005,
+ 33,  Rafik Messali (ALG),               FW,   b. 2003,
+ 80,  Shavy Babicka (GAB),               FW,   b. 2000,   Aris Limassol

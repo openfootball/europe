@@ -1,41 +1,41 @@
-= Lille Olympique Sporting Club Lille Métropole    # Lille
+=  Lille OSC - French Ligue 1 2023/24
 
- 1  Vito Mannone (ITA)             GK    # 02 Mar 1988, Desio  -- Lorient
-16  Adam Jakubech (SVK)            GK    # 02 Jan 1997, Prešov  -- Spartak Trnava
-30  Lucas Chevalier (FRA)          GK    # 06 Nov 2001, Calais
-40  Tom Negrel (FRA)               GK    # 13 Apr 2003, Nîmes  -- Nîmes
-50  Mohamed-Amine Ezzarhouni (MAR)   GK    # 29 May 2006
-60  Lisandru Olmeta (FRA)          GK    # 21 Jul 2005, Ajaccio
+  1,  Vito Mannone (ITA),                GK,   b. 1988,   Lorient
+ 16,  Adam Jakubech (SVK),               GK,   b. 1997,   Spartak Trnava
+ 30,  Lucas Chevalier,                   GK,   b. 2001,
+ 40,  Tom Negrel,                        GK,   b. 2003,   Nîmes
+ 50,  Mohamed-Amine Ezzarhouni (MAR),    GK,   b. 2006,
+ 60,  Lisandru Olmeta,                   GK,   b. 2005,
 
- 4  Alexsandro (BRA)               DF    # 09 Aug 1999, Rio de Janeiro  -- Chaves
- 5  Gabriel Gudmundsson (SWE)      DF    # 29 Apr 1999, Malmö  -- FC Groningen
-14  Samuel Umtiti (FRA)            DF    # 14 Nov 1993, Yaoundé  -- Barcelona
-15  Leny Yoro (FRA)                DF    # 13 Nov 2005, Saint-Maurice
-18  Bafodé Diakité (FRA)           DF    # 06 Jan 2001, Toulouse  -- Toulouse
-22  Tiago Santos (POR)             DF    # 23 Jul 2002, Lisbon  -- Estoril
-28  Rafael Fernandes (POR)         DF    # 28 Jun 2002, Setúbal  -- Arouca
-31  Ismaily (BRA)                  DF    # 11 Jan 1990, Ivinhema  -- Shakhtar Donetsk
-33  Vincent Burlet (BEL)           DF    # 23 Sep 2005, Liège  -- Schalke
-36  Ousmane Touré (FRA)            DF    # 18 Feb 2005, Lille
+  4,  Alexsandro (BRA),                  DF,   b. 1999,   Chaves
+  5,  Gabriel Gudmundsson (SWE),         DF,   b. 1999,   FC Groningen
+ 14,  Samuel Umtiti,                     DF,   b. 1993,   Barcelona
+ 15,  Leny Yoro,                         DF,   b. 2005,
+ 18,  Bafodé Diakité,                    DF,   b. 2001,   Toulouse
+ 22,  Tiago Santos (POR),                DF,   b. 2002,   Estoril
+ 28,  Rafael Fernandes (POR),            DF,   b. 2002,   Arouca
+ 31,  Ismaily (BRA),                     DF,   b. 1990,   Shakhtar Donetsk
+ 33,  Vincent Burlet (BEL),              DF,   b. 2005,   Schalke
+ 36,  Ousmane Touré,                     DF,   b. 2005,
 
- 6  Nabil Bentaleb (ALG)           MF    # 24 Nov 1994, Lille  -- Angers
- 7  Hákon Arnar Haraldsson (ISL)   MF    # 10 Apr 2003, Raufoss  -- FC København
- 8  Angel Gomes (ENG)              MF    # 31 Aug 2000, Enfield  -- Manchester U
-10  Rémy Cabella (FRA)             MF    # 08 Mar 1990, Ajaccio  -- Montpellier
-11  Adam Ounas (ALG)               MF    # 11 Nov 1996, Chambray-les-Tours  -- Napoli
-12  Yusuf Yazıcı (TUR)             MF    # 29 Jan 1997, Trabzon  -- Trabzonspor
-17  Ivan Cavaleiro (POR)           MF    # 18 Oct 1993, Vialonga  -- Fulham
-20  Ignacio Miramón (ARG)          MF    # 12 Jun 2003, Bolívar  -- Gimnasia y Esgrima (LP)
-21  Benjamin André (FRA)           MF    # 03 Aug 1990, Nice  -- Rennes
-23  Edon Zhegrova (KVX)            MF    # 31 Mar 1999, Herford  -- Basel
-32  Ayyoub Bouaddi (FRA)           MF    # 02 Oct 2007, Senlis
-35  Adame Faïz (FRA)               MF    # 10 Jun 2005, Tours
-39  Lilian Baret (FRA)             MF    # 25 May 2006
-42  Joffrey Bazié (BFA)            MF    # 27 Oct 2003, Ouagadougou  -- Salitas
+  6,  Nabil Bentaleb (ALG),              MF,   b. 1994,   Angers
+  7,  Hákon Arnar Haraldsson (ISL),      MF,   b. 2003,   FC København
+  8,  Angel Gomes (ENG),                 MF,   b. 2000,   Manchester U
+ 10,  Rémy Cabella,                      MF,   b. 1990,   Montpellier
+ 11,  Adam Ounas (ALG),                  MF,   b. 1996,   Napoli
+ 12,  Yusuf Yazıcı (TUR),                MF,   b. 1997,   Trabzonspor
+ 17,  Ivan Cavaleiro (POR),              MF,   b. 1993,   Fulham
+ 20,  Ignacio Miramón (ARG),             MF,   b. 2003,   Gimnasia y Esgrima (LP)
+ 21,  Benjamin André,                    MF,   b. 1990,   Rennes
+ 23,  Edon Zhegrova (KVX),               MF,   b. 1999,   Basel
+ 32,  Ayyoub Bouaddi,                    MF,   b. 2007,
+ 35,  Adame Faïz,                        MF,   b. 2005,
+ 39,  Lilian Baret,                      MF,   b. 2006,
+ 42,  Joffrey Bazié (BFA),               MF,   b. 2003,   Salitas
 
- 9  Jonathan David (CAN)           FW    # 14 Jan 2000, Brooklyn  -- KAA Gent
-19  Tiago Morais (POR)             FW    # 03 Sep 2003, Espinho  -- Boavista
-24  Andrej Ilić (SRB)              FW    # 03 Apr 2000, Belgrade  -- Vålerenga
-34  Aaron Malouda (FRA)            FW    # 30 Nov 2005, Écully  -- Rennes
-38  Ichem Ferrah (FRA)             FW    # 23 Sep 2005, Tourcoing
-43  Trevis Dago (FRA)              FW    # 21 Jan 2005, Villeneuve-Saint-Georges
+  9,  Jonathan David (CAN),              FW,   b. 2000,   KAA Gent
+ 19,  Tiago Morais (POR),                FW,   b. 2003,   Boavista
+ 24,  Andrej Ilić (SRB),                 FW,   b. 2000,   Vålerenga
+ 34,  Aaron Malouda,                     FW,   b. 2005,   Rennes
+ 38,  Ichem Ferrah,                      FW,   b. 2005,
+ 43,  Trevis Dago,                       FW,   b. 2005,

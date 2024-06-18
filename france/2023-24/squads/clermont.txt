@@ -1,36 +1,36 @@
-= Clermont Foot Auvergne    # Clermont
+=  Clermont Foot 63 - French Ligue 1 2023/24
 
- 1  Massamba Ndiaye (SEN)          GK    # 08 Oct 2001, Thiès  -- Pau
-16  Théo Borne (FRA)               GK    # 15 Jul 2002, Montbéliard  -- Angers
-99  Mory Diaw (SEN)                GK    # 22 Jun 1993, Poissy  -- Lausanne-Sport
+  1,  Massamba Ndiaye (SEN),             GK,   b. 2001,   Pau
+ 16,  Théo Borne,                        GK,   b. 2002,   Angers
+ 99,  Mory Diaw (SEN),                   GK,   b. 1993,   Lausanne-Sport
 
- 2  Mehdi Zeffane (ALG)            DF    # 19 May 1992, Sainte-Foy-lès-Lyon  -- Yeni Malatyaspor
- 3  Neto Borges (BRA)              DF    # 13 Sep 1996, Salvador  -- KRC Genk
- 4  Chrislain Matsima (FRA)        DF    # 15 May 2002, Colombes  -- Monaco
- 5  Maximiliano Caufriez (BEL)     DF    # 16 Feb 1997, Beveren  -- Spartak Moscow
-15  Cheick Oumar Konaté (MLI)      DF    # 02 Apr 2004, Bamako  -- JMG Academy
-17  Andy Pelmard (FRA)             DF    # 12 Mar 2000, Nice  -- Basel
-21  Florent Ogier (FRA)            DF    # 21 Mar 1989, Lyon  -- Sochaux
-22  Yoël Armougom (FRA)            DF    # 05 Jun 1998, Saint-Denis  -- Sochaux
-27  Mohamed Sylla (FRA)            DF    # 30 Jan 2004, Aubervilliers  -- Rennes
-28  Ivan M'Bahia (CIV)             DF    # 19 Apr 2005, Yopougon
-97  Jérémy Jacquet (FRA)           DF    # 13 Jul 2005, Bondy  -- Rennes
+  2,  Mehdi Zeffane (ALG),               DF,   b. 1992,   Yeni Malatyaspor
+  3,  Neto Borges (BRA),                 DF,   b. 1996,   KRC Genk
+  4,  Chrislain Matsima,                 DF,   b. 2002,   Monaco
+  5,  Maximiliano Caufriez (BEL),        DF,   b. 1997,   Spartak Moscow
+ 15,  Cheick Oumar Konaté (MLI),         DF,   b. 2004,   JMG Academy
+ 17,  Andy Pelmard,                      DF,   b. 2000,   Basel
+ 21,  Florent Ogier,                     DF,   b. 1989,   Sochaux
+ 22,  Yoël Armougom,                     DF,   b. 1998,   Sochaux
+ 27,  Mohamed Sylla,                     DF,   b. 2004,   Rennes
+ 28,  Ivan M'Bahia (CIV),                DF,   b. 2005,
+ 97,  Jérémy Jacquet,                    DF,   b. 2005,   Rennes
 
- 6  Habib Keïta (MLI)              MF    # 05 Feb 2002, Bamako  -- Lyon
- 7  Yohann Magnin (FRA)            MF    # 21 Jun 1997, Clermont-Ferrand
- 8  Bilal Boutobba (FRA)           MF    # 29 Aug 1998, Marseille  -- Niort
-10  Muhammed Cham (AUT)            MF    # 26 Sep 2000, Vienna  -- Admira Wacker Mödling
-12  Maxime Gonalons (FRA)          MF    # 10 Mar 1989, Vénissieux  -- Granada
-18  Elba Rashani (KVX)             MF    # 09 May 1993, Hillerstorp  -- BB Erzurumspor
-24  Stan Berkani (ALG)             MF    # 13 Aug 2003, Vichy
-25  Johan Gastien (FRA)            MF    # 25 Jan 1988, Niort  -- Brest
-80  Adam Mabrouk (FRA)             MF    # 03 Apr 2003, Évry  -- Lens
-91  Jérémie Bela (ANG)             MF    # 08 Apr 1993, Melun  -- Birmingham C
+  6,  Habib Keïta (MLI),                 MF,   b. 2002,   Lyon
+  7,  Yohann Magnin,                     MF,   b. 1997,
+  8,  Bilal Boutobba,                    MF,   b. 1998,   Niort
+ 10,  Muhammed Cham (AUT),               MF,   b. 2000,   Admira Wacker Mödling
+ 12,  Maxime Gonalons,                   MF,   b. 1989,   Granada
+ 18,  Elba Rashani (KVX),                MF,   b. 1993,   BB Erzurumspor
+ 24,  Stan Berkani (ALG),                MF,   b. 2003,
+ 25,  Johan Gastien,                     MF,   b. 1988,   Brest
+ 80,  Adam Mabrouk,                      MF,   b. 2003,   Lens
+ 91,  Jérémie Bela (ANG),                MF,   b. 1993,   Birmingham C
 
- 9  Komnen Andrić (SRB)            FW    # 01 Jul 1995, Novi Pazar  -- Dinamo Zagreb
-11  Jim Allevinah (GAB)            FW    # 27 Feb 1995, Agen  -- Le Puy
-13  Abdellah Baallal (MAR)         FW    # 07 Nov 2004, Casablanca
-19  Mohamed-Amine Bouchenna (FRA)   FW    # 15 Jun 2006, Beaumont-sur-Oise  -- Istres
-23  Shamar Nicholson (JAM)         FW    # 16 Mar 1997, Kingston  -- Spartak Moscow
-26  Alan Virginius (FRA)           FW    # 03 Jan 2003, Soisy-sous-Montmorency  -- Lille
-95  Grejohn Kyei (FRA)             FW    # 12 Aug 1995, Gonesse  -- Servette
+  9,  Komnen Andrić (SRB),               FW,   b. 1995,   Dinamo Zagreb
+ 11,  Jim Allevinah (GAB),               FW,   b. 1995,   Le Puy
+ 13,  Abdellah Baallal (MAR),            FW,   b. 2004,
+ 19,  Mohamed-Amine Bouchenna,           FW,   b. 2006,   Istres
+ 23,  Shamar Nicholson (JAM),            FW,   b. 1997,   Spartak Moscow
+ 26,  Alan Virginius,                    FW,   b. 2003,   Lille
+ 95,  Grejohn Kyei,                      FW,   b. 1995,   Servette
