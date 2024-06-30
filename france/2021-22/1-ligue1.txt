@@ -1,13 +1,13 @@
 = French Ligue 1 2021/22
 
 
-Journée 1
-[Ven 6. Août]
+Matchday 1
+[Fri Aug/6]
   21.00  AS Monaco                1-1 (1-1)  FC Nantes
-[Sam 7. Août]
+[Sat Aug/7]
   17.00  Olympique Lyonnais       1-1 (0-1)  Stade Brestois 29
   21.00  ES Troyes AC             1-2 (1-2)  Paris Saint-Germain
-[Dim 8. Août]
+[Sun Aug/8]
   13.00  Stade Rennais FC         1-1 (1-1)  RC Lens
   15.00  RC Strasbourg            0-2 (0-0)  Angers SCO
          AS Saint-Étienne         1-1 (0-0)  FC Lorient
@@ -17,13 +17,13 @@ Journée 1
   20.45  Montpellier HSC          2-3 (2-0)  Olympique de Marseille
 
 
-Journée 2
-[Ven 13. Août]
+Matchday 2
+[Fri Aug/13]
   21.00  FC Lorient               1-0 (1-0)  AS Monaco
-[Sam 14. Août]
+[Sat Aug/14]
   17.00  Lille OSC                0-4 (0-3)  OGC Nice
   21.00  Paris Saint-Germain      4-2 (3-0)  RC Strasbourg
-[Dim 15. Août]
+[Sun Aug/15]
   13.00  Angers SCO               3-0 (1-0)  Olympique Lyonnais
   15.00  Stade de Reims           3-3 (2-3)  Montpellier HSC
          FC Nantes                2-0 (1-0)  FC Metz
@@ -33,13 +33,13 @@ Journée 2
   20.45  Olympique de Marseille   2-2 (2-0)  Girondins de Bordeaux
 
 
-Journée 3
-[Ven 20. Août]
+Matchday 3
+[Fri Aug/20]
   21.00  Stade Brestois 29        2-4 (1-2)  Paris Saint-Germain
-[Sam 21. Août]
+[Sat Aug/21]
   17.00  AS Monaco                0-2 (0-0)  RC Lens
   21.00  AS Saint-Étienne         1-1 (0-1)  Lille OSC
-[Dim 22. Août]
+[Sun Aug/22]
   13.00  Olympique Lyonnais       3-3 (3-1)  Clermont Foot 63
   15.00  Montpellier HSC          3-1 (0-1)  FC Lorient
          FC Metz                  1-1 (1-1)  Stade de Reims
@@ -49,13 +49,13 @@ Journée 3
   20.45  OGC Nice                 -  Olympique de Marseille   [cancelled]
 
 
-Journée 4
-[Ven 27. Août]
+Matchday 4
+[Fri Aug/27]
   21.00  FC Nantes                0-1 (0-1)  Olympique Lyonnais
-[Sam 28. Août]
+[Sat Aug/28]
   17.00  OGC Nice                 4-0 (3-0)  Girondins de Bordeaux
   21.00  Olympique de Marseille   3-1 (1-1)  AS Saint-Étienne
-[Dim 29. Août]
+[Sun Aug/29]
   13.00  ES Troyes AC             1-2 (0-1)  AS Monaco
   15.00  RC Lens                  2-2 (1-2)  FC Lorient
          Clermont Foot 63         2-2 (1-2)  FC Metz
@@ -65,13 +65,13 @@ Journée 4
   20.45  Stade de Reims           0-2 (0-1)  Paris Saint-Germain
 
 
-Journée 5
-[Ven 10. Sept]
+Matchday 5
+[Fri Sep/10]
   21.00  FC Lorient               2-1 (1-1)  Lille OSC
-[Sam 11. Sept]
+[Sat Sep/11]
   17.00  Paris Saint-Germain      4-0 (2-0)  Clermont Foot 63
   21.00  AS Monaco                0-2 (0-1)  Olympique de Marseille
-[Dim 12. Sept]
+[Sun Sep/12]
   13.00  Montpellier HSC          2-0 (1-0)  AS Saint-Étienne
   15.00  Stade Rennais FC         0-2 (0-1)  Stade de Reims
          FC Metz                  0-2 (0-0)  ES Troyes AC
@@ -81,13 +81,13 @@ Journée 5
   20.45  Olympique Lyonnais       3-1 (1-0)  RC Strasbourg
 
 
-Journée 6
-[Ven 17. Sept]
+Matchday 6
+[Fri Sep/17]
   21.00  RC Strasbourg            3-0 (3-0)  FC Metz
-[Sam 18. Sept]
+[Sat Sep/18]
   17.00  RC Lens                  1-0 (0-0)  Lille OSC
   21.00  AS Saint-Étienne         1-2 (0-1)  Girondins de Bordeaux
-[Dim 19. Sept]
+[Sun Sep/19]
   13.00  OGC Nice                 2-2 (0-1)  AS Monaco
   15.00  Stade de Reims           0-0  FC Lorient
          Clermont Foot 63         1-1 (0-0)  Stade Brestois 29
@@ -97,8 +97,8 @@ Journée 6
   20.45  Paris Saint-Germain      2-1 (0-0)  Olympique Lyonnais
 
 
-Journée 7
-[Mer 22. Sept]
+Matchday 7
+[Wed Sep/22]
   19.00  Stade Rennais FC         6-0 (2-0)  Clermont Foot 63
          FC Nantes                3-1 (1-0)  Stade Brestois 29
          Montpellier HSC          3-3 (1-2)  Girondins de Bordeaux
@@ -111,13 +111,13 @@ Journée 7
          FC Lorient               1-0 (1-0)  OGC Nice
 
 
-Journée 8
-[Sam 25. Sept]
+Matchday 8
+[Sat Sep/25]
   17.00  AS Saint-Étienne         0-3 (0-1)  OGC Nice
   19.00  RC Strasbourg            1-2 (0-1)  Lille OSC
   21.00  Olympique Lyonnais       1-1 (0-1)  FC Lorient
          Paris Saint-Germain      2-0 (1-0)  Montpellier HSC
-[Dim 26. Sept]
+[Sun Sep/26]
   13.00  Girondins de Bordeaux    1-1 (0-0)  Stade Rennais FC
   15.00  ES Troyes AC             1-1 (1-0)  Angers SCO
          Stade de Reims           3-1 (0-0)  FC Nantes
@@ -126,13 +126,13 @@ Journée 8
   20.45  Olympique de Marseille   2-3 (2-2)  RC Lens
 
 
-Journée 9
-[Ven 1. Oct]
+Matchday 9
+[Fri Oct/1]
   21.00  RC Lens                  2-0 (1-0)  Stade de Reims
-[Sam 2. Oct]
+[Sat Oct/2]
   17.00  Montpellier HSC          1-1 (1-1)  RC Strasbourg
   21.00  OGC Nice                 2-1 (1-0)  Stade Brestois 29
-[Dim 3. Oct]
+[Sun Oct/3]
   13.00  Stade Rennais FC         2-0 (1-0)  Paris Saint-Germain
   15.00  AS Monaco                3-0 (1-0)  Girondins de Bordeaux
          FC Lorient               1-1 (0-1)  Clermont Foot 63
@@ -142,13 +142,13 @@ Journée 9
   20.45  AS Saint-Étienne         1-1 (0-1)  Olympique Lyonnais
 
 
-Journée 10
-[Ven 15. Oct]
+Matchday 10
+[Fri Oct/15]
   21.00  Paris Saint-Germain      2-1 (0-1)  Angers SCO
-[Sam 16. Oct]
+[Sat Oct/16]
   17.00  Clermont Foot 63         1-0 (1-0)  Lille OSC
   21.00  Olympique Lyonnais       2-0 (0-0)  AS Monaco
-[Dim 17. Oct]
+[Sun Oct/17]
   13.00  ES Troyes AC             1-0 (1-0)  OGC Nice
   15.00  RC Strasbourg            5-1 (2-1)  AS Saint-Étienne
          FC Metz                  0-3 (0-3)  Stade Rennais FC
@@ -158,13 +158,13 @@ Journée 10
   20.45  Olympique de Marseille   4-1 (1-1)  FC Lorient
 
 
-Journée 11
-[Ven 22. Oct]
+Matchday 11
+[Fri Oct/22]
   22.00  AS Saint-Étienne         2-2 (0-1)  Angers SCO
-[Sam 23. Oct]
+[Sat Oct/23]
   17.00  FC Nantes                2-1 (1-0)  Clermont Foot 63
   21.00  Lille OSC                1-1 (1-1)  Stade Brestois 29
-[Dim 24. Oct]
+[Sun Oct/24]
   13.00  OGC Nice                 3-2 (0-1)  Olympique Lyonnais
   15.00  Stade de Reims           1-2 (1-1)  ES Troyes AC
          FC Lorient               1-1 (0-0)  Girondins de Bordeaux
@@ -174,18 +174,18 @@ Journée 11
   20.45  Olympique de Marseille   0-0  Paris Saint-Germain
 
 
-Journée 3
-[Mer 27. Oct]
+Matchday 3
+[Wed Oct/27]
   21.00  OGC Nice                 1-1 (1-1)  Olympique de Marseille
 
 
-Journée 12
-[Ven 29. Oct]
+Matchday 12
+[Fri Oct/29]
   21.00  Paris Saint-Germain      2-1 (0-1)  Lille OSC
-[Sam 30. Oct]
+[Sat Oct/30]
   17.00  FC Metz                  1-1 (1-1)  AS Saint-Étienne
   21.00  Olympique Lyonnais       2-1 (2-0)  RC Lens
-[Dim 31. Oct]
+[Sun Oct/31]
   13.00  Angers SCO               1-2 (1-0)  OGC Nice
   15.00  ES Troyes AC             2-2 (2-1)  Stade Rennais FC
          RC Strasbourg            4-0 (3-0)  FC Lorient
@@ -195,13 +195,13 @@ Journée 12
   20.45  Clermont Foot 63         0-1 (0-1)  Olympique de Marseille
 
 
-Journée 13
-[Ven 5. Nov]
+Matchday 13
+[Fri Nov/5]
   21.00  RC Lens                  4-0 (3-0)  ES Troyes AC
-[Sam 6. Nov]
+[Sat Nov/6]
   17.00  Lille OSC                1-1 (1-0)  Angers SCO
   21.00  Girondins de Bordeaux    2-3 (0-2)  Paris Saint-Germain
-[Dim 7. Nov]
+[Sun Nov/7]
   13.00  Olympique de Marseille   0-0  FC Metz
   15.00  AS Saint-Étienne         3-2 (0-0)  Clermont Foot 63
          Stade de Reims           0-0  AS Monaco
@@ -211,13 +211,13 @@ Journée 13
   20.45  Stade Rennais FC         4-1 (1-0)  Olympique Lyonnais
 
 
-Journée 14
-[Ven 19. Nov]
+Matchday 14
+[Fri Nov/19]
   21.00  AS Monaco                2-2 (1-2)  Lille OSC
-[Sam 20. Nov]
+[Sat Nov/20]
   17.00  Paris Saint-Germain      3-1 (1-0)  FC Nantes
   21.00  Stade Rennais FC         2-0 (2-0)  Montpellier HSC
-[Dim 21. Nov]
+[Sun Nov/21]
   13.00  Stade Brestois 29        4-0 (3-0)  RC Lens
   15.00  RC Strasbourg            1-1 (0-1)  Stade de Reims
          FC Metz                  3-3 (1-2)  Girondins de Bordeaux
@@ -227,13 +227,13 @@ Journée 14
   20.45  Olympique Lyonnais       -  Olympique de Marseille   [cancelled]
 
 
-Journée 15
-[Ven 26. Nov]
+Matchday 15
+[Fri Nov/26]
   21.00  RC Lens                  2-2 (0-1)  Angers SCO
-[Sam 27. Nov]
+[Sat Nov/27]
   17.00  Lille OSC                1-1 (1-1)  FC Nantes
   21.00  OGC Nice                 0-1 (0-1)  FC Metz
-[Dim 28. Nov]
+[Sun Nov/28]
   13.00  AS Saint-Étienne         1-3 (1-1)  Paris Saint-Germain
   15.00  AS Monaco                1-1 (1-0)  RC Strasbourg
          FC Lorient               0-2 (0-0)  Stade Rennais FC
@@ -243,8 +243,8 @@ Journée 15
   20.45  Olympique de Marseille   1-0 (0-0)  ES Troyes AC
 
 
-Journée 16
-[Mer 1. Déc]
+Matchday 16
+[Wed Dec/1]
   19.00  ES Troyes AC             2-0 (2-0)  FC Lorient
          RC Strasbourg            5-2 (3-1)  Girondins de Bordeaux
          FC Metz                  1-3 (0-2)  Montpellier HSC
@@ -257,12 +257,12 @@ Journée 16
   21.05  Paris Saint-Germain      0-0  OGC Nice
 
 
-Journée 17
-[Sam 4. Déc]
+Matchday 17
+[Sat Dec/4]
   17.00  Olympique de Marseille   1-2 (1-0)  Stade Brestois 29
   19.00  Lille OSC                2-1 (0-1)  ES Troyes AC
   21.00  RC Lens                  1-1 (0-0)  Paris Saint-Germain
-[Dim 5. Déc]
+[Sun Dec/5]
   13.00  AS Saint-Étienne         0-5 (0-3)  Stade Rennais FC
   15.00  Stade de Reims           1-2 (0-0)  Angers SCO
          Montpellier HSC          1-0 (1-0)  Clermont Foot 63
@@ -272,13 +272,13 @@ Journée 17
   20.45  Girondins de Bordeaux    2-2 (1-2)  Olympique Lyonnais
 
 
-Journée 18
-[Ven 10. Déc]
+Matchday 18
+[Fri Dec/10]
   21.00  FC Nantes                3-2 (0-2)  RC Lens
-[Sam 11. Déc]
+[Sat Dec/11]
   17.00  Stade Brestois 29        0-4 (0-1)  Montpellier HSC
   21.00  Stade de Reims           2-0 (1-0)  AS Saint-Étienne
-[Dim 12. Déc]
+[Sun Dec/12]
   13.00  Lille OSC                0-0  Olympique Lyonnais
   15.00  Stade Rennais FC         1-2 (0-1)  OGC Nice
          FC Metz                  4-1 (3-0)  FC Lorient
@@ -288,8 +288,8 @@ Journée 18
   20.45  Paris Saint-Germain      2-0 (2-0)  AS Monaco
 
 
-Journée 19
-[Mer 22. Déc]
+Matchday 19
+[Wed Dec/22]
   21.00  ES Troyes AC             1-1 (0-1)  Stade Brestois 29
          AS Saint-Étienne         0-1 (0-0)  FC Nantes
          OGC Nice                 2-1 (0-1)  RC Lens
@@ -301,12 +301,12 @@ Journée 19
          Girondins de Bordeaux    2-3 (2-1)  Lille OSC
 
 
-Journée 20
-[Ven 7. Jan]
+Matchday 20
+[Fri Jan/7]
   21.00  Girondins de Bordeaux    0-1 (0-1)  Olympique de Marseille
-[Sam 8. Jan]
+[Sat Jan/8]
   21.00  RC Lens                  1-0 (0-0)  Stade Rennais FC
-[Dim 9. Jan]
+[Sun Jan/9]
   13.00  Stade Brestois 29        0-3 (0-1)  OGC Nice
   15.00  Clermont Foot 63         0-0  Stade de Reims
          FC Metz                  0-2 (0-0)  RC Strasbourg
@@ -314,13 +314,13 @@ Journée 20
   20.45  Olympique Lyonnais       1-1 (1-0)  Paris Saint-Germain
 
 
-Journée 21
-[Ven 14. Jan]
+Matchday 21
+[Fri Jan/14]
   21.00  OGC Nice                 2-1 (1-1)  FC Nantes
-[Sam 15. Jan]
+[Sat Jan/15]
   17.00  AS Saint-Étienne         1-2 (1-0)  RC Lens
   21.00  Paris Saint-Germain      2-0 (1-0)  Stade Brestois 29
-[Dim 16. Jan]
+[Sun Jan/16]
   13.00  Stade Rennais FC         6-0 (2-0)  Girondins de Bordeaux
   15.00  RC Strasbourg            3-1 (0-1)  Montpellier HSC
          Stade de Reims           0-1 (0-0)  FC Metz
@@ -330,24 +330,24 @@ Journée 21
   20.45  Olympique de Marseille   1-1 (0-1)  Lille OSC
 
 
-Journée 19
-[Mer 19. Jan]
+Matchday 19
+[Wed Jan/19]
   19.00  Clermont Foot 63         0-2 (0-1)  RC Strasbourg
 
 
-Journée 20
-[Mer 19. Jan]
+Matchday 20
+[Wed Jan/19]
   19.00  Montpellier HSC          0-1 (0-0)  ES Troyes AC
          Lille OSC                3-1 (3-0)  FC Lorient
 
 
-Journée 22
-[Ven 21. Jan]
+Matchday 22
+[Fri Jan/21]
   21.00  Olympique Lyonnais       1-0 (1-0)  AS Saint-Étienne
-[Sam 22. Jan]
+[Sat Jan/22]
   17.00  Stade Brestois 29        2-0 (1-0)  Lille OSC
   21.00  RC Lens                  0-2 (0-1)  Olympique de Marseille
-[Dim 23. Jan]
+[Sun Jan/23]
   13.00  FC Metz                  0-2 (0-0)  OGC Nice
   15.00  FC Nantes                4-2 (1-0)  FC Lorient
          Clermont Foot 63         2-1 (0-1)  Stade Rennais FC
@@ -357,23 +357,23 @@ Journée 22
   20.45  Paris Saint-Germain      4-0 (1-0)  Stade de Reims
 
 
-Journée 20
-[Mer 26. Jan]
+Matchday 20
+[Wed Jan/26]
   19.00  Angers SCO               0-1 (0-1)  AS Saint-Étienne
 
 
-Journée 14
-[Mar  1. Fév]
+Matchday 14
+[Tue Feb/1]
   21.00  Olympique Lyonnais       2-1 (0-1)  Olympique de Marseille
 
 
-Journée 23
-[Ven 4. Fév]
+Matchday 23
+[Fri Feb/4]
   21.00  Olympique de Marseille   5-2 (2-2)  Angers SCO
-[Sam 5. Fév]
+[Sat Feb/5]
   17.00  AS Saint-Étienne         3-1 (0-1)  Montpellier HSC
   21.00  AS Monaco                2-0 (2-0)  Olympique Lyonnais
-[Dim 6. Fév]
+[Sun Feb/6]
   13.00  FC Lorient               2-0 (1-0)  RC Lens
   15.00  ES Troyes AC             0-0  FC Metz
          RC Strasbourg            1-0 (0-0)  FC Nantes
@@ -383,13 +383,13 @@ Journée 23
   20.45  Lille OSC                1-5 (1-3)  Paris Saint-Germain
 
 
-Journée 24
-[Ven 11. Fév]
+Matchday 24
+[Fri Feb/11]
   21.00  Paris Saint-Germain      1-0 (0-0)  Stade Rennais FC
-[Sam 12. Fév]
+[Sat Feb/12]
   17.00  Montpellier HSC          0-1 (0-0)  Lille OSC
   21.00  Olympique Lyonnais       2-0 (1-0)  OGC Nice
-[Dim 13. Fév]
+[Sun Feb/13]
   13.00  AS Monaco                0-0  FC Lorient
   15.00  FC Nantes                1-0 (1-0)  Stade de Reims
          Clermont Foot 63         1-2 (1-0)  AS Saint-Étienne
@@ -399,13 +399,13 @@ Journée 24
   20.45  FC Metz                  1-2 (0-1)  Olympique de Marseille
 
 
-Journée 25
-[Ven 18. Fév]
+Matchday 25
+[Fri Feb/18]
   21.00  Lille OSC                0-0  FC Metz
-[Sam 19. Fév]
+[Sat Feb/19]
   17.00  RC Lens                  1-1 (1-1)  Olympique Lyonnais
   21.00  FC Nantes                3-1 (3-0)  Paris Saint-Germain
-[Dim 20. Fév]
+[Sun Feb/20]
   13.00  OGC Nice                 1-0 (1-0)  Angers SCO
   15.00  Stade Rennais FC         4-1 (2-1)  ES Troyes AC
          Stade de Reims           1-1 (1-1)  Stade Brestois 29
@@ -415,13 +415,13 @@ Journée 25
   20.45  Olympique de Marseille   0-2 (0-1)  Clermont Foot 63
 
 
-Journée 26
-[Ven 25. Fév]
+Matchday 26
+[Fri Feb/25]
   21.00  Montpellier HSC          2-4 (2-2)  Stade Rennais FC
-[Sam 26. Fév]
+[Sat Feb/26]
   17.00  RC Strasbourg            0-0  OGC Nice
   21.00  Paris Saint-Germain      3-1 (1-1)  AS Saint-Étienne
-[Dim 27. Fév]
+[Sun Feb/27]
   13.05  AS Monaco                1-2 (0-0)  Stade de Reims
   15.00  FC Metz                  0-0  FC Nantes
          Clermont Foot 63         1-1 (1-1)  Girondins de Bordeaux
@@ -431,13 +431,13 @@ Journée 26
   20.45  Olympique Lyonnais       0-1 (0-1)  Lille OSC
 
 
-Journée 27
-[Ven 4. Mars]
+Matchday 27
+[Fri Mar/4]
   21.00  FC Lorient               1-4 (0-2)  Olympique Lyonnais
-[Sam 5. Mars]
+[Sat Mar/5]
   17.00  RC Lens                  0-1 (0-0)  Stade Brestois 29
   21.00  OGC Nice                 1-0 (0-0)  Paris Saint-Germain
-[Dim 6. Mars]
+[Sun Mar/6]
   13.00  AS Saint-Étienne         1-0 (0-0)  FC Metz
   15.00  Stade Rennais FC         2-0 (1-0)  Angers SCO
          Stade de Reims           1-1 (0-0)  RC Strasbourg
@@ -447,13 +447,13 @@ Journée 27
   20.45  Olympique de Marseille   0-1 (0-0)  AS Monaco
 
 
-Journée 28
-[Ven 11. Mars]
+Matchday 28
+[Fri Mar/11]
   21.00  Lille OSC                0-0  AS Saint-Étienne
-[Sam 12. Mars]
+[Sat Mar/12]
   17.00  Montpellier HSC          0-0  OGC Nice
   21.00  ES Troyes AC             1-0 (1-0)  FC Nantes
-[Dim 13. Mars]
+[Sun Mar/13]
   13.00  Paris Saint-Germain      3-0 (1-0)  Girondins de Bordeaux
   15.00  FC Metz                  0-0  RC Lens
          Clermont Foot 63         0-2 (0-0)  FC Lorient
@@ -463,13 +463,13 @@ Journée 28
   20.45  Stade Brestois 29        1-4 (0-1)  Olympique de Marseille
 
 
-Journée 29
-[Ven 18. Mars]
+Matchday 29
+[Fri Mar/18]
   21.00  AS Saint-Étienne         1-1 (0-1)  ES Troyes AC
-[Sam 19. Mars]
+[Sat Mar/19]
   17.00  RC Lens                  3-1 (2-1)  Clermont Foot 63
   21.00  FC Nantes                0-1 (0-1)  Lille OSC
-[Dim 20. Mars]
+[Sun Mar/20]
   13.00  AS Monaco                3-0 (1-0)  Paris Saint-Germain
   15.00  Stade Rennais FC         6-1 (3-0)  FC Metz
          FC Lorient               0-0  RC Strasbourg
@@ -479,11 +479,11 @@ Journée 29
   20.45  Olympique de Marseille   2-1 (1-0)  OGC Nice
 
 
-Journée 30
-[Sam 2. Avril]
+Matchday 30
+[Sat Apr/2]
   17.00  OGC Nice                 1-1 (0-0)  Stade Rennais FC
   19.00  Lille OSC                0-0  Girondins de Bordeaux
-[Dim 3. Avril]
+[Sun Apr/3]
   13.00  RC Strasbourg            1-0 (0-0)  RC Lens
   15.00  ES Troyes AC             1-0 (0-0)  Stade de Reims
          AS Saint-Étienne         2-4 (1-1)  Olympique de Marseille
@@ -494,13 +494,13 @@ Journée 30
   20.45  Paris Saint-Germain      5-1 (2-0)  FC Lorient
 
 
-Journée 31
-[Ven 8. Avril]
+Matchday 31
+[Fri Apr/8]
   21.00  FC Lorient               6-2 (2-2)  AS Saint-Étienne
-[Sam 9. Avril]
+[Sat Apr/9]
   17.00  Stade de Reims           2-3 (0-2)  Stade Rennais FC
   21.00  Clermont Foot 63         1-6 (1-2)  Paris Saint-Germain
-[Dim 10. Avril]
+[Sun Apr/10]
   13.00  Girondins de Bordeaux    3-1 (0-1)  FC Metz
   15.00  AS Monaco                2-1 (1-1)  ES Troyes AC
          Stade Brestois 29        1-1 (0-1)  FC Nantes
@@ -510,13 +510,13 @@ Journée 31
   21.00  Olympique de Marseille   2-0 (2-0)  Montpellier HSC
 
 
-Journée 32
-[Ven 15. Avril]
+Matchday 32
+[Fri Apr/15]
   21.00  Stade Rennais FC         2-3 (1-1)  AS Monaco
-[Sam 16. Avril]
+[Sat Apr/16]
   17.00  AS Saint-Étienne         2-1 (2-1)  Stade Brestois 29
   21.00  Lille OSC                1-2 (1-2)  RC Lens
-[Dim 17. Avril]
+[Sun Apr/17]
   13.00  OGC Nice                 2-1 (0-0)  FC Lorient
   15.00  Montpellier HSC          0-0  Stade de Reims
          FC Metz                  1-1 (1-1)  Clermont Foot 63
@@ -526,8 +526,8 @@ Journée 32
   20.45  Paris Saint-Germain      2-1 (2-1)  Olympique de Marseille
 
 
-Journée 33
-[Mer 20. Avril]
+Matchday 33
+[Wed Apr/20]
   19.00  ES Troyes AC             0-1 (0-0)  Clermont Foot 63
          Stade de Reims           2-1 (1-0)  Lille OSC
          AS Monaco                1-0 (1-0)  OGC Nice
@@ -540,12 +540,12 @@ Journée 33
          Angers SCO               0-3 (0-2)  Paris Saint-Germain
 
 
-Journée 34
-[Sam 23. Avril]
+Matchday 34
+[Sat Apr/23]
   17.00  Olympique Lyonnais       5-2 (2-2)  Montpellier HSC
   19.00  AS Saint-Étienne         1-4 (1-2)  AS Monaco
   21.00  Paris Saint-Germain      1-1 (0-0)  RC Lens
-[Dim 24. Avril]
+[Sun Apr/24]
   13.00  Stade Rennais FC         5-0 (2-0)  FC Lorient
   15.00  OGC Nice                 1-0 (0-0)  ES Troyes AC
          FC Nantes                5-3 (0-2)  Girondins de Bordeaux
@@ -555,13 +555,13 @@ Journée 34
   20.45  Stade de Reims           0-1 (0-0)  Olympique de Marseille
 
 
-Journée 35
-[Ven 29. Avril]
+Matchday 35
+[Fri Apr/29]
   21.00  RC Strasbourg            3-3 (1-1)  Paris Saint-Germain
-[Sam 30. Avril]
+[Sat Apr/30]
   17.00  RC Lens                  2-2 (0-2)  FC Nantes
   21.00  Stade Rennais FC         2-0 (1-0)  AS Saint-Étienne
-[Dim 1. Mai]
+[Sun May/1]
   13.00  ES Troyes AC             3-0 (1-0)  Lille OSC
   15.00  AS Monaco                2-0 (1-0)  Angers SCO
          FC Lorient               1-2 (1-1)  Stade de Reims
@@ -571,25 +571,25 @@ Journée 35
   20.45  Olympique de Marseille   0-3 (0-0)  Olympique Lyonnais
 
 
-Journée 36
-[Ven 6. Mai]
+Matchday 36
+[Fri May/6]
   21.00  Lille OSC                1-2 (0-1)  AS Monaco
-[Sam 7. Mai]
+[Sat May/7]
   17.00  Stade Brestois 29        0-1 (0-0)  RC Strasbourg
-[Dim 8. Mai]
+[Sun May/8]
   13.00  FC Metz                  3-2 (2-1)  Olympique Lyonnais
   15.00  Stade de Reims           1-2 (1-0)  RC Lens
          Clermont Foot 63         2-1 (1-1)  Montpellier HSC
          Angers SCO               4-1 (2-0)  Girondins de Bordeaux
   17.05  FC Lorient               0-3 (0-1)  Olympique de Marseille
   20.45  Paris Saint-Germain      2-2 (2-1)  ES Troyes AC
-[Mer 11. Mai]
+[Wed May/11]
   19.00  OGC Nice                 4-2 (0-2)  AS Saint-Étienne
   21.00  FC Nantes                2-1 (1-1)  Stade Rennais FC
 
 
-Journée 37
-[Sam 14. Mai]
+Matchday 37
+[Sat May/14]
   21.00  ES Troyes AC             1-3 (1-2)  RC Lens
          RC Strasbourg            1-0 (1-0)  Clermont Foot 63
          AS Saint-Étienne         1-2 (1-1)  Stade de Reims
@@ -602,8 +602,8 @@ Journée 37
          Girondins de Bordeaux    0-0  FC Lorient
 
 
-Journée 38
-[Sam 21. Mai]
+Matchday 38
+[Sat May/21]
   21.00  Stade de Reims           2-3 (2-0)  OGC Nice
          Paris Saint-Germain      5-0 (3-0)  FC Metz
          FC Nantes                1-1 (1-0)  AS Saint-Étienne
