@@ -2,93 +2,100 @@
 
 
 Matchday 1
+[Fri Aug/16]
+  20.45  Le Havre AC              1-4 (0-1)  Paris Saint-Germain
+[Sat Aug/17]
+  17.00  Stade Brestois 29        1-5 (1-3)  Olympique de Marseille
+  19.00  Stade de Reims           0-2 (0-1)  Lille OSC
+  21.00  AS Monaco                1-0 (1-0)  AS Saint-Étienne
 [Sun Aug/18]
-  Stade Brestois 29        -  Olympique de Marseille
-  Montpellier HSC          -  RC Strasbourg Alsace
-  Toulouse FC              -  FC Nantes
-  Angers SCO               -  Racing Club de Lens
-  AS Monaco FC             -  AS Saint-Étienne
-  Stade de Reims           -  Lille OSC
-  AJ Auxerre               -  OGC Nice
-  Le Havre AC              -  Paris Saint-Germain FC
-  Stade Rennais FC 1901    -  Olympique Lyonnais
+  15.00  AJ Auxerre               2-1 (1-1)  OGC Nice
+  17.00  Angers SCO               0-1 (0-1)  RC Lens
+         Montpellier HSC          1-1 (0-0)  RC Strasbourg
+         Toulouse FC              0-0  FC Nantes
+  20.45  Stade Rennais FC         3-0 (2-0)  Olympique Lyonnais
 
 
 Matchday 2
+[Fri Aug/23]
+  20.45  Paris Saint-Germain      6-0 (2-0)  Montpellier HSC
+[Sat Aug/24]
+  17.00  Olympique Lyonnais       0-2 (0-0)  AS Monaco
+  19.00  Lille OSC                2-0 (1-0)  Angers SCO
+  21.00  AS Saint-Étienne         0-2 (0-0)  Le Havre AC
 [Sun Aug/25]
-  Paris Saint-Germain FC   -  Montpellier HSC
-  RC Strasbourg Alsace     -  Stade Rennais FC 1901
-  FC Nantes                -  AJ Auxerre
-  AS Saint-Étienne         -  Le Havre AC
-  Lille OSC                -  Angers SCO
-  OGC Nice                 -  Toulouse FC
-  Racing Club de Lens      -  Stade Brestois 29
-  Olympique Lyonnais       -  AS Monaco FC
-  Olympique de Marseille   -  Stade de Reims
+  15.00  RC Lens                  2-0 (2-0)  Stade Brestois 29
+  17.00  OGC Nice                 1-1 (0-0)  Toulouse FC
+         RC Strasbourg            3-1 (1-0)  Stade Rennais FC
+         FC Nantes                2-0 (1-0)  AJ Auxerre
+  20.45  Olympique de Marseille   2-2 (1-0)  Stade de Reims
 
 
 Matchday 3
+[Fri Aug/30]
+  20.45  Olympique Lyonnais       -  RC Strasbourg
+[Sat Aug/31]
+  17.00  Stade Brestois 29        -  AS Saint-Étienne
+  19.00  Montpellier HSC          -  FC Nantes
+  21.00  Toulouse FC              -  Olympique de Marseille
 [Sun Sep/1]
-  Lille OSC                -  Paris Saint-Germain FC
-  Olympique Lyonnais       -  RC Strasbourg Alsace
-  Stade Brestois 29        -  AS Saint-Étienne
-  Montpellier HSC          -  FC Nantes
-  Angers SCO               -  OGC Nice
-  AS Monaco FC             -  Racing Club de Lens
-  Le Havre AC              -  AJ Auxerre
-  Stade de Reims           -  Stade Rennais FC 1901
-  Toulouse FC              -  Olympique de Marseille
+  15.00  AS Monaco                -  RC Lens
+  17.00  Stade de Reims           -  Stade Rennais FC
+         Angers SCO               -  OGC Nice
+         Le Havre AC              -  AJ Auxerre
+  20.45  Lille OSC                -  Paris Saint-Germain
 
 
 Matchday 4
-[Sun Sep/15]
-  AJ Auxerre               -  AS Monaco FC
-  Stade Rennais FC 1901    -  Montpellier HSC
-  Racing Club de Lens      -  Olympique Lyonnais
-  FC Nantes                -  Stade de Reims
-  Toulouse FC              -  Le Havre AC
-  RC Strasbourg Alsace     -  Angers SCO
+[Sat Sep/14]
+  AJ Auxerre               -  AS Monaco
+  RC Lens                  -  Olympique Lyonnais
   AS Saint-Étienne         -  Lille OSC
   Olympique de Marseille   -  OGC Nice
-  Paris Saint-Germain FC   -  Stade Brestois 29
+  Paris Saint-Germain      -  Stade Brestois 29
+[Sun Sep/15]
+  15.00  Stade Rennais FC         -  Montpellier HSC
+  17.00  RC Strasbourg            -  Angers SCO
+         FC Nantes                -  Stade de Reims
+         Toulouse FC              -  Le Havre AC
 
 
 Matchday 5
 [Sun Sep/22]
   Olympique Lyonnais       -  Olympique de Marseille
   OGC Nice                 -  AS Saint-Étienne
-  Stade de Reims           -  Paris Saint-Germain FC
-  Stade Brestois 29        -  Toulouse FC
-  Angers SCO               -  FC Nantes
-  Montpellier HSC          -  AJ Auxerre
-  Lille OSC                -  RC Strasbourg Alsace
-  Stade Rennais FC 1901    -  Racing Club de Lens
-  AS Monaco FC             -  Le Havre AC
+  Stade de Reims           -  Paris Saint-Germain
+  Lille OSC                -  RC Strasbourg
+  Stade Rennais FC         -  RC Lens
+  AS Monaco                -  Le Havre AC
+  17.00  Angers SCO               -  FC Nantes
+         Montpellier HSC          -  AJ Auxerre
+         Stade Brestois 29        -  Toulouse FC
 
 
 Matchday 6
 [Sun Sep/29]
-  RC Strasbourg Alsace     -  Olympique de Marseille
-  Paris Saint-Germain FC   -  Stade Rennais FC 1901
+  RC Strasbourg            -  Olympique de Marseille
+  Paris Saint-Germain      -  Stade Rennais FC
   AJ Auxerre               -  Stade Brestois 29
-  Racing Club de Lens      -  OGC Nice
+  RC Lens                  -  OGC Nice
   FC Nantes                -  AS Saint-Étienne
   Le Havre AC              -  Lille OSC
   Toulouse FC              -  Olympique Lyonnais
-  AS Monaco FC             -  Montpellier HSC
+  AS Monaco                -  Montpellier HSC
   Angers SCO               -  Stade de Reims
 
 
 Matchday 7
 [Sun Oct/6]
   Olympique Lyonnais       -  FC Nantes
-  OGC Nice                 -  Paris Saint-Germain FC
+  OGC Nice                 -  Paris Saint-Germain
   Lille OSC                -  Toulouse FC
   AS Saint-Étienne         -  AJ Auxerre
   Stade Brestois 29        -  Le Havre AC
   Olympique de Marseille   -  Angers SCO
-  Stade Rennais FC 1901    -  AS Monaco FC
-  RC Strasbourg Alsace     -  Racing Club de Lens
+  Stade Rennais FC         -  AS Monaco
+  RC Strasbourg            -  RC Lens
   Stade de Reims           -  Montpellier HSC
 
 
@@ -99,36 +106,36 @@ Matchday 8
   Le Havre AC              -  Olympique Lyonnais
   FC Nantes                -  OGC Nice
   Montpellier HSC          -  Olympique de Marseille
-  AS Monaco FC             -  Lille OSC
-  AS Saint-Étienne         -  Racing Club de Lens
-  Stade Brestois 29        -  Stade Rennais FC 1901
-  Paris Saint-Germain FC   -  RC Strasbourg Alsace
+  AS Monaco                -  Lille OSC
+  AS Saint-Étienne         -  RC Lens
+  Stade Brestois 29        -  Stade Rennais FC
+  Paris Saint-Germain      -  RC Strasbourg
 
 
 Matchday 9
 [Sun Oct/27]
-  OGC Nice                 -  AS Monaco FC
-  Racing Club de Lens      -  Lille OSC
-  Olympique de Marseille   -  Paris Saint-Germain FC
+  OGC Nice                 -  AS Monaco
+  RC Lens                  -  Lille OSC
+  Olympique de Marseille   -  Paris Saint-Germain
   Olympique Lyonnais       -  AJ Auxerre
   Montpellier HSC          -  Toulouse FC
-  RC Strasbourg Alsace     -  FC Nantes
-  Stade Rennais FC 1901    -  Le Havre AC
+  RC Strasbourg            -  FC Nantes
+  Stade Rennais FC         -  Le Havre AC
   Angers SCO               -  AS Saint-Étienne
   Stade de Reims           -  Stade Brestois 29
 
 
 Matchday 10
 [Sun Nov/3]
-  AJ Auxerre               -  Stade Rennais FC 1901
+  AJ Auxerre               -  Stade Rennais FC
   Toulouse FC              -  Stade de Reims
-  AS Monaco FC             -  Angers SCO
+  AS Monaco                -  Angers SCO
   Le Havre AC              -  Montpellier HSC
   FC Nantes                -  Olympique de Marseille
   Lille OSC                -  Olympique Lyonnais
-  AS Saint-Étienne         -  RC Strasbourg Alsace
+  AS Saint-Étienne         -  RC Strasbourg
   Stade Brestois 29        -  OGC Nice
-  Paris Saint-Germain FC   -  Racing Club de Lens
+  Paris Saint-Germain      -  RC Lens
 
 
 Matchday 11
@@ -137,179 +144,179 @@ Matchday 11
   Olympique Lyonnais       -  AS Saint-Étienne
   Montpellier HSC          -  Stade Brestois 29
   Le Havre AC              -  Stade de Reims
-  RC Strasbourg Alsace     -  AS Monaco FC
-  Racing Club de Lens      -  FC Nantes
-  Stade Rennais FC 1901    -  Toulouse FC
+  RC Strasbourg            -  AS Monaco
+  RC Lens                  -  FC Nantes
+  Stade Rennais FC         -  Toulouse FC
   OGC Nice                 -  Lille OSC
-  Angers SCO               -  Paris Saint-Germain FC
+  Angers SCO               -  Paris Saint-Germain
 
 
 Matchday 12
 [Sun Nov/24]
-  Paris Saint-Germain FC   -  Toulouse FC
-  Racing Club de Lens      -  Olympique de Marseille
-  OGC Nice                 -  RC Strasbourg Alsace
+  Paris Saint-Germain      -  Toulouse FC
+  RC Lens                  -  Olympique de Marseille
+  OGC Nice                 -  RC Strasbourg
   AS Saint-Étienne         -  Montpellier HSC
-  Lille OSC                -  Stade Rennais FC 1901
+  Lille OSC                -  Stade Rennais FC
   FC Nantes                -  Le Havre AC
-  AS Monaco FC             -  Stade Brestois 29
+  AS Monaco                -  Stade Brestois 29
   AJ Auxerre               -  Angers SCO
   Stade de Reims           -  Olympique Lyonnais
 
 
 Matchday 13
 [Sun Dec/1]
-  Stade de Reims           -  Racing Club de Lens
-  Stade Rennais FC 1901    -  AS Saint-Étienne
+  Stade de Reims           -  RC Lens
+  Stade Rennais FC         -  AS Saint-Étienne
   Le Havre AC              -  Angers SCO
   Toulouse FC              -  AJ Auxerre
-  Stade Brestois 29        -  RC Strasbourg Alsace
+  Stade Brestois 29        -  RC Strasbourg
   Montpellier HSC          -  Lille OSC
-  Paris Saint-Germain FC   -  FC Nantes
-  Olympique de Marseille   -  AS Monaco FC
+  Paris Saint-Germain      -  FC Nantes
+  Olympique de Marseille   -  AS Monaco
   Olympique Lyonnais       -  OGC Nice
 
 
 Matchday 14
 [Sun Dec/8]
   OGC Nice                 -  Le Havre AC
-  AJ Auxerre               -  Paris Saint-Germain FC
+  AJ Auxerre               -  Paris Saint-Germain
   AS Saint-Étienne         -  Olympique de Marseille
   Angers SCO               -  Olympique Lyonnais
   Lille OSC                -  Stade Brestois 29
-  Racing Club de Lens      -  Montpellier HSC
-  RC Strasbourg Alsace     -  Stade de Reims
-  FC Nantes                -  Stade Rennais FC 1901
-  AS Monaco FC             -  Toulouse FC
+  RC Lens                  -  Montpellier HSC
+  RC Strasbourg            -  Stade de Reims
+  FC Nantes                -  Stade Rennais FC
+  AS Monaco                -  Toulouse FC
 
 
 Matchday 15
 [Sun Dec/15]
-  Stade Rennais FC 1901    -  Angers SCO
-  Le Havre AC              -  RC Strasbourg Alsace
-  Stade de Reims           -  AS Monaco FC
-  AJ Auxerre               -  Racing Club de Lens
+  Stade Rennais FC         -  Angers SCO
+  Le Havre AC              -  RC Strasbourg
+  Stade de Reims           -  AS Monaco
+  AJ Auxerre               -  RC Lens
   Toulouse FC              -  AS Saint-Étienne
   Montpellier HSC          -  OGC Nice
   Stade Brestois 29        -  FC Nantes
   Olympique de Marseille   -  Lille OSC
-  Paris Saint-Germain FC   -  Olympique Lyonnais
+  Paris Saint-Germain      -  Olympique Lyonnais
 
 
 Matchday 16
 [Sun Jan/5]
-  AS Monaco FC             -  Paris Saint-Germain FC
+  AS Monaco                -  Paris Saint-Germain
   Olympique Lyonnais       -  Montpellier HSC
-  Racing Club de Lens      -  Toulouse FC
+  RC Lens                  -  Toulouse FC
   AS Saint-Étienne         -  Stade de Reims
   Angers SCO               -  Stade Brestois 29
   Lille OSC                -  FC Nantes
   Olympique de Marseille   -  Le Havre AC
-  RC Strasbourg Alsace     -  AJ Auxerre
-  OGC Nice                 -  Stade Rennais FC 1901
+  RC Strasbourg            -  AJ Auxerre
+  OGC Nice                 -  Stade Rennais FC
 
 
 Matchday 17
 [Sun Jan/12]
-  Toulouse FC              -  RC Strasbourg Alsace
-  FC Nantes                -  AS Monaco FC
+  Toulouse FC              -  RC Strasbourg
+  FC Nantes                -  AS Monaco
   AJ Auxerre               -  Lille OSC
   Stade de Reims           -  OGC Nice
-  Le Havre AC              -  Racing Club de Lens
+  Le Havre AC              -  RC Lens
   Montpellier HSC          -  Angers SCO
   Stade Brestois 29        -  Olympique Lyonnais
-  Paris Saint-Germain FC   -  AS Saint-Étienne
-  Stade Rennais FC 1901    -  Olympique de Marseille
+  Paris Saint-Germain      -  AS Saint-Étienne
+  Stade Rennais FC         -  Olympique de Marseille
 
 
 Matchday 18
 [Sun Jan/19]
-  Olympique de Marseille   -  RC Strasbourg Alsace
-  Racing Club de Lens      -  Paris Saint-Germain FC
+  Olympique de Marseille   -  RC Strasbourg
+  RC Lens                  -  Paris Saint-Germain
   Lille OSC                -  OGC Nice
   Olympique Lyonnais       -  Toulouse FC
   AS Saint-Étienne         -  FC Nantes
-  Montpellier HSC          -  AS Monaco FC
+  Montpellier HSC          -  AS Monaco
   Stade de Reims           -  Le Havre AC
   Angers SCO               -  AJ Auxerre
-  Stade Rennais FC 1901    -  Stade Brestois 29
+  Stade Rennais FC         -  Stade Brestois 29
 
 
 Matchday 19
 [Sun Jan/26]
-  RC Strasbourg Alsace     -  Lille OSC
+  RC Strasbourg            -  Lille OSC
   FC Nantes                -  Olympique Lyonnais
-  AS Monaco FC             -  Stade Rennais FC 1901
+  AS Monaco                -  Stade Rennais FC
   Toulouse FC              -  Montpellier HSC
   Le Havre AC              -  Stade Brestois 29
   AJ Auxerre               -  AS Saint-Étienne
-  Racing Club de Lens      -  Angers SCO
-  Paris Saint-Germain FC   -  Stade de Reims
+  RC Lens                  -  Angers SCO
+  Paris Saint-Germain      -  Stade de Reims
   OGC Nice                 -  Olympique de Marseille
 
 
 Matchday 20
 [Sun Feb/2]
   Olympique de Marseille   -  Olympique Lyonnais
-  Stade Brestois 29        -  Paris Saint-Germain FC
-  Montpellier HSC          -  Racing Club de Lens
+  Stade Brestois 29        -  Paris Saint-Germain
+  Montpellier HSC          -  RC Lens
   Lille OSC                -  AS Saint-Étienne
   Stade de Reims           -  FC Nantes
   Angers SCO               -  Le Havre AC
   Toulouse FC              -  OGC Nice
-  Stade Rennais FC 1901    -  RC Strasbourg Alsace
-  AS Monaco FC             -  AJ Auxerre
+  Stade Rennais FC         -  RC Strasbourg
+  AS Monaco                -  AJ Auxerre
 
 
 Matchday 21
 [Sun Feb/9]
   AJ Auxerre               -  Toulouse FC
   FC Nantes                -  Stade Brestois 29
-  RC Strasbourg Alsace     -  Montpellier HSC
+  RC Strasbourg            -  Montpellier HSC
   Lille OSC                -  Le Havre AC
-  AS Saint-Étienne         -  Stade Rennais FC 1901
-  Paris Saint-Germain FC   -  AS Monaco FC
+  AS Saint-Étienne         -  Stade Rennais FC
+  Paris Saint-Germain      -  AS Monaco
   Olympique Lyonnais       -  Stade de Reims
   Angers SCO               -  Olympique de Marseille
-  OGC Nice                 -  Racing Club de Lens
+  OGC Nice                 -  RC Lens
 
 
 Matchday 22
 [Sun Feb/16]
-  Toulouse FC              -  Paris Saint-Germain FC
+  Toulouse FC              -  Paris Saint-Germain
   Olympique de Marseille   -  AS Saint-Étienne
   Montpellier HSC          -  Olympique Lyonnais
-  Racing Club de Lens      -  RC Strasbourg Alsace
+  RC Lens                  -  RC Strasbourg
   Stade Brestois 29        -  AJ Auxerre
-  Stade Rennais FC 1901    -  Lille OSC
+  Stade Rennais FC         -  Lille OSC
   Stade de Reims           -  Angers SCO
   Le Havre AC              -  OGC Nice
-  AS Monaco FC             -  FC Nantes
+  AS Monaco                -  FC Nantes
 
 
 Matchday 23
 [Sun Feb/23]
-  Stade Rennais FC 1901    -  Stade de Reims
+  Stade Rennais FC         -  Stade de Reims
   Le Havre AC              -  Toulouse FC
-  Lille OSC                -  AS Monaco FC
-  RC Strasbourg Alsace     -  Stade Brestois 29
-  FC Nantes                -  Racing Club de Lens
+  Lille OSC                -  AS Monaco
+  RC Strasbourg            -  Stade Brestois 29
+  FC Nantes                -  RC Lens
   AS Saint-Étienne         -  Angers SCO
   AJ Auxerre               -  Olympique de Marseille
   OGC Nice                 -  Montpellier HSC
-  Olympique Lyonnais       -  Paris Saint-Germain FC
+  Olympique Lyonnais       -  Paris Saint-Germain
 
 
 Matchday 24
 [Sun Mar/2]
-  Paris Saint-Germain FC   -  Lille OSC
+  Paris Saint-Germain      -  Lille OSC
   Olympique de Marseille   -  FC Nantes
   Olympique Lyonnais       -  Stade Brestois 29
-  Montpellier HSC          -  Stade Rennais FC 1901
+  Montpellier HSC          -  Stade Rennais FC
   AS Saint-Étienne         -  OGC Nice
-  Racing Club de Lens      -  Le Havre AC
-  AJ Auxerre               -  RC Strasbourg Alsace
-  AS Monaco FC             -  Stade de Reims
+  RC Lens                  -  Le Havre AC
+  AJ Auxerre               -  RC Strasbourg
+  AS Monaco                -  Stade de Reims
   Angers SCO               -  Toulouse FC
 
 
@@ -317,103 +324,103 @@ Matchday 25
 [Sun Mar/9]
   Le Havre AC              -  AS Saint-Étienne
   Stade de Reims           -  AJ Auxerre
-  FC Nantes                -  RC Strasbourg Alsace
-  Toulouse FC              -  AS Monaco FC
+  FC Nantes                -  RC Strasbourg
+  Toulouse FC              -  AS Monaco
   OGC Nice                 -  Olympique Lyonnais
   Stade Brestois 29        -  Angers SCO
   Lille OSC                -  Montpellier HSC
-  Stade Rennais FC 1901    -  Paris Saint-Germain FC
-  Olympique de Marseille   -  Racing Club de Lens
+  Stade Rennais FC         -  Paris Saint-Germain
+  Olympique de Marseille   -  RC Lens
 
 
 Matchday 26
 [Sun Mar/16]
-  Paris Saint-Germain FC   -  Olympique de Marseille
+  Paris Saint-Germain      -  Olympique de Marseille
   OGC Nice                 -  AJ Auxerre
   Montpellier HSC          -  AS Saint-Étienne
   Stade Brestois 29        -  Stade de Reims
   Olympique Lyonnais       -  Le Havre AC
-  Racing Club de Lens      -  Stade Rennais FC 1901
-  RC Strasbourg Alsace     -  Toulouse FC
+  RC Lens                  -  Stade Rennais FC
+  RC Strasbourg            -  Toulouse FC
   FC Nantes                -  Lille OSC
-  Angers SCO               -  AS Monaco FC
+  Angers SCO               -  AS Monaco
 
 
 Matchday 27
 [Sun Mar/30]
-  Angers SCO               -  Stade Rennais FC 1901
+  Angers SCO               -  Stade Rennais FC
   AJ Auxerre               -  Montpellier HSC
   Le Havre AC              -  FC Nantes
-  RC Strasbourg Alsace     -  Olympique Lyonnais
+  RC Strasbourg            -  Olympique Lyonnais
   Toulouse FC              -  Stade Brestois 29
-  AS Saint-Étienne         -  Paris Saint-Germain FC
+  AS Saint-Étienne         -  Paris Saint-Germain
   Stade de Reims           -  Olympique de Marseille
-  Lille OSC                -  Racing Club de Lens
-  AS Monaco FC             -  OGC Nice
+  Lille OSC                -  RC Lens
+  AS Monaco                -  OGC Nice
 
 
 Matchday 28
 [Sun Apr/6]
   Olympique de Marseille   -  Toulouse FC
   OGC Nice                 -  FC Nantes
-  Stade Brestois 29        -  AS Monaco FC
+  Stade Brestois 29        -  AS Monaco
   Montpellier HSC          -  Le Havre AC
   Olympique Lyonnais       -  Lille OSC
-  Racing Club de Lens      -  AS Saint-Étienne
-  Paris Saint-Germain FC   -  Angers SCO
-  Stade de Reims           -  RC Strasbourg Alsace
-  Stade Rennais FC 1901    -  AJ Auxerre
+  RC Lens                  -  AS Saint-Étienne
+  Paris Saint-Germain      -  Angers SCO
+  Stade de Reims           -  RC Strasbourg
+  Stade Rennais FC         -  AJ Auxerre
 
 
 Matchday 29
 [Sun Apr/13]
   Toulouse FC              -  Lille OSC
-  Le Havre AC              -  Stade Rennais FC 1901
+  Le Havre AC              -  Stade Rennais FC
   AJ Auxerre               -  Olympique Lyonnais
-  FC Nantes                -  Paris Saint-Germain FC
-  RC Strasbourg Alsace     -  OGC Nice
+  FC Nantes                -  Paris Saint-Germain
+  RC Strasbourg            -  OGC Nice
   AS Saint-Étienne         -  Stade Brestois 29
   Angers SCO               -  Montpellier HSC
-  Racing Club de Lens      -  Stade de Reims
-  AS Monaco FC             -  Olympique de Marseille
+  RC Lens                  -  Stade de Reims
+  AS Monaco                -  Olympique de Marseille
 
 
 Matchday 30
 [Sun Apr/20]
   AS Saint-Étienne         -  Olympique Lyonnais
   OGC Nice                 -  Angers SCO
-  Stade Brestois 29        -  Racing Club de Lens
+  Stade Brestois 29        -  RC Lens
   Lille OSC                -  AJ Auxerre
-  Paris Saint-Germain FC   -  Le Havre AC
+  Paris Saint-Germain      -  Le Havre AC
   Olympique de Marseille   -  Montpellier HSC
   Stade de Reims           -  Toulouse FC
-  AS Monaco FC             -  RC Strasbourg Alsace
-  Stade Rennais FC 1901    -  FC Nantes
+  AS Monaco                -  RC Strasbourg
+  Stade Rennais FC         -  FC Nantes
 
 
 Matchday 31
 [Sun Apr/27]
-  Le Havre AC              -  AS Monaco FC
-  RC Strasbourg Alsace     -  AS Saint-Étienne
+  Le Havre AC              -  AS Monaco
+  RC Strasbourg            -  AS Saint-Étienne
   FC Nantes                -  Toulouse FC
   Montpellier HSC          -  Stade de Reims
-  Racing Club de Lens      -  AJ Auxerre
+  RC Lens                  -  AJ Auxerre
   Angers SCO               -  Lille OSC
-  Paris Saint-Germain FC   -  OGC Nice
+  Paris Saint-Germain      -  OGC Nice
   Olympique de Marseille   -  Stade Brestois 29
-  Olympique Lyonnais       -  Stade Rennais FC 1901
+  Olympique Lyonnais       -  Stade Rennais FC
 
 
 Matchday 32
 [Sun May/4]
-  Olympique Lyonnais       -  Racing Club de Lens
+  Olympique Lyonnais       -  RC Lens
   Lille OSC                -  Olympique de Marseille
   OGC Nice                 -  Stade de Reims
   Stade Brestois 29        -  Montpellier HSC
-  AS Saint-Étienne         -  AS Monaco FC
+  AS Saint-Étienne         -  AS Monaco
   FC Nantes                -  Angers SCO
-  Toulouse FC              -  Stade Rennais FC 1901
-  RC Strasbourg Alsace     -  Paris Saint-Germain FC
+  Toulouse FC              -  Stade Rennais FC
+  RC Strasbourg            -  Paris Saint-Germain
   AJ Auxerre               -  Le Havre AC
 
 
@@ -421,23 +428,23 @@ Matchday 33
 [Sun May/11]
   Stade de Reims           -  AS Saint-Étienne
   AJ Auxerre               -  FC Nantes
-  Angers SCO               -  RC Strasbourg Alsace
+  Angers SCO               -  RC Strasbourg
   Le Havre AC              -  Olympique de Marseille
-  Stade Rennais FC 1901    -  OGC Nice
-  Montpellier HSC          -  Paris Saint-Germain FC
-  Toulouse FC              -  Racing Club de Lens
+  Stade Rennais FC         -  OGC Nice
+  Montpellier HSC          -  Paris Saint-Germain
+  Toulouse FC              -  RC Lens
   Stade Brestois 29        -  Lille OSC
-  AS Monaco FC             -  Olympique Lyonnais
+  AS Monaco                -  Olympique Lyonnais
 
 
 Matchday 34
 [Sun May/18]
-  Olympique de Marseille   -  Stade Rennais FC 1901
+  Olympique de Marseille   -  Stade Rennais FC
   Olympique Lyonnais       -  Angers SCO
   OGC Nice                 -  Stade Brestois 29
   AS Saint-Étienne         -  Toulouse FC
   Lille OSC                -  Stade de Reims
-  RC Strasbourg Alsace     -  Le Havre AC
+  RC Strasbourg            -  Le Havre AC
   FC Nantes                -  Montpellier HSC
-  Racing Club de Lens      -  AS Monaco FC
-  Paris Saint-Germain FC   -  AJ Auxerre
+  RC Lens                  -  AS Monaco
+  Paris Saint-Germain      -  AJ Auxerre
