@@ -78,29 +78,33 @@ Matchday 5
 
 
 Matchday 6
+[Fri Sep/27]
+  19.00  AJ Auxerre               -  Stade Brestois 29
+  21.00  Paris Saint-Germain FC   -  Stade Rennais FC 1901
+[Sat Sep/28]
+  17.00  Racing Club de Lens      -  OGC Nice
+  19.00  Le Havre AC              -  Lille OSC
+  21.00  AS Monaco FC             -  Montpellier HSC
 [Sun Sep/29]
-  RC Strasbourg Alsace     -  Olympique de Marseille
-  Paris Saint-Germain FC   -  Stade Rennais FC 1901
-  AJ Auxerre               -  Stade Brestois 29
-  Racing Club de Lens      -  OGC Nice
-  FC Nantes                -  AS Saint-Étienne
-  Le Havre AC              -  Lille OSC
-  Toulouse FC              -  Olympique Lyonnais
-  AS Monaco FC             -  Montpellier HSC
-  Angers SCO               -  Stade de Reims
+  15.00  Toulouse FC              -  Olympique Lyonnais
+  17.00  FC Nantes                -  AS Saint-Étienne
+         Angers SCO               -  Stade de Reims
+  20.45  RC Strasbourg Alsace     -  Olympique de Marseille
 
 
 Matchday 7
+[Fri Oct/4]
+  20.45  Olympique de Marseille   -  Angers SCO
+[Sat Oct/5]
+  17.00  AS Saint-Étienne         -  AJ Auxerre
+  19.00  Lille OSC                -  Toulouse FC
+  21.00  Stade Rennais FC 1901    -  AS Monaco FC
 [Sun Oct/6]
-  Olympique Lyonnais       -  FC Nantes
-  OGC Nice                 -  Paris Saint-Germain FC
-  Lille OSC                -  Toulouse FC
-  AS Saint-Étienne         -  AJ Auxerre
-  Stade Brestois 29        -  Le Havre AC
-  Olympique de Marseille   -  Angers SCO
-  Stade Rennais FC 1901    -  AS Monaco FC
-  RC Strasbourg Alsace     -  Racing Club de Lens
-  Stade de Reims           -  Montpellier HSC
+  15.00  Olympique Lyonnais       -  FC Nantes
+  17.00  Stade Brestois 29        -  Le Havre AC
+         RC Strasbourg Alsace     -  Racing Club de Lens
+         Stade de Reims           -  Montpellier HSC
+  20.45  OGC Nice                 -  Paris Saint-Germain FC
 
 
 Matchday 8
