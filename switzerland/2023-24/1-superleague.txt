@@ -1,0 +1,468 @@
+= Swiss Super League 2023/24
+
+# Date       Sat Jul/22 2023 - Sat May/25 2024 (308d)
+# Teams      12
+# Matches    228
+# Stages     Regular Season (198)  Championship (15)  Relegation (15)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Jul/22]
+  18.00  Grasshopper Club Zürich  1-3 (1-1)  Servette FC
+  20.30  FC Winterthur            0-0  FC Luzern
+  18.00  FC St. Gallen            2-1 (1-1)  FC Basel 1893
+[Sun Jul/23]
+  16.30  BSC Young Boys           2-1 (0-0)  FC Lausanne-Sport
+         FC Zürich                2-0 (1-0)  Yverdon Sport FC
+[Wed Jul/26]
+  20.30  Stade-Lausanne-Ouchy     0-3 (0-1)  FC Lugano
+
+
+Matchday 2
+[Sat Jul/29]
+  18.00  FC Lausanne-Sport        1-1 (1-0)  Grasshopper Club Zürich
+         FC Lugano                1-0 (0-0)  FC St. Gallen
+  20.30  Servette FC              2-2 (0-1)  FC Zürich
+[Sun Jul/30]
+  16.30  FC Basel 1893            5-2 (1-1)  FC Winterthur
+         Yverdon Sport FC         2-2 (0-1)  BSC Young Boys
+  14.15  FC Luzern                2-1 (0-0)  Stade-Lausanne-Ouchy
+
+
+Matchday 3
+[Sat Aug/5]
+  18.00  Stade-Lausanne-Ouchy     1-1 (0-0)  Servette FC
+         BSC Young Boys           5-2 (3-1)  FC Winterthur
+  20.30  FC Zürich                3-0 (0-0)  FC Lugano
+[Sun Aug/6]
+  16.30  FC St. Gallen            2-1 (0-0)  FC Luzern
+         Grasshopper Club Zürich  3-1 (3-1)  FC Basel 1893
+  14.15  FC Lausanne-Sport        1-2 (1-1)  Yverdon Sport FC
+
+
+Matchday 4
+[Sat Aug/12]
+  18.00  FC Winterthur            3-1 (1-1)  Grasshopper Club Zürich
+         Stade-Lausanne-Ouchy     0-3 (0-1)  FC Zürich
+  20.30  Servette FC              1-1 (1-0)  FC St. Gallen
+[Sun Aug/13]
+  16.30  FC Lugano                6-1 (3-1)  Yverdon Sport FC
+         FC Luzern                1-1 (1-0)  BSC Young Boys
+  14.15  FC Basel 1893            1-2 (0-1)  FC Lausanne-Sport
+
+
+Matchday 5
+[Sat Aug/26]
+  18.00  Yverdon Sport FC         4-1 (1-0)  Servette FC
+         FC Zürich                1-1 (0-0)  FC St. Gallen
+[Sun Aug/27]
+  16.30  FC Lausanne-Sport        2-5 (0-1)  FC Winterthur
+         Grasshopper Club Zürich  0-1 (0-0)  FC Luzern
+
+
+Matchday 6
+[Sat Sep/2]
+  18.00  Stade-Lausanne-Ouchy     2-1 (0-1)  Grasshopper Club Zürich
+         FC St. Gallen            2-1 (0-0)  FC Lausanne-Sport
+  20.30  FC Winterthur            1-1 (1-0)  Yverdon Sport FC
+[Sun Sep/3]
+  16.30  FC Luzern                3-2 (2-1)  FC Lugano
+         FC Basel 1893            2-2 (0-1)  FC Zürich
+  14.15  Servette FC              0-1 (0-1)  BSC Young Boys
+
+
+Matchday 7
+[Sat Sep/23]
+  20.30  Grasshopper Club Zürich  1-1 (1-0)  FC St. Gallen
+  18.00  FC Winterthur            2-1 (2-1)  Stade-Lausanne-Ouchy
+         FC Lausanne-Sport        0-0  FC Zürich
+[Sun Sep/24]
+  16.30  BSC Young Boys           4-1 (3-0)  FC Lugano
+         FC Luzern                2-0 (2-0)  Servette FC
+  14.15  Yverdon Sport FC         3-2 (1-1)  FC Basel 1893
+
+
+Matchday 8
+[Tue Sep/26]
+  20.30  FC Zürich                2-1 (1-0)  Grasshopper Club Zürich
+[Wed Sep/27]
+  20.30  FC St. Gallen            2-1 (0-0)  BSC Young Boys
+         FC Lugano                2-1 (1-0)  FC Lausanne-Sport
+         Servette FC              2-2 (0-1)  FC Winterthur
+[Thu Sep/28]
+  20.30  FC Basel 1893            1-1 (0-0)  FC Luzern
+         Stade-Lausanne-Ouchy     1-1 (0-0)  Yverdon Sport FC
+
+
+Matchday 9
+[Sat Sep/30]
+  20.30  Grasshopper Club Zürich  0-1 (0-1)  BSC Young Boys
+  18.00  Servette FC              2-1 (0-1)  FC Lausanne-Sport
+         FC Winterthur            2-3 (0-1)  FC Lugano
+[Sun Oct/1]
+  16.30  FC Basel 1893            0-3 (0-1)  Stade-Lausanne-Ouchy
+         FC Luzern                1-4 (0-1)  FC Zürich
+  14.15  Yverdon Sport FC         1-0 (1-0)  FC St. Gallen
+
+
+Matchday 10
+[Sat Oct/7]
+  20.30  FC St. Gallen            4-0 (2-0)  Stade-Lausanne-Ouchy
+  18.00  Yverdon Sport FC         0-3 (0-1)  Grasshopper Club Zürich
+         FC Zürich                3-2 (2-1)  FC Winterthur
+[Sun Oct/8]
+  16.30  BSC Young Boys           3-0 (2-0)  FC Basel 1893
+         FC Lausanne-Sport        3-1 (0-1)  FC Luzern
+  14.15  FC Lugano                0-1 (0-1)  Servette FC
+
+
+Matchday 11
+[Sat Oct/21]
+  18.00  BSC Young Boys           0-0  FC Zürich
+         Stade-Lausanne-Ouchy     2-2 (0-1)  FC Lausanne-Sport
+  20.30  FC Basel 1893            0-1 (0-0)  Servette FC
+[Sun Oct/22]
+  16.30  Grasshopper Club Zürich  2-1 (0-0)  FC Lugano
+         FC Luzern                2-1 (1-0)  Yverdon Sport FC
+  14.15  FC Winterthur            2-1 (0-0)  FC St. Gallen
+
+
+Matchday 12
+[Sat Oct/28]
+  18.00  FC St. Gallen            3-1 (3-1)  Grasshopper Club Zürich
+         Yverdon Sport FC         1-1 (1-1)  FC Winterthur
+  20.30  FC Zürich                1-1 (1-1)  Stade-Lausanne-Ouchy
+[Sun Oct/29]
+  15.30  FC Lugano                1-1 (0-0)  BSC Young Boys
+         Servette FC              4-2 (1-1)  FC Luzern
+  13.15  FC Lausanne-Sport        3-0 (1-0)  FC Basel 1893
+
+
+Matchday 13
+[Sat Nov/4]
+  18.00  FC Winterthur            1-4 (1-2)  BSC Young Boys
+         FC Lausanne-Sport        3-1 (0-0)  FC Lugano
+  20.30  FC Zürich                0-2 (0-1)  Servette FC
+[Sun Nov/5]
+  16.30  FC Basel 1893            2-1 (1-0)  Yverdon Sport FC
+         Stade-Lausanne-Ouchy     2-5 (2-1)  FC St. Gallen
+  14.15  FC Luzern                2-0 (1-0)  Grasshopper Club Zürich
+
+
+Matchday 14
+[Sat Nov/11]
+  18.00  Yverdon Sport FC         2-2 (2-2)  FC Lausanne-Sport
+         FC St. Gallen            4-2 (3-1)  FC Winterthur
+  20.30  BSC Young Boys           6-1 (3-1)  FC Luzern
+[Sun Nov/12]
+  16.30  FC Lugano                0-3 (0-2)  FC Zürich
+  14.15  Grasshopper Club Zürich  5-2 (4-1)  Stade-Lausanne-Ouchy
+  16.30  Servette FC              4-1 (1-1)  FC Basel 1893
+
+
+Matchday 15
+[Sat Nov/25]
+  18.00  FC Zürich                3-1 (2-1)  BSC Young Boys
+  20.30  Yverdon Sport FC         0-5 (0-0)  FC Lugano
+  18.00  FC Luzern                3-1 (1-0)  FC Winterthur
+[Sun Nov/26]
+  16.30  FC Basel 1893            2-0 (1-0)  FC St. Gallen
+  14.15  FC Lausanne-Sport        1-0 (0-0)  Stade-Lausanne-Ouchy
+  16.30  Servette FC              2-0 (1-0)  Grasshopper Club Zürich
+
+
+Matchday 16
+[Sat Dec/2]
+  18.00  Grasshopper Club Zürich  5-0 (0-0)  FC Lausanne-Sport
+         Stade-Lausanne-Ouchy     1-1 (0-1)  FC Basel 1893
+[Sun Dec/3]
+  16.30  BSC Young Boys           1-1 (0-1)  Servette FC
+         FC Lugano                1-0 (0-0)  FC Luzern
+
+
+Matchday 5
+[Wed Dec/6]
+  20.30  BSC Young Boys           1-0 (0-0)  Stade-Lausanne-Ouchy
+         FC Lugano                1-3 (0-1)  FC Basel 1893
+
+
+Matchday 16
+[Wed Dec/6]
+  18.30  FC St. Gallen            4-0 (3-0)  Yverdon Sport FC
+
+
+Matchday 17
+[Sat Dec/9]
+  18.00  FC Basel 1893            0-1 (0-0)  Grasshopper Club Zürich
+         BSC Young Boys           3-0 (2-0)  FC St. Gallen
+  20.30  FC Lausanne-Sport        1-1 (0-1)  Servette FC
+[Sun Dec/10]
+  14.15  FC Lugano                2-1 (1-0)  FC Winterthur
+  16.30  FC Zürich                1-1 (0-0)  FC Luzern
+         Yverdon Sport FC         2-1 (0-1)  Stade-Lausanne-Ouchy
+
+
+Matchday 16
+[Wed Dec/13]
+  20.30  FC Winterthur            2-1 (1-1)  FC Zürich
+
+
+Matchday 18
+[Sat Dec/16]
+  18.00  FC St. Gallen            1-0 (1-0)  FC Zürich
+         Stade-Lausanne-Ouchy     1-3 (0-3)  BSC Young Boys
+  20.30  Grasshopper Club Zürich  1-1 (1-0)  Yverdon Sport FC
+[Sun Dec/17]
+  16.30  FC Luzern                0-1 (0-0)  FC Basel 1893
+         Servette FC              2-2 (2-0)  FC Lugano
+  14.15  FC Winterthur            1-0 (0-0)  FC Lausanne-Sport
+
+
+Matchday 19
+[Sat Jan/20]
+  18.00  BSC Young Boys           1-0 (0-0)  Grasshopper Club Zürich
+  20.30  FC Lausanne-Sport        0-1 (0-1)  FC St. Gallen
+[Sun Jan/21]
+  16.30  FC Zürich                0-0  FC Basel 1893
+         FC Lugano                2-3 (0-3)  Stade-Lausanne-Ouchy
+[Tue Jan/23]
+  19.00  Yverdon Sport FC         2-1 (1-0)  FC Luzern
+         FC Winterthur            3-3 (0-2)  Servette FC
+
+
+Matchday 20
+[Sat Jan/27]
+  18.00  Stade-Lausanne-Ouchy     1-3 (0-2)  FC Winterthur
+         Servette FC              1-0 (0-0)  Yverdon Sport FC
+  20.30  FC Basel 1893            1-0 (1-0)  BSC Young Boys
+[Sun Jan/28]
+  16.30  FC Luzern                2-1 (0-1)  FC Lausanne-Sport
+         Grasshopper Club Zürich  2-1 (0-1)  FC Zürich
+  14.15  FC St. Gallen            1-4 (0-1)  FC Lugano
+
+
+Matchday 21
+[Tue Jan/30]
+  20.30  BSC Young Boys           5-1 (2-1)  Yverdon Sport FC
+         FC Winterthur            1-3 (0-1)  FC Basel 1893
+[Wed Jan/31]
+  20.30  FC Lugano                0-0  Grasshopper Club Zürich
+         FC St. Gallen            0-2 (0-2)  Servette FC
+         FC Zürich                2-2 (0-2)  FC Lausanne-Sport
+[Thu Feb/1]
+  20.30  Stade-Lausanne-Ouchy     0-3 (0-2)  FC Luzern
+
+
+Matchday 22
+[Sat Feb/3]
+  18.00  Grasshopper Club Zürich  0-1 (0-1)  FC Winterthur
+  20.30  FC Basel 1893            0-1 (0-0)  FC Lugano
+  18.00  FC Lausanne-Sport        0-1 (0-1)  BSC Young Boys
+[Sun Feb/4]
+  14.15  Yverdon Sport FC         3-0 (1-0)  FC Zürich
+  16.30  FC Luzern                1-0 (0-0)  FC St. Gallen
+         Servette FC              3-1 (2-0)  Stade-Lausanne-Ouchy
+
+
+Matchday 23
+[Sat Feb/10]
+  18.00  FC Zürich                1-0 (1-0)  Grasshopper Club Zürich
+  20.30  FC Lugano                3-3 (1-1)  BSC Young Boys
+  18.00  Stade-Lausanne-Ouchy     1-1 (1-1)  FC Lausanne-Sport
+[Sun Feb/11]
+  16.30  FC Basel 1893            1-0 (0-0)  FC St. Gallen
+         Yverdon Sport FC         2-1 (1-1)  Servette FC
+  14.15  FC Winterthur            2-1 (0-1)  FC Luzern
+
+
+Matchday 24
+[Sat Feb/17]
+  18.00  FC Lausanne-Sport        3-1 (3-1)  Yverdon Sport FC
+         FC St. Gallen            2-2 (1-0)  FC Winterthur
+  20.30  Grasshopper Club Zürich  2-1 (2-1)  FC Basel 1893
+[Sun Feb/18]
+  16.30  FC Luzern                0-1 (0-0)  FC Zürich
+         Servette FC              2-1 (0-1)  FC Lugano
+  14.15  BSC Young Boys           1-0 (0-0)  Stade-Lausanne-Ouchy
+
+
+Matchday 25
+[Sat Feb/24]
+  18.00  FC St. Gallen            1-0 (0-0)  Stade-Lausanne-Ouchy
+         Yverdon Sport FC         0-2 (0-1)  FC Basel 1893
+  20.30  Grasshopper Club Zürich  0-1 (0-0)  FC Luzern
+[Sun Feb/25]
+  16.30  FC Lausanne-Sport        1-1 (1-1)  FC Winterthur
+         BSC Young Boys           0-1 (0-1)  Servette FC
+  14.15  FC Lugano                2-0 (1-0)  FC Zürich
+
+
+Matchday 26
+[Sat Mar/2]
+  18.00  Servette FC              2-0 (1-0)  FC St. Gallen
+  20.30  FC Basel 1893            1-2 (0-1)  FC Lausanne-Sport
+  18.00  Stade-Lausanne-Ouchy     1-1 (1-1)  Grasshopper Club Zürich
+[Sun Mar/3]
+  14.15  FC Luzern                0-1 (0-1)  FC Lugano
+  16.30  FC Winterthur            2-1 (1-0)  Yverdon Sport FC
+         FC Zürich                1-0 (1-0)  BSC Young Boys
+
+
+Matchday 27
+[Sat Mar/9]
+  18.00  Yverdon Sport FC         3-2 (2-1)  FC Zürich
+  20.30  FC St. Gallen            2-3 (2-1)  FC Lugano
+  18.00  FC Winterthur            2-0 (0-0)  Grasshopper Club Zürich
+[Sun Mar/10]
+  14.15  Servette FC              3-1 (1-1)  FC Lausanne-Sport
+  16.30  Stade-Lausanne-Ouchy     2-1 (0-0)  FC Luzern
+         BSC Young Boys           5-1 (3-0)  FC Basel 1893
+
+
+Matchday 28
+[Sat Mar/16]
+  18.00  Grasshopper Club Zürich  1-1 (0-1)  FC St. Gallen
+  20.30  FC Lugano                2-0 (1-0)  Yverdon Sport FC
+  18.00  FC Basel 1893            1-1 (0-1)  FC Winterthur
+[Sun Mar/17]
+  14.15  FC Zürich                2-2 (2-1)  Stade-Lausanne-Ouchy
+  16.30  FC Lausanne-Sport        2-0 (2-0)  BSC Young Boys
+         FC Luzern                2-2 (1-2)  Servette FC
+
+
+Matchday 29
+[Sat Mar/30]
+  18.00  FC Winterthur            1-0 (0-0)  Servette FC
+  20.30  FC Basel 1893            2-2 (2-1)  FC Zürich
+  18.00  Stade-Lausanne-Ouchy     1-3 (0-0)  FC Lugano
+[Mon Apr/1]
+  14.15  Yverdon Sport FC         0-0  BSC Young Boys
+  16.30  FC St. Gallen            1-1 (1-0)  FC Luzern
+         Grasshopper Club Zürich  0-1 (0-1)  FC Lausanne-Sport
+
+
+Matchday 30
+[Tue Apr/2]
+  20.30  FC Lugano                2-0 (1-0)  FC Basel 1893
+[Wed Apr/3]
+  20.30  Servette FC              1-2 (0-1)  Stade-Lausanne-Ouchy
+         FC Zürich                0-0  FC Winterthur
+[Thu Apr/4]
+  20.30  FC Luzern                1-0 (1-0)  Yverdon Sport FC
+         BSC Young Boys           3-0 (3-0)  Grasshopper Club Zürich
+         FC Lausanne-Sport        3-3 (1-2)  FC St. Gallen
+
+
+Matchday 31
+[Sat Apr/6]
+  18.00  Stade-Lausanne-Ouchy     0-2 (0-1)  FC Basel 1893
+         FC Winterthur            2-2 (0-0)  FC Lugano
+  20.30  Servette FC              0-1 (0-1)  FC Zürich
+[Sun Apr/7]
+  16.30  FC St. Gallen            2-2 (1-0)  BSC Young Boys
+         Yverdon Sport FC         3-2 (1-0)  Grasshopper Club Zürich
+  14.15  FC Luzern                0-0  FC Lausanne-Sport
+
+
+Matchday 32
+[Sat Apr/13]
+  18.00  Grasshopper Club Zürich  0-1 (0-1)  FC Lugano
+  20.30  FC St. Gallen            5-1 (1-1)  Yverdon Sport FC
+  18.00  FC Lausanne-Sport        1-0 (1-0)  FC Zürich
+[Sun Apr/14]
+  14.15  FC Basel 1893            2-1 (2-0)  Servette FC
+  16.30  Stade-Lausanne-Ouchy     0-1 (0-0)  FC Winterthur
+         BSC Young Boys           4-2 (1-2)  FC Luzern
+
+
+Matchday 33
+[Sat Apr/20]
+  18.00  Yverdon Sport FC         3-0 (1-0)  Stade-Lausanne-Ouchy
+  20.30  FC Lugano                2-0 (2-0)  FC Lausanne-Sport
+  18.00  Servette FC              1-0 (1-0)  Grasshopper Club Zürich
+[Sun Apr/21]
+  16.30  FC Winterthur            1-2 (0-0)  BSC Young Boys
+         FC Zürich                0-1 (0-0)  FC St. Gallen
+         FC Luzern                1-1 (0-1)  FC Basel 1893
+
+
+== Championship
+
+Matchday 34
+[Sat May/4]
+  18.00  Servette FC              2-1 (2-0)  FC Winterthur
+  20.30  FC Lugano                0-1 (0-1)  FC St. Gallen
+[Sun May/5]
+  16.30  FC Zürich                0-2 (0-1)  BSC Young Boys
+
+
+Matchday 35
+[Sat May/11]
+  20.30  BSC Young Boys           0-1 (0-1)  FC Lugano
+[Sun May/12]
+  16.30  FC St. Gallen            1-1 (1-1)  Servette FC
+  14.15  FC Winterthur            1-3 (1-2)  FC Zürich
+
+
+Matchday 36
+[Wed May/15]
+  20.30  FC Zürich                2-1 (0-1)  Servette FC
+[Thu May/16]
+  20.30  FC Lugano                4-2 (1-1)  FC Winterthur
+         BSC Young Boys           3-1 (0-1)  FC St. Gallen
+
+
+Matchday 37
+[Mon May/20]
+  18.00  FC Zürich                2-1 (1-0)  FC Lugano
+         FC Winterthur            1-3 (0-2)  FC St. Gallen
+         Servette FC              0-1 (0-0)  BSC Young Boys
+
+
+Matchday 38
+[Sat May/25]
+  20.30  FC Lugano                0-2 (0-1)  Servette FC
+         FC St. Gallen            1-2 (1-2)  FC Zürich
+         BSC Young Boys           3-0 (0-0)  FC Winterthur
+
+
+== Relegation
+
+Matchday 34
+[Sat May/4]
+  18.00  Grasshopper Club Zürich  3-2 (1-1)  Stade-Lausanne-Ouchy
+[Sun May/5]
+  14.15  FC Basel 1893            1-1 (0-0)  FC Luzern
+  16.30  Yverdon Sport FC         3-1 (3-0)  FC Lausanne-Sport
+
+
+Matchday 35
+[Fri May/10]
+  20.30  FC Lausanne-Sport        0-0  FC Basel 1893
+         FC Luzern                1-1 (0-0)  Grasshopper Club Zürich
+[Sat May/11]
+  20.30  Stade-Lausanne-Ouchy     3-1 (0-0)  Yverdon Sport FC
+
+
+Matchday 36
+[Tue May/14]
+  20.30  FC Basel 1893            2-0 (0-0)  Stade-Lausanne-Ouchy
+         Grasshopper Club Zürich  2-0 (1-0)  Yverdon Sport FC
+[Wed May/15]
+  20.30  FC Lausanne-Sport        0-2 (0-1)  FC Luzern
+
+
+Matchday 37
+[Sat May/18]
+  18.00  Stade-Lausanne-Ouchy     0-4 (0-3)  FC Lausanne-Sport
+         Yverdon Sport FC         3-1 (1-0)  FC Luzern
+         Grasshopper Club Zürich  0-1 (0-0)  FC Basel 1893
+
+
+Matchday 38
+[Tue May/21]
+  20.30  FC Lausanne-Sport        0-0  Grasshopper Club Zürich
+         FC Basel 1893            0-0  Yverdon Sport FC
+         FC Luzern                1-2 (0-2)  Stade-Lausanne-Ouchy
