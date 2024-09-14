@@ -1,5 +1,9 @@
 = Portuguese Primeira Liga 2024/25
 
+# Date       Fri Aug/9 2024 - Sat May/17 2025 (281d)
+# Teams      18
+# Matches    306
+
 
 
 Matchday 1
@@ -121,9 +125,9 @@ Matchday 8
   18.00  FC Arouca                -  AVS
   20.30  Sporting Clube de Portugal  -  Casa Pia AC
 [Sun Oct/6]
-  CD Nacional              -  Sport Lisboa e Benfica
-  Vitória Guimarães        -  Boavista FC
-  15.30  SC Farense               -  GD Estoril Praia
+  15.30  Vitória Guimarães        -  Boavista FC
+         SC Farense               -  GD Estoril Praia
+  18.00  CD Nacional              -  Sport Lisboa e Benfica
   20.30  FC Porto                 -  Sporting Clube de Braga
 
 

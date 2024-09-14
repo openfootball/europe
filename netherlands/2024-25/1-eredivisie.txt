@@ -1,5 +1,9 @@
 = Dutch Eredivisie 2024/25
 
+# Date       Fri Aug/9 2024 - Sun May/18 2025 (282d)
+# Teams      18
+# Matches    306
+
 
 
 Matchday 1
@@ -66,9 +70,9 @@ Matchday 5
   20.00  NAC Breda                -  Fortuna Sittard
   21.00  AZ                       -  SC Heerenveen
 [Sun Sep/15]
+  AFC Ajax                 -  FC Utrecht
   12.15  Sparta Rotterdam         -  Go Ahead Eagles
-  14.30  AFC Ajax                 -  FC Utrecht
-         Willem II Tilburg        -  RKC Waalwijk
+  14.30  Willem II Tilburg        -  RKC Waalwijk
   16.45  Heracles Almelo          -  Almere City FC
 
 
@@ -98,14 +102,14 @@ Matchday 7
 [Fri Sep/27]
   20.00  Heracles Almelo          -  SC Heerenveen
 [Sat Sep/28]
+  16.30  Willem II Tilburg        -  PSV
   18.45  NEC                      -  Feyenoord Rotterdam
-  20.00  Sparta Rotterdam         -  Fortuna Sittard
-  21.00  Willem II Tilburg        -  PSV
+  21.00  Sparta Rotterdam         -  Fortuna Sittard
 [Sun Sep/29]
   12.15  PEC Zwolle               -  Almere City FC
-  14.30  FC Groningen             -  Go Ahead Eagles
+  14.30  FC Twente '65            -  NAC Breda
+         FC Groningen             -  Go Ahead Eagles
          RKC Waalwijk             -  AFC Ajax
-  16.45  FC Twente '65            -  NAC Breda
   20.00  AZ                       -  FC Utrecht
 
 
@@ -113,15 +117,15 @@ Matchday 8
 [Fri Oct/4]
   20.00  Almere City FC           -  Willem II Tilburg
 [Sat Oct/5]
-  18.45  SC Heerenveen            -  PEC Zwolle
-  20.00  NAC Breda                -  NEC
-         PSV                      -  Sparta Rotterdam
+  18.45  NAC Breda                -  NEC
+  20.00  PSV                      -  Sparta Rotterdam
   21.00  FC Utrecht               -  RKC Waalwijk
 [Sun Oct/6]
   12.15  Go Ahead Eagles          -  Heracles Almelo
-  14.30  Feyenoord Rotterdam      -  FC Twente '65
+  14.30  SC Heerenveen            -  PEC Zwolle
+         Feyenoord Rotterdam      -  FC Twente '65
   16.45  AFC Ajax                 -  FC Groningen
-         Fortuna Sittard          -  AZ
+  20.00  Fortuna Sittard          -  AZ
 
 
 Matchday 9
@@ -143,14 +147,14 @@ Matchday 10
   20.00  Almere City FC           -  NEC
 [Sat Oct/26]
   16.30  Fortuna Sittard          -  FC Groningen
-  18.45  NAC Breda                -  RKC Waalwijk
   20.00  PSV                      -  PEC Zwolle
   21.00  SC Heerenveen            -  Sparta Rotterdam
 [Sun Oct/27]
   12.15  FC Utrecht               -  Feyenoord Rotterdam
-  14.30  AZ                       -  Go Ahead Eagles
+  14.30  NAC Breda                -  RKC Waalwijk
          FC Twente '65            -  Heracles Almelo
   16.45  AFC Ajax                 -  Willem II Tilburg
+  20.00  AZ                       -  Go Ahead Eagles
 
 
 Matchday 4
@@ -160,11 +164,11 @@ Matchday 4
 
 Matchday 11
 [Sat Nov/2]
-  16.30  Feyenoord Rotterdam      -  AZ
+  16.30  Willem II Tilburg        -  FC Twente '65
   18.45  Heracles Almelo          -  NAC Breda
-         Willem II Tilburg        -  FC Twente '65
-  20.00  AFC Ajax                 -  PSV
-  21.00  Fortuna Sittard          -  SC Heerenveen
+         AFC Ajax                 -  PSV
+  21.00  Feyenoord Rotterdam      -  AZ
+         Fortuna Sittard          -  SC Heerenveen
 [Sun Nov/3]
   12.15  Go Ahead Eagles          -  PEC Zwolle
   14.30  NEC                      -  FC Groningen
@@ -189,11 +193,11 @@ Matchday 12
 
 Matchday 13
 [Sat Nov/23]
-  16.30  PSV                      -  FC Groningen
-  18.45  Go Ahead Eagles          -  Almere City FC
-  20.00  Feyenoord Rotterdam      -  SC Heerenveen
+  16.30  Go Ahead Eagles          -  Almere City FC
+  18.45  Feyenoord Rotterdam      -  SC Heerenveen
          Heracles Almelo          -  RKC Waalwijk
-  21.00  Fortuna Sittard          -  FC Twente '65
+  21.00  PSV                      -  FC Groningen
+         Fortuna Sittard          -  FC Twente '65
 [Sun Nov/24]
   12.15  NEC                      -  FC Utrecht
   14.30  Sparta Rotterdam         -  AZ
