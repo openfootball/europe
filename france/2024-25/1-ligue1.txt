@@ -53,17 +53,17 @@ Matchday 3
 
 Matchday 4
 [Fri Sep/13]
-  20.45  AS Saint-Étienne         -  Lille OSC
+  20.45  AS Saint-Étienne         1-0 (1-0)  Lille OSC
 [Sat Sep/14]
-  17.00  Olympique de Marseille   -  OGC Nice
-  19.00  AJ Auxerre               -  AS Monaco FC
-  21.00  Paris Saint-Germain FC   -  Stade Brestois 29
+  17.00  Olympique de Marseille   2-0 (1-0)  OGC Nice
+  19.00  AJ Auxerre               0-3 (0-2)  AS Monaco FC
+  21.00  Paris Saint-Germain FC   3-1 (1-1)  Stade Brestois 29
 [Sun Sep/15]
-  15.00  Stade Rennais FC 1901    -  Montpellier HSC
-  17.00  FC Nantes                -  Stade de Reims
-         Toulouse FC              -  Le Havre AC
-         RC Strasbourg Alsace     -  Angers SCO
-  20.45  Racing Club de Lens      -  Olympique Lyonnais
+  15.00  Stade Rennais FC 1901    3-0 (2-0)  Montpellier HSC
+  17.00  FC Nantes                1-2 (1-1)  Stade de Reims
+         Toulouse FC              2-0 (0-0)  Le Havre AC
+         RC Strasbourg Alsace     1-1 (1-0)  Angers SCO
+  20.45  Racing Club de Lens      0-0  Olympique Lyonnais
 
 
 Matchday 5
