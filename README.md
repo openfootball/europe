@@ -81,7 +81,7 @@ $ football-to-sqlite switzerland.db switzerland/2020-21/1-superleague.txt \
                                     switzerland/2019-20/2-challengeleague.txt
 ```
 
-Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist, 
+Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist,
 they get auto-created on the first run.
 
 [More »](https://github.com/sportdb/football.db/tree/master/football-to-sqlite)
@@ -91,12 +91,11 @@ they get auto-created on the first run.
 
 ## License
 
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
 The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
 
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
+
