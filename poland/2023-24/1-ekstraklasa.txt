@@ -1,0 +1,571 @@
+= Poland Ekstraklasa 2023/24
+
+# Date       Fri Jul/21 2023 - Sat May/25 2024 (309d)
+# Teams      18
+# Matches    306
+
+
+
+Matchday 1
+[Fri Jul/21]
+  20.30  Legia Warszawa           3-0 (1-0)  ŁKS Łódź
+  18.00  Warta Poznań             0-1 (0-1)  Pogoń Szczecin
+[Sat Jul/22]
+  17.30  Raków Częstochowa        3-0 (1-0)  Jagiellonia Białystok
+  20.00  Piast Gliwice            1-2 (1-0)  Lech Poznań
+  15.00  FKS Stal Mielec          2-2 (2-0)  KS Cracovia
+[Sun Jul/23]
+  15.00  Górnik Zabrze            0-2 (0-0)  Radomiak Radom
+  17.30  Zagłębie Lubin           2-1 (0-1)  Ruch Chorzów
+  20.00  Widzew Łódź              3-2 (1-1)  Puszcza Niepołomice
+[Mon Jul/24]
+  19.00  Korona Kielce            1-1 (0-0)  Śląsk Wrocław
+
+
+Matchday 2
+[Fri Jul/28]
+  20.30  Ruch Chorzów             2-0 (1-0)  ŁKS Łódź
+[Sat Jul/29]
+  17.30  Jagiellonia Białystok    4-1 (1-0)  Puszcza Niepołomice
+  20.00  Śląsk Wrocław            1-2 (1-0)  Zagłębie Lubin
+  15.00  Warta Poznań             2-0 (1-0)  Górnik Zabrze
+[Sun Jul/30]
+  15.00  FKS Stal Mielec          0-0  Piast Gliwice
+  17.30  Lech Poznań              2-0 (1-0)  Radomiak Radom
+  20.00  Pogoń Szczecin           2-1 (0-1)  Widzew Łódź
+
+
+Matchday 3
+[Fri Aug/4]
+  18.00  Jagiellonia Białystok    2-1 (0-1)  Widzew Łódź
+  20.30  ŁKS Łódź                 2-1 (1-0)  Korona Kielce
+[Sat Aug/5]
+  17.30  Górnik Zabrze            0-0  Piast Gliwice
+  15.00  Raków Częstochowa        2-2 (0-1)  Warta Poznań
+  20.00  Radomiak Radom           0-1 (0-1)  KS Cracovia
+[Sun Aug/6]
+  20.00  Legia Warszawa           3-0 (2-0)  Ruch Chorzów
+  17.30  Zagłębie Lubin           1-1 (1-0)  Lech Poznań
+[Mon Aug/7]
+  19.00  Puszcza Niepołomice      1-0 (0-0)  FKS Stal Mielec
+
+
+Matchday 4
+[Fri Aug/11]
+  18.00  KS Cracovia              2-1 (2-0)  Zagłębie Lubin
+  20.30  Piast Gliwice            2-1 (0-0)  Raków Częstochowa
+[Sat Aug/12]
+  20.00  Widzew Łódź              1-0 (1-0)  ŁKS Łódź
+  15.00  FKS Stal Mielec          3-1 (1-0)  Śląsk Wrocław
+  17.30  Korona Kielce            0-1 (0-0)  Górnik Zabrze
+[Sun Aug/13]
+  15.00  Pogoń Szczecin           0-2 (0-2)  Radomiak Radom
+  17.30  Puszcza Niepołomice      1-1 (1-1)  Legia Warszawa
+[Mon Aug/14]
+  19.00  Warta Poznań             2-2 (2-1)  Ruch Chorzów
+
+
+Matchday 5
+[Fri Aug/18]
+  18.00  Zagłębie Lubin           1-0 (0-0)  Puszcza Niepołomice
+  20.30  Górnik Zabrze            1-1 (1-0)  Widzew Łódź
+[Sat Aug/19]
+  17.30  Raków Częstochowa        2-0 (1-0)  FKS Stal Mielec
+  15.00  Radomiak Radom           3-2 (2-1)  Warta Poznań
+  20.00  Ruch Chorzów             0-1 (0-0)  Jagiellonia Białystok
+[Sun Aug/20]
+  15.00  ŁKS Łódź                 1-0 (0-0)  Pogoń Szczecin
+  17.30  Śląsk Wrocław            3-1 (1-0)  Lech Poznań
+  20.00  Legia Warszawa           1-0 (1-0)  Korona Kielce
+[Mon Aug/21]
+  19.00  KS Cracovia              1-1 (1-0)  Piast Gliwice
+
+
+Matchday 6
+[Fri Aug/25]
+  20.30  Widzew Łódź              0-2 (0-1)  Śląsk Wrocław
+  18.00  FKS Stal Mielec          2-0 (2-0)  Radomiak Radom
+[Sat Aug/26]
+  15.00  Warta Poznań             0-0  KS Cracovia
+  17.30  Puszcza Niepołomice      2-1 (1-0)  ŁKS Łódź
+  20.00  Piast Gliwice            0-0  Ruch Chorzów
+[Sun Aug/27]
+  17.30  Jagiellonia Białystok    4-1 (3-1)  Górnik Zabrze
+  15.00  Korona Kielce            2-0 (2-0)  Zagłębie Lubin
+
+
+Matchday 3
+[Wed Aug/30]
+  18.30  Pogoń Szczecin           0-2 (0-1)  Śląsk Wrocław
+
+
+Matchday 7
+[Fri Sep/1]
+  20.30  Ruch Chorzów             1-1 (1-1)  FKS Stal Mielec
+  18.00  ŁKS Łódź                 0-2 (0-1)  Warta Poznań
+[Sat Sep/2]
+  15.00  Radomiak Radom           1-1 (0-0)  Piast Gliwice
+  17.30  KS Cracovia              0-0  Korona Kielce
+  20.00  Lech Poznań              1-1 (0-1)  Górnik Zabrze
+[Sun Sep/3]
+  12.30  Śląsk Wrocław            2-1 (0-0)  Jagiellonia Białystok
+  17.30  Legia Warszawa           3-1 (1-1)  Widzew Łódź
+  15.00  Zagłębie Lubin           1-0 (0-0)  Pogoń Szczecin
+  20.00  Raków Częstochowa        2-0 (2-0)  Puszcza Niepołomice
+
+
+Matchday 8
+[Fri Sep/15]
+  18.00  Puszcza Niepołomice      1-3 (1-0)  Śląsk Wrocław
+  20.30  Górnik Zabrze            1-0 (0-0)  Ruch Chorzów
+[Sat Sep/16]
+  15.00  Pogoń Szczecin           3-1 (1-1)  Korona Kielce
+  20.00  Piast Gliwice            1-1 (1-0)  Legia Warszawa
+  17.30  Raków Częstochowa        1-0 (1-0)  ŁKS Łódź
+[Sun Sep/17]
+  12.30  Jagiellonia Białystok    3-2 (2-2)  Radomiak Radom
+  17.30  Warta Poznań             0-2 (0-1)  Lech Poznań
+  15.00  Widzew Łódź              2-0 (1-0)  KS Cracovia
+[Mon Sep/18]
+  19.00  FKS Stal Mielec          4-2 (2-1)  Zagłębie Lubin
+
+
+Matchday 9
+[Fri Sep/22]
+  20.30  ŁKS Łódź                 2-2 (1-1)  Jagiellonia Białystok
+  18.00  Korona Kielce            1-1 (1-1)  Widzew Łódź
+[Sat Sep/23]
+  17.30  KS Cracovia              1-5 (0-2)  Pogoń Szczecin
+  15.00  Śląsk Wrocław            1-0 (1-0)  Piast Gliwice
+  20.00  Lech Poznań              2-1 (2-1)  FKS Stal Mielec
+  12.30  Radomiak Radom           1-1 (0-0)  Puszcza Niepołomice
+[Sun Sep/24]
+  12.30  Zagłębie Lubin           1-0 (0-0)  Warta Poznań
+  15.00  Ruch Chorzów             3-5 (1-3)  Raków Częstochowa
+  17.30  Legia Warszawa           2-1 (1-1)  Górnik Zabrze
+
+
+Matchday 6
+[Wed Sep/27]
+  20.00  Pogoń Szczecin           3-4 (1-1)  Legia Warszawa
+[Thu Sep/28]
+  20.00  Lech Poznań              4-1 (2-1)  Raków Częstochowa
+
+
+Matchday 10
+[Fri Sep/29]
+  18.00  FKS Stal Mielec          2-3 (1-2)  Korona Kielce
+  20.30  Piast Gliwice            3-2 (2-0)  Widzew Łódź
+[Sat Sep/30]
+  20.00  Warta Poznań             0-1 (0-1)  Śląsk Wrocław
+  15.00  ŁKS Łódź                 0-2 (0-2)  KS Cracovia
+  17.30  Puszcza Niepołomice      2-2 (2-0)  Ruch Chorzów
+[Sun Oct/1]
+  20.00  Jagiellonia Białystok    2-0 (2-0)  Legia Warszawa
+  15.00  Raków Częstochowa        3-0 (1-0)  Radomiak Radom
+  17.30  Pogoń Szczecin           5-0 (3-0)  Lech Poznań
+[Mon Oct/2]
+  19.00  Górnik Zabrze            0-2 (0-1)  Zagłębie Lubin
+
+
+Matchday 11
+[Fri Oct/6]
+  18.00  Korona Kielce            1-1 (0-0)  Warta Poznań
+  20.30  Lech Poznań              4-1 (2-1)  Puszcza Niepołomice
+[Sat Oct/7]
+  17.30  Zagłębie Lubin           1-1 (1-0)  Piast Gliwice
+  20.00  Ruch Chorzów             0-3 (0-1)  Pogoń Szczecin
+  12.30  Radomiak Radom           3-0 (2-0)  ŁKS Łódź
+  15.00  Widzew Łódź              1-0 (0-0)  FKS Stal Mielec
+[Sun Oct/8]
+  17.30  Legia Warszawa           1-2 (1-1)  Raków Częstochowa
+  12.30  Śląsk Wrocław            1-1 (1-0)  Górnik Zabrze
+  15.00  KS Cracovia              2-4 (0-2)  Jagiellonia Białystok
+
+
+Matchday 12
+[Fri Oct/20]
+  20.30  Jagiellonia Białystok    3-0 (2-0)  Zagłębie Lubin
+  18.00  Piast Gliwice            0-0  Pogoń Szczecin
+[Sat Oct/21]
+  20.00  Lech Poznań              3-1 (2-0)  ŁKS Łódź
+  15.00  Puszcza Niepołomice      1-1 (1-0)  KS Cracovia
+  17.30  Śląsk Wrocław            4-0 (0-0)  Legia Warszawa
+[Sun Oct/22]
+  12.30  Radomiak Radom           1-1 (0-0)  Korona Kielce
+  17.30  Górnik Zabrze            2-1 (2-0)  Raków Częstochowa
+[Mon Oct/23]
+  19.00  FKS Stal Mielec          0-1 (0-0)  Warta Poznań
+
+
+Matchday 4
+[Tue Oct/24]
+  18.00  Lech Poznań              3-3 (2-0)  Jagiellonia Białystok
+
+
+Matchday 13
+[Fri Oct/27]
+  20.30  ŁKS Łódź                 0-5 (0-1)  Górnik Zabrze
+  18.00  Korona Kielce            5-3 (3-0)  Puszcza Niepołomice
+[Sat Oct/28]
+  20.00  Ruch Chorzów             2-2 (1-2)  Śląsk Wrocław
+  17.30  KS Cracovia              1-1 (0-1)  Lech Poznań
+  15.00  Pogoń Szczecin           2-1 (1-1)  Jagiellonia Białystok
+  12.30  Warta Poznań             1-1 (1-1)  Piast Gliwice
+[Sun Oct/29]
+  15.00  Legia Warszawa           1-3 (0-1)  FKS Stal Mielec
+  12.30  Zagłębie Lubin           2-3 (0-2)  Radomiak Radom
+  17.30  Raków Częstochowa        1-1 (0-1)  Widzew Łódź
+
+
+Matchday 14
+[Fri Nov/3]
+  20.30  Jagiellonia Białystok    4-0 (2-0)  FKS Stal Mielec
+  18.00  Piast Gliwice            0-0  Korona Kielce
+[Sat Nov/4]
+  17.30  Widzew Łódź              0-1 (0-1)  Warta Poznań
+  15.00  Puszcza Niepołomice      0-2 (0-0)  Pogoń Szczecin
+  20.00  Lech Poznań              2-0 (1-0)  Ruch Chorzów
+[Sun Nov/5]
+  12.30  Śląsk Wrocław            2-1 (1-0)  ŁKS Łódź
+  17.30  Radomiak Radom           0-1 (0-1)  Legia Warszawa
+  15.00  Raków Częstochowa        5-0 (2-0)  Zagłębie Lubin
+[Mon Nov/6]
+  19.00  Górnik Zabrze            1-0 (0-0)  KS Cracovia
+
+
+Matchday 15
+[Fri Nov/10]
+  18.00  Warta Poznań             0-2 (0-2)  Puszcza Niepołomice
+  20.30  KS Cracovia              0-1 (0-1)  Śląsk Wrocław
+[Sat Nov/11]
+  20.00  Korona Kielce            2-2 (1-0)  Jagiellonia Białystok
+  15.00  ŁKS Łódź                 3-3 (1-3)  Piast Gliwice
+  17.30  Zagłębie Lubin           1-1 (0-0)  Widzew Łódź
+[Sun Nov/12]
+  17.30  Legia Warszawa           0-0  Lech Poznań
+  12.30  FKS Stal Mielec          2-1 (1-1)  Górnik Zabrze
+  15.00  Pogoń Szczecin           1-1 (0-0)  Raków Częstochowa
+[Mon Nov/13]
+  19.00  Ruch Chorzów             0-0  Radomiak Radom
+
+
+Matchday 12
+[Sat Nov/18]
+  17.30  Widzew Łódź              2-1 (0-1)  Ruch Chorzów
+
+
+Matchday 16
+[Fri Nov/24]
+  18.00  ŁKS Łódź                 0-2 (0-1)  Zagłębie Lubin
+  20.30  Jagiellonia Białystok    0-0  Piast Gliwice
+[Sat Nov/25]
+  17.30  Pogoń Szczecin           2-3 (2-1)  FKS Stal Mielec
+  15.00  Raków Częstochowa        1-1 (0-1)  KS Cracovia
+  20.00  Legia Warszawa           2-2 (1-2)  Warta Poznań
+[Sun Nov/26]
+  15.00  Ruch Chorzów             1-1 (0-0)  Korona Kielce
+  17.30  Lech Poznań              1-3 (0-1)  Widzew Łódź
+  12.30  Puszcza Niepołomice      2-1 (0-1)  Górnik Zabrze
+[Mon Nov/27]
+  19.00  Radomiak Radom           0-1 (0-0)  Śląsk Wrocław
+
+
+Matchday 17
+[Fri Dec/1]
+  18.00  Warta Poznań             1-2 (1-1)  Jagiellonia Białystok
+  20.30  Górnik Zabrze            1-0 (1-0)  Pogoń Szczecin
+[Sat Dec/2]
+  17.30  Widzew Łódź              0-3 (0-2)  Radomiak Radom
+  20.00  Korona Kielce            0-1 (0-0)  Lech Poznań
+[Sun Dec/3]
+  17.30  Śląsk Wrocław            1-1 (0-1)  Raków Częstochowa
+  15.00  Zagłębie Lubin           0-3 (0-2)  Legia Warszawa
+  12.30  KS Cracovia              4-4 (1-2)  Ruch Chorzów
+
+
+Matchday 18
+[Fri Dec/8]
+  18.00  Ruch Chorzów             2-2 (0-1)  Zagłębie Lubin
+  20.30  Pogoń Szczecin           3-3 (0-1)  Warta Poznań
+[Sat Dec/9]
+  20.00  Śląsk Wrocław            0-0  Korona Kielce
+  17.30  KS Cracovia              2-2 (0-0)  FKS Stal Mielec
+  15.00  Radomiak Radom           1-1 (1-1)  Górnik Zabrze
+[Sun Dec/10]
+  17.30  Jagiellonia Białystok    4-2 (2-1)  Raków Częstochowa
+  12.30  Lech Poznań              0-1 (0-0)  Piast Gliwice
+  15.00  ŁKS Łódź                 1-1 (1-0)  Legia Warszawa
+[Mon Dec/11]
+  19.00  Puszcza Niepołomice      1-0 (0-0)  Widzew Łódź
+
+
+Matchday 19
+[Fri Dec/15]
+  18.00  Górnik Zabrze            3-0 (1-0)  Warta Poznań
+  20.30  Zagłębie Lubin           1-2 (0-0)  Śląsk Wrocław
+[Sat Dec/16]
+  17.30  Widzew Łódź              1-2 (1-1)  Pogoń Szczecin
+  15.00  Puszcza Niepołomice      3-3 (0-3)  Jagiellonia Białystok
+  20.00  Radomiak Radom           2-2 (0-1)  Lech Poznań
+[Sun Dec/17]
+  17.30  Legia Warszawa           2-0 (0-0)  KS Cracovia
+  15.00  Raków Częstochowa        1-0 (0-0)  Korona Kielce
+  12.30  ŁKS Łódź                 1-1 (1-0)  Ruch Chorzów
+[Mon Dec/18]
+  19.00  Piast Gliwice            3-0 (0-0)  FKS Stal Mielec
+
+
+Matchday 2
+[Wed Dec/20]
+  19.00  KS Cracovia              2-0 (1-0)  Legia Warszawa
+
+
+Matchday 20
+[Fri Feb/9]
+  18.00  FKS Stal Mielec          2-1 (0-1)  Puszcza Niepołomice
+  20.30  Ruch Chorzów             0-1 (0-0)  Legia Warszawa
+[Sat Feb/10]
+  20.00  Lech Poznań              2-0 (1-0)  Zagłębie Lubin
+  15.00  KS Cracovia              6-0 (3-0)  Radomiak Radom
+  17.30  Piast Gliwice            1-3 (0-1)  Górnik Zabrze
+[Sun Feb/11]
+  17.30  Śląsk Wrocław            0-1 (0-0)  Pogoń Szczecin
+  12.30  Warta Poznań             2-1 (2-1)  Raków Częstochowa
+  15.00  Widzew Łódź              1-3 (1-2)  Jagiellonia Białystok
+[Mon Feb/12]
+  19.00  Korona Kielce            2-1 (1-1)  ŁKS Łódź
+
+
+Matchday 21
+[Fri Feb/16]
+  18.00  Radomiak Radom           0-4 (0-3)  Pogoń Szczecin
+  20.30  Śląsk Wrocław            0-1 (0-1)  FKS Stal Mielec
+[Sat Feb/17]
+  20.00  Raków Częstochowa        3-1 (0-0)  Piast Gliwice
+  17.30  Jagiellonia Białystok    1-2 (0-2)  Lech Poznań
+  15.00  Ruch Chorzów             0-0  Warta Poznań
+[Sun Feb/18]
+  15.00  Legia Warszawa           1-1 (0-1)  Puszcza Niepołomice
+  12.30  Zagłębie Lubin           1-1 (1-0)  KS Cracovia
+  17.30  ŁKS Łódź                 0-2 (0-0)  Widzew Łódź
+[Mon Feb/19]
+  19.00  Górnik Zabrze            3-1 (2-0)  Korona Kielce
+
+
+Matchday 22
+[Fri Feb/23]
+  18.00  Piast Gliwice            0-0  KS Cracovia
+  20.30  Pogoń Szczecin           4-2 (1-0)  ŁKS Łódź
+[Sat Feb/24]
+  20.00  FKS Stal Mielec          0-0  Raków Częstochowa
+  17.30  Lech Poznań              0-0  Śląsk Wrocław
+  15.00  Jagiellonia Białystok    1-1 (0-1)  Ruch Chorzów
+[Sun Feb/25]
+  17.30  Korona Kielce            3-3 (1-2)  Legia Warszawa
+  12.30  Puszcza Niepołomice      2-2 (1-2)  Zagłębie Lubin
+  15.00  Widzew Łódź              3-1 (2-0)  Górnik Zabrze
+[Mon Feb/26]
+  19.00  Warta Poznań             0-0  Radomiak Radom
+
+
+Matchday 17
+[Wed Feb/28]
+  18.30  FKS Stal Mielec          1-0 (1-0)  ŁKS Łódź
+
+
+Matchday 23
+[Fri Mar/1]
+  18.00  KS Cracovia              0-1 (0-0)  Warta Poznań
+  20.30  Ruch Chorzów             3-0 (1-0)  Piast Gliwice
+[Sat Mar/2]
+  17.30  Śląsk Wrocław            2-1 (0-0)  Widzew Łódź
+  20.00  Legia Warszawa           1-1 (0-0)  Pogoń Szczecin
+  15.00  Górnik Zabrze            2-1 (1-0)  Jagiellonia Białystok
+[Sun Mar/3]
+  15.00  Zagłębie Lubin           1-0 (1-0)  Korona Kielce
+  12.30  ŁKS Łódź                 3-2 (1-1)  Puszcza Niepołomice
+  17.30  Raków Częstochowa        4-0 (3-0)  Lech Poznań
+[Mon Mar/4]
+  19.00  Radomiak Radom           2-1 (1-0)  FKS Stal Mielec
+
+
+Matchday 24
+[Fri Mar/8]
+  18.00  Piast Gliwice            2-3 (1-1)  Radomiak Radom
+  20.30  Jagiellonia Białystok    3-1 (3-0)  Śląsk Wrocław
+[Sat Mar/9]
+  17.30  Puszcza Niepołomice      1-1 (0-1)  Raków Częstochowa
+  20.00  Górnik Zabrze            0-0  Lech Poznań
+  15.00  Korona Kielce            1-1 (0-1)  KS Cracovia
+[Sun Mar/10]
+  17.30  Widzew Łódź              1-0 (0-0)  Legia Warszawa
+  12.30  FKS Stal Mielec          3-1 (2-0)  Ruch Chorzów
+  15.00  Pogoń Szczecin           0-2 (0-1)  Zagłębie Lubin
+[Mon Mar/11]
+  19.00  Warta Poznań             0-1 (0-0)  ŁKS Łódź
+
+
+Matchday 17
+[Tue Mar/12]
+  18.30  Piast Gliwice            1-0 (1-0)  Puszcza Niepołomice
+
+
+Matchday 2
+[Wed Mar/13]
+  18.30  Korona Kielce            0-2 (0-2)  Raków Częstochowa
+
+
+Matchday 25
+[Fri Mar/15]
+  20.30  Lech Poznań              2-0 (0-0)  Warta Poznań
+  18.00  Zagłębie Lubin           0-0  FKS Stal Mielec
+[Sat Mar/16]
+  12.30  KS Cracovia              2-2 (1-1)  Widzew Łódź
+  15.00  Radomiak Radom           0-2 (0-1)  Jagiellonia Białystok
+  17.30  Ruch Chorzów             1-2 (0-1)  Górnik Zabrze
+  20.00  Śląsk Wrocław            0-0  Puszcza Niepołomice
+[Sun Mar/17]
+  15.00  ŁKS Łódź                 1-1 (0-0)  Raków Częstochowa
+  17.30  Legia Warszawa           3-1 (2-1)  Piast Gliwice
+  12.30  Korona Kielce            2-2 (2-0)  Pogoń Szczecin
+
+
+Matchday 26
+[Sat Mar/30]
+  12.30  Raków Częstochowa        1-1 (1-0)  Ruch Chorzów
+  15.00  Jagiellonia Białystok    6-0 (2-0)  ŁKS Łódź
+  17.30  Piast Gliwice            2-2 (0-0)  Śląsk Wrocław
+  20.00  Pogoń Szczecin           3-1 (2-1)  KS Cracovia
+[Mon Apr/1]
+  15.00  FKS Stal Mielec          0-0  Lech Poznań
+  17.30  Widzew Łódź              3-1 (1-0)  Korona Kielce
+  20.00  Górnik Zabrze            1-3 (0-1)  Legia Warszawa
+  12.30  Puszcza Niepołomice      1-1 (1-0)  Radomiak Radom
+[Tue Apr/2]
+  19.00  Warta Poznań             1-1 (1-0)  Zagłębie Lubin
+
+
+Matchday 27
+[Fri Apr/5]
+  20.30  Radomiak Radom           2-1 (2-0)  Raków Częstochowa
+  18.00  KS Cracovia              2-2 (1-0)  ŁKS Łódź
+[Sat Apr/6]
+  15.00  Korona Kielce            1-0 (1-0)  FKS Stal Mielec
+  17.30  Ruch Chorzów             0-0  Puszcza Niepołomice
+  20.00  Śląsk Wrocław            2-1 (1-0)  Warta Poznań
+[Sun Apr/7]
+  15.00  Lech Poznań              1-0 (0-0)  Pogoń Szczecin
+  17.30  Legia Warszawa           1-1 (1-0)  Jagiellonia Białystok
+  12.30  Widzew Łódź              1-0 (0-0)  Piast Gliwice
+[Mon Apr/8]
+  19.00  Zagłębie Lubin           1-2 (1-1)  Górnik Zabrze
+
+
+Matchday 28
+[Fri Apr/12]
+  20.30  Pogoń Szczecin           5-0 (2-0)  Ruch Chorzów
+  18.00  Warta Poznań             1-0 (1-0)  Korona Kielce
+[Sat Apr/13]
+  15.00  FKS Stal Mielec          0-0  Widzew Łódź
+  17.30  Puszcza Niepołomice      2-1 (2-0)  Lech Poznań
+  20.00  Raków Częstochowa        1-1 (0-1)  Legia Warszawa
+[Sun Apr/14]
+  15.00  Jagiellonia Białystok    1-3 (1-2)  KS Cracovia
+  17.30  Górnik Zabrze            2-0 (1-0)  Śląsk Wrocław
+  12.30  ŁKS Łódź                 3-2 (1-0)  Radomiak Radom
+[Mon Apr/15]
+  19.00  Piast Gliwice            2-0 (2-0)  Zagłębie Lubin
+
+
+Matchday 29
+[Fri Apr/19]
+  18.00  Korona Kielce            4-0 (2-0)  Radomiak Radom
+  20.30  Raków Częstochowa        0-1 (0-0)  Górnik Zabrze
+[Sat Apr/20]
+  17.30  Ruch Chorzów             2-3 (0-1)  Widzew Łódź
+  20.00  Zagłębie Lubin           1-2 (0-1)  Jagiellonia Białystok
+  15.00  Pogoń Szczecin           0-2 (0-2)  Piast Gliwice
+[Sun Apr/21]
+  12.30  KS Cracovia              0-1 (0-1)  Puszcza Niepołomice
+  15.00  ŁKS Łódź                 2-3 (0-1)  Lech Poznań
+  17.30  Legia Warszawa           0-0  Śląsk Wrocław
+[Mon Apr/22]
+  19.00  Warta Poznań             5-2 (2-2)  FKS Stal Mielec
+
+
+Matchday 30
+[Fri Apr/26]
+  20.30  Jagiellonia Białystok    2-2 (2-1)  Pogoń Szczecin
+  18.00  Piast Gliwice            2-0 (1-0)  Warta Poznań
+[Sat Apr/27]
+  17.30  Śląsk Wrocław            2-3 (0-2)  Ruch Chorzów
+  20.00  Widzew Łódź              0-1 (0-0)  Raków Częstochowa
+  15.00  Górnik Zabrze            4-1 (2-0)  ŁKS Łódź
+[Sun Apr/28]
+  12.30  Radomiak Radom           3-4 (0-3)  Zagłębie Lubin
+  15.00  FKS Stal Mielec          1-3 (1-1)  Legia Warszawa
+  17.30  Lech Poznań              0-0  KS Cracovia
+[Mon Apr/29]
+  19.00  Puszcza Niepołomice      1-1 (1-0)  Korona Kielce
+
+
+Matchday 31
+[Fri May/3]
+  20.30  Ruch Chorzów             2-1 (1-1)  Lech Poznań
+  18.00  KS Cracovia              5-0 (2-0)  Górnik Zabrze
+[Sat May/4]
+  15.00  ŁKS Łódź                 1-2 (0-0)  Śląsk Wrocław
+  17.30  Zagłębie Lubin           2-0 (1-0)  Raków Częstochowa
+  20.00  FKS Stal Mielec          3-2 (1-1)  Jagiellonia Białystok
+[Sun May/5]
+  15.00  Korona Kielce            1-1 (0-1)  Piast Gliwice
+  17.30  Legia Warszawa           0-3 (0-0)  Radomiak Radom
+  12.30  Warta Poznań             2-1 (2-1)  Widzew Łódź
+[Mon May/6]
+  19.00  Pogoń Szczecin           1-0 (0-0)  Puszcza Niepołomice
+
+
+Matchday 32
+[Fri May/10]
+  20.30  Śląsk Wrocław            4-0 (3-0)  KS Cracovia
+  18.00  Piast Gliwice            4-0 (0-0)  ŁKS Łódź
+[Sat May/11]
+  17.30  Jagiellonia Białystok    3-0 (2-0)  Korona Kielce
+  20.00  Raków Częstochowa        2-1 (2-0)  Pogoń Szczecin
+  15.00  Górnik Zabrze            1-1 (0-0)  FKS Stal Mielec
+[Sun May/12]
+  15.00  Widzew Łódź              1-3 (0-2)  Zagłębie Lubin
+  17.30  Lech Poznań              1-2 (0-2)  Legia Warszawa
+  12.30  Puszcza Niepołomice      1-0 (0-0)  Warta Poznań
+[Mon May/13]
+  19.00  Radomiak Radom           0-2 (0-0)  Ruch Chorzów
+
+
+Matchday 33
+[Fri May/17]
+  20.30  Górnik Zabrze            1-1 (1-0)  Puszcza Niepołomice
+  18.00  FKS Stal Mielec          0-0  Pogoń Szczecin
+[Sat May/18]
+  15.00  Korona Kielce            2-0 (1-0)  Ruch Chorzów
+  17.30  Śląsk Wrocław            2-0 (1-0)  Radomiak Radom
+  20.00  Piast Gliwice            1-1 (0-0)  Jagiellonia Białystok
+[Sun May/19]
+  15.00  Warta Poznań             0-1 (0-1)  Legia Warszawa
+  17.30  Widzew Łódź              1-1 (1-1)  Lech Poznań
+  12.30  KS Cracovia              2-0 (1-0)  Raków Częstochowa
+[Mon May/20]
+  19.00  Zagłębie Lubin           2-1 (1-0)  ŁKS Łódź
+
+
+Matchday 34
+[Sat May/25]
+  17.30  Jagiellonia Białystok    3-0 (3-0)  Warta Poznań
+         Lech Poznań              1-2 (1-0)  Korona Kielce
+         Legia Warszawa           2-1 (2-0)  Zagłębie Lubin
+         ŁKS Łódź                 3-2 (3-0)  FKS Stal Mielec
+         Pogoń Szczecin           1-0 (0-0)  Górnik Zabrze
+         Puszcza Niepołomice      1-0 (0-0)  Piast Gliwice
+         Radomiak Radom           1-3 (1-0)  Widzew Łódź
+         Raków Częstochowa        1-2 (1-0)  Śląsk Wrocław
+         Ruch Chorzów             2-0 (1-0)  KS Cracovia

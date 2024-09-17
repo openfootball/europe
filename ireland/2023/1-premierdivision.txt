@@ -1,0 +1,372 @@
+= Irish Premier Division 2023
+
+# Date       Fri Feb/17 - Fri Nov/3 2023 (259d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Feb/17]
+  19.45  Dundalk FC               1-1 (1-0)  UC Dublin
+         Shelbourne FC            0-0  Drogheda United
+         St Patrick's Athletic    1-1 (0-1)  Derry City
+         Cork City                1-2 (0-1)  Bohemian FC
+[Sat Feb/18]
+  19.45  Sligo Rovers             1-1 (0-1)  Shamrock Rovers
+
+
+Matchday 2
+[Fri Feb/24]
+  19.45  Bohemian FC              2-1 (1-0)  Dundalk FC
+         Derry City               2-0 (1-0)  Cork City
+         Drogheda United          1-1 (0-0)  Shamrock Rovers
+         St Patrick's Athletic    1-0 (0-0)  Shelbourne FC
+         UC Dublin                2-3 (1-1)  Sligo Rovers
+
+
+Matchday 3
+[Fri Mar/3]
+  19.45  Cork City                4-0 (2-0)  UC Dublin
+         Drogheda United          1-0 (0-0)  Sligo Rovers
+         Dundalk FC               5-0 (2-0)  St Patrick's Athletic
+         Shelbourne FC            1-0 (0-0)  Bohemian FC
+  20.00  Shamrock Rovers          1-2 (1-1)  Derry City
+
+
+Matchday 4
+[Mon Mar/6]
+  19.45  Bohemian FC              3-1 (2-1)  Drogheda United
+         Dundalk FC               2-1 (0-1)  Shelbourne FC
+         Sligo Rovers             2-1 (1-0)  St Patrick's Athletic
+         UC Dublin                0-4 (0-2)  Derry City
+  20.00  Shamrock Rovers          4-4 (1-2)  Cork City
+
+
+Matchday 5
+[Fri Mar/10]
+  19.45  Shelbourne FC            0-0  Shamrock Rovers
+         St Patrick's Athletic    0-2 (0-1)  Bohemian FC
+         UC Dublin                0-1 (0-0)  Drogheda United
+         Derry City               0-0  Dundalk FC
+[Sat Mar/11]
+  19.45  Sligo Rovers             2-2 (0-1)  Cork City
+
+
+Matchday 6
+[Thu Mar/16]
+  19.45  Drogheda United          0-1 (0-0)  Dundalk FC
+[Fri Mar/17]
+  17.00  Shamrock Rovers          2-2 (1-1)  St Patrick's Athletic
+  19.45  Bohemian FC              2-1 (0-1)  UC Dublin
+         Derry City               1-1 (0-1)  Sligo Rovers
+  17.00  Cork City                0-2 (0-1)  Shelbourne FC
+
+
+Matchday 7
+[Fri Mar/31]
+  19.45  Cork City                1-1 (1-1)  Drogheda United
+         Dundalk FC               0-4 (0-2)  Shamrock Rovers
+         Shelbourne FC            0-1 (0-1)  Derry City
+         St Patrick's Athletic    3-0 (2-0)  UC Dublin
+[Sat Apr/1]
+  19.45  Sligo Rovers             0-1 (0-0)  Bohemian FC
+
+
+Matchday 8
+[Fri Apr/7]
+  19.45  Bohemian FC              0-2 (0-1)  Shamrock Rovers
+         Derry City               0-1 (0-0)  Drogheda United
+         Dundalk FC               1-2 (1-1)  Sligo Rovers
+         St Patrick's Athletic    4-0 (1-0)  Cork City
+         UC Dublin                0-0  Shelbourne FC
+
+
+Matchday 9
+[Mon Apr/10]
+  19.00  Derry City               0-1 (0-0)  Bohemian FC
+  19.45  Drogheda United          1-3 (1-2)  St Patrick's Athletic
+         Shelbourne FC            2-1 (0-1)  Sligo Rovers
+  20.00  Shamrock Rovers          3-0 (2-0)  UC Dublin
+  17.00  Cork City                1-0 (1-0)  Dundalk FC
+
+
+Matchday 10
+[Fri Apr/14]
+  19.45  UC Dublin                1-0 (1-0)  Cork City
+         Shamrock Rovers          2-2 (0-1)  Shelbourne FC
+         Bohemian FC              2-3 (1-3)  St Patrick's Athletic
+[Sat Apr/15]
+  19.45  Sligo Rovers             1-1 (0-0)  Drogheda United
+[Sun Apr/16]
+  15.00  Dundalk FC               2-2 (0-1)  Derry City
+
+
+Matchday 11
+[Fri Apr/21]
+  19.45  Drogheda United          0-2 (0-1)  Bohemian FC
+         Shelbourne FC            1-1 (0-0)  Dundalk FC
+         St Patrick's Athletic    0-2 (0-1)  Shamrock Rovers
+         Cork City                1-3 (0-1)  Derry City
+[Sat Apr/22]
+  19.45  Sligo Rovers             3-1 (2-1)  UC Dublin
+
+
+Matchday 12
+[Fri Apr/28]
+  19.45  Derry City               2-0 (0-0)  St Patrick's Athletic
+         Dundalk FC               3-2 (2-0)  Drogheda United
+         Shelbourne FC            2-1 (0-0)  Cork City
+         UC Dublin                1-1 (0-0)  Bohemian FC
+  20.00  Shamrock Rovers          2-1 (1-0)  Sligo Rovers
+
+
+Matchday 13
+[Mon May/1]
+  17.00  Bohemian FC              5-0 (1-0)  Cork City
+         Drogheda United          1-1 (0-0)  Shelbourne FC
+         UC Dublin                0-2 (0-1)  Dundalk FC
+  19.15  Derry City               0-2 (0-2)  Shamrock Rovers
+  15.00  St Patrick's Athletic    0-1 (0-0)  Sligo Rovers
+
+
+Matchday 14
+[Fri May/5]
+  19.45  Cork City                2-3 (2-1)  St Patrick's Athletic
+         Drogheda United          0-1 (0-1)  Derry City
+         Shelbourne FC            1-0 (1-0)  UC Dublin
+         Shamrock Rovers          2-0 (0-0)  Bohemian FC
+[Sat May/6]
+  19.45  Sligo Rovers             0-1 (0-0)  Dundalk FC
+
+
+Matchday 15
+[Fri May/12]
+  19.45  Bohemian FC              0-1 (0-1)  Derry City
+         Dundalk FC               2-1 (0-1)  Cork City
+         St Patrick's Athletic    3-0 (0-0)  Drogheda United
+         UC Dublin                0-3 (0-1)  Shamrock Rovers
+[Sat May/13]
+  19.45  Sligo Rovers             0-3 (0-2)  Shelbourne FC
+
+
+Matchday 24
+[Mon May/15]
+  20.00  Shamrock Rovers          3-2 (1-1)  St Patrick's Athletic
+  19.45  Derry City               3-0 (1-0)  Dundalk FC
+
+
+Matchday 16
+[Fri May/19]
+  19.45  Dundalk FC               2-2 (2-0)  Bohemian FC
+         Shelbourne FC            0-1 (0-0)  St Patrick's Athletic
+  20.00  Shamrock Rovers          1-2 (0-1)  Drogheda United
+  19.45  Derry City               4-1 (1-0)  UC Dublin
+         Cork City                1-0 (1-0)  Sligo Rovers
+
+
+Matchday 17
+[Fri May/26]
+  19.45  St Patrick's Athletic    2-1 (1-0)  Dundalk FC
+         Cork City                1-0 (0-0)  Shamrock Rovers
+         Bohemian FC              0-0  Shelbourne FC
+         Drogheda United          3-1 (2-1)  UC Dublin
+[Sat May/27]
+  19.45  Sligo Rovers             1-0 (1-0)  Derry City
+
+
+Matchday 18
+[Fri Jun/2]
+  19.45  UC Dublin                1-3 (0-2)  St Patrick's Athletic
+         Shamrock Rovers          2-0 (1-0)  Dundalk FC
+         Derry City               0-0  Shelbourne FC
+         Drogheda United          0-1 (0-0)  Cork City
+         Bohemian FC              2-0 (1-0)  Sligo Rovers
+
+
+Matchday 19
+[Mon Jun/5]
+  18.45  St Patrick's Athletic    4-1 (1-0)  Derry City
+  19.45  Shelbourne FC            3-2 (0-1)  Drogheda United
+  17.00  Cork City                2-1 (0-0)  Bohemian FC
+  18.00  Sligo Rovers             0-3 (0-0)  Shamrock Rovers
+  17.00  Dundalk FC               4-1 (2-1)  UC Dublin
+
+
+Matchday 20
+[Fri Jun/9]
+  19.45  Drogheda United          2-1 (1-1)  St Patrick's Athletic
+         Shelbourne FC            1-1 (1-1)  Sligo Rovers
+  20.00  Shamrock Rovers          4-0 (3-0)  UC Dublin
+  19.45  Cork City                1-2 (1-1)  Dundalk FC
+         Derry City               0-0  Bohemian FC
+
+
+Matchday 21
+[Fri Jun/23]
+  19.45  St Patrick's Athletic    1-0 (0-0)  Shelbourne FC
+         UC Dublin                2-1 (0-1)  Sligo Rovers
+         Derry City               2-0 (1-0)  Cork City
+         Bohemian FC              2-2 (0-0)  Shamrock Rovers
+         Drogheda United          1-2 (1-0)  Dundalk FC
+
+
+Matchday 25
+[Mon Jun/26]
+  20.00  Shamrock Rovers          1-0 (1-0)  Derry City
+  19.45  Dundalk FC               1-1 (0-1)  St Patrick's Athletic
+
+
+Matchday 22
+[Fri Jun/30]
+  19.45  Sligo Rovers             3-1 (2-0)  Bohemian FC
+         Cork City                1-1 (0-0)  Drogheda United
+         St Patrick's Athletic    7-0 (2-0)  UC Dublin
+         Dundalk FC               2-0 (0-0)  Shamrock Rovers
+         Shelbourne FC            1-1 (0-0)  Derry City
+
+
+Matchday 23
+[Fri Jul/7]
+  19.45  St Patrick's Athletic    1-1 (1-0)  Cork City
+         Drogheda United          0-0  Shamrock Rovers
+         Derry City               2-1 (1-1)  Sligo Rovers
+         Bohemian FC              3-2 (1-2)  Dundalk FC
+         UC Dublin                0-4 (0-1)  Shelbourne FC
+
+
+Matchday 24
+[Fri Jul/14]
+  19.45  UC Dublin                1-3 (0-2)  Drogheda United
+         Shelbourne FC            1-1 (0-0)  Bohemian FC
+[Sat Jul/15]
+  19.45  Sligo Rovers             3-0 (1-0)  Cork City
+
+
+Matchday 25
+[Fri Jul/28]
+  19.45  Cork City                0-2 (0-1)  Shelbourne FC
+         Drogheda United          2-2 (0-1)  Sligo Rovers
+         Bohemian FC              2-0 (0-0)  UC Dublin
+
+
+Matchday 26
+[Fri Aug/4]
+  19.45  Sligo Rovers             0-2 (0-2)  St Patrick's Athletic
+         Bohemian FC              4-2 (2-1)  Drogheda United
+[Sun Aug/6]
+  17.00  Dundalk FC               1-1 (1-0)  Shelbourne FC
+  18.00  Shamrock Rovers          2-1 (1-1)  Cork City
+
+
+Matchday 27
+[Fri Aug/11]
+  19.45  Cork City                1-1 (1-0)  UC Dublin
+         Dundalk FC               1-0 (1-0)  Sligo Rovers
+         Shelbourne FC            1-1 (0-1)  Shamrock Rovers
+         St Patrick's Athletic    0-0  Bohemian FC
+[Sun Aug/13]
+  18.30  Derry City               3-0 (1-0)  Drogheda United
+
+
+Matchday 28
+[Fri Aug/25]
+  19.45  Shamrock Rovers          1-0 (0-0)  Dundalk FC
+         Bohemian FC              2-2 (1-2)  Derry City
+         Drogheda United          3-1 (0-1)  Cork City
+         UC Dublin                0-1 (0-1)  St Patrick's Athletic
+[Sat Aug/26]
+  19.45  Sligo Rovers             0-1 (0-1)  Shelbourne FC
+
+
+Matchday 29
+[Fri Sep/1]
+  19.45  Cork City                3-0 (1-0)  Sligo Rovers
+         Drogheda United          3-0 (2-0)  UC Dublin
+         Dundalk FC               1-3 (0-1)  Derry City
+         Shelbourne FC            2-1 (0-1)  St Patrick's Athletic
+         Shamrock Rovers          3-0 (1-0)  Bohemian FC
+
+
+Matchday 26
+[Wed Sep/6]
+  19.45  UC Dublin                0-5 (0-3)  Derry City
+
+
+Matchday 30
+[Fri Sep/15]
+  19.45  Derry City               1-1 (0-0)  Shamrock Rovers
+[Sat Sep/16]
+  19.45  Sligo Rovers             2-0 (1-0)  UC Dublin
+
+
+Matchday 31
+[Fri Sep/22]
+  19.45  UC Dublin                0-0  Shamrock Rovers
+         St Patrick's Athletic    3-1 (0-0)  Dundalk FC
+         Drogheda United          0-0  Bohemian FC
+         Shelbourne FC            2-1 (2-1)  Cork City
+         Sligo Rovers             1-0 (0-0)  Derry City
+
+
+Matchday 30
+[Mon Sep/25]
+  19.45  St Patrick's Athletic    1-2 (1-1)  Drogheda United
+         Dundalk FC               5-0 (3-0)  Cork City
+         Bohemian FC              1-1 (0-1)  Shelbourne FC
+
+
+Matchday 32
+[Fri Sep/29]
+  19.45  Bohemian FC              3-1 (0-0)  Sligo Rovers
+         Cork City                0-1 (0-0)  St Patrick's Athletic
+         Derry City               6-0 (1-0)  UC Dublin
+         Dundalk FC               3-1 (1-1)  Drogheda United
+         Shamrock Rovers          1-0 (0-0)  Shelbourne FC
+
+
+Matchday 33
+[Fri Oct/6]
+  19.45  Shelbourne FC            1-0 (1-0)  Dundalk FC
+         Drogheda United          0-0  Derry City
+[Thu Oct/12]
+  19.45  UC Dublin                1-2 (0-0)  Bohemian FC
+
+
+Matchday 34
+[Fri Oct/20]
+  19.45  Sligo Rovers             0-2 (0-1)  Dundalk FC
+         Derry City               0-0  Shelbourne FC
+         Bohemian FC              0-2 (0-0)  St Patrick's Athletic
+[Sun Oct/22]
+  15.00  UC Dublin                0-2 (0-2)  Cork City
+  20.00  Shamrock Rovers          5-0 (3-0)  Drogheda United
+
+
+Matchday 33
+[Mon Oct/23]
+  19.30  St Patrick's Athletic    1-0 (1-0)  Sligo Rovers
+
+
+Matchday 35
+[Fri Oct/27]
+  20.00  St Patrick's Athletic    0-2 (0-0)  Shamrock Rovers
+  19.45  Cork City                0-1 (0-0)  Derry City
+         Dundalk FC               2-0 (0-0)  Bohemian FC
+         Shelbourne FC            3-2 (1-0)  UC Dublin
+[Sat Oct/28]
+  18.00  Sligo Rovers             0-0  Drogheda United
+
+
+Matchday 33
+[Mon Oct/30]
+  16.45  Cork City                0-0  Shamrock Rovers
+
+
+Matchday 36
+[Fri Nov/3]
+  19.45  Derry City               3-0 (2-0)  St Patrick's Athletic
+         Drogheda United          2-4 (2-0)  Shelbourne FC
+         Shamrock Rovers          4-2 (1-1)  Sligo Rovers
+         UC Dublin                1-5 (1-1)  Dundalk FC
+         Bohemian FC              4-0 (2-0)  Cork City

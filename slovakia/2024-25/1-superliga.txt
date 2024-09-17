@@ -1,0 +1,261 @@
+= Slovakia First League 2024/25
+
+# Date       Sat Jul/27 2024 - Sat Mar/1 2025 (217d)
+# Teams      12
+# Matches    132
+
+
+
+Matchday 1
+[Sat Jul/27]
+  18.00  FK Železiarne Podbrezová  0-0  MŠK Žilina
+  20.30  KFC Komárno              1-4 (1-2)  Slovan Bratislava
+  18.00  MFK Skalica              0-0  MFK Zemplín Michalovce
+[Sun Jul/28]
+  18.00  Spartak Trnava           0-0  AS Trenčín
+         MFK Ružomberok           1-1 (1-0)  Dukla Banská Bystrica
+         FC Košice                2-2 (1-1)  FC DAC 1904
+
+
+Matchday 2
+[Sat Aug/3]
+  18.00  Dukla Banská Bystrica    1-1 (1-0)  MFK Skalica
+         AS Trenčín               2-0 (2-0)  FC Košice
+  20.30  Slovan Bratislava        1-0 (0-0)  FK Železiarne Podbrezová
+[Sun Aug/4]
+  18.00  MFK Zemplín Michalovce   0-0  Spartak Trnava
+         FC DAC 1904              2-0 (1-0)  KFC Komárno
+
+
+Matchday 3
+[Sat Aug/10]
+  18.00  MŠK Žilina               3-1 (1-0)  MFK Zemplín Michalovce
+  20.30  FC Košice                3-0 (3-0)  FK Železiarne Podbrezová
+[Sun Aug/11]
+  18.00  Dukla Banská Bystrica    1-0 (0-0)  FC DAC 1904
+         MFK Ružomberok           1-0 (1-0)  AS Trenčín
+
+
+Matchday 4
+[Sat Aug/17]
+  18.00  FK Železiarne Podbrezová  7-1 (3-0)  MFK Skalica
+         Slovan Bratislava        2-1 (0-1)  FC Košice
+         MFK Zemplín Michalovce   0-3 (0-1)  FC DAC 1904
+  20.30  AS Trenčín               2-2 (1-1)  Dukla Banská Bystrica
+[Sun Aug/18]
+  18.00  Spartak Trnava           0-0  MŠK Žilina
+
+
+Matchday 5
+[Sat Aug/24]
+  18.00  MFK Skalica              1-2 (0-0)  Spartak Trnava
+  20.30  MŠK Žilina               4-1 (1-1)  AS Trenčín
+  18.00  FC Košice                0-1 (0-0)  KFC Komárno
+[Sun Aug/25]
+  18.00  MFK Ružomberok           2-2 (0-1)  MFK Zemplín Michalovce
+         Dukla Banská Bystrica    0-2 (0-0)  Slovan Bratislava
+
+
+Matchday 6
+[Sat Aug/31]
+  18.00  MFK Skalica              0-0  FC Košice
+         KFC Komárno              1-3 (0-1)  MFK Zemplín Michalovce
+  20.30  FK Železiarne Podbrezová  1-1 (0-1)  Dukla Banská Bystrica
+[Sun Sep/1]
+  18.00  Spartak Trnava           2-2 (2-1)  MFK Ružomberok
+  15.30  Slovan Bratislava        0-5 (0-2)  MŠK Žilina
+
+
+Matchday 7
+[Sat Sep/14]
+  20.30  FC DAC 1904              1-2 (0-0)  Slovan Bratislava
+  18.00  MFK Zemplín Michalovce   1-1 (1-0)  AS Trenčín
+         Dukla Banská Bystrica    2-3 (1-1)  KFC Komárno
+         MŠK Žilina               3-2 (1-1)  MFK Skalica
+[Sun Sep/15]
+  18.00  FC Košice                1-1 (1-1)  Spartak Trnava
+         MFK Ružomberok           1-0 (1-0)  FK Železiarne Podbrezová
+
+
+Matchday 6
+[Tue Sep/17]
+  18.00  AS Trenčín               -  FC DAC 1904
+
+
+Matchday 8
+[Sat Sep/21]
+  18.00  FC Košice                -  MŠK Žilina
+         MFK Skalica              -  FC DAC 1904
+         KFC Komárno              -  AS Trenčín
+  20.30  Slovan Bratislava        -  MFK Ružomberok
+[Sun Sep/22]
+  18.00  FK Železiarne Podbrezová  -  MFK Zemplín Michalovce
+  15.30  Spartak Trnava           -  Dukla Banská Bystrica
+
+
+Matchday 4
+[Tue Sep/24]
+  18.00  KFC Komárno              -  MFK Ružomberok
+
+
+Matchday 9
+[Fri Sep/27]
+  18.00  MFK Zemplín Michalovce   -  Slovan Bratislava
+[Sat Sep/28]
+  18.00  AS Trenčín               -  FK Železiarne Podbrezová
+  20.30  FC DAC 1904              -  Spartak Trnava
+  18.00  Dukla Banská Bystrica    -  FC Košice
+[Sun Sep/29]
+  18.00  MŠK Žilina               -  KFC Komárno
+         MFK Ružomberok           -  MFK Skalica
+
+
+Matchday 10
+[Sat Oct/5]
+  20.30  Slovan Bratislava        -  AS Trenčín
+  18.00  FK Železiarne Podbrezová  -  Spartak Trnava
+         MFK Skalica              -  KFC Komárno
+         FC Košice                -  MFK Ružomberok
+[Sun Oct/6]
+  18.00  Dukla Banská Bystrica    -  MFK Zemplín Michalovce
+         FC DAC 1904              -  MŠK Žilina
+
+
+Matchday 11
+[Sat Oct/19]
+  15.30  MFK Ružomberok           -  FC DAC 1904
+  18.00  Spartak Trnava           -  Slovan Bratislava
+  15.30  MFK Zemplín Michalovce   -  FC Košice
+         AS Trenčín               -  MFK Skalica
+[Sun Oct/20]
+  15.30  MŠK Žilina               -  Dukla Banská Bystrica
+         KFC Komárno              -  FK Železiarne Podbrezová
+
+
+Matchday 12
+[Sat Oct/26]
+  15.30  MŠK Žilina               -  FK Železiarne Podbrezová
+         Dukla Banská Bystrica    -  MFK Ružomberok
+         Slovan Bratislava        -  KFC Komárno
+  18.00  FC DAC 1904              -  FC Košice
+[Sun Oct/27]
+  15.30  MFK Zemplín Michalovce   -  MFK Skalica
+         AS Trenčín               -  Spartak Trnava
+
+
+Matchday 2
+[Tue Oct/29]
+  18.00  MŠK Žilina               -  MFK Ružomberok
+
+
+Matchday 3
+[Tue Oct/29]
+  18.00  MFK Skalica              -  Slovan Bratislava
+         Spartak Trnava           -  KFC Komárno
+
+
+Matchday 5
+[Tue Oct/29]
+  18.00  FC DAC 1904              -  FK Železiarne Podbrezová
+
+
+Matchday 13
+[Sat Nov/2]
+  15.30  FC Košice                -  AS Trenčín
+         KFC Komárno              -  FC DAC 1904
+         Spartak Trnava           -  MFK Zemplín Michalovce
+  18.00  FK Železiarne Podbrezová  -  Slovan Bratislava
+[Sun Nov/3]
+  15.30  MFK Skalica              -  Dukla Banská Bystrica
+         MFK Ružomberok           -  MŠK Žilina
+
+
+Matchday 14
+[Sat Nov/9]
+  15.30  Slovan Bratislava        -  MFK Skalica
+         MFK Zemplín Michalovce   -  MŠK Žilina
+         AS Trenčín               -  MFK Ružomberok
+  18.00  KFC Komárno              -  Spartak Trnava
+[Sun Nov/10]
+  15.30  FC DAC 1904              -  Dukla Banská Bystrica
+         FK Železiarne Podbrezová  -  FC Košice
+
+
+Matchday 15
+[Sat Nov/23]
+  FC DAC 1904              -  MFK Zemplín Michalovce
+  FC Košice                -  Slovan Bratislava
+  MFK Ružomberok           -  KFC Komárno
+  Dukla Banská Bystrica    -  AS Trenčín
+  MFK Skalica              -  FK Železiarne Podbrezová
+  MŠK Žilina               -  Spartak Trnava
+
+
+Matchday 16
+[Sat Nov/30]
+  AS Trenčín               -  MŠK Žilina
+  FK Železiarne Podbrezová  -  FC DAC 1904
+  Spartak Trnava           -  MFK Skalica
+  KFC Komárno              -  FC Košice
+  Slovan Bratislava        -  Dukla Banská Bystrica
+  MFK Zemplín Michalovce   -  MFK Ružomberok
+
+
+Matchday 17
+[Sat Dec/7]
+  MŠK Žilina               -  Slovan Bratislava
+  FC Košice                -  MFK Skalica
+  MFK Ružomberok           -  Spartak Trnava
+  Dukla Banská Bystrica    -  FK Železiarne Podbrezová
+  MFK Zemplín Michalovce   -  KFC Komárno
+  FC DAC 1904              -  AS Trenčín
+
+
+Matchday 18
+[Sat Dec/14]
+  Slovan Bratislava        -  FC DAC 1904
+  KFC Komárno              -  Dukla Banská Bystrica
+  AS Trenčín               -  MFK Zemplín Michalovce
+  Spartak Trnava           -  FC Košice
+  FK Železiarne Podbrezová  -  MFK Ružomberok
+  MFK Skalica              -  MŠK Žilina
+
+
+Matchday 19
+[Sat Feb/8]
+  MFK Ružomberok           -  Slovan Bratislava
+  Dukla Banská Bystrica    -  Spartak Trnava
+  FC DAC 1904              -  MFK Skalica
+  MFK Zemplín Michalovce   -  FK Železiarne Podbrezová
+  MŠK Žilina               -  FC Košice
+  AS Trenčín               -  KFC Komárno
+
+
+Matchday 20
+[Sat Feb/15]
+  FC Košice                -  Dukla Banská Bystrica
+  MFK Skalica              -  MFK Ružomberok
+  Spartak Trnava           -  FC DAC 1904
+  Slovan Bratislava        -  MFK Zemplín Michalovce
+  FK Železiarne Podbrezová  -  AS Trenčín
+  KFC Komárno              -  MŠK Žilina
+
+
+Matchday 21
+[Sat Feb/22]
+  MFK Ružomberok           -  FC Košice
+  MŠK Žilina               -  FC DAC 1904
+  KFC Komárno              -  MFK Skalica
+  AS Trenčín               -  Slovan Bratislava
+  MFK Zemplín Michalovce   -  Dukla Banská Bystrica
+  Spartak Trnava           -  FK Železiarne Podbrezová
+
+
+Matchday 22
+[Sat Mar/1]
+  Dukla Banská Bystrica    -  MŠK Žilina
+  MFK Skalica              -  AS Trenčín
+  FC DAC 1904              -  MFK Ružomberok
+  FC Košice                -  MFK Zemplín Michalovce
+  FK Železiarne Podbrezová  -  KFC Komárno
+  Slovan Bratislava        -  Spartak Trnava

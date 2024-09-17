@@ -1,0 +1,365 @@
+= Finland Veikkausliiga 2024
+
+# Date       Sat Apr/6 - Sat Oct/19 2024 (196d)
+# Teams      12
+# Matches    162
+# Stages     Regular Season (132)  Playoffs - Relegation (15)  Championship (15)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Apr/6]
+  17.00  Ilves Tampere            0-0  FC Lahti
+         SJK Seinäjoki            2-1 (1-0)  AC Oulu
+         IFK Mariehamn            3-2 (2-2)  Ekenäs IF
+         Haka Valkeakoski         1-2 (0-2)  Vaasan PS
+  19.00  Kuopion PS               3-1 (1-0)  HJK Helsinki
+  15.00  IF Gnistan               2-1 (2-1)  Inter Turku
+
+
+Matchday 2
+[Thu Apr/11]
+  18.00  HJK Helsinki             4-0 (2-0)  FC Lahti
+[Fri Apr/12]
+  18.00  Haka Valkeakoski         2-1 (1-0)  Ekenäs IF
+  19.00  Vaasan PS                1-1 (0-0)  SJK Seinäjoki
+  20.00  Inter Turku              3-3 (1-1)  AC Oulu
+[Sat Apr/13]
+  17.00  IFK Mariehamn            2-2 (1-1)  Kuopion PS
+  14.00  Ilves Tampere            4-6 (2-0)  IF Gnistan
+
+
+Matchday 3
+[Fri Apr/19]
+  18.00  Inter Turku              1-1 (1-0)  Kuopion PS
+         SJK Seinäjoki            1-0 (1-0)  Ilves Tampere
+[Sat Apr/20]
+  16.15  FC Lahti                 1-1 (0-1)  Haka Valkeakoski
+  18.30  Vaasan PS                3-2 (2-1)  IF Gnistan
+  15.00  HJK Helsinki             2-1 (1-0)  IFK Mariehamn
+[Sun Apr/21]
+  18.30  Ekenäs IF                1-1 (1-0)  AC Oulu
+
+
+Matchday 15
+[Wed Apr/24]
+  19.00  SJK Seinäjoki            3-3 (1-1)  HJK Helsinki
+
+
+Matchday 4
+[Fri Apr/26]
+  18.00  Inter Turku              2-1 (1-0)  Ekenäs IF
+[Sat Apr/27]
+  17.00  FC Lahti                 0-1 (0-1)  Kuopion PS
+  15.00  Haka Valkeakoski         1-1 (1-0)  HJK Helsinki
+  18.30  AC Oulu                  1-2 (0-0)  Vaasan PS
+[Sun Apr/28]
+  18.30  IFK Mariehamn            0-1 (0-0)  Ilves Tampere
+  16.00  IF Gnistan               0-1 (0-0)  SJK Seinäjoki
+
+
+Matchday 5
+[Fri May/3]
+  18.00  Vaasan PS                3-0 (0-0)  FC Lahti
+[Sat May/4]
+  17.00  HJK Helsinki             0-0  Ekenäs IF
+  19.00  SJK Seinäjoki            1-1 (1-0)  Kuopion PS
+  15.00  Ilves Tampere            3-2 (1-1)  AC Oulu
+[Sun May/5]
+  18.30  IFK Mariehamn            3-1 (0-1)  Inter Turku
+  16.00  IF Gnistan               0-3 (0-2)  Haka Valkeakoski
+
+
+Matchday 6
+[Fri May/10]
+  18.15  Kuopion PS               2-1 (0-0)  Vaasan PS
+[Sat May/11]
+  17.00  AC Oulu                  1-1 (1-1)  IF Gnistan
+  19.00  Inter Turku              0-1 (0-1)  HJK Helsinki
+  15.00  Haka Valkeakoski         2-0 (1-0)  SJK Seinäjoki
+[Sun May/12]
+  18.30  FC Lahti                 3-0 (2-0)  IFK Mariehamn
+         Ekenäs IF                0-2 (0-1)  Ilves Tampere
+
+
+Matchday 7
+[Fri May/17]
+  18.00  HJK Helsinki             1-2 (0-1)  Vaasan PS
+  20.00  Ilves Tampere            5-0 (2-0)  Haka Valkeakoski
+  19.00  SJK Seinäjoki            3-1 (2-1)  Inter Turku
+  18.00  AC Oulu                  1-1 (1-0)  IFK Mariehamn
+[Sun May/19]
+  18.30  Ekenäs IF                1-1 (1-0)  FC Lahti
+  16.00  IF Gnistan               0-0  Kuopion PS
+
+
+Matchday 15
+[Wed May/22]
+  18.00  Vaasan PS                1-3 (0-1)  Kuopion PS
+
+
+Matchday 17
+[Wed May/22]
+  20.00  Ilves Tampere            3-0 (2-0)  Inter Turku
+
+
+Matchday 19
+[Wed May/22]
+  18.00  HJK Helsinki             1-0 (1-0)  IF Gnistan
+
+
+Matchday 8
+[Fri May/24]
+  18.00  Haka Valkeakoski         4-3 (1-0)  AC Oulu
+[Sat May/25]
+  17.00  HJK Helsinki             1-1 (0-1)  Ilves Tampere
+[Sun May/26]
+  18.30  IFK Mariehamn            1-1 (1-1)  IF Gnistan
+         Kuopion PS               4-1 (2-1)  Ekenäs IF
+[Mon May/27]
+  18.00  Vaasan PS                3-1 (2-0)  Inter Turku
+         FC Lahti                 0-4 (0-4)  SJK Seinäjoki
+
+
+Matchday 9
+[Fri May/31]
+  20.00  AC Oulu                  1-0 (1-0)  HJK Helsinki
+  18.00  Ilves Tampere            1-2 (1-1)  Kuopion PS
+         Inter Turku              3-1 (2-0)  Haka Valkeakoski
+         SJK Seinäjoki            0-2 (0-0)  IFK Mariehamn
+[Sun Jun/2]
+  18.30  Ekenäs IF                1-2 (0-0)  Vaasan PS
+  16.00  IF Gnistan               2-1 (1-1)  FC Lahti
+
+
+Matchday 10
+[Fri Jun/7]
+  20.00  HJK Helsinki             4-1 (1-1)  SJK Seinäjoki
+  18.00  Vaasan PS                1-1 (1-0)  Ilves Tampere
+         FC Lahti                 0-2 (0-1)  Inter Turku
+         Haka Valkeakoski         2-0 (1-0)  IFK Mariehamn
+[Sat Jun/8]
+  17.00  Kuopion PS               4-1 (1-0)  AC Oulu
+         Ekenäs IF                1-0 (0-0)  IF Gnistan
+
+
+Matchday 11
+[Wed Jun/12]
+  18.00  AC Oulu                  2-2 (1-1)  FC Lahti
+  19.00  IF Gnistan               0-4 (0-2)  HJK Helsinki
+  18.00  Kuopion PS               0-1 (0-1)  Haka Valkeakoski
+         IFK Mariehamn            0-0  Vaasan PS
+         Inter Turku              0-2 (0-0)  Ilves Tampere
+         SJK Seinäjoki            3-1 (1-1)  Ekenäs IF
+
+
+Matchday 12
+[Wed Jun/19]
+  21.00  HJK Helsinki             3-1 (0-1)  Kuopion PS
+         Vaasan PS                1-1 (1-1)  AC Oulu
+         Haka Valkeakoski         0-0  Inter Turku
+         Ilves Tampere            2-2 (1-1)  SJK Seinäjoki
+         Ekenäs IF                1-2 (1-1)  IFK Mariehamn
+         FC Lahti                 3-3 (1-2)  IF Gnistan
+
+
+Matchday 13
+[Fri Jun/28]
+  20.00  AC Oulu                  1-0 (0-0)  Kuopion PS
+  18.00  Inter Turku              3-1 (2-0)  Vaasan PS
+[Sat Jun/29]
+  12.00  SJK Seinäjoki            2-1 (2-0)  Haka Valkeakoski
+  19.00  FC Lahti                 2-2 (1-2)  Ilves Tampere
+[Sun Jun/30]
+  16.00  IF Gnistan               1-2 (0-1)  Ekenäs IF
+         IFK Mariehamn            1-2 (1-1)  HJK Helsinki
+
+
+Matchday 14
+[Sat Jul/6]
+  15.00  Ilves Tampere            3-0 (2-0)  HJK Helsinki
+  17.00  Vaasan PS                2-3 (1-1)  Ekenäs IF
+[Sun Jul/7]
+  18.30  IFK Mariehamn            0-3 (0-2)  Haka Valkeakoski
+         Kuopion PS               3-1 (3-1)  IF Gnistan
+[Mon Jul/8]
+  18.00  AC Oulu                  1-2 (1-2)  SJK Seinäjoki
+         Inter Turku              3-0 (2-0)  FC Lahti
+
+
+Matchday 15
+[Sun Jul/14]
+  17.00  Ekenäs IF                0-7 (0-2)  Inter Turku
+  18.30  FC Lahti                 1-2 (0-0)  AC Oulu
+[Mon Jul/15]
+  19.00  Haka Valkeakoski         4-3 (1-2)  Ilves Tampere
+
+
+Matchday 16
+[Sat Jul/20]
+  17.00  AC Oulu                  2-0 (0-0)  Ekenäs IF
+         HJK Helsinki             2-0 (1-0)  Haka Valkeakoski
+[Sun Jul/21]
+  18.30  Kuopion PS               1-0 (0-0)  FC Lahti
+  17.00  Ilves Tampere            3-2 (1-2)  Vaasan PS
+  15.00  IFK Mariehamn            0-4 (0-0)  SJK Seinäjoki
+[Mon Jul/22]
+  18.00  Inter Turku              2-2 (1-1)  IF Gnistan
+
+
+Matchday 17
+[Sat Jul/27]
+  17.00  SJK Seinäjoki            5-5 (2-2)  FC Lahti
+         HJK Helsinki             3-0 (1-0)  AC Oulu
+[Sun Jul/28]
+  17.00  Ekenäs IF                1-2 (1-0)  Kuopion PS
+  18.30  Vaasan PS                2-1 (1-0)  IFK Mariehamn
+  15.00  Haka Valkeakoski         1-2 (0-1)  IF Gnistan
+
+
+Matchday 18
+[Fri Aug/2]
+  18.00  Inter Turku              3-0 (1-0)  IFK Mariehamn
+[Sat Aug/3]
+  19.00  FC Lahti                 2-1 (1-1)  HJK Helsinki
+[Sun Aug/4]
+  16.00  AC Oulu                  0-1 (0-0)  Ilves Tampere
+  18.30  Kuopion PS               2-1 (1-0)  SJK Seinäjoki
+         Ekenäs IF                1-2 (1-0)  Haka Valkeakoski
+         IF Gnistan               3-0 (2-0)  Vaasan PS
+
+
+Matchday 19
+[Fri Aug/9]
+  18.00  FC Lahti                 4-0 (2-0)  Ekenäs IF
+[Sat Aug/10]
+  17.00  AC Oulu                  1-0 (1-0)  Inter Turku
+[Sun Aug/11]
+  15.00  Ilves Tampere            2-0 (1-0)  IFK Mariehamn
+  17.00  Haka Valkeakoski         2-2 (0-2)  Kuopion PS
+[Mon Aug/12]
+  19.00  SJK Seinäjoki            3-1 (2-0)  Vaasan PS
+
+
+Matchday 20
+[Fri Aug/16]
+  18.15  Inter Turku              3-0 (0-0)  SJK Seinäjoki
+[Sun Aug/18]
+  16.00  Ekenäs IF                0-3 (0-0)  HJK Helsinki
+  18.30  IFK Mariehamn            0-0  FC Lahti
+  16.00  IF Gnistan               2-0 (2-0)  AC Oulu
+         Kuopion PS               1-0 (0-0)  Ilves Tampere
+  18.30  Vaasan PS                3-2 (0-0)  Haka Valkeakoski
+
+
+Matchday 15
+[Wed Aug/21]
+  18.00  IF Gnistan               2-1 (0-1)  IFK Mariehamn
+
+
+Matchday 21
+[Sat Aug/24]
+  17.00  Ilves Tampere            5-0 (4-0)  Ekenäs IF
+         AC Oulu                  0-1 (0-1)  Haka Valkeakoski
+[Sun Aug/25]
+  16.00  HJK Helsinki             1-0 (0-0)  Inter Turku
+         Kuopion PS               3-0 (1-0)  IFK Mariehamn
+  18.30  FC Lahti                 0-0  Vaasan PS
+[Mon Aug/26]
+  19.00  SJK Seinäjoki            0-1 (0-1)  IF Gnistan
+
+
+Matchday 22
+[Sun Sep/1]
+  16.00  Haka Valkeakoski         1-1 (0-1)  FC Lahti
+         Kuopion PS               1-2 (1-2)  Inter Turku
+         IF Gnistan               1-1 (0-0)  Ilves Tampere
+         Ekenäs IF                1-1 (0-0)  SJK Seinäjoki
+         IFK Mariehamn            2-1 (0-1)  AC Oulu
+         Vaasan PS                1-3 (1-1)  HJK Helsinki
+
+
+== Playoffs - Relegation
+
+Matchday 1
+[Fri Sep/13]
+  18.00  Inter Turku              1-1 (0-0)  Ekenäs IF
+[Sat Sep/14]
+  17.00  AC Oulu                  3-0 (0-0)  FC Lahti
+[Sun Sep/15]
+  15.00  IF Gnistan               2-1 (1-0)  IFK Mariehamn
+
+
+Matchday 2
+[Thu Sep/19]
+  18.00  FC Lahti                 -  IFK Mariehamn
+[Sun Sep/22]
+  16.00  Ekenäs IF                -  IF Gnistan
+[Tue Sep/24]
+  18.00  AC Oulu                  -  Inter Turku
+
+
+Matchday 3
+[Fri Sep/27]
+  18.00  IF Gnistan               -  AC Oulu
+[Sat Sep/28]
+  17.00  IFK Mariehamn            -  Ekenäs IF
+[Mon Sep/30]
+  18.00  Inter Turku              -  FC Lahti
+
+
+Matchday 4
+[Sat Oct/5]
+  17.00  Ekenäs IF                -  AC Oulu
+  14.00  IF Gnistan               -  FC Lahti
+[Sun Oct/6]
+  16.30  IFK Mariehamn            -  Inter Turku
+
+
+Matchday 5
+[Sat Oct/19]
+  14.00  Inter Turku              -  IF Gnistan
+         AC Oulu                  -  IFK Mariehamn
+         FC Lahti                 -  Ekenäs IF
+
+
+== Championship
+
+Matchday 1
+[Sat Sep/14]
+  19.00  Kuopion PS               3-1 (1-0)  Vaasan PS
+  17.00  Ilves Tampere            3-2 (0-1)  Haka Valkeakoski
+  15.00  HJK Helsinki             2-2 (1-1)  SJK Seinäjoki
+
+
+Matchday 2
+[Fri Sep/20]
+  18.00  Haka Valkeakoski         -  SJK Seinäjoki
+  20.00  Vaasan PS                -  HJK Helsinki
+[Tue Sep/24]
+  19.00  Ilves Tampere            -  Kuopion PS
+
+
+Matchday 3
+[Sat Sep/28]
+  19.30  HJK Helsinki             -  Ilves Tampere
+  14.30  SJK Seinäjoki            -  Vaasan PS
+[Sun Sep/29]
+  16.00  Kuopion PS               -  Haka Valkeakoski
+
+
+Matchday 4
+[Fri Oct/4]
+  18.00  Vaasan PS                -  Ilves Tampere
+[Sat Oct/5]
+  17.00  SJK Seinäjoki            -  Kuopion PS
+[Sun Oct/6]
+  18.30  HJK Helsinki             -  Haka Valkeakoski
+
+
+Matchday 5
+[Sat Oct/19]
+  18.00  Ilves Tampere            -  SJK Seinäjoki
+         Kuopion PS               -  HJK Helsinki
+         Haka Valkeakoski         -  Vaasan PS

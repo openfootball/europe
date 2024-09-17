@@ -1,0 +1,437 @@
+= Sweden Allsvenskan 2024
+
+# Date       Sat Mar/30 - Sun Nov/10 2024 (225d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Sat Mar/30]
+  15.00  IFK Norrköping           1-5 (0-3)  Malmö FF
+[Sun Mar/31]
+  14.00  Hammarby IF              3-1 (2-1)  Kalmar FF
+  16.30  BK Häcken                0-1 (0-0)  Mjällby AIF
+  14.00  GAIS Göteborg            0-4 (0-2)  IF Brommapojkarna
+[Mon Apr/1]
+  14.00  IFK Göteborg             1-4 (0-2)  Djurgårdens IF
+         IK Sirius                3-0 (1-0)  Halmstads BK
+  16.30  AIK Solna                1-0 (0-0)  Västerås SK
+         IF Elfsborg              2-2 (2-1)  IFK Värnamo
+
+
+Matchday 2
+[Sat Apr/6]
+  17.30  Mjällby AIF              3-0 (2-0)  IFK Norrköping
+  15.00  IF Brommapojkarna        2-2 (1-0)  AIK Solna
+[Sun Apr/7]
+  14.00  Malmö FF                 2-0 (1-0)  Hammarby IF
+  16.30  Västerås SK              0-1 (0-0)  IF Elfsborg
+  14.00  Halmstads BK             1-0 (1-0)  IFK Göteborg
+[Mon Apr/8]
+  19.00  Kalmar FF                1-2 (0-0)  IK Sirius
+         IFK Värnamo              1-2 (1-2)  GAIS Göteborg
+  19.10  Djurgårdens IF           3-3 (0-1)  BK Häcken
+
+
+Matchday 3
+[Sat Apr/13]
+  17.30  Västerås SK              0-1 (0-1)  Halmstads BK
+  15.00  Mjällby AIF              1-1 (0-0)  AIK Solna
+[Sun Apr/14]
+  14.00  Kalmar FF                0-1 (0-0)  IFK Göteborg
+  16.30  Djurgårdens IF           2-0 (1-0)  IK Sirius
+  14.00  IFK Norrköping           1-0 (0-0)  GAIS Göteborg
+[Mon Apr/15]
+  19.00  BK Häcken                4-3 (2-2)  IF Brommapojkarna
+         IFK Värnamo              0-4 (0-2)  Malmö FF
+  19.10  Hammarby IF              3-0 (0-0)  IF Elfsborg
+
+
+Matchday 4
+[Sat Apr/20]
+  15.00  IK Sirius                0-1 (0-1)  IFK Värnamo
+  17.30  Malmö FF                 1-0 (0-0)  Västerås SK
+  15.00  IFK Göteborg             1-1 (1-1)  IFK Norrköping
+[Sun Apr/21]
+  14.00  GAIS Göteborg            2-1 (0-0)  Mjällby AIF
+  16.30  BK Häcken                2-1 (0-1)  Hammarby IF
+         Halmstads BK             0-2 (0-1)  IF Brommapojkarna
+  14.00  AIK Solna                2-0 (0-0)  Djurgårdens IF
+[Mon Apr/22]
+  19.00  IF Elfsborg              1-2 (0-1)  Kalmar FF
+
+
+Matchday 5
+[Wed Apr/24]
+  19.00  IF Brommapojkarna        1-1 (0-0)  IK Sirius
+         IFK Göteborg             0-1 (0-1)  BK Häcken
+         AIK Solna                2-0 (2-0)  IFK Värnamo
+[Thu Apr/25]
+  19.00  Djurgårdens IF           0-1 (0-0)  Malmö FF
+         Halmstads BK             2-1 (1-0)  Hammarby IF
+         IFK Norrköping           4-2 (0-2)  IF Elfsborg
+         Kalmar FF                2-3 (1-1)  GAIS Göteborg
+         Västerås SK              2-1 (1-1)  Mjällby AIF
+
+
+Matchday 6
+[Sun Apr/28]
+  14.00  IFK Värnamo              1-3 (0-3)  Halmstads BK
+  16.30  BK Häcken                1-2 (0-1)  IFK Norrköping
+         Djurgårdens IF           1-0 (0-0)  GAIS Göteborg
+  14.00  Malmö FF                 5-0 (3-0)  AIK Solna
+[Mon Apr/29]
+  19.00  IF Brommapojkarna        0-3 (0-1)  IFK Göteborg
+         IF Elfsborg              2-0 (1-0)  IK Sirius
+         Mjällby AIF              3-2 (2-2)  Kalmar FF
+  19.10  Hammarby IF              2-1 (1-0)  Västerås SK
+
+
+Matchday 7
+[Sat May/4]
+  15.00  Mjällby AIF              1-1 (1-0)  IF Brommapojkarna
+  17.30  IK Sirius                0-3 (0-3)  BK Häcken
+  15.00  Kalmar FF                5-2 (1-2)  Halmstads BK
+[Sun May/5]
+  14.00  Västerås SK              0-2 (0-1)  Djurgårdens IF
+  16.30  AIK Solna                6-2 (3-0)  IFK Norrköping
+         Hammarby IF              1-2 (0-0)  IFK Värnamo
+  14.00  IF Elfsborg              3-1 (1-0)  Malmö FF
+[Mon May/6]
+  19.10  GAIS Göteborg            2-1 (1-0)  IFK Göteborg
+
+
+Matchday 8
+[Sat May/11]
+  15.00  Halmstads BK             1-3 (0-3)  Mjällby AIF
+  17.30  GAIS Göteborg            2-0 (2-0)  Västerås SK
+  15.00  AIK Solna                1-3 (0-1)  IK Sirius
+[Sun May/12]
+  14.00  IFK Norrköping           1-2 (1-1)  Hammarby IF
+  16.30  Djurgårdens IF           2-0 (0-0)  IF Elfsborg
+         IFK Värnamo              1-1 (1-0)  IF Brommapojkarna
+  14.00  BK Häcken                3-1 (1-1)  Kalmar FF
+[Mon May/13]
+  19.10  IFK Göteborg             0-3 (0-2)  Malmö FF
+
+
+Matchday 9
+[Wed May/15]
+  19.00  IF Elfsborg              6-1 (3-0)  AIK Solna
+         Mjällby AIF              3-0 (3-0)  Hammarby IF
+         Västerås SK              0-2 (0-1)  IFK Värnamo
+         Halmstads BK             3-0 (2-0)  BK Häcken
+[Thu May/16]
+  19.00  IF Brommapojkarna        0-5 (0-1)  Djurgårdens IF
+         IK Sirius                2-2 (1-0)  IFK Göteborg
+         Kalmar FF                1-1 (0-0)  IFK Norrköping
+         Malmö FF                 1-0 (0-0)  GAIS Göteborg
+
+
+Matchday 10
+[Sun May/19]
+  14.00  IF Brommapojkarna        2-1 (2-1)  IFK Norrköping
+  16.30  GAIS Göteborg            2-1 (2-1)  IF Elfsborg
+         IFK Värnamo              0-2 (0-2)  Kalmar FF
+  14.00  Hammarby IF              2-1 (0-0)  AIK Solna
+[Mon May/20]
+  19.00  Djurgårdens IF           2-0 (2-0)  Halmstads BK
+         IK Sirius                0-0  Västerås SK
+  19.10  BK Häcken                2-2 (0-1)  Malmö FF
+[Tue May/21]
+  19.00  IFK Göteborg             1-0 (0-0)  Mjällby AIF
+
+
+Matchday 11
+[Fri May/24]
+  19.00  Malmö FF                 5-0 (4-0)  Kalmar FF
+         IF Elfsborg              2-0 (0-0)  Halmstads BK
+[Sat May/25]
+  16.00  GAIS Göteborg            3-0 (2-0)  BK Häcken
+  17.30  Mjällby AIF              1-3 (0-2)  Djurgårdens IF
+[Sun May/26]
+  16.30  Västerås SK              1-1 (1-1)  IF Brommapojkarna
+  14.00  Hammarby IF              3-0 (1-0)  IK Sirius
+[Mon May/27]
+  19.10  AIK Solna                5-2 (1-1)  IFK Göteborg
+  19.00  IFK Norrköping           0-4 (0-1)  IFK Värnamo
+
+
+Matchday 17
+[Tue May/28]
+  19.00  Malmö FF                 2-1 (1-1)  IF Elfsborg
+[Wed May/29]
+  19.00  Mjällby AIF              2-1 (1-0)  BK Häcken
+
+
+Matchday 12
+[Sat Jun/1]
+  17.30  IK Sirius                5-1 (3-0)  IFK Norrköping
+         Halmstads BK             4-0 (2-0)  GAIS Göteborg
+  15.00  IF Brommapojkarna        2-2 (1-1)  Malmö FF
+         IFK Göteborg             1-0 (1-0)  IF Elfsborg
+[Sun Jun/2]
+  16.30  BK Häcken                4-1 (2-0)  AIK Solna
+  14.00  Kalmar FF                0-4 (0-1)  Västerås SK
+         Djurgårdens IF           0-3 (0-2)  Hammarby IF
+  16.30  IFK Värnamo              1-2 (0-1)  Mjällby AIF
+
+
+Matchday 13
+[Sat Jul/6]
+  15.00  Mjällby AIF              3-2 (0-0)  IK Sirius
+         IF Elfsborg              3-0 (1-0)  IF Brommapojkarna
+[Sun Jul/7]
+  16.30  Malmö FF                 5-1 (2-1)  Halmstads BK
+         GAIS Göteborg            0-0  Hammarby IF
+  14.00  IFK Värnamo              2-0 (0-0)  IFK Göteborg
+         AIK Solna                1-2 (0-1)  Kalmar FF
+[Mon Jul/8]
+  19.00  IFK Norrköping           1-3 (0-1)  Djurgårdens IF
+         Västerås SK              1-2 (1-1)  BK Häcken
+
+
+Matchday 14
+[Sat Jul/13]
+  15.00  Mjällby AIF              2-1 (1-0)  Malmö FF
+  17.30  IK Sirius                3-1 (1-0)  GAIS Göteborg
+[Sun Jul/14]
+  16.30  Västerås SK              2-1 (0-0)  IFK Norrköping
+         Kalmar FF                0-1 (0-0)  IF Brommapojkarna
+  14.00  Djurgårdens IF           1-0 (1-0)  IFK Värnamo
+  16.30  BK Häcken                3-5 (2-1)  IF Elfsborg
+[Mon Jul/15]
+  19.00  Halmstads BK             1-2 (0-1)  AIK Solna
+         Hammarby IF              0-1 (0-1)  IFK Göteborg
+
+
+Matchday 15
+[Fri Jul/19]
+  19.00  IK Sirius                3-4 (2-0)  Malmö FF
+[Sat Jul/20]
+  15.00  Kalmar FF                2-1 (1-1)  Djurgårdens IF
+         IFK Värnamo              2-2 (0-2)  BK Häcken
+  17.30  IF Brommapojkarna        0-2 (0-0)  Hammarby IF
+[Sun Jul/21]
+  16.30  IFK Göteborg             1-1 (0-0)  Västerås SK
+         IF Elfsborg              3-1 (2-1)  Mjällby AIF
+  14.00  IFK Norrköping           1-0 (1-0)  Halmstads BK
+[Mon Jul/22]
+  19.00  GAIS Göteborg            2-0 (1-0)  AIK Solna
+
+
+Matchday 16
+[Sat Jul/27]
+  20.00  Halmstads BK             1-0 (0-0)  IFK Värnamo
+  17.30  IFK Göteborg             3-4 (1-1)  IF Brommapojkarna
+  15.00  IFK Norrköping           2-0 (1-0)  Kalmar FF
+  17.30  Malmö FF                 0-1 (0-0)  IK Sirius
+[Sun Jul/28]
+  16.30  BK Häcken                4-0 (2-0)  Västerås SK
+         Hammarby IF              3-0 (0-0)  Mjällby AIF
+         IF Elfsborg              1-2 (1-1)  Djurgårdens IF
+[Mon Jul/29]
+  19.00  AIK Solna                0-1 (0-1)  GAIS Göteborg
+
+
+Matchday 17
+[Sat Aug/3]
+  15.00  GAIS Göteborg            0-1 (0-0)  IFK Norrköping
+         Västerås SK              1-2 (1-2)  AIK Solna
+  17.30  IF Brommapojkarna        4-1 (3-1)  Halmstads BK
+[Sun Aug/4]
+  14.00  IFK Värnamo              2-4 (0-2)  IK Sirius
+  16.30  Kalmar FF                1-4 (0-1)  Hammarby IF
+  14.00  Djurgårdens IF           1-1 (0-0)  IFK Göteborg
+
+
+Matchday 18
+[Sat Aug/10]
+  15.00  IFK Norrköping           2-1 (0-0)  Västerås SK
+  17.30  IFK Göteborg             0-0  IFK Värnamo
+  15.00  Halmstads BK             0-1 (0-1)  Malmö FF
+[Sun Aug/11]
+  16.00  AIK Solna                1-0 (0-0)  Mjällby AIF
+         IF Elfsborg              2-1 (2-1)  GAIS Göteborg
+         IK Sirius                3-1 (0-0)  Kalmar FF
+[Mon Aug/12]
+  19.00  Hammarby IF              3-3 (3-1)  IF Brommapojkarna
+
+
+Matchday 19
+[Sat Aug/17]
+  15.00  IFK Göteborg             1-1 (0-0)  IK Sirius
+         Malmö FF                 2-1 (1-1)  IFK Norrköping
+         IFK Värnamo              0-3 (0-1)  Hammarby IF
+  17.30  Västerås SK              2-1 (0-1)  Kalmar FF
+[Sun Aug/18]
+  16.30  GAIS Göteborg            3-1 (2-0)  Halmstads BK
+  14.00  Djurgårdens IF           0-2 (0-1)  AIK Solna
+         IF Brommapojkarna        1-3 (0-1)  BK Häcken
+         Mjällby AIF              1-1 (1-1)  IF Elfsborg
+
+
+Matchday 20
+[Sat Aug/24]
+  15.00  Kalmar FF                2-2 (0-1)  Malmö FF
+[Sun Aug/25]
+  14.00  IF Elfsborg              3-1 (1-0)  IFK Göteborg
+         IK Sirius                0-1 (0-0)  Djurgårdens IF
+  16.30  AIK Solna                2-1 (2-1)  IF Brommapojkarna
+         BK Häcken                1-1 (1-0)  IFK Värnamo
+[Mon Aug/26]
+  19.00  IFK Norrköping           1-2 (0-2)  Mjällby AIF
+         Halmstads BK             0-1 (0-1)  Västerås SK
+         Hammarby IF              0-0  GAIS Göteborg
+
+
+Matchday 21
+[Sat Aug/31]
+  17.30  Västerås SK              1-2 (1-1)  IK Sirius
+  15.00  GAIS Göteborg            1-1 (1-1)  Kalmar FF
+         IFK Värnamo              0-1 (0-1)  AIK Solna
+  17.30  Mjällby AIF              3-1 (3-1)  Halmstads BK
+[Sun Sep/1]
+  14.00  IF Brommapojkarna        3-3 (2-1)  IF Elfsborg
+         Malmö FF                 4-0 (3-0)  Djurgårdens IF
+  16.30  IFK Göteborg             0-1 (0-0)  Hammarby IF
+         IFK Norrköping           3-3 (1-0)  BK Häcken
+
+
+Matchday 22
+[Sat Sep/14]
+  15.00  Västerås SK              2-3 (0-3)  GAIS Göteborg
+[Sun Sep/15]
+  16.30  Halmstads BK             0-1 (0-1)  IF Elfsborg
+  14.00  AIK Solna                0-0  Malmö FF
+         Djurgårdens IF           1-1 (1-1)  Mjällby AIF
+         IK Sirius                3-2 (1-1)  IF Brommapojkarna
+  16.30  BK Häcken                3-3 (1-2)  IFK Göteborg
+         Kalmar FF                3-1 (1-0)  IFK Värnamo
+[Mon Sep/16]
+  19.10  Hammarby IF              1-1 (1-0)  IFK Norrköping
+
+
+Matchday 24
+[Wed Sep/18]
+  19.00  GAIS Göteborg            -  Malmö FF
+
+
+Matchday 18
+[Thu Sep/19]
+  19.00  BK Häcken                -  Djurgårdens IF
+
+
+Matchday 24
+[Thu Sep/19]
+  19.00  IF Elfsborg              -  IFK Norrköping
+
+
+Matchday 23
+[Sat Sep/21]
+  17.30  IF Brommapojkarna        -  Mjällby AIF
+  15.00  Kalmar FF                -  AIK Solna
+[Sun Sep/22]
+  16.30  Malmö FF                 -  BK Häcken
+  14.00  IFK Värnamo              -  Västerås SK
+         IF Elfsborg              -  Hammarby IF
+         GAIS Göteborg            -  Djurgårdens IF
+[Mon Sep/23]
+  19.00  IFK Göteborg             -  Halmstads BK
+
+
+Matchday 24
+[Wed Sep/25]
+  19.00  Djurgårdens IF           -  IF Brommapojkarna
+         IK Sirius                -  AIK Solna
+         Mjällby AIF              -  IFK Värnamo
+[Thu Sep/26]
+  19.00  Halmstads BK             -  Kalmar FF
+         Hammarby IF              -  BK Häcken
+         Västerås SK              -  IFK Göteborg
+
+
+Matchday 25
+[Sun Sep/29]
+  14.00  AIK Solna                -  Hammarby IF
+  16.30  Kalmar FF                -  IF Elfsborg
+  14.00  Halmstads BK             -  IFK Norrköping
+         IFK Värnamo              -  Djurgårdens IF
+  16.30  BK Häcken                -  IK Sirius
+         Malmö FF                 -  Mjällby AIF
+[Mon Sep/30]
+  19.10  IFK Göteborg             -  GAIS Göteborg
+  19.00  IF Brommapojkarna        -  Västerås SK
+
+
+Matchday 23
+[Thu Oct/3]
+  19.00  IFK Norrköping           -  IK Sirius
+
+
+Matchday 26
+[Sat Oct/5]
+  15.00  Mjällby AIF              -  Västerås SK
+  17.30  IF Brommapojkarna        -  GAIS Göteborg
+  15.00  Hammarby IF              -  Halmstads BK
+[Sun Oct/6]
+  14.00  Djurgårdens IF           -  Kalmar FF
+  16.30  IFK Norrköping           -  IFK Göteborg
+         IK Sirius                -  IF Elfsborg
+         Malmö FF                 -  IFK Värnamo
+  14.00  AIK Solna                -  BK Häcken
+
+
+Matchday 27
+[Sat Oct/19]
+  15.00  IF Elfsborg              -  BK Häcken
+         Västerås SK              -  Malmö FF
+  17.30  Halmstads BK             -  IK Sirius
+[Sun Oct/20]
+  14.00  Kalmar FF                -  Mjällby AIF
+  16.30  GAIS Göteborg            -  IFK Värnamo
+  14.00  Hammarby IF              -  Djurgårdens IF
+[Mon Oct/21]
+  19.10  IFK Göteborg             -  AIK Solna
+  19.00  IFK Norrköping           -  IF Brommapojkarna
+
+
+Matchday 28
+[Sat Oct/26]
+  15.00  Mjällby AIF              -  GAIS Göteborg
+  17.30  IF Brommapojkarna        -  Kalmar FF
+  15.00  IK Sirius                -  Hammarby IF
+[Sun Oct/27]
+  14.00  AIK Solna                -  IF Elfsborg
+         IFK Värnamo              -  IFK Norrköping
+  16.30  BK Häcken                -  Halmstads BK
+[Mon Oct/28]
+  19.10  Malmö FF                 -  IFK Göteborg
+  19.00  Djurgårdens IF           -  Västerås SK
+
+
+Matchday 29
+[Sat Nov/2]
+  15.00  Hammarby IF              -  Malmö FF
+         IF Elfsborg              -  Västerås SK
+  17.30  IFK Göteborg             -  Kalmar FF
+[Sun Nov/3]
+  14.00  IF Brommapojkarna        -  IFK Värnamo
+  16.30  Halmstads BK             -  Djurgårdens IF
+         IK Sirius                -  Mjällby AIF
+  14.00  BK Häcken                -  GAIS Göteborg
+[Mon Nov/4]
+  19.10  IFK Norrköping           -  AIK Solna
+
+
+Matchday 30
+[Sun Nov/10]
+  15.00  Djurgårdens IF           -  IFK Norrköping
+         GAIS Göteborg            -  IK Sirius
+         Kalmar FF                -  BK Häcken
+         Malmö FF                 -  IF Brommapojkarna
+         Mjällby AIF              -  IFK Göteborg
+         IFK Värnamo              -  IF Elfsborg
+         Västerås SK              -  Hammarby IF
+         AIK Solna                -  Halmstads BK

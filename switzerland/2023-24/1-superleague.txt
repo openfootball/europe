@@ -3,7 +3,7 @@
 # Date       Sat Jul/22 2023 - Sat May/25 2024 (308d)
 # Teams      12
 # Matches    228
-# Stages     Regular Season (198)  Championship (15)  Relegation (15)
+# Stages     Regular Season (198)  Championship (15)  Playoffs - Relegation (15)
 
 
 # Regular Season
@@ -428,7 +428,7 @@ Matchday 38
          BSC Young Boys           3-0 (0-0)  FC Winterthur
 
 
-== Relegation
+== Playoffs - Relegation
 
 Matchday 34
 [Sat May/4]

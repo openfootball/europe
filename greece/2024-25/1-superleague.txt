@@ -1,5 +1,9 @@
 = Super League Greece 2024/25
 
+# Date       Sat Aug/17 2024 - Sun Mar/9 2025 (204d)
+# Teams      14
+# Matches    182
+
 
 
 Matchday 1
@@ -42,15 +46,15 @@ Matchday 3
 
 Matchday 4
 [Sat Sep/14]
-  18.00  Lamia                    -  GS Kallithea
-  20.00  Asteras Tripolis         -  Atromitos
+  18.00  Lamia                    0-0  GS Kallithea
+  20.00  Asteras Tripolis         1-2 (1-2)  Atromitos
 [Sun Sep/15]
-  18.30  Olympiakos Piraeus       -  Panetolikos
-  20.30  OFI Heraklion            -  Aris Saloniki
-         PAOK Saloniki            -  Panathinaikos
-  16.30  Panserraikos             -  Levadiakos
+  18.30  Olympiakos Piraeus       0-0  Panetolikos
+  20.30  OFI Heraklion            3-2 (1-0)  Aris Saloniki
+         PAOK Saloniki            0-0  Panathinaikos
+  16.30  Panserraikos             2-2 (2-0)  Levadiakos
 [Mon Sep/16]
-  20.00  AEK Athen                -  Volos NFC
+  20.00  AEK Athen                2-0 (1-0)  Volos NFC
 
 
 Matchday 5

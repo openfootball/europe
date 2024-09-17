@@ -3,7 +3,7 @@
 # Date       Fri Jul/28 2023 - Sun Jun/2 2024 (310d)
 # Teams      16
 # Matches    313
-# Stages     Regular Season (240)  Europe (30)  Championship (30)  Relegation (12)  ECL Playoff (1)
+# Stages     Regular Season (240)  Europe (30)  Championship (30)  Playoffs - Relegation (12)  ECL Playoff (1)
 
 
 # Regular Season
@@ -594,7 +594,7 @@ Matchday 10
          Union Saint-Gilloise     2-0 (1-0)  KRC Genk
 
 
-== Relegation
+== Playoffs - Relegation
 
 Matchday 1
 [Sat Apr/6]

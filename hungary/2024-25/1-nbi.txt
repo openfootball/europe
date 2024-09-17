@@ -1,0 +1,365 @@
+= Hungarian NB I 2024/25
+
+# Date       Fri Jul/26 2024 - Sat May/24 2025 (302d)
+# Teams      12
+# Matches    198
+
+
+
+Matchday 1
+[Fri Jul/26]
+  20.15  Nyíregyháza Spartacus    2-1 (1-0)  Győri ETO FC
+  18.00  Zalaegerszegi TE         0-1 (0-0)  MTK Budapest
+[Sun Jul/28]
+  18.50  Kecskeméti TE            0-0  Fehérvár FC
+         Újpest FC                1-2 (0-0)  Puskás FC
+         Diósgyöri VTK            2-2 (1-0)  Paksi SE
+
+
+Matchday 2
+[Fri Aug/2]
+  18.50  Győri ETO FC             0-3 (0-0)  Debreceni VSC
+[Sat Aug/3]
+  19.45  MTK Budapest             3-0 (1-0)  Nyíregyháza Spartacus
+  16.00  Fehérvár FC              3-1 (1-1)  Diósgyöri VTK
+  19.45  Ferencvárosi TC          1-0 (1-0)  Kecskeméti TE
+[Sun Aug/4]
+  18.50  Puskás FC                2-1 (1-0)  Zalaegerszegi TE
+         Paksi SE                 2-1 (1-0)  Újpest FC
+
+
+Matchday 3
+[Fri Aug/9]
+  18.50  Kecskeméti TE            1-1 (1-1)  Debreceni VSC
+[Sat Aug/10]
+  16.00  Diósgyöri VTK            0-2 (0-1)  Ferencvárosi TC
+  19.45  Zalaegerszegi TE         3-1 (1-0)  Paksi SE
+[Sun Aug/11]
+  15.45  Győri ETO FC             1-2 (1-1)  MTK Budapest
+  20.15  Puskás FC                3-1 (2-0)  Nyíregyháza Spartacus
+  18.00  Újpest FC                4-1 (3-0)  Fehérvár FC
+
+
+Matchday 4
+[Fri Aug/16]
+  20.00  Kecskeméti TE            2-1 (2-0)  Győri ETO FC
+[Sat Aug/17]
+  19.30  Ferencvárosi TC          1-0 (0-0)  Újpest FC
+  17.00  Debreceni VSC            0-1 (0-1)  Diósgyöri VTK
+[Sun Aug/18]
+  20.00  Puskás FC                1-0 (0-0)  MTK Budapest
+  15.30  Fehérvár FC              1-1 (0-0)  Zalaegerszegi TE
+  17.45  Paksi SE                 2-1 (2-1)  Nyíregyháza Spartacus
+
+
+Matchday 5
+[Fri Aug/23]
+  20.00  Újpest FC                3-0 (2-0)  Debreceni VSC
+[Sat Aug/24]
+  16.45  Diósgyöri VTK            1-0 (0-0)  Kecskeméti TE
+[Sun Aug/25]
+  17.45  Nyíregyháza Spartacus    3-3 (2-1)  Fehérvár FC
+
+
+Matchday 6
+[Fri Aug/30]
+  20.00  Fehérvár FC              1-0 (1-0)  MTK Budapest
+[Sat Aug/31]
+  17.45  Debreceni VSC            3-1 (0-1)  Zalaegerszegi TE
+  20.00  Diósgyöri VTK            0-0  Győri ETO FC
+[Sun Sep/1]
+  15.00  Kecskeméti TE            1-3 (1-1)  Újpest FC
+  19.45  Ferencvárosi TC          2-1 (1-0)  Nyíregyháza Spartacus
+  17.30  Paksi SE                 2-1 (0-1)  Puskás FC
+
+
+Matchday 7
+[Fri Sep/20]
+  20.00  MTK Budapest             -  Ferencvárosi TC
+[Sat Sep/21]
+  19.30  Nyíregyháza Spartacus    -  Debreceni VSC
+  17.00  Újpest FC                -  Diósgyöri VTK
+  14.30  Zalaegerszegi TE         -  Kecskeméti TE
+[Sun Sep/22]
+  16.30  Puskás FC                -  Fehérvár FC
+  19.00  Győri ETO FC             -  Paksi SE
+
+
+Matchday 8
+[Fri Sep/27]
+  20.00  Újpest FC                -  Győri ETO FC
+[Sat Sep/28]
+  17.00  Kecskeméti TE            -  Nyíregyháza Spartacus
+  19.30  Debreceni VSC            -  MTK Budapest
+  15.00  Diósgyöri VTK            -  Zalaegerszegi TE
+[Sun Sep/29]
+  18.00  Ferencvárosi TC          -  Puskás FC
+  15.30  Fehérvár FC              -  Paksi SE
+
+
+Matchday 9
+[Fri Oct/4]
+  20.00  Puskás FC                -  Debreceni VSC
+[Sat Oct/5]
+  19.30  Nyíregyháza Spartacus    -  Diósgyöri VTK
+  17.00  MTK Budapest             -  Kecskeméti TE
+  14.30  Győri ETO FC             -  Fehérvár FC
+[Sun Oct/6]
+  15.30  Zalaegerszegi TE         -  Újpest FC
+  18.00  Paksi SE                 -  Ferencvárosi TC
+
+
+Matchday 10
+[Sat Oct/19]
+  Újpest FC                -  Nyíregyháza Spartacus
+  Diósgyöri VTK            -  MTK Budapest
+  Kecskeméti TE            -  Puskás FC
+  Ferencvárosi TC          -  Fehérvár FC
+  Debreceni VSC            -  Paksi SE
+  Zalaegerszegi TE         -  Győri ETO FC
+
+
+Matchday 11
+[Sat Oct/26]
+  Nyíregyháza Spartacus    -  Zalaegerszegi TE
+  Paksi SE                 -  Kecskeméti TE
+  MTK Budapest             -  Újpest FC
+  Puskás FC                -  Diósgyöri VTK
+  Fehérvár FC              -  Debreceni VSC
+  Győri ETO FC             -  Ferencvárosi TC
+
+
+Matchday 12
+[Sat Nov/2]
+  MTK Budapest             -  Zalaegerszegi TE
+  Puskás FC                -  Újpest FC
+  Paksi SE                 -  Diósgyöri VTK
+  Győri ETO FC             -  Nyíregyháza Spartacus
+  Fehérvár FC              -  Kecskeméti TE
+  Ferencvárosi TC          -  Debreceni VSC
+
+
+Matchday 13
+[Sat Nov/9]
+  Újpest FC                -  Paksi SE
+  Nyíregyháza Spartacus    -  MTK Budapest
+  Kecskeméti TE            -  Ferencvárosi TC
+  Diósgyöri VTK            -  Fehérvár FC
+  Debreceni VSC            -  Győri ETO FC
+  Zalaegerszegi TE         -  Puskás FC
+
+
+Matchday 14
+[Sat Nov/23]
+  Paksi SE                 -  Zalaegerszegi TE
+  Fehérvár FC              -  Újpest FC
+  MTK Budapest             -  Győri ETO FC
+  Ferencvárosi TC          -  Diósgyöri VTK
+  Debreceni VSC            -  Kecskeméti TE
+  Nyíregyháza Spartacus    -  Puskás FC
+
+
+Matchday 15
+[Sat Nov/30]
+  Nyíregyháza Spartacus    -  Paksi SE
+  Újpest FC                -  Ferencvárosi TC
+  MTK Budapest             -  Puskás FC
+  Zalaegerszegi TE         -  Fehérvár FC
+  Diósgyöri VTK            -  Debreceni VSC
+  Győri ETO FC             -  Kecskeméti TE
+
+
+Matchday 1
+[Wed Dec/4]
+  19.00  Debreceni VSC            -  Ferencvárosi TC
+
+
+Matchday 5
+[Wed Dec/4]
+  19.00  Győri ETO FC             -  Puskás FC
+         MTK Budapest             -  Paksi SE
+
+
+Matchday 16
+[Sat Dec/7]
+  Puskás FC                -  Győri ETO FC
+  Debreceni VSC            -  Újpest FC
+  Fehérvár FC              -  Nyíregyháza Spartacus
+  Ferencvárosi TC          -  Zalaegerszegi TE
+  Kecskeméti TE            -  Diósgyöri VTK
+  Paksi SE                 -  MTK Budapest
+
+
+Matchday 17
+[Sat Dec/14]
+  Zalaegerszegi TE         -  Debreceni VSC
+  Győri ETO FC             -  Diósgyöri VTK
+  MTK Budapest             -  Fehérvár FC
+  Nyíregyháza Spartacus    -  Ferencvárosi TC
+  Puskás FC                -  Paksi SE
+  Újpest FC                -  Kecskeméti TE
+
+
+Matchday 18
+[Sat Feb/1]
+  Debreceni VSC            -  Nyíregyháza Spartacus
+  Diósgyöri VTK            -  Újpest FC
+  Fehérvár FC              -  Puskás FC
+  Ferencvárosi TC          -  MTK Budapest
+  Kecskeméti TE            -  Zalaegerszegi TE
+  Paksi SE                 -  Győri ETO FC
+
+
+Matchday 5
+[Wed Feb/5]
+  19.00  Zalaegerszegi TE         -  Ferencvárosi TC
+
+
+Matchday 19
+[Sat Feb/8]
+  Győri ETO FC             -  Újpest FC
+  MTK Budapest             -  Debreceni VSC
+  Nyíregyháza Spartacus    -  Kecskeméti TE
+  Paksi SE                 -  Fehérvár FC
+  Puskás FC                -  Ferencvárosi TC
+  Zalaegerszegi TE         -  Diósgyöri VTK
+
+
+Matchday 20
+[Sat Feb/15]
+  Diósgyöri VTK            -  Nyíregyháza Spartacus
+  Fehérvár FC              -  Győri ETO FC
+  Ferencvárosi TC          -  Paksi SE
+  Kecskeméti TE            -  MTK Budapest
+  Újpest FC                -  Zalaegerszegi TE
+  Debreceni VSC            -  Puskás FC
+
+
+Matchday 21
+[Sat Feb/22]
+  Fehérvár FC              -  Ferencvárosi TC
+  Győri ETO FC             -  Zalaegerszegi TE
+  MTK Budapest             -  Diósgyöri VTK
+  Nyíregyháza Spartacus    -  Újpest FC
+  Paksi SE                 -  Debreceni VSC
+  Puskás FC                -  Kecskeméti TE
+
+
+Matchday 22
+[Sat Mar/1]
+  Diósgyöri VTK            -  Puskás FC
+  Ferencvárosi TC          -  Győri ETO FC
+  Kecskeméti TE            -  Paksi SE
+  Újpest FC                -  MTK Budapest
+  Zalaegerszegi TE         -  Nyíregyháza Spartacus
+  Debreceni VSC            -  Fehérvár FC
+
+
+Matchday 23
+[Sat Mar/8]
+  Debreceni VSC            -  Ferencvárosi TC
+  Diósgyöri VTK            -  Paksi SE
+  Kecskeméti TE            -  Fehérvár FC
+  Nyíregyháza Spartacus    -  Győri ETO FC
+  Újpest FC                -  Puskás FC
+  Zalaegerszegi TE         -  MTK Budapest
+
+
+Matchday 24
+[Sun Mar/16]
+  Ferencvárosi TC          -  Kecskeméti TE
+  Győri ETO FC             -  Debreceni VSC
+  MTK Budapest             -  Nyíregyháza Spartacus
+  Paksi SE                 -  Újpest FC
+  Puskás FC                -  Zalaegerszegi TE
+  Fehérvár FC              -  Diósgyöri VTK
+
+
+Matchday 25
+[Sat Mar/29]
+  Diósgyöri VTK            -  Ferencvárosi TC
+  Győri ETO FC             -  MTK Budapest
+  Kecskeméti TE            -  Debreceni VSC
+  Nyíregyháza Spartacus    -  Puskás FC
+  Újpest FC                -  Fehérvár FC
+  Zalaegerszegi TE         -  Paksi SE
+
+
+Matchday 26
+[Sat Apr/5]
+  Fehérvár FC              -  Zalaegerszegi TE
+  Ferencvárosi TC          -  Újpest FC
+  Kecskeméti TE            -  Győri ETO FC
+  Paksi SE                 -  Nyíregyháza Spartacus
+  Puskás FC                -  MTK Budapest
+  Debreceni VSC            -  Diósgyöri VTK
+
+
+Matchday 27
+[Sat Apr/12]
+  Diósgyöri VTK            -  Kecskeméti TE
+  Győri ETO FC             -  Puskás FC
+  MTK Budapest             -  Paksi SE
+  Nyíregyháza Spartacus    -  Fehérvár FC
+  Újpest FC                -  Debreceni VSC
+  Zalaegerszegi TE         -  Ferencvárosi TC
+
+
+Matchday 28
+[Sat Apr/19]
+  Debreceni VSC            -  Zalaegerszegi TE
+  Diósgyöri VTK            -  Győri ETO FC
+  Fehérvár FC              -  MTK Budapest
+  Ferencvárosi TC          -  Nyíregyháza Spartacus
+  Kecskeméti TE            -  Újpest FC
+  Paksi SE                 -  Puskás FC
+
+
+Matchday 29
+[Sat Apr/26]
+  MTK Budapest             -  Ferencvárosi TC
+  Nyíregyháza Spartacus    -  Debreceni VSC
+  Puskás FC                -  Fehérvár FC
+  Újpest FC                -  Diósgyöri VTK
+  Zalaegerszegi TE         -  Kecskeméti TE
+  Győri ETO FC             -  Paksi SE
+
+
+Matchday 30
+[Sat May/3]
+  Debreceni VSC            -  MTK Budapest
+  Diósgyöri VTK            -  Zalaegerszegi TE
+  Fehérvár FC              -  Paksi SE
+  Ferencvárosi TC          -  Puskás FC
+  Kecskeméti TE            -  Nyíregyháza Spartacus
+  Újpest FC                -  Győri ETO FC
+
+
+Matchday 31
+[Sat May/10]
+  MTK Budapest             -  Kecskeméti TE
+  Nyíregyháza Spartacus    -  Diósgyöri VTK
+  Paksi SE                 -  Ferencvárosi TC
+  Puskás FC                -  Debreceni VSC
+  Zalaegerszegi TE         -  Újpest FC
+  Győri ETO FC             -  Fehérvár FC
+
+
+Matchday 32
+[Sat May/17]
+  Debreceni VSC            -  Paksi SE
+  Diósgyöri VTK            -  MTK Budapest
+  Ferencvárosi TC          -  Fehérvár FC
+  Kecskeméti TE            -  Puskás FC
+  Újpest FC                -  Nyíregyháza Spartacus
+  Zalaegerszegi TE         -  Győri ETO FC
+
+
+Matchday 33
+[Sat May/24]
+  Győri ETO FC             -  Ferencvárosi TC
+  MTK Budapest             -  Újpest FC
+  Nyíregyháza Spartacus    -  Zalaegerszegi TE
+  Paksi SE                 -  Kecskeméti TE
+  Puskás FC                -  Diósgyöri VTK
+  Fehérvár FC              -  Debreceni VSC

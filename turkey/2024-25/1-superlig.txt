@@ -1,5 +1,9 @@
 = Turkish Süper Lig 2024/25
 
+# Date       Fri Aug/9 2024 - Sun Jun/1 2025 (296d)
+# Teams      19
+# Matches    342
+
 
 
 Matchday 1
@@ -63,17 +67,17 @@ Matchday 4
 
 Matchday 5
 [Sat Sep/14]
-  20.00  Bodrum FK                -  İstanbul Başakşehir
-  17.00  Samsunspor               -  Konyaspor
-  20.00  Galatasaray              -  Çaykur Rizespor
-  17.00  Sivasspor                -  Gaziantep FK
+  20.00  Bodrum FK                0-1 (0-0)  İstanbul Başakşehir
+  17.00  Samsunspor               0-1 (0-1)  Konyaspor
+  20.00  Galatasaray              5-0 (2-0)  Çaykur Rizespor
+  17.00  Sivasspor                3-2 (1-1)  Gaziantep FK
 [Sun Sep/15]
-  20.00  Alanyaspor               -  Hatayspor
-  17.00  Kayserispor              -  Eyüpspor
-  20.00  Trabzonspor              -  Beşiktaş
-  17.00  Kasımpaşa SK             -  Fenerbahçe
+  20.00  Alanyaspor               0-0  Hatayspor
+  17.00  Kayserispor              2-2 (0-2)  Eyüpspor
+  20.00  Trabzonspor              1-1 (1-1)  Beşiktaş
+  17.00  Kasımpaşa SK             0-2 (0-2)  Fenerbahçe
 [Mon Sep/16]
-  20.00  Antalyaspor              -  Adana Demirspor
+  20.00  Antalyaspor              2-1 (0-0)  Adana Demirspor
 
 
 Matchday 3
@@ -97,151 +101,180 @@ Matchday 6
          Beşiktaş                 -  Eyüpspor
   17.00  Çaykur Rizespor          -  Samsunspor
 [Mon Sep/23]
-  20.00  Göztepe                  -  Kayserispor
-         Gaziantep FK             -  Trabzonspor
+  20.00  Gaziantep FK             -  Trabzonspor
+         Göztepe                  -  Kayserispor
 
 
 Matchday 7
+[Fri Sep/27]
+  20.00  Sivasspor                -  İstanbul Başakşehir
+[Sat Sep/28]
+  19.00  Alanyaspor               -  Çaykur Rizespor
+         Galatasaray              -  Kasımpaşa SK
+  16.00  Samsunspor               -  Göztepe
 [Sun Sep/29]
-  Sivasspor                -  İstanbul Başakşehir
-  Alanyaspor               -  Çaykur Rizespor
-  Kayserispor              -  Beşiktaş
-  Antalyaspor              -  Fenerbahçe
-  Samsunspor               -  Göztepe
-  Trabzonspor              -  Konyaspor
-  Galatasaray              -  Kasımpaşa SK
-  Eyüpspor                 -  Gaziantep FK
-  Bodrum FK                -  Adana Demirspor
+  16.00  Trabzonspor              -  Konyaspor
+         Eyüpspor                 -  Gaziantep FK
+  19.00  Antalyaspor              -  Fenerbahçe
+         Bodrum FK                -  Adana Demirspor
+[Mon Sep/30]
+  20.00  Kayserispor              -  Beşiktaş
 
 
 Matchday 8
+[Fri Oct/4]
+  20.00  Çaykur Rizespor          -  Antalyaspor
+[Sat Oct/5]
+  16.00  Göztepe                  -  Sivasspor
+  19.00  İstanbul Başakşehir      -  Kayserispor
+         Hatayspor                -  Trabzonspor
+  13.30  Kasımpaşa SK             -  Bodrum FK
 [Sun Oct/6]
-  Göztepe                  -  Sivasspor
-  Gaziantep FK             -  Beşiktaş
-  Galatasaray              -  Alanyaspor
-  İstanbul Başakşehir      -  Kayserispor
-  Çaykur Rizespor          -  Antalyaspor
-  Adana Demirspor          -  Samsunspor
-  Konyaspor                -  Eyüpspor
-  Kasımpaşa SK             -  Bodrum FK
-  Hatayspor                -  Trabzonspor
+  16.00  Adana Demirspor          -  Samsunspor
+  19.00  Gaziantep FK             -  Beşiktaş
+         Galatasaray              -  Alanyaspor
+  13.30  Konyaspor                -  Eyüpspor
 
 
 Matchday 9
+[Sat Oct/19]
+  13.30  Kayserispor              -  Gaziantep FK
+  16.00  Trabzonspor              -  İstanbul Başakşehir
+  19.00  Antalyaspor              -  Galatasaray
+         Eyüpspor                 -  Göztepe
 [Sun Oct/20]
-  Beşiktaş                 -  Konyaspor
-  Sivasspor                -  Hatayspor
-  Alanyaspor               -  Kasımpaşa SK
-  Antalyaspor              -  Galatasaray
-  Kayserispor              -  Gaziantep FK
-  Samsunspor               -  Fenerbahçe
-  Trabzonspor              -  İstanbul Başakşehir
-  Eyüpspor                 -  Göztepe
-  Bodrum FK                -  Çaykur Rizespor
+  16.00  Beşiktaş                 -  Konyaspor
+  19.00  Alanyaspor               -  Kasımpaşa SK
+         Samsunspor               -  Fenerbahçe
+  13.30  Sivasspor                -  Hatayspor
+[Mon Oct/21]
+  20.00  Bodrum FK                -  Çaykur Rizespor
 
 
 Matchday 10
+[Fri Oct/25]
+  20.00  Adana Demirspor          -  Sivasspor
+[Sat Oct/26]
+  16.00  Kasımpaşa SK             -  Samsunspor
+  19.00  Göztepe                  -  Trabzonspor
+  13.30  Hatayspor                -  Kayserispor
 [Sun Oct/27]
-  Göztepe                  -  Trabzonspor
-  Gaziantep FK             -  Konyaspor
-  Galatasaray              -  Beşiktaş
-  İstanbul Başakşehir      -  Eyüpspor
-  Adana Demirspor          -  Sivasspor
-  Alanyaspor               -  Antalyaspor
-  Kasımpaşa SK             -  Samsunspor
-  Hatayspor                -  Kayserispor
-  Fenerbahçe               -  Bodrum FK
+  13.30  Gaziantep FK             -  Konyaspor
+  16.00  Alanyaspor               -  Antalyaspor
+  19.00  Fenerbahçe               -  Bodrum FK
+[Mon Oct/28]
+  20.00  Galatasaray              -  Beşiktaş
+  17.00  İstanbul Başakşehir      -  Eyüpspor
 
 
 Matchday 11
+[Fri Nov/1]
+  20.00  Gaziantep FK             -  Göztepe
+[Sat Nov/2]
+  16.00  Kayserispor              -  Adana Demirspor
+  19.00  Beşiktaş                 -  Kasımpaşa SK
+  13.30  Sivasspor                -  Çaykur Rizespor
 [Sun Nov/3]
-  Beşiktaş                 -  Kasımpaşa SK
-  Sivasspor                -  Çaykur Rizespor
-  Kayserispor              -  Adana Demirspor
-  Konyaspor                -  İstanbul Başakşehir
-  Trabzonspor              -  Fenerbahçe
-  Samsunspor               -  Antalyaspor
-  Eyüpspor                 -  Hatayspor
-  Gaziantep FK             -  Göztepe
-  Bodrum FK                -  Alanyaspor
+  13.30  Konyaspor                -  İstanbul Başakşehir
+  16.00  Eyüpspor                 -  Hatayspor
+         Bodrum FK                -  Alanyaspor
+  19.00  Trabzonspor              -  Fenerbahçe
+[Mon Nov/4]
+  20.00  Samsunspor               -  Antalyaspor
 
 
 Matchday 12
+[Fri Nov/8]
+  20.00  Kasımpaşa SK             -  Kayserispor
+[Sat Nov/9]
+  16.00  Hatayspor                -  Gaziantep FK
+  19.00  Çaykur Rizespor          -  Trabzonspor
+         Adana Demirspor          -  Eyüpspor
+  13.30  Antalyaspor              -  Bodrum FK
 [Sun Nov/10]
-  Göztepe                  -  Konyaspor
-  Galatasaray              -  Samsunspor
-  İstanbul Başakşehir      -  Beşiktaş
-  Çaykur Rizespor          -  Trabzonspor
-  Adana Demirspor          -  Eyüpspor
-  Antalyaspor              -  Bodrum FK
-  Kasımpaşa SK             -  Kayserispor
-  Hatayspor                -  Gaziantep FK
-  Fenerbahçe               -  Sivasspor
+  13.30  Göztepe                  -  Konyaspor
+  16.00  Galatasaray              -  Samsunspor
+  19.00  İstanbul Başakşehir      -  Beşiktaş
+         Fenerbahçe               -  Sivasspor
 
 
 Matchday 13
+[Sat Nov/23]
+  16.00  Kayserispor              -  Fenerbahçe
+         Gaziantep FK             -  İstanbul Başakşehir
+  20.00  Bodrum FK                -  Galatasaray
+  13.30  Eyüpspor                 -  Çaykur Rizespor
 [Sun Nov/24]
-  Beşiktaş                 -  Göztepe
-  Sivasspor                -  Kasımpaşa SK
-  Kayserispor              -  Fenerbahçe
-  Konyaspor                -  Hatayspor
-  Samsunspor               -  Alanyaspor
-  Trabzonspor              -  Adana Demirspor
-  Eyüpspor                 -  Çaykur Rizespor
-  Bodrum FK                -  Galatasaray
-  Gaziantep FK             -  İstanbul Başakşehir
+  13.30  Sivasspor                -  Kasımpaşa SK
+  16.00  Konyaspor                -  Hatayspor
+         Samsunspor               -  Alanyaspor
+  19.00  Beşiktaş                 -  Göztepe
+[Mon Nov/25]
+  20.00  Trabzonspor              -  Adana Demirspor
 
 
 Matchday 14
+[Fri Nov/29]
+  20.00  Antalyaspor              -  Sivasspor
+[Sat Nov/30]
+  16.00  Adana Demirspor          -  Konyaspor
+  19.00  İstanbul Başakşehir      -  Göztepe
+         Alanyaspor               -  Trabzonspor
+  13.30  Samsunspor               -  Bodrum FK
 [Sun Dec/1]
-  Galatasaray              -  Eyüpspor
-  İstanbul Başakşehir      -  Göztepe
-  Çaykur Rizespor          -  Kayserispor
-  Samsunspor               -  Bodrum FK
-  Adana Demirspor          -  Konyaspor
-  Antalyaspor              -  Sivasspor
-  Alanyaspor               -  Trabzonspor
-  Hatayspor                -  Beşiktaş
-  Fenerbahçe               -  Gaziantep FK
+  16.00  Çaykur Rizespor          -  Kayserispor
+  19.00  Galatasaray              -  Eyüpspor
+[Mon Dec/2]
+  20.00  Fenerbahçe               -  Gaziantep FK
+         Hatayspor                -  Beşiktaş
 
 
 Matchday 15
+[Fri Dec/6]
+  20.00  Trabzonspor              -  Kasımpaşa SK
+[Sat Dec/7]
+  13.30  Konyaspor                -  Antalyaspor
+  16.00  Göztepe                  -  Adana Demirspor
+  19.00  Beşiktaş                 -  Fenerbahçe
 [Sun Dec/8]
-  Beşiktaş                 -  Fenerbahçe
-  Sivasspor                -  Galatasaray
-  Kayserispor              -  Alanyaspor
-  Konyaspor                -  Antalyaspor
-  Trabzonspor              -  Kasımpaşa SK
-  Eyüpspor                 -  Samsunspor
-  İstanbul Başakşehir      -  Hatayspor
-  Gaziantep FK             -  Çaykur Rizespor
-  Göztepe                  -  Adana Demirspor
+  16.00  Sivasspor                -  Galatasaray
+         Kayserispor              -  Alanyaspor
+  19.00  İstanbul Başakşehir      -  Hatayspor
+  13.30  Eyüpspor                 -  Samsunspor
+[Mon Dec/9]
+  20.00  Gaziantep FK             -  Çaykur Rizespor
 
 
 Matchday 16
+[Fri Dec/13]
+  20.00  Kasımpaşa SK             -  Eyüpspor
+         Bodrum FK                -  Sivasspor
+[Sat Dec/14]
+  16.00  Çaykur Rizespor          -  Konyaspor
+  19.00  Alanyaspor               -  Gaziantep FK
 [Sun Dec/15]
-  Bodrum FK                -  Sivasspor
-  Çaykur Rizespor          -  Konyaspor
-  Galatasaray              -  Trabzonspor
-  Adana Demirspor          -  Beşiktaş
-  Antalyaspor              -  Kayserispor
-  Alanyaspor               -  Gaziantep FK
-  Kasımpaşa SK             -  Eyüpspor
-  Hatayspor                -  Göztepe
-  Fenerbahçe               -  İstanbul Başakşehir
+  16.00  Antalyaspor              -  Kayserispor
+  19.00  Fenerbahçe               -  İstanbul Başakşehir
+  13.30  Hatayspor                -  Göztepe
+[Mon Dec/16]
+  21.00  Galatasaray              -  Trabzonspor
+  19.00  Adana Demirspor          -  Beşiktaş
 
 
 Matchday 17
+[Fri Dec/20]
+  20.00  Eyüpspor                 -  Fenerbahçe
+[Sat Dec/21]
+  19.00  Beşiktaş                 -  Alanyaspor
+  16.00  Sivasspor                -  Samsunspor
 [Sun Dec/22]
-  Beşiktaş                 -  Alanyaspor
-  Hatayspor                -  Adana Demirspor
-  Sivasspor                -  Samsunspor
-  Kayserispor              -  Galatasaray
-  Trabzonspor              -  Bodrum FK
-  Eyüpspor                 -  Fenerbahçe
-  İstanbul Başakşehir      -  Kasımpaşa SK
-  Gaziantep FK             -  Antalyaspor
-  Göztepe                  -  Çaykur Rizespor
+  13.30  Gaziantep FK             -  Antalyaspor
+  16.00  Kayserispor              -  Galatasaray
+         Göztepe                  -  Çaykur Rizespor
+  19.00  Trabzonspor              -  Bodrum FK
+[Mon Dec/23]
+  20.00  İstanbul Başakşehir      -  Kasımpaşa SK
+         Hatayspor                -  Adana Demirspor
 
 
 Matchday 18

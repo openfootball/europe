@@ -3,7 +3,7 @@
 # Date       Sat Jul/22 2023 - Fri May/31 2024 (314d)
 # Teams      16
 # Matches    277
-# Stages     Regular Season (240)  Abstieg (15)  Meisterschaft (15)  Platzierung (6)  ECL Playoff (1)
+# Stages     Regular Season (240)  Playoffs - Relegation (15)  Playoffs - Championship (15)  Platzierung (6)  ECL Playoff (1)
 
 
 # Regular Season
@@ -425,7 +425,7 @@ Matchday 30
          Viktoria Plzeň           3-0 (0-0)  FK Teplice
 
 
-== Abstieg
+== Playoffs - Relegation
 
 Matchday 1
 [Sat May/4]
@@ -462,7 +462,7 @@ Matchday 5
          Bohemians Praha 1905     0-1 (0-0)  FK Pardubice
 
 
-== Meisterschaft
+== Playoffs - Championship
 
 Matchday 1
 [Sat May/4]

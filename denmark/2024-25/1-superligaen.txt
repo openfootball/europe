@@ -1,0 +1,262 @@
+= Denmark Superligaen 2024/25
+
+# Date       Fri Jul/19 2024 - Sun Mar/16 2025 (240d)
+# Teams      12
+# Matches    132
+
+
+
+Matchday 1
+[Fri Jul/19]
+  20.00  FC Nordsjælland          3-0 (2-0)  Aalborg BK
+  18.00  Aarhus GF                1-1 (1-0)  FC Midtjylland
+[Sun Jul/21]
+  16.00  Vejle BK                 2-3 (1-0)  Randers FC
+  18.00  Viborg FF                3-3 (2-1)  Brøndby IF
+  14.00  Silkeborg IF             1-0 (0-0)  SønderjyskE
+[Mon Jul/22]
+  19.00  Lyngby BK                0-2 (0-2)  FC København
+
+
+Matchday 2
+[Fri Jul/26]
+  19.00  SønderjyskE              1-1 (1-1)  Lyngby BK
+[Sat Jul/27]
+  16.00  FC Nordsjælland          2-2 (2-2)  FC Midtjylland
+[Sun Jul/28]
+  16.00  Aalborg BK               2-1 (1-0)  Silkeborg IF
+  18.00  FC København             3-2 (1-2)  Aarhus GF
+  14.00  Randers FC               3-1 (2-1)  Viborg FF
+[Mon Jul/29]
+  19.00  Brøndby IF               2-1 (0-1)  Vejle BK
+
+
+Matchday 3
+[Fri Aug/2]
+  19.00  Aarhus GF                4-0 (2-0)  SønderjyskE
+[Sat Aug/3]
+  16.00  FC Midtjylland           2-0 (1-0)  Aalborg BK
+[Sun Aug/4]
+  14.00  Silkeborg IF             3-2 (3-0)  Viborg FF
+  16.00  FC København             1-1 (0-1)  Randers FC
+  18.00  Lyngby BK                0-2 (0-2)  Brøndby IF
+[Mon Aug/5]
+  19.00  Vejle BK                 0-1 (0-0)  FC Nordsjælland
+
+
+Matchday 4
+[Fri Aug/9]
+  19.00  FC Midtjylland           2-0 (1-0)  Vejle BK
+[Sun Aug/11]
+  14.00  FC Nordsjælland          1-1 (1-1)  Lyngby BK
+  16.00  Brøndby IF               0-1 (0-0)  Aarhus GF
+  18.00  SønderjyskE              0-2 (0-1)  FC København
+  14.00  Randers FC               0-2 (0-0)  Silkeborg IF
+[Mon Aug/12]
+  19.00  Viborg FF                2-3 (2-2)  Aalborg BK
+
+
+Matchday 5
+[Fri Aug/16]
+  19.00  Lyngby BK                1-2 (0-0)  FC Midtjylland
+[Sun Aug/18]
+  14.00  Silkeborg IF             4-1 (2-1)  FC Nordsjælland
+  16.00  FC København             1-1 (0-0)  Viborg FF
+  18.00  Aalborg BK               0-4 (0-2)  Brøndby IF
+  14.00  Randers FC               1-2 (1-1)  SønderjyskE
+[Mon Aug/19]
+  19.00  Aarhus GF                5-1 (3-1)  Vejle BK
+
+
+Matchday 6
+[Fri Aug/23]
+  19.00  Aalborg BK               0-4 (0-3)  Aarhus GF
+[Sat Aug/24]
+  16.00  FC Midtjylland           3-2 (1-2)  SønderjyskE
+[Sun Aug/25]
+  14.00  Vejle BK                 1-3 (0-0)  Silkeborg IF
+  16.00  FC Nordsjælland          3-2 (3-0)  FC København
+  18.00  Brøndby IF               2-2 (0-1)  Randers FC
+[Mon Aug/26]
+  19.00  Viborg FF                1-0 (0-0)  Lyngby BK
+
+
+Matchday 7
+[Fri Aug/30]
+  19.00  Lyngby BK                1-0 (1-0)  Vejle BK
+[Sat Aug/31]
+  16.00  Aarhus GF                4-2 (1-2)  FC Nordsjælland
+[Sun Sep/1]
+  14.00  FC København             3-1 (2-0)  Brøndby IF
+  16.00  Silkeborg IF             1-3 (1-2)  FC Midtjylland
+  18.00  Randers FC               1-0 (1-0)  Aalborg BK
+  14.00  SønderjyskE              2-2 (2-0)  Viborg FF
+
+
+Matchday 8
+[Fri Sep/13]
+  19.00  Aalborg BK               2-1 (1-0)  Lyngby BK
+[Sat Sep/14]
+  18.00  FC Midtjylland           2-1 (0-1)  FC København
+[Sun Sep/15]
+  16.00  Vejle BK                 0-5 (0-1)  Viborg FF
+  18.00  Brøndby IF               2-0 (1-0)  SønderjyskE
+  14.00  Aarhus GF                1-1 (1-1)  Silkeborg IF
+[Mon Sep/16]
+  19.00  FC Nordsjælland          1-1 (0-0)  Randers FC
+
+
+Matchday 9
+[Fri Sep/20]
+  19.00  Viborg FF                -  FC Nordsjælland
+[Sun Sep/22]
+  14.00  SønderjyskE              -  Vejle BK
+         Randers FC               -  FC Midtjylland
+  16.00  Lyngby BK                -  Aarhus GF
+  18.00  Silkeborg IF             -  Brøndby IF
+[Mon Sep/23]
+  19.00  FC København             -  Aalborg BK
+
+
+Matchday 10
+[Sat Sep/28]
+  16.00  Aarhus GF                -  Randers FC
+[Sun Sep/29]
+  14.00  Aalborg BK               -  SønderjyskE
+  16.00  Lyngby BK                -  Silkeborg IF
+  18.00  Vejle BK                 -  FC København
+  14.00  FC Midtjylland           -  Viborg FF
+[Mon Sep/30]
+  19.00  FC Nordsjælland          -  Brøndby IF
+
+
+Matchday 11
+[Fri Oct/4]
+  19.00  Vejle BK                 -  Aalborg BK
+[Sun Oct/6]
+  14.00  Randers FC               -  Lyngby BK
+  16.00  Viborg FF                -  Aarhus GF
+  18.00  Brøndby IF               -  FC Midtjylland
+  20.00  Silkeborg IF             -  FC København
+  14.00  SønderjyskE              -  FC Nordsjælland
+
+
+Matchday 12
+[Fri Oct/18]
+  19.00  FC København             -  Vejle BK
+[Sun Oct/20]
+  14.00  Aalborg BK               -  Randers FC
+  16.00  FC Nordsjælland          -  Silkeborg IF
+  18.00  SønderjyskE              -  FC Midtjylland
+  14.00  Lyngby BK                -  Viborg FF
+[Mon Oct/21]
+  19.00  Aarhus GF                -  Brøndby IF
+
+
+Matchday 13
+[Fri Oct/25]
+  19.00  Silkeborg IF             -  Aalborg BK
+[Sun Oct/27]
+  12.00  Brøndby IF               -  FC København
+  14.00  Vejle BK                 -  Lyngby BK
+  16.00  Viborg FF                -  SønderjyskE
+  18.00  FC Midtjylland           -  Aarhus GF
+[Mon Oct/28]
+  19.00  Randers FC               -  FC Nordsjælland
+
+
+Matchday 14
+[Sat Nov/2]
+  17.00  SønderjyskE              -  Randers FC
+[Sun Nov/3]
+  14.00  FC Nordsjælland          -  Viborg FF
+         FC Midtjylland           -  Brøndby IF
+  16.00  Aarhus GF                -  Lyngby BK
+  18.00  Aalborg BK               -  Vejle BK
+[Mon Nov/4]
+  19.00  FC København             -  Silkeborg IF
+
+
+Matchday 15
+[Fri Nov/8]
+  19.00  Vejle BK                 -  SønderjyskE
+[Sun Nov/10]
+  14.00  Lyngby BK                -  Aalborg BK
+  16.00  Viborg FF                -  FC Midtjylland
+  18.00  Aarhus GF                -  FC København
+  20.00  Brøndby IF               -  FC Nordsjælland
+  14.00  Silkeborg IF             -  Randers FC
+
+
+Matchday 16
+[Fri Nov/22]
+  19.00  FC Nordsjælland          -  Aarhus GF
+[Sun Nov/24]
+  14.00  Aalborg BK               -  Viborg FF
+  16.00  SønderjyskE              -  Brøndby IF
+  18.00  FC København             -  Lyngby BK
+  14.00  Randers FC               -  Vejle BK
+[Mon Nov/25]
+  19.00  FC Midtjylland           -  Silkeborg IF
+
+
+Matchday 17
+[Fri Nov/29]
+  19.00  Brøndby IF               -  Aalborg BK
+[Sun Dec/1]
+  14.00  Lyngby BK                -  SønderjyskE
+         Viborg FF                -  Randers FC
+  16.00  Vejle BK                 -  FC Midtjylland
+  18.00  Silkeborg IF             -  Aarhus GF
+[Mon Dec/2]
+  19.00  FC København             -  FC Nordsjælland
+
+
+Matchday 18
+[Sun Feb/16]
+  Brøndby IF               -  Viborg FF
+  Silkeborg IF             -  Vejle BK
+  Aalborg BK               -  FC Nordsjælland
+  SønderjyskE              -  Aarhus GF
+  Randers FC               -  FC København
+  FC Midtjylland           -  Lyngby BK
+
+
+Matchday 19
+[Mon Feb/24]
+  FC Nordsjælland          -  SønderjyskE
+  Lyngby BK                -  Randers FC
+  Vejle BK                 -  Brøndby IF
+  Viborg FF                -  Silkeborg IF
+  Aarhus GF                -  Aalborg BK
+  FC København             -  FC Midtjylland
+
+
+Matchday 20
+[Sun Mar/2]
+  Brøndby IF               -  Lyngby BK
+  FC Midtjylland           -  FC Nordsjælland
+  Aalborg BK               -  FC København
+  Randers FC               -  Aarhus GF
+  SønderjyskE              -  Silkeborg IF
+  Viborg FF                -  Vejle BK
+
+
+Matchday 21
+[Sun Mar/9]
+  FC København             -  SønderjyskE
+  FC Nordsjælland          -  Vejle BK
+  Aalborg BK               -  FC Midtjylland
+  Randers FC               -  Brøndby IF
+  Silkeborg IF             -  Lyngby BK
+  Aarhus GF                -  Viborg FF
+
+
+Matchday 22
+[Sun Mar/16]
+  Brøndby IF               -  Silkeborg IF
+  FC Midtjylland           -  Randers FC
+  Lyngby BK                -  FC Nordsjælland
+  Vejle BK                 -  Aarhus GF
+  Viborg FF                -  FC København
+  SønderjyskE              -  Aalborg BK
