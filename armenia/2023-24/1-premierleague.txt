@@ -1,0 +1,412 @@
+= Armenian Premier League 2023/24
+
+# Date       Sat Jul/29 2023 - Sun May/26 2024 (302d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Jul/29]
+  19.00  FC Noah                  1-0 (1-0)  FK Van
+  17.00  FC West Armenia          2-4 (2-2)  Shirak FC
+[Sun Jul/30]
+  20.00  FC Ararat                1-3 (1-0)  FC Ararat-Armenia
+  18.00  BKMA Yerevan             1-2 (0-1)  FC Urartu
+[Mon Jul/31]
+  18.00  FC Alashkert             0-2 (0-1)  Pyunik FC
+
+
+Matchday 2
+[Fri Aug/4]
+  19.00  BKMA Yerevan             1-0 (0-0)  FC Noah
+[Sat Aug/5]
+  18.00  FK Van                   1-0 (0-0)  Shirak FC
+[Sun Aug/6]
+  19.00  Pyunik FC                1-1 (1-1)  FC Ararat
+[Mon Aug/7]
+  20.00  FC Urartu                2-1 (1-0)  FC Ararat-Armenia
+  18.00  FC West Armenia          1-4 (1-2)  FC Alashkert
+
+
+Matchday 3
+[Fri Aug/11]
+  19.00  Shirak FC                0-1 (0-0)  BKMA Yerevan
+[Sat Aug/12]
+  19.00  FC Ararat                1-0 (1-0)  FC West Armenia
+[Sun Aug/13]
+  19.00  FC Noah                  2-0 (1-0)  FC Urartu
+[Mon Aug/14]
+  17.00  FC Alashkert             0-0  FK Van
+
+
+Matchday 4
+[Fri Aug/18]
+  19.00  FC Noah                  4-0 (1-0)  Shirak FC
+[Sat Aug/19]
+  19.00  BKMA Yerevan             0-4 (0-1)  FC Alashkert
+  17.00  FK Van                   1-2 (0-1)  FC Ararat
+[Sun Aug/20]
+  17.00  FC West Armenia          1-4 (1-0)  FC Ararat-Armenia
+  19.00  FC Urartu                1-1 (1-1)  Pyunik FC
+
+
+Matchday 3
+[Wed Aug/23]
+  19.00  FC Ararat-Armenia        1-2 (1-0)  Pyunik FC
+
+
+Matchday 5
+[Fri Aug/25]
+  19.00  FC Ararat                0-2 (0-1)  BKMA Yerevan
+  17.00  FC Alashkert             3-1 (1-1)  FC Noah
+[Sat Aug/26]
+  19.00  Shirak FC                0-2 (0-1)  FC Urartu
+[Sun Aug/27]
+  19.00  FC Ararat-Armenia        3-0 (1-0)  FK Van
+[Mon Aug/28]
+  19.00  Pyunik FC                3-0 (0-0)  FC West Armenia
+
+
+Matchday 6
+[Thu Aug/31]
+  20.00  FC Noah                  3-0 (2-0)  FC Ararat
+  17.00  Shirak FC                2-3 (0-1)  FC Alashkert
+[Fri Sep/1]
+  17.00  FC West Armenia          2-5 (1-0)  FC Urartu
+  19.00  BKMA Yerevan             1-1 (0-1)  FC Ararat-Armenia
+[Sat Sep/2]
+  17.00  FK Van                   0-5 (0-2)  Pyunik FC
+
+
+Matchday 7
+[Thu Sep/14]
+  16.00  FC Ararat                2-1 (2-1)  Shirak FC
+  14.00  FC West Armenia          2-0 (1-0)  FK Van
+[Fri Sep/15]
+  18.00  FC Ararat-Armenia        4-3 (3-0)  FC Noah
+  16.00  FC Alashkert             4-2 (0-0)  FC Urartu
+[Sat Sep/16]
+  18.00  Pyunik FC                3-0 (3-0)  BKMA Yerevan
+
+
+Matchday 8
+[Tue Sep/19]
+  19.00  Shirak FC                1-3 (0-1)  FC Ararat-Armenia
+  16.00  FC Urartu                3-1 (1-1)  FK Van
+[Wed Sep/20]
+  18.00  BKMA Yerevan             0-4 (0-0)  FC West Armenia
+  14.00  FC Alashkert             2-1 (1-1)  FC Ararat
+[Thu Sep/21]
+  19.00  FC Noah                  0-1 (0-0)  Pyunik FC
+
+
+Matchday 9
+[Sun Sep/24]
+  15.00  FK Van                   1-2 (0-1)  BKMA Yerevan
+  18.00  FC Ararat                1-1 (1-1)  FC Urartu
+[Mon Sep/25]
+  18.00  FC Ararat-Armenia        3-1 (2-0)  FC Alashkert
+  16.00  Pyunik FC                1-0 (1-0)  Shirak FC
+[Tue Sep/26]
+  16.00  FC West Armenia          2-4 (0-3)  FC Noah
+
+
+Matchday 10
+[Thu Sep/28]
+  15.00  FC Urartu                2-1 (0-0)  BKMA Yerevan
+[Fri Sep/29]
+  19.00  Pyunik FC                3-1 (2-1)  FC Alashkert
+  17.00  FC Ararat-Armenia        2-1 (1-0)  FC Ararat
+[Sat Sep/30]
+  19.00  Shirak FC                0-0  FC West Armenia
+  15.00  FK Van                   0-2 (0-0)  FC Noah
+
+
+Matchday 11
+[Tue Oct/3]
+  17.00  FC Ararat-Armenia        1-2 (1-1)  FC Urartu
+  19.00  Shirak FC                2-0 (1-0)  FK Van
+[Wed Oct/4]
+  17.00  FC Ararat                0-5 (0-2)  Pyunik FC
+  15.00  FC Alashkert             2-0 (1-0)  FC West Armenia
+[Thu Oct/5]
+  15.00  FC Noah                  3-0 (2-0)  BKMA Yerevan
+
+
+Matchday 12
+[Thu Oct/19]
+  15.00  FC West Armenia          0-2 (0-0)  FC Ararat
+[Fri Oct/20]
+  15.00  FK Van                   2-1 (1-0)  FC Alashkert
+         Pyunik FC                1-1 (1-0)  FC Ararat-Armenia
+[Sat Oct/21]
+  19.00  FC Urartu                1-0 (1-0)  FC Noah
+  15.00  BKMA Yerevan             1-3 (1-2)  Shirak FC
+
+
+Matchday 13
+[Tue Oct/24]
+  18.00  FC Ararat                2-1 (0-1)  FK Van
+  16.00  FC Ararat-Armenia        4-0 (3-0)  FC West Armenia
+[Wed Oct/25]
+  15.00  Pyunik FC                3-1 (3-1)  FC Urartu
+         FC Alashkert             1-0 (0-0)  BKMA Yerevan
+[Thu Oct/26]
+  19.00  Shirak FC                0-2 (0-2)  FC Noah
+
+
+Matchday 14
+[Sat Oct/28]
+  15.00  FK Van                   0-2 (0-0)  FC Ararat-Armenia
+[Sun Oct/29]
+  17.00  BKMA Yerevan             2-0 (0-0)  FC Ararat
+  14.00  FC West Armenia          2-3 (0-2)  Pyunik FC
+[Mon Oct/30]
+  17.00  FC Noah                  4-2 (3-2)  FC Alashkert
+  19.00  FC Urartu                2-2 (1-1)  Shirak FC
+
+
+Matchday 15
+[Thu Nov/2]
+  18.00  FC Ararat-Armenia        4-1 (1-0)  BKMA Yerevan
+  14.00  Pyunik FC                6-0 (2-0)  FK Van
+[Fri Nov/3]
+  18.00  FC Ararat                0-2 (0-1)  FC Noah
+  16.00  FC Urartu                1-2 (1-0)  FC West Armenia
+[Sat Nov/4]
+  15.00  FC Alashkert             0-0  Shirak FC
+
+
+Matchday 16
+[Mon Nov/6]
+  19.00  BKMA Yerevan             1-4 (1-3)  Pyunik FC
+[Tue Nov/7]
+  18.00  FC Noah                  1-0 (1-0)  FC Ararat-Armenia
+  14.30  FK Van                   4-1 (0-1)  FC West Armenia
+[Wed Nov/8]
+  19.00  FC Urartu                1-0 (0-0)  FC Alashkert
+  16.00  Shirak FC                1-2 (0-1)  FC Ararat
+
+
+Matchday 17
+[Fri Nov/10]
+  14.30  FC West Armenia          1-0 (1-0)  BKMA Yerevan
+[Sat Nov/11]
+  18.00  FC Ararat-Armenia        2-0 (0-0)  Shirak FC
+  15.00  Pyunik FC                3-1 (1-1)  FC Noah
+[Sun Nov/12]
+  18.00  FC Ararat                0-1 (0-1)  FC Alashkert
+  14.30  FK Van                   2-2 (0-1)  FC Urartu
+
+
+Matchday 18
+[Tue Nov/28]
+  18.00  Shirak FC                1-1 (0-1)  Pyunik FC
+[Wed Nov/29]
+  18.00  FC Urartu                2-1 (1-1)  FC Ararat
+  16.00  FC Noah                  5-1 (1-1)  FC West Armenia
+[Thu Nov/30]
+  18.00  BKMA Yerevan             7-1 (3-0)  FK Van
+  14.30  FC Alashkert             1-1 (1-1)  FC Ararat-Armenia
+
+
+Matchday 19
+[Mon Dec/4]
+  16.00  FC Noah                  3-1 (2-0)  FK Van
+  18.00  BKMA Yerevan             2-0 (0-0)  FC Urartu
+[Tue Dec/5]
+  18.00  Shirak FC                1-2 (0-1)  FC West Armenia
+  16.00  FC Ararat                0-1 (0-1)  FC Ararat-Armenia
+[Wed Dec/6]
+  14.00  FC Alashkert             1-1 (1-1)  Pyunik FC
+
+
+Matchday 20
+[Fri Dec/8]
+  18.00  BKMA Yerevan             0-2 (0-1)  FC Noah
+[Sat Dec/9]
+  14.00  FK Van                   4-0 (0-0)  Shirak FC
+  18.00  FC Urartu                1-3 (0-3)  FC Ararat-Armenia
+[Sun Dec/10]
+  14.00  FC West Armenia          1-1 (0-1)  FC Alashkert
+[Mon Dec/11]
+  14.00  Pyunik FC                2-2 (1-1)  FC Ararat
+
+
+Matchday 21
+[Thu Feb/22]
+  18.00  FC Noah                  1-1 (1-0)  FC Urartu
+  15.00  Shirak FC                1-0 (0-0)  BKMA Yerevan
+[Fri Feb/23]
+  15.00  FC Alashkert             0-1 (0-1)  FK Van
+  18.00  FC Ararat-Armenia        3-1 (2-0)  Pyunik FC
+[Sat Feb/24]
+  17.00  FC Ararat                1-0 (0-0)  FC West Armenia
+
+
+Matchday 22
+[Mon Feb/26]
+  18.00  FC Noah                  1-0 (0-0)  Shirak FC
+[Tue Feb/27]
+  19.00  FC Urartu                1-1 (0-1)  Pyunik FC
+  17.00  BKMA Yerevan             0-6 (0-2)  FC Alashkert
+[Wed Feb/28]
+  15.00  FC West Armenia          1-1 (0-1)  FC Ararat-Armenia
+         FK Van                   0-2 (0-1)  FC Ararat
+
+
+Matchday 23
+[Sat Mar/2]
+  15.00  FC Alashkert             0-2 (0-0)  FC Noah
+         Shirak FC                1-0 (0-0)  FC Urartu
+[Sun Mar/3]
+  18.00  FC Ararat                1-0 (0-0)  BKMA Yerevan
+  15.00  FC Ararat-Armenia        0-2 (0-0)  FK Van
+[Mon Mar/4]
+  15.00  Pyunik FC                2-1 (1-1)  FC West Armenia
+
+
+Matchday 24
+[Wed Mar/6]
+  15.00  Shirak FC                2-0 (0-0)  FC Alashkert
+[Thu Mar/7]
+  18.00  FC Noah                  4-3 (4-1)  FC Ararat
+  15.00  BKMA Yerevan             0-1 (0-0)  FC Ararat-Armenia
+[Fri Mar/8]
+  18.00  FC Urartu                1-2 (0-0)  FC West Armenia
+  15.00  FK Van                   1-0 (1-0)  Pyunik FC
+
+
+Matchday 25
+[Fri Mar/15]
+  17.00  FC Ararat                2-0 (1-0)  Shirak FC
+  19.00  FC Ararat-Armenia        0-1 (0-0)  FC Noah
+[Sat Mar/16]
+  16.00  Pyunik FC                3-1 (0-0)  BKMA Yerevan
+  15.00  FC Alashkert             0-2 (0-1)  FC Urartu
+[Sun Mar/17]
+  16.00  FC West Armenia          2-0 (1-0)  FK Van
+
+
+Matchday 26
+[Sat Mar/30]
+  15.00  FC Alashkert             2-1 (2-0)  FC Ararat
+  19.00  FC Urartu                1-1 (1-0)  FK Van
+[Sun Mar/31]
+  19.00  FC Noah                  1-1 (0-1)  Pyunik FC
+  17.00  Shirak FC                0-1 (0-0)  FC Ararat-Armenia
+[Mon Apr/1]
+  16.00  BKMA Yerevan             1-1 (0-1)  FC West Armenia
+
+
+Matchday 27
+[Wed Apr/3]
+  19.00  FC Ararat                0-0  FC Urartu
+[Thu Apr/4]
+  16.00  FC Ararat-Armenia        2-1 (0-0)  FC Alashkert
+         Pyunik FC                1-1 (0-0)  Shirak FC
+[Fri Apr/5]
+  15.00  FC West Armenia          2-5 (0-1)  FC Noah
+[Sat Apr/6]
+  16.00  FK Van                   2-2 (0-1)  BKMA Yerevan
+
+
+Matchday 28
+[Thu Apr/11]
+  16.00  FK Van                   0-1 (0-0)  FC Noah
+[Fri Apr/12]
+  16.00  Pyunik FC                2-1 (2-0)  FC Alashkert
+  19.00  FC Ararat-Armenia        2-1 (0-1)  FC Ararat
+[Sat Apr/13]
+  18.00  FC Urartu                2-1 (0-0)  BKMA Yerevan
+[Sun Apr/14]
+  16.00  FC West Armenia          1-0 (0-0)  Shirak FC
+
+
+Matchday 29
+[Wed Apr/17]
+  19.00  FC Ararat-Armenia        2-0 (1-0)  FC Urartu
+  17.00  FC Ararat                0-1 (0-0)  Pyunik FC
+[Thu Apr/18]
+  17.00  FC Alashkert             1-2 (0-1)  FC West Armenia
+  19.00  Shirak FC                0-0  FK Van
+[Fri Apr/19]
+  19.00  FC Noah                  1-0 (1-0)  BKMA Yerevan
+
+
+Matchday 30
+[Sun Apr/21]
+  16.00  Pyunik FC                2-2 (1-1)  FC Ararat-Armenia
+[Mon Apr/22]
+  17.00  FC West Armenia          1-2 (0-0)  FC Ararat
+  15.00  FK Van                   2-3 (0-1)  FC Alashkert
+[Tue Apr/23]
+  17.00  BKMA Yerevan             0-0  Shirak FC
+  19.00  FC Urartu                0-1 (0-1)  FC Noah
+
+
+Matchday 31
+[Fri Apr/26]
+  19.00  FC Ararat                1-1 (0-0)  FK Van
+[Sat Apr/27]
+  19.00  Shirak FC                1-0 (0-0)  FC Noah
+  16.00  FC West Armenia          0-1 (0-1)  FC Ararat-Armenia
+[Sun Apr/28]
+  14.00  FC Alashkert             0-0  BKMA Yerevan
+  16.00  Pyunik FC                5-0 (2-0)  FC Urartu
+
+
+Matchday 32
+[Thu May/2]
+  16.00  FC West Armenia          1-4 (0-2)  Pyunik FC
+         FK Van                   0-5 (0-1)  FC Ararat-Armenia
+[Fri May/3]
+  19.00  FC Urartu                0-0  Shirak FC
+  17.00  BKMA Yerevan             1-3 (1-0)  FC Ararat
+[Sat May/4]
+  17.00  FC Noah                  2-1 (1-0)  FC Alashkert
+
+
+Matchday 33
+[Tue May/7]
+  19.00  FC Ararat-Armenia        4-1 (3-0)  BKMA Yerevan
+  16.00  FC West Armenia          1-0 (0-0)  FC Urartu
+[Thu May/9]
+  19.00  FC Ararat                0-1 (0-1)  FC Noah
+  16.00  Pyunik FC                3-1 (1-1)  FK Van
+[Fri May/10]
+  16.00  FC Alashkert             2-3 (2-1)  Shirak FC
+
+
+Matchday 34
+[Tue May/14]
+  17.00  FK Van                   1-0 (1-0)  FC West Armenia
+  19.00  BKMA Yerevan             0-3 (0-2)  Pyunik FC
+[Wed May/15]
+  19.00  Shirak FC                0-1 (0-0)  FC Ararat
+[Thu May/16]
+  20.00  FC Noah                  2-1 (2-0)  FC Ararat-Armenia
+  18.00  FC Urartu                6-1 (1-1)  FC Alashkert
+
+
+Matchday 35
+[Sun May/19]
+  17.00  FC West Armenia          3-2 (0-1)  BKMA Yerevan
+[Mon May/20]
+  19.00  FC Ararat                1-3 (0-2)  FC Alashkert
+  17.00  FK Van                   1-1 (1-1)  FC Urartu
+[Tue May/21]
+  20.00  FC Ararat-Armenia        1-1 (0-0)  Shirak FC
+  17.00  Pyunik FC                3-0 (1-0)  FC Noah
+
+
+Matchday 36
+[Fri May/24]
+  17.00  BKMA Yerevan             0-0  FK Van
+  19.00  FC Urartu                1-1 (0-0)  FC Ararat
+[Sat May/25]
+  17.30  FC Noah                  3-1 (1-1)  FC West Armenia
+         Shirak FC                0-1 (0-0)  Pyunik FC
+[Sun May/26]
+  17.00  FC Alashkert             1-3 (0-1)  FC Ararat-Armenia

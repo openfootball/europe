@@ -1,0 +1,326 @@
+= Macedonian First League 2023/24
+
+# Date       Fri Sep/15 2023 - Sat May/4 2024 (232d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Fri Sep/15]
+  19.00  Marsaxlokk FC            5-1 (2-0)  Naxxar Lions FC
+[Sat Sep/16]
+  20.15  Gżira United             0-4 (0-2)  Hibernians FC
+  18.00  Hamrun Spartans          1-0 (0-0)  Balzan FC
+[Sun Sep/17]
+  18.00  St. Luċija FC            0-4 (0-2)  Floriana FC
+  20.00  Valletta FC              2-0 (1-0)  Sirens FC
+  20.15  Mosta FC                 0-0  Gudja United
+  18.00  Birkirkara FC            1-0 (0-0)  Sliema Wanderers
+
+
+Matchday 2
+[Fri Sep/22]
+  19.00  Sirens FC                1-1 (0-0)  Mosta FC
+[Sat Sep/23]
+  18.00  Floriana FC              2-0 (0-0)  Birkirkara FC
+         Hibernians FC            3-2 (2-0)  St. Luċija FC
+  20.00  Balzan FC                1-0 (0-0)  Gżira United
+  20.15  Naxxar Lions FC          0-4 (0-2)  Hamrun Spartans
+[Sun Sep/24]
+  20.00  Gudja United             1-1 (1-1)  Marsaxlokk FC
+  18.00  Sliema Wanderers         1-0 (0-0)  Valletta FC
+
+
+Matchday 3
+[Tue Sep/26]
+  18.00  St. Luċija FC            0-1 (0-1)  Balzan FC
+  19.00  Floriana FC              2-0 (1-0)  Hibernians FC
+  20.00  Gżira United             1-1 (0-0)  Naxxar Lions FC
+[Wed Sep/27]
+  18.00  Marsaxlokk FC            3-1 (3-0)  Sirens FC
+  19.00  Birkirkara FC            1-1 (1-0)  Valletta FC
+  20.00  Mosta FC                 0-3 (0-0)  Sliema Wanderers
+  18.00  Hamrun Spartans          3-0 (2-0)  Gudja United
+
+
+Matchday 4
+[Sat Sep/30]
+  15.00  Hibernians FC            0-1 (0-0)  Birkirkara FC
+  17.15  Valletta FC              1-1 (0-1)  Mosta FC
+[Sun Oct/1]
+  11.00  Balzan FC                0-3 (0-0)  Floriana FC
+  15.00  Naxxar Lions FC          4-0 (1-0)  St. Luċija FC
+         Sirens FC                0-4 (0-2)  Hamrun Spartans
+  17.00  Sliema Wanderers         0-1 (0-0)  Marsaxlokk FC
+  17.15  Gudja United             1-6 (1-2)  Gżira United
+
+
+Matchday 5
+[Sat Oct/21]
+  15.00  Floriana FC              1-1 (1-1)  Naxxar Lions FC
+  17.00  St. Luċija FC            0-0  Gudja United
+  17.15  Hamrun Spartans          1-1 (1-0)  Sliema Wanderers
+  15.00  Birkirkara FC            0-2 (0-1)  Mosta FC
+[Sun Oct/22]
+  11.00  Marsaxlokk FC            0-1 (0-0)  Valletta FC
+  15.00  Hibernians FC            0-2 (0-0)  Balzan FC
+  17.00  Gżira United             1-0 (0-0)  Sirens FC
+
+
+Matchday 6
+[Sat Oct/28]
+  17.30  Naxxar Lions FC          0-0  Hibernians FC
+  18.00  Mosta FC                 3-2 (2-1)  Marsaxlokk FC
+  15.00  Valletta FC              1-2 (0-2)  Hamrun Spartans
+[Sun Oct/29]
+  11.00  Sirens FC                0-0  St. Luċija FC
+  15.00  Balzan FC                0-3 (0-2)  Birkirkara FC
+         Gudja United             1-1 (0-0)  Floriana FC
+  17.00  Sliema Wanderers         1-0 (0-0)  Gżira United
+
+
+Matchday 7
+[Sat Nov/4]
+  16.30  Gżira United             1-1 (1-0)  Valletta FC
+  14.00  Birkirkara FC            0-2 (0-1)  Marsaxlokk FC
+[Sun Nov/5]
+  11.00  Hamrun Spartans          1-1 (1-1)  Mosta FC
+  14.00  Hibernians FC            1-0 (0-0)  Gudja United
+         St. Luċija FC            0-1 (0-1)  Sliema Wanderers
+  16.30  Floriana FC              3-0 (0-0)  Sirens FC
+         Balzan FC                1-2 (1-1)  Naxxar Lions FC
+
+
+Matchday 8
+[Sat Nov/25]
+  14.00  Sliema Wanderers         0-2 (0-0)  Floriana FC
+  15.30  Gudja United             2-2 (0-0)  Balzan FC
+  16.15  Marsaxlokk FC            0-1 (0-1)  Hamrun Spartans
+  13.00  Sirens FC                1-2 (0-2)  Hibernians FC
+[Sun Nov/26]
+  11.00  Mosta FC                 0-3 (0-1)  Gżira United
+  14.00  Naxxar Lions FC          2-0 (0-0)  Birkirkara FC
+  16.15  Valletta FC              1-1 (0-0)  St. Luċija FC
+
+
+Matchday 9
+[Sat Dec/2]
+  14.00  St. Luċija FC            1-0 (1-0)  Mosta FC
+  16.15  Balzan FC                3-0 (2-0)  Sirens FC
+  14.00  Birkirkara FC            3-0 (1-0)  Hamrun Spartans
+[Sun Dec/3]
+  11.00  Naxxar Lions FC          2-1 (1-1)  Gudja United
+  14.00  Floriana FC              1-0 (0-0)  Valletta FC
+         Gżira United             2-4 (1-1)  Marsaxlokk FC
+  16.15  Hibernians FC            0-1 (0-0)  Sliema Wanderers
+
+
+Matchday 10
+[Sat Dec/9]
+  14.00  Sliema Wanderers         1-0 (1-0)  Balzan FC
+  17.00  Mosta FC                 0-3 (0-2)  Floriana FC
+  14.00  Valletta FC              0-2 (0-1)  Hibernians FC
+[Sun Dec/10]
+  14.00  Sirens FC                1-1 (1-0)  Naxxar Lions FC
+  11.00  Marsaxlokk FC            3-0 (1-0)  St. Luċija FC
+[Wed Dec/13]
+  14.00  Hamrun Spartans          2-1 (0-0)  Gżira United
+  10.55  Gudja United             1-1 (1-0)  Birkirkara FC
+
+
+Matchday 11
+[Sat Dec/16]
+  14.00  Birkirkara FC            3-2 (1-0)  Gżira United
+         Gudja United             1-2 (1-0)  Sirens FC
+  16.15  Balzan FC                0-0  Valletta FC
+[Sun Dec/17]
+  14.00  Hibernians FC            0-0  Mosta FC
+         St. Luċija FC            1-3 (0-3)  Hamrun Spartans
+  16.15  Floriana FC              3-2 (0-1)  Marsaxlokk FC
+  11.00  Naxxar Lions FC          1-4 (0-2)  Sliema Wanderers
+
+
+Matchday 12
+[Sat Jan/6]
+  17.00  Gżira United             1-2 (0-1)  St. Luċija FC
+  14.00  Hamrun Spartans          1-0 (0-0)  Floriana FC
+[Sun Jan/7]
+  11.00  Sliema Wanderers         2-0 (1-0)  Gudja United
+  14.00  Marsaxlokk FC            1-1 (1-0)  Hibernians FC
+         Sirens FC                1-2 (0-1)  Birkirkara FC
+  16.15  Valletta FC              1-2 (0-2)  Naxxar Lions FC
+         Mosta FC                 0-2 (0-0)  Balzan FC
+
+
+Matchday 13
+[Sat Jan/20]
+  14.00  Sirens FC                0-1 (0-0)  Sliema Wanderers
+  16.15  Gudja United             0-3 (0-2)  Valletta FC
+  17.00  Naxxar Lions FC          0-0  Mosta FC
+  14.00  Hibernians FC            1-2 (0-1)  Hamrun Spartans
+[Sun Jan/21]
+  14.00  Floriana FC              0-1 (0-1)  Gżira United
+  16.15  Balzan FC                0-0  Marsaxlokk FC
+  11.00  Birkirkara FC            1-2 (1-2)  St. Luċija FC
+
+
+Matchday 14
+[Sat Jan/27]
+  14.00  Floriana FC              2-0 (1-0)  St. Luċija FC
+  16.15  Balzan FC                1-7 (1-2)  Hamrun Spartans
+[Sun Jan/28]
+  11.00  Sirens FC                0-3 (0-1)  Valletta FC
+  14.00  Hibernians FC            3-2 (2-2)  Gżira United
+         Naxxar Lions FC          0-0  Marsaxlokk FC
+  16.15  Gudja United             0-1 (0-1)  Mosta FC
+         Sliema Wanderers         0-0  Birkirkara FC
+
+
+Matchday 15
+[Sat Feb/3]
+  14.00  Valletta FC              1-1 (0-0)  Sliema Wanderers
+  16.15  Marsaxlokk FC            2-1 (1-0)  Gudja United
+         Mosta FC                 0-0  Sirens FC
+  14.00  Birkirkara FC            1-2 (0-1)  Floriana FC
+[Sun Feb/4]
+  11.00  St. Luċija FC            0-2 (0-2)  Hibernians FC
+  14.00  Hamrun Spartans          4-1 (2-1)  Naxxar Lions FC
+  16.15  Gżira United             1-1 (1-0)  Balzan FC
+
+
+Matchday 16
+[Fri Feb/9]
+  19.00  Valletta FC              0-1 (0-0)  Birkirkara FC
+[Sat Feb/10]
+  14.00  Hibernians FC            0-2 (0-1)  Floriana FC
+  16.15  Naxxar Lions FC          0-1 (0-0)  Gżira United
+         Sliema Wanderers         0-0  Mosta FC
+  14.00  Balzan FC                0-1 (0-0)  St. Luċija FC
+[Sun Feb/11]
+  16.15  Sirens FC                1-1 (0-1)  Marsaxlokk FC
+  14.00  Gudja United             0-4 (0-3)  Hamrun Spartans
+
+
+Matchday 17
+[Sat Feb/17]
+  14.00  Birkirkara FC            1-1 (0-0)  Hibernians FC
+         Mosta FC                 1-0 (0-0)  Valletta FC
+  16.15  Marsaxlokk FC            1-2 (1-1)  Sliema Wanderers
+         St. Luċija FC            1-0 (0-0)  Naxxar Lions FC
+[Sun Feb/18]
+  14.00  Floriana FC              2-2 (2-1)  Balzan FC
+  16.15  Gżira United             3-0 (2-0)  Gudja United
+  11.00  Hamrun Spartans          2-0 (2-0)  Sirens FC
+
+
+Matchday 18
+[Sat Feb/24]
+  16.15  Mosta FC                 0-2 (0-2)  Birkirkara FC
+  14.00  Balzan FC                0-0  Hibernians FC
+[Sun Feb/25]
+  11.00  Sirens FC                0-4 (0-1)  Gżira United
+  14.00  Valletta FC              0-2 (0-2)  Marsaxlokk FC
+         Gudja United             0-4 (0-3)  St. Luċija FC
+  16.15  Sliema Wanderers         0-0  Hamrun Spartans
+  16.30  Naxxar Lions FC          0-3 (0-2)  Floriana FC
+
+
+Matchday 19
+[Sat Mar/2]
+  14.00  Hamrun Spartans          1-1 (1-0)  Valletta FC
+         Hibernians FC            0-2 (0-0)  Naxxar Lions FC
+  16.15  Birkirkara FC            1-1 (0-1)  Balzan FC
+         St. Luċija FC            1-1 (0-0)  Sirens FC
+[Sun Mar/3]
+  14.00  Gżira United             0-2 (0-0)  Sliema Wanderers
+  16.15  Floriana FC              5-1 (2-1)  Gudja United
+  11.00  Marsaxlokk FC            1-2 (1-1)  Mosta FC
+
+
+Matchday 20
+[Fri Mar/8]
+  18.15  Naxxar Lions FC          1-1 (1-0)  Balzan FC
+[Sat Mar/9]
+  16.15  Sirens FC                0-3 (0-1)  Floriana FC
+  14.00  Marsaxlokk FC            0-0  Birkirkara FC
+[Sun Mar/10]
+  14.00  Gudja United             0-3 (0-3)  Hibernians FC
+         Mosta FC                 0-4 (0-3)  Hamrun Spartans
+  16.15  Valletta FC              1-1 (1-1)  Gżira United
+         Sliema Wanderers         3-1 (0-0)  St. Luċija FC
+
+
+Matchday 21
+[Thu Mar/14]
+  18.00  Birkirkara FC            0-2 (0-1)  Naxxar Lions FC
+[Sat Mar/16]
+  14.00  Hibernians FC            2-1 (2-1)  Sirens FC
+  16.15  Hamrun Spartans          1-2 (0-0)  Marsaxlokk FC
+         St. Luċija FC            2-0 (1-0)  Valletta FC
+  14.00  Floriana FC              2-0 (0-0)  Sliema Wanderers
+[Sun Mar/17]
+  16.15  Gżira United             2-1 (0-0)  Mosta FC
+  14.00  Balzan FC                2-0 (1-0)  Gudja United
+
+
+Matchday 22
+[Sat Apr/6]
+  14.00  Sirens FC                1-4 (0-1)  Balzan FC
+         Valletta FC              0-2 (0-1)  Floriana FC
+  16.30  Gudja United             2-4 (1-3)  Naxxar Lions FC
+  16.45  Marsaxlokk FC            1-1 (0-1)  Gżira United
+[Sun Apr/7]
+  14.00  Mosta FC                 1-1 (1-0)  St. Luċija FC
+  16.15  Sliema Wanderers         0-0  Hibernians FC
+  14.00  Hamrun Spartans          2-0 (1-0)  Birkirkara FC
+
+
+Matchday 23
+[Fri Apr/12]
+  18.00  St. Luċija FC            0-3 (0-0)  Marsaxlokk FC
+[Sat Apr/13]
+  14.00  Floriana FC              4-0 (3-0)  Mosta FC
+  16.15  Gżira United             0-1 (0-1)  Hamrun Spartans
+[Sun Apr/14]
+  14.00  Birkirkara FC            2-0 (1-0)  Gudja United
+  16.15  Hibernians FC            2-2 (0-1)  Valletta FC
+         Naxxar Lions FC          1-2 (0-0)  Sirens FC
+  14.00  Balzan FC                1-1 (1-0)  Sliema Wanderers
+
+
+Matchday 24
+[Sat Apr/20]
+  14.00  Gżira United             0-0  Birkirkara FC
+         Hamrun Spartans          4-1 (2-0)  St. Luċija FC
+  16.15  Sliema Wanderers         0-0  Naxxar Lions FC
+         Marsaxlokk FC            1-0 (0-0)  Floriana FC
+[Sun Apr/21]
+  14.00  Mosta FC                 3-1 (1-1)  Hibernians FC
+  16.15  Valletta FC              1-0 (1-0)  Balzan FC
+  11.00  Sirens FC                2-0 (1-0)  Gudja United
+
+
+Matchday 25
+[Sat Apr/27]
+  15.00  Floriana FC              0-5 (0-4)  Hamrun Spartans
+  16.15  Hibernians FC            0-2 (0-0)  Marsaxlokk FC
+  14.00  Gudja United             0-6 (0-4)  Sliema Wanderers
+[Sun Apr/28]
+  14.00  Naxxar Lions FC          4-0 (3-0)  Valletta FC
+         Balzan FC                0-0  Mosta FC
+  16.15  St. Luċija FC            2-1 (2-0)  Gżira United
+         Birkirkara FC            2-2 (1-1)  Sirens FC
+
+
+Matchday 26
+[Thu May/2]
+  20.30  Valletta FC              5-2 (3-1)  Gudja United
+  18.00  Sliema Wanderers         3-0 (2-0)  Sirens FC
+[Fri May/3]
+  19.00  St. Luċija FC            2-2 (2-1)  Birkirkara FC
+         Gżira United             3-1 (1-1)  Floriana FC
+         Marsaxlokk FC            0-1 (0-1)  Balzan FC
+         Mosta FC                 2-0 (1-0)  Naxxar Lions FC
+[Sat May/4]
+  14.00  Hamrun Spartans          1-1 (1-1)  Hibernians FC

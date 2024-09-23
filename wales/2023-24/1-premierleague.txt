@@ -1,0 +1,451 @@
+= Welsh Premier League 2023/24
+
+# Date       Fri Aug/11 2023 - Sat May/18 2024 (281d)
+# Teams      12
+# Matches    195
+# Stages     Regular Season (132)  Championship (30)  Playoffs - Relegation (30)  ECL Playoffs (3)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Aug/11]
+  19.45  The New Saints           6-2 (3-2)  Connah's Quay Nomads
+         Haverfordwest County     0-0  Pontypridd United
+[Sat Aug/12]
+  14.30  Aberystwyth Town         0-1 (0-1)  Cardiff Metropolitan
+         Bala Town                1-0 (0-0)  Barry Town United
+         Newtown AFC              1-3 (0-2)  Penybont FC
+[Sun Aug/13]
+  17.15  Colwyn Bay FC            0-4 (0-1)  Caernarfon Town
+
+
+Matchday 2
+[Fri Aug/18]
+  19.45  Connah's Quay Nomads     4-0 (4-0)  Aberystwyth Town
+         Penybont FC              2-0 (1-0)  Haverfordwest County
+         Caernarfon Town          2-1 (1-0)  Newtown AFC
+[Sat Aug/19]
+  14.30  Cardiff Metropolitan     0-0  Bala Town
+         Pontypridd United        0-1 (0-0)  The New Saints
+  17.15  Barry Town United        1-1 (1-0)  Colwyn Bay FC
+
+
+Matchday 3
+[Fri Aug/25]
+  19.45  Pontypridd United        0-0  Penybont FC
+         Bala Town                1-0 (0-0)  Connah's Quay Nomads
+[Sat Aug/26]
+  14.30  Haverfordwest County     1-1 (0-0)  Caernarfon Town
+         The New Saints           2-2 (0-0)  Barry Town United
+  17.15  Newtown AFC              0-0  Aberystwyth Town
+  14.30  Cardiff Metropolitan     1-0 (1-0)  Colwyn Bay FC
+
+
+Matchday 4
+[Tue Aug/29]
+  19.45  Barry Town United        2-2 (2-0)  Haverfordwest County
+         Caernarfon Town          1-1 (0-0)  Bala Town
+         Colwyn Bay FC            0-1 (0-0)  The New Saints
+         Connah's Quay Nomads     3-1 (1-1)  Newtown AFC
+         Penybont FC              0-0  Cardiff Metropolitan
+  20.00  Aberystwyth Town         0-1 (0-0)  Pontypridd United
+
+
+Matchday 5
+[Fri Sep/1]
+  19.45  Newtown AFC              2-1 (2-1)  Cardiff Metropolitan
+         The New Saints           6-0 (2-0)  Aberystwyth Town
+         Caernarfon Town          0-4 (0-1)  Connah's Quay Nomads
+[Sat Sep/2]
+  14.30  Colwyn Bay FC            1-2 (0-0)  Haverfordwest County
+         Pontypridd United        1-0 (1-0)  Barry Town United
+         Bala Town                2-1 (2-0)  Penybont FC
+
+
+Matchday 6
+[Fri Sep/8]
+  19.45  Cardiff Metropolitan     2-0 (0-0)  Pontypridd United
+[Sat Sep/9]
+  14.30  Aberystwyth Town         2-4 (2-2)  Caernarfon Town
+         Barry Town United        1-4 (1-2)  Connah's Quay Nomads
+         Haverfordwest County     0-4 (0-2)  Newtown AFC
+         Penybont FC              0-1 (0-0)  Colwyn Bay FC
+[Wed Sep/13]
+  19.45  Bala Town                0-0  The New Saints
+
+
+Matchday 7
+[Fri Sep/15]
+  19.45  Colwyn Bay FC            3-1 (2-1)  Aberystwyth Town
+[Sat Sep/16]
+  14.30  Connah's Quay Nomads     4-0 (2-0)  Cardiff Metropolitan
+         Newtown AFC              2-0 (1-0)  Barry Town United
+         Penybont FC              3-2 (1-1)  Caernarfon Town
+         Pontypridd United        0-0  Bala Town
+         The New Saints           5-1 (1-0)  Haverfordwest County
+
+
+Matchday 8
+[Fri Sep/22]
+  20.00  Aberystwyth Town         1-2 (0-0)  Penybont FC
+  19.45  Cardiff Metropolitan     1-5 (1-3)  The New Saints
+[Sat Sep/23]
+  14.30  Barry Town United        3-1 (2-0)  Bala Town
+         Colwyn Bay FC            2-4 (1-3)  Newtown AFC
+         Haverfordwest County     1-3 (0-1)  Connah's Quay Nomads
+  17.15  Caernarfon Town          1-0 (0-0)  Pontypridd United
+
+
+Matchday 9
+[Tue Sep/26]
+  19.45  Cardiff Metropolitan     1-1 (0-0)  Haverfordwest County
+         Connah's Quay Nomads     2-1 (0-0)  Colwyn Bay FC
+         Penybont FC              1-0 (1-0)  Barry Town United
+         Pontypridd United        0-1 (0-0)  Newtown AFC
+         Caernarfon Town          1-3 (1-0)  The New Saints
+[Wed Sep/27]
+  19.45  Bala Town                0-1 (0-1)  Aberystwyth Town
+
+
+Matchday 10
+[Sat Sep/30]
+  14.30  Barry Town United        0-3 (0-2)  Caernarfon Town
+         Colwyn Bay FC            2-2 (1-1)  Cardiff Metropolitan
+         Haverfordwest County     3-0 (0-0)  Aberystwyth Town
+         Newtown AFC              1-0 (0-0)  Bala Town
+         The New Saints           4-0 (3-0)  Pontypridd United
+  17.15  Connah's Quay Nomads     4-2 (2-0)  Penybont FC
+
+
+Matchday 11
+[Fri Oct/6]
+  20.00  Aberystwyth Town         1-1 (1-1)  Connah's Quay Nomads
+  19.45  Cardiff Metropolitan     2-1 (0-0)  Barry Town United
+[Sat Oct/7]
+  14.30  Bala Town                2-1 (1-1)  Colwyn Bay FC
+         Newtown AFC              4-0 (2-0)  Caernarfon Town
+         Penybont FC              1-4 (1-0)  The New Saints
+  17.15  Pontypridd United        2-0 (1-0)  Haverfordwest County
+
+
+Matchday 12
+[Tue Oct/17]
+  19.45  Caernarfon Town          3-0 (0-0)  Aberystwyth Town
+         Cardiff Metropolitan     2-1 (0-0)  Newtown AFC
+         Haverfordwest County     3-2 (3-1)  Penybont FC
+         Barry Town United        2-0 (2-0)  Pontypridd United
+[Wed Oct/18]
+  19.45  Connah's Quay Nomads     1-1 (0-1)  Bala Town
+
+
+Matchday 13
+[Sat Oct/21]
+  14.30  Pontypridd United        0-3 (0-3)  Connah's Quay Nomads
+         Bala Town                2-0 (1-0)  Haverfordwest County
+         Barry Town United        2-6 (0-1)  The New Saints
+         Caernarfon Town          5-1 (2-0)  Cardiff Metropolitan
+
+
+Matchday 14
+[Fri Oct/27]
+  19.45  Connah's Quay Nomads     6-1 (5-0)  Caernarfon Town
+         Penybont FC              0-2 (0-2)  Aberystwyth Town
+[Sat Oct/28]
+  14.30  Pontypridd United        1-3 (1-1)  Cardiff Metropolitan
+  17.15  The New Saints           2-0 (2-0)  Bala Town
+  14.30  Colwyn Bay FC            0-1 (0-0)  Barry Town United
+         Newtown AFC              1-1 (1-1)  Haverfordwest County
+
+
+Matchday 12
+[Tue Oct/31]
+  19.45  The New Saints           6-1 (1-1)  Colwyn Bay FC
+
+
+Matchday 15
+[Sat Nov/4]
+  14.30  Haverfordwest County     5-0 (3-0)  Colwyn Bay FC
+         Newtown AFC              0-2 (0-0)  The New Saints
+         Bala Town                0-0  Pontypridd United
+         Barry Town United        0-1 (0-0)  Aberystwyth Town
+         Caernarfon Town          2-4 (0-2)  Penybont FC
+         Cardiff Metropolitan     3-1 (2-0)  Connah's Quay Nomads
+
+
+Matchday 13
+[Tue Nov/14]
+  20.00  Aberystwyth Town         0-1 (0-0)  Newtown AFC
+
+
+Matchday 16
+[Fri Nov/17]
+  20.00  Aberystwyth Town         2-3 (1-1)  Bala Town
+[Sun Nov/19]
+  14.30  Pontypridd United        0-3 (0-1)  Colwyn Bay FC
+         Caernarfon Town          2-3 (2-1)  Barry Town United
+         Connah's Quay Nomads     1-2 (1-2)  Haverfordwest County
+         Penybont FC              1-1 (0-0)  Newtown AFC
+
+
+Matchday 13
+[Sat Nov/25]
+  14.30  Colwyn Bay FC            2-1 (0-1)  Penybont FC
+
+
+Matchday 17
+[Tue Nov/28]
+  20.00  Aberystwyth Town         1-3 (1-1)  The New Saints
+  19.45  Barry Town United        1-1 (1-0)  Penybont FC
+         Newtown AFC              3-1 (1-0)  Pontypridd United
+         Bala Town                1-1 (1-1)  Caernarfon Town
+         Haverfordwest County     1-1 (1-1)  Cardiff Metropolitan
+[Wed Nov/29]
+  19.45  Colwyn Bay FC            2-3 (1-1)  Connah's Quay Nomads
+
+
+Matchday 18
+[Sat Dec/2]
+  14.30  Cardiff Metropolitan     4-2 (1-0)  Aberystwyth Town
+         Connah's Quay Nomads     7-0 (2-0)  Barry Town United
+         Newtown AFC              4-2 (1-2)  Colwyn Bay FC
+         Pontypridd United        1-2 (1-0)  Caernarfon Town
+  17.15  Penybont FC              0-2 (0-2)  Bala Town
+
+
+Matchday 19
+[Sat Dec/16]
+  17.15  Bala Town                0-1 (0-1)  Cardiff Metropolitan
+  14.30  The New Saints           3-0 (1-0)  Penybont FC
+         Caernarfon Town          0-1 (0-0)  Haverfordwest County
+         Connah's Quay Nomads     3-1 (3-0)  Pontypridd United
+
+
+Matchday 18
+[Sat Dec/23]
+  14.30  Haverfordwest County     0-1 (0-0)  The New Saints
+
+
+Matchday 20
+[Tue Dec/26]
+  14.30  Pontypridd United        2-0 (1-0)  Aberystwyth Town
+         Newtown AFC              1-2 (0-0)  Connah's Quay Nomads
+         Haverfordwest County     2-0 (0-0)  Barry Town United
+         Cardiff Metropolitan     0-3 (0-2)  Penybont FC
+         Colwyn Bay FC            2-3 (0-2)  Bala Town
+         The New Saints           2-1 (0-1)  Caernarfon Town
+
+
+Matchday 21
+[Sat Dec/30]
+  14.30  Barry Town United        0-0  Cardiff Metropolitan
+         Bala Town                2-1 (0-0)  Newtown AFC
+         Aberystwyth Town         1-1 (1-1)  Haverfordwest County
+[Sun Dec/31]
+  14.30  Connah's Quay Nomads     0-4 (0-3)  The New Saints
+         Penybont FC              1-0 (1-0)  Pontypridd United
+  12.30  Caernarfon Town          2-1 (0-0)  Colwyn Bay FC
+
+
+Matchday 19
+[Fri Jan/5]
+  20.00  Aberystwyth Town         1-0 (0-0)  Colwyn Bay FC
+[Sat Jan/6]
+  14.30  Barry Town United        4-0 (2-0)  Newtown AFC
+
+
+Matchday 16
+[Sat Jan/6]
+  14.30  The New Saints           8-0 (4-0)  Cardiff Metropolitan
+
+
+Matchday 22
+[Sat Jan/13]
+  17.15  Aberystwyth Town         2-4 (1-0)  Barry Town United
+         Cardiff Metropolitan     2-2 (0-1)  Caernarfon Town
+         Colwyn Bay FC            2-3 (0-1)  Pontypridd United
+         Haverfordwest County     2-3 (1-0)  Bala Town
+         Penybont FC              0-1 (0-0)  Connah's Quay Nomads
+         The New Saints           3-1 (1-0)  Newtown AFC
+
+
+== Championship
+
+Matchday 1
+[Fri Feb/2]
+  19.45  Connah's Quay Nomads     1-1 (0-1)  Caernarfon Town
+[Sat Feb/3]
+  14.30  Bala Town                1-1 (0-1)  Cardiff Metropolitan
+[Tue Feb/6]
+  19.45  The New Saints           3-0 (2-0)  Newtown AFC
+
+
+Matchday 2
+[Fri Feb/9]
+  19.45  Bala Town                0-1 (0-1)  The New Saints
+[Sat Feb/10]
+  14.30  Newtown AFC              2-3 (1-2)  Connah's Quay Nomads
+         Cardiff Metropolitan     2-2 (1-1)  Caernarfon Town
+
+
+Matchday 3
+[Fri Feb/23]
+  19.45  Caernarfon Town          1-8 (1-4)  The New Saints
+[Sat Feb/24]
+  14.30  Newtown AFC              1-5 (1-4)  Bala Town
+  17.15  Connah's Quay Nomads     2-1 (1-0)  Cardiff Metropolitan
+
+
+Matchday 4
+[Fri Mar/1]
+  19.45  Caernarfon Town          1-0 (1-0)  Newtown AFC
+         Bala Town                1-0 (0-0)  Connah's Quay Nomads
+[Sat Mar/2]
+  12.45  The New Saints           4-0 (3-0)  Cardiff Metropolitan
+
+
+Matchday 5
+[Fri Mar/8]
+  19.45  Connah's Quay Nomads     1-5 (0-4)  The New Saints
+         Bala Town                1-1 (1-0)  Caernarfon Town
+[Sat Mar/9]
+  14.30  Newtown AFC              2-0 (0-0)  Cardiff Metropolitan
+
+
+Matchday 6
+[Fri Mar/15]
+  19.45  Caernarfon Town          2-1 (0-0)  Connah's Quay Nomads
+[Sat Mar/16]
+  14.30  Newtown AFC              0-1 (0-1)  The New Saints
+         Cardiff Metropolitan     0-1 (0-0)  Bala Town
+
+
+Matchday 7
+[Sat Mar/23]
+  14.30  Caernarfon Town          1-2 (0-2)  Cardiff Metropolitan
+[Fri Mar/29]
+  12.30  Connah's Quay Nomads     0-0  Newtown AFC
+
+
+Matchday 8
+[Fri Apr/5]
+  19.45  The New Saints           7-1 (4-0)  Caernarfon Town
+         Bala Town                1-1 (1-1)  Newtown AFC
+[Sat Apr/6]
+  14.30  Cardiff Metropolitan     0-3 (0-2)  Connah's Quay Nomads
+
+
+Matchday 7
+[Tue Apr/9]
+  19.45  The New Saints           4-1 (3-1)  Bala Town
+
+
+Matchday 9
+[Fri Apr/12]
+  19.45  Connah's Quay Nomads     0-0  Bala Town
+[Sat Apr/13]
+  14.30  Cardiff Metropolitan     0-5 (0-1)  The New Saints
+         Newtown AFC              5-0 (1-0)  Caernarfon Town
+
+
+Matchday 10
+[Sun Apr/21]
+  14.15  Caernarfon Town          2-2 (1-1)  Bala Town
+         Cardiff Metropolitan     1-3 (0-2)  Newtown AFC
+         The New Saints           2-0 (0-0)  Connah's Quay Nomads
+
+
+== Playoffs - Relegation
+
+Matchday 1
+[Fri Feb/2]
+  20.00  Aberystwyth Town         1-0 (1-0)  Haverfordwest County
+[Sat Feb/3]
+  14.30  Colwyn Bay FC            1-2 (0-1)  Penybont FC
+  13.00  Barry Town United        0-3 (0-1)  Pontypridd United
+
+
+Matchday 2
+[Fri Feb/9]
+  19.45  Haverfordwest County     1-1 (1-1)  Pontypridd United
+  20.00  Aberystwyth Town         0-1 (0-0)  Colwyn Bay FC
+[Sat Feb/10]
+  12.45  Penybont FC              2-2 (0-1)  Barry Town United
+
+
+Matchday 3
+[Fri Feb/23]
+  19.45  Barry Town United        1-1 (0-0)  Haverfordwest County
+         Penybont FC              1-1 (0-0)  Aberystwyth Town
+[Sat Feb/24]
+  12.15  Pontypridd United        4-0 (2-0)  Colwyn Bay FC
+
+
+Matchday 4
+[Sat Mar/2]
+  12.30  Colwyn Bay FC            0-0  Haverfordwest County
+  14.30  Aberystwyth Town         1-1 (1-1)  Barry Town United
+         Penybont FC              0-1 (0-0)  Pontypridd United
+
+
+Matchday 5
+[Fri Mar/8]
+  19.45  Haverfordwest County     0-1 (0-1)  Penybont FC
+[Sat Mar/9]
+  14.30  Barry Town United        1-1 (0-0)  Colwyn Bay FC
+
+
+Matchday 6
+[Fri Mar/15]
+  19.45  Haverfordwest County     2-0 (1-0)  Aberystwyth Town
+[Sat Mar/16]
+  14.30  Penybont FC              5-0 (1-0)  Colwyn Bay FC
+  17.15  Pontypridd United        1-1 (1-1)  Barry Town United
+
+
+Matchday 7
+[Fri Mar/29]
+  12.30  Colwyn Bay FC            1-2 (0-1)  Aberystwyth Town
+         Barry Town United        0-0  Penybont FC
+         Pontypridd United        0-1 (0-0)  Haverfordwest County
+
+
+Matchday 8
+[Fri Apr/5]
+  19.45  Haverfordwest County     2-1 (0-0)  Barry Town United
+[Sat Apr/6]
+  14.30  Colwyn Bay FC            1-0 (1-0)  Pontypridd United
+  17.15  Aberystwyth Town         0-3 (0-1)  Penybont FC
+
+
+Matchday 5
+[Tue Apr/9]
+  19.45  Pontypridd United        0-0  Aberystwyth Town
+
+
+Matchday 9
+[Sat Apr/13]
+  14.30  Pontypridd United        0-3 (0-2)  Penybont FC
+  12.45  Haverfordwest County     3-1 (2-0)  Colwyn Bay FC
+  14.30  Barry Town United        2-1 (1-0)  Aberystwyth Town
+
+
+Matchday 10
+[Sun Apr/21]
+  14.15  Aberystwyth Town         3-0 (1-0)  Pontypridd United
+         Colwyn Bay FC            1-0 (0-0)  Barry Town United
+         Penybont FC              1-0 (1-0)  Haverfordwest County
+
+
+== ECL Playoffs
+
+Semifinals
+[Fri May/10]
+  19.45  Caernarfon Town          2-0 (0-0)  Cardiff Metropolitan
+[Sat May/11]
+  12.20  Newtown AFC              0-5 (0-3)  Penybont FC
+
+
+Final
+[Sat May/18]
+  14.45  Caernarfon Town          3-1 (3-0)  Penybont FC

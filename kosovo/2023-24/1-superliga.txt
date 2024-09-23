@@ -1,0 +1,379 @@
+= Kosovan Superliga 2023/24
+
+# Date       Sat Aug/12 2023 - Sat May/25 2024 (287d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Aug/12]
+  17.00  FC Prishtina             3-1 (1-0)  KF Feronikeli
+         KF Dukagjini             0-1 (0-0)  KF Malisheva
+[Sun Aug/13]
+  17.00  Drita Gjilan             2-0 (0-0)  KF Llapi
+         KF Liria                 0-1 (0-0)  KF Ballkani
+
+
+Matchday 2
+[Sat Aug/19]
+  17.00  KF Malisheva             6-1 (1-1)  KF Fushë Kosova
+         KF Liria                 0-0  Drita Gjilan
+[Sun Aug/20]
+  17.00  KF Ballkani              2-0 (1-0)  KF Feronikeli
+         KF Llapi                 3-0 (0-0)  KF Dukagjini
+[Mon Aug/21]
+  17.00  KF Gjilani               0-0  FC Prishtina
+
+
+Matchday 3
+[Sat Aug/26]
+  16.00  KF Feronikeli            1-0 (0-0)  KF Gjilani
+         FC Prishtina             3-1 (2-0)  KF Malisheva
+[Sun Aug/27]
+  16.00  KF Fushë Kosova          1-2 (1-0)  KF Llapi
+         KF Dukagjini             0-0  KF Liria
+
+
+Matchday 4
+[Sat Sep/2]
+  16.00  KF Malisheva             4-1 (1-1)  KF Feronikeli
+         KF Liria                 2-1 (1-0)  KF Fushë Kosova
+[Sun Sep/3]
+  16.00  KF Llapi                 0-0  FC Prishtina
+         Drita Gjilan             2-2 (2-1)  KF Dukagjini
+         KF Ballkani              2-1 (1-0)  KF Gjilani
+
+
+Matchday 5
+[Sat Sep/16]
+  15.00  KF Gjilani               1-0 (0-0)  KF Malisheva
+         KF Fushë Kosova          1-1 (0-1)  Drita Gjilan
+         KF Feronikeli            0-3 (0-1)  KF Llapi
+[Sun Sep/17]
+  15.00  FC Prishtina             1-1 (1-0)  KF Liria
+         KF Dukagjini             1-1 (1-0)  KF Ballkani
+
+
+Matchday 6
+[Sat Sep/23]
+  15.00  KF Dukagjini             1-0 (0-0)  KF Fushë Kosova
+         KF Llapi                 2-1 (1-0)  KF Gjilani
+[Sun Sep/24]
+  15.00  KF Liria                 3-5 (3-0)  KF Feronikeli
+         KF Ballkani              3-2 (2-1)  KF Malisheva
+         Drita Gjilan             3-0 (0-0)  FC Prishtina
+
+
+Matchday 7
+[Wed Sep/27]
+  15.00  KF Malisheva             2-3 (1-0)  KF Llapi
+         KF Fushë Kosova          0-2 (0-2)  KF Ballkani
+         KF Gjilani               1-0 (0-0)  KF Liria
+[Thu Sep/28]
+  15.00  KF Feronikeli            0-2 (0-1)  Drita Gjilan
+         FC Prishtina             2-2 (2-1)  KF Dukagjini
+
+
+Matchday 8
+[Sat Sep/30]
+  15.00  KF Liria                 0-1 (0-0)  KF Malisheva
+         KF Ballkani              2-1 (1-0)  KF Llapi
+[Sun Oct/1]
+  15.00  Drita Gjilan             2-0 (1-0)  KF Gjilani
+         KF Dukagjini             1-1 (1-0)  KF Feronikeli
+[Mon Oct/2]
+  15.00  KF Fushë Kosova          2-2 (0-1)  FC Prishtina
+
+
+Matchday 9
+[Sat Oct/7]
+  15.00  KF Malisheva             1-3 (0-2)  Drita Gjilan
+         KF Gjilani               1-1 (0-1)  KF Dukagjini
+         KF Feronikeli            3-0 (1-0)  KF Fushë Kosova
+[Sun Oct/8]
+  20.00  FC Prishtina             1-1 (0-1)  KF Ballkani
+  15.00  KF Llapi                 2-0 (0-0)  KF Liria
+
+
+Matchday 1
+[Wed Oct/11]
+  15.00  KF Fushë Kosova          2-0 (1-0)  KF Gjilani
+
+
+Matchday 10
+[Fri Oct/20]
+  13.00  KF Ballkani              4-1 (0-1)  KF Liria
+[Sat Oct/21]
+  13.00  KF Feronikeli            0-0  FC Prishtina
+         KF Gjilani               1-0 (0-0)  KF Fushë Kosova
+[Sun Oct/22]
+  13.00  KF Llapi                 0-1 (0-0)  Drita Gjilan
+         KF Malisheva             3-4 (2-0)  KF Dukagjini
+
+
+Matchday 11
+[Sat Oct/28]
+  13.00  KF Fushë Kosova          0-0  KF Malisheva
+  19.00  FC Prishtina             2-1 (1-0)  KF Gjilani
+[Sun Oct/29]
+  13.00  KF Feronikeli            0-3 (0-1)  KF Ballkani
+         Drita Gjilan             1-1 (1-0)  KF Liria
+         KF Dukagjini             0-0  KF Llapi
+
+
+Matchday 12
+[Wed Nov/1]
+  13.00  KF Ballkani              1-0 (1-0)  Drita Gjilan
+         KF Malisheva             1-0 (0-0)  FC Prishtina
+         KF Gjilani               2-1 (1-0)  KF Feronikeli
+[Thu Nov/2]
+  13.00  KF Liria                 2-2 (0-0)  KF Dukagjini
+         KF Llapi                 1-1 (0-1)  KF Fushë Kosova
+
+
+Matchday 13
+[Sat Nov/4]
+  13.00  KF Feronikeli            0-0  KF Malisheva
+[Sun Nov/5]
+  13.00  KF Fushë Kosova          2-0 (0-0)  KF Liria
+         KF Dukagjini             1-0 (0-0)  Drita Gjilan
+  19.00  FC Prishtina             2-2 (1-0)  KF Llapi
+
+
+Matchday 14
+[Fri Nov/10]
+  13.00  KF Malisheva             1-0 (0-0)  KF Gjilani
+[Sat Nov/11]
+  13.00  KF Llapi                 1-0 (1-0)  KF Feronikeli
+         KF Liria                 2-2 (0-2)  FC Prishtina
+         Drita Gjilan             1-0 (0-0)  KF Fushë Kosova
+[Mon Nov/13]
+  13.00  KF Ballkani              3-1 (1-1)  KF Dukagjini
+
+
+Matchday 15
+[Fri Nov/24]
+  13.00  KF Malisheva             0-2 (0-2)  KF Ballkani
+[Sun Nov/26]
+  13.00  KF Gjilani               0-2 (0-0)  KF Llapi
+[Mon Nov/27]
+  13.00  KF Feronikeli            2-1 (0-0)  KF Liria
+         FC Prishtina             1-0 (0-0)  Drita Gjilan
+[Tue Nov/28]
+  13.00  KF Fushë Kosova          0-3 (0-1)  KF Dukagjini
+
+
+Matchday 16
+[Sat Dec/2]
+  13.00  KF Llapi                 0-1 (0-1)  KF Malisheva
+         KF Liria                 0-4 (0-3)  KF Gjilani
+[Sun Dec/3]
+  13.00  Drita Gjilan             3-1 (2-0)  KF Feronikeli
+         KF Ballkani              2-1 (0-1)  KF Fushë Kosova
+         KF Dukagjini             0-0  FC Prishtina
+
+
+Matchday 17
+[Sat Dec/9]
+  13.00  KF Llapi                 5-3 (3-2)  KF Ballkani
+         KF Malisheva             1-0 (0-0)  KF Liria
+         FC Prishtina             1-0 (1-0)  KF Fushë Kosova
+[Sun Dec/10]
+  13.00  KF Gjilani               0-1 (0-0)  Drita Gjilan
+         KF Feronikeli            1-0 (1-0)  KF Dukagjini
+
+
+Matchday 18
+[Sat Dec/16]
+  13.00  KF Dukagjini             1-0 (0-0)  KF Gjilani
+         Drita Gjilan             1-2 (1-2)  KF Malisheva
+         KF Fushë Kosova          0-1 (0-1)  KF Feronikeli
+[Sun Dec/17]
+  13.00  KF Ballkani              0-0  FC Prishtina
+         KF Liria                 0-2 (0-1)  KF Llapi
+
+
+Matchday 3
+[Wed Dec/20]
+  13.00  Drita Gjilan             2-1 (2-1)  KF Ballkani
+
+
+Matchday 13
+[Sun Dec/24]
+  12.00  KF Gjilani               0-0  KF Ballkani
+
+
+Matchday 19
+[Sat Feb/10]
+  13.00  KF Fushë Kosova          1-1 (0-1)  KF Gjilani
+         Drita Gjilan             0-1 (0-1)  KF Llapi
+[Sun Feb/11]
+  13.00  KF Dukagjini             2-1 (0-1)  KF Malisheva
+         KF Liria                 0-3 (0-1)  KF Ballkani
+         FC Prishtina             2-0 (1-0)  KF Feronikeli
+
+
+Matchday 20
+[Fri Feb/16]
+  13.00  KF Ballkani              2-2 (1-2)  KF Feronikeli
+         KF Liria                 0-1 (0-0)  Drita Gjilan
+         KF Gjilani               1-1 (0-0)  FC Prishtina
+[Sun Feb/18]
+  13.00  KF Llapi                 2-1 (1-0)  KF Dukagjini
+         KF Malisheva             4-1 (2-0)  KF Fushë Kosova
+
+
+Matchday 21
+[Wed Feb/21]
+  13.00  Drita Gjilan             1-0 (0-0)  KF Ballkani
+         KF Feronikeli            0-0  KF Gjilani
+         FC Prishtina             0-2 (0-1)  KF Malisheva
+[Thu Feb/22]
+  13.00  KF Fushë Kosova          0-3 (0-1)  KF Llapi
+         KF Dukagjini             2-1 (1-0)  KF Liria
+
+
+Matchday 22
+[Sat Feb/24]
+  13.00  KF Ballkani              1-1 (1-0)  KF Gjilani
+         KF Malisheva             2-1 (0-0)  KF Feronikeli
+[Sun Feb/25]
+  13.00  KF Liria                 0-0  KF Fushë Kosova
+         Drita Gjilan             2-0 (0-0)  KF Dukagjini
+         KF Llapi                 0-0  FC Prishtina
+
+
+Matchday 23
+[Sat Mar/2]
+  13.00  KF Feronikeli            0-1 (0-0)  KF Llapi
+         KF Fushë Kosova          1-0 (0-0)  Drita Gjilan
+         KF Dukagjini             1-2 (0-2)  KF Ballkani
+[Sun Mar/3]
+  13.00  FC Prishtina             3-1 (0-0)  KF Liria
+         KF Gjilani               2-3 (1-2)  KF Malisheva
+
+
+Matchday 24
+[Sat Mar/9]
+  13.00  Drita Gjilan             1-0 (0-0)  FC Prishtina
+         KF Dukagjini             0-0  KF Fushë Kosova
+         KF Llapi                 2-1 (1-0)  KF Gjilani
+[Sun Mar/10]
+  13.00  KF Liria                 0-2 (0-0)  KF Feronikeli
+         KF Ballkani              2-0 (0-0)  KF Malisheva
+
+
+Matchday 25
+[Wed Mar/13]
+  13.00  KF Gjilani               3-0 (1-0)  KF Liria
+         KF Malisheva             2-1 (1-0)  KF Llapi
+         KF Fushë Kosova          2-0 (1-0)  KF Ballkani
+[Thu Mar/14]
+  13.00  KF Feronikeli            0-1 (0-0)  Drita Gjilan
+         FC Prishtina             5-0 (3-0)  KF Dukagjini
+
+
+Matchday 26
+[Sat Mar/16]
+  13.00  KF Liria                 0-3 (0-1)  KF Malisheva
+         KF Ballkani              0-0  KF Llapi
+[Sun Mar/17]
+  13.00  Drita Gjilan             2-2 (1-2)  KF Gjilani
+         KF Dukagjini             1-0 (1-0)  KF Feronikeli
+         KF Fushë Kosova          0-0  FC Prishtina
+
+
+Matchday 27
+[Sat Mar/30]
+  15.00  KF Malisheva             1-1 (1-1)  Drita Gjilan
+         FC Prishtina             0-0  KF Ballkani
+[Sun Mar/31]
+  15.00  KF Feronikeli            1-0 (1-0)  KF Fushë Kosova
+         KF Gjilani               1-1 (1-0)  KF Dukagjini
+         KF Llapi                 3-0 (2-0)  KF Liria
+
+
+Matchday 28
+[Sat Apr/6]
+  15.00  KF Gjilani               4-0 (0-0)  KF Fushë Kosova
+         KF Malisheva             1-1 (0-0)  KF Dukagjini
+[Sun Apr/7]
+  15.00  KF Feronikeli            0-0  FC Prishtina
+         KF Ballkani              2-0 (0-0)  KF Liria
+         KF Llapi                 0-1 (0-1)  Drita Gjilan
+
+
+Matchday 29
+[Sat Apr/13]
+  15.00  KF Feronikeli            0-2 (0-1)  KF Ballkani
+         Drita Gjilan             4-2 (1-0)  KF Liria
+         FC Prishtina             1-3 (0-0)  KF Gjilani
+[Sun Apr/14]
+  15.00  KF Fushë Kosova          1-3 (0-1)  KF Malisheva
+         KF Dukagjini             1-1 (0-1)  KF Llapi
+
+
+Matchday 30
+[Sat Apr/20]
+  15.00  KF Ballkani              2-2 (0-0)  Drita Gjilan
+         KF Gjilani               1-1 (1-1)  KF Feronikeli
+         KF Liria                 0-0  KF Dukagjini
+[Sun Apr/21]
+  15.00  KF Malisheva             0-1 (0-0)  FC Prishtina
+         KF Llapi                 1-0 (0-0)  KF Fushë Kosova
+
+
+Matchday 31
+[Sat Apr/27]
+  15.00  KF Fushë Kosova          0-2 (0-2)  KF Liria
+         KF Feronikeli            2-1 (0-0)  KF Malisheva
+[Sun Apr/28]
+  15.00  KF Gjilani               0-2 (0-0)  KF Ballkani
+         FC Prishtina             0-2 (0-1)  KF Llapi
+         KF Dukagjini             1-1 (0-1)  Drita Gjilan
+
+
+Matchday 32
+[Sun May/5]
+  15.00  KF Ballkani              3-0 (2-0)  KF Dukagjini
+         KF Llapi                 3-2 (0-0)  KF Feronikeli
+         Drita Gjilan             3-1 (1-0)  KF Fushë Kosova
+         KF Liria                 0-1 (0-0)  FC Prishtina
+         KF Malisheva             0-0  KF Gjilani
+
+
+Matchday 33
+[Thu May/9]
+  15.00  FC Prishtina             1-2 (1-1)  Drita Gjilan
+         KF Fushë Kosova          1-2 (0-2)  KF Dukagjini
+         KF Malisheva             0-2 (0-1)  KF Ballkani
+         KF Feronikeli            4-1 (2-0)  KF Liria
+         KF Gjilani               1-1 (0-0)  KF Llapi
+
+
+Matchday 34
+[Sun May/12]
+  15.00  KF Liria                 1-3 (1-1)  KF Gjilani
+         KF Llapi                 1-0 (1-0)  KF Malisheva
+         KF Ballkani              3-0 (1-0)  KF Fushë Kosova
+         KF Dukagjini             1-0 (0-0)  FC Prishtina
+         Drita Gjilan             0-0  KF Feronikeli
+
+
+Matchday 35
+[Sat May/18]
+  15.00  KF Malisheva             7-4 (2-1)  KF Liria
+         KF Llapi                 0-1 (0-0)  KF Ballkani
+         FC Prishtina             5-0 (2-0)  KF Fushë Kosova
+         KF Gjilani               2-1 (1-0)  Drita Gjilan
+         KF Feronikeli            3-2 (2-1)  KF Dukagjini
+
+
+Matchday 36
+[Sat May/25]
+  15.00  Drita Gjilan             1-1 (0-1)  KF Malisheva
+         KF Liria                 1-5 (0-1)  KF Llapi
+         KF Fushë Kosova          0-3 (0-1)  KF Feronikeli
+         KF Dukagjini             2-4 (2-1)  KF Gjilani
+         KF Ballkani              2-1 (0-1)  FC Prishtina
