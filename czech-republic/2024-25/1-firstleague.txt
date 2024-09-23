@@ -103,21 +103,21 @@ Matchday 7
 
 Matchday 6
 [Tue Sep/17]
-  17.00  Viktoria Plzeň           -  Sigma Olomouc
-  19.30  FK Mladá Boleslav        -  Slavia Praha
+  17.00  Viktoria Plzeň           2-1 (1-0)  Sigma Olomouc
+  19.30  FK Mladá Boleslav        0-2 (0-2)  Slavia Praha
 
 
 Matchday 9
 [Sat Sep/21]
-  19.00  Slavia Praha             -  Viktoria Plzeň
-  16.00  MFK Karviná              -  FK Jablonec
-         FK Teplice               -  Baník Ostrava
-  13.30  FC Hradec Králové        -  1. FC Slovácko
+  19.00  Slavia Praha             3-0 (3-0)  Viktoria Plzeň
+  16.00  MFK Karviná              1-0 (1-0)  FK Jablonec
+         FK Teplice               2-3 (1-1)  Baník Ostrava
+  13.30  FC Hradec Králové        3-0 (1-0)  1. FC Slovácko
 [Sun Sep/22]
-  15.30  Sigma Olomouc            -  FK Dukla Praha
-         Dynamo České Budějovice  -  AC Sparta Praha
-  18.30  Slovan Liberec           -  Bohemians Praha 1905
-  13.00  FK Mladá Boleslav        -  FK Pardubice
+  15.30  Sigma Olomouc            2-1 (1-0)  FK Dukla Praha
+         Dynamo České Budějovice  0-2 (0-1)  AC Sparta Praha
+  18.30  Slovan Liberec           2-2 (2-1)  Bohemians Praha 1905
+  13.00  FK Mladá Boleslav        2-2 (1-1)  FK Pardubice
 
 
 Matchday 10
@@ -227,14 +227,14 @@ Matchday 17
 
 Matchday 8
 [Wed Dec/4]
-  Baník Ostrava            -  Slavia Praha
-  FK Jablonec              -  Dynamo České Budějovice
-  Bohemians Praha 1905     -  FC Hradec Králové
-  Viktoria Plzeň           -  FK Teplice
-  FK Pardubice             -  Sigma Olomouc
-  AC Sparta Praha          -  MFK Karviná
-  FK Dukla Praha           -  1. FC Slovácko
-  FK Mladá Boleslav        -  Slovan Liberec
+  17.00  Baník Ostrava            -  Slavia Praha
+         FK Jablonec              -  Dynamo České Budějovice
+         Bohemians Praha 1905     -  FC Hradec Králové
+         Viktoria Plzeň           -  FK Teplice
+         FK Pardubice             -  Sigma Olomouc
+         AC Sparta Praha          -  MFK Karviná
+         FK Dukla Praha           -  1. FC Slovácko
+         FK Mladá Boleslav        -  Slovan Liberec
 
 
 Matchday 18

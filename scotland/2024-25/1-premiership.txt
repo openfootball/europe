@@ -62,98 +62,105 @@ Matchday 5
   12.00  Dundee United            0-1 (0-1)  Rangers FC
 
 
+Matchday 15
+[Sat Sep/21]
+  15.00  St. Mirren FC            2-1 (2-1)  Heart of Midlothian
+         Ross County FC           3-3 (1-1)  St. Johnstone FC
+
+
 Matchday 6
 [Sat Sep/28]
-  15.00  Heart of Midlothian      -  Ross County FC
-         Kilmarnock FC            -  Dundee United
+  15.00  Kilmarnock FC            -  Dundee United
          Motherwell FC            -  St. Mirren FC
   17.45  St. Johnstone FC         -  Celtic FC
-  15.00  Dundee FC                -  Aberdeen FC
+  15.00  Heart of Midlothian      -  Ross County FC
+         Dundee FC                -  Aberdeen FC
 [Sun Sep/29]
   12.00  Rangers FC               -  Hibernian FC
 
 
 Matchday 7
 [Sat Oct/5]
-  15.00  Dundee FC                -  Kilmarnock FC
+  15.00  St. Mirren FC            -  Dundee United
+         Dundee FC                -  Kilmarnock FC
          Hibernian FC             -  Motherwell FC
-         St. Mirren FC            -  Dundee United
 [Sun Oct/6]
-  15.00  Aberdeen FC              -  Heart of Midlothian
   20.00  Rangers FC               -  St. Johnstone FC
+  15.00  Aberdeen FC              -  Heart of Midlothian
   12.00  Ross County FC           -  Celtic FC
 
 
 Matchday 8
 [Sat Oct/19]
-  15.00  Celtic FC                -  Aberdeen FC
-         Dundee United            -  Hibernian FC
-         Heart of Midlothian      -  St. Mirren FC
+  15.00  Heart of Midlothian      -  St. Mirren FC
          Motherwell FC            -  Dundee FC
          St. Johnstone FC         -  Ross County FC
+         Dundee United            -  Hibernian FC
+         Celtic FC                -  Aberdeen FC
 [Sun Oct/20]
   12.00  Kilmarnock FC            -  Rangers FC
 
 
 Matchday 9
 [Sat Oct/26]
-  15.00  Aberdeen FC              -  Dundee United
-         Dundee FC                -  St. Johnstone FC
+  17.45  Aberdeen FC              -  Dundee United
+  15.00  Dundee FC                -  St. Johnstone FC
          Ross County FC           -  Kilmarnock FC
 [Sun Oct/27]
+  15.00  Rangers FC               -  St. Mirren FC
   12.00  Hibernian FC             -  Heart of Midlothian
   15.00  Motherwell FC            -  Celtic FC
-  Rangers FC               -  St. Mirren FC
 
 
 Matchday 10
 [Wed Oct/30]
-  19.45  Aberdeen FC              -  Rangers FC
-         Celtic FC                -  Dundee FC
-         Dundee United            -  Motherwell FC
+  19.45  Dundee United            -  Motherwell FC
          Heart of Midlothian      -  Kilmarnock FC
          Ross County FC           -  Hibernian FC
          St. Mirren FC            -  St. Johnstone FC
+         Celtic FC                -  Dundee FC
+         Aberdeen FC              -  Rangers FC
 
 
 Matchday 11
 [Sat Nov/2]
-  15.00  Celtic FC                -  Dundee United
-         Dundee FC                -  Rangers FC
-         Hibernian FC             -  Aberdeen FC
+  15.00  Hibernian FC             -  Aberdeen FC
          Kilmarnock FC            -  Motherwell FC
-         St. Johnstone FC         -  Heart of Midlothian
+         Dundee FC                -  Rangers FC
          St. Mirren FC            -  Ross County FC
+         Celtic FC                -  Dundee United
+         St. Johnstone FC         -  Heart of Midlothian
 
 
 Matchday 12
 [Sat Nov/9]
-  15.00  Dundee United            -  Ross County FC
-         Hibernian FC             -  St. Mirren FC
-         Kilmarnock FC            -  Celtic FC
+  15.00  Kilmarnock FC            -  Celtic FC
          Motherwell FC            -  St. Johnstone FC
-         Rangers FC               -  Heart of Midlothian
+         Dundee United            -  Ross County FC
+         Hibernian FC             -  St. Mirren FC
          Aberdeen FC              -  Dundee FC
+[Sun Nov/10]
+  Rangers FC               -  Heart of Midlothian
 
 
 Matchday 13
 [Sat Nov/23]
-  15.00  Dundee FC                -  Hibernian FC
-         Heart of Midlothian      -  Celtic FC
-         Rangers FC               -  Dundee United
-         Ross County FC           -  Motherwell FC
+  15.00  Ross County FC           -  Motherwell FC
          St. Johnstone FC         -  Kilmarnock FC
          St. Mirren FC            -  Aberdeen FC
+         Rangers FC               -  Dundee United
+         Heart of Midlothian      -  Celtic FC
+         Dundee FC                -  Hibernian FC
 
 
 Matchday 14
 [Sat Nov/30]
-  15.00  Dundee United            -  St. Mirren FC
-         Heart of Midlothian      -  Aberdeen FC
-         Kilmarnock FC            -  Dundee FC
+  15.00  Kilmarnock FC            -  Dundee FC
          Motherwell FC            -  Hibernian FC
          St. Johnstone FC         -  Rangers FC
+         Dundee United            -  St. Mirren FC
          Celtic FC                -  Ross County FC
+         Heart of Midlothian      -  Aberdeen FC
 
 
 Matchday 15
@@ -162,8 +169,6 @@ Matchday 15
          Dundee FC                -  Motherwell FC
          Hibernian FC             -  Dundee United
          Rangers FC               -  Kilmarnock FC
-         Ross County FC           -  St. Johnstone FC
-         St. Mirren FC            -  Heart of Midlothian
 
 
 Matchday 16

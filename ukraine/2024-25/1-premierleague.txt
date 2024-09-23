@@ -92,18 +92,18 @@ Matchday 6
 
 Matchday 4
 [Wed Sep/18]
-  18.00  Dinamo Kiev              -  Vorskla Poltava
+  18.00  Dinamo Kiev              3-1 (2-0)  Vorskla Poltava
 
 
 Matchday 7
 [Sat Sep/21]
-  15.30  FK Oleksandriya          -  Livyi Bereh
-  18.00  Dinamo Kiev              -  Rukh Lviv
-  13.00  Chernomorets Odessa      -  Karpaty Lviv
+  15.30  FK Oleksandriya          2-0 (0-0)  Livyi Bereh
+  18.00  Dinamo Kiev              0-0  Rukh Lviv
+  13.00  Chernomorets Odessa      0-1 (0-0)  Karpaty Lviv
 [Sun Sep/22]
-  15.30  Kryvbas Kryvyi Rih       -  Vorskla Poltava
-  18.00  Polissya Zhytomyr        -  FC LNZ Cherkasy
-  13.00  Inhulets Petrove         -  NK Veres
+  15.30  Kryvbas Kryvyi Rih       1-1 (1-1)  Vorskla Poltava
+  18.00  Polissya Zhytomyr        1-1 (0-1)  FC LNZ Cherkasy
+  13.00  NK Veres                 2-2 (0-2)  Inhulets Petrove
 [Mon Sep/23]
   15.30  Kolos Kovalivka          -  Zorya Lugansk
   18.00  Shakhtar Donetsk         -  FK Obolon
@@ -125,15 +125,17 @@ Matchday 8
 
 
 Matchday 9
+[Fri Oct/4]
+  18.00  Inhulets Petrove         -  Karpaty Lviv
+  15.30  Chernomorets Odessa      -  FK Obolon
 [Sat Oct/5]
-  Dinamo Kiev              -  Kryvbas Kryvyi Rih
-  Shakhtar Donetsk         -  FC LNZ Cherkasy
-  Vorskla Poltava          -  Polissya Zhytomyr
-  Kolos Kovalivka          -  Livyi Bereh
-  NK Veres                 -  Zorya Lugansk
-  FK Oleksandriya          -  Rukh Lviv
-  Inhulets Petrove         -  Karpaty Lviv
-  Chernomorets Odessa      -  FK Obolon
+  13.00  NK Veres                 -  Zorya Lugansk
+  15.30  FK Oleksandriya          -  Rukh Lviv
+  18.00  Kolos Kovalivka          -  Livyi Bereh
+[Sun Oct/6]
+  15.30  Shakhtar Donetsk         -  FC LNZ Cherkasy
+  18.00  Dinamo Kiev              -  Kryvbas Kryvyi Rih
+  13.00  Vorskla Poltava          -  Polissya Zhytomyr
 
 
 Matchday 10
@@ -289,7 +291,7 @@ Matchday 22
   FC LNZ Cherkasy          -  Polissya Zhytomyr
   Vorskla Poltava          -  Kryvbas Kryvyi Rih
   Zorya Lugansk            -  Kolos Kovalivka
-  NK Veres                 -  Inhulets Petrove
+  Inhulets Petrove         -  NK Veres
 
 
 Matchday 23

@@ -1,0 +1,255 @@
+= Andorran Premier Division 2024/25
+
+# Date       Sat Sep/14 2024 - Sun May/18 2025 (246d)
+# Teams      10
+# Matches    135
+
+
+
+Matchday 1
+[Sat Sep/14]
+  20.30  FC Pas de la Casa        1-2  FC Ordino
+[Sun Sep/15]
+  11.00  UE Santa Coloma          0-1  FC Santa Coloma
+  13.30  Inter Club d'Escaldes    6-1  FS La Massana
+  16.00  FC Rànger's              4-0  CF Esperança d'Andorra
+  Penya Encarnada          -  Atlétic Escaldes
+
+
+Matchday 2
+[Sat Sep/21]
+  20.30  FC Santa Coloma          1-1  FC Rànger's
+[Sun Sep/22]
+  11.00  CF Esperança d'Andorra   0-3  Inter Club d'Escaldes
+  13.30  Atlétic Escaldes         3-2  FC Pas de la Casa
+  16.00  FS La Massana            1-3  Penya Encarnada
+  18.30  FC Ordino                0-2  UE Santa Coloma
+
+
+Matchday 3
+[Sat Sep/28]
+  20.30  FC Pas de la Casa        -  UE Santa Coloma
+[Sun Sep/29]
+  13.30  Penya Encarnada          -  CF Esperança d'Andorra
+  16.00  Inter Club d'Escaldes    -  FC Santa Coloma
+  18.30  Atlétic Escaldes         -  FS La Massana
+  11.00  FC Rànger's              -  FC Ordino
+
+
+Matchday 4
+[Sat Oct/5]
+  20.30  CF Esperança d'Andorra   -  Atlétic Escaldes
+[Sun Oct/6]
+  16.00  FC Ordino                -  Inter Club d'Escaldes
+  18.30  FC Santa Coloma          -  Penya Encarnada
+  23.00  FS La Massana            -  FC Pas de la Casa
+  13.30  UE Santa Coloma          -  FC Rànger's
+
+
+Matchday 5
+[Sat Oct/19]
+  20.30  FS La Massana            -  CF Esperança d'Andorra
+[Sun Oct/20]
+  13.30  Penya Encarnada          -  FC Ordino
+  16.00  Inter Club d'Escaldes    -  UE Santa Coloma
+  18.30  FC Pas de la Casa        -  FC Rànger's
+  23.00  Atlétic Escaldes         -  FC Santa Coloma
+
+
+Matchday 6
+[Sat Oct/26]
+  20.30  FC Ordino                -  Atlétic Escaldes
+[Sun Oct/27]
+  16.00  CF Esperança d'Andorra   -  FC Pas de la Casa
+  18.30  FC Rànger's              -  Inter Club d'Escaldes
+  23.00  UE Santa Coloma          -  Penya Encarnada
+  13.30  FC Santa Coloma          -  FS La Massana
+
+
+Matchday 7
+[Sun Nov/3]
+  CF Esperança d'Andorra   -  FC Santa Coloma
+  FS La Massana            -  FC Ordino
+  Atlétic Escaldes         -  UE Santa Coloma
+  Penya Encarnada          -  FC Rànger's
+  FC Pas de la Casa        -  Inter Club d'Escaldes
+
+
+Matchday 8
+[Sun Nov/10]
+  FC Ordino                -  CF Esperança d'Andorra
+  UE Santa Coloma          -  FS La Massana
+  FC Rànger's              -  Atlétic Escaldes
+  Inter Club d'Escaldes    -  Penya Encarnada
+  FC Pas de la Casa        -  FC Santa Coloma
+
+
+Matchday 9
+[Sun Nov/24]
+  FC Santa Coloma          -  FC Ordino
+  CF Esperança d'Andorra   -  UE Santa Coloma
+  FS La Massana            -  FC Rànger's
+  Atlétic Escaldes         -  Inter Club d'Escaldes
+  Penya Encarnada          -  FC Pas de la Casa
+
+
+Matchday 10
+[Sun Dec/1]
+  Atlétic Escaldes         -  FC Santa Coloma
+  Inter Club d'Escaldes    -  FC Rànger's
+  UE Santa Coloma          -  Penya Encarnada
+  FC Pas de la Casa        -  CF Esperança d'Andorra
+  FC Ordino                -  FS La Massana
+
+
+Matchday 11
+[Sun Dec/8]
+  FS La Massana            -  CF Esperança d'Andorra
+  FC Ordino                -  FC Santa Coloma
+  Inter Club d'Escaldes    -  Atlétic Escaldes
+  Penya Encarnada          -  FC Rànger's
+  FC Pas de la Casa        -  UE Santa Coloma
+
+
+Matchday 12
+[Sun Dec/15]
+  Inter Club d'Escaldes    -  FC Ordino
+  Atlétic Escaldes         -  Penya Encarnada
+  FC Rànger's              -  FC Pas de la Casa
+  UE Santa Coloma          -  CF Esperança d'Andorra
+  FS La Massana            -  FC Santa Coloma
+
+
+Matchday 13
+[Sun Jan/19]
+  FC Santa Coloma          -  CF Esperança d'Andorra
+  Inter Club d'Escaldes    -  FS La Massana
+  FC Ordino                -  Penya Encarnada
+  FC Pas de la Casa        -  Atlétic Escaldes
+  UE Santa Coloma          -  FC Rànger's
+
+
+Matchday 14
+[Sun Jan/26]
+  FC Santa Coloma          -  Inter Club d'Escaldes
+  FS La Massana            -  Penya Encarnada
+  FC Ordino                -  FC Pas de la Casa
+  UE Santa Coloma          -  Atlétic Escaldes
+  CF Esperança d'Andorra   -  FC Rànger's
+
+
+Matchday 15
+[Sun Feb/2]
+  Penya Encarnada          -  FC Santa Coloma
+  FC Pas de la Casa        -  FS La Massana
+  UE Santa Coloma          -  FC Ordino
+  Atlétic Escaldes         -  FC Rànger's
+  Inter Club d'Escaldes    -  CF Esperança d'Andorra
+
+
+Matchday 16
+[Sun Feb/9]
+  Penya Encarnada          -  Inter Club d'Escaldes
+  FC Santa Coloma          -  FC Pas de la Casa
+  FS La Massana            -  UE Santa Coloma
+  FC Ordino                -  FC Rànger's
+  CF Esperança d'Andorra   -  Atlétic Escaldes
+
+
+Matchday 17
+[Sun Feb/16]
+  FC Pas de la Casa        -  Inter Club d'Escaldes
+  FC Santa Coloma          -  UE Santa Coloma
+  FC Rànger's              -  FS La Massana
+  Atlétic Escaldes         -  FC Ordino
+  CF Esperança d'Andorra   -  Penya Encarnada
+
+
+Matchday 18
+[Sun Feb/23]
+  Penya Encarnada          -  FC Pas de la Casa
+  Inter Club d'Escaldes    -  UE Santa Coloma
+  FC Rànger's              -  FC Santa Coloma
+  FS La Massana            -  Atlétic Escaldes
+  CF Esperança d'Andorra   -  FC Ordino
+
+
+Matchday 19
+[Sun Mar/2]
+  UE Santa Coloma          -  FC Pas de la Casa
+  Atlétic Escaldes         -  FC Ordino
+  FS La Massana            -  Inter Club d'Escaldes
+  FC Rànger's              -  Penya Encarnada
+  FC Santa Coloma          -  CF Esperança d'Andorra
+
+
+Matchday 20
+[Sun Mar/9]
+  CF Esperança d'Andorra   -  FC Rànger's
+  FC Pas de la Casa        -  FC Santa Coloma
+  FC Ordino                -  UE Santa Coloma
+  Inter Club d'Escaldes    -  Atlétic Escaldes
+  Penya Encarnada          -  FS La Massana
+
+
+Matchday 21
+[Sun Mar/30]
+  CF Esperança d'Andorra   -  FC Pas de la Casa
+  FC Santa Coloma          -  FC Ordino
+  UE Santa Coloma          -  Inter Club d'Escaldes
+  Atlétic Escaldes         -  Penya Encarnada
+  FC Rànger's              -  FS La Massana
+
+
+Matchday 22
+[Sun Apr/6]
+  FC Ordino                -  CF Esperança d'Andorra
+  Inter Club d'Escaldes    -  FC Santa Coloma
+  Penya Encarnada          -  UE Santa Coloma
+  FS La Massana            -  Atlétic Escaldes
+  FC Pas de la Casa        -  FC Rànger's
+
+
+Matchday 23
+[Sun Apr/13]
+  FC Pas de la Casa        -  FC Ordino
+  CF Esperança d'Andorra   -  Inter Club d'Escaldes
+  FC Santa Coloma          -  Penya Encarnada
+  UE Santa Coloma          -  FS La Massana
+  FC Rànger's              -  Atlétic Escaldes
+
+
+Matchday 24
+[Sun Apr/27]
+  Inter Club d'Escaldes    -  FC Pas de la Casa
+  Penya Encarnada          -  CF Esperança d'Andorra
+  FS La Massana            -  FC Santa Coloma
+  Atlétic Escaldes         -  UE Santa Coloma
+  FC Ordino                -  FC Rànger's
+
+
+Matchday 25
+[Sun May/4]
+  FC Ordino                -  Inter Club d'Escaldes
+  FC Pas de la Casa        -  Penya Encarnada
+  CF Esperança d'Andorra   -  FS La Massana
+  FC Santa Coloma          -  Atlétic Escaldes
+  FC Rànger's              -  UE Santa Coloma
+
+
+Matchday 26
+[Sun May/11]
+  Penya Encarnada          -  FC Ordino
+  FS La Massana            -  FC Pas de la Casa
+  Atlétic Escaldes         -  CF Esperança d'Andorra
+  UE Santa Coloma          -  FC Santa Coloma
+  FC Rànger's              -  Inter Club d'Escaldes
+
+
+Matchday 27
+[Sun May/18]
+  Inter Club d'Escaldes    -  Penya Encarnada
+  FC Ordino                -  FS La Massana
+  FC Pas de la Casa        -  Atlétic Escaldes
+  CF Esperança d'Andorra   -  UE Santa Coloma
+  FC Santa Coloma          -  FC Rànger's

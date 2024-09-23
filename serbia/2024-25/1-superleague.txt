@@ -1,0 +1,393 @@
+= Serbian Super League 2024/25
+
+# Date       Fri Jul/19 2024 - Sat Apr/5 2025 (260d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Jul/19]
+  21.00  FK Napredak              0-1 (0-0)  Partizan
+  19.00  FK Radnički 1923         2-3 (1-3)  Železničar Pančevo
+[Sat Jul/20]
+  20.00  Mladost Lučani           1-2 (0-0)  OFK Beograd
+         FK Čukarički             2-0 (2-0)  Radnički Niš
+         Crvena Zvezda            4-0 (2-0)  Jedinstvo Ub
+[Sun Jul/21]
+  17.30  FK Novi Pazar            3-2 (2-0)  Spartak Subotica
+  19.30  Tekstilac Odžaci         1-3 (0-1)  Vojvodina
+         TSC Bačka Topola         1-0 (0-0)  IMT Beograd
+
+
+Matchday 2
+[Sat Jul/27]
+  20.00  Železničar Pančevo       1-1 (1-0)  FK Napredak
+         Crvena Zvezda            2-2 (0-2)  Mladost Lučani
+         Jedinstvo Ub             0-4 (0-2)  Partizan
+[Sun Jul/28]
+  21.00  Radnički Niš             1-0 (0-0)  TSC Bačka Topola
+         Spartak Subotica         1-1 (0-1)  FK Čukarički
+  Vojvodina                -  FK Novi Pazar
+[Mon Jul/29]
+  20.00  OFK Beograd              1-0 (1-0)  Tekstilac Odžaci
+
+
+Matchday 3
+[Fri Aug/2]
+  20.00  FK Napredak              1-1 (0-0)  IMT Beograd
+[Sat Aug/3]
+  17.30  FK Novi Pazar            0-0  OFK Beograd
+  20.00  Mladost Lučani           2-1 (0-1)  Jedinstvo Ub
+         Tekstilac Odžaci         0-4 (0-0)  Crvena Zvezda
+[Sun Aug/4]
+  20.00  Partizan                 2-0 (2-0)  Železničar Pančevo
+  17.30  TSC Bačka Topola         0-0  Spartak Subotica
+  20.00  FK Čukarički             3-1 (3-1)  Vojvodina
+  21.00  FK Radnički 1923         4-0 (2-0)  Radnički Niš
+
+
+Matchday 4
+[Fri Aug/9]
+  18.00  OFK Beograd              1-2 (0-1)  FK Čukarički
+  20.00  Radnički Niš             3-1 (2-1)  FK Napredak
+[Sat Aug/10]
+  20.00  Mladost Lučani           1-2 (0-1)  Tekstilac Odžaci
+         Spartak Subotica         1-0 (1-0)  FK Radnički 1923
+         Crvena Zvezda            4-1 (1-0)  FK Novi Pazar
+[Sun Aug/11]
+  20.00  Vojvodina                1-3 (0-2)  TSC Bačka Topola
+  18.00  Jedinstvo Ub             0-1 (0-1)  Železničar Pančevo
+  20.00  IMT Beograd              0-0  Partizan
+
+
+Matchday 5
+[Thu Aug/15]
+  20.00  FK Čukarički             1-4 (0-2)  Crvena Zvezda
+[Fri Aug/16]
+  18.55  TSC Bačka Topola         0-1 (0-1)  OFK Beograd
+[Sat Aug/17]
+  17.30  FK Novi Pazar            0-1 (0-1)  Mladost Lučani
+  19.30  Tekstilac Odžaci         1-1 (1-0)  Jedinstvo Ub
+         FK Napredak              2-0 (1-0)  Spartak Subotica
+[Sun Aug/18]
+  Partizan                 -  Radnički Niš
+  19.30  Železničar Pančevo       2-1 (1-1)  IMT Beograd
+[Mon Aug/19]
+  19.00  FK Radnički 1923         2-2 (1-2)  Vojvodina
+
+
+Matchday 6
+[Fri Aug/23]
+  21.00  Mladost Lučani           3-1 (2-0)  FK Čukarički
+[Sat Aug/24]
+  21.00  Jedinstvo Ub             2-3 (1-3)  IMT Beograd
+  Crvena Zvezda            -  TSC Bačka Topola
+  19.00  Radnički Niš             2-1 (1-1)  Železničar Pančevo
+         Tekstilac Odžaci         2-1 (1-0)  FK Novi Pazar
+[Sun Aug/25]
+  Spartak Subotica         -  Partizan
+  19.30  Vojvodina                1-2 (0-0)  FK Napredak
+  19.00  OFK Beograd              3-5 (2-3)  FK Radnički 1923
+
+
+Matchday 7
+[Fri Aug/30]
+  18.30  IMT Beograd              3-1 (1-0)  Radnički Niš
+  20.30  FK Čukarički             3-0 (2-0)  Tekstilac Odžaci
+[Sat Aug/31]
+  20.30  Železničar Pančevo       2-0 (1-0)  Spartak Subotica
+  17.00  FK Novi Pazar            3-1 (1-1)  Jedinstvo Ub
+  20.30  FK Napredak              1-3 (1-0)  OFK Beograd
+[Sun Sep/1]
+  19.00  TSC Bačka Topola         1-2 (1-2)  Mladost Lučani
+         FK Radnički 1923         0-1 (0-0)  Crvena Zvezda
+  21.05  Partizan                 0-0  Vojvodina
+
+
+Matchday 8
+[Fri Sep/13]
+  19.00  Spartak Subotica         2-0 (1-0)  IMT Beograd
+[Sat Sep/14]
+  20.00  Mladost Lučani           2-1 (0-1)  FK Radnički 1923
+  18.00  Vojvodina                2-0 (2-0)  Železničar Pančevo
+  20.00  Crvena Zvezda            2-0 (1-0)  FK Napredak
+[Sun Sep/15]
+  19.00  Tekstilac Odžaci         2-1 (0-0)  TSC Bačka Topola
+  17.00  FK Novi Pazar            2-2 (2-1)  FK Čukarički
+  19.00  OFK Beograd              3-2 (1-2)  Partizan
+[Mon Sep/16]
+  20.00  Jedinstvo Ub             0-2 (0-0)  Radnički Niš
+
+
+Matchday 2
+[Wed Sep/18]
+  18.00  IMT Beograd              0-4 (0-2)  FK Radnički 1923
+
+
+Matchday 9
+[Sat Sep/21]
+  18.00  TSC Bačka Topola         5-2 (0-0)  FK Novi Pazar
+  20.00  FK Napredak              1-2 (1-2)  Mladost Lučani
+  18.00  FK Čukarički             2-1 (0-1)  Jedinstvo Ub
+[Sun Sep/22]
+  19.00  IMT Beograd              0-3 (0-0)  Vojvodina
+         Radnički Niš             3-2 (2-0)  Spartak Subotica
+  20.00  Železničar Pančevo       0-1 (0-1)  OFK Beograd
+[Mon Sep/23]
+  19.00  Partizan                 -  Crvena Zvezda
+  17.00  FK Radnički 1923         -  Tekstilac Odžaci
+
+
+Matchday 10
+[Fri Sep/27]
+  19.00  Crvena Zvezda            -  Železničar Pančevo
+[Sat Sep/28]
+  17.00  OFK Beograd              -  IMT Beograd
+  18.00  FK Novi Pazar            -  FK Radnički 1923
+         FK Čukarički             -  TSC Bačka Topola
+  20.00  Vojvodina                -  Radnički Niš
+[Sun Sep/29]
+  17.00  Mladost Lučani           -  Partizan
+  19.00  Jedinstvo Ub             -  Spartak Subotica
+  15.00  Tekstilac Odžaci         -  FK Napredak
+
+
+Matchday 11
+[Sat Oct/5]
+  TSC Bačka Topola         -  Jedinstvo Ub
+  FK Radnički 1923         -  FK Čukarički
+  FK Napredak              -  FK Novi Pazar
+  Partizan                 -  Tekstilac Odžaci
+  Železničar Pančevo       -  Mladost Lučani
+  IMT Beograd              -  Crvena Zvezda
+  Radnički Niš             -  OFK Beograd
+  Spartak Subotica         -  Vojvodina
+
+
+Matchday 12
+[Sat Oct/19]
+  Jedinstvo Ub             -  Vojvodina
+  OFK Beograd              -  Spartak Subotica
+  Crvena Zvezda            -  Radnički Niš
+  Mladost Lučani           -  IMT Beograd
+  Tekstilac Odžaci         -  Železničar Pančevo
+  FK Novi Pazar            -  Partizan
+  FK Čukarički             -  FK Napredak
+  TSC Bačka Topola         -  FK Radnički 1923
+
+
+Matchday 13
+[Sat Oct/26]
+  FK Napredak              -  TSC Bačka Topola
+  Partizan                 -  FK Čukarički
+  Železničar Pančevo       -  FK Novi Pazar
+  IMT Beograd              -  Tekstilac Odžaci
+  Radnički Niš             -  Mladost Lučani
+  Spartak Subotica         -  Crvena Zvezda
+  Vojvodina                -  OFK Beograd
+  FK Radnički 1923         -  Jedinstvo Ub
+
+
+Matchday 14
+[Sat Nov/2]
+  Jedinstvo Ub             -  OFK Beograd
+  Crvena Zvezda            -  Vojvodina
+  Mladost Lučani           -  Spartak Subotica
+  Tekstilac Odžaci         -  Radnički Niš
+  FK Novi Pazar            -  IMT Beograd
+  FK Čukarički             -  Železničar Pančevo
+  TSC Bačka Topola         -  Partizan
+  FK Radnički 1923         -  FK Napredak
+
+
+Matchday 15
+[Sat Nov/9]
+  Partizan                 -  FK Radnički 1923
+  Železničar Pančevo       -  TSC Bačka Topola
+  IMT Beograd              -  FK Čukarički
+  Radnički Niš             -  FK Novi Pazar
+  Spartak Subotica         -  Tekstilac Odžaci
+  Vojvodina                -  Mladost Lučani
+  OFK Beograd              -  Crvena Zvezda
+  FK Napredak              -  Jedinstvo Ub
+
+
+Matchday 16
+[Sat Nov/23]
+  Jedinstvo Ub             -  Crvena Zvezda
+  OFK Beograd              -  Mladost Lučani
+  Vojvodina                -  Tekstilac Odžaci
+  Spartak Subotica         -  FK Novi Pazar
+  Radnički Niš             -  FK Čukarički
+  IMT Beograd              -  TSC Bačka Topola
+  Železničar Pančevo       -  FK Radnički 1923
+  Partizan                 -  FK Napredak
+
+
+Matchday 17
+[Sat Nov/30]
+  FK Napredak              -  Železničar Pančevo
+  FK Radnički 1923         -  IMT Beograd
+  TSC Bačka Topola         -  Radnički Niš
+  FK Čukarički             -  Spartak Subotica
+  FK Novi Pazar            -  Vojvodina
+  Tekstilac Odžaci         -  OFK Beograd
+  Mladost Lučani           -  Crvena Zvezda
+  Partizan                 -  Jedinstvo Ub
+
+
+Matchday 18
+[Sat Dec/7]
+  Jedinstvo Ub             -  Mladost Lučani
+  Crvena Zvezda            -  Tekstilac Odžaci
+  OFK Beograd              -  FK Novi Pazar
+  Vojvodina                -  FK Čukarički
+  Spartak Subotica         -  TSC Bačka Topola
+  Radnički Niš             -  FK Radnički 1923
+  IMT Beograd              -  FK Napredak
+  Železničar Pančevo       -  Partizan
+
+
+Matchday 19
+[Sat Dec/14]
+  Partizan                 -  IMT Beograd
+  FK Napredak              -  Radnički Niš
+  FK Radnički 1923         -  Spartak Subotica
+  TSC Bačka Topola         -  Vojvodina
+  FK Čukarički             -  OFK Beograd
+  FK Novi Pazar            -  Crvena Zvezda
+  Tekstilac Odžaci         -  Mladost Lučani
+  Železničar Pančevo       -  Jedinstvo Ub
+
+
+Matchday 20
+[Sat Dec/21]
+  Jedinstvo Ub             -  Tekstilac Odžaci
+  Mladost Lučani           -  FK Novi Pazar
+  Crvena Zvezda            -  FK Čukarički
+  OFK Beograd              -  TSC Bačka Topola
+  Vojvodina                -  FK Radnički 1923
+  Spartak Subotica         -  FK Napredak
+  Radnički Niš             -  Partizan
+  IMT Beograd              -  Železničar Pančevo
+
+
+Matchday 21
+[Sat Feb/1]
+  Železničar Pančevo       -  Radnički Niš
+  Partizan                 -  Spartak Subotica
+  FK Napredak              -  Vojvodina
+  FK Radnički 1923         -  OFK Beograd
+  TSC Bačka Topola         -  Crvena Zvezda
+  FK Čukarički             -  Mladost Lučani
+  FK Novi Pazar            -  Tekstilac Odžaci
+  IMT Beograd              -  Jedinstvo Ub
+
+
+Matchday 22
+[Sat Feb/8]
+  Jedinstvo Ub             -  FK Novi Pazar
+  Tekstilac Odžaci         -  FK Čukarički
+  Mladost Lučani           -  TSC Bačka Topola
+  Crvena Zvezda            -  FK Radnički 1923
+  OFK Beograd              -  FK Napredak
+  Vojvodina                -  Partizan
+  Spartak Subotica         -  Železničar Pančevo
+  Radnički Niš             -  IMT Beograd
+
+
+Matchday 23
+[Sat Feb/15]
+  IMT Beograd              -  Spartak Subotica
+  Železničar Pančevo       -  Vojvodina
+  Partizan                 -  OFK Beograd
+  FK Napredak              -  Crvena Zvezda
+  FK Radnički 1923         -  Mladost Lučani
+  TSC Bačka Topola         -  Tekstilac Odžaci
+  FK Čukarički             -  FK Novi Pazar
+  Radnički Niš             -  Jedinstvo Ub
+
+
+Matchday 24
+[Sat Feb/22]
+  Jedinstvo Ub             -  FK Čukarički
+  FK Novi Pazar            -  TSC Bačka Topola
+  Tekstilac Odžaci         -  FK Radnički 1923
+  Mladost Lučani           -  FK Napredak
+  Crvena Zvezda            -  Partizan
+  OFK Beograd              -  Železničar Pančevo
+  Vojvodina                -  IMT Beograd
+  Spartak Subotica         -  Radnički Niš
+
+
+Matchday 25
+[Wed Feb/26]
+  Radnički Niš             -  Vojvodina
+  IMT Beograd              -  OFK Beograd
+  Železničar Pančevo       -  Crvena Zvezda
+  Partizan                 -  Mladost Lučani
+  FK Napredak              -  Tekstilac Odžaci
+  FK Radnički 1923         -  FK Novi Pazar
+  TSC Bačka Topola         -  FK Čukarički
+  Spartak Subotica         -  Jedinstvo Ub
+
+
+Matchday 26
+[Sun Mar/2]
+  Jedinstvo Ub             -  TSC Bačka Topola
+  FK Čukarički             -  FK Radnički 1923
+  FK Novi Pazar            -  FK Napredak
+  Tekstilac Odžaci         -  Partizan
+  Mladost Lučani           -  Železničar Pančevo
+  Crvena Zvezda            -  IMT Beograd
+  OFK Beograd              -  Radnički Niš
+  Vojvodina                -  Spartak Subotica
+
+
+Matchday 27
+[Sat Mar/8]
+  Spartak Subotica         -  OFK Beograd
+  Radnički Niš             -  Crvena Zvezda
+  IMT Beograd              -  Mladost Lučani
+  Železničar Pančevo       -  Tekstilac Odžaci
+  Partizan                 -  FK Novi Pazar
+  FK Napredak              -  FK Čukarički
+  FK Radnički 1923         -  TSC Bačka Topola
+  Vojvodina                -  Jedinstvo Ub
+
+
+Matchday 28
+[Sat Mar/15]
+  Jedinstvo Ub             -  FK Radnički 1923
+  TSC Bačka Topola         -  FK Napredak
+  FK Čukarički             -  Partizan
+  FK Novi Pazar            -  Železničar Pančevo
+  Tekstilac Odžaci         -  IMT Beograd
+  Mladost Lučani           -  Radnički Niš
+  Crvena Zvezda            -  Spartak Subotica
+  OFK Beograd              -  Vojvodina
+
+
+Matchday 29
+[Sat Mar/29]
+  Vojvodina                -  Crvena Zvezda
+  Spartak Subotica         -  Mladost Lučani
+  Radnički Niš             -  Tekstilac Odžaci
+  IMT Beograd              -  FK Novi Pazar
+  Železničar Pančevo       -  FK Čukarički
+  Partizan                 -  TSC Bačka Topola
+  FK Napredak              -  FK Radnički 1923
+  OFK Beograd              -  Jedinstvo Ub
+
+
+Matchday 30
+[Sat Apr/5]
+  Jedinstvo Ub             -  FK Napredak
+  FK Radnički 1923         -  Partizan
+  TSC Bačka Topola         -  Železničar Pančevo
+  FK Čukarički             -  IMT Beograd
+  FK Novi Pazar            -  Radnički Niš
+  Tekstilac Odžaci         -  Spartak Subotica
+  Mladost Lučani           -  Vojvodina
+  Crvena Zvezda            -  OFK Beograd

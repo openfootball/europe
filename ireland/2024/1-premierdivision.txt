@@ -322,12 +322,12 @@ Matchday 19
 
 Matchday 31
 [Fri Sep/20]
-  19.45  St Patrick's Athletic    -  Waterford FC
-         Galway United            -  Shelbourne FC
-         Derry City               -  Shamrock Rovers
-         Bohemian FC              -  Drogheda United
+  19.45  St Patrick's Athletic    3-0 (2-0)  Waterford FC
+         Galway United            1-0 (1-0)  Shelbourne FC
+         Derry City               1-1 (0-1)  Shamrock Rovers
+         Bohemian FC              0-1 (0-1)  Drogheda United
 [Sat Sep/21]
-  19.45  Sligo Rovers             -  Dundalk FC
+  19.45  Sligo Rovers             2-1 (0-1)  Dundalk FC
 
 
 Matchday 30
@@ -356,16 +356,21 @@ Matchday 30
 
 Matchday 33
 [Fri Oct/4]
-  19.45  Bohemian FC              -  St Patrick's Athletic
-         Derry City               -  Sligo Rovers
+  19.45  Derry City               -  Sligo Rovers
          Galway United            -  Dundalk FC
-  20.00  Shamrock Rovers          -  Shelbourne FC
-  19.45  Waterford FC             -  Drogheda United
+         Waterford FC             -  Drogheda United
+[Sun Oct/6]
+  17.45  Shamrock Rovers          -  Shelbourne FC
 
 
 Matchday 30
 [Fri Oct/11]
   19.45  Derry City               -  Bohemian FC
+
+
+Matchday 33
+[Mon Oct/14]
+  19.45  Bohemian FC              -  St Patrick's Athletic
 
 
 Matchday 34

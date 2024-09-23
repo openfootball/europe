@@ -1,0 +1,246 @@
+= Bosnian-Herzegovinian Premier League 2024/25
+
+# Date       Sat Aug/3 2024 - Sat Mar/8 2025 (217d)
+# Teams      12
+# Matches    132
+
+
+
+Matchday 1
+[Sat Aug/3]
+  21.00  Željezničar Sarajevo     0-1 (0-1)  Široki Brijeg
+  18.45  NK GOŠK Gabela           0-1 (0-0)  Radnik Bijeljina
+[Sun Aug/4]
+  21.00  FK Sarajevo              3-1 (1-1)  Sloboda Tuzla
+  17.30  HŠK Posušje              1-0 (0-0)  Igman Konjic
+
+
+Matchday 2
+[Sat Aug/10]
+  21.00  Velež Mostar             1-2 (0-0)  Željezničar Sarajevo
+  18.45  Sloboda Tuzla            0-2 (0-1)  HŠK Posušje
+  Igman Konjic             -  Borac Banja Luka
+[Sun Aug/11]
+  21.00  NK GOŠK Gabela           1-4 (1-1)  Zrinjski Mostar
+  18.45  Radnik Bijeljina         1-1 (0-1)  Široki Brijeg
+[Mon Aug/12]
+  17.30  Sloga Doboj              1-3 (1-3)  FK Sarajevo
+
+
+Matchday 3
+[Sat Aug/17]
+  17.30  HŠK Posušje              1-1 (1-1)  Sloga Doboj
+  21.00  Željezničar Sarajevo     3-1 (2-0)  Igman Konjic
+[Sun Aug/18]
+  21.00  Borac Banja Luka         2-0 (1-0)  Sloboda Tuzla
+  18.45  Široki Brijeg            0-2 (0-1)  Velež Mostar
+[Mon Aug/19]
+  Zrinjski Mostar          -  Radnik Bijeljina
+  21.00  FK Sarajevo              3-1 (2-0)  NK GOŠK Gabela
+
+
+Matchday 4
+[Fri Aug/23]
+  17.30  Igman Konjic             0-3 (0-1)  Široki Brijeg
+[Sat Aug/24]
+  21.00  Sloboda Tuzla            0-1 (0-0)  Željezničar Sarajevo
+  Sloga Doboj              -  Borac Banja Luka
+  Zrinjski Mostar          -  FK Sarajevo
+  18.45  Radnik Bijeljina         4-3 (2-2)  Velež Mostar
+[Mon Aug/26]
+  21.00  NK GOŠK Gabela           0-1 (0-1)  HŠK Posušje
+
+
+Matchday 5
+[Fri Aug/30]
+  21.00  FK Sarajevo              2-0 (1-0)  Radnik Bijeljina
+[Sat Aug/31]
+  21.00  Velež Mostar             1-1 (1-1)  Igman Konjic
+[Sun Sep/1]
+  18.45  Željezničar Sarajevo     1-1 (0-1)  Sloga Doboj
+  21.00  Široki Brijeg            1-1 (0-1)  Sloboda Tuzla
+[Mon Sep/2]
+  21.00  Borac Banja Luka         3-0 (0-0)  NK GOŠK Gabela
+[Tue Sep/3]
+  21.00  Zrinjski Mostar          1-0 (0-0)  HŠK Posušje
+
+
+Matchday 1
+[Wed Sep/11]
+  20.15  Zrinjski Mostar          3-1 (0-0)  Sloga Doboj
+  Borac Banja Luka         -  Velež Mostar
+
+
+Matchday 6
+[Fri Sep/13]
+  18.00  Radnik Bijeljina         0-1 (0-0)  Igman Konjic
+[Sat Sep/14]
+  20.45  FK Sarajevo              2-2 (1-0)  HŠK Posušje
+  16.00  Sloboda Tuzla            1-1 (0-1)  Velež Mostar
+[Sun Sep/15]
+  15.00  Sloga Doboj              1-0 (1-0)  Široki Brijeg
+  19.45  Zrinjski Mostar          1-1 (1-0)  Borac Banja Luka
+[Mon Sep/16]
+  18.00  NK GOŠK Gabela           0-3 (0-0)  Željezničar Sarajevo
+
+
+Matchday 7
+[Fri Sep/20]
+  18.00  Velež Mostar             0-0  Sloga Doboj
+  20.15  Široki Brijeg            2-2 (2-0)  NK GOŠK Gabela
+  16.00  Igman Konjic             1-0 (0-0)  Sloboda Tuzla
+[Sat Sep/21]
+  16.00  Borac Banja Luka         0-1 (0-1)  FK Sarajevo
+  18.30  HŠK Posušje              3-1 (1-0)  Radnik Bijeljina
+  20.45  Željezničar Sarajevo     0-2 (0-0)  Zrinjski Mostar
+
+
+Matchday 8
+[Tue Sep/24]
+  18.15  NK GOŠK Gabela           -  Velež Mostar
+  20.30  Zrinjski Mostar          -  Široki Brijeg
+  16.00  Radnik Bijeljina         -  Sloboda Tuzla
+[Wed Sep/25]
+  18.00  HŠK Posušje              -  Borac Banja Luka
+  20.30  FK Sarajevo              -  Željezničar Sarajevo
+  16.00  Sloga Doboj              -  Igman Konjic
+
+
+Matchday 9
+[Sat Sep/28]
+  Borac Banja Luka         -  Radnik Bijeljina
+  Željezničar Sarajevo     -  HŠK Posušje
+  Široki Brijeg            -  FK Sarajevo
+  Velež Mostar             -  Zrinjski Mostar
+  Igman Konjic             -  NK GOŠK Gabela
+  Sloboda Tuzla            -  Sloga Doboj
+
+
+Matchday 10
+[Sat Oct/5]
+  NK GOŠK Gabela           -  Sloboda Tuzla
+  Zrinjski Mostar          -  Igman Konjic
+  FK Sarajevo              -  Velež Mostar
+  HŠK Posušje              -  Široki Brijeg
+  Borac Banja Luka         -  Željezničar Sarajevo
+  Radnik Bijeljina         -  Sloga Doboj
+
+
+Matchday 11
+[Sat Oct/19]
+  Željezničar Sarajevo     -  Radnik Bijeljina
+  Široki Brijeg            -  Borac Banja Luka
+  Velež Mostar             -  HŠK Posušje
+  Igman Konjic             -  FK Sarajevo
+  Sloboda Tuzla            -  Zrinjski Mostar
+  Sloga Doboj              -  NK GOŠK Gabela
+
+
+Matchday 12
+[Sat Oct/26]
+  Radnik Bijeljina         -  NK GOŠK Gabela
+  Sloga Doboj              -  Zrinjski Mostar
+  Sloboda Tuzla            -  FK Sarajevo
+  Igman Konjic             -  HŠK Posušje
+  Velež Mostar             -  Borac Banja Luka
+  Široki Brijeg            -  Željezničar Sarajevo
+
+
+Matchday 13
+[Sat Nov/2]
+  Željezničar Sarajevo     -  Velež Mostar
+  Borac Banja Luka         -  Igman Konjic
+  HŠK Posušje              -  Sloboda Tuzla
+  FK Sarajevo              -  Sloga Doboj
+  Zrinjski Mostar          -  NK GOŠK Gabela
+  Široki Brijeg            -  Radnik Bijeljina
+
+
+Matchday 14
+[Sat Nov/9]
+  Radnik Bijeljina         -  Zrinjski Mostar
+  NK GOŠK Gabela           -  FK Sarajevo
+  Sloga Doboj              -  HŠK Posušje
+  Sloboda Tuzla            -  Borac Banja Luka
+  Igman Konjic             -  Željezničar Sarajevo
+  Velež Mostar             -  Široki Brijeg
+
+
+Matchday 15
+[Sat Nov/23]
+  Velež Mostar             -  Radnik Bijeljina
+  Široki Brijeg            -  Igman Konjic
+  Željezničar Sarajevo     -  Sloboda Tuzla
+  Borac Banja Luka         -  Sloga Doboj
+  HŠK Posušje              -  NK GOŠK Gabela
+  FK Sarajevo              -  Zrinjski Mostar
+
+
+Matchday 16
+[Sat Nov/30]
+  HŠK Posušje              -  Zrinjski Mostar
+  NK GOŠK Gabela           -  Borac Banja Luka
+  Sloga Doboj              -  Željezničar Sarajevo
+  Sloboda Tuzla            -  Široki Brijeg
+  Igman Konjic             -  Velež Mostar
+  Radnik Bijeljina         -  FK Sarajevo
+
+
+Matchday 17
+[Sat Dec/7]
+  Igman Konjic             -  Radnik Bijeljina
+  Velež Mostar             -  Sloboda Tuzla
+  Široki Brijeg            -  Sloga Doboj
+  Željezničar Sarajevo     -  NK GOŠK Gabela
+  Borac Banja Luka         -  Zrinjski Mostar
+  HŠK Posušje              -  FK Sarajevo
+
+
+Matchday 18
+[Sat Dec/14]
+  Radnik Bijeljina         -  HŠK Posušje
+  FK Sarajevo              -  Borac Banja Luka
+  Zrinjski Mostar          -  Željezničar Sarajevo
+  NK GOŠK Gabela           -  Široki Brijeg
+  Sloga Doboj              -  Velež Mostar
+  Sloboda Tuzla            -  Igman Konjic
+
+
+Matchday 19
+[Sat Feb/15]
+  Igman Konjic             -  Sloga Doboj
+  Velež Mostar             -  NK GOŠK Gabela
+  Široki Brijeg            -  Zrinjski Mostar
+  Željezničar Sarajevo     -  FK Sarajevo
+  Borac Banja Luka         -  HŠK Posušje
+  Sloboda Tuzla            -  Radnik Bijeljina
+
+
+Matchday 20
+[Sat Feb/22]
+  Radnik Bijeljina         -  Borac Banja Luka
+  HŠK Posušje              -  Željezničar Sarajevo
+  FK Sarajevo              -  Široki Brijeg
+  Zrinjski Mostar          -  Velež Mostar
+  NK GOŠK Gabela           -  Igman Konjic
+  Sloga Doboj              -  Sloboda Tuzla
+
+
+Matchday 21
+[Sat Mar/1]
+  Sloga Doboj              -  Radnik Bijeljina
+  Sloboda Tuzla            -  NK GOŠK Gabela
+  Igman Konjic             -  Zrinjski Mostar
+  Velež Mostar             -  FK Sarajevo
+  Široki Brijeg            -  HŠK Posušje
+  Željezničar Sarajevo     -  Borac Banja Luka
+
+
+Matchday 22
+[Sat Mar/8]
+  Borac Banja Luka         -  Široki Brijeg
+  HŠK Posušje              -  Velež Mostar
+  FK Sarajevo              -  Igman Konjic
+  Zrinjski Mostar          -  Sloboda Tuzla
+  NK GOŠK Gabela           -  Sloga Doboj
+  Radnik Bijeljina         -  Željezničar Sarajevo

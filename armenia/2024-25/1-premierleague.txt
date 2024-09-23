@@ -1,0 +1,323 @@
+= Armenian Premier League 2024/25
+
+# Date       Fri Aug/2 2024 - Sat May/31 2025 (302d)
+# Teams      11
+# Matches    165
+
+
+
+Matchday 1
+[Fri Aug/2]
+  19.00  BKMA Yerevan             0-2 (0-0)  Shirak FC
+[Sat Aug/3]
+  19.00  FC Ararat                2-0 (1-0)  FC Alashkert
+[Sun Aug/4]
+  17.00  FK Van                   0-2 (0-1)  FC Ararat-Armenia
+[Mon Aug/5]
+  19.00  FC Urartu                0-0  Pyunik FC
+  FC Noah                  -  Gandzasar Kapan
+
+
+Matchday 2
+[Fri Aug/9]
+  17.00  FC Alashkert             1-1 (0-1)  FK Van
+  19.00  FC West Armenia          2-5 (1-4)  BKMA Yerevan
+[Sat Aug/10]
+  19.00  Gandzasar Kapan          0-2 (0-0)  FC Ararat
+[Sun Aug/11]
+  19.00  Shirak FC                0-5 (0-2)  FC Noah
+  FC Ararat-Armenia        -  Pyunik FC
+
+
+Matchday 3
+[Fri Aug/16]
+  17.00  FK Van                   6-1 (4-1)  Gandzasar Kapan
+[Sat Aug/17]
+  18.00  FC Ararat                1-2 (0-1)  Shirak FC
+[Sun Aug/18]
+  18.00  Pyunik FC                0-2 (0-1)  FC Alashkert
+[Mon Aug/19]
+  19.00  FC Urartu                3-1 (1-0)  FC Ararat-Armenia
+  FC Noah                  -  FC West Armenia
+
+
+Matchday 4
+[Sat Aug/24]
+  17.00  FC West Armenia          1-2 (0-0)  FC Ararat
+  19.00  FC Alashkert             0-3 (0-1)  FC Urartu
+[Sun Aug/25]
+  20.00  BKMA Yerevan             1-2 (0-1)  FC Noah
+  Gandzasar Kapan          -  Pyunik FC
+[Mon Aug/26]
+  17.00  Shirak FC                0-2 (0-0)  FK Van
+
+
+Matchday 5
+[Fri Aug/30]
+  17.00  FC Ararat                2-2 (2-1)  BKMA Yerevan
+  19.00  FC Ararat-Armenia        3-1 (2-1)  FC Alashkert
+[Sat Aug/31]
+  19.00  FC Urartu                2-0 (1-0)  Gandzasar Kapan
+  17.00  FK Van                   6-0 (4-0)  FC West Armenia
+[Sun Sep/1]
+  16.30  Pyunik FC                2-0 (0-0)  Shirak FC
+
+
+Matchday 6
+[Fri Sep/13]
+  19.00  FC West Armenia          1-3 (0-2)  Pyunik FC
+  17.00  BKMA Yerevan             0-1 (0-1)  FK Van
+[Sat Sep/14]
+  18.00  Shirak FC                0-2 (0-1)  FC Urartu
+  16.00  Gandzasar Kapan          0-3 (0-2)  FC Ararat-Armenia
+[Sun Sep/15]
+  19.00  FC Ararat                2-1 (0-0)  FC Noah
+
+
+Matchday 7
+[Wed Sep/18]
+  17.00  FC Alashkert             2-2 (0-1)  Gandzasar Kapan
+  19.00  FC Urartu                1-2 (1-1)  FC West Armenia
+[Thu Sep/19]
+  18.00  FC Ararat-Armenia        4-0 (2-0)  Shirak FC
+  16.00  FK Van                   1-1 (0-1)  FC Noah
+[Fri Sep/20]
+  19.00  Pyunik FC                4-1 (1-1)  BKMA Yerevan
+
+
+Matchday 8
+[Mon Sep/23]
+  19.00  Shirak FC                -  FC Alashkert
+  17.00  FC Ararat                -  FK Van
+[Tue Sep/24]
+  19.00  FC Noah                  -  Pyunik FC
+  17.00  FC West Armenia          -  FC Ararat-Armenia
+[Wed Sep/25]
+  18.00  BKMA Yerevan             -  FC Urartu
+
+
+Matchday 9
+[Fri Sep/27]
+  17.00  Gandzasar Kapan          -  Shirak FC
+[Sat Sep/28]
+  19.00  Pyunik FC                -  FC Ararat
+  17.00  FC Alashkert             -  FC West Armenia
+[Sun Sep/29]
+  19.00  FC Urartu                -  FC Noah
+  17.00  FC Ararat-Armenia        -  BKMA Yerevan
+
+
+Matchday 10
+[Sat Oct/5]
+  FC Ararat                -  FC Urartu
+  BKMA Yerevan             -  FC Alashkert
+  FC Noah                  -  FC Ararat-Armenia
+  FK Van                   -  Pyunik FC
+  FC West Armenia          -  Gandzasar Kapan
+
+
+Matchday 11
+[Wed Oct/16]
+  FC Alashkert             -  FC Noah
+  FC Ararat-Armenia        -  FC Ararat
+  Gandzasar Kapan          -  BKMA Yerevan
+  FC Urartu                -  FK Van
+  Shirak FC                -  FC West Armenia
+
+
+Matchday 12
+[Wed Oct/23]
+  BKMA Yerevan             -  Gandzasar Kapan
+  FC Noah                  -  FC Alashkert
+  FK Van                   -  FC Urartu
+  FC West Armenia          -  Shirak FC
+  FC Ararat                -  FC Ararat-Armenia
+
+
+Matchday 13
+[Sat Oct/26]
+  FC Alashkert             -  BKMA Yerevan
+  FC Ararat-Armenia        -  FC Noah
+  Gandzasar Kapan          -  FC West Armenia
+  FC Urartu                -  FC Ararat
+  Pyunik FC                -  FK Van
+
+
+Matchday 14
+[Sat Nov/2]
+  BKMA Yerevan             -  FC Ararat-Armenia
+  FC Noah                  -  FC Urartu
+  Shirak FC                -  Gandzasar Kapan
+  FC West Armenia          -  FC Alashkert
+  FC Ararat                -  Pyunik FC
+
+
+Matchday 15
+[Wed Nov/6]
+  FC Alashkert             -  Shirak FC
+  FC Ararat-Armenia        -  FC West Armenia
+  FC Urartu                -  BKMA Yerevan
+  Pyunik FC                -  FC Noah
+  FK Van                   -  FC Ararat
+
+
+Matchday 16
+[Sat Nov/9]
+  Gandzasar Kapan          -  FC Alashkert
+  FC Noah                  -  FK Van
+  Shirak FC                -  FC Ararat-Armenia
+  FC West Armenia          -  FC Urartu
+  BKMA Yerevan             -  Pyunik FC
+
+
+Matchday 17
+[Thu Nov/21]
+  FC Ararat                -  FC Noah
+  FC Ararat-Armenia        -  Gandzasar Kapan
+  FC Urartu                -  Shirak FC
+  Pyunik FC                -  FC West Armenia
+  FK Van                   -  BKMA Yerevan
+
+
+Matchday 18
+[Wed Nov/27]
+  BKMA Yerevan             -  FC Ararat
+  Gandzasar Kapan          -  FC Urartu
+  Shirak FC                -  Pyunik FC
+  FC West Armenia          -  FK Van
+  FC Alashkert             -  FC Ararat-Armenia
+
+
+Matchday 19
+[Sat Nov/30]
+  FC Ararat                -  FC West Armenia
+  FC Noah                  -  BKMA Yerevan
+  FC Urartu                -  FC Alashkert
+  Pyunik FC                -  Gandzasar Kapan
+  FK Van                   -  Shirak FC
+
+
+Matchday 20
+[Wed Feb/26]
+  FC Alashkert             -  Pyunik FC
+  FC Ararat-Armenia        -  FC Urartu
+  Gandzasar Kapan          -  FK Van
+  Shirak FC                -  FC Ararat
+  FC West Armenia          -  FC Noah
+
+
+Matchday 21
+[Sun Mar/2]
+  BKMA Yerevan             -  FC West Armenia
+  FC Noah                  -  Shirak FC
+  Pyunik FC                -  FC Ararat-Armenia
+  FK Van                   -  FC Alashkert
+  FC Ararat                -  Gandzasar Kapan
+
+
+Matchday 22
+[Wed Mar/12]
+  FC Alashkert             -  FC Ararat
+  FC Ararat-Armenia        -  FK Van
+  Gandzasar Kapan          -  FC Noah
+  FC Urartu                -  Pyunik FC
+  Shirak FC                -  BKMA Yerevan
+
+
+Matchday 23
+[Sat Mar/29]
+  BKMA Yerevan             -  Shirak FC
+  FC Noah                  -  Gandzasar Kapan
+  Pyunik FC                -  FC Urartu
+  FK Van                   -  FC Ararat-Armenia
+  FC Ararat                -  FC Alashkert
+
+
+Matchday 24
+[Sun Apr/6]
+  FC Alashkert             -  FK Van
+  FC Ararat-Armenia        -  Pyunik FC
+  Gandzasar Kapan          -  FC Ararat
+  Shirak FC                -  FC Noah
+  FC West Armenia          -  BKMA Yerevan
+
+
+Matchday 25
+[Sat Apr/12]
+  FC Noah                  -  FC West Armenia
+  FC Urartu                -  FC Ararat-Armenia
+  Pyunik FC                -  FC Alashkert
+  FK Van                   -  Gandzasar Kapan
+  FC Ararat                -  Shirak FC
+
+
+Matchday 26
+[Sun Apr/20]
+  FC Alashkert             -  FC Urartu
+  BKMA Yerevan             -  FC Noah
+  Gandzasar Kapan          -  Pyunik FC
+  Shirak FC                -  FK Van
+  FC West Armenia          -  FC Ararat
+
+
+Matchday 27
+[Wed Apr/30]
+  FC Ararat-Armenia        -  FC Alashkert
+  FC Urartu                -  Gandzasar Kapan
+  Pyunik FC                -  Shirak FC
+  FK Van                   -  FC West Armenia
+  FC Ararat                -  BKMA Yerevan
+
+
+Matchday 28
+[Sat May/3]
+  BKMA Yerevan             -  FK Van
+  Gandzasar Kapan          -  FC Ararat-Armenia
+  FC Noah                  -  FC Ararat
+  Shirak FC                -  FC Urartu
+  FC West Armenia          -  Pyunik FC
+
+
+Matchday 29
+[Wed May/7]
+  FC Ararat-Armenia        -  Shirak FC
+  FC Urartu                -  FC West Armenia
+  Pyunik FC                -  BKMA Yerevan
+  FK Van                   -  FC Noah
+  FC Alashkert             -  Gandzasar Kapan
+
+
+Matchday 30
+[Tue May/13]
+  FC Ararat                -  FK Van
+  BKMA Yerevan             -  FC Urartu
+  FC Noah                  -  Pyunik FC
+  Shirak FC                -  FC Alashkert
+  FC West Armenia          -  FC Ararat-Armenia
+
+
+Matchday 31
+[Sun May/18]
+  FC Ararat-Armenia        -  BKMA Yerevan
+  Gandzasar Kapan          -  Shirak FC
+  FC Urartu                -  FC Noah
+  Pyunik FC                -  FC Ararat
+  FC Alashkert             -  FC West Armenia
+
+
+Matchday 32
+[Sat May/24]
+  FC Ararat                -  FC Urartu
+  BKMA Yerevan             -  FC Alashkert
+  FC Noah                  -  FC Ararat-Armenia
+  FK Van                   -  Pyunik FC
+  FC West Armenia          -  Gandzasar Kapan
+
+
+Matchday 33
+[Sat May/31]
+  FC Ararat-Armenia        -  FC Ararat
+  Gandzasar Kapan          -  BKMA Yerevan
+  FC Urartu                -  FK Van
+  Shirak FC                -  FC West Armenia
+  FC Alashkert             -  FC Noah

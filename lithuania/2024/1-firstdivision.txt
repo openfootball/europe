@@ -1,0 +1,429 @@
+= Lithuanian First Division 2024
+
+# Date       Fri Mar/1 - Sun Nov/10 2024 (254d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Mar/1]
+  19.00  FK Sūduva                0-0  FA Šiauliai
+[Sat Mar/2]
+  15.00  Banga Gargždai           1-1 (0-0)  Kauno Žalgiris
+  13.00  FC Džiugas               0-0  FK Panevėžys
+[Sun Mar/3]
+  18.30  FC Hegelmann             2-3 (1-1)  FK TransINVEST
+  13.00  DFK Dainava              0-1 (0-1)  FK Žalgiris
+
+
+Matchday 2
+[Sat Mar/9]
+  13.00  Kauno Žalgiris           1-2 (1-0)  FC Hegelmann
+  15.00  FK TransINVEST           0-1 (0-0)  FC Džiugas
+[Sun Mar/10]
+  15.00  FK Panevėžys             0-0  DFK Dainava
+  18.30  FK Žalgiris              3-3 (2-1)  FK Sūduva
+  13.00  FA Šiauliai              0-0  Banga Gargždai
+
+
+Matchday 3
+[Tue Mar/12]
+  18.00  Kauno Žalgiris           2-1 (0-0)  FK TransINVEST
+[Wed Mar/13]
+  18.00  Banga Gargždai           1-4 (1-2)  FK Žalgiris
+         FC Hegelmann             2-2 (0-0)  FA Šiauliai
+  20.15  FK Sūduva                1-0 (0-0)  FK Panevėžys
+  17.00  DFK Dainava              0-0  FC Džiugas
+
+
+Matchday 4
+[Sat Mar/16]
+  14.00  FC Džiugas               1-0 (1-0)  FK Sūduva
+  15.30  FK Panevėžys             0-1 (0-0)  Banga Gargždai
+[Sun Mar/17]
+  15.00  FA Šiauliai              2-1 (0-1)  Kauno Žalgiris
+  18.30  FK Žalgiris              1-3 (1-0)  FC Hegelmann
+  14.00  FK TransINVEST           0-2 (0-2)  DFK Dainava
+
+
+Matchday 5
+[Fri Mar/29]
+  19.00  Banga Gargždai           0-2 (0-1)  FC Džiugas
+[Sat Mar/30]
+  15.00  FC Hegelmann             4-2 (2-1)  FK Panevėžys
+  17.00  FA Šiauliai              0-1 (0-0)  FK TransINVEST
+[Sun Mar/31]
+  18.25  Kauno Žalgiris           0-1 (0-1)  FK Žalgiris
+  15.00  FK Sūduva                0-1 (0-1)  DFK Dainava
+
+
+Matchday 6
+[Sat Apr/6]
+  17.00  DFK Dainava              2-2 (1-0)  Banga Gargždai
+  15.00  FC Džiugas               0-0  FC Hegelmann
+[Sun Apr/7]
+  15.00  FK Žalgiris              3-0 (1-0)  FA Šiauliai
+  18.25  Kauno Žalgiris           0-1 (0-1)  FK Panevėžys
+  13.00  FK TransINVEST           0-2 (0-0)  FK Sūduva
+
+
+Matchday 7
+[Tue Apr/9]
+  18.00  FC Hegelmann             0-1 (0-0)  DFK Dainava
+[Wed Apr/10]
+  18.00  Banga Gargždai           0-0  FK Sūduva
+         FA Šiauliai              1-1 (0-1)  FK Panevėžys
+  19.00  Kauno Žalgiris           3-0 (0-0)  FC Džiugas
+  20.00  FK Žalgiris              2-0 (1-0)  FK TransINVEST
+
+
+Matchday 8
+[Sat Apr/13]
+  17.00  FK Sūduva                0-1 (0-1)  FC Hegelmann
+  15.00  FK TransINVEST           0-1 (0-1)  Banga Gargždai
+[Sun Apr/14]
+  15.00  FK Panevėžys             1-2 (0-0)  FK Žalgiris
+  18.25  Kauno Žalgiris           1-0 (0-0)  DFK Dainava
+  13.00  FC Džiugas               2-1 (0-0)  FA Šiauliai
+
+
+Matchday 9
+[Sat Apr/20]
+  18.00  FA Šiauliai              1-0 (0-0)  DFK Dainava
+  15.00  Kauno Žalgiris           2-1 (1-1)  FK Sūduva
+[Sun Apr/21]
+  13.00  FK Panevėžys             1-1 (1-0)  FK TransINVEST
+  15.00  FC Hegelmann             2-2 (1-1)  Banga Gargždai
+  18.25  FK Žalgiris              3-1 (0-1)  FC Džiugas
+
+
+Matchday 10
+[Tue Apr/23]
+  19.00  FA Šiauliai              0-1 (0-0)  FK Sūduva
+[Wed Apr/24]
+  19.00  Kauno Žalgiris           0-3 (0-2)  Banga Gargždai
+  20.00  FK Žalgiris              4-0 (2-0)  DFK Dainava
+  18.00  FK TransINVEST           1-2 (0-0)  FC Hegelmann
+
+
+Matchday 11
+[Sat Apr/27]
+  15.00  FC Džiugas               2-0 (0-0)  FK TransINVEST
+[Sun Apr/28]
+  13.00  FC Hegelmann             0-1 (0-1)  Kauno Žalgiris
+  15.00  Banga Gargždai           0-1 (0-1)  FA Šiauliai
+  17.00  FK Sūduva                1-1 (0-0)  FK Žalgiris
+  19.00  DFK Dainava              0-0  FK Panevėžys
+
+
+Matchday 12
+[Wed May/1]
+  17.00  FK Žalgiris              2-2 (1-0)  Banga Gargždai
+  15.00  FA Šiauliai              1-1 (0-0)  FC Hegelmann
+[Thu May/2]
+  18.00  FC Džiugas               2-1 (1-0)  DFK Dainava
+         FK TransINVEST           3-2 (0-2)  Kauno Žalgiris
+  19.00  FK Panevėžys             1-0 (0-0)  FK Sūduva
+
+
+Matchday 13
+[Sat May/11]
+  17.00  FK Sūduva                0-1 (0-0)  FC Džiugas
+  15.00  DFK Dainava              1-0 (0-0)  FK TransINVEST
+  19.00  Banga Gargždai           2-0 (0-0)  FK Panevėžys
+[Sun May/12]
+  16.00  FC Hegelmann             0-0  FK Žalgiris
+  18.25  Kauno Žalgiris           2-1 (0-1)  FA Šiauliai
+
+
+Matchday 14
+[Fri May/17]
+  19.00  DFK Dainava              0-1 (0-0)  FK Sūduva
+[Sat May/18]
+  18.00  FK Panevėžys             0-2 (0-0)  FC Hegelmann
+  16.00  FK TransINVEST           1-3 (0-2)  FA Šiauliai
+[Sun May/19]
+  17.00  FC Džiugas               1-1 (0-0)  Banga Gargždai
+  18.25  FK Žalgiris              1-0 (0-0)  Kauno Žalgiris
+
+
+Matchday 15
+[Fri May/24]
+  19.00  FK Sūduva                0-1 (0-1)  FK TransINVEST
+[Sat May/25]
+  19.00  FK Panevėžys             0-0  Kauno Žalgiris
+  16.00  FC Hegelmann             2-1 (0-0)  FC Džiugas
+[Sun May/26]
+  17.00  Banga Gargždai           0-3 (0-0)  DFK Dainava
+  19.15  FA Šiauliai              1-2 (1-1)  FK Žalgiris
+
+
+Matchday 16
+[Fri May/31]
+  19.00  DFK Dainava              0-2 (0-1)  FC Hegelmann
+[Sat Jun/1]
+  17.00  FK Sūduva                1-0 (0-0)  Banga Gargždai
+  19.00  FK Panevėžys             2-0 (1-0)  FA Šiauliai
+[Sun Jun/2]
+  16.00  FK TransINVEST           1-3 (0-1)  FK Žalgiris
+  18.25  FC Džiugas               0-1 (0-0)  Kauno Žalgiris
+
+
+Matchday 17
+[Sat Jun/15]
+  16.00  FC Hegelmann             3-2 (1-2)  FK Sūduva
+  17.00  FA Šiauliai              3-3 (1-3)  FC Džiugas
+  18.00  Banga Gargždai           2-0 (1-0)  FK TransINVEST
+  19.00  DFK Dainava              0-0  Kauno Žalgiris
+[Sun Jun/16]
+  18.25  FK Žalgiris              2-1 (1-0)  FK Panevėžys
+
+
+Matchday 18
+[Tue Jun/18]
+  19.00  DFK Dainava              2-2 (1-0)  FA Šiauliai
+[Wed Jun/19]
+  20.00  FK Sūduva                2-2 (1-1)  Kauno Žalgiris
+  18.00  FK TransINVEST           3-0 (2-0)  FK Panevėžys
+  19.30  FC Džiugas               0-4 (0-3)  FK Žalgiris
+
+
+Matchday 19
+[Sat Jun/22]
+  19.00  FK Panevėžys             2-0 (2-0)  DFK Dainava
+  17.00  FK TransINVEST           3-0 (2-0)  FC Džiugas
+[Sun Jun/23]
+  16.00  FA Šiauliai              0-0  Banga Gargždai
+  14.00  Kauno Žalgiris           4-1 (2-1)  FC Hegelmann
+  18.00  FK Žalgiris              4-0 (1-0)  FK Sūduva
+
+
+Matchday 20
+[Wed Jun/26]
+  19.00  Banga Gargždai           0-2 (0-0)  FK Žalgiris
+  19.30  Kauno Žalgiris           2-0 (1-0)  FK TransINVEST
+  18.00  FC Hegelmann             0-0  FA Šiauliai
+         FK Sūduva                1-3 (0-1)  FK Panevėžys
+  19.00  DFK Dainava              3-1 (0-1)  FC Džiugas
+
+
+Matchday 21
+[Sat Jun/29]
+  17.00  FK Panevėžys             0-1 (0-1)  Banga Gargždai
+[Sun Jun/30]
+  18.25  FC Džiugas               1-0 (0-0)  FK Sūduva
+  16.00  FK TransINVEST           2-1 (1-1)  DFK Dainava
+  20.30  FC Hegelmann             3-1 (1-1)  FK Žalgiris
+[Mon Jul/1]
+  19.00  FA Šiauliai              1-0 (0-0)  Kauno Žalgiris
+
+
+Matchday 22
+[Thu Jul/4]
+  19.00  FK Panevėžys             0-1 (0-0)  FC Hegelmann
+[Fri Jul/5]
+  19.00  FA Šiauliai              1-0 (0-0)  FK TransINVEST
+  18.30  Kauno Žalgiris           1-0 (0-0)  FK Žalgiris
+[Sat Jul/6]
+  19.00  Banga Gargždai           0-0  FC Džiugas
+[Sun Jul/7]
+  18.25  FK Sūduva                0-0  DFK Dainava
+
+
+Matchday 18
+[Fri Jul/12]
+  19.00  Banga Gargždai           2-4 (0-1)  FC Hegelmann
+
+
+Matchday 23
+[Fri Jul/19]
+  20.00  FC Džiugas               0-2 (0-0)  FC Hegelmann
+[Sat Jul/20]
+  17.00  FK TransINVEST           2-2 (0-1)  FK Sūduva
+  19.00  FK Panevėžys             1-2 (1-1)  Kauno Žalgiris
+[Sun Jul/21]
+  18.25  DFK Dainava              3-1 (1-1)  Banga Gargždai
+
+
+Matchday 24
+[Fri Jul/26]
+  19.00  Banga Gargždai           1-1 (1-1)  Kauno Žalgiris
+[Sat Jul/27]
+  18.00  FC Džiugas               3-3 (1-2)  FK Panevėžys
+[Sun Jul/28]
+  18.25  FK Sūduva                0-0  FA Šiauliai
+
+
+Matchday 25
+[Fri Aug/2]
+  18.30  Banga Gargždai           1-0 (0-0)  FK Sūduva
+[Sat Aug/3]
+  17.00  DFK Dainava              0-1 (0-0)  FC Hegelmann
+[Sun Aug/4]
+  18.25  FC Džiugas               2-3 (1-1)  Kauno Žalgiris
+
+
+Matchday 26
+[Fri Aug/9]
+  19.00  FC Džiugas               2-2 (1-1)  FA Šiauliai
+[Sat Aug/10]
+  18.00  FK Sūduva                0-1 (0-1)  FC Hegelmann
+  16.00  FK TransINVEST           0-1 (0-0)  Banga Gargždai
+
+
+Matchday 35
+[Sun Aug/11]
+  16.00  DFK Dainava              0-1 (0-1)  Kauno Žalgiris
+
+
+Matchday 26
+[Sun Aug/11]
+  18.25  FK Panevėžys             0-0  FK Žalgiris
+
+
+Matchday 25
+[Wed Aug/14]
+  19.00  FK Žalgiris              2-0 (1-0)  FK TransINVEST
+
+
+Matchday 27
+[Fri Aug/16]
+  19.00  FC Hegelmann             3-0 (1-0)  Banga Gargždai
+
+
+Matchday 36
+[Sat Aug/17]
+  19.00  FK Sūduva                1-1 (0-0)  Kauno Žalgiris
+
+
+Matchday 27
+[Sun Aug/18]
+  18.25  FA Šiauliai              0-0  DFK Dainava
+  16.00  FK Žalgiris              2-1 (1-1)  FC Džiugas
+
+
+Matchday 28
+[Fri Aug/23]
+  19.00  FC Džiugas               0-3 (0-2)  FK TransINVEST
+[Sat Aug/24]
+  18.00  FC Hegelmann             1-1 (1-1)  Kauno Žalgiris
+  16.00  Banga Gargždai           4-1 (3-1)  FA Šiauliai
+[Sun Aug/25]
+  18.25  FK Sūduva                1-1 (1-0)  FK Žalgiris
+  16.00  DFK Dainava              1-1 (1-1)  FK Panevėžys
+
+
+Matchday 29
+[Sat Aug/31]
+  16.00  FK TransINVEST           0-3 (0-1)  Kauno Žalgiris
+[Sun Sep/1]
+  16.00  FK Žalgiris              2-1 (0-0)  Banga Gargždai
+  16.50  FC Džiugas               0-2 (0-1)  DFK Dainava
+  18.00  FK Panevėžys             0-0  FK Sūduva
+  14.00  FA Šiauliai              3-1 (3-0)  FC Hegelmann
+
+
+Matchday 30
+[Sat Sep/14]
+  19.00  FK Sūduva                2-1 (0-0)  FC Džiugas
+  15.00  FK Žalgiris              1-1 (0-1)  FC Hegelmann
+  17.00  DFK Dainava              0-1 (0-0)  FK TransINVEST
+[Sun Sep/15]
+  16.00  Kauno Žalgiris           2-1 (0-1)  FA Šiauliai
+  15.30  Banga Gargždai           2-3 (1-2)  FK Panevėžys
+
+
+Matchday 31
+[Fri Sep/20]
+  DFK Dainava              -  FK Sūduva
+[Sat Sep/21]
+  15.00  FK TransINVEST           2-0 (1-0)  FA Šiauliai
+[Sun Sep/22]
+  17.00  FC Hegelmann             2-2 (1-0)  FK Panevėžys
+  16.00  FC Džiugas               0-2 (0-2)  Banga Gargždai
+  18.25  FK Žalgiris              5-0 (4-0)  Kauno Žalgiris
+
+
+Matchday 25
+[Thu Sep/26]
+  18.00  FA Šiauliai              -  FK Panevėžys
+
+
+Matchday 24
+[Fri Sep/27]
+  19.00  FK Žalgiris              -  DFK Dainava
+
+
+Matchday 27
+[Tue Oct/1]
+  18.00  FK Panevėžys             -  FK TransINVEST
+
+
+Matchday 32
+[Fri Oct/4]
+  19.00  FA Šiauliai              -  FK Žalgiris
+[Sat Oct/5]
+  FK Panevėžys             -  Kauno Žalgiris
+  FK Sūduva                -  FK TransINVEST
+  FC Hegelmann             -  FC Džiugas
+  15.00  Banga Gargždai           -  DFK Dainava
+
+
+Matchday 33
+[Sat Oct/19]
+  Kauno Žalgiris           -  Banga Gargždai
+  FK TransINVEST           -  FC Hegelmann
+  FK Žalgiris              -  DFK Dainava
+  FA Šiauliai              -  FK Sūduva
+  FK Panevėžys             -  FC Džiugas
+
+
+Matchday 10
+[Tue Oct/22]
+  18.00  FK Panevėžys             -  FC Džiugas
+
+
+Matchday 34
+[Sat Oct/26]
+  FC Džiugas               -  Kauno Žalgiris
+  DFK Dainava              -  FC Hegelmann
+  FK Sūduva                -  Banga Gargždai
+  FK Panevėžys             -  FA Šiauliai
+  FK TransINVEST           -  FK Žalgiris
+
+
+Matchday 35
+[Sat Nov/2]
+  FK Žalgiris              -  FK Panevėžys
+  Banga Gargždai           -  FK TransINVEST
+  FA Šiauliai              -  FC Džiugas
+  FC Hegelmann             -  FK Sūduva
+
+
+Matchday 26
+[Sun Nov/3]
+  15.00  Kauno Žalgiris           -  DFK Dainava
+
+
+Matchday 24
+[Wed Nov/6]
+  18.00  FC Hegelmann             -  FK TransINVEST
+
+
+Matchday 23
+[Wed Nov/6]
+  19.00  FK Žalgiris              -  FA Šiauliai
+
+
+Matchday 36
+[Sun Nov/10]
+  DFK Dainava              -  FA Šiauliai
+  FK TransINVEST           -  FK Panevėžys
+  Banga Gargždai           -  FC Hegelmann
+  FC Džiugas               -  FK Žalgiris
+
+
+Matchday 27
+[Sun Nov/10]
+  18.25  Kauno Žalgiris           -  FK Sūduva

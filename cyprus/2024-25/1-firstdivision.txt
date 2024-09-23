@@ -1,0 +1,308 @@
+= Cypriot First Division 2024/25
+
+# Date       Fri Aug/23 2024 - Sat Mar/1 2025 (190d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Fri Aug/23]
+  20.00  Omonia Aradippou         0-0  Anorthosis Famagusta
+[Sat Aug/24]
+  20.00  Karmiotissa Polemidion   1-3 (0-1)  Aris Limassol
+  19.00  Omonia 29is Maiou        2-4 (1-3)  AEL Limassol
+[Sun Aug/25]
+  20.00  Omonia Nikosia           3-0 (1-0)  Ethnikos Achna
+         Apollon Limassol         1-2 (1-0)  AEK Larnaca
+
+
+Matchday 2
+[Fri Aug/30]
+  20.00  Aris Limassol            1-0 (0-0)  Omonia 29is Maiou
+[Sat Aug/31]
+  20.00  Anorthosis Famagusta     1-2 (0-1)  Apollon Limassol
+         AEL Limassol             1-0 (0-0)  Omonia Aradippou
+         Enosis Neon Paralimni    0-1 (0-0)  Karmiotissa Polemidion
+[Sun Sep/1]
+  20.00  APOEL Nikosia            1-3 (0-2)  Ethnikos Achna
+  18.30  AEK Larnaca              0-2 (0-1)  Paphos FC
+  20.30  Nea Salamina             2-3 (2-1)  Omonia Nikosia
+
+
+Matchday 3
+[Sat Sep/14]
+  19.00  Ethnikos Achna           2-3 (0-1)  Nea Salamina
+         Paphos FC                3-1 (1-0)  Anorthosis Famagusta
+         Karmiotissa Polemidion   0-3 (0-0)  APOEL Nikosia
+[Sun Sep/15]
+  20.30  Omonia Aradippou         0-3 (0-1)  Aris Limassol
+  Apollon Limassol         -  AEL Limassol
+  18.00  Omonia 29is Maiou        0-1 (0-0)  Enosis Neon Paralimni
+[Mon Sep/16]
+  19.00  Omonia Nikosia           1-0 (1-0)  AEK Larnaca
+
+
+Matchday 1
+[Wed Sep/18]
+  19.00  Paphos FC                4-0 (3-0)  Nea Salamina
+         Enosis Neon Paralimni    0-4 (0-2)  APOEL Nikosia
+
+
+Matchday 4
+[Fri Sep/20]
+  19.00  Karmiotissa Polemidion   1-1 (0-0)  Omonia 29is Maiou
+[Sat Sep/21]
+  19.00  Aris Limassol            0-0  Apollon Limassol
+         Anorthosis Famagusta     1-0 (1-0)  Omonia Nikosia
+[Sun Sep/22]
+  19.00  AEL Limassol             1-3 (1-0)  Paphos FC
+         APOEL Nikosia            3-1 (2-0)  Nea Salamina
+         AEK Larnaca              2-2 (0-1)  Ethnikos Achna
+[Mon Sep/23]
+  19.00  Enosis Neon Paralimni    -  Omonia Aradippou
+
+
+Matchday 5
+[Fri Sep/27]
+  19.00  Nea Salamina             -  AEK Larnaca
+         Omonia Nikosia           -  AEL Limassol
+[Sat Sep/28]
+  Omonia 29is Maiou        -  APOEL Nikosia
+  Apollon Limassol         -  Enosis Neon Paralimni
+  Paphos FC                -  Aris Limassol
+  19.00  Omonia Aradippou         -  Karmiotissa Polemidion
+         Ethnikos Achna           -  Anorthosis Famagusta
+
+
+Matchday 6
+[Fri Oct/4]
+  19.00  Karmiotissa Polemidion   -  Apollon Limassol
+[Sat Oct/5]
+  19.00  Anorthosis Famagusta     -  Nea Salamina
+         AEL Limassol             -  Ethnikos Achna
+  18.00  Omonia 29is Maiou        -  Omonia Aradippou
+[Sun Oct/6]
+  19.00  Aris Limassol            -  Omonia Nikosia
+  20.00  APOEL Nikosia            -  AEK Larnaca
+  19.00  Enosis Neon Paralimni    -  Paphos FC
+
+
+Matchday 7
+[Sat Oct/19]
+  Omonia Aradippou         -  APOEL Nikosia
+  Apollon Limassol         -  Omonia 29is Maiou
+  Paphos FC                -  Karmiotissa Polemidion
+  Omonia Nikosia           -  Enosis Neon Paralimni
+  Ethnikos Achna           -  Aris Limassol
+  Nea Salamina             -  AEL Limassol
+  AEK Larnaca              -  Anorthosis Famagusta
+
+
+Matchday 8
+[Sat Oct/26]
+  Karmiotissa Polemidion   -  Omonia Nikosia
+  Omonia 29is Maiou        -  Paphos FC
+  Omonia Aradippou         -  Apollon Limassol
+  AEL Limassol             -  AEK Larnaca
+  Aris Limassol            -  Nea Salamina
+  APOEL Nikosia            -  Anorthosis Famagusta
+  Enosis Neon Paralimni    -  Ethnikos Achna
+
+
+Matchday 9
+[Sat Nov/2]
+  Apollon Limassol         -  APOEL Nikosia
+  Paphos FC                -  Omonia Aradippou
+  Omonia Nikosia           -  Omonia 29is Maiou
+  Ethnikos Achna           -  Karmiotissa Polemidion
+  Nea Salamina             -  Enosis Neon Paralimni
+  AEK Larnaca              -  Aris Limassol
+  Anorthosis Famagusta     -  AEL Limassol
+
+
+Matchday 10
+[Sat Nov/9]
+  Karmiotissa Polemidion   -  Nea Salamina
+  Omonia 29is Maiou        -  Ethnikos Achna
+  Omonia Aradippou         -  Omonia Nikosia
+  Apollon Limassol         -  Paphos FC
+  Aris Limassol            -  Anorthosis Famagusta
+  APOEL Nikosia            -  AEL Limassol
+  Enosis Neon Paralimni    -  AEK Larnaca
+
+
+Matchday 11
+[Sat Nov/23]
+  Paphos FC                -  APOEL Nikosia
+  Omonia Nikosia           -  Apollon Limassol
+  Ethnikos Achna           -  Omonia Aradippou
+  Nea Salamina             -  Omonia 29is Maiou
+  AEK Larnaca              -  Karmiotissa Polemidion
+  Anorthosis Famagusta     -  Enosis Neon Paralimni
+  AEL Limassol             -  Aris Limassol
+
+
+Matchday 12
+[Sat Nov/30]
+  Karmiotissa Polemidion   -  Anorthosis Famagusta
+  Omonia 29is Maiou        -  AEK Larnaca
+  Omonia Aradippou         -  Nea Salamina
+  Apollon Limassol         -  Ethnikos Achna
+  Paphos FC                -  Omonia Nikosia
+  APOEL Nikosia            -  Aris Limassol
+  Enosis Neon Paralimni    -  AEL Limassol
+
+
+Matchday 13
+[Sat Dec/7]
+  Omonia Nikosia           -  APOEL Nikosia
+  Ethnikos Achna           -  Paphos FC
+  Nea Salamina             -  Apollon Limassol
+  AEK Larnaca              -  Omonia Aradippou
+  Anorthosis Famagusta     -  Omonia 29is Maiou
+  AEL Limassol             -  Karmiotissa Polemidion
+  Aris Limassol            -  Enosis Neon Paralimni
+
+
+Matchday 14
+[Sat Dec/14]
+  APOEL Nikosia            -  Enosis Neon Paralimni
+  Aris Limassol            -  Karmiotissa Polemidion
+  AEL Limassol             -  Omonia 29is Maiou
+  Anorthosis Famagusta     -  Omonia Aradippou
+  AEK Larnaca              -  Apollon Limassol
+  Nea Salamina             -  Paphos FC
+  Ethnikos Achna           -  Omonia Nikosia
+
+
+Matchday 15
+[Sat Dec/21]
+  Omonia Nikosia           -  Nea Salamina
+  Paphos FC                -  AEK Larnaca
+  Apollon Limassol         -  Anorthosis Famagusta
+  Omonia Aradippou         -  AEL Limassol
+  Omonia 29is Maiou        -  Aris Limassol
+  Ethnikos Achna           -  APOEL Nikosia
+  Karmiotissa Polemidion   -  Enosis Neon Paralimni
+
+
+Matchday 16
+[Sat Jan/4]
+  APOEL Nikosia            -  Karmiotissa Polemidion
+  Enosis Neon Paralimni    -  Omonia 29is Maiou
+  Aris Limassol            -  Omonia Aradippou
+  AEL Limassol             -  Apollon Limassol
+  Anorthosis Famagusta     -  Paphos FC
+  AEK Larnaca              -  Omonia Nikosia
+  Nea Salamina             -  Ethnikos Achna
+
+
+Matchday 17
+[Wed Jan/8]
+  Omonia 29is Maiou        -  Karmiotissa Polemidion
+  Ethnikos Achna           -  AEK Larnaca
+  Omonia Nikosia           -  Anorthosis Famagusta
+  Paphos FC                -  AEL Limassol
+  Apollon Limassol         -  Aris Limassol
+  Nea Salamina             -  APOEL Nikosia
+  Omonia Aradippou         -  Enosis Neon Paralimni
+
+
+Matchday 18
+[Sat Jan/11]
+  APOEL Nikosia            -  Omonia 29is Maiou
+  Karmiotissa Polemidion   -  Omonia Aradippou
+  Enosis Neon Paralimni    -  Apollon Limassol
+  Aris Limassol            -  Paphos FC
+  AEL Limassol             -  Omonia Nikosia
+  Anorthosis Famagusta     -  Ethnikos Achna
+  AEK Larnaca              -  Nea Salamina
+
+
+Matchday 19
+[Sat Jan/18]
+  Apollon Limassol         -  Karmiotissa Polemidion
+  Omonia Aradippou         -  Omonia 29is Maiou
+  Nea Salamina             -  Anorthosis Famagusta
+  Ethnikos Achna           -  AEL Limassol
+  Omonia Nikosia           -  Aris Limassol
+  AEK Larnaca              -  APOEL Nikosia
+  Paphos FC                -  Enosis Neon Paralimni
+
+
+Matchday 20
+[Sat Jan/25]
+  APOEL Nikosia            -  Omonia Aradippou
+  Omonia 29is Maiou        -  Apollon Limassol
+  Karmiotissa Polemidion   -  Paphos FC
+  Enosis Neon Paralimni    -  Omonia Nikosia
+  Aris Limassol            -  Ethnikos Achna
+  AEL Limassol             -  Nea Salamina
+  Anorthosis Famagusta     -  AEK Larnaca
+
+
+Matchday 21
+[Sat Feb/1]
+  Ethnikos Achna           -  Enosis Neon Paralimni
+  Omonia Nikosia           -  Karmiotissa Polemidion
+  Paphos FC                -  Omonia 29is Maiou
+  Apollon Limassol         -  Omonia Aradippou
+  AEK Larnaca              -  AEL Limassol
+  Nea Salamina             -  Aris Limassol
+  Anorthosis Famagusta     -  APOEL Nikosia
+
+
+Matchday 22
+[Sat Feb/8]
+  Omonia Aradippou         -  Paphos FC
+  Omonia 29is Maiou        -  Omonia Nikosia
+  Karmiotissa Polemidion   -  Ethnikos Achna
+  Enosis Neon Paralimni    -  Nea Salamina
+  Aris Limassol            -  AEK Larnaca
+  AEL Limassol             -  Anorthosis Famagusta
+  APOEL Nikosia            -  Apollon Limassol
+
+
+Matchday 23
+[Wed Feb/12]
+  AEK Larnaca              -  Enosis Neon Paralimni
+  Nea Salamina             -  Karmiotissa Polemidion
+  Ethnikos Achna           -  Omonia 29is Maiou
+  Omonia Nikosia           -  Omonia Aradippou
+  Paphos FC                -  Apollon Limassol
+  Anorthosis Famagusta     -  Aris Limassol
+  AEL Limassol             -  APOEL Nikosia
+
+
+Matchday 24
+[Sat Feb/15]
+  APOEL Nikosia            -  Paphos FC
+  Apollon Limassol         -  Omonia Nikosia
+  Omonia Aradippou         -  Ethnikos Achna
+  Omonia 29is Maiou        -  Nea Salamina
+  Karmiotissa Polemidion   -  AEK Larnaca
+  Enosis Neon Paralimni    -  Anorthosis Famagusta
+  Aris Limassol            -  AEL Limassol
+
+
+Matchday 25
+[Sat Feb/22]
+  Anorthosis Famagusta     -  Karmiotissa Polemidion
+  AEK Larnaca              -  Omonia 29is Maiou
+  Nea Salamina             -  Omonia Aradippou
+  Ethnikos Achna           -  Apollon Limassol
+  Omonia Nikosia           -  Paphos FC
+  Aris Limassol            -  APOEL Nikosia
+  AEL Limassol             -  Enosis Neon Paralimni
+
+
+Matchday 26
+[Sat Mar/1]
+  APOEL Nikosia            -  Omonia Nikosia
+  Paphos FC                -  Ethnikos Achna
+  Apollon Limassol         -  Nea Salamina
+  Omonia Aradippou         -  AEK Larnaca
+  Omonia 29is Maiou        -  Anorthosis Famagusta
+  Karmiotissa Polemidion   -  AEL Limassol
+  Enosis Neon Paralimni    -  Aris Limassol

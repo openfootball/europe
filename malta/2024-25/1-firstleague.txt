@@ -1,0 +1,137 @@
+= Macedonian First League 2024/25
+
+# Date       Fri Aug/16 - Thu Nov/7 2024 (83d)
+# Teams      12
+# Matches    66
+# Stages     Opening (66)
+
+
+== Opening
+
+Matchday 1
+[Fri Aug/16]
+  20.15  Sliema Wanderers         2-0 (0-0)  Mosta FC
+  18.00  Balzan FC                3-3 (2-2)  Birkirkara FC
+[Sat Aug/17]
+  20.15  Naxxar Lions FC          1-2 (1-1)  Hibernians FC
+  18.00  Floriana FC              3-3 (1-2)  Melita FC
+[Sun Aug/18]
+  20.15  Marsaxlokk FC            0-1 (0-0)  Gżira United
+  18.00  Hamrun Spartans          3-1 (1-0)  St. Patrick FC
+
+
+Matchday 2
+[Fri Aug/23]
+  18.00  Naxxar Lions FC          2-1 (1-0)  Mosta FC
+  20.15  Birkirkara FC            1-0 (1-0)  St. Patrick FC
+[Sat Aug/24]
+  20.15  Marsaxlokk FC            1-2 (0-1)  Melita FC
+  18.00  Hamrun Spartans          1-1 (1-1)  Floriana FC
+[Sun Aug/25]
+  20.15  Sliema Wanderers         2-0 (1-0)  Balzan FC
+  18.00  Hibernians FC            2-0 (0-0)  Gżira United
+
+
+Matchday 3
+[Wed Aug/28]
+  20.30  Hamrun Spartans          2-1 (1-1)  Melita FC
+  18.00  St. Patrick FC           0-3 (0-3)  Floriana FC
+[Thu Aug/29]
+  18.00  Marsaxlokk FC            0-2 (0-1)  Birkirkara FC
+         Balzan FC                2-0 (2-0)  Naxxar Lions FC
+  20.15  Gżira United             2-0 (1-0)  Mosta FC
+  20.30  Hibernians FC            0-0  Sliema Wanderers
+
+
+Matchday 4
+[Sat Sep/14]
+  20.30  Melita FC                2-3 (1-1)  Gżira United
+  18.00  Hibernians FC            0-2 (0-0)  Birkirkara FC
+[Sun Sep/15]
+  20.15  Mosta FC                 1-0 (0-0)  Hamrun Spartans
+  18.00  Marsaxlokk FC            0-1 (0-1)  Sliema Wanderers
+[Mon Sep/16]
+  20.30  Balzan FC                0-2 (0-1)  St. Patrick FC
+  18.00  Naxxar Lions FC          0-2 (0-0)  Floriana FC
+
+
+Matchday 5
+[Sat Sep/21]
+  18.00  Gżira United             2-2 (0-1)  Sliema Wanderers
+  20.30  Balzan FC                1-1 (0-1)  Hamrun Spartans
+[Sun Sep/22]
+  20.30  St. Patrick FC           3-3 (1-1)  Naxxar Lions FC
+  18.00  Floriana FC              1-1 (0-0)  Hibernians FC
+[Mon Sep/23]
+  20.15  Marsaxlokk FC            -  Mosta FC
+  18.00  Melita FC                -  Birkirkara FC
+
+
+Matchday 6
+[Fri Sep/27]
+  20.30  Naxxar Lions FC          -  Hamrun Spartans
+  18.00  Floriana FC              -  Gżira United
+[Sat Sep/28]
+  18.00  St. Patrick FC           -  Hibernians FC
+  20.15  Marsaxlokk FC            -  Balzan FC
+[Sun Sep/29]
+  20.15  Sliema Wanderers         -  Melita FC
+  18.00  Mosta FC                 -  Birkirkara FC
+
+
+Matchday 7
+[Wed Oct/2]
+  20.30  St. Patrick FC           -  Marsaxlokk FC
+  18.00  Hamrun Spartans          -  Hibernians FC
+[Thu Oct/3]
+  18.00  Naxxar Lions FC          -  Melita FC
+  20.15  Birkirkara FC            -  Sliema Wanderers
+         Balzan FC                -  Gżira United
+  18.00  Mosta FC                 -  Floriana FC
+
+
+Matchday 8
+[Sat Oct/19]
+  13.30  Mosta FC                 -  Hibernians FC
+  15.00  Birkirkara FC            -  Hamrun Spartans
+[Sun Oct/20]
+  17.15  Naxxar Lions FC          -  Gżira United
+  18.30  Melita FC                -  Balzan FC
+  15.00  Sliema Wanderers         -  St. Patrick FC
+[Mon Oct/21]
+  20.15  Marsaxlokk FC            -  Floriana FC
+
+
+Matchday 9
+[Fri Oct/25]
+  20.15  Sliema Wanderers         -  Hamrun Spartans
+  18.00  Hibernians FC            -  Melita FC
+[Sat Oct/26]
+  15.00  Floriana FC              -  Balzan FC
+  17.15  Gżira United             -  Birkirkara FC
+[Sun Oct/27]
+  18.30  Mosta FC                 -  St. Patrick FC
+  16.00  Naxxar Lions FC          -  Marsaxlokk FC
+
+
+Matchday 10
+[Fri Nov/1]
+  20.15  Balzan FC                -  Hibernians FC
+  18.00  Floriana FC              -  Sliema Wanderers
+[Sat Nov/2]
+  17.15  Gżira United             -  St. Patrick FC
+  15.00  Hamrun Spartans          -  Marsaxlokk FC
+[Sun Nov/3]
+  16.00  Melita FC                -  Mosta FC
+  18.30  Birkirkara FC            -  Naxxar Lions FC
+
+
+Matchday 11
+[Wed Nov/6]
+  19.00  Marsaxlokk FC            -  Hibernians FC
+  20.30  Naxxar Lions FC          -  Sliema Wanderers
+  18.00  St. Patrick FC           -  Melita FC
+[Thu Nov/7]
+  19.00  Birkirkara FC            -  Floriana FC
+  20.30  Mosta FC                 -  Balzan FC
+  18.00  Gżira United             -  Hamrun Spartans

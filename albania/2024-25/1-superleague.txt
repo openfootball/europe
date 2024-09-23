@@ -1,0 +1,339 @@
+= Albanian Super League 2024/25
+
+# Date       Sun Aug/18 2024 - Thu May/1 2025 (256d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sun Aug/18]
+  20.00  FC Dinamo City           0-2 (0-0)  Egnatia Rrogozhine
+         KF Teuta Durrës          2-1 (1-1)  KF Bylis Ballsh
+[Mon Aug/19]
+  20.00  FK Partizani             0-1 (0-1)  FK Vllaznia
+         KF Skënderbeu            1-1 (1-0)  AF Elbasani
+  17.00  KF Laçi                  0-0  KF Tiranë
+
+
+Matchday 2
+[Sun Aug/25]
+  17.00  Egnatia Rrogozhine       2-1 (1-0)  KF Laçi
+  20.00  FK Partizani             2-1 (1-0)  KF Skënderbeu
+         FK Vllaznia              2-2 (0-1)  KF Tiranë
+[Mon Aug/26]
+  20.00  AF Elbasani              3-0 (1-0)  KF Teuta Durrës
+  17.00  KF Bylis Ballsh          1-0 (0-0)  FC Dinamo City
+
+
+Matchday 3
+[Sat Aug/31]
+  17.00  KF Laçi                  0-0  KF Bylis Ballsh
+  20.00  KF Skënderbeu            1-0 (0-0)  FK Vllaznia
+         KF Teuta Durrës          0-2 (0-0)  FK Partizani
+[Sun Sep/1]
+  20.00  KF Tiranë                1-1 (0-1)  Egnatia Rrogozhine
+         FC Dinamo City           2-1 (0-0)  AF Elbasani
+
+
+Matchday 4
+[Wed Sep/11]
+  16.00  KF Bylis Ballsh          2-2 (1-0)  KF Tiranë
+  19.00  KF Skënderbeu            2-3 (1-1)  KF Teuta Durrës
+         FK Vllaznia              3-1 (2-1)  Egnatia Rrogozhine
+[Thu Sep/12]
+  19.00  AF Elbasani              1-0 (0-0)  KF Laçi
+         FK Partizani             2-2 (1-1)  FC Dinamo City
+
+
+Matchday 5
+[Sun Sep/15]
+  19.00  KF Teuta Durrës          1-2 (0-1)  FK Vllaznia
+  16.00  Egnatia Rrogozhine       4-0 (2-0)  KF Bylis Ballsh
+[Mon Sep/16]
+  16.00  KF Laçi                  1-1 (0-0)  FK Partizani
+  19.00  FC Dinamo City           2-1 (1-0)  KF Skënderbeu
+         KF Tiranë                1-1 (1-1)  AF Elbasani
+
+
+Matchday 6
+[Sat Sep/21]
+  20.00  FK Partizani             0-0  KF Tiranë
+  17.00  KF Skënderbeu            2-1 (1-0)  KF Laçi
+[Sun Sep/22]
+  20.00  KF Teuta Durrës          1-1 (0-1)  FC Dinamo City
+         AF Elbasani              0-0  Egnatia Rrogozhine
+  17.00  FK Vllaznia              2-0 (0-0)  KF Bylis Ballsh
+
+
+Matchday 7
+[Fri Sep/27]
+  16.00  Egnatia Rrogozhine       -  FK Partizani
+[Sat Sep/28]
+  19.00  FC Dinamo City           -  FK Vllaznia
+  16.00  KF Laçi                  -  KF Teuta Durrës
+[Sun Sep/29]
+  19.00  KF Tiranë                -  KF Skënderbeu
+  16.00  KF Bylis Ballsh          -  AF Elbasani
+
+
+Matchday 8
+[Fri Oct/4]
+  19.00  FC Dinamo City           -  KF Laçi
+[Sat Oct/5]
+  FK Vllaznia              -  AF Elbasani
+  19.00  FK Partizani             -  KF Bylis Ballsh
+         KF Skënderbeu            -  Egnatia Rrogozhine
+  KF Teuta Durrës          -  KF Tiranë
+
+
+Matchday 9
+[Sat Oct/19]
+  KF Laçi                  -  FK Vllaznia
+  KF Tiranë                -  FC Dinamo City
+  Egnatia Rrogozhine       -  KF Teuta Durrës
+  KF Bylis Ballsh          -  KF Skënderbeu
+  AF Elbasani              -  FK Partizani
+
+
+Matchday 10
+[Sat Oct/26]
+  FK Vllaznia              -  FK Partizani
+  AF Elbasani              -  KF Skënderbeu
+  KF Bylis Ballsh          -  KF Teuta Durrës
+  Egnatia Rrogozhine       -  FC Dinamo City
+  KF Tiranë                -  KF Laçi
+
+
+Matchday 11
+[Wed Oct/30]
+  KF Laçi                  -  Egnatia Rrogozhine
+  FC Dinamo City           -  KF Bylis Ballsh
+  KF Teuta Durrës          -  AF Elbasani
+  KF Tiranë                -  FK Vllaznia
+  KF Skënderbeu            -  FK Partizani
+
+
+Matchday 12
+[Sun Nov/3]
+  FK Vllaznia              -  KF Skënderbeu
+  FK Partizani             -  KF Teuta Durrës
+  AF Elbasani              -  FC Dinamo City
+  KF Bylis Ballsh          -  KF Laçi
+  Egnatia Rrogozhine       -  KF Tiranë
+
+
+Matchday 13
+[Sat Nov/9]
+  FC Dinamo City           -  FK Partizani
+  KF Teuta Durrës          -  KF Skënderbeu
+  KF Tiranë                -  KF Bylis Ballsh
+  KF Laçi                  -  AF Elbasani
+  Egnatia Rrogozhine       -  FK Vllaznia
+
+
+Matchday 14
+[Sat Nov/23]
+  KF Skënderbeu            -  FC Dinamo City
+  FK Partizani             -  KF Laçi
+  AF Elbasani              -  KF Tiranë
+  KF Bylis Ballsh          -  Egnatia Rrogozhine
+  FK Vllaznia              -  KF Teuta Durrës
+
+
+Matchday 15
+[Sat Nov/30]
+  KF Tiranë                -  FK Partizani
+  KF Laçi                  -  KF Skënderbeu
+  FC Dinamo City           -  KF Teuta Durrës
+  Egnatia Rrogozhine       -  AF Elbasani
+  KF Bylis Ballsh          -  FK Vllaznia
+
+
+Matchday 16
+[Wed Dec/4]
+  KF Teuta Durrës          -  KF Laçi
+  KF Skënderbeu            -  KF Tiranë
+  FK Partizani             -  Egnatia Rrogozhine
+  AF Elbasani              -  KF Bylis Ballsh
+  FK Vllaznia              -  FC Dinamo City
+
+
+Matchday 17
+[Sun Dec/8]
+  KF Bylis Ballsh          -  FK Partizani
+  Egnatia Rrogozhine       -  KF Skënderbeu
+  KF Tiranë                -  KF Teuta Durrës
+  KF Laçi                  -  FC Dinamo City
+  AF Elbasani              -  FK Vllaznia
+
+
+Matchday 18
+[Sat Dec/14]
+  FC Dinamo City           -  KF Tiranë
+  KF Teuta Durrës          -  Egnatia Rrogozhine
+  KF Skënderbeu            -  KF Bylis Ballsh
+  FK Partizani             -  AF Elbasani
+  FK Vllaznia              -  KF Laçi
+
+
+Matchday 19
+[Sat Dec/21]
+  FK Partizani             -  FK Vllaznia
+  KF Skënderbeu            -  AF Elbasani
+  KF Teuta Durrës          -  KF Bylis Ballsh
+  FC Dinamo City           -  Egnatia Rrogozhine
+  KF Laçi                  -  KF Tiranë
+
+
+Matchday 20
+[Sat Jan/11]
+  Egnatia Rrogozhine       -  KF Laçi
+  KF Bylis Ballsh          -  FC Dinamo City
+  AF Elbasani              -  KF Teuta Durrës
+  FK Vllaznia              -  KF Tiranë
+  FK Partizani             -  KF Skënderbeu
+
+
+Matchday 21
+[Sun Jan/19]
+  KF Skënderbeu            -  FK Vllaznia
+  KF Teuta Durrës          -  FK Partizani
+  FC Dinamo City           -  AF Elbasani
+  KF Laçi                  -  KF Bylis Ballsh
+  KF Tiranë                -  Egnatia Rrogozhine
+
+
+Matchday 22
+[Tue Jan/21]
+  FK Partizani             -  FC Dinamo City
+  KF Skënderbeu            -  KF Teuta Durrës
+  KF Bylis Ballsh          -  KF Tiranë
+  AF Elbasani              -  KF Laçi
+  FK Vllaznia              -  Egnatia Rrogozhine
+
+
+Matchday 23
+[Sat Feb/1]
+  FC Dinamo City           -  KF Skënderbeu
+  KF Laçi                  -  FK Partizani
+  KF Tiranë                -  AF Elbasani
+  Egnatia Rrogozhine       -  KF Bylis Ballsh
+  KF Teuta Durrës          -  FK Vllaznia
+
+
+Matchday 24
+[Sun Feb/9]
+  FK Partizani             -  KF Tiranë
+  KF Skënderbeu            -  KF Laçi
+  KF Teuta Durrës          -  FC Dinamo City
+  AF Elbasani              -  Egnatia Rrogozhine
+  FK Vllaznia              -  KF Bylis Ballsh
+
+
+Matchday 25
+[Sat Feb/15]
+  KF Laçi                  -  KF Teuta Durrës
+  KF Tiranë                -  KF Skënderbeu
+  Egnatia Rrogozhine       -  FK Partizani
+  KF Bylis Ballsh          -  AF Elbasani
+  FC Dinamo City           -  FK Vllaznia
+
+
+Matchday 26
+[Sat Feb/22]
+  FK Partizani             -  KF Bylis Ballsh
+  KF Skënderbeu            -  Egnatia Rrogozhine
+  KF Teuta Durrës          -  KF Tiranë
+  FC Dinamo City           -  KF Laçi
+  FK Vllaznia              -  AF Elbasani
+
+
+Matchday 27
+[Sun Mar/2]
+  KF Tiranë                -  FC Dinamo City
+  Egnatia Rrogozhine       -  KF Teuta Durrës
+  KF Bylis Ballsh          -  KF Skënderbeu
+  AF Elbasani              -  FK Partizani
+  KF Laçi                  -  FK Vllaznia
+
+
+Matchday 28
+[Wed Mar/5]
+  FK Vllaznia              -  FK Partizani
+  AF Elbasani              -  KF Skënderbeu
+  KF Bylis Ballsh          -  KF Teuta Durrës
+  Egnatia Rrogozhine       -  FC Dinamo City
+  KF Tiranë                -  KF Laçi
+
+
+Matchday 29
+[Sun Mar/9]
+  KF Laçi                  -  Egnatia Rrogozhine
+  FC Dinamo City           -  KF Bylis Ballsh
+  KF Teuta Durrës          -  AF Elbasani
+  KF Tiranë                -  FK Vllaznia
+  KF Skënderbeu            -  FK Partizani
+
+
+Matchday 30
+[Sat Mar/15]
+  FK Vllaznia              -  KF Skënderbeu
+  FK Partizani             -  KF Teuta Durrës
+  AF Elbasani              -  FC Dinamo City
+  KF Bylis Ballsh          -  KF Laçi
+  Egnatia Rrogozhine       -  KF Tiranë
+
+
+Matchday 31
+[Sun Mar/30]
+  FC Dinamo City           -  FK Partizani
+  KF Teuta Durrës          -  KF Skënderbeu
+  KF Tiranë                -  KF Bylis Ballsh
+  KF Laçi                  -  AF Elbasani
+  Egnatia Rrogozhine       -  FK Vllaznia
+
+
+Matchday 32
+[Sun Apr/6]
+  KF Skënderbeu            -  FC Dinamo City
+  FK Partizani             -  KF Laçi
+  AF Elbasani              -  KF Tiranë
+  KF Bylis Ballsh          -  Egnatia Rrogozhine
+  FK Vllaznia              -  KF Teuta Durrës
+
+
+Matchday 33
+[Sat Apr/12]
+  KF Tiranë                -  FK Partizani
+  KF Laçi                  -  KF Skënderbeu
+  FC Dinamo City           -  KF Teuta Durrës
+  Egnatia Rrogozhine       -  AF Elbasani
+  KF Bylis Ballsh          -  FK Vllaznia
+
+
+Matchday 34
+[Sat Apr/19]
+  KF Teuta Durrës          -  KF Laçi
+  KF Skënderbeu            -  KF Tiranë
+  FK Partizani             -  Egnatia Rrogozhine
+  AF Elbasani              -  KF Bylis Ballsh
+  FK Vllaznia              -  FC Dinamo City
+
+
+Matchday 35
+[Sun Apr/27]
+  KF Bylis Ballsh          -  FK Partizani
+  Egnatia Rrogozhine       -  KF Skënderbeu
+  KF Tiranë                -  KF Teuta Durrës
+  KF Laçi                  -  FC Dinamo City
+  AF Elbasani              -  FK Vllaznia
+
+
+Matchday 36
+[Thu May/1]
+  FC Dinamo City           -  KF Tiranë
+  KF Teuta Durrës          -  Egnatia Rrogozhine
+  KF Skënderbeu            -  KF Bylis Ballsh
+  FK Partizani             -  AF Elbasani
+  FK Vllaznia              -  KF Laçi

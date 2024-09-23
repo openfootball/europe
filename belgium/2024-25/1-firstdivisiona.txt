@@ -103,21 +103,21 @@ Matchday 7
 
 Matchday 5
 [Tue Sep/17]
-  20.00  RSC Anderlecht           -  KRC Genk
+  20.00  RSC Anderlecht           0-2 (0-1)  KRC Genk
 
 
 Matchday 8
 [Fri Sep/20]
-  20.45  Standard Liège           -  Union Saint-Gilloise
+  20.45  Standard Liège           0-0  Union Saint-Gilloise
 [Sat Sep/21]
-  20.45  RSC Anderlecht           -  Sporting Charleroi
-  16.00  K Beerschot VA           -  Sint-Truidense VV
-  18.15  KVC Westerlo             -  Royal Antwerp FC
+  20.45  RSC Anderlecht           0-0  Sporting Charleroi
+  16.00  K Beerschot VA           0-3 (0-1)  Sint-Truidense VV
+  18.15  KVC Westerlo             1-2 (1-1)  Royal Antwerp FC
 [Sun Sep/22]
-  19.15  Oud-Heverlee Leuven      -  KV Kortrijk
-  13.30  Club Brugge KV           -  KAA Gent
-  16.00  KV Mechelen              -  Cercle Brugge
-  18.30  KRC Genk                 -  FCV Dender EH
+  19.15  Oud-Heverlee Leuven      1-1 (0-0)  KV Kortrijk
+  13.30  Club Brugge KV           2-4 (0-2)  KAA Gent
+  16.00  KV Mechelen              2-0 (1-0)  Cercle Brugge
+  18.30  KRC Genk                 4-0 (1-0)  FCV Dender EH
 
 
 Matchday 5
@@ -147,9 +147,9 @@ Matchday 10
   20.45  FCV Dender EH            -  Sporting Charleroi
   16.00  KV Mechelen              -  Oud-Heverlee Leuven
 [Sun Oct/6]
+  13.30  RSC Anderlecht           -  Standard Liège
   16.00  Royal Antwerp FC         -  Cercle Brugge
   18.30  Club Brugge KV           -  Union Saint-Gilloise
-         RSC Anderlecht           -  Standard Liège
   19.15  Sint-Truidense VV        -  KAA Gent
 
 

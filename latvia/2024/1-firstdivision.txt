@@ -1,0 +1,405 @@
+= Latvian First Division 2024
+
+# Date       Fri Mar/8 - Sat Nov/9 2024 (246d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Mar/8]
+  18.00  FK Auda                  1-2 (0-1)  Rīgas Futbola skola
+[Sat Mar/9]
+  16.00  FS Jelgava               0-0  BFC Daugavpils
+  14.00  FK Liepāja               0-2 (0-0)  FK Tukums 2000
+[Sun Mar/10]
+  15.00  FK Metta                 0-2 (0-0)  Valmiera FC
+  13.00  Grobiņas SC              0-1 (0-1)  Riga FC
+
+
+Matchday 2
+[Fri Mar/15]
+  18.00  Rīgas Futbola skola      0-1 (0-1)  Valmiera FC
+[Sat Mar/16]
+  15.00  Riga FC                  1-0 (0-0)  FK Auda
+  16.00  BFC Daugavpils           2-0 (1-0)  Grobiņas SC
+  13.00  FK Metta                 2-0 (1-0)  FK Liepāja
+[Sun Mar/17]
+  14.00  FS Jelgava               2-3 (1-2)  FK Tukums 2000
+
+
+Matchday 3
+[Fri Mar/29]
+  16.00  FS Jelgava               0-1 (0-1)  FK Metta
+[Sat Mar/30]
+  16.00  BFC Daugavpils           3-1 (1-0)  FK Tukums 2000
+  14.00  FK Liepāja               0-3 (0-1)  Rīgas Futbola skola
+[Sun Mar/31]
+  16.00  Valmiera FC              2-1 (0-1)  Riga FC
+  14.00  Grobiņas SC              1-1 (0-0)  FK Auda
+
+
+Matchday 4
+[Wed Apr/3]
+  17.00  FK Metta                 0-1 (0-0)  BFC Daugavpils
+  19.00  Rīgas Futbola skola      5-1 (4-0)  FS Jelgava
+[Thu Apr/4]
+  18.00  Riga FC                  4-0 (2-0)  FK Liepāja
+  17.00  FK Tukums 2000           2-0 (1-0)  Grobiņas SC
+[Fri Apr/5]
+  18.00  FK Auda                  3-1 (2-0)  Valmiera FC
+
+
+Matchday 5
+[Sun Apr/7]
+  15.00  BFC Daugavpils           1-1 (0-1)  Rīgas Futbola skola
+[Mon Apr/8]
+  17.00  FK Tukums 2000           0-0  FK Metta
+  19.00  Riga FC                  2-0 (0-0)  FS Jelgava
+[Tue Apr/9]
+  18.00  FK Liepāja               1-0 (1-0)  FK Auda
+  17.00  Valmiera FC              1-1 (0-1)  Grobiņas SC
+
+
+Matchday 6
+[Fri Apr/12]
+  19.00  Rīgas Futbola skola      5-0 (3-0)  FK Tukums 2000
+  18.00  Riga FC                  2-0 (1-0)  BFC Daugavpils
+[Sat Apr/13]
+  16.00  Grobiņas SC              3-0 (2-0)  FK Metta
+  18.00  FS Jelgava               0-0  FK Auda
+[Sun Apr/14]
+  16.00  Valmiera FC              0-1 (0-1)  FK Liepāja
+
+
+Matchday 7
+[Tue Apr/16]
+  17.30  FK Tukums 2000           2-1 (0-0)  Riga FC
+[Wed Apr/17]
+  19.30  Rīgas Futbola skola      2-0 (0-0)  FK Metta
+  17.30  FK Auda                  1-0 (1-0)  BFC Daugavpils
+[Thu Apr/18]
+  17.30  Grobiņas SC              3-2 (1-1)  FK Liepāja
+  19.30  FS Jelgava               0-3 (0-1)  Valmiera FC
+
+
+Matchday 8
+[Sun Apr/21]
+  16.00  FK Auda                  2-0 (1-0)  FK Tukums 2000
+  14.00  FK Metta                 1-2 (0-1)  Riga FC
+[Mon Apr/22]
+  17.30  Valmiera FC              0-1 (0-1)  BFC Daugavpils
+[Tue Apr/23]
+  17.30  FK Liepāja               0-1 (0-0)  FS Jelgava
+  13.00  Grobiņas SC              0-4 (0-2)  Rīgas Futbola skola
+
+
+Matchday 9
+[Fri Apr/26]
+  18.00  FK Metta                 1-3 (0-2)  FK Auda
+[Sat Apr/27]
+  19.00  Riga FC                  1-2 (0-1)  Rīgas Futbola skola
+  16.00  FK Tukums 2000           1-2 (0-1)  Valmiera FC
+[Sun Apr/28]
+  16.00  FS Jelgava               2-1 (1-1)  Grobiņas SC
+  14.00  BFC Daugavpils           0-0  FK Liepāja
+
+
+Matchday 10
+[Wed May/1]
+  16.00  Rīgas Futbola skola      2-1 (1-1)  FK Auda
+  18.30  FK Metta                 1-1 (1-0)  Valmiera FC
+[Thu May/2]
+  19.00  Riga FC                  2-0 (1-0)  Grobiņas SC
+  18.00  FK Tukums 2000           0-0  FK Liepāja
+[Fri May/3]
+  18.00  BFC Daugavpils           1-0 (1-0)  FS Jelgava
+
+
+Matchday 11
+[Sun May/5]
+  16.00  FK Auda                  1-2 (0-0)  Riga FC
+  14.00  Valmiera FC              2-0 (0-0)  Rīgas Futbola skola
+[Mon May/6]
+  16.00  FK Liepāja               1-2 (1-0)  FK Metta
+[Tue May/7]
+  18.00  FK Tukums 2000           2-1 (1-0)  FS Jelgava
+  17.30  Grobiņas SC              1-3 (0-3)  BFC Daugavpils
+
+
+Matchday 12
+[Fri May/10]
+  20.00  Riga FC                  1-1 (0-0)  Valmiera FC
+  18.00  Rīgas Futbola skola      4-1 (2-1)  FK Liepāja
+[Sat May/11]
+  16.00  FK Metta                 3-0 (3-0)  FS Jelgava
+  18.00  Grobiņas SC              2-2 (1-2)  FK Auda
+[Sun May/12]
+  15.00  BFC Daugavpils           4-1 (2-1)  FK Tukums 2000
+
+
+Matchday 13
+[Tue May/14]
+  18.00  FK Liepāja               1-1 (0-1)  Riga FC
+[Wed May/15]
+  18.30  FS Jelgava               1-2 (1-0)  Rīgas Futbola skola
+  17.30  Valmiera FC              2-1 (1-0)  FK Auda
+[Thu May/16]
+  18.00  FK Tukums 2000           1-2 (0-0)  Grobiņas SC
+         BFC Daugavpils           4-0 (3-0)  FK Metta
+
+
+Matchday 14
+[Sun May/19]
+  21.00  FK Auda                  1-1 (1-1)  FK Liepāja
+  18.00  FS Jelgava               1-5 (0-3)  Riga FC
+[Mon May/20]
+  17.30  Grobiņas SC              0-2 (0-0)  Valmiera FC
+  19.00  Rīgas Futbola skola      5-0 (1-0)  BFC Daugavpils
+[Tue May/21]
+  18.00  FK Metta                 1-1 (0-0)  FK Tukums 2000
+
+
+Matchday 15
+[Thu May/23]
+  18.00  FK Auda                  0-1 (0-0)  FS Jelgava
+[Fri May/24]
+  18.30  FK Liepāja               0-3 (0-2)  Valmiera FC
+  17.30  BFC Daugavpils           0-2 (0-1)  Riga FC
+[Sat May/25]
+  18.00  FK Tukums 2000           0-1 (0-1)  Rīgas Futbola skola
+  16.00  FK Metta                 1-1 (1-0)  Grobiņas SC
+
+
+Matchday 16
+[Tue May/28]
+  19.00  BFC Daugavpils           0-3 (0-1)  FK Auda
+  18.00  Valmiera FC              4-0 (2-0)  FS Jelgava
+[Wed May/29]
+  18.00  FK Liepāja               3-0 (1-0)  Grobiņas SC
+         FK Metta                 0-6 (0-4)  Rīgas Futbola skola
+  20.00  Riga FC                  3-0 (2-0)  FK Tukums 2000
+
+
+Matchday 17
+[Sat Jun/1]
+  17.00  BFC Daugavpils           1-6 (1-5)  Valmiera FC
+[Sun Jun/2]
+  18.00  Rīgas Futbola skola      5-0 (1-0)  Grobiņas SC
+         FK Tukums 2000           1-4 (0-2)  FK Auda
+  20.00  Riga FC                  5-0 (0-0)  FK Metta
+  16.00  FS Jelgava               1-1 (0-1)  FK Liepāja
+
+
+Matchday 18
+[Fri Jun/14]
+  18.00  Valmiera FC              6-1 (6-0)  FK Tukums 2000
+[Sat Jun/15]
+  19.00  FK Liepāja               1-1 (0-1)  BFC Daugavpils
+[Sun Jun/16]
+  18.00  FK Auda                  4-0 (3-0)  FK Metta
+  20.00  Rīgas Futbola skola      2-2 (1-0)  Riga FC
+  16.00  Grobiņas SC              4-2 (1-1)  FS Jelgava
+
+
+Matchday 19
+[Thu Jun/20]
+  18.00  FK Tukums 2000           2-1 (0-0)  FK Liepāja
+  19.00  Valmiera FC              3-0 (2-0)  FK Metta
+[Fri Jun/21]
+  20.00  FK Auda                  1-3 (0-1)  Rīgas Futbola skola
+  18.00  BFC Daugavpils           3-0 (0-0)  FS Jelgava
+[Sat Jun/22]
+  14.00  Grobiņas SC              0-6 (0-4)  Riga FC
+
+
+Matchday 20
+[Tue Jun/25]
+  18.00  FK Liepāja               1-5 (1-0)  FK Metta
+[Wed Jun/26]
+  18.00  FS Jelgava               0-0  FK Tukums 2000
+         Riga FC                  1-0 (1-0)  FK Auda
+  20.00  Rīgas Futbola skola      4-1 (2-1)  Valmiera FC
+[Thu Jun/27]
+  18.00  Grobiņas SC              3-0 (1-0)  BFC Daugavpils
+
+
+Matchday 21
+[Mon Jul/1]
+  19.00  FK Liepāja               1-3 (1-1)  Rīgas Futbola skola
+  18.00  FS Jelgava               1-0 (0-0)  FK Metta
+[Tue Jul/2]
+  18.00  Valmiera FC              2-2 (0-1)  Riga FC
+  20.00  FK Auda                  0-1 (0-1)  Grobiņas SC
+[Wed Jul/3]
+  18.00  FK Tukums 2000           1-2 (0-1)  BFC Daugavpils
+
+
+Matchday 22
+[Fri Jul/5]
+  20.00  Rīgas Futbola skola      7-0 (4-0)  FS Jelgava
+[Sat Jul/6]
+  18.00  FK Auda                  0-1 (0-1)  Valmiera FC
+[Sun Jul/7]
+  16.00  FK Metta                 3-2 (2-1)  BFC Daugavpils
+  18.00  FK Liepāja               0-3 (0-1)  Riga FC
+[Mon Jul/8]
+  18.00  Grobiņas SC              2-1 (1-0)  FK Tukums 2000
+
+
+Matchday 23
+[Fri Jul/19]
+  18.00  Riga FC                  6-1 (4-0)  FS Jelgava
+[Sun Jul/21]
+  16.00  FK Auda                  2-0 (1-0)  FK Liepāja
+  14.00  Valmiera FC              0-0  Grobiņas SC
+[Mon Jul/22]
+  18.00  FK Metta                 0-0  FK Tukums 2000
+
+
+Matchday 24
+[Sat Jul/27]
+  16.00  FK Tukums 2000           1-4 (1-1)  Rīgas Futbola skola
+  18.00  Grobiņas SC              1-2 (0-2)  FK Metta
+[Sun Jul/28]
+  14.00  FK Liepāja               0-0  Valmiera FC
+  16.00  FS Jelgava               1-3 (0-3)  FK Auda
+  18.00  Riga FC                  1-0 (0-0)  BFC Daugavpils
+
+
+Matchday 25
+[Sat Aug/3]
+  18.00  FK Liepāja               0-1 (0-1)  Grobiņas SC
+[Sun Aug/4]
+  20.00  Rīgas Futbola skola      5-1 (2-1)  FK Metta
+  14.00  FS Jelgava               0-4 (0-1)  Valmiera FC
+  16.00  FK Tukums 2000           0-5 (0-1)  Riga FC
+  18.00  FK Auda                  1-0 (0-0)  BFC Daugavpils
+
+
+Matchday 26
+[Sat Aug/10]
+  16.00  FK Metta                 2-4 (1-1)  Riga FC
+  18.00  FK Liepāja               3-0 (1-0)  FS Jelgava
+[Sun Aug/11]
+  16.00  Valmiera FC              4-1 (2-1)  BFC Daugavpils
+  20.00  Rīgas Futbola skola      3-0 (0-0)  Grobiņas SC
+
+
+Matchday 27
+[Fri Aug/23]
+  18.00  Grobiņas SC              2-3 (1-1)  FS Jelgava
+[Sat Aug/24]
+  14.00  FK Tukums 2000           3-2 (2-0)  Valmiera FC
+  16.00  BFC Daugavpils           0-2 (0-1)  FK Liepāja
+[Sun Aug/25]
+  20.00  Riga FC                  0-0  Rīgas Futbola skola
+  16.00  FK Metta                 0-4 (0-1)  FK Auda
+
+
+Matchday 28
+[Sat Aug/31]
+  18.00  Riga FC                  6-1 (2-1)  Grobiņas SC
+  16.00  Valmiera FC              4-0 (3-0)  FK Metta
+[Sun Sep/1]
+  17.00  FK Liepāja               3-1 (1-0)  FK Tukums 2000
+  14.00  FS Jelgava               0-0  BFC Daugavpils
+
+
+Matchday 29
+[Fri Sep/13]
+  17.00  Valmiera FC              1-2 (0-2)  Rīgas Futbola skola
+[Sat Sep/14]
+  18.00  FK Auda                  2-2 (1-1)  Riga FC
+  16.00  BFC Daugavpils           4-0 (2-0)  Grobiņas SC
+[Sun Sep/15]
+  14.00  FK Tukums 2000           3-3 (3-1)  FS Jelgava
+  15.00  FK Metta                 1-2 (0-1)  FK Liepāja
+
+
+Matchday 23
+[Tue Sep/17]
+  20.00  Rīgas Futbola skola      4-1 (3-0)  BFC Daugavpils
+
+
+Matchday 30
+[Thu Sep/19]
+  19.00  Riga FC                  1-0 (1-0)  Valmiera FC
+[Fri Sep/20]
+  20.00  Rīgas Futbola skola      2-0 (1-0)  FK Liepāja
+[Sat Sep/21]
+  14.00  FK Tukums 2000           0-0  BFC Daugavpils
+[Sun Sep/22]
+  16.00  FK Metta                 2-0 (2-0)  FS Jelgava
+  18.00  FK Auda                  2-0 (2-0)  Grobiņas SC
+
+
+Matchday 31
+[Fri Sep/27]
+  18.00  BFC Daugavpils           -  FK Metta
+[Sat Sep/28]
+  14.00  Valmiera FC              -  FK Auda
+  16.00  Grobiņas SC              -  FK Tukums 2000
+[Sun Sep/29]
+  16.00  Riga FC                  -  FK Liepāja
+  14.00  FS Jelgava               -  Rīgas Futbola skola
+
+
+Matchday 26
+[Wed Oct/2]
+  18.00  FK Auda                  -  FK Tukums 2000
+
+
+Matchday 32
+[Fri Oct/4]
+  18.00  Grobiņas SC              -  Valmiera FC
+[Sat Oct/5]
+  15.00  FK Liepāja               -  FK Auda
+         FS Jelgava               -  Riga FC
+[Sun Oct/6]
+  15.00  FK Tukums 2000           -  FK Metta
+  17.00  BFC Daugavpils           -  Rīgas Futbola skola
+
+
+Matchday 28
+[Thu Oct/17]
+  18.00  Rīgas Futbola skola      -  FK Auda
+
+
+Matchday 33
+[Fri Oct/18]
+  18.00  FK Auda                  -  FS Jelgava
+[Sat Oct/19]
+  13.00  BFC Daugavpils           -  Riga FC
+  15.00  Rīgas Futbola skola      -  FK Tukums 2000
+[Sun Oct/20]
+  14.00  FK Metta                 -  Grobiņas SC
+         Valmiera FC              -  FK Liepāja
+
+
+Matchday 34
+[Sat Oct/26]
+  14.00  Grobiņas SC              -  FK Liepāja
+  16.00  BFC Daugavpils           -  FK Auda
+  14.00  Valmiera FC              -  FS Jelgava
+[Sun Oct/27]
+  14.00  Riga FC                  -  FK Tukums 2000
+  16.00  FK Metta                 -  Rīgas Futbola skola
+
+
+Matchday 35
+[Sun Nov/3]
+  13.00  FS Jelgava               -  FK Liepāja
+         FK Tukums 2000           -  FK Auda
+         Riga FC                  -  FK Metta
+         Grobiņas SC              -  Rīgas Futbola skola
+         BFC Daugavpils           -  Valmiera FC
+
+
+Matchday 36
+[Sat Nov/9]
+  13.00  Valmiera FC              -  FK Tukums 2000
+         FK Auda                  -  FK Metta
+         FS Jelgava               -  Grobiņas SC
+         FK Liepāja               -  BFC Daugavpils
+         Rīgas Futbola skola      -  Riga FC

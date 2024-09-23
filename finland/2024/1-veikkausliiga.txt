@@ -293,7 +293,7 @@ Matchday 1
 
 Matchday 2
 [Thu Sep/19]
-  18.00  FC Lahti                 -  IFK Mariehamn
+  18.00  FC Lahti                 2-1 (2-0)  IFK Mariehamn
 [Sun Sep/22]
   16.00  Ekenäs IF                -  IF Gnistan
 [Tue Sep/24]
@@ -335,8 +335,8 @@ Matchday 1
 
 Matchday 2
 [Fri Sep/20]
-  18.00  Haka Valkeakoski         -  SJK Seinäjoki
-  20.00  Vaasan PS                -  HJK Helsinki
+  18.00  Haka Valkeakoski         0-3 (0-2)  SJK Seinäjoki
+  20.00  Vaasan PS                1-1 (0-1)  HJK Helsinki
 [Tue Sep/24]
   19.00  Ilves Tampere            -  Kuopion PS
 

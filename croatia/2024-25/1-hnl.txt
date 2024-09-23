@@ -74,13 +74,13 @@ Matchday 6
 
 Matchday 7
 [Fri Sep/20]
-  18.00  NK Varaždin              -  NK Istra 1961
+  18.00  NK Varaždin              1-0 (0-0)  NK Istra 1961
 [Sat Sep/21]
-  20.00  Hajduk Split             -  HNK Gorica
-  17.30  Slaven Belupo            -  Dinamo Zagreb
+  20.00  Hajduk Split             4-1 (1-1)  HNK Gorica
+  17.30  Slaven Belupo            4-1 (1-1)  Dinamo Zagreb
 [Sun Sep/22]
-  17.30  Lokomotiva Zagreb        -  NK Osijek
-  20.00  HNK Rijeka               -  HNK Šibenik
+  17.30  Lokomotiva Zagreb        0-1 (0-1)  NK Osijek
+  20.00  HNK Rijeka               3-0 (2-0)  HNK Šibenik
 
 
 Matchday 8
@@ -96,9 +96,9 @@ Matchday 8
 
 Matchday 9
 [Fri Oct/4]
-  18.00  NK Istra 1961            -  NK Osijek
+  18.00  Slaven Belupo            -  HNK Rijeka
 [Sat Oct/5]
-  18.30  Slaven Belupo            -  HNK Rijeka
+  18.30  NK Istra 1961            -  NK Osijek
   16.00  Lokomotiva Zagreb        -  HNK Gorica
 [Sun Oct/6]
   18.30  Hajduk Split             -  HNK Šibenik

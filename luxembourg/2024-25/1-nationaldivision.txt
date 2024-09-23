@@ -86,15 +86,15 @@ Matchday 6
 
 Matchday 7
 [Sat Sep/21]
-  17.00  UNA Strassen             -  F91 Dudelange
-         FC Rodange 91            -  Union Titus Pétange
-  18.00  RFCU Luxemburg           -  US Mondorf
-  20.00  FC Wiltz 71              -  Progrès Niedercorn
-  17.00  CS FOLA Esch             -  US Hostert
+  17.00  UNA Strassen             0-1 (0-0)  F91 Dudelange
+         FC Rodange 91            0-0  Union Titus Pétange
+  18.00  RFCU Luxemburg           3-0 (1-0)  US Mondorf
+  20.00  FC Wiltz 71              1-2 (1-1)  Progrès Niedercorn
+  17.00  CS FOLA Esch             0-4 (0-1)  US Hostert
 [Sun Sep/22]
-  16.00  Victoria Rosport         -  FC Mondercange
-  18.30  SC Bettembourg           -  Jeunesse Esch
-  16.00  FC Differdange 03        -  Swift Hesperange
+  16.00  Victoria Rosport         2-0 (1-0)  FC Mondercange
+  18.30  SC Bettembourg           1-2 (0-1)  Jeunesse Esch
+  16.00  FC Differdange 03        0-0  Swift Hesperange
 
 
 Matchday 8
@@ -110,14 +110,13 @@ Matchday 8
 
 
 Matchday 9
-[Sat Sep/28]
-  17.00  FC Differdange 03        -  Jeunesse Esch
 [Sun Sep/29]
   16.00  CS FOLA Esch             -  US Mondorf
          UNA Strassen             -  Progrès Niedercorn
          FC Wiltz 71              -  Swift Hesperange
          FC Rodange 91            -  FC Mondercange
          Victoria Rosport         -  SC Bettembourg
+  17.00  FC Differdange 03        -  Jeunesse Esch
   18.30  RFCU Luxemburg           -  Union Titus Pétange
   16.00  F91 Dudelange            -  US Hostert
 
