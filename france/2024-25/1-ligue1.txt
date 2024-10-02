@@ -68,32 +68,32 @@ Matchday 4
 
 Matchday 5
 [Fri Sep/20]
-  20.45  OGC Nice                 -  AS Saint-Étienne
+  20.45  OGC Nice                 8-0 (6-0)  AS Saint-Étienne
 [Sat Sep/21]
-  17.00  Lille OSC                -  RC Strasbourg Alsace
-  19.00  Stade Rennais FC 1901    -  Racing Club de Lens
-  21.00  Stade de Reims           -  Paris Saint-Germain FC
+  17.00  Lille OSC                3-3 (2-2)  RC Strasbourg Alsace
+  19.00  Stade Rennais FC 1901    1-1 (1-0)  Racing Club de Lens
+  21.00  Stade de Reims           1-1 (1-0)  Paris Saint-Germain FC
 [Sun Sep/22]
-  15.00  AS Monaco FC             -  Le Havre AC
-  17.00  Stade Brestois 29        -  Toulouse FC
-         Angers SCO               -  FC Nantes
-         Montpellier HSC          -  AJ Auxerre
-  20.45  Olympique Lyonnais       -  Olympique de Marseille
+  15.00  AS Monaco FC             3-1 (1-1)  Le Havre AC
+  17.00  Stade Brestois 29        2-0 (1-0)  Toulouse FC
+         Angers SCO               1-1 (1-1)  FC Nantes
+         Montpellier HSC          3-2 (0-1)  AJ Auxerre
+  20.45  Olympique Lyonnais       2-3 (0-0)  Olympique de Marseille
 
 
 Matchday 6
 [Fri Sep/27]
-  19.00  AJ Auxerre               -  Stade Brestois 29
-  21.00  Paris Saint-Germain FC   -  Stade Rennais FC 1901
+  19.00  AJ Auxerre               3-0 (2-0)  Stade Brestois 29
+  21.00  Paris Saint-Germain FC   3-1 (1-0)  Stade Rennais FC 1901
 [Sat Sep/28]
-  17.00  Racing Club de Lens      -  OGC Nice
-  19.00  Le Havre AC              -  Lille OSC
-  21.00  AS Monaco FC             -  Montpellier HSC
+  17.00  Racing Club de Lens      0-0  OGC Nice
+  19.00  Le Havre AC              0-3 (0-2)  Lille OSC
+  21.00  AS Monaco FC             2-1 (1-1)  Montpellier HSC
 [Sun Sep/29]
-  15.00  Toulouse FC              -  Olympique Lyonnais
-  17.00  FC Nantes                -  AS Saint-Étienne
-         Angers SCO               -  Stade de Reims
-  20.45  RC Strasbourg Alsace     -  Olympique de Marseille
+  15.00  Toulouse FC              1-2 (1-1)  Olympique Lyonnais
+  17.00  FC Nantes                2-2 (1-0)  AS Saint-Étienne
+         Angers SCO               1-3 (0-2)  Stade de Reims
+  20.45  RC Strasbourg Alsace     1-0 (1-0)  Olympique de Marseille
 
 
 Matchday 7
@@ -112,29 +112,33 @@ Matchday 7
 
 
 Matchday 8
+[Fri Oct/18]
+  20.45  AS Monaco FC             -  Lille OSC
+[Sat Oct/19]
+  17.00  Stade Brestois 29        -  Stade Rennais FC 1901
+  19.00  AS Saint-Étienne         -  Racing Club de Lens
+  21.00  Paris Saint-Germain FC   -  RC Strasbourg Alsace
 [Sun Oct/20]
-  AJ Auxerre               -  Stade de Reims
-  Toulouse FC              -  Angers SCO
-  Le Havre AC              -  Olympique Lyonnais
-  FC Nantes                -  OGC Nice
-  Montpellier HSC          -  Olympique de Marseille
-  AS Monaco FC             -  Lille OSC
-  AS Saint-Étienne         -  Racing Club de Lens
-  Stade Brestois 29        -  Stade Rennais FC 1901
-  Paris Saint-Germain FC   -  RC Strasbourg Alsace
+  15.00  Le Havre AC              -  Olympique Lyonnais
+  17.00  AJ Auxerre               -  Stade de Reims
+         Toulouse FC              -  Angers SCO
+         FC Nantes                -  OGC Nice
+  20.45  Montpellier HSC          -  Olympique de Marseille
 
 
 Matchday 9
+[Fri Oct/25]
+  20.45  Stade Rennais FC 1901    -  Le Havre AC
+[Sat Oct/26]
+  17.00  Angers SCO               -  AS Saint-Étienne
+  19.00  Stade de Reims           -  Stade Brestois 29
+  21.00  Racing Club de Lens      -  Lille OSC
 [Sun Oct/27]
-  OGC Nice                 -  AS Monaco FC
-  Racing Club de Lens      -  Lille OSC
-  Olympique de Marseille   -  Paris Saint-Germain FC
-  Olympique Lyonnais       -  AJ Auxerre
-  Montpellier HSC          -  Toulouse FC
-  RC Strasbourg Alsace     -  FC Nantes
-  Stade Rennais FC 1901    -  Le Havre AC
-  Angers SCO               -  AS Saint-Étienne
-  Stade de Reims           -  Stade Brestois 29
+  15.00  Olympique Lyonnais       -  AJ Auxerre
+  17.00  OGC Nice                 -  AS Monaco FC
+         Montpellier HSC          -  Toulouse FC
+         RC Strasbourg Alsace     -  FC Nantes
+  20.45  Olympique de Marseille   -  Paris Saint-Germain FC
 
 
 Matchday 10

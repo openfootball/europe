@@ -86,34 +86,34 @@ Matchday 5
 
 Matchday 6
 [Fri Sep/20]
-  20.15  CD Nacional              -  Sporting Clube de Braga
+  20.15  CD Nacional              0-3 (0-0)  Sporting Clube de Braga
 [Sat Sep/21]
-  15.30  CD Santa Clara           -  CF Estrela da Amadora
-         Rio Ave FC               -  GD Estoril Praia
-  18.00  Vitória Guimarães        -  FC Porto
-  20.30  Moreirense FC            -  FC Famalicão
+  15.30  CD Santa Clara           1-0 (0-0)  CF Estrela da Amadora
+         Rio Ave FC               2-2 (1-0)  GD Estoril Praia
+  18.00  Vitória Guimarães        0-3 (0-0)  FC Porto
+  20.30  Moreirense FC            0-0  FC Famalicão
 [Sun Sep/22]
-  15.30  Gil Vicente FC           -  Casa Pia AC
-  18.00  SC Farense               -  FC Arouca
-  20.30  Sporting Clube de Portugal  -  AVS
+  15.30  Gil Vicente FC           1-1 (1-0)  Casa Pia AC
+  18.00  SC Farense               0-1 (0-1)  FC Arouca
+  20.30  Sporting Clube de Portugal  3-0 (2-0)  AVS
 [Mon Sep/23]
-  20.15  Boavista FC              -  Sport Lisboa e Benfica
+  20.15  Boavista FC              0-3 (0-2)  Sport Lisboa e Benfica
 
 
 Matchday 7
 [Fri Sep/27]
-  20.15  GD Estoril Praia         -  Sporting Clube de Portugal
+  20.15  GD Estoril Praia         0-3 (0-2)  Sporting Clube de Portugal
 [Sat Sep/28]
-  15.30  CF Estrela da Amadora    -  Moreirense FC
-  18.00  Casa Pia AC              -  Vitória Guimarães
-  20.30  Sport Lisboa e Benfica   -  Gil Vicente FC
+  15.30  CF Estrela da Amadora    2-1 (2-0)  Moreirense FC
+  18.00  Casa Pia AC              1-1 (1-0)  Vitória Guimarães
+  20.30  Sport Lisboa e Benfica   5-1 (2-1)  Gil Vicente FC
 [Sun Sep/29]
-  15.30  CD Santa Clara           -  Boavista FC
-         FC Famalicão             -  CD Nacional
-  18.00  FC Porto                 -  FC Arouca
-  20.30  Sporting Clube de Braga  -  Rio Ave FC
+  15.30  FC Famalicão             0-0  CD Nacional
+  18.00  FC Porto                 4-0 (0-0)  FC Arouca
+  20.30  Sporting Clube de Braga  4-0 (2-0)  Rio Ave FC
+         CD Santa Clara           1-0 (1-0)  Boavista FC
 [Mon Sep/30]
-  20.15  AVS                      -  SC Farense
+  20.15  AVS                      0-0  SC Farense
 
 
 Matchday 8
