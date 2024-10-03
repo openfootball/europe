@@ -68,32 +68,33 @@ Matchday 6
 
 Matchday 7
 [Fri Sep/27]
-  16.00  Egnatia Rrogozhine       -  FK Partizani
+  16.00  Egnatia Rrogozhine       0-2 (0-1)  FK Partizani
 [Sat Sep/28]
-  19.00  FC Dinamo City           -  FK Vllaznia
-  16.00  KF Laçi                  -  KF Teuta Durrës
+  19.00  FC Dinamo City           2-1 (0-1)  FK Vllaznia
+  16.00  KF Laçi                  0-1 (0-1)  KF Teuta Durrës
 [Sun Sep/29]
-  19.00  KF Tiranë                -  KF Skënderbeu
-  16.00  KF Bylis Ballsh          -  AF Elbasani
+  19.00  KF Tiranë                2-1 (0-1)  KF Skënderbeu
+  16.00  KF Bylis Ballsh          0-1 (0-0)  AF Elbasani
 
 
 Matchday 8
 [Fri Oct/4]
   19.00  FC Dinamo City           -  KF Laçi
 [Sat Oct/5]
-  FK Vllaznia              -  AF Elbasani
-  19.00  FK Partizani             -  KF Bylis Ballsh
-         KF Skënderbeu            -  Egnatia Rrogozhine
-  KF Teuta Durrës          -  KF Tiranë
+  19.00  KF Skënderbeu            -  Egnatia Rrogozhine
+         FK Partizani             -  KF Bylis Ballsh
+[Sun Oct/6]
+  19.00  FK Vllaznia              -  AF Elbasani
+         KF Teuta Durrës          -  KF Tiranë
 
 
 Matchday 9
 [Sat Oct/19]
-  KF Laçi                  -  FK Vllaznia
-  KF Tiranë                -  FC Dinamo City
-  Egnatia Rrogozhine       -  KF Teuta Durrës
-  KF Bylis Ballsh          -  KF Skënderbeu
-  AF Elbasani              -  FK Partizani
+  14.00  KF Laçi                  -  FK Vllaznia
+         KF Tiranë                -  FC Dinamo City
+         Egnatia Rrogozhine       -  KF Teuta Durrës
+         KF Bylis Ballsh          -  KF Skënderbeu
+         AF Elbasani              -  FK Partizani
 
 
 Matchday 10
