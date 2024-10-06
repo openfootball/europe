@@ -105,61 +105,66 @@ Matchday 7
   18.00  Polissya Zhytomyr        1-1 (0-1)  FC LNZ Cherkasy
   13.00  NK Veres                 2-2 (0-2)  Inhulets Petrove
 [Mon Sep/23]
-  15.30  Kolos Kovalivka          -  Zorya Lugansk
-  18.00  Shakhtar Donetsk         -  FK Obolon
+  15.30  Kolos Kovalivka          1-0 (0-0)  Zorya Lugansk
+  18.00  Shakhtar Donetsk         4-0 (1-0)  FK Obolon
 
 
 Matchday 8
 [Fri Sep/27]
-  18.00  NK Veres                 -  Shakhtar Donetsk
+  18.00  NK Veres                 1-1 (0-0)  Shakhtar Donetsk
 [Sat Sep/28]
-  15.30  FC LNZ Cherkasy          -  Chernomorets Odessa
-  18.00  Karpaty Lviv             -  Polissya Zhytomyr
-  13.00  Kryvbas Kryvyi Rih       -  FK Oleksandriya
+  15.30  FC LNZ Cherkasy          1-1 (1-0)  Chernomorets Odessa
+  18.00  Karpaty Lviv             1-3 (1-2)  Polissya Zhytomyr
+  13.00  Kryvbas Kryvyi Rih       0-1 (0-1)  FK Oleksandriya
 [Sun Sep/29]
-  13.00  FK Obolon                -  Inhulets Petrove
-  15.30  Rukh Lviv                -  Kolos Kovalivka
-  18.00  Livyi Bereh              -  Dinamo Kiev
+  13.00  FK Obolon                2-1 (0-0)  Inhulets Petrove
+  15.30  Rukh Lviv                0-0  Kolos Kovalivka
+  18.00  Livyi Bereh              0-3 (0-1)  Dinamo Kiev
 [Mon Sep/30]
-  18.00  Zorya Lugansk            -  Vorskla Poltava
+  18.00  Zorya Lugansk            2-0 (1-0)  Vorskla Poltava
 
 
 Matchday 9
 [Fri Oct/4]
-  18.00  Inhulets Petrove         -  Karpaty Lviv
-  15.30  Chernomorets Odessa      -  FK Obolon
+  18.00  Karpaty Lviv             0-0  Inhulets Petrove
+  15.30  Chernomorets Odessa      1-0 (0-0)  FK Obolon
 [Sat Oct/5]
-  13.00  NK Veres                 -  Zorya Lugansk
-  15.30  FK Oleksandriya          -  Rukh Lviv
-  18.00  Kolos Kovalivka          -  Livyi Bereh
+  13.00  NK Veres                 2-1 (1-1)  Zorya Lugansk
+  15.30  FK Oleksandriya          1-1 (0-0)  Rukh Lviv
+  18.00  Kolos Kovalivka          0-0  Livyi Bereh
 [Sun Oct/6]
-  15.30  Shakhtar Donetsk         -  FC LNZ Cherkasy
+  15.30  Shakhtar Donetsk         5-1 (2-0)  FC LNZ Cherkasy
   18.00  Dinamo Kiev              -  Kryvbas Kryvyi Rih
-  13.00  Vorskla Poltava          -  Polissya Zhytomyr
+  13.00  Polissya Zhytomyr        2-1 (1-1)  Vorskla Poltava
 
 
 Matchday 10
+[Fri Oct/18]
+  18.00  Kolos Kovalivka          -  Shakhtar Donetsk
 [Sat Oct/19]
-  Zorya Lugansk            -  Kryvbas Kryvyi Rih
-  Kolos Kovalivka          -  Shakhtar Donetsk
-  Rukh Lviv                -  Karpaty Lviv
-  FK Obolon                -  Dinamo Kiev
-  Vorskla Poltava          -  FK Oleksandriya
-  Polissya Zhytomyr        -  Livyi Bereh
-  Chernomorets Odessa      -  NK Veres
-  FC LNZ Cherkasy          -  Inhulets Petrove
+  13.00  Vorskla Poltava          -  FK Oleksandriya
+  15.30  FK Obolon                -  Dinamo Kiev
+  18.00  Polissya Zhytomyr        -  Livyi Bereh
+[Sun Oct/20]
+  15.30  Chernomorets Odessa      -  NK Veres
+  18.00  Zorya Lugansk            -  Kryvbas Kryvyi Rih
+  13.00  FC LNZ Cherkasy          -  Inhulets Petrove
+[Mon Oct/21]
+  18.00  Rukh Lviv                -  Karpaty Lviv
 
 
 Matchday 11
+[Fri Oct/25]
+  18.00  Polissya Zhytomyr        -  Kolos Kovalivka
+  15.30  Rukh Lviv                -  Chernomorets Odessa
 [Sat Oct/26]
-  Dinamo Kiev              -  Shakhtar Donetsk
-  Rukh Lviv                -  Chernomorets Odessa
-  Polissya Zhytomyr        -  Kolos Kovalivka
-  Kryvbas Kryvyi Rih       -  FC LNZ Cherkasy
-  Livyi Bereh              -  Zorya Lugansk
-  Karpaty Lviv             -  FK Obolon
-  NK Veres                 -  Vorskla Poltava
-  Inhulets Petrove         -  FK Oleksandriya
+  13.00  Inhulets Petrove         -  FK Oleksandriya
+  15.30  Kryvbas Kryvyi Rih       -  FC LNZ Cherkasy
+  18.00  Karpaty Lviv             -  FK Obolon
+[Sun Oct/27]
+  15.30  NK Veres                 -  Vorskla Poltava
+  18.00  Dinamo Kiev              -  Shakhtar Donetsk
+  13.00  Livyi Bereh              -  Zorya Lugansk
 
 
 Matchday 12
@@ -308,9 +313,9 @@ Matchday 23
 
 Matchday 24
 [Sat Apr/12]
-  Polissya Zhytomyr        -  Vorskla Poltava
+  Vorskla Poltava          -  Polissya Zhytomyr
   Rukh Lviv                -  FK Oleksandriya
-  Karpaty Lviv             -  Inhulets Petrove
+  Inhulets Petrove         -  Karpaty Lviv
   Kryvbas Kryvyi Rih       -  Dinamo Kiev
   Livyi Bereh              -  Kolos Kovalivka
   FC LNZ Cherkasy          -  Shakhtar Donetsk

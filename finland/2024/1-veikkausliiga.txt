@@ -295,24 +295,24 @@ Matchday 2
 [Thu Sep/19]
   18.00  FC Lahti                 2-1 (2-0)  IFK Mariehamn
 [Sun Sep/22]
-  16.00  Ekenäs IF                -  IF Gnistan
+  16.00  Ekenäs IF                3-1 (2-1)  IF Gnistan
 [Tue Sep/24]
-  18.00  AC Oulu                  -  Inter Turku
+  18.00  AC Oulu                  1-0 (1-0)  Inter Turku
 
 
 Matchday 3
 [Fri Sep/27]
-  18.00  IF Gnistan               -  AC Oulu
+  18.00  IF Gnistan               1-0 (0-0)  AC Oulu
 [Sat Sep/28]
-  17.00  IFK Mariehamn            -  Ekenäs IF
+  17.00  IFK Mariehamn            3-0 (1-0)  Ekenäs IF
 [Mon Sep/30]
-  18.00  Inter Turku              -  FC Lahti
+  18.00  Inter Turku              3-1 (1-0)  FC Lahti
 
 
 Matchday 4
 [Sat Oct/5]
-  17.00  Ekenäs IF                -  AC Oulu
-  14.00  IF Gnistan               -  FC Lahti
+  17.00  Ekenäs IF                1-1 (1-0)  AC Oulu
+  14.00  IF Gnistan               2-2 (1-1)  FC Lahti
 [Sun Oct/6]
   16.30  IFK Mariehamn            -  Inter Turku
 
@@ -338,22 +338,22 @@ Matchday 2
   18.00  Haka Valkeakoski         0-3 (0-2)  SJK Seinäjoki
   20.00  Vaasan PS                1-1 (0-1)  HJK Helsinki
 [Tue Sep/24]
-  19.00  Ilves Tampere            -  Kuopion PS
+  19.00  Ilves Tampere            1-0 (1-0)  Kuopion PS
 
 
 Matchday 3
 [Sat Sep/28]
-  19.30  HJK Helsinki             -  Ilves Tampere
-  14.30  SJK Seinäjoki            -  Vaasan PS
+  19.30  HJK Helsinki             0-1 (0-0)  Ilves Tampere
+  14.30  SJK Seinäjoki            1-4 (0-1)  Vaasan PS
 [Sun Sep/29]
-  16.00  Kuopion PS               -  Haka Valkeakoski
+  16.00  Kuopion PS               2-0 (0-0)  Haka Valkeakoski
 
 
 Matchday 4
 [Fri Oct/4]
-  18.00  Vaasan PS                -  Ilves Tampere
+  18.00  Vaasan PS                0-2 (0-0)  Ilves Tampere
 [Sat Oct/5]
-  17.00  SJK Seinäjoki            -  Kuopion PS
+  17.00  SJK Seinäjoki            0-1 (0-0)  Kuopion PS
 [Sun Oct/6]
   18.30  HJK Helsinki             -  Haka Valkeakoski
 

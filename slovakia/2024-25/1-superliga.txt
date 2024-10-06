@@ -95,27 +95,27 @@ Matchday 8
 
 Matchday 4
 [Tue Sep/24]
-  18.00  KFC Komárno              -  MFK Ružomberok
+  18.00  KFC Komárno              1-2 (1-0)  MFK Ružomberok
 
 
 Matchday 9
 [Fri Sep/27]
-  18.00  MFK Zemplín Michalovce   -  Slovan Bratislava
+  20.00  MFK Zemplín Michalovce   2-4 (1-1)  Slovan Bratislava
 [Sat Sep/28]
-  18.00  AS Trenčín               -  FK Železiarne Podbrezová
-  20.30  FC DAC 1904              -  Spartak Trnava
-  18.00  Dukla Banská Bystrica    -  FC Košice
+  18.00  AS Trenčín               1-1 (0-1)  FK Železiarne Podbrezová
+  20.30  FC DAC 1904              0-0  Spartak Trnava
+  18.00  Dukla Banská Bystrica    2-3 (1-2)  FC Košice
 [Sun Sep/29]
-  18.00  MŠK Žilina               -  KFC Komárno
-         MFK Ružomberok           -  MFK Skalica
+  18.00  MŠK Žilina               2-1 (1-0)  KFC Komárno
+         MFK Ružomberok           1-2 (1-0)  MFK Skalica
 
 
 Matchday 10
 [Sat Oct/5]
-  20.30  Slovan Bratislava        -  AS Trenčín
-  18.00  FK Železiarne Podbrezová  -  Spartak Trnava
-         MFK Skalica              -  KFC Komárno
-         FC Košice                -  MFK Ružomberok
+  20.30  Slovan Bratislava        1-1 (0-1)  AS Trenčín
+  18.00  FK Železiarne Podbrezová  0-4 (0-1)  Spartak Trnava
+         MFK Skalica              3-0 (1-0)  KFC Komárno
+         FC Košice                2-1 (2-1)  MFK Ružomberok
 [Sun Oct/6]
   18.00  Dukla Banská Bystrica    -  MFK Zemplín Michalovce
          FC DAC 1904              -  MŠK Žilina
@@ -139,8 +139,8 @@ Matchday 12
          Slovan Bratislava        -  KFC Komárno
   18.00  FC DAC 1904              -  FC Košice
 [Sun Oct/27]
-  15.30  MFK Zemplín Michalovce   -  MFK Skalica
-         AS Trenčín               -  Spartak Trnava
+  15.30  AS Trenčín               -  Spartak Trnava
+         MFK Zemplín Michalovce   -  MFK Skalica
 
 
 Matchday 2
@@ -148,15 +148,15 @@ Matchday 2
   18.00  MŠK Žilina               -  MFK Ružomberok
 
 
-Matchday 3
-[Tue Oct/29]
-  18.00  MFK Skalica              -  Slovan Bratislava
-         Spartak Trnava           -  KFC Komárno
-
-
 Matchday 5
 [Tue Oct/29]
   18.00  FC DAC 1904              -  FK Železiarne Podbrezová
+
+
+Matchday 3
+[Wed Oct/30]
+  18.00  MFK Skalica              -  Slovan Bratislava
+         Spartak Trnava           -  KFC Komárno
 
 
 Matchday 13

@@ -105,50 +105,51 @@ Matchday 9
 
 Matchday 1
 [Tue Sep/24]
-  19.45  Larne FC                 -  Loughgall FC
+  19.45  Larne FC                 2-0 (1-0)  Loughgall FC
 
 
 Matchday 10
 [Fri Sep/27]
-  19.45  Cliftonville FC          -  Larne FC
+  19.45  Cliftonville FC          1-3 (1-0)  Larne FC
 [Sat Sep/28]
-  15.00  Dungannon Swifts         -  Carrick Rangers
-         Coleraine FC             -  Linfield FC
-         Portadown FC             -  Ballymena United
-         Glentoran FC             -  Glenavon FC
-         Loughgall FC             -  Crusaders FC
+  15.00  Dungannon Swifts         4-0 (2-0)  Carrick Rangers
+         Coleraine FC             0-3 (0-3)  Linfield FC
+         Portadown FC             0-1 (0-1)  Ballymena United
+         Glentoran FC             0-0  Glenavon FC
+         Loughgall FC             0-4 (0-0)  Crusaders FC
 
 
 Matchday 11
 [Fri Oct/4]
-  19.45  Linfield FC              -  Glentoran FC
+  19.45  Linfield FC              1-3 (1-0)  Glentoran FC
 [Sat Oct/5]
-  15.00  Carrick Rangers          -  Cliftonville FC
-         Ballymena United         -  Loughgall FC
-         Glenavon FC              -  Portadown FC
-         Crusaders FC             -  Coleraine FC
+  15.00  Carrick Rangers          2-0 (1-0)  Cliftonville FC
+         Ballymena United         4-1 (3-1)  Loughgall FC
+         Glenavon FC              2-1 (0-1)  Portadown FC
+         Crusaders FC             2-1 (1-1)  Coleraine FC
 [Sun Oct/6]
-  14.00  Larne FC                 -  Dungannon Swifts
+  14.00  Larne FC                 0-3 (0-1)  Dungannon Swifts
 
 
 Matchday 12
 [Sat Oct/12]
   17.30  Portadown FC             -  Loughgall FC
-  15.00  Carrick Rangers          -  Larne FC
-         Coleraine FC             -  Cliftonville FC
-         Crusaders FC             -  Linfield FC
+  Carrick Rangers          -  Larne FC
+  Coleraine FC             -  Cliftonville FC
+  15.00  Crusaders FC             -  Linfield FC
          Glenavon FC              -  Ballymena United
          Glentoran FC             -  Dungannon Swifts
 
 
 Matchday 13
+[Fri Oct/18]
+  19.45  Loughgall FC             -  Linfield FC
 [Sat Oct/19]
+  14.30  Cliftonville FC          -  Glenavon FC
   15.00  Ballymena United         -  Coleraine FC
-         Cliftonville FC          -  Glenavon FC
          Dungannon Swifts         -  Portadown FC
          Glentoran FC             -  Carrick Rangers
          Larne FC                 -  Crusaders FC
-         Loughgall FC             -  Linfield FC
 
 
 Matchday 6
@@ -162,8 +163,9 @@ Matchday 14
          Dungannon Swifts         -  Loughgall FC
          Glenavon FC              -  Carrick Rangers
          Linfield FC              -  Cliftonville FC
-         Portadown FC             -  Larne FC
          Coleraine FC             -  Glentoran FC
+[Sun Oct/27]
+  14.00  Portadown FC             -  Larne FC
 
 
 Matchday 15

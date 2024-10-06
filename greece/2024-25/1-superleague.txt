@@ -71,27 +71,27 @@ Matchday 5
 
 Matchday 6
 [Sat Sep/28]
-  20.00  Asteras Tripolis         -  Levadiakos
-  17.00  Volos NFC                -  GS Kallithea
+  20.00  Asteras Tripolis         1-1 (1-1)  Levadiakos
+  17.00  Volos NFC                1-1 (1-1)  GS Kallithea
 [Sun Sep/29]
-  17.00  OFI Heraklion            -  Panetolikos
-  19.00  Olympiakos Piraeus       -  Atromitos
-  21.00  AEK Athen                -  Panathinaikos
-  21.30  PAOK Saloniki            -  Aris Saloniki
+  17.00  OFI Heraklion            1-2 (1-0)  Panetolikos
+  18.00  Olympiakos Piraeus       2-0 (1-0)  Atromitos
+  20.30  PAOK Saloniki            0-1 (0-0)  Aris Saloniki
+  21.30  AEK Athen                2-0 (1-0)  Panathinaikos
 [Mon Sep/30]
-  20.00  Lamia                    -  Panserraikos
+  20.00  Lamia                    1-2 (0-1)  Panserraikos
 
 
 Matchday 7
 [Sat Oct/5]
-  19.30  Panetolikos              -  AEK Athen
-  20.00  Aris Saloniki            -  Lamia
-  18.30  Atromitos                -  Volos NFC
+  19.30  Panetolikos              1-0 (0-0)  AEK Athen
+  20.00  Aris Saloniki            2-0 (2-0)  Lamia
+  18.30  Atromitos                1-2 (1-0)  Volos NFC
 [Sun Oct/6]
   16.00  Panserraikos             -  OFI Heraklion
   17.00  GS Kallithea             -  Asteras Tripolis
-  19.00  Levadiakos               -  PAOK Saloniki
-  20.30  Panathinaikos            -  Olympiakos Piraeus
+  20.30  Levadiakos               -  PAOK Saloniki
+         Panathinaikos            -  Olympiakos Piraeus
 
 
 Matchday 8

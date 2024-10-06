@@ -248,44 +248,43 @@ Matchday 23
 
 Matchday 19
 [Wed Sep/25]
-  17.00  Víkingur                 -  KÍ Klaksvík
+  17.00  Víkingur                 1-2 (0-1)  KÍ Klaksvík
 
 
 Matchday 24
-[Fri Sep/27]
-  ÍF Fuglafjørður          -  B68 Toftir
 [Sat Sep/28]
-  18.30  B36 Tórshavn             -  HB Tórshavn
-  17.00  EB/Streymur              -  NSÍ Runavík
+  17.00  EB/Streymur              4-1 (0-1)  NSÍ Runavík
+         B36 Tórshavn             2-2 (2-1)  HB Tórshavn
+  15.00  ÍF Fuglafjørður          1-3 (1-1)  B68 Toftir
 [Sun Sep/29]
-  15.00  07 Vestur                -  KÍ Klaksvík
+  15.00  07 Vestur                0-1 (0-0)  KÍ Klaksvík
 [Mon Sep/30]
-  18.30  Skála ÍF                 -  Víkingur
+  18.30  Skála ÍF                 0-3 (0-1)  Víkingur
 
 
 Matchday 25
 [Fri Oct/4]
-  18.30  B68 Toftir               -  Skála ÍF
-  23.00  KÍ Klaksvík              -  NSÍ Runavík
-  17.00  Víkingur                 -  ÍF Fuglafjørður
+  18.30  B68 Toftir               1-1 (1-1)  Skála ÍF
+         KÍ Klaksvík              3-1 (1-1)  NSÍ Runavík
+  17.00  Víkingur                 5-0 (1-0)  ÍF Fuglafjørður
 [Sat Oct/5]
-  17.00  EB/Streymur              -  B36 Tórshavn
-  16.00  HB Tórshavn              -  07 Vestur
+  17.00  EB/Streymur              1-0 (1-0)  B36 Tórshavn
+  16.00  HB Tórshavn              1-0 (0-0)  07 Vestur
 
 
 Matchday 26
 [Sun Oct/20]
-  07 Vestur                -  ÍF Fuglafjørður
-  B68 Toftir               -  EB/Streymur
-  HB Tórshavn              -  Víkingur
-  KÍ Klaksvík              -  B36 Tórshavn
-  Skála ÍF                 -  NSÍ Runavík
+  15.00  07 Vestur                -  ÍF Fuglafjørður
+         B68 Toftir               -  EB/Streymur
+         HB Tórshavn              -  Víkingur
+         KÍ Klaksvík              -  B36 Tórshavn
+         Skála ÍF                 -  NSÍ Runavík
 
 
 Matchday 27
 [Sat Oct/26]
-  EB/Streymur              -  HB Tórshavn
-  ÍF Fuglafjørður          -  KÍ Klaksvík
-  NSÍ Runavík              -  B68 Toftir
-  Víkingur                 -  07 Vestur
-  B36 Tórshavn             -  Skála ÍF
+  14.00  EB/Streymur              -  HB Tórshavn
+         ÍF Fuglafjørður          -  KÍ Klaksvík
+         NSÍ Runavík              -  B68 Toftir
+         Víkingur                 -  07 Vestur
+         B36 Tórshavn             -  Skála ÍF

@@ -110,23 +110,23 @@ Matchday 9
 
 Matchday 10
 [Sat Sep/28]
-  20.15  ND Primorje              -  Olimpija Ljubljana
-  15.00  NK Nafta                 -  NŠ Mura
-  17.30  NK Bravo                 -  NK Celje
+  17.30  NK Bravo                 3-2 (1-1)  NK Celje
+  15.00  NK Nafta                 0-0  NŠ Mura
+         ND Primorje              0-2 (0-1)  Olimpija Ljubljana
 [Sun Sep/29]
-  17.30  FC Koper                 -  NK Radomlje
-  20.15  NK Domžale               -  NK Maribor
+  17.30  FC Koper                 1-0 (0-0)  NK Radomlje
+  20.15  NK Domžale               0-3 (0-2)  NK Maribor
 
 
 Matchday 11
 [Fri Oct/4]
-  20.15  NK Radomlje              -  NK Nafta
+  20.15  NK Radomlje              2-0 (1-0)  NK Nafta
 [Sat Oct/5]
-  Olimpija Ljubljana       -  FC Koper
-  20.15  NŠ Mura                  -  NK Domžale
+  20.15  NŠ Mura                  0-1 (0-0)  NK Domžale
 [Sun Oct/6]
   15.00  ND Primorje              -  NK Bravo
   17.30  NK Maribor               -  NK Celje
+  20.15  Olimpija Ljubljana       -  FC Koper
 
 
 Matchday 9
@@ -136,20 +136,22 @@ Matchday 9
 
 Matchday 12
 [Sat Oct/19]
-  NK Bravo                 -  NK Maribor
-  NK Celje                 -  NŠ Mura
-  NK Domžale               -  NK Radomlje
-  NK Nafta                 -  Olimpija Ljubljana
-  FC Koper                 -  ND Primorje
+  15.00  NK Celje                 -  NŠ Mura
+  17.30  NK Nafta                 -  Olimpija Ljubljana
+  20.15  FC Koper                 -  ND Primorje
+[Sun Oct/20]
+  17.30  NK Domžale               -  NK Radomlje
+  15.00  NK Bravo                 -  NK Maribor
 
 
 Matchday 13
 [Sat Oct/26]
-  ND Primorje              -  NK Nafta
-  Olimpija Ljubljana       -  NK Domžale
-  NK Radomlje              -  NK Celje
-  NŠ Mura                  -  NK Maribor
-  FC Koper                 -  NK Bravo
+  13.00  NŠ Mura                  -  NK Maribor
+  15.00  ND Primorje              -  NK Nafta
+  13.00  NK Radomlje              -  NK Celje
+[Sun Oct/27]
+  20.15  Olimpija Ljubljana       -  NK Domžale
+  15.00  FC Koper                 -  NK Bravo
 
 
 Matchday 14

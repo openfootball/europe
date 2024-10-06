@@ -128,8 +128,6 @@ Matchday 8
   17.30  Legia Warszawa           0-1 (0-1)  Raków Częstochowa
   12.15  Piast Gliwice            1-1 (0-0)  Puszcza Niepołomice
   14.45  Korona Kielce            2-0 (2-0)  Zagłębie Lubin
-[Mon Sep/16]
-  Śląsk Wrocław            -  FKS Stal Mielec
 
 
 Matchday 9
@@ -138,49 +136,49 @@ Matchday 9
   18.00  Radomiak Radom           4-0 (2-0)  Korona Kielce
 [Sat Sep/21]
   20.15  Górnik Zabrze            3-0 (1-0)  GKS Katowice
+  17.30  Widzew Łódź              1-0 (1-0)  Piast Gliwice
   12.15  Puszcza Niepołomice      1-2 (1-1)  KS Cracovia
   14.45  Jagiellonia Białystok    3-2 (1-1)  Lechia Gdańsk
-  17.30  Widzew Łódź              1-0 (1-0)  Piast Gliwice
 [Sun Sep/22]
-  12.15  FKS Stal Mielec          1-0 (0-0)  Motor Lublin
   14.45  Raków Częstochowa        5-1 (1-1)  Zagłębie Lubin
+  12.15  FKS Stal Mielec          1-0 (0-0)  Motor Lublin
   17.30  Lech Poznań              1-0 (0-0)  Śląsk Wrocław
 
 
 Matchday 4
 [Wed Sep/25]
-  19.00  Motor Lublin             -  Jagiellonia Białystok
+  19.00  Motor Lublin             0-2 (0-1)  Jagiellonia Białystok
 
 
 Matchday 10
 [Fri Sep/27]
-  20.30  Lechia Gdańsk            -  Widzew Łódź
-  18.00  GKS Katowice             -  Pogoń Szczecin
+  18.00  GKS Katowice             3-1 (1-0)  Pogoń Szczecin
+  20.30  Lechia Gdańsk            1-1 (1-0)  Widzew Łódź
 [Sat Sep/28]
-  14.45  Raków Częstochowa        -  Puszcza Niepołomice
-  17.30  Motor Lublin             -  Śląsk Wrocław
-  20.15  Legia Warszawa           -  Górnik Zabrze
+  17.30  Motor Lublin             2-1 (0-1)  Śląsk Wrocław
+  14.45  Raków Częstochowa        2-0 (2-0)  Puszcza Niepołomice
+  20.15  Legia Warszawa           1-1 (1-1)  Górnik Zabrze
 [Sun Sep/29]
-  14.45  Korona Kielce            -  Lech Poznań
-  17.30  Piast Gliwice            -  Jagiellonia Białystok
-  12.15  Zagłębie Lubin           -  Radomiak Radom
+  12.15  Zagłębie Lubin           1-0 (0-0)  Radomiak Radom
+  14.45  Korona Kielce            2-3 (1-1)  Lech Poznań
+  17.30  Piast Gliwice            0-1 (0-1)  Jagiellonia Białystok
 [Mon Sep/30]
-  19.00  KS Cracovia              -  FKS Stal Mielec
+  19.00  KS Cracovia              1-1 (0-1)  FKS Stal Mielec
 
 
 Matchday 11
 [Fri Oct/4]
-  20.30  Widzew Łódź              -  Korona Kielce
-  18.00  Puszcza Niepołomice      -  GKS Katowice
+  20.30  Widzew Łódź              0-1 (0-0)  Korona Kielce
+  18.00  Puszcza Niepołomice      0-6 (0-2)  GKS Katowice
 [Sat Oct/5]
-  12.15  FKS Stal Mielec          -  Lechia Gdańsk
-  14.45  Radomiak Radom           -  Raków Częstochowa
-  17.30  Górnik Zabrze            -  Zagłębie Lubin
-  20.15  Lech Poznań              -  Motor Lublin
+  17.30  Górnik Zabrze            0-1 (0-1)  Zagłębie Lubin
+  12.15  FKS Stal Mielec          2-1 (0-1)  Lechia Gdańsk
+  14.45  Radomiak Radom           0-2 (0-1)  Raków Częstochowa
+  20.15  Lech Poznań              1-2 (1-1)  Motor Lublin
 [Sun Oct/6]
+  14.45  Śląsk Wrocław            -  KS Cracovia
   17.30  Pogoń Szczecin           -  Piast Gliwice
   20.15  Jagiellonia Białystok    -  Legia Warszawa
-  14.45  Śląsk Wrocław            -  KS Cracovia
 
 
 Matchday 12
@@ -192,37 +190,46 @@ Matchday 12
   17.30  Zagłębie Lubin           -  Jagiellonia Białystok
   20.15  KS Cracovia              -  Lech Poznań
 [Sun Oct/20]
-  14.45  Górnik Zabrze            -  FKS Stal Mielec
   17.30  Raków Częstochowa        -  Pogoń Szczecin
   12.15  Radomiak Radom           -  Puszcza Niepołomice
+  14.45  Górnik Zabrze            -  FKS Stal Mielec
 [Mon Oct/21]
   19.00  GKS Katowice             -  Śląsk Wrocław
 
 
+Matchday 8
+[Wed Oct/23]
+  18.30  Śląsk Wrocław            -  FKS Stal Mielec
+
+
 Matchday 13
+[Fri Oct/25]
+  18.30  Pogoń Szczecin           -  Puszcza Niepołomice
+  18.00  Piast Gliwice            -  Lechia Gdańsk
 [Sat Oct/26]
-  KS Cracovia              -  Motor Lublin
-  Jagiellonia Białystok    -  Korona Kielce
-  Lech Poznań              -  Radomiak Radom
-  Legia Warszawa           -  GKS Katowice
-  Piast Gliwice            -  Lechia Gdańsk
-  Pogoń Szczecin           -  Puszcza Niepołomice
-  FKS Stal Mielec          -  Zagłębie Lubin
-  Widzew Łódź              -  Górnik Zabrze
-  Śląsk Wrocław            -  Raków Częstochowa
+  17.30  Śląsk Wrocław            -  Raków Częstochowa
+  18.15  Lech Poznań              -  Radomiak Radom
+  14.45  KS Cracovia              -  Motor Lublin
+[Sun Oct/27]
+  10.15  FKS Stal Mielec          -  Zagłębie Lubin
+  12.45  Jagiellonia Białystok    -  Korona Kielce
+  15.30  Widzew Łódź              -  Górnik Zabrze
+  18.15  Legia Warszawa           -  GKS Katowice
 
 
 Matchday 14
 [Sat Nov/2]
-  GKS Katowice             -  Korona Kielce
-  Górnik Zabrze            -  Jagiellonia Białystok
-  Zagłębie Lubin           -  Śląsk Wrocław
-  Lechia Gdańsk            -  KS Cracovia
-  Legia Warszawa           -  Widzew Łódź
-  Motor Lublin             -  Pogoń Szczecin
-  Puszcza Niepołomice      -  Lech Poznań
-  Radomiak Radom           -  Piast Gliwice
-  Raków Częstochowa        -  FKS Stal Mielec
+  17.30  Motor Lublin             -  Pogoń Szczecin
+  20.15  Puszcza Niepołomice      -  Lech Poznań
+  14.45  Raków Częstochowa        -  FKS Stal Mielec
+[Sun Nov/3]
+  12.15  Radomiak Radom           -  Piast Gliwice
+  14.45  Górnik Zabrze            -  Jagiellonia Białystok
+  17.30  Lechia Gdańsk            -  KS Cracovia
+  20.15  Legia Warszawa           -  Widzew Łódź
+[Mon Nov/4]
+  20.30  Zagłębie Lubin           -  Śląsk Wrocław
+  18.00  GKS Katowice             -  Korona Kielce
 
 
 Matchday 15

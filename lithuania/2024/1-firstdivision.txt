@@ -336,7 +336,7 @@ Matchday 30
 
 Matchday 31
 [Fri Sep/20]
-  DFK Dainava              -  FK Sūduva
+  DFK Dainava              0-3  FK Sūduva                [awarded]
 [Sat Sep/21]
   15.00  FK TransINVEST           2-0 (1-0)  FA Šiauliai
 [Sun Sep/22]
@@ -347,36 +347,38 @@ Matchday 31
 
 Matchday 25
 [Thu Sep/26]
-  18.00  FA Šiauliai              -  FK Panevėžys
+  18.00  FA Šiauliai              2-1 (1-0)  FK Panevėžys
 
 
 Matchday 24
 [Fri Sep/27]
-  19.00  FK Žalgiris              -  DFK Dainava
+  19.00  FK Žalgiris              3-1 (2-1)  DFK Dainava
 
 
 Matchday 27
 [Tue Oct/1]
-  18.00  FK Panevėžys             -  FK TransINVEST
+  18.00  FK Panevėžys             2-1 (1-0)  FK TransINVEST
 
 
 Matchday 32
 [Fri Oct/4]
-  19.00  FA Šiauliai              -  FK Žalgiris
+  19.00  FA Šiauliai              1-3 (0-1)  FK Žalgiris
 [Sat Oct/5]
-  FK Panevėžys             -  Kauno Žalgiris
-  FK Sūduva                -  FK TransINVEST
-  FC Hegelmann             -  FC Džiugas
-  15.00  Banga Gargždai           -  DFK Dainava
+  13.00  Kauno Žalgiris           0-0  FK Panevėžys
+  15.00  Banga Gargždai           0-3 (0-2)  DFK Dainava
+[Sun Oct/6]
+  16.00  FC Hegelmann             -  FC Džiugas
+  18.25  FK Sūduva                -  FK TransINVEST
 
 
 Matchday 33
+[Fri Oct/18]
+  19.00  FK Panevėžys             -  FC Džiugas
 [Sat Oct/19]
-  Kauno Žalgiris           -  Banga Gargždai
-  FK TransINVEST           -  FC Hegelmann
   FK Žalgiris              -  DFK Dainava
+  17.00  Kauno Žalgiris           -  Banga Gargždai
+  15.00  FK TransINVEST           -  FC Hegelmann
   FA Šiauliai              -  FK Sūduva
-  FK Panevėžys             -  FC Džiugas
 
 
 Matchday 10
@@ -390,7 +392,7 @@ Matchday 34
   DFK Dainava              -  FC Hegelmann
   FK Sūduva                -  Banga Gargždai
   FK Panevėžys             -  FA Šiauliai
-  FK TransINVEST           -  FK Žalgiris
+  14.00  FK TransINVEST           -  FK Žalgiris
 
 
 Matchday 35

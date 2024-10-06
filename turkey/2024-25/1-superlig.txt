@@ -101,39 +101,39 @@ Matchday 6
          Beşiktaş                 2-1 (1-0)  Eyüpspor
   17.00  Çaykur Rizespor          0-1 (0-0)  Samsunspor
 [Mon Sep/23]
-  20.00  Gaziantep FK             -  Trabzonspor
-         Göztepe                  -  Kayserispor
+  20.00  Gaziantep FK             0-0  Trabzonspor
+         Göztepe                  3-0 (2-0)  Kayserispor
 
 
 Matchday 7
 [Fri Sep/27]
-  20.00  Sivasspor                -  İstanbul Başakşehir
+  20.00  Sivasspor                1-2 (0-1)  İstanbul Başakşehir
 [Sat Sep/28]
-  19.00  Alanyaspor               -  Çaykur Rizespor
-         Galatasaray              -  Kasımpaşa SK
-  16.00  Samsunspor               -  Göztepe
+  19.00  Alanyaspor               1-0 (1-0)  Çaykur Rizespor
+         Galatasaray              3-3 (3-1)  Kasımpaşa SK
+  16.00  Samsunspor               4-3 (1-2)  Göztepe
 [Sun Sep/29]
-  16.00  Trabzonspor              -  Konyaspor
-         Eyüpspor                 -  Gaziantep FK
-  19.00  Antalyaspor              -  Fenerbahçe
-         Bodrum FK                -  Adana Demirspor
+  16.00  Trabzonspor              3-2 (2-1)  Konyaspor
+         Eyüpspor                 3-2 (1-1)  Gaziantep FK
+  19.00  Antalyaspor              0-2 (0-0)  Fenerbahçe
+         Bodrum FK                3-1 (1-0)  Adana Demirspor
 [Mon Sep/30]
-  20.00  Kayserispor              -  Beşiktaş
+  20.00  Kayserispor              0-3 (0-0)  Beşiktaş
 
 
 Matchday 8
 [Fri Oct/4]
-  20.00  Çaykur Rizespor          -  Antalyaspor
+  20.00  Çaykur Rizespor          2-1 (2-0)  Antalyaspor
 [Sat Oct/5]
-  16.00  Göztepe                  -  Sivasspor
-  19.00  İstanbul Başakşehir      -  Kayserispor
-         Hatayspor                -  Trabzonspor
-  13.30  Kasımpaşa SK             -  Bodrum FK
+  16.00  Göztepe                  3-2 (2-0)  Sivasspor
+  19.00  İstanbul Başakşehir      1-1 (0-1)  Kayserispor
+         Hatayspor                1-1 (1-0)  Trabzonspor
+  13.30  Kasımpaşa SK             0-0  Bodrum FK
 [Sun Oct/6]
   16.00  Adana Demirspor          -  Samsunspor
   19.00  Gaziantep FK             -  Beşiktaş
          Galatasaray              -  Alanyaspor
-  13.30  Konyaspor                -  Eyüpspor
+  13.30  Konyaspor                2-1 (0-0)  Eyüpspor
 
 
 Matchday 9

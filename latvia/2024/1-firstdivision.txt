@@ -336,28 +336,29 @@ Matchday 30
 
 Matchday 31
 [Fri Sep/27]
-  18.00  BFC Daugavpils           -  FK Metta
+  18.00  BFC Daugavpils           1-1 (0-0)  FK Metta
 [Sat Sep/28]
-  14.00  Valmiera FC              -  FK Auda
-  16.00  Grobiņas SC              -  FK Tukums 2000
+  14.00  Valmiera FC              2-3 (1-1)  FK Auda
+  16.00  Grobiņas SC              1-2 (1-2)  FK Tukums 2000
 [Sun Sep/29]
-  16.00  Riga FC                  -  FK Liepāja
-  14.00  FS Jelgava               -  Rīgas Futbola skola
+  16.00  Riga FC                  1-0 (0-0)  FK Liepāja
+[Mon Sep/30]
+  16.00  FS Jelgava               0-2 (0-0)  Rīgas Futbola skola
 
 
 Matchday 26
 [Wed Oct/2]
-  18.00  FK Auda                  -  FK Tukums 2000
+  18.00  FK Auda                  1-1 (0-0)  FK Tukums 2000
 
 
 Matchday 32
 [Fri Oct/4]
-  18.00  Grobiņas SC              -  Valmiera FC
+  18.00  Grobiņas SC              1-4 (1-2)  Valmiera FC
 [Sat Oct/5]
-  15.00  FK Liepāja               -  FK Auda
-         FS Jelgava               -  Riga FC
+  15.00  FK Liepāja               2-1 (1-0)  FK Auda
+         FS Jelgava               0-2 (0-0)  Riga FC
 [Sun Oct/6]
-  15.00  FK Tukums 2000           -  FK Metta
+  15.00  FK Tukums 2000           0-1 (0-0)  FK Metta
   17.00  BFC Daugavpils           -  Rīgas Futbola skola
 
 
@@ -371,10 +372,10 @@ Matchday 33
   18.00  FK Auda                  -  FS Jelgava
 [Sat Oct/19]
   13.00  BFC Daugavpils           -  Riga FC
-  15.00  Rīgas Futbola skola      -  FK Tukums 2000
 [Sun Oct/20]
-  14.00  FK Metta                 -  Grobiņas SC
-         Valmiera FC              -  FK Liepāja
+  14.00  Valmiera FC              -  FK Liepāja
+         FK Metta                 -  Grobiņas SC
+  16.00  Rīgas Futbola skola      -  FK Tukums 2000
 
 
 Matchday 34

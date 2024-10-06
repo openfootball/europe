@@ -122,32 +122,32 @@ Matchday 8
 
 Matchday 5
 [Thu Sep/26]
-  20.45  Cercle Brugge            -  KAA Gent
+  20.45  Cercle Brugge            2-1 (0-0)  KAA Gent
 
 
 Matchday 9
 [Fri Sep/27]
-  20.45  Sporting Charleroi       -  Club Brugge KV
+  20.45  Sporting Charleroi       1-1 (0-0)  Club Brugge KV
 [Sat Sep/28]
-  18.15  Standard Liège           -  KVC Westerlo
-  20.45  FCV Dender EH            -  RSC Anderlecht
-  16.00  KRC Genk                 -  KV Mechelen
+  18.15  Standard Liège           1-2 (0-1)  KVC Westerlo
+  20.45  FCV Dender EH            1-1 (0-1)  RSC Anderlecht
+  16.00  KRC Genk                 2-1 (0-0)  KV Mechelen
 [Sun Sep/29]
-  13.30  Royal Antwerp FC         -  K Beerschot VA
-  16.00  Union Saint-Gilloise     -  KV Kortrijk
-  18.30  KAA Gent                 -  Oud-Heverlee Leuven
-  19.15  Cercle Brugge            -  Sint-Truidense VV
+  13.30  Royal Antwerp FC         5-0 (1-0)  K Beerschot VA
+  16.00  Union Saint-Gilloise     3-0 (1-0)  KV Kortrijk
+  18.30  KAA Gent                 3-0 (2-0)  Oud-Heverlee Leuven
+  19.15  Cercle Brugge            1-1 (1-0)  Sint-Truidense VV
 
 
 Matchday 10
 [Fri Oct/4]
-  20.45  KVC Westerlo             -  K Beerschot VA
+  20.45  KVC Westerlo             2-2 (0-1)  K Beerschot VA
 [Sat Oct/5]
-  18.15  KV Kortrijk              -  KRC Genk
-  20.45  FCV Dender EH            -  Sporting Charleroi
-  16.00  KV Mechelen              -  Oud-Heverlee Leuven
+  18.15  KV Kortrijk              2-1 (2-1)  KRC Genk
+  20.45  FCV Dender EH            1-0 (1-0)  Sporting Charleroi
+  16.00  KV Mechelen              5-0 (2-0)  Oud-Heverlee Leuven
 [Sun Oct/6]
-  13.30  RSC Anderlecht           -  Standard Liège
+  13.30  RSC Anderlecht           3-0 (2-0)  Standard Liège
   16.00  Royal Antwerp FC         -  Cercle Brugge
   18.30  Club Brugge KV           -  Union Saint-Gilloise
   19.15  Sint-Truidense VV        -  KAA Gent

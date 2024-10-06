@@ -1,8 +1,8 @@
 = Liechtensteiner Cup 2024/25
 
-# Date       Wed Aug/14 - Wed Sep/18 2024 (35d)
+# Date       Wed Aug/14 - Wed Oct/30 2024 (77d)
 # Teams      17
-# Matches    9
+# Matches    13
 
 
 
@@ -24,3 +24,13 @@ Round of 16
 [Wed Sep/18]
   20.00  USV Eschen/Mauren III    1-6  FC Balzers
          FC Triesenberg           0-4  USV Eschen/Mauren
+
+
+Quarterfinals
+[Wed Oct/16]
+  20.00  FC Triesenberg II        -  FC Vaduz
+[Tue Oct/29]
+  20.00  FC Ruggell II            -  USV Eschen/Mauren II
+[Wed Oct/30]
+  20.00  FC Vaduz II              -  USV Eschen/Mauren
+         FC Ruggell               -  FC Balzers

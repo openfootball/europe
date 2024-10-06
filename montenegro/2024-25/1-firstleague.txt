@@ -86,39 +86,41 @@ Matchday 8
 
 
 Matchday 9
+[Fri Sep/27]
+  19.00  FK Dečić Tuzi            0-2 (0-1)  FK Budućnost Podgorica
 [Sat Sep/28]
-  19.00  FK Dečić Tuzi            -  FK Budućnost Podgorica
-         Jedinstvo Bijelo Polje   -  FK Sutjeska
-         FK Jezero                -  FK Arsenal
-         FK Mornar                -  OFK Petrovac
-         FK Otrant Ulcinj         -  FK Bokelj
+  16.00  FK Jezero                0-0  FK Arsenal
+         FK Otrant Ulcinj         1-2 (0-1)  FK Bokelj
+         Jedinstvo Bijelo Polje   2-0 (0-0)  FK Sutjeska
+[Sun Sep/29]
+  20.00  FK Mornar                0-2 (0-1)  OFK Petrovac
 
 
 Matchday 10
 [Wed Oct/2]
-  FK Dečić Tuzi            -  FK Sutjeska
-  Jedinstvo Bijelo Polje   -  FK Arsenal
-  FK Jezero                -  FK Bokelj
-  FK Otrant Ulcinj         -  FK Mornar
   OFK Petrovac             -  FK Budućnost Podgorica
+  16.00  Jedinstvo Bijelo Polje   3-2 (3-1)  FK Arsenal
+         FK Jezero                0-0  FK Bokelj
+         FK Otrant Ulcinj         1-2 (1-0)  FK Mornar
+  18.00  FK Dečić Tuzi            0-0  FK Sutjeska
 
 
 Matchday 11
-[Sat Oct/5]
-  FK Arsenal               -  FK Dečić Tuzi
-  FK Sutjeska              -  FK Budućnost Podgorica
-  FK Mornar                -  FK Jezero
-  FK Otrant Ulcinj         -  OFK Petrovac
-  FK Bokelj                -  Jedinstvo Bijelo Polje
+[Sun Oct/6]
+  18.00  FK Otrant Ulcinj         -  OFK Petrovac
+  19.00  FK Bokelj                -  Jedinstvo Bijelo Polje
+         FK Arsenal               -  FK Dečić Tuzi
+         FK Sutjeska              -  FK Budućnost Podgorica
+  18.00  FK Mornar                -  FK Jezero
 
 
 Matchday 12
 [Sat Oct/19]
-  FK Budućnost Podgorica   -  FK Arsenal
-  FK Dečić Tuzi            -  FK Bokelj
-  Jedinstvo Bijelo Polje   -  FK Mornar
-  FK Jezero                -  FK Otrant Ulcinj
-  OFK Petrovac             -  FK Sutjeska
+  17.00  FK Budućnost Podgorica   -  FK Arsenal
+         FK Dečić Tuzi            -  FK Bokelj
+         Jedinstvo Bijelo Polje   -  FK Mornar
+         FK Jezero                -  FK Otrant Ulcinj
+         OFK Petrovac             -  FK Sutjeska
 
 
 Matchday 13
@@ -132,11 +134,11 @@ Matchday 13
 
 Matchday 14
 [Sat Oct/26]
-  FK Dečić Tuzi            -  FK Otrant Ulcinj
-  FK Sutjeska              -  FK Bokelj
-  Jedinstvo Bijelo Polje   -  FK Jezero
-  OFK Petrovac             -  FK Arsenal
-  FK Budućnost Podgorica   -  FK Mornar
+  17.00  FK Dečić Tuzi            -  FK Otrant Ulcinj
+         FK Sutjeska              -  FK Bokelj
+         Jedinstvo Bijelo Polje   -  FK Jezero
+         OFK Petrovac             -  FK Arsenal
+         FK Budućnost Podgorica   -  FK Mornar
 
 
 Matchday 15

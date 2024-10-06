@@ -26,9 +26,8 @@ Matchday 2
          Crvena Zvezda            2-2 (0-2)  Mladost Lučani
          Jedinstvo Ub             0-4 (0-2)  Partizan
 [Sun Jul/28]
-  21.00  Radnički Niš             1-0 (0-0)  TSC Bačka Topola
-         Spartak Subotica         1-1 (0-1)  FK Čukarički
-  Vojvodina                -  FK Novi Pazar
+  21.00  Spartak Subotica         1-1 (0-1)  FK Čukarički
+         Radnički Niš             1-0 (0-0)  TSC Bačka Topola
 [Mon Jul/29]
   20.00  OFK Beograd              1-0 (1-0)  Tekstilac Odžaci
 
@@ -37,9 +36,9 @@ Matchday 3
 [Fri Aug/2]
   20.00  FK Napredak              1-1 (0-0)  IMT Beograd
 [Sat Aug/3]
-  17.30  FK Novi Pazar            0-0  OFK Beograd
   20.00  Mladost Lučani           2-1 (0-1)  Jedinstvo Ub
-         Tekstilac Odžaci         0-4 (0-0)  Crvena Zvezda
+  17.30  FK Novi Pazar            0-0  OFK Beograd
+  20.00  Tekstilac Odžaci         0-4 (0-0)  Crvena Zvezda
 [Sun Aug/4]
   20.00  Partizan                 2-0 (2-0)  Železničar Pančevo
   17.30  TSC Bačka Topola         0-0  Spartak Subotica
@@ -53,12 +52,12 @@ Matchday 4
   20.00  Radnički Niš             3-1 (2-1)  FK Napredak
 [Sat Aug/10]
   20.00  Mladost Lučani           1-2 (0-1)  Tekstilac Odžaci
-         Spartak Subotica         1-0 (1-0)  FK Radnički 1923
          Crvena Zvezda            4-1 (1-0)  FK Novi Pazar
+         Spartak Subotica         1-0 (1-0)  FK Radnički 1923
 [Sun Aug/11]
   20.00  Vojvodina                1-3 (0-2)  TSC Bačka Topola
+         IMT Beograd              0-0  Partizan
   18.00  Jedinstvo Ub             0-1 (0-1)  Železničar Pančevo
-  20.00  IMT Beograd              0-0  Partizan
 
 
 Matchday 5
@@ -67,9 +66,9 @@ Matchday 5
 [Fri Aug/16]
   18.55  TSC Bačka Topola         0-1 (0-1)  OFK Beograd
 [Sat Aug/17]
+  19.30  FK Napredak              2-0 (1-0)  Spartak Subotica
   17.30  FK Novi Pazar            0-1 (0-1)  Mladost Lučani
   19.30  Tekstilac Odžaci         1-1 (1-0)  Jedinstvo Ub
-         FK Napredak              2-0 (1-0)  Spartak Subotica
 [Sun Aug/18]
   Partizan                 -  Radnički Niš
   19.30  Železničar Pančevo       2-1 (1-1)  IMT Beograd
@@ -81,10 +80,10 @@ Matchday 6
 [Fri Aug/23]
   21.00  Mladost Lučani           3-1 (2-0)  FK Čukarički
 [Sat Aug/24]
-  21.00  Jedinstvo Ub             2-3 (1-3)  IMT Beograd
-  Crvena Zvezda            -  TSC Bačka Topola
   19.00  Radnički Niš             2-1 (1-1)  Železničar Pančevo
          Tekstilac Odžaci         2-1 (1-0)  FK Novi Pazar
+  Crvena Zvezda            -  TSC Bačka Topola
+  21.00  Jedinstvo Ub             2-3 (1-3)  IMT Beograd
 [Sun Aug/25]
   Spartak Subotica         -  Partizan
   19.30  Vojvodina                1-2 (0-0)  FK Napredak
@@ -97,12 +96,12 @@ Matchday 7
   20.30  FK Čukarički             3-0 (2-0)  Tekstilac Odžaci
 [Sat Aug/31]
   20.30  Železničar Pančevo       2-0 (1-0)  Spartak Subotica
+         FK Napredak              1-3 (1-0)  OFK Beograd
   17.00  FK Novi Pazar            3-1 (1-1)  Jedinstvo Ub
-  20.30  FK Napredak              1-3 (1-0)  OFK Beograd
 [Sun Sep/1]
+  21.05  Partizan                 0-0  Vojvodina
   19.00  TSC Bačka Topola         1-2 (1-2)  Mladost Lučani
          FK Radnički 1923         0-1 (0-0)  Crvena Zvezda
-  21.05  Partizan                 0-0  Vojvodina
 
 
 Matchday 8
@@ -110,12 +109,12 @@ Matchday 8
   19.00  Spartak Subotica         2-0 (1-0)  IMT Beograd
 [Sat Sep/14]
   20.00  Mladost Lučani           2-1 (0-1)  FK Radnički 1923
+         Crvena Zvezda            2-0 (1-0)  FK Napredak
   18.00  Vojvodina                2-0 (2-0)  Železničar Pančevo
-  20.00  Crvena Zvezda            2-0 (1-0)  FK Napredak
 [Sun Sep/15]
-  19.00  Tekstilac Odžaci         2-1 (0-0)  TSC Bačka Topola
-  17.00  FK Novi Pazar            2-2 (2-1)  FK Čukarički
   19.00  OFK Beograd              3-2 (1-2)  Partizan
+         Tekstilac Odžaci         2-1 (0-0)  TSC Bačka Topola
+  17.00  FK Novi Pazar            2-2 (2-1)  FK Čukarički
 [Mon Sep/16]
   20.00  Jedinstvo Ub             0-2 (0-0)  Radnički Niš
 
@@ -127,42 +126,49 @@ Matchday 2
 
 Matchday 9
 [Sat Sep/21]
-  18.00  TSC Bačka Topola         5-2 (0-0)  FK Novi Pazar
-  20.00  FK Napredak              1-2 (1-2)  Mladost Lučani
   18.00  FK Čukarički             2-1 (0-1)  Jedinstvo Ub
+  20.00  FK Napredak              1-2 (1-2)  Mladost Lučani
+  18.00  TSC Bačka Topola         5-2 (0-0)  FK Novi Pazar
 [Sun Sep/22]
   19.00  IMT Beograd              0-3 (0-0)  Vojvodina
          Radnički Niš             3-2 (2-0)  Spartak Subotica
   20.00  Železničar Pančevo       0-1 (0-1)  OFK Beograd
 [Mon Sep/23]
-  19.00  Partizan                 -  Crvena Zvezda
-  17.00  FK Radnički 1923         -  Tekstilac Odžaci
+  17.00  FK Radnički 1923         1-0 (1-0)  Tekstilac Odžaci
+  19.00  Partizan                 0-4 (0-2)  Crvena Zvezda
 
 
 Matchday 10
 [Fri Sep/27]
-  19.00  Crvena Zvezda            -  Železničar Pančevo
+  19.00  Crvena Zvezda            2-1 (1-0)  Železničar Pančevo
 [Sat Sep/28]
-  17.00  OFK Beograd              -  IMT Beograd
-  18.00  FK Novi Pazar            -  FK Radnički 1923
-         FK Čukarički             -  TSC Bačka Topola
-  20.00  Vojvodina                -  Radnički Niš
+  18.00  FK Novi Pazar            2-0 (1-0)  FK Radnički 1923
+  17.00  OFK Beograd              4-3 (2-1)  IMT Beograd
+  20.00  Vojvodina                3-3 (0-0)  Radnički Niš
+  18.00  FK Čukarički             1-2 (1-1)  TSC Bačka Topola
 [Sun Sep/29]
-  17.00  Mladost Lučani           -  Partizan
-  19.00  Jedinstvo Ub             -  Spartak Subotica
-  15.00  Tekstilac Odžaci         -  FK Napredak
+  15.00  Tekstilac Odžaci         0-0  FK Napredak
+  17.00  Mladost Lučani           1-3 (1-2)  Partizan
+  19.00  Jedinstvo Ub             2-0 (0-0)  Spartak Subotica
+
+
+Matchday 2
+[Wed Oct/2]
+  19.00  Vojvodina                0-1 (0-1)  FK Novi Pazar
 
 
 Matchday 11
+[Fri Oct/4]
+  17.30  Radnički Niš             1-1 (1-0)  OFK Beograd
 [Sat Oct/5]
-  TSC Bačka Topola         -  Jedinstvo Ub
-  FK Radnički 1923         -  FK Čukarički
-  FK Napredak              -  FK Novi Pazar
-  Partizan                 -  Tekstilac Odžaci
-  Železničar Pančevo       -  Mladost Lučani
-  IMT Beograd              -  Crvena Zvezda
-  Radnički Niš             -  OFK Beograd
-  Spartak Subotica         -  Vojvodina
+  16.00  Železničar Pančevo       1-2 (1-1)  Mladost Lučani
+  18.30  Partizan                 4-1 (1-1)  Tekstilac Odžaci
+  14.00  FK Radnički 1923         1-1 (1-0)  FK Čukarički
+[Sun Oct/6]
+  19.00  IMT Beograd              -  Crvena Zvezda
+         Spartak Subotica         -  Vojvodina
+  21.00  TSC Bačka Topola         -  Jedinstvo Ub
+  14.00  FK Napredak              2-1 (0-1)  FK Novi Pazar
 
 
 Matchday 12

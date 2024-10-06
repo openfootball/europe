@@ -128,31 +128,31 @@ Matchday 9
          FK Rostov                0-0  FK Dinamo Makhachkala
   19.00  FK Nizhny Novgorod       1-3 (1-1)  Lokomotiv Moskva
 [Mon Sep/23]
-  18.30  Akhmat Grozny            -  Krylia Sovetov
+  18.30  Akhmat Grozny            1-1 (0-0)  Krylia Sovetov
 
 
 Matchday 10
 [Fri Sep/27]
-  19.00  Fakel Voronezh           -  Rubin Kazan
-  16.30  FK Orenburg              -  FK Nizhny Novgorod
+  19.00  Fakel Voronezh           0-0  Rubin Kazan
+  16.30  FK Orenburg              1-2 (0-1)  FK Nizhny Novgorod
 [Sat Sep/28]
-  14.00  CSKA Moskva              -  Akhmat Grozny
-  16.30  Lokomotiv Moskva         -  Spartak Moskva
-  19.30  FK Krasnodar             -  Zenit St. Petersburg
-  20.00  FK Rostov                -  Akron Tolyatti
+  14.00  CSKA Moskva              3-0 (2-0)  Akhmat Grozny
+  16.30  Lokomotiv Moskva         3-1 (2-1)  Spartak Moskva
+  19.30  FK Krasnodar             2-0 (0-0)  Zenit St. Petersburg
+  20.00  FK Rostov                0-2 (0-2)  Akron Tolyatti
 [Sun Sep/29]
-  19.00  FK Dinamo Makhachkala    -  Dinamo Moskva
-  16.30  Krylia Sovetov           -  FK Khimki
+  19.00  FK Dinamo Makhachkala    0-1 (0-1)  Dinamo Moskva
+  16.30  Krylia Sovetov           0-0  FK Khimki
 
 
 Matchday 11
 [Sat Oct/5]
-  16.30  Zenit St. Petersburg     -  FK Orenburg
-  19.00  Spartak Moskva           -  FK Rostov
-         Rubin Kazan              -  Akhmat Grozny
-  14.00  Akron Tolyatti           -  FK Nizhny Novgorod
+  16.30  Zenit St. Petersburg     1-0 (0-0)  FK Orenburg
+  19.00  Spartak Moskva           3-0 (3-0)  FK Rostov
+         Rubin Kazan              2-0 (1-0)  Akhmat Grozny
+  14.00  Akron Tolyatti           2-2 (1-0)  FK Nizhny Novgorod
 [Sun Oct/6]
-  14.00  Fakel Voronezh           -  FK Dinamo Makhachkala
+  14.00  Fakel Voronezh           1-1 (0-1)  FK Dinamo Makhachkala
   16.30  Lokomotiv Moskva         -  Krylia Sovetov
   19.00  FK Krasnodar             -  FK Khimki
          Dinamo Moskva            -  CSKA Moskva
@@ -178,36 +178,39 @@ Matchday 13
   19.00  FK Rostov                -  Akhmat Grozny
   14.00  FK Dinamo Makhachkala    -  Akron Tolyatti
 [Sun Oct/27]
-  13.00  FK Orenburg              -  Rubin Kazan
-  15.15  FK Nizhny Novgorod       -  Spartak Moskva
-  17.30  FK Khimki                -  Dinamo Moskva
-  20.30  Zenit St. Petersburg     -  Lokomotiv Moskva
+  12.00  FK Orenburg              -  Rubin Kazan
+  14.15  FK Nizhny Novgorod       -  Spartak Moskva
+  16.30  FK Khimki                -  Dinamo Moskva
+  19.30  Zenit St. Petersburg     -  Lokomotiv Moskva
 [Mon Oct/28]
-  19.30  Krylia Sovetov           -  FK Krasnodar
+  18.30  Krylia Sovetov           -  FK Krasnodar
 
 
 Matchday 14
+[Fri Nov/1]
+  19.00  Dinamo Moskva            -  FK Rostov
+[Sat Nov/2]
+  18.00  Zenit St. Petersburg     -  FK Dinamo Makhachkala
+         Lokomotiv Moskva         -  Rubin Kazan
+  20.45  CSKA Moskva              -  Spartak Moskva
 [Sun Nov/3]
-  Zenit St. Petersburg     -  FK Dinamo Makhachkala
-  FK Krasnodar             -  FK Orenburg
-  CSKA Moskva              -  Spartak Moskva
-  Dinamo Moskva            -  FK Rostov
-  Lokomotiv Moskva         -  Rubin Kazan
-  Akhmat Grozny            -  FK Nizhny Novgorod
-  Fakel Voronezh           -  FK Khimki
-  Akron Tolyatti           -  Krylia Sovetov
+  15.15  Akhmat Grozny            -  FK Nizhny Novgorod
+  17.30  Fakel Voronezh           -  FK Khimki
+  19.45  FK Krasnodar             -  FK Orenburg
+  13.00  Akron Tolyatti           -  Krylia Sovetov
 
 
 Matchday 15
+[Sat Nov/9]
+  14.00  Lokomotiv Moskva         -  Fakel Voronezh
+  16.30  FK Dinamo Makhachkala    -  FK Orenburg
+  19.00  FK Rostov                -  FK Khimki
+  19.30  Dinamo Moskva            -  FK Nizhny Novgorod
 [Sun Nov/10]
-  FK Rostov                -  FK Khimki
-  Krylia Sovetov           -  CSKA Moskva
-  Dinamo Moskva            -  FK Nizhny Novgorod
-  Lokomotiv Moskva         -  Fakel Voronezh
-  Akhmat Grozny            -  Zenit St. Petersburg
-  Rubin Kazan              -  FK Krasnodar
-  FK Dinamo Makhachkala    -  FK Orenburg
-  Spartak Moskva           -  Akron Tolyatti
+  15.15  Spartak Moskva           -  Akron Tolyatti
+  17.30  Akhmat Grozny            -  Zenit St. Petersburg
+  19.45  Rubin Kazan              -  FK Krasnodar
+  13.00  Krylia Sovetov           -  CSKA Moskva
 
 
 Matchday 16

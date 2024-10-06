@@ -59,21 +59,21 @@ Matchday 5
 
 Matchday 6
 [Wed Sep/25]
-  21.00  Lincoln Red Imps         -  Lynx FC
+  21.00  Lincoln Red Imps         3-0 (2-0)  Lynx FC
 [Sat Sep/28]
-  19.30  FCB Magpies              -  Europa FC
-  16.30  Mons Calpe S.C.          -  College 1975 FC
+  21.00  FCB Magpies              0-0  Europa FC
+  18.00  Mons Calpe S.C.          3-0  College 1975 FC
 [Sun Sep/29]
-  16.30  Europa Point FC          -  Lions Gibraltar
-  19.30  Manchester 62 FC         -  St. Joseph's FC
+  16.30  Europa Point FC          1-4  Lions Gibraltar
+  19.30  Manchester 62 FC         1-1  St. Joseph's FC
 
 
 Matchday 7
 [Thu Oct/3]
-  21.00  St. Joseph's FC          -  FCB Magpies
+  21.00  St. Joseph's FC          2-1  FCB Magpies
 [Sat Oct/5]
-  19.30  College 1975 FC          -  Europa Point FC
-  16.30  Europa FC                -  Lincoln Red Imps
+  19.30  College 1975 FC          0-0  Europa Point FC
+  16.30  Europa FC                0-0  Lincoln Red Imps
 [Sun Oct/6]
   19.30  Lions Gibraltar          -  Manchester 62 FC
   16.30  Glacis United FC         -  Mons Calpe S.C.

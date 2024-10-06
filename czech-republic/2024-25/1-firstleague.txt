@@ -122,28 +122,28 @@ Matchday 9
 
 Matchday 10
 [Fri Sep/27]
-  19.30  AC Sparta Praha          -  Sigma Olomouc
+  19.30  AC Sparta Praha          2-3 (1-0)  Sigma Olomouc
 [Sat Sep/28]
-  19.00  FK Jablonec              -  FC Hradec Králové
-  13.30  FK Dukla Praha           -  Slovan Liberec
-  16.00  FK Pardubice             -  FK Teplice
-         1. FC Slovácko           -  MFK Karviná
+  19.00  FK Jablonec              2-0 (0-0)  FC Hradec Králové
+  13.30  FK Dukla Praha           1-4 (1-0)  Slovan Liberec
+  16.00  FK Pardubice             0-1 (0-0)  FK Teplice
+         1. FC Slovácko           2-1 (1-0)  MFK Karviná
 [Sun Sep/29]
-  15.30  Viktoria Plzeň           -  FK Mladá Boleslav
-  13.00  Baník Ostrava            -  Dynamo České Budějovice
-  18.30  Bohemians Praha 1905     -  Slavia Praha
+  15.30  Viktoria Plzeň           1-1 (1-1)  FK Mladá Boleslav
+  13.00  Baník Ostrava            2-1 (1-0)  Dynamo České Budějovice
+  18.30  Bohemians Praha 1905     0-4 (0-3)  Slavia Praha
 
 
 Matchday 11
 [Sat Oct/5]
-  13.30  MFK Karviná              -  FC Hradec Králové
-  16.00  FK Teplice               -  FK Dukla Praha
-         Dynamo České Budějovice  -  1. FC Slovácko
-  19.00  Slovan Liberec           -  FK Jablonec
+  13.30  MFK Karviná              0-0  FC Hradec Králové
+  16.00  FK Teplice               1-1 (1-0)  FK Dukla Praha
+         Dynamo České Budějovice  0-2 (0-1)  1. FC Slovácko
+  19.00  Slovan Liberec           0-5 (0-1)  FK Jablonec
 [Sun Oct/6]
   15.30  FK Mladá Boleslav        -  Baník Ostrava
          Sigma Olomouc            -  Bohemians Praha 1905
-  13.00  Viktoria Plzeň           -  FK Pardubice
+  13.00  Viktoria Plzeň           2-0 (0-0)  FK Pardubice
   18.30  Slavia Praha             -  AC Sparta Praha
 
 

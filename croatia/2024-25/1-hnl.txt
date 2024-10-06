@@ -85,51 +85,58 @@ Matchday 7
 
 Matchday 8
 [Fri Sep/27]
-  18.00  HNK Šibenik              -  NK Istra 1961
+  18.00  HNK Šibenik              0-0  NK Istra 1961
 [Sat Sep/28]
-  20.00  Dinamo Zagreb            -  Lokomotiva Zagreb
-  17.30  HNK Gorica               -  Slaven Belupo
+  20.00  Dinamo Zagreb            5-1 (2-0)  Lokomotiva Zagreb
 [Sun Sep/29]
-  20.00  HNK Rijeka               -  Hajduk Split
-  17.30  NK Osijek                -  NK Varaždin
+  20.00  HNK Rijeka               0-0  Hajduk Split
+  17.30  NK Osijek                2-1 (2-0)  NK Varaždin
+[Mon Sep/30]
+  16.00  HNK Gorica               2-1 (1-1)  Slaven Belupo
 
 
 Matchday 9
 [Fri Oct/4]
-  18.00  Slaven Belupo            -  HNK Rijeka
+  18.00  NK Istra 1961            2-1 (2-0)  NK Osijek
 [Sat Oct/5]
-  18.30  NK Istra 1961            -  NK Osijek
-  16.00  Lokomotiva Zagreb        -  HNK Gorica
+  18.30  Slaven Belupo            0-0  HNK Rijeka
+  16.00  Lokomotiva Zagreb        2-0 (1-0)  HNK Gorica
 [Sun Oct/6]
   18.30  Hajduk Split             -  HNK Šibenik
   16.00  NK Varaždin              -  Dinamo Zagreb
 
 
 Matchday 10
+[Fri Oct/18]
+  18.00  Lokomotiva Zagreb        -  HNK Rijeka
 [Sat Oct/19]
-  NK Istra 1961            -  Dinamo Zagreb
-  Lokomotiva Zagreb        -  HNK Rijeka
-  HNK Šibenik              -  NK Osijek
-  Slaven Belupo            -  Hajduk Split
-  NK Varaždin              -  HNK Gorica
+  18.30  NK Istra 1961            -  Dinamo Zagreb
+  16.00  HNK Šibenik              -  NK Osijek
+[Sun Oct/20]
+  18.30  NK Varaždin              -  HNK Gorica
+  16.00  Slaven Belupo            -  Hajduk Split
 
 
 Matchday 11
+[Fri Oct/25]
+  18.00  Slaven Belupo            -  HNK Šibenik
 [Sat Oct/26]
-  Hajduk Split             -  Lokomotiva Zagreb
-  HNK Gorica               -  NK Istra 1961
-  HNK Rijeka               -  NK Varaždin
-  Slaven Belupo            -  HNK Šibenik
-  Dinamo Zagreb            -  NK Osijek
+  18.30  HNK Rijeka               -  NK Varaždin
+  16.00  Hajduk Split             -  Lokomotiva Zagreb
+[Sun Oct/27]
+  18.30  HNK Gorica               -  NK Istra 1961
+  16.00  Dinamo Zagreb            -  NK Osijek
 
 
 Matchday 12
+[Fri Nov/1]
+  18.00  HNK Šibenik              -  Dinamo Zagreb
 [Sat Nov/2]
-  NK Istra 1961            -  HNK Rijeka
-  Lokomotiva Zagreb        -  Slaven Belupo
-  NK Osijek                -  HNK Gorica
-  HNK Šibenik              -  Dinamo Zagreb
-  NK Varaždin              -  Hajduk Split
+  17.30  NK Osijek                -  HNK Gorica
+  15.00  Lokomotiva Zagreb        -  Slaven Belupo
+[Sun Nov/3]
+  17.30  NK Varaždin              -  Hajduk Split
+  15.00  NK Istra 1961            -  HNK Rijeka
 
 
 Matchday 13
@@ -143,29 +150,29 @@ Matchday 13
 
 Matchday 14
 [Sat Nov/23]
+  Dinamo Zagreb            -  HNK Rijeka
   NK Istra 1961            -  Slaven Belupo
   NK Osijek                -  Hajduk Split
   HNK Šibenik              -  HNK Gorica
   NK Varaždin              -  Lokomotiva Zagreb
-  Dinamo Zagreb            -  HNK Rijeka
 
 
 Matchday 15
 [Sat Nov/30]
-  Hajduk Split             -  Dinamo Zagreb
   HNK Rijeka               -  HNK Gorica
   Lokomotiva Zagreb        -  NK Istra 1961
   Slaven Belupo            -  NK Osijek
   NK Varaždin              -  HNK Šibenik
+  Hajduk Split             -  Dinamo Zagreb
 
 
 Matchday 16
 [Sat Dec/7]
+  Dinamo Zagreb            -  Slaven Belupo
   HNK Gorica               -  Hajduk Split
   NK Istra 1961            -  NK Varaždin
   NK Osijek                -  Lokomotiva Zagreb
   HNK Šibenik              -  HNK Rijeka
-  Dinamo Zagreb            -  Slaven Belupo
 
 
 Matchday 17

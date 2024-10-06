@@ -73,34 +73,36 @@ Matchday 7
 
 Matchday 8
 [Sat Sep/28]
-  18.00  Sparta Selemet           -  FC Floreşti
-  Dacia Buiucani           -  FC Sheriff
-  18.00  FC Bălţi                 -  FC Zimbru
-         CS Petrocub              -  FC Milsami
+  18.00  Sparta Selemet           2-0 (2-0)  FC Floreşti
+         FC Bălţi                 2-0 (1-0)  FC Zimbru
+         CS Petrocub              2-1 (0-1)  FC Milsami
+[Sun Sep/29]
+  15.00  Dacia Buiucani           1-3 (1-2)  FC Sheriff
 
 
 Matchday 9
 [Sat Oct/5]
-  FC Milsami               -  FC Zimbru
-  FC Floreşti              -  CS Petrocub
-  15.00  Dacia Buiucani           -  FC Bălţi
-  18.00  Sparta Selemet           -  FC Sheriff
+  15.00  Dacia Buiucani           1-1 (1-0)  FC Bălţi
+  18.00  Sparta Selemet           0-1 (0-0)  FC Sheriff
+[Sun Oct/6]
+  15.00  FC Floreşti              0-5 (0-2)  CS Petrocub
+  17.00  FC Milsami               -  FC Zimbru
 
 
 Matchday 10
 [Sat Oct/19]
-  FC Bălţi                 -  FC Milsami
-  Sparta Selemet           -  Dacia Buiucani
-  CS Petrocub              -  FC Sheriff
   FC Zimbru                -  FC Floreşti
+  16.00  FC Bălţi                 -  FC Milsami
+  14.00  Sparta Selemet           -  Dacia Buiucani
+  18.00  CS Petrocub              -  FC Sheriff
 
 
 Matchday 11
 [Sat Oct/26]
-  FC Sheriff               -  FC Zimbru
+  17.00  Sparta Selemet           -  FC Bălţi
   Dacia Buiucani           -  CS Petrocub
-  FC Floreşti              -  FC Milsami
-  Sparta Selemet           -  FC Bălţi
+  FC Sheriff               -  FC Zimbru
+  14.00  FC Floreşti              -  FC Milsami
 
 
 Matchday 1

@@ -23,7 +23,7 @@ Matchday 2
          KF Feronikeli            0-2 (0-0)  KF Llapi
 [Mon Aug/19]
   FC Prishtina             -  Drita Gjilan
-  17.00  KF Gjilani               1-1  KF Ballkani
+  17.00  KF Gjilani               1-1 (1-1)  KF Ballkani
 
 
 Matchday 3
@@ -71,26 +71,26 @@ Matchday 6
          KF Ferizaj               0-1 (0-0)  KF Llapi
 [Sun Sep/22]
   15.00  Drita Gjilan             1-0 (0-0)  KF Ballkani
-         KF Malisheva             2-1  KF Gjilani
+         KF Malisheva             2-1 (1-1)  KF Gjilani
 
 
 Matchday 7
 [Fri Sep/27]
-  15.00  KF Llapi                 -  FC Suhareka
+  15.00  KF Llapi                 3-0 (1-0)  FC Suhareka
 [Sat Sep/28]
-  15.00  KF Dukagjini             -  Drita Gjilan
-         KF Ballkani              -  KF Ferizaj
+  15.00  KF Dukagjini             0-2 (0-0)  Drita Gjilan
+         KF Ballkani              4-0  KF Ferizaj
 [Sun Sep/29]
-  15.00  KF Feronikeli            -  KF Malisheva
-  00.00  KF Gjilani               -  FC Prishtina
+  15.00  KF Feronikeli            1-1 (0-0)  KF Malisheva
+         KF Gjilani               2-1 (1-1)  FC Prishtina
 
 
 Matchday 8
 [Fri Oct/4]
-  15.00  KF Ferizaj               -  KF Dukagjini
+  15.00  KF Ferizaj               2-1  KF Dukagjini
 [Sat Oct/5]
-  15.00  Drita Gjilan             -  KF Gjilani
-         FC Prishtina             -  KF Feronikeli
+  15.00  Drita Gjilan             1-1  KF Gjilani
+         FC Prishtina             2-0  KF Feronikeli
 [Sun Oct/6]
   15.00  FC Suhareka              -  KF Malisheva
          KF Llapi                 -  KF Ballkani

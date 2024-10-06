@@ -1,6 +1,6 @@
 = Georgian Premier League 2024
 
-# Date       Fri Mar/1 - Sun Dec/15 2024 (289d)
+# Date       Fri Mar/1 - Sun Dec/8 2024 (282d)
 # Teams      10
 # Matches    180
 
@@ -263,93 +263,99 @@ Matchday 25
   21.00  FC Gagra                 0-3 (0-1)  Torpedo Kutaisi
   16.00  Samgurali Tskhaltubo     2-2 (0-1)  FC Telavi
 [Mon Sep/23]
-  21.00  Dinamo Batumi            -  Dinamo Tbilisi
+  21.00  Dinamo Batumi            1-1 (1-0)  Dinamo Tbilisi
 
 
 Matchday 26
 [Thu Sep/26]
-  19.00  FC Iberia 1999           -  FC Gagra
-  21.00  Torpedo Kutaisi          -  Samgurali Tskhaltubo
-  15.30  FC Samtredia             -  FC Telavi
+  19.00  FC Iberia 1999           1-1 (0-1)  FC Gagra
+  21.00  Torpedo Kutaisi          1-0 (0-0)  Samgurali Tskhaltubo
+  15.30  FC Samtredia             2-1 (1-1)  FC Telavi
 [Fri Sep/27]
-  21.00  Dila Gori                -  Dinamo Batumi
-  19.00  Dinamo Tbilisi           -  Kolkheti Poti
+  21.00  Dila Gori                1-2 (0-0)  Dinamo Batumi
+  19.00  Dinamo Tbilisi           3-2 (0-2)  Kolkheti Poti
 
 
 Matchday 27
-[Sat Oct/5]
-  Dinamo Batumi            -  FC Samtredia
-  FC Gagra                 -  Dinamo Tbilisi
-  Kolkheti Poti            -  Dila Gori
-  Samgurali Tskhaltubo     -  FC Iberia 1999
-  FC Telavi                -  Torpedo Kutaisi
+[Mon Sep/30]
+  15.30  Samgurali Tskhaltubo     3-4 (1-2)  FC Iberia 1999
+  19.00  FC Telavi                1-2 (0-1)  Torpedo Kutaisi
+[Tue Oct/1]
+  20.00  FC Gagra                 0-0  Dinamo Tbilisi
+  21.00  Dinamo Batumi            1-2 (1-0)  FC Samtredia
+  18.00  Kolkheti Poti            2-2 (0-0)  Dila Gori
 
 
 Matchday 28
-[Sat Oct/19]
-  FC Samtredia             -  Torpedo Kutaisi
-  FC Gagra                 -  Dila Gori
-  Kolkheti Poti            -  Dinamo Batumi
-  Samgurali Tskhaltubo     -  Dinamo Tbilisi
-  FC Telavi                -  FC Iberia 1999
+[Sat Oct/5]
+  15.30  Samgurali Tskhaltubo     1-2 (1-1)  Dinamo Tbilisi
+  19.00  FC Telavi                1-2 (0-1)  FC Iberia 1999
+  20.00  Kolkheti Poti            0-1 (0-1)  Dinamo Batumi
+[Sun Oct/6]
+  20.00  FC Gagra                 -  Dila Gori
+  15.30  FC Samtredia             2-1 (0-0)  Torpedo Kutaisi
 
 
 Matchday 29
-[Sat Oct/26]
-  Dinamo Tbilisi           -  FC Telavi
-  Dila Gori                -  Samgurali Tskhaltubo
-  Kolkheti Poti            -  FC Samtredia
-  FC Iberia 1999           -  Torpedo Kutaisi
-  Dinamo Batumi            -  FC Gagra
+[Fri Oct/18]
+  20.00  Dinamo Batumi            -  FC Gagra
+[Sat Oct/19]
+  20.00  Kolkheti Poti            -  FC Samtredia
+  18.00  Dinamo Tbilisi           -  FC Telavi
+[Sun Oct/20]
+  20.00  Dila Gori                -  Samgurali Tskhaltubo
+  19.00  FC Iberia 1999           -  Torpedo Kutaisi
 
 
 Matchday 30
-[Sat Nov/2]
-  FC Samtredia             -  FC Iberia 1999
-  FC Gagra                 -  Kolkheti Poti
-  Samgurali Tskhaltubo     -  Dinamo Batumi
-  FC Telavi                -  Dila Gori
-  Torpedo Kutaisi          -  Dinamo Tbilisi
+[Sun Oct/27]
+  15.00  FC Samtredia             -  FC Iberia 1999
+         Samgurali Tskhaltubo     -  Dinamo Batumi
+  18.00  FC Gagra                 -  Kolkheti Poti
+[Mon Oct/28]
+  21.00  Torpedo Kutaisi          -  Dinamo Tbilisi
+  19.00  FC Telavi                -  Dila Gori
 
 
 Matchday 31
-[Sat Nov/9]
-  Dinamo Batumi            -  FC Telavi
-  Dinamo Tbilisi           -  FC Iberia 1999
-  Dila Gori                -  Torpedo Kutaisi
-  FC Gagra                 -  FC Samtredia
-  Kolkheti Poti            -  Samgurali Tskhaltubo
+[Fri Nov/1]
+  19.00  Kolkheti Poti            -  Samgurali Tskhaltubo
+  20.00  Dinamo Tbilisi           -  FC Iberia 1999
+  19.00  FC Gagra                 -  FC Samtredia
+[Sat Nov/2]
+  20.00  Dinamo Batumi            -  FC Telavi
+  18.00  Dila Gori                -  Torpedo Kutaisi
 
 
 Matchday 32
-[Sat Nov/23]
+[Sat Nov/9]
+  FC Samtredia             -  Dinamo Tbilisi
   FC Iberia 1999           -  Dila Gori
   Samgurali Tskhaltubo     -  FC Gagra
   FC Telavi                -  Kolkheti Poti
   Torpedo Kutaisi          -  Dinamo Batumi
-  FC Samtredia             -  Dinamo Tbilisi
 
 
 Matchday 33
-[Sat Nov/30]
-  Dinamo Batumi            -  FC Iberia 1999
+[Sat Nov/23]
   Dila Gori                -  Dinamo Tbilisi
   FC Gagra                 -  FC Telavi
   Kolkheti Poti            -  Torpedo Kutaisi
   Samgurali Tskhaltubo     -  FC Samtredia
+  Dinamo Batumi            -  FC Iberia 1999
 
 
 Matchday 34
-[Wed Dec/4]
+[Wed Nov/27]
+  Dinamo Tbilisi           -  Dinamo Batumi
   FC Samtredia             -  Dila Gori
   FC Iberia 1999           -  Kolkheti Poti
   FC Telavi                -  Samgurali Tskhaltubo
   Torpedo Kutaisi          -  FC Gagra
-  Dinamo Tbilisi           -  Dinamo Batumi
 
 
 Matchday 35
-[Sun Dec/8]
+[Sun Dec/1]
   Dinamo Batumi            -  Dila Gori
   FC Gagra                 -  FC Iberia 1999
   Kolkheti Poti            -  Dinamo Tbilisi
@@ -358,7 +364,7 @@ Matchday 35
 
 
 Matchday 36
-[Sun Dec/15]
+[Sun Dec/8]
   Dila Gori                -  Kolkheti Poti
   FC Samtredia             -  Dinamo Batumi
   FC Iberia 1999           -  Samgurali Tskhaltubo

@@ -332,35 +332,35 @@ Matchday 31
 
 Matchday 30
 [Mon Sep/23]
-  19.45  Drogheda United          -  Galway United
+  19.45  Drogheda United          0-0  Galway United
 
 
 Matchday 20
 [Mon Sep/23]
-  19.45  Shamrock Rovers          -  Bohemian FC
+  19.45  Shamrock Rovers          1-0 (0-0)  Bohemian FC
 
 
 Matchday 32
 [Fri Sep/27]
-  20.00  Shamrock Rovers          -  St Patrick's Athletic
-  19.45  Waterford FC             -  Galway United
-         Drogheda United          -  Derry City
-         Dundalk FC               -  Bohemian FC
-         Shelbourne FC            -  Sligo Rovers
+  20.00  Shamrock Rovers          0-3 (0-2)  St Patrick's Athletic
+  19.45  Waterford FC             1-2 (1-0)  Galway United
+         Drogheda United          2-1 (0-0)  Derry City
+         Dundalk FC               0-2 (0-0)  Bohemian FC
+         Shelbourne FC            0-0  Sligo Rovers
 
 
 Matchday 30
 [Mon Sep/30]
-  19.15  Shelbourne FC            -  St Patrick's Athletic
+  19.15  Shelbourne FC            2-3 (0-1)  St Patrick's Athletic
 
 
 Matchday 33
 [Fri Oct/4]
-  19.45  Derry City               -  Sligo Rovers
-         Galway United            -  Dundalk FC
-         Waterford FC             -  Drogheda United
+  19.45  Galway United            1-1 (1-0)  Dundalk FC
 [Sun Oct/6]
   17.45  Shamrock Rovers          -  Shelbourne FC
+[Fri Oct/11]
+  19.45  Waterford FC             -  Drogheda United
 
 
 Matchday 30
@@ -370,17 +370,17 @@ Matchday 30
 
 Matchday 33
 [Mon Oct/14]
-  19.45  Bohemian FC              -  St Patrick's Athletic
+  19.45  Derry City               -  Sligo Rovers
+         Bohemian FC              -  St Patrick's Athletic
 
 
 Matchday 34
 [Fri Oct/18]
-  19.45  Dundalk FC               -  Derry City
+  19.45  Drogheda United          -  Shamrock Rovers
+         Dundalk FC               -  Derry City
          Shelbourne FC            -  Waterford FC
          St Patrick's Athletic    -  Galway United
-         Drogheda United          -  Shamrock Rovers
-[Sat Oct/19]
-  19.45  Sligo Rovers             -  Bohemian FC
+         Sligo Rovers             -  Bohemian FC
 
 
 Matchday 35

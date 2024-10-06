@@ -237,24 +237,23 @@ Matchday 17
 [Fri Aug/9]
   18.30  FK Slaviya Mozyr         1-2 (1-1)  FK Vitebsk
 [Sat Aug/10]
-  19.00  Shakhter Soligorsk       0-1 (0-0)  FK Isloch Minsk
   17.00  FK Smorgon               0-2 (0-1)  Dinamo Brest
+  19.00  Shakhter Soligorsk       0-1 (0-0)  FK Isloch Minsk
   15.00  BATE Borisov             1-1 (0-0)  Naftan Novopolotsk
 [Sun Aug/11]
   17.30  Arsenal Dzerzhinsk       3-1 (1-0)  Dnepr Mogilev
-  19.30  Neman Grodno             1-1 (0-1)  FK Gomel
   15.30  FK Slutsk                1-0 (1-0)  Torpedo-BelAZ Zhodino
+  19.30  Neman Grodno             1-1 (0-1)  FK Gomel
 
 
 Matchday 18
 [Fri Aug/16]
-  Naftan Novopolotsk       -  Dinamo Minsk
-  21.00  FK Vitebsk               0-0  Arsenal Dzerzhinsk
   19.00  Dinamo Brest             3-0 (2-0)  Shakhter Soligorsk
+  21.00  FK Vitebsk               0-0  Arsenal Dzerzhinsk
 [Sat Aug/17]
-  19.00  Dnepr Mogilev            2-3 (0-3)  FK Slutsk
   17.00  FK Isloch Minsk          0-0  FK Slaviya Mozyr
   21.00  Torpedo-BelAZ Zhodino    1-4 (0-0)  Neman Grodno
+  19.00  Dnepr Mogilev            2-3 (0-3)  FK Slutsk
 [Sun Aug/18]
   19.00  FK Gomel                 2-0 (1-0)  BATE Borisov
   17.00  FK Smorgon               1-1 (0-1)  FK Minsk
@@ -262,12 +261,12 @@ Matchday 18
 
 Matchday 19
 [Fri Aug/23]
-  20.00  Arsenal Dzerzhinsk       3-1 (0-1)  FK Isloch Minsk
   18.00  FK Slutsk                2-0 (0-0)  FK Vitebsk
+  20.00  Arsenal Dzerzhinsk       3-1 (0-1)  FK Isloch Minsk
 [Sat Aug/24]
+  18.00  FK Smorgon               1-0 (1-0)  Naftan Novopolotsk
   16.00  FK Minsk                 3-2 (0-1)  Dinamo Brest
   20.00  FK Slaviya Mozyr         0-1 (0-0)  Shakhter Soligorsk
-  18.00  FK Smorgon               1-0 (1-0)  Naftan Novopolotsk
 [Sun Aug/25]
   20.00  BATE Borisov             1-2 (0-1)  Torpedo-BelAZ Zhodino
   17.30  Neman Grodno             3-1 (1-1)  Dnepr Mogilev
@@ -275,16 +274,16 @@ Matchday 19
 
 Matchday 20
 [Fri Aug/30]
-  18.45  Dinamo Brest             3-0 (2-0)  FK Slaviya Mozyr
   20.45  FK Gomel                 2-1 (2-1)  FK Smorgon
+  18.45  Dinamo Brest             3-0 (2-0)  FK Slaviya Mozyr
 [Sat Aug/31]
   15.00  Naftan Novopolotsk       0-2 (0-2)  FK Minsk
   17.00  Shakhter Soligorsk       0-3 (0-2)  Arsenal Dzerzhinsk
   19.00  FK Vitebsk               0-1 (0-1)  Neman Grodno
 [Sun Sep/1]
-  Torpedo-BelAZ Zhodino    -  Dinamo Minsk
-  15.30  FK Isloch Minsk          0-0  FK Slutsk
   17.30  Dnepr Mogilev            1-1 (1-1)  BATE Borisov
+  15.30  FK Isloch Minsk          0-0  FK Slutsk
+  Torpedo-BelAZ Zhodino    -  Dinamo Minsk
 
 
 Matchday 19
@@ -296,97 +295,109 @@ Matchday 21
 [Fri Sep/13]
   17.00  FK Slutsk                0-0  Shakhter Soligorsk
 [Sat Sep/14]
-  17.00  Arsenal Dzerzhinsk       1-1 (0-1)  FK Slaviya Mozyr
   21.00  Neman Grodno             0-3 (0-2)  FK Isloch Minsk
+  17.00  Arsenal Dzerzhinsk       1-1 (0-1)  FK Slaviya Mozyr
   15.00  FK Smorgon               0-4 (0-1)  Torpedo-BelAZ Zhodino
 [Sun Sep/15]
-  17.30  BATE Borisov             1-0 (0-0)  FK Vitebsk
   16.00  Naftan Novopolotsk       3-6 (2-1)  Dinamo Brest
+  17.30  BATE Borisov             1-0 (0-0)  FK Vitebsk
 [Mon Sep/16]
-  17.00  FK Minsk                 3-1 (2-0)  FK Gomel
   20.30  Dinamo Minsk             2-0 (1-0)  Dnepr Mogilev
+  17.00  FK Minsk                 3-1 (2-0)  FK Gomel
 
 
 Matchday 22
 [Fri Sep/20]
-  18.00  Torpedo-BelAZ Zhodino    2-2 (0-1)  FK Minsk
   20.00  FK Vitebsk               1-0 (0-0)  Dinamo Minsk
+  18.00  Torpedo-BelAZ Zhodino    2-2 (0-1)  FK Minsk
 [Sat Sep/21]
-  15.00  FK Gomel                 2-1 (0-1)  Naftan Novopolotsk
   17.00  Shakhter Soligorsk       0-1 (0-0)  Neman Grodno
+  15.00  FK Gomel                 2-1 (0-1)  Naftan Novopolotsk
   20.00  FK Slaviya Mozyr         0-0  FK Slutsk
 [Sun Sep/22]
+  15.00  FK Isloch Minsk          1-2 (1-1)  BATE Borisov
   17.00  Dnepr Mogilev            2-1 (0-0)  FK Smorgon
   19.30  Dinamo Brest             2-1 (2-0)  Arsenal Dzerzhinsk
-  15.00  FK Isloch Minsk          1-2 (1-1)  BATE Borisov
 
 
 Matchday 17
 [Tue Sep/24]
-  19.30  Dinamo Minsk             -  FK Minsk
+  19.30  Dinamo Minsk             2-0 (1-0)  FK Minsk
 
 
 Matchday 16
 [Wed Sep/25]
-  16.30  Naftan Novopolotsk       -  Neman Grodno
+  16.30  Naftan Novopolotsk       0-0  Neman Grodno
 
 
 Matchday 23
 [Fri Sep/27]
-  18.30  BATE Borisov             -  Shakhter Soligorsk
-  20.30  FK Gomel                 -  Dinamo Brest
+  18.30  BATE Borisov             1-1 (0-0)  Shakhter Soligorsk
+  20.30  FK Gomel                 2-1 (0-1)  Dinamo Brest
 [Sat Sep/28]
-  18.00  Dinamo Minsk             -  FK Isloch Minsk
-  FK Minsk                 -  Dnepr Mogilev
-  Neman Grodno             -  FK Slaviya Mozyr
-  Naftan Novopolotsk       -  Torpedo-BelAZ Zhodino
-  14.00  FK Slutsk                -  Arsenal Dzerzhinsk
-  16.00  FK Smorgon               -  FK Vitebsk
+  16.00  FK Smorgon               0-3 (0-1)  FK Vitebsk
+  18.00  Dinamo Minsk             2-0 (0-0)  FK Isloch Minsk
+  14.00  FK Slutsk                1-1 (1-0)  Arsenal Dzerzhinsk
+[Sun Sep/29]
+  16.00  FK Minsk                 2-2 (2-0)  Dnepr Mogilev
+  19.45  Neman Grodno             1-0 (0-0)  FK Slaviya Mozyr
+  14.00  Naftan Novopolotsk       1-1 (1-0)  Torpedo-BelAZ Zhodino
 
 
 Matchday 24
 [Fri Oct/4]
-  Arsenal Dzerzhinsk       -  Neman Grodno
-  Dnepr Mogilev            -  Naftan Novopolotsk
-  Dinamo Brest             -  FK Slutsk
-  FK Isloch Minsk          -  FK Smorgon
-  FK Vitebsk               -  FK Minsk
-  Shakhter Soligorsk       -  Dinamo Minsk
-  FK Slaviya Mozyr         -  BATE Borisov
-  Torpedo-BelAZ Zhodino    -  FK Gomel
+  18.00  Dinamo Brest             1-2 (0-2)  FK Slutsk
+  20.00  FK Vitebsk               2-1 (1-0)  FK Minsk
+[Sat Oct/5]
+  21.00  FK Slaviya Mozyr         2-3 (0-2)  BATE Borisov
+  14.00  FK Isloch Minsk          3-2 (2-0)  FK Smorgon
+  17.00  Torpedo-BelAZ Zhodino    2-2 (1-1)  FK Gomel
+[Sun Oct/6]
+  20.00  Shakhter Soligorsk       -  Dinamo Minsk
+  17.00  Dnepr Mogilev            -  Naftan Novopolotsk
+  15.00  Arsenal Dzerzhinsk       0-4 (0-3)  Neman Grodno
+
+
+Matchday 18
+[Sun Oct/13]
+  15.00  Naftan Novopolotsk       -  Dinamo Minsk
 
 
 Matchday 25
 [Sat Oct/19]
-  Neman Grodno             -  FK Slutsk
-  BATE Borisov             -  Arsenal Dzerzhinsk
-  Dinamo Minsk             -  FK Slaviya Mozyr
-  FK Minsk                 -  FK Isloch Minsk
-  FK Smorgon               -  Shakhter Soligorsk
-  FK Gomel                 -  Dnepr Mogilev
-  Naftan Novopolotsk       -  FK Vitebsk
-  Torpedo-BelAZ Zhodino    -  Dinamo Brest
+  21.00  Dinamo Minsk             -  FK Slaviya Mozyr
+  13.00  FK Smorgon               -  Shakhter Soligorsk
+  15.00  Naftan Novopolotsk       -  FK Vitebsk
+  17.00  Neman Grodno             -  FK Slutsk
+[Sun Oct/20]
+  13.00  BATE Borisov             -  Arsenal Dzerzhinsk
+  15.00  FK Minsk                 -  FK Isloch Minsk
+  17.00  FK Gomel                 -  Dnepr Mogilev
+  20.00  Torpedo-BelAZ Zhodino    -  Dinamo Brest
 
 
 Matchday 26
+[Fri Oct/25]
+  19.00  FK Slaviya Mozyr         -  FK Smorgon
 [Sat Oct/26]
-  FK Isloch Minsk          -  Naftan Novopolotsk
-  Dinamo Minsk             -  Arsenal Dzerzhinsk
-  Dnepr Mogilev            -  Torpedo-BelAZ Zhodino
-  Dinamo Brest             -  Neman Grodno
-  Shakhter Soligorsk       -  FK Minsk
-  FK Slutsk                -  BATE Borisov
-  FK Vitebsk               -  FK Gomel
-  FK Slaviya Mozyr         -  FK Smorgon
+  15.00  FK Slutsk                -  BATE Borisov
+  17.00  Dinamo Brest             -  Neman Grodno
+  21.00  Dnepr Mogilev            -  Torpedo-BelAZ Zhodino
+[Sun Oct/27]
+  18.00  Shakhter Soligorsk       -  FK Minsk
+  14.00  FK Isloch Minsk          -  Naftan Novopolotsk
+  16.00  FK Vitebsk               -  FK Gomel
+[Tue Oct/29]
+  19.00  Dinamo Minsk             -  Arsenal Dzerzhinsk
 
 
 Matchday 27
 [Sat Nov/2]
-  FK Minsk                 -  FK Slaviya Mozyr
+  Torpedo-BelAZ Zhodino    -  FK Vitebsk
   BATE Borisov             -  Neman Grodno
   Dinamo Minsk             -  FK Slutsk
   Dnepr Mogilev            -  Dinamo Brest
-  Torpedo-BelAZ Zhodino    -  FK Vitebsk
+  FK Minsk                 -  FK Slaviya Mozyr
   FK Gomel                 -  FK Isloch Minsk
   Naftan Novopolotsk       -  Shakhter Soligorsk
   FK Smorgon               -  Arsenal Dzerzhinsk
@@ -411,6 +422,7 @@ Matchday 16
 
 Matchday 29
 [Sat Nov/23]
+  Dinamo Minsk             -  BATE Borisov
   Dnepr Mogilev            -  FK Isloch Minsk
   FK Minsk                 -  FK Slutsk
   FK Vitebsk               -  Dinamo Brest
@@ -418,12 +430,10 @@ Matchday 29
   Naftan Novopolotsk       -  Arsenal Dzerzhinsk
   FK Smorgon               -  Neman Grodno
   Torpedo-BelAZ Zhodino    -  Shakhter Soligorsk
-  Dinamo Minsk             -  BATE Borisov
 
 
 Matchday 30
 [Sat Nov/30]
-  Arsenal Dzerzhinsk       -  FK Gomel
   BATE Borisov             -  FK Smorgon
   Dinamo Brest             -  Dinamo Minsk
   FK Isloch Minsk          -  FK Vitebsk
@@ -431,3 +441,4 @@ Matchday 30
   FK Slutsk                -  Naftan Novopolotsk
   Shakhter Soligorsk       -  Dnepr Mogilev
   FK Slaviya Mozyr         -  Torpedo-BelAZ Zhodino
+  Arsenal Dzerzhinsk       -  FK Gomel

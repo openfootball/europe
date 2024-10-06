@@ -63,31 +63,31 @@ Matchday 5
   20.30  St. Patrick FC           3-3 (1-1)  Naxxar Lions FC
   18.00  Floriana FC              1-1 (0-0)  Hibernians FC
 [Mon Sep/23]
-  20.15  Marsaxlokk FC            -  Mosta FC
-  18.00  Melita FC                -  Birkirkara FC
+  20.15  Marsaxlokk FC            2-4 (2-1)  Mosta FC
+  18.00  Melita FC                0-3 (0-1)  Birkirkara FC
 
 
 Matchday 6
 [Fri Sep/27]
-  20.30  Naxxar Lions FC          -  Hamrun Spartans
-  18.00  Floriana FC              -  Gżira United
+  20.30  Naxxar Lions FC          0-6 (0-4)  Hamrun Spartans
+  18.00  Floriana FC              2-1 (2-1)  Gżira United
 [Sat Sep/28]
-  18.00  St. Patrick FC           -  Hibernians FC
-  20.15  Marsaxlokk FC            -  Balzan FC
+  18.00  St. Patrick FC           1-2 (1-0)  Hibernians FC
+  20.15  Marsaxlokk FC            2-1 (1-1)  Balzan FC
 [Sun Sep/29]
-  20.15  Sliema Wanderers         -  Melita FC
-  18.00  Mosta FC                 -  Birkirkara FC
+  20.30  Sliema Wanderers         2-2 (1-0)  Melita FC
+  18.00  Mosta FC                 0-1 (0-0)  Birkirkara FC
 
 
 Matchday 7
 [Wed Oct/2]
-  20.30  St. Patrick FC           -  Marsaxlokk FC
-  18.00  Hamrun Spartans          -  Hibernians FC
+  20.30  St. Patrick FC           1-3 (1-2)  Marsaxlokk FC
+  18.00  Hamrun Spartans          0-2 (0-1)  Hibernians FC
 [Thu Oct/3]
-  18.00  Naxxar Lions FC          -  Melita FC
-  20.15  Birkirkara FC            -  Sliema Wanderers
-         Balzan FC                -  Gżira United
-  18.00  Mosta FC                 -  Floriana FC
+  18.00  Naxxar Lions FC          0-0  Melita FC
+  20.15  Balzan FC                2-1 (1-0)  Gżira United
+  20.30  Birkirkara FC            1-0 (0-0)  Sliema Wanderers
+  18.00  Mosta FC                 0-2 (0-0)  Floriana FC
 
 
 Matchday 8

@@ -320,34 +320,34 @@ Matchday 29
 
 Matchday 23
 [Wed Sep/25]
-  17.00  JK Nõmme Kalju           -  FC Flora
-         Paide Linnameeskond      -  JK Narva Trans
+  17.00  JK Nõmme Kalju           3-0 (1-0)  FC Flora
+         Paide Linnameeskond      2-3 (1-2)  JK Narva Trans
 
 
 Matchday 30
 [Fri Sep/27]
-  19.00  FCI Levadia              -  JK Tallinna Kalev
+  19.00  FCI Levadia              4-0 (3-0)  JK Tallinna Kalev
 [Sat Sep/28]
-  14.30  FC Kuressaare            -  Nõmme United
+  14.30  FC Kuressaare            4-1 (0-0)  Nõmme United
 [Sun Sep/29]
-  14.30  FC Flora                 -  Pärnu JK Vaprus
-  17.00  JK Narva Trans           -  Paide Linnameeskond
-  19.00  JK Tammeka               -  JK Nõmme Kalju
+  14.30  FC Flora                 3-0 (2-0)  Pärnu JK Vaprus
+  17.00  JK Narva Trans           0-3 (0-0)  Paide Linnameeskond
+  19.00  JK Tammeka               2-3 (1-3)  JK Nõmme Kalju
 
 
 Matchday 27
 [Wed Oct/2]
-  18.00  FCI Levadia              -  JK Narva Trans
+  18.00  FCI Levadia              0-0  JK Narva Trans
 
 
 Matchday 31
 [Sat Oct/5]
-  12.30  Nõmme United             -  FC Flora
-  14.30  JK Narva Trans           -  FCI Levadia
-  17.00  JK Tallinna Kalev        -  JK Tammeka
+  12.30  Nõmme United             0-4 (0-1)  FC Flora
+  14.30  JK Narva Trans           0-2 (0-2)  FCI Levadia
+  17.00  JK Tallinna Kalev        1-2 (0-1)  JK Tammeka
 [Sun Oct/6]
   17.00  Pärnu JK Vaprus          -  FC Kuressaare
-  14.30  Paide Linnameeskond      -  JK Nõmme Kalju
+  14.30  Paide Linnameeskond      1-1 (1-0)  JK Nõmme Kalju
 
 
 Matchday 32
@@ -365,19 +365,19 @@ Matchday 33
   18.00  JK Tammeka               -  FC Kuressaare
          FCI Levadia              -  Nõmme United
 [Wed Oct/23]
+  18.00  Pärnu JK Vaprus          -  Paide Linnameeskond
+  19.00  FC Flora                 -  JK Nõmme Kalju
   18.00  JK Tallinna Kalev        -  JK Narva Trans
-  19.00  Pärnu JK Vaprus          -  Paide Linnameeskond
-  18.00  FC Flora                 -  JK Nõmme Kalju
 
 
 Matchday 34
 [Sat Oct/26]
-  14.30  JK Narva Trans           -  Pärnu JK Vaprus
+  14.30  Paide Linnameeskond      -  JK Tammeka
   17.00  JK Tallinna Kalev        -  Nõmme United
   12.30  FC Flora                 -  FC Kuressaare
 [Sun Oct/27]
   14.30  JK Nõmme Kalju           -  FCI Levadia
-  12.30  Paide Linnameeskond      -  JK Tammeka
+  12.30  JK Narva Trans           -  Pärnu JK Vaprus
 
 
 Matchday 35

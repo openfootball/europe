@@ -87,23 +87,23 @@ Matchday 7
 
 Matchday 8
 [Fri Sep/27]
-  20.00  Újpest FC                -  Győri ETO FC
+  20.00  Újpest FC                0-0  Győri ETO FC
 [Sat Sep/28]
-  17.00  Kecskeméti TE            -  Nyíregyháza Spartacus
-  19.30  Debreceni VSC            -  MTK Budapest
-  15.00  Diósgyöri VTK            -  Zalaegerszegi TE
+  17.00  Kecskeméti TE            0-2 (0-2)  Nyíregyháza Spartacus
+  19.30  Debreceni VSC            2-3 (1-1)  MTK Budapest
+  15.00  Diósgyöri VTK            2-1 (1-0)  Zalaegerszegi TE
 [Sun Sep/29]
-  18.00  Ferencvárosi TC          -  Puskás FC
-  15.30  Fehérvár FC              -  Paksi SE
+  18.00  Ferencvárosi TC          3-0 (0-0)  Puskás FC
+  15.30  Fehérvár FC              1-2 (1-0)  Paksi SE
 
 
 Matchday 9
 [Fri Oct/4]
-  20.00  Puskás FC                -  Debreceni VSC
+  20.00  Puskás FC                1-0 (0-0)  Debreceni VSC
 [Sat Oct/5]
-  19.30  Nyíregyháza Spartacus    -  Diósgyöri VTK
-  17.00  MTK Budapest             -  Kecskeméti TE
-  14.30  Győri ETO FC             -  Fehérvár FC
+  17.00  MTK Budapest             3-1 (2-1)  Kecskeméti TE
+  19.30  Nyíregyháza Spartacus    0-2 (0-1)  Diósgyöri VTK
+  14.30  Győri ETO FC             3-1 (2-1)  Fehérvár FC
 [Sun Oct/6]
   15.30  Zalaegerszegi TE         -  Újpest FC
   18.00  Paksi SE                 -  Ferencvárosi TC
@@ -111,22 +111,24 @@ Matchday 9
 
 Matchday 10
 [Sat Oct/19]
-  Újpest FC                -  Nyíregyháza Spartacus
-  Diósgyöri VTK            -  MTK Budapest
-  Kecskeméti TE            -  Puskás FC
-  Ferencvárosi TC          -  Fehérvár FC
-  Debreceni VSC            -  Paksi SE
-  Zalaegerszegi TE         -  Győri ETO FC
+  17.30  Diósgyöri VTK            -  MTK Budapest
+  15.00  Debreceni VSC            -  Paksi SE
+  19.30  Újpest FC                -  Nyíregyháza Spartacus
+[Sun Oct/20]
+  15.15  Zalaegerszegi TE         -  Győri ETO FC
+  17.45  Ferencvárosi TC          -  Fehérvár FC
+  13.00  Kecskeméti TE            -  Puskás FC
 
 
 Matchday 11
 [Sat Oct/26]
-  Nyíregyháza Spartacus    -  Zalaegerszegi TE
-  Paksi SE                 -  Kecskeméti TE
-  MTK Budapest             -  Újpest FC
-  Puskás FC                -  Diósgyöri VTK
-  Fehérvár FC              -  Debreceni VSC
-  Győri ETO FC             -  Ferencvárosi TC
+  14.45  Puskás FC                -  Diósgyöri VTK
+  20.45  MTK Budapest             -  Újpest FC
+  17.15  Fehérvár FC              -  Debreceni VSC
+[Sun Oct/27]
+  13.00  Nyíregyháza Spartacus    -  Zalaegerszegi TE
+  17.45  Győri ETO FC             -  Ferencvárosi TC
+  15.15  Paksi SE                 -  Kecskeméti TE
 
 
 Matchday 12

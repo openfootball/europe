@@ -60,28 +60,29 @@ Matchday 4
          APOEL Nikosia            3-1 (2-0)  Nea Salamina
          AEK Larnaca              2-2 (0-1)  Ethnikos Achna
 [Mon Sep/23]
-  19.00  Enosis Neon Paralimni    -  Omonia Aradippou
+  19.00  Enosis Neon Paralimni    0-2 (0-2)  Omonia Aradippou
 
 
 Matchday 5
 [Fri Sep/27]
-  19.00  Nea Salamina             -  AEK Larnaca
-         Omonia Nikosia           -  AEL Limassol
+  19.00  Nea Salamina             1-3 (0-1)  AEK Larnaca
+         Omonia Nikosia           3-1 (1-1)  AEL Limassol
 [Sat Sep/28]
-  Omonia 29is Maiou        -  APOEL Nikosia
-  Apollon Limassol         -  Enosis Neon Paralimni
-  Paphos FC                -  Aris Limassol
-  19.00  Omonia Aradippou         -  Karmiotissa Polemidion
-         Ethnikos Achna           -  Anorthosis Famagusta
+  19.00  Ethnikos Achna           2-2 (1-0)  Anorthosis Famagusta
+         Omonia Aradippou         1-1 (0-1)  Karmiotissa Polemidion
+[Sun Sep/29]
+  19.00  Omonia 29is Maiou        0-0  APOEL Nikosia
+         Apollon Limassol         3-1 (0-0)  Enosis Neon Paralimni
+         Paphos FC                1-1 (1-1)  Aris Limassol
 
 
 Matchday 6
 [Fri Oct/4]
-  19.00  Karmiotissa Polemidion   -  Apollon Limassol
+  19.00  Karmiotissa Polemidion   2-0 (1-0)  Apollon Limassol
 [Sat Oct/5]
-  19.00  Anorthosis Famagusta     -  Nea Salamina
-         AEL Limassol             -  Ethnikos Achna
-  18.00  Omonia 29is Maiou        -  Omonia Aradippou
+  19.00  Anorthosis Famagusta     3-1 (3-0)  Nea Salamina
+         AEL Limassol             5-2 (2-1)  Ethnikos Achna
+  18.00  Omonia 29is Maiou        1-2 (1-2)  Omonia Aradippou
 [Sun Oct/6]
   19.00  Aris Limassol            -  Omonia Nikosia
   20.00  APOEL Nikosia            -  AEK Larnaca
@@ -90,24 +91,24 @@ Matchday 6
 
 Matchday 7
 [Sat Oct/19]
-  Omonia Aradippou         -  APOEL Nikosia
   Apollon Limassol         -  Omonia 29is Maiou
-  Paphos FC                -  Karmiotissa Polemidion
-  Omonia Nikosia           -  Enosis Neon Paralimni
   Ethnikos Achna           -  Aris Limassol
   Nea Salamina             -  AEL Limassol
   AEK Larnaca              -  Anorthosis Famagusta
+  18.00  Omonia Aradippou         -  APOEL Nikosia
+  19.00  Paphos FC                -  Karmiotissa Polemidion
+         Omonia Nikosia           -  Enosis Neon Paralimni
 
 
 Matchday 8
 [Sat Oct/26]
-  Karmiotissa Polemidion   -  Omonia Nikosia
   Omonia 29is Maiou        -  Paphos FC
   Omonia Aradippou         -  Apollon Limassol
   AEL Limassol             -  AEK Larnaca
-  Aris Limassol            -  Nea Salamina
   APOEL Nikosia            -  Anorthosis Famagusta
-  Enosis Neon Paralimni    -  Ethnikos Achna
+  17.00  Enosis Neon Paralimni    -  Ethnikos Achna
+  19.00  Aris Limassol            -  Nea Salamina
+  Karmiotissa Polemidion   -  Omonia Nikosia
 
 
 Matchday 9

@@ -68,32 +68,32 @@ Matchday 6
 
 Matchday 7
 [Wed Sep/25]
-  15.00  FK Pelister              -  FK Rabotnički
-         KF Shkupi                -  KF Besa Dobërdoll
-         FK Voska Sport           -  FC Struga
-         KF Gostivari             -  KF Shkëndija 79
-         Vardar Skopje            -  Sileks Kratovo
-         FK AP Brera Strumica     -  GFK Tikvesh
+  15.00  FK Pelister              0-0  FK Rabotnički
+         KF Shkupi                1-1 (1-0)  KF Besa Dobërdoll
+         FK Voska Sport           1-1 (0-0)  FC Struga
+         KF Gostivari             3-1 (1-0)  KF Shkëndija 79
+  20.00  Vardar Skopje            0-1 (0-0)  Sileks Kratovo
+  15.00  FK AP Brera Strumica     0-0  GFK Tikvesh
 
 
 Matchday 8
 [Sun Sep/29]
-  14.00  GFK Tikvesh              -  Sileks Kratovo
-         KF Shkëndija 79          -  Vardar Skopje
-         FC Struga                -  KF Gostivari
-         KF Besa Dobërdoll        -  FK Voska Sport
-         FK Rabotnički            -  KF Shkupi
-         FK AP Brera Strumica     -  FK Pelister
+  14.00  GFK Tikvesh              0-0  Sileks Kratovo
+         KF Shkëndija 79          4-0 (3-0)  Vardar Skopje
+         FC Struga                2-2 (2-1)  KF Gostivari
+         KF Besa Dobërdoll        1-0 (1-0)  FK Voska Sport
+         FK Rabotnički            2-1 (1-0)  KF Shkupi
+         FK AP Brera Strumica     4-0 (1-0)  FK Pelister
 
 
 Matchday 9
 [Sat Oct/5]
-  14.00  FK Pelister              -  GFK Tikvesh
-         KF Shkupi                -  FK AP Brera Strumica
-         FK Voska Sport           -  FK Rabotnički
-         KF Gostivari             -  KF Besa Dobërdoll
-         Vardar Skopje            -  FC Struga
-         Sileks Kratovo           -  KF Shkëndija 79
+  14.00  FK Pelister              0-0  GFK Tikvesh
+         KF Shkupi                3-1 (2-1)  FK AP Brera Strumica
+         FK Voska Sport           0-2 (0-1)  FK Rabotnički
+         KF Gostivari             1-1 (0-0)  KF Besa Dobërdoll
+         Vardar Skopje            1-4 (1-2)  FC Struga
+         Sileks Kratovo           0-0  KF Shkëndija 79
 
 
 Matchday 10

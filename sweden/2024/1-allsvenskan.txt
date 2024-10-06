@@ -338,49 +338,49 @@ Matchday 23
          IF Elfsborg              0-0  Hammarby IF
          GAIS Göteborg            3-0 (1-0)  Djurgårdens IF
 [Mon Sep/23]
-  19.00  IFK Göteborg             -  Halmstads BK
+  19.00  IFK Göteborg             1-1 (0-0)  Halmstads BK
 
 
 Matchday 24
 [Wed Sep/25]
-  19.00  Djurgårdens IF           -  IF Brommapojkarna
-         IK Sirius                -  AIK Solna
-         Mjällby AIF              -  IFK Värnamo
+  19.00  Djurgårdens IF           2-1 (1-0)  IF Brommapojkarna
+         IK Sirius                0-1 (0-0)  AIK Solna
+         Mjällby AIF              1-1 (0-1)  IFK Värnamo
 [Thu Sep/26]
-  19.00  Halmstads BK             -  Kalmar FF
-         Hammarby IF              -  BK Häcken
-         Västerås SK              -  IFK Göteborg
+  19.00  Halmstads BK             2-2 (1-2)  Kalmar FF
+         Hammarby IF              2-0 (1-0)  BK Häcken
+         Västerås SK              1-1 (0-1)  IFK Göteborg
 
 
 Matchday 25
 [Sun Sep/29]
-  14.00  AIK Solna                -  Hammarby IF
-  16.30  Kalmar FF                -  IF Elfsborg
-  14.00  Halmstads BK             -  IFK Norrköping
-         IFK Värnamo              -  Djurgårdens IF
-  16.30  BK Häcken                -  IK Sirius
-         Malmö FF                 -  Mjällby AIF
+  14.00  AIK Solna                1-0 (0-0)  Hammarby IF
+  16.30  Kalmar FF                1-3 (1-2)  IF Elfsborg
+  14.00  Halmstads BK             0-0  IFK Norrköping
+         IFK Värnamo              1-1 (0-0)  Djurgårdens IF
+  16.30  BK Häcken                2-0 (0-0)  IK Sirius
+         Malmö FF                 2-0 (2-0)  Mjällby AIF
 [Mon Sep/30]
-  19.10  IFK Göteborg             -  GAIS Göteborg
-  19.00  IF Brommapojkarna        -  Västerås SK
+  19.10  IFK Göteborg             2-0 (1-0)  GAIS Göteborg
+  19.00  IF Brommapojkarna        2-1 (0-0)  Västerås SK
 
 
 Matchday 23
 [Thu Oct/3]
-  19.00  IFK Norrköping           -  IK Sirius
+  19.00  IFK Norrköping           0-2 (0-1)  IK Sirius
 
 
 Matchday 26
 [Sat Oct/5]
-  15.00  Mjällby AIF              -  Västerås SK
-  17.30  IF Brommapojkarna        -  GAIS Göteborg
-  15.00  Hammarby IF              -  Halmstads BK
+  15.00  Mjällby AIF              2-1 (1-1)  Västerås SK
+  17.30  IF Brommapojkarna        2-0 (0-0)  GAIS Göteborg
+  15.00  Hammarby IF              1-0 (0-0)  Halmstads BK
 [Sun Oct/6]
-  14.00  Djurgårdens IF           -  Kalmar FF
+  14.00  Djurgårdens IF           1-1 (0-1)  Kalmar FF
   16.30  IFK Norrköping           -  IFK Göteborg
          IK Sirius                -  IF Elfsborg
          Malmö FF                 -  IFK Värnamo
-  14.00  AIK Solna                -  BK Häcken
+  14.00  AIK Solna                0-2 (0-0)  BK Häcken
 
 
 Matchday 27
