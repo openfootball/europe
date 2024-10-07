@@ -114,17 +114,17 @@ Matchday 7
 
 Matchday 8
 [Fri Oct/4]
-  20.00  Almere City FC           -  Willem II Tilburg
+  20.00  Almere City FC           0-1 (0-0)  Willem II Tilburg
 [Sat Oct/5]
-  18.45  NAC Breda                -  NEC
-  20.00  PSV                      -  Sparta Rotterdam
-  21.00  FC Utrecht               -  RKC Waalwijk
+  18.45  NAC Breda                1-0 (0-0)  NEC
+  20.00  PSV                      2-1 (2-1)  Sparta Rotterdam
+  21.00  FC Utrecht               3-2 (1-1)  RKC Waalwijk
 [Sun Oct/6]
-  12.15  Go Ahead Eagles          -  Heracles Almelo
-  14.30  SC Heerenveen            -  PEC Zwolle
-         Feyenoord Rotterdam      -  FC Twente '65
-  16.45  AFC Ajax                 -  FC Groningen
-  20.00  Fortuna Sittard          -  AZ
+  12.15  Go Ahead Eagles          4-1 (0-1)  Heracles Almelo
+  14.30  SC Heerenveen            1-1 (1-1)  PEC Zwolle
+         Feyenoord Rotterdam      2-1 (2-0)  FC Twente '65
+  16.45  AFC Ajax                 3-1 (1-0)  FC Groningen
+  20.00  Fortuna Sittard          1-0 (0-0)  AZ
 
 
 Matchday 9

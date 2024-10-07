@@ -98,17 +98,17 @@ Matchday 6
 
 Matchday 7
 [Fri Oct/4]
-  20.45  Olympique de Marseille   -  Angers SCO
+  20.45  Olympique de Marseille   1-1 (0-0)  Angers SCO
 [Sat Oct/5]
-  17.00  AS Saint-Étienne         -  AJ Auxerre
-  19.00  Lille OSC                -  Toulouse FC
-  21.00  Stade Rennais FC 1901    -  AS Monaco FC
+  17.00  AS Saint-Étienne         3-1 (1-0)  AJ Auxerre
+  19.00  Lille OSC                2-1 (0-1)  Toulouse FC
+  21.00  Stade Rennais FC 1901    1-2 (1-2)  AS Monaco FC
 [Sun Oct/6]
-  15.00  Olympique Lyonnais       -  FC Nantes
-  17.00  Stade Brestois 29        -  Le Havre AC
-         RC Strasbourg Alsace     -  Racing Club de Lens
-         Stade de Reims           -  Montpellier HSC
-  20.45  OGC Nice                 -  Paris Saint-Germain FC
+  15.00  Olympique Lyonnais       2-0 (1-0)  FC Nantes
+  17.00  Stade Brestois 29        2-0 (1-0)  Le Havre AC
+         RC Strasbourg Alsace     2-2 (1-2)  Racing Club de Lens
+         Stade de Reims           4-2 (2-1)  Montpellier HSC
+  20.45  OGC Nice                 1-1 (1-0)  Paris Saint-Germain FC
 
 
 Matchday 8
@@ -142,16 +142,18 @@ Matchday 9
 
 
 Matchday 10
+[Fri Nov/1]
+  19.00  AS Monaco FC             -  Angers SCO
+  21.00  Lille OSC                -  Olympique Lyonnais
+[Sat Nov/2]
+  17.00  Paris Saint-Germain FC   -  Racing Club de Lens
+  19.00  Stade Brestois 29        -  OGC Nice
+  21.00  AS Saint-Étienne         -  RC Strasbourg Alsace
 [Sun Nov/3]
-  AJ Auxerre               -  Stade Rennais FC 1901
-  Toulouse FC              -  Stade de Reims
-  AS Monaco FC             -  Angers SCO
-  Le Havre AC              -  Montpellier HSC
-  FC Nantes                -  Olympique de Marseille
-  Lille OSC                -  Olympique Lyonnais
-  AS Saint-Étienne         -  RC Strasbourg Alsace
-  Stade Brestois 29        -  OGC Nice
-  Paris Saint-Germain FC   -  Racing Club de Lens
+  15.00  Toulouse FC              -  Stade de Reims
+  17.00  AJ Auxerre               -  Stade Rennais FC 1901
+         Le Havre AC              -  Montpellier HSC
+  20.45  FC Nantes                -  Olympique de Marseille
 
 
 Matchday 11
