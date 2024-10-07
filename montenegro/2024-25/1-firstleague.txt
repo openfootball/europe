@@ -107,11 +107,11 @@ Matchday 10
 
 Matchday 11
 [Sun Oct/6]
-  18.00  FK Otrant Ulcinj         -  OFK Petrovac
-  19.00  FK Bokelj                -  Jedinstvo Bijelo Polje
-         FK Arsenal               -  FK Dečić Tuzi
-         FK Sutjeska              -  FK Budućnost Podgorica
-  18.00  FK Mornar                -  FK Jezero
+  16.00  FK Bokelj                1-2 (0-2)  Jedinstvo Bijelo Polje
+  18.00  FK Mornar                2-0 (2-0)  FK Jezero
+         FK Otrant Ulcinj         0-1 (0-0)  OFK Petrovac
+  19.00  FK Sutjeska              0-1 (0-1)  FK Budućnost Podgorica
+  15.00  FK Arsenal               0-0  FK Dečić Tuzi
 
 
 Matchday 12

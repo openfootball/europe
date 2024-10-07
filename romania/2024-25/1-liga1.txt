@@ -139,64 +139,54 @@ Matchday 9
   21.00  Rapid Bucureşti          0-2 (0-1)  Universitatea Cluj
 
 
-Matchday 6
-[Wed Sep/18]
-  Oţelul Galaţi            -  CFR Cluj
-
-
-Matchday 4
-[Wed Sep/18]
-  FC Botoşani              -  FCSB
-
-
 Matchday 10
 [Fri Sep/20]
-  21.00  Oţelul Galaţi            1-1 (1-1)  Dinamo Bucureşti
   18.00  FC Botoşani              3-3 (0-1)  Gloria Buzău
+  21.00  Oţelul Galaţi            1-1 (1-1)  Dinamo Bucureşti
 [Sat Sep/21]
-  18.30  FC Hermannstadt          0-0  CFR Cluj
   21.30  FCSB                     1-1 (1-0)  Petrolul Ploieşti
+  18.30  FC Hermannstadt          0-0  CFR Cluj
 [Sun Sep/22]
-  21.30  Universitatea Cluj       1-1 (1-0)  CS Universitatea Craiova
   16.00  Farul Constanța          2-1 (1-0)  Sepsi OSK
+  21.30  Universitatea Cluj       1-1 (1-0)  CS Universitatea Craiova
 [Mon Sep/23]
-  21.00  Unirea Slobozia          1-2 (1-1)  Rapid Bucureşti
   18.00  UTA Arad                 0-0  FC Politehnica Iași
+  21.00  Unirea Slobozia          1-2 (1-1)  Rapid Bucureşti
 
 
 Matchday 11
 [Fri Sep/27]
-  21.00  Dinamo Bucureşti         2-2 (1-0)  FC Botoşani
   18.00  Petrolul Ploieşti        4-1 (3-0)  FC Hermannstadt
+  21.00  Dinamo Bucureşti         2-2 (1-0)  FC Botoşani
 [Sat Sep/28]
-  16.45  FC Politehnica Iași      1-0 (0-0)  Universitatea Cluj
-  19.00  CFR Cluj                 1-3 (0-1)  UTA Arad
   21.30  Rapid Bucureşti          0-0  Oţelul Galaţi
+  19.00  CFR Cluj                 1-3 (0-1)  UTA Arad
+  16.45  FC Politehnica Iași      1-0 (0-0)  Universitatea Cluj
 [Sun Sep/29]
-  21.30  Sepsi OSK                0-1 (0-1)  FCSB
   16.00  Gloria Buzău             1-0 (0-0)  Farul Constanța
+  21.30  Sepsi OSK                0-1 (0-1)  FCSB
 [Mon Sep/30]
   21.00  CS Universitatea Craiova  3-0 (2-0)  Unirea Slobozia
 
 
 Matchday 12
 [Fri Oct/4]
-  21.00  Farul Constanța          1-1 (0-1)  Dinamo Bucureşti
   18.00  UTA Arad                 3-1 (2-0)  Petrolul Ploieşti
+  21.00  Farul Constanța          1-1 (0-1)  Dinamo Bucureşti
 [Sat Oct/5]
   16.45  Unirea Slobozia          2-2 (2-0)  Universitatea Cluj
-  19.00  CFR Cluj                 2-1 (2-0)  FC Politehnica Iași
   21.30  Oţelul Galaţi            1-1 (1-1)  CS Universitatea Craiova
+  19.00  CFR Cluj                 2-1 (2-0)  FC Politehnica Iași
 [Sun Oct/6]
-  18.15  FC Botoşani              -  Rapid Bucureşti
-  21.00  FCSB                     -  Gloria Buzău
+  18.15  FC Botoşani              2-0 (0-0)  Rapid Bucureşti
   13.30  FC Hermannstadt          0-4 (0-2)  Sepsi OSK
+  21.00  FCSB                     3-2 (1-1)  Gloria Buzău
 
 
 Matchday 13
 [Fri Oct/18]
-  21.00  Universitatea Cluj       -  Oţelul Galaţi
   18.00  Gloria Buzău             -  FC Hermannstadt
+  21.00  Universitatea Cluj       -  Oţelul Galaţi
 [Sat Oct/19]
   18.15  Sepsi OSK                -  UTA Arad
   21.00  Petrolul Ploieşti        -  CFR Cluj
@@ -204,48 +194,59 @@ Matchday 13
   21.00  Dinamo Bucureşti         -  FCSB
   16.00  CS Universitatea Craiova  -  FC Botoşani
 [Mon Oct/21]
-  21.00  Rapid Bucureşti          -  Farul Constanța
   18.30  FC Politehnica Iași      -  Unirea Slobozia
+  21.00  Rapid Bucureşti          -  Farul Constanța
 
 
 Matchday 14
 [Sat Oct/26]
+  Petrolul Ploieşti        -  FC Politehnica Iași
+  Oţelul Galaţi            -  Unirea Slobozia
   CFR Cluj                 -  Sepsi OSK
   UTA Arad                 -  Gloria Buzău
   FC Hermannstadt          -  Dinamo Bucureşti
   FCSB                     -  Rapid Bucureşti
   Farul Constanța          -  CS Universitatea Craiova
   FC Botoşani              -  Universitatea Cluj
-  Oţelul Galaţi            -  Unirea Slobozia
-  Petrolul Ploieşti        -  FC Politehnica Iași
 
 
 Matchday 15
 [Sat Nov/2]
+  FC Politehnica Iași      -  Oţelul Galaţi
+  Unirea Slobozia          -  FC Botoşani
+  Sepsi OSK                -  Petrolul Ploieşti
   Gloria Buzău             -  CFR Cluj
   Dinamo Bucureşti         -  UTA Arad
   Rapid Bucureşti          -  FC Hermannstadt
   CS Universitatea Craiova  -  FCSB
   Universitatea Cluj       -  Farul Constanța
-  Unirea Slobozia          -  FC Botoşani
-  FC Politehnica Iași      -  Oţelul Galaţi
-  Sepsi OSK                -  Petrolul Ploieşti
 
 
 Matchday 16
 [Sat Nov/9]
+  Unirea Slobozia          -  Farul Constanța
+  Oţelul Galaţi            -  FC Botoşani
   FC Politehnica Iași      -  Sepsi OSK
   Gloria Buzău             -  Petrolul Ploieşti
   Dinamo Bucureşti         -  CFR Cluj
   Rapid Bucureşti          -  UTA Arad
   CS Universitatea Craiova  -  FC Hermannstadt
   Universitatea Cluj       -  FCSB
-  Unirea Slobozia          -  Farul Constanța
-  Oţelul Galaţi            -  FC Botoşani
+
+
+Matchday 6
+[Mon Nov/11]
+  Oţelul Galaţi            -  CFR Cluj
+
+
+Matchday 4
+[Thu Nov/21]
+  FC Botoşani              -  FCSB
 
 
 Matchday 17
 [Sat Nov/23]
+  Sepsi OSK                -  Gloria Buzău
   Petrolul Ploieşti        -  Dinamo Bucureşti
   CFR Cluj                 -  Rapid Bucureşti
   UTA Arad                 -  CS Universitatea Craiova
@@ -253,12 +254,10 @@ Matchday 17
   FCSB                     -  Unirea Slobozia
   Farul Constanța          -  Oţelul Galaţi
   FC Botoşani              -  FC Politehnica Iași
-  Sepsi OSK                -  Gloria Buzău
 
 
 Matchday 18
 [Sat Nov/30]
-  Dinamo Bucureşti         -  Sepsi OSK
   Rapid Bucureşti          -  Petrolul Ploieşti
   CS Universitatea Craiova  -  CFR Cluj
   Universitatea Cluj       -  UTA Arad
@@ -266,10 +265,12 @@ Matchday 18
   Oţelul Galaţi            -  FCSB
   FC Botoşani              -  Farul Constanța
   Gloria Buzău             -  FC Politehnica Iași
+  Dinamo Bucureşti         -  Sepsi OSK
 
 
 Matchday 19
 [Sat Dec/7]
+  Sepsi OSK                -  Rapid Bucureşti
   Petrolul Ploieşti        -  CS Universitatea Craiova
   CFR Cluj                 -  Universitatea Cluj
   UTA Arad                 -  Unirea Slobozia
@@ -277,12 +278,10 @@ Matchday 19
   FCSB                     -  FC Botoşani
   Gloria Buzău             -  Dinamo Bucureşti
   FC Politehnica Iași      -  Farul Constanța
-  Sepsi OSK                -  Rapid Bucureşti
 
 
 Matchday 20
 [Sat Dec/14]
-  CS Universitatea Craiova  -  Sepsi OSK
   Universitatea Cluj       -  Petrolul Ploieşti
   Unirea Slobozia          -  CFR Cluj
   Oţelul Galaţi            -  UTA Arad
@@ -290,10 +289,12 @@ Matchday 20
   Rapid Bucureşti          -  Gloria Buzău
   Farul Constanța          -  FCSB
   Dinamo Bucureşti         -  FC Politehnica Iași
+  CS Universitatea Craiova  -  Sepsi OSK
 
 
 Matchday 21
 [Sat Dec/21]
+  Sepsi OSK                -  Universitatea Cluj
   Petrolul Ploieşti        -  Unirea Slobozia
   CFR Cluj                 -  Oţelul Galaţi
   UTA Arad                 -  FC Botoşani
@@ -301,12 +302,10 @@ Matchday 21
   FC Hermannstadt          -  Farul Constanța
   Dinamo Bucureşti         -  Rapid Bucureşti
   FC Politehnica Iași      -  FCSB
-  Sepsi OSK                -  Universitatea Cluj
 
 
 Matchday 22
 [Sat Jan/18]
-  Unirea Slobozia          -  Sepsi OSK
   Oţelul Galaţi            -  Petrolul Ploieşti
   FC Botoşani              -  CFR Cluj
   Universitatea Cluj       -  Gloria Buzău
@@ -314,10 +313,12 @@ Matchday 22
   CS Universitatea Craiova  -  Dinamo Bucureşti
   FCSB                     -  FC Hermannstadt
   Rapid Bucureşti          -  FC Politehnica Iași
+  Unirea Slobozia          -  Sepsi OSK
 
 
 Matchday 23
 [Sat Jan/25]
+  Sepsi OSK                -  Oţelul Galaţi
   Petrolul Ploieşti        -  FC Botoşani
   Gloria Buzău             -  Unirea Slobozia
   CFR Cluj                 -  Farul Constanța
@@ -325,12 +326,10 @@ Matchday 23
   UTA Arad                 -  FCSB
   Rapid Bucureşti          -  CS Universitatea Craiova
   FC Politehnica Iași      -  FC Hermannstadt
-  Sepsi OSK                -  Oţelul Galaţi
 
 
 Matchday 24
 [Sat Feb/1]
-  FC Botoşani              -  Sepsi OSK
   Oţelul Galaţi            -  Gloria Buzău
   Farul Constanța          -  Petrolul Ploieşti
   Unirea Slobozia          -  Dinamo Bucureşti
@@ -338,10 +337,12 @@ Matchday 24
   Universitatea Cluj       -  Rapid Bucureşti
   FC Hermannstadt          -  UTA Arad
   CS Universitatea Craiova  -  FC Politehnica Iași
+  FC Botoşani              -  Sepsi OSK
 
 
 Matchday 25
 [Wed Feb/5]
+  Sepsi OSK                -  Farul Constanța
   Gloria Buzău             -  FC Botoşani
   Dinamo Bucureşti         -  Oţelul Galaţi
   Petrolul Ploieşti        -  FCSB
@@ -349,12 +350,10 @@ Matchday 25
   CFR Cluj                 -  FC Hermannstadt
   CS Universitatea Craiova  -  Universitatea Cluj
   FC Politehnica Iași      -  UTA Arad
-  Sepsi OSK                -  Farul Constanța
 
 
 Matchday 26
 [Sat Feb/8]
-  FCSB                     -  Sepsi OSK
   Farul Constanța          -  Gloria Buzău
   FC Botoşani              -  Dinamo Bucureşti
   Oţelul Galaţi            -  Rapid Bucureşti
@@ -362,10 +361,12 @@ Matchday 26
   Unirea Slobozia          -  CS Universitatea Craiova
   UTA Arad                 -  CFR Cluj
   Universitatea Cluj       -  FC Politehnica Iași
+  FCSB                     -  Sepsi OSK
 
 
 Matchday 27
 [Sat Feb/15]
+  Sepsi OSK                -  FC Hermannstadt
   Gloria Buzău             -  FCSB
   Dinamo Bucureşti         -  Farul Constanța
   Rapid Bucureşti          -  FC Botoşani
@@ -373,12 +374,10 @@ Matchday 27
   Petrolul Ploieşti        -  UTA Arad
   Universitatea Cluj       -  Unirea Slobozia
   FC Politehnica Iași      -  CFR Cluj
-  Sepsi OSK                -  FC Hermannstadt
 
 
 Matchday 28
 [Sat Feb/22]
-  UTA Arad                 -  Sepsi OSK
   FC Hermannstadt          -  Gloria Buzău
   FCSB                     -  Dinamo Bucureşti
   Farul Constanța          -  Rapid Bucureşti
@@ -386,10 +385,12 @@ Matchday 28
   Oţelul Galaţi            -  Universitatea Cluj
   CFR Cluj                 -  Petrolul Ploieşti
   Unirea Slobozia          -  FC Politehnica Iași
+  UTA Arad                 -  Sepsi OSK
 
 
 Matchday 29
 [Sat Mar/1]
+  Sepsi OSK                -  CFR Cluj
   Gloria Buzău             -  UTA Arad
   Dinamo Bucureşti         -  FC Hermannstadt
   Rapid Bucureşti          -  FCSB
@@ -397,12 +398,10 @@ Matchday 29
   Universitatea Cluj       -  FC Botoşani
   Unirea Slobozia          -  Oţelul Galaţi
   FC Politehnica Iași      -  Petrolul Ploieşti
-  Sepsi OSK                -  CFR Cluj
 
 
 Matchday 30
 [Sat Mar/8]
-  Petrolul Ploieşti        -  Sepsi OSK
   CFR Cluj                 -  Gloria Buzău
   UTA Arad                 -  Dinamo Bucureşti
   FC Hermannstadt          -  Rapid Bucureşti
@@ -410,3 +409,4 @@ Matchday 30
   Farul Constanța          -  Universitatea Cluj
   FC Botoşani              -  Unirea Slobozia
   Oţelul Galaţi            -  FC Politehnica Iași
+  Petrolul Ploieşti        -  Sepsi OSK
