@@ -1,5 +1,9 @@
 = Swiss Cup 2024/25
 
+# Date       Fri Aug/16 - Tue Dec/3 2024 (109d)
+# Teams      64
+# Matches    56
+
 
 
 Round 1
@@ -42,21 +46,33 @@ Round 1
 
 Round 2
 [Fri Sep/13]
-  20.00  SC Emmen                 -  Yverdon Sport FC
-         SC YF/Juventus Zürich    -  FC Sion
-         FC Thun Berner Oberland  -  Grasshopper Club Zürich
-  20.15  FC Besa St. Gallen       -  FC Biel/Bienne
-  20.00  FC Monthey               -  Etoile Carouge FC
+  20.00  SC Emmen                 1-2 (1-2)  Yverdon Sport FC
+         SC YF/Juventus Zürich    0-2 (0-1)  FC Sion
+         FC Thun Berner Oberland  0-2 (0-1)  Grasshopper Club Zürich
+  20.15  FC Besa St. Gallen       1-6 (0-2)  FC Biel/Bienne
+  20.00  FC Monthey               0-2 (0-2)  Etoile Carouge FC
 [Sat Sep/14]
-  15.00  FC Langenthal            -  Stade-Lausanne-Ouchy
-  16.00  FC Paradiso              -  FC St. Gallen
-  17.00  FC Rapperswil-Jona       -  FC Lugano
-         FC Aemme                 -  FC Lausanne-Sport
-  18.00  Vevey-Sports             -  BSC Young Boys
-         FC Wil 1900              -  FC Winterthur
-  18.30  FC CSL                   -  FC Zürich
+  15.00  FC Langenthal            1-0 (1-0)  Stade-Lausanne-Ouchy
+  16.00  FC Paradiso              1-3 (1-1)  FC St. Gallen
+  17.00  FC Rapperswil-Jona       1-3 (0-0)  FC Lugano
+         FC Aemme                 0-4 (0-1)  FC Lausanne-Sport
+  18.00  Vevey-Sports             2-4 (0-2)  BSC Young Boys
+         FC Wil 1900              2-4 pen. 2-2 a.e.t. (1-1, 0-1)  FC Winterthur
+  18.30  FC CSL                   0-3 (0-0)  FC Zürich
 [Sun Sep/15]
-  16.00  FC Gambarogno-Contone    -  AC Bellinzona
-         FC Aarau                 -  FC Luzern
-  16.30  FC Stade Nyonnais        -  FC Basel 1893
-  14.30  FC Schaffhausen          -  Servette FC
+  14.30  FC Schaffhausen          2-1 (0-1)  Servette FC
+  16.00  FC Gambarogno-Contone    1-2 (0-2)  AC Bellinzona
+         FC Aarau                 1-0 (0-0)  FC Luzern
+  16.30  FC Stade Nyonnais        0-1 a.e.t. (0-0)  FC Basel 1893
+
+
+Round of 16
+[Tue Dec/3]
+  FC St. Gallen            -  AC Bellinzona
+  Grasshopper Club Zürich  -  FC Zürich
+  FC Aarau                 -  Etoile Carouge FC
+  FC Basel 1893            -  FC Sion
+  Yverdon Sport FC         -  FC Lugano
+  FC Winterthur            -  FC Lausanne-Sport
+  FC Langenthal            -  FC Biel/Bienne
+  FC Schaffhausen          -  BSC Young Boys

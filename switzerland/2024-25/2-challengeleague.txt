@@ -1,5 +1,9 @@
 = Swiss Challenge League 2024/25
 
+# Date       Fri Jul/19 - Sat Dec/14 2024 (148d)
+# Teams      10
+# Matches    90
+
 
 
 Matchday 1
@@ -8,7 +12,7 @@ Matchday 1
   20.15  FC Aarau                 1-3 (0-2)  FC Thun Berner Oberland
   19.30  FC Schaffhausen          2-3 (1-2)  Etoile Carouge FC
 [Sat Jul/20]
-  18.00  AC Bellinzona            2-1 (1-1)  FC Wil 1900
+  18.00  AC Bellinzona            0-3  FC Wil 1900              [awarded]
 [Sun Jul/21]
   14.15  FC Vaduz                 0-0  FC Stade Nyonnais
 
@@ -68,41 +72,41 @@ Matchday 6
 
 Matchday 7
 [Fri Sep/20]
-  19.30  FC Schaffhausen          -  Neuchâtel Xamax FCS
-         Stade-Lausanne-Ouchy     -  FC Wil 1900
-         FC Stade Nyonnais        -  Etoile Carouge FC
-  20.15  FC Thun Berner Oberland  -  AC Bellinzona
-         FC Vaduz                 -  FC Aarau
+  19.30  FC Schaffhausen          1-2 (1-0)  Neuchâtel Xamax FCS
+         Stade-Lausanne-Ouchy     0-0  FC Wil 1900
+         FC Stade Nyonnais        2-4 (1-2)  Etoile Carouge FC
+  20.15  FC Thun Berner Oberland  1-2 (0-0)  AC Bellinzona
+         FC Vaduz                 2-5 (2-3)  FC Aarau
 
 
 Matchday 8
 [Mon Sep/23]
-  19.30  Neuchâtel Xamax FCS      -  FC Stade Nyonnais
-  20.15  FC Aarau                 -  FC Schaffhausen
-  19.30  FC Wil 1900              -  FC Thun Berner Oberland
+  19.30  Neuchâtel Xamax FCS      3-2 (0-1)  FC Stade Nyonnais
+  20.15  FC Aarau                 1-2 (1-1)  FC Schaffhausen
+  19.30  FC Wil 1900              0-0  FC Thun Berner Oberland
 [Tue Sep/24]
-  20.15  Etoile Carouge FC        -  FC Vaduz
-         AC Bellinzona            -  Stade-Lausanne-Ouchy
+  20.15  Etoile Carouge FC        1-0 (1-0)  FC Vaduz
+         AC Bellinzona            2-1 (1-0)  Stade-Lausanne-Ouchy
 
 
 Matchday 9
 [Fri Sep/27]
-  19.30  FC Schaffhausen          -  FC Wil 1900
-         Stade-Lausanne-Ouchy     -  Etoile Carouge FC
-         FC Stade Nyonnais        -  FC Aarau
-  20.15  FC Thun Berner Oberland  -  Neuchâtel Xamax FCS
+  19.30  FC Schaffhausen          0-2 (0-1)  FC Wil 1900
+         Stade-Lausanne-Ouchy     5-1 (2-0)  Etoile Carouge FC
+         FC Stade Nyonnais        1-2 (0-1)  FC Aarau
+  20.15  FC Thun Berner Oberland  1-0 (0-0)  Neuchâtel Xamax FCS
 [Sun Sep/29]
-  14.15  FC Vaduz                 -  AC Bellinzona
+  14.15  FC Vaduz                 2-1 (2-0)  AC Bellinzona
 
 
 Matchday 10
 [Fri Oct/4]
-  19.30  Neuchâtel Xamax FCS      -  FC Schaffhausen
-  20.15  AC Bellinzona            -  FC Thun Berner Oberland
-         Etoile Carouge FC        -  FC Stade Nyonnais
+  19.30  Neuchâtel Xamax FCS      2-1 (2-0)  FC Schaffhausen
+  20.15  AC Bellinzona            0-0  FC Thun Berner Oberland
+         Etoile Carouge FC        3-1 (0-1)  FC Stade Nyonnais
 [Sat Oct/5]
-  18.00  FC Wil 1900              -  Stade-Lausanne-Ouchy
-         FC Aarau                 -  FC Vaduz
+  18.00  FC Wil 1900              2-2 (2-1)  Stade-Lausanne-Ouchy
+         FC Aarau                 0-0  FC Vaduz
 
 
 Matchday 11
@@ -168,11 +172,12 @@ Matchday 16
 
 Matchday 17
 [Fri Dec/6]
-  AC Bellinzona            -  FC Vaduz
-  Etoile Carouge FC        -  FC Schaffhausen
-  FC Aarau                 -  Stade-Lausanne-Ouchy
-  FC Thun Berner Oberland  -  FC Wil 1900
-  FC Stade Nyonnais        -  Neuchâtel Xamax FCS
+  19.30  FC Stade Nyonnais        -  Neuchâtel Xamax FCS
+  20.15  FC Thun Berner Oberland  -  FC Wil 1900
+[Sun Dec/8]
+  16.30  AC Bellinzona            -  FC Vaduz
+         FC Aarau                 -  Stade-Lausanne-Ouchy
+  14.15  Etoile Carouge FC        -  FC Schaffhausen
 
 
 Matchday 18
