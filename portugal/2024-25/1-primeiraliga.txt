@@ -127,7 +127,6 @@ Matchday 8
 [Sun Oct/6]
   15.30  Vitória Guimarães        2-2 (1-0)  Boavista FC
          SC Farense               1-0 (0-0)  GD Estoril Praia
-  18.00  CD Nacional              -  Sport Lisboa e Benfica   [cancelled]
   20.30  FC Porto                 2-1 (1-0)  Sporting Clube de Braga
 
 
@@ -218,6 +217,11 @@ Matchday 14
   FC Porto                 -  CF Estrela da Amadora
   GD Estoril Praia         -  Casa Pia AC
   Sporting Clube de Portugal  -  Boavista FC
+
+
+Matchday 8
+[Thu Dec/19]
+  CD Nacional              -  Sport Lisboa e Benfica
 
 
 Matchday 15
