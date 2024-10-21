@@ -1,4 +1,4 @@
-= Dutch Eredivisie 2024/25
+= Netherlands Eredivisie 2024/25
 
 # Date       Fri Aug/9 2024 - Sun May/18 2025 (282d)
 # Teams      18
@@ -129,16 +129,16 @@ Matchday 8
 
 Matchday 9
 [Sat Oct/19]
-  16.30  Sparta Rotterdam         -  Almere City FC
-  18.45  AZ                       -  PSV
-  20.00  NEC                      -  SC Heerenveen
-         RKC Waalwijk             -  FC Twente '65
-  21.00  Go Ahead Eagles          -  Feyenoord Rotterdam
+  16.30  Sparta Rotterdam         2-2 (0-2)  Almere City FC
+  18.45  AZ                       1-2 (0-2)  PSV
+  20.00  NEC                      3-0 (1-0)  SC Heerenveen
+         RKC Waalwijk             2-2 (1-1)  FC Twente '65
+  21.00  Go Ahead Eagles          1-5 (0-3)  Feyenoord Rotterdam
 [Sun Oct/20]
-  12.15  Willem II Tilburg        -  Fortuna Sittard
-  14.30  FC Groningen             -  FC Utrecht
-         Heracles Almelo          -  AFC Ajax
-  16.45  PEC Zwolle               -  NAC Breda
+  12.15  Willem II Tilburg        0-0  Fortuna Sittard
+  14.30  FC Groningen             0-1 (0-1)  FC Utrecht
+         Heracles Almelo          3-4 (2-2)  AFC Ajax
+  16.45  PEC Zwolle               1-2 (0-0)  NAC Breda
 
 
 Matchday 10
@@ -226,259 +226,259 @@ Matchday 5
 
 Matchday 15
 [Sun Dec/8]
-  Almere City FC           -  FC Utrecht
-  AZ                       -  AFC Ajax
-  FC Groningen             -  PEC Zwolle
-  Go Ahead Eagles          -  NEC
-  Heracles Almelo          -  Fortuna Sittard
-  PSV                      -  FC Twente '65
-  RKC Waalwijk             -  Feyenoord Rotterdam
-  Sparta Rotterdam         -  NAC Breda
-  Willem II Tilburg        -  SC Heerenveen
+         Almere City FC           -  FC Utrecht
+         AZ                       -  AFC Ajax
+         FC Groningen             -  PEC Zwolle
+         Go Ahead Eagles          -  NEC
+         Heracles Almelo          -  Fortuna Sittard
+         PSV                      -  FC Twente '65
+         RKC Waalwijk             -  Feyenoord Rotterdam
+         Sparta Rotterdam         -  NAC Breda
+         Willem II Tilburg        -  SC Heerenveen
 
 
 Matchday 16
 [Sun Dec/15]
-  AFC Ajax                 -  Almere City FC
-  FC Utrecht               -  Go Ahead Eagles
-  Feyenoord Rotterdam      -  Heracles Almelo
-  Fortuna Sittard          -  RKC Waalwijk
-  NAC Breda                -  AZ
-  NEC                      -  Sparta Rotterdam
-  PEC Zwolle               -  Willem II Tilburg
-  SC Heerenveen            -  PSV
-  FC Twente '65            -  FC Groningen
+         AFC Ajax                 -  Almere City FC
+         FC Utrecht               -  Go Ahead Eagles
+         Feyenoord Rotterdam      -  Heracles Almelo
+         Fortuna Sittard          -  RKC Waalwijk
+         NAC Breda                -  AZ
+         NEC                      -  Sparta Rotterdam
+         PEC Zwolle               -  Willem II Tilburg
+         SC Heerenveen            -  PSV
+         FC Twente '65            -  FC Groningen
 
 
 Matchday 17
 [Sun Dec/22]
-  Almere City FC           -  SC Heerenveen
-  AZ                       -  FC Twente '65
-  FC Utrecht               -  Fortuna Sittard
-  Go Ahead Eagles          -  NAC Breda
-  Heracles Almelo          -  FC Groningen
-  PSV                      -  Feyenoord Rotterdam
-  RKC Waalwijk             -  PEC Zwolle
-  Sparta Rotterdam         -  AFC Ajax
-  Willem II Tilburg        -  NEC
+         Almere City FC           -  SC Heerenveen
+         AZ                       -  FC Twente '65
+         FC Utrecht               -  Fortuna Sittard
+         Go Ahead Eagles          -  NAC Breda
+         Heracles Almelo          -  FC Groningen
+         PSV                      -  Feyenoord Rotterdam
+         RKC Waalwijk             -  PEC Zwolle
+         Sparta Rotterdam         -  AFC Ajax
+         Willem II Tilburg        -  NEC
 
 
 Matchday 18
 [Sun Jan/12]
-  AFC Ajax                 -  RKC Waalwijk
-  FC Groningen             -  Almere City FC
-  Feyenoord Rotterdam      -  FC Utrecht
-  Fortuna Sittard          -  Go Ahead Eagles
-  Heracles Almelo          -  Sparta Rotterdam
-  NAC Breda                -  SC Heerenveen
-  PEC Zwolle               -  NEC
-  PSV                      -  AZ
-  FC Twente '65            -  Willem II Tilburg
+         AFC Ajax                 -  RKC Waalwijk
+         FC Groningen             -  Almere City FC
+         Feyenoord Rotterdam      -  FC Utrecht
+         Fortuna Sittard          -  Go Ahead Eagles
+         Heracles Almelo          -  Sparta Rotterdam
+         NAC Breda                -  SC Heerenveen
+         PEC Zwolle               -  NEC
+         PSV                      -  AZ
+         FC Twente '65            -  Willem II Tilburg
 
 
 Matchday 19
 [Sun Jan/19]
-  Almere City FC           -  Heracles Almelo
-  FC Utrecht               -  AZ
-  Go Ahead Eagles          -  FC Groningen
-  NAC Breda                -  FC Twente '65
-  NEC                      -  Fortuna Sittard
-  PEC Zwolle               -  PSV
-  SC Heerenveen            -  AFC Ajax
-  Sparta Rotterdam         -  RKC Waalwijk
-  Willem II Tilburg        -  Feyenoord Rotterdam
+         Almere City FC           -  Heracles Almelo
+         FC Utrecht               -  AZ
+         Go Ahead Eagles          -  FC Groningen
+         NAC Breda                -  FC Twente '65
+         NEC                      -  Fortuna Sittard
+         PEC Zwolle               -  PSV
+         SC Heerenveen            -  AFC Ajax
+         Sparta Rotterdam         -  RKC Waalwijk
+         Willem II Tilburg        -  Feyenoord Rotterdam
 
 
 Matchday 20
 [Sun Jan/26]
-  AFC Ajax                 -  Go Ahead Eagles
-  AZ                       -  Sparta Rotterdam
-  FC Groningen             -  SC Heerenveen
-  Feyenoord Rotterdam      -  Almere City FC
-  Fortuna Sittard          -  PEC Zwolle
-  Heracles Almelo          -  FC Utrecht
-  PSV                      -  NAC Breda
-  RKC Waalwijk             -  Willem II Tilburg
-  FC Twente '65            -  NEC
+         AFC Ajax                 -  Go Ahead Eagles
+         AZ                       -  Sparta Rotterdam
+         FC Groningen             -  SC Heerenveen
+         Feyenoord Rotterdam      -  Almere City FC
+         Fortuna Sittard          -  PEC Zwolle
+         Heracles Almelo          -  FC Utrecht
+         PSV                      -  NAC Breda
+         RKC Waalwijk             -  Willem II Tilburg
+         FC Twente '65            -  NEC
 
 
 Matchday 21
 [Sun Feb/2]
-  AFC Ajax                 -  Feyenoord Rotterdam
-  Almere City FC           -  RKC Waalwijk
-  Go Ahead Eagles          -  FC Twente '65
-  NAC Breda                -  Heracles Almelo
-  NEC                      -  PSV
-  PEC Zwolle               -  FC Utrecht
-  SC Heerenveen            -  Fortuna Sittard
-  Sparta Rotterdam         -  FC Groningen
-  Willem II Tilburg        -  AZ
+         AFC Ajax                 -  Feyenoord Rotterdam
+         Almere City FC           -  RKC Waalwijk
+         Go Ahead Eagles          -  FC Twente '65
+         NAC Breda                -  Heracles Almelo
+         NEC                      -  PSV
+         PEC Zwolle               -  FC Utrecht
+         SC Heerenveen            -  Fortuna Sittard
+         Sparta Rotterdam         -  FC Groningen
+         Willem II Tilburg        -  AZ
 
 
 Matchday 22
 [Sun Feb/9]
-  AZ                       -  PEC Zwolle
-  FC Groningen             -  NEC
-  FC Utrecht               -  Almere City FC
-  Feyenoord Rotterdam      -  Sparta Rotterdam
-  Fortuna Sittard          -  AFC Ajax
-  Heracles Almelo          -  Go Ahead Eagles
-  PSV                      -  Willem II Tilburg
-  RKC Waalwijk             -  NAC Breda
-  SC Heerenveen            -  FC Twente '65
+         AZ                       -  PEC Zwolle
+         FC Groningen             -  NEC
+         FC Utrecht               -  Almere City FC
+         Feyenoord Rotterdam      -  Sparta Rotterdam
+         Fortuna Sittard          -  AFC Ajax
+         Heracles Almelo          -  Go Ahead Eagles
+         PSV                      -  Willem II Tilburg
+         RKC Waalwijk             -  NAC Breda
+         SC Heerenveen            -  FC Twente '65
 
 
 Matchday 23
 [Sun Feb/16]
-  AFC Ajax                 -  Heracles Almelo
-  AZ                       -  Fortuna Sittard
-  Go Ahead Eagles          -  Sparta Rotterdam
-  NAC Breda                -  Feyenoord Rotterdam
-  NEC                      -  Almere City FC
-  PEC Zwolle               -  SC Heerenveen
-  PSV                      -  FC Utrecht
-  FC Twente '65            -  RKC Waalwijk
-  Willem II Tilburg        -  FC Groningen
+         AFC Ajax                 -  Heracles Almelo
+         AZ                       -  Fortuna Sittard
+         Go Ahead Eagles          -  Sparta Rotterdam
+         NAC Breda                -  Feyenoord Rotterdam
+         NEC                      -  Almere City FC
+         PEC Zwolle               -  SC Heerenveen
+         PSV                      -  FC Utrecht
+         FC Twente '65            -  RKC Waalwijk
+         Willem II Tilburg        -  FC Groningen
 
 
 Matchday 24
 [Sun Mar/2]
-  Almere City FC           -  AFC Ajax
-  FC Groningen             -  FC Twente '65
-  FC Utrecht               -  NAC Breda
-  Feyenoord Rotterdam      -  NEC
-  Go Ahead Eagles          -  PSV
-  Heracles Almelo          -  PEC Zwolle
-  RKC Waalwijk             -  Fortuna Sittard
-  SC Heerenveen            -  AZ
-  Sparta Rotterdam         -  Willem II Tilburg
+         Almere City FC           -  AFC Ajax
+         FC Groningen             -  FC Twente '65
+         FC Utrecht               -  NAC Breda
+         Feyenoord Rotterdam      -  NEC
+         Go Ahead Eagles          -  PSV
+         Heracles Almelo          -  PEC Zwolle
+         RKC Waalwijk             -  Fortuna Sittard
+         SC Heerenveen            -  AZ
+         Sparta Rotterdam         -  Willem II Tilburg
 
 
 Matchday 25
 [Sun Mar/9]
-  AZ                       -  RKC Waalwijk
-  Feyenoord Rotterdam      -  FC Groningen
-  Fortuna Sittard          -  Heracles Almelo
-  NAC Breda                -  Sparta Rotterdam
-  NEC                      -  Go Ahead Eagles
-  PEC Zwolle               -  AFC Ajax
-  PSV                      -  SC Heerenveen
-  FC Twente '65            -  Almere City FC
-  Willem II Tilburg        -  FC Utrecht
+         AZ                       -  RKC Waalwijk
+         Feyenoord Rotterdam      -  FC Groningen
+         Fortuna Sittard          -  Heracles Almelo
+         NAC Breda                -  Sparta Rotterdam
+         NEC                      -  Go Ahead Eagles
+         PEC Zwolle               -  AFC Ajax
+         PSV                      -  SC Heerenveen
+         FC Twente '65            -  Almere City FC
+         Willem II Tilburg        -  FC Utrecht
 
 
 Matchday 26
 [Sun Mar/16]
-  AFC Ajax                 -  AZ
-  Almere City FC           -  NAC Breda
-  FC Groningen             -  Fortuna Sittard
-  FC Utrecht               -  NEC
-  Go Ahead Eagles          -  Willem II Tilburg
-  RKC Waalwijk             -  PSV
-  SC Heerenveen            -  Heracles Almelo
-  Sparta Rotterdam         -  PEC Zwolle
-  FC Twente '65            -  Feyenoord Rotterdam
+         AFC Ajax                 -  AZ
+         Almere City FC           -  NAC Breda
+         FC Groningen             -  Fortuna Sittard
+         FC Utrecht               -  NEC
+         Go Ahead Eagles          -  Willem II Tilburg
+         RKC Waalwijk             -  PSV
+         SC Heerenveen            -  Heracles Almelo
+         Sparta Rotterdam         -  PEC Zwolle
+         FC Twente '65            -  Feyenoord Rotterdam
 
 
 Matchday 27
 [Sun Mar/30]
-  FC Utrecht               -  SC Heerenveen
-  Feyenoord Rotterdam      -  Go Ahead Eagles
-  Fortuna Sittard          -  Sparta Rotterdam
-  Heracles Almelo          -  FC Twente '65
-  NAC Breda                -  FC Groningen
-  NEC                      -  AZ
-  PEC Zwolle               -  RKC Waalwijk
-  PSV                      -  AFC Ajax
-  Willem II Tilburg        -  Almere City FC
+         FC Utrecht               -  SC Heerenveen
+         Feyenoord Rotterdam      -  Go Ahead Eagles
+         Fortuna Sittard          -  Sparta Rotterdam
+         Heracles Almelo          -  FC Twente '65
+         NAC Breda                -  FC Groningen
+         NEC                      -  AZ
+         PEC Zwolle               -  RKC Waalwijk
+         PSV                      -  AFC Ajax
+         Willem II Tilburg        -  Almere City FC
 
 
 Matchday 28
 [Sun Apr/6]
-  AFC Ajax                 -  NAC Breda
-  Almere City FC           -  PEC Zwolle
-  AZ                       -  Feyenoord Rotterdam
-  FC Groningen             -  PSV
-  Go Ahead Eagles          -  FC Utrecht
-  RKC Waalwijk             -  Heracles Almelo
-  SC Heerenveen            -  Willem II Tilburg
-  Sparta Rotterdam         -  NEC
-  FC Twente '65            -  Fortuna Sittard
+         AFC Ajax                 -  NAC Breda
+         Almere City FC           -  PEC Zwolle
+         AZ                       -  Feyenoord Rotterdam
+         FC Groningen             -  PSV
+         Go Ahead Eagles          -  FC Utrecht
+         RKC Waalwijk             -  Heracles Almelo
+         SC Heerenveen            -  Willem II Tilburg
+         Sparta Rotterdam         -  NEC
+         FC Twente '65            -  Fortuna Sittard
 
 
 Matchday 29
 [Sun Apr/13]
-  FC Utrecht               -  FC Groningen
-  Fortuna Sittard          -  Feyenoord Rotterdam
-  Heracles Almelo          -  AZ
-  NAC Breda                -  Go Ahead Eagles
-  NEC                      -  RKC Waalwijk
-  PEC Zwolle               -  FC Twente '65
-  PSV                      -  Almere City FC
-  Sparta Rotterdam         -  SC Heerenveen
-  Willem II Tilburg        -  AFC Ajax
+         FC Utrecht               -  FC Groningen
+         Fortuna Sittard          -  Feyenoord Rotterdam
+         Heracles Almelo          -  AZ
+         NAC Breda                -  Go Ahead Eagles
+         NEC                      -  RKC Waalwijk
+         PEC Zwolle               -  FC Twente '65
+         PSV                      -  Almere City FC
+         Sparta Rotterdam         -  SC Heerenveen
+         Willem II Tilburg        -  AFC Ajax
 
 
 Matchday 30
 [Sun Apr/27]
-  AFC Ajax                 -  Sparta Rotterdam
-  Almere City FC           -  Go Ahead Eagles
-  AZ                       -  NAC Breda
-  FC Groningen             -  Heracles Almelo
-  Feyenoord Rotterdam      -  PEC Zwolle
-  Fortuna Sittard          -  Willem II Tilburg
-  RKC Waalwijk             -  FC Utrecht
-  SC Heerenveen            -  NEC
-  FC Twente '65            -  PSV
+         AFC Ajax                 -  Sparta Rotterdam
+         Almere City FC           -  Go Ahead Eagles
+         AZ                       -  NAC Breda
+         FC Groningen             -  Heracles Almelo
+         Feyenoord Rotterdam      -  PEC Zwolle
+         Fortuna Sittard          -  Willem II Tilburg
+         RKC Waalwijk             -  FC Utrecht
+         SC Heerenveen            -  NEC
+         FC Twente '65            -  PSV
 
 
 Matchday 31
 [Sun May/4]
-  FC Groningen             -  RKC Waalwijk
-  FC Utrecht               -  AFC Ajax
-  Go Ahead Eagles          -  AZ
-  Heracles Almelo          -  Feyenoord Rotterdam
-  NAC Breda                -  PEC Zwolle
-  NEC                      -  Willem II Tilburg
-  PSV                      -  Fortuna Sittard
-  SC Heerenveen            -  Almere City FC
-  Sparta Rotterdam         -  FC Twente '65
+         FC Groningen             -  RKC Waalwijk
+         FC Utrecht               -  AFC Ajax
+         Go Ahead Eagles          -  AZ
+         Heracles Almelo          -  Feyenoord Rotterdam
+         NAC Breda                -  PEC Zwolle
+         NEC                      -  Willem II Tilburg
+         PSV                      -  Fortuna Sittard
+         SC Heerenveen            -  Almere City FC
+         Sparta Rotterdam         -  FC Twente '65
 
 
 Matchday 32
 [Sun May/11]
-  AFC Ajax                 -  NEC
-  Almere City FC           -  Sparta Rotterdam
-  AZ                       -  FC Groningen
-  Feyenoord Rotterdam      -  PSV
-  Fortuna Sittard          -  NAC Breda
-  PEC Zwolle               -  Go Ahead Eagles
-  RKC Waalwijk             -  SC Heerenveen
-  FC Twente '65            -  FC Utrecht
-  Willem II Tilburg        -  Heracles Almelo
+         AFC Ajax                 -  NEC
+         Almere City FC           -  Sparta Rotterdam
+         AZ                       -  FC Groningen
+         Feyenoord Rotterdam      -  PSV
+         Fortuna Sittard          -  NAC Breda
+         PEC Zwolle               -  Go Ahead Eagles
+         RKC Waalwijk             -  SC Heerenveen
+         FC Twente '65            -  FC Utrecht
+         Willem II Tilburg        -  Heracles Almelo
 
 
 Matchday 33
 [Wed May/14]
-  Almere City FC           -  Fortuna Sittard
-  FC Groningen             -  AFC Ajax
-  FC Utrecht               -  Sparta Rotterdam
-  Feyenoord Rotterdam      -  RKC Waalwijk
-  Go Ahead Eagles          -  SC Heerenveen
-  NEC                      -  NAC Breda
-  PSV                      -  Heracles Almelo
-  FC Twente '65            -  AZ
-  Willem II Tilburg        -  PEC Zwolle
+         Almere City FC           -  Fortuna Sittard
+         FC Groningen             -  AFC Ajax
+         FC Utrecht               -  Sparta Rotterdam
+         Feyenoord Rotterdam      -  RKC Waalwijk
+         Go Ahead Eagles          -  SC Heerenveen
+         NEC                      -  NAC Breda
+         PSV                      -  Heracles Almelo
+         FC Twente '65            -  AZ
+         Willem II Tilburg        -  PEC Zwolle
 
 
 Matchday 34
 [Sun May/18]
-  AFC Ajax                 -  FC Twente '65
-  AZ                       -  Almere City FC
-  Fortuna Sittard          -  FC Utrecht
-  Heracles Almelo          -  NEC
-  NAC Breda                -  Willem II Tilburg
-  PEC Zwolle               -  FC Groningen
-  RKC Waalwijk             -  Go Ahead Eagles
-  SC Heerenveen            -  Feyenoord Rotterdam
-  Sparta Rotterdam         -  PSV
+         AFC Ajax                 -  FC Twente '65
+         AZ                       -  Almere City FC
+         Fortuna Sittard          -  FC Utrecht
+         Heracles Almelo          -  NEC
+         NAC Breda                -  Willem II Tilburg
+         PEC Zwolle               -  FC Groningen
+         RKC Waalwijk             -  Go Ahead Eagles
+         SC Heerenveen            -  Feyenoord Rotterdam
+         Sparta Rotterdam         -  PSV
