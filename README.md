@@ -44,7 +44,7 @@ todo: add
 
 ## Build Your Own `europe.db` Copy
 
-### Alternative I - Do-It-Yourself (DIY) - Downlad and Unpack Zip Archive or Git Clone
+### Alternative I - Do-It-Yourself (DIY) - Download and Unpack Zip Archive or Git Clone
 
 Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
 get a local copy.
