@@ -143,17 +143,17 @@ Matchday 9
 
 Matchday 10
 [Fri Nov/1]
-  19.00  AS Monaco FC             -  Angers SCO
-  21.00  Lille OSC                -  Olympique Lyonnais
+  19.00  AS Monaco FC             0-1 (0-1)  Angers SCO
+  21.00  Lille OSC                1-1 (1-0)  Olympique Lyonnais
 [Sat Nov/2]
-  17.00  Paris Saint-Germain FC   -  Racing Club de Lens
-  19.00  Stade Brestois 29        -  OGC Nice
-  21.00  AS Saint-Étienne         -  RC Strasbourg Alsace
+  17.00  Paris Saint-Germain FC   1-0 (1-0)  Racing Club de Lens
+  19.00  Stade Brestois 29        0-1 (0-1)  OGC Nice
+  21.00  AS Saint-Étienne         2-0 (0-0)  RC Strasbourg Alsace
 [Sun Nov/3]
-  15.00  Toulouse FC              -  Stade de Reims
-  17.00  AJ Auxerre               -  Stade Rennais FC 1901
-         Le Havre AC              -  Montpellier HSC
-  20.45  FC Nantes                -  Olympique de Marseille
+  15.00  Toulouse FC              1-0 (0-0)  Stade de Reims
+  17.00  AJ Auxerre               4-0 (2-0)  Stade Rennais FC 1901
+         Le Havre AC              1-0 (0-0)  Montpellier HSC
+  20.45  FC Nantes                1-2 (1-1)  Olympique de Marseille
 
 
 Matchday 11
@@ -172,29 +172,33 @@ Matchday 11
 
 
 Matchday 12
+[Fri Nov/22]
+  19.00  AS Monaco FC             -  Stade Brestois 29
+  21.00  Paris Saint-Germain FC   -  Toulouse FC
+[Sat Nov/23]
+  17.00  Racing Club de Lens      -  Olympique de Marseille
+  19.00  AS Saint-Étienne         -  Montpellier HSC
+  21.00  Stade de Reims           -  Olympique Lyonnais
 [Sun Nov/24]
-         Paris Saint-Germain FC   -  Toulouse FC
-         Racing Club de Lens      -  Olympique de Marseille
-         OGC Nice                 -  RC Strasbourg Alsace
-         AS Saint-Étienne         -  Montpellier HSC
-         Lille OSC                -  Stade Rennais FC 1901
-         FC Nantes                -  Le Havre AC
-         AS Monaco FC             -  Stade Brestois 29
+  15.00  Lille OSC                -  Stade Rennais FC 1901
+  17.00  FC Nantes                -  Le Havre AC
          AJ Auxerre               -  Angers SCO
-         Stade de Reims           -  Olympique Lyonnais
+  20.45  OGC Nice                 -  RC Strasbourg Alsace
 
 
 Matchday 13
+[Fri Nov/29]
+  20.45  Stade de Reims           -  Racing Club de Lens
+[Sat Nov/30]
+  17.00  Stade Rennais FC 1901    -  AS Saint-Étienne
+  19.00  Stade Brestois 29        -  RC Strasbourg Alsace
+  21.00  Paris Saint-Germain FC   -  FC Nantes
 [Sun Dec/1]
-         Stade de Reims           -  Racing Club de Lens
-         Stade Rennais FC 1901    -  AS Saint-Étienne
-         Le Havre AC              -  Angers SCO
+  15.00  Montpellier HSC          -  Lille OSC
+  17.00  Le Havre AC              -  Angers SCO
          Toulouse FC              -  AJ Auxerre
-         Stade Brestois 29        -  RC Strasbourg Alsace
-         Montpellier HSC          -  Lille OSC
-         Paris Saint-Germain FC   -  FC Nantes
-         Olympique de Marseille   -  AS Monaco FC
          Olympique Lyonnais       -  OGC Nice
+  20.45  Olympique de Marseille   -  AS Monaco FC
 
 
 Matchday 14
