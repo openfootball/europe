@@ -177,17 +177,17 @@ Matchday 11
 
 Matchday 12
 [Fri Nov/8]
-  20.00  FC Utrecht               -  Heracles Almelo
+  20.00  FC Utrecht               1-0 (0-0)  Heracles Almelo
 [Sat Nov/9]
-  16.30  FC Groningen             -  Sparta Rotterdam
-  18.45  PEC Zwolle               -  Fortuna Sittard
-  20.00  NAC Breda                -  PSV
-  21.00  RKC Waalwijk             -  NEC
+  16.30  FC Groningen             1-0 (1-0)  Sparta Rotterdam
+  18.45  PEC Zwolle               3-1 (0-1)  Fortuna Sittard
+  20.00  NAC Breda                0-3 (0-2)  PSV
+  21.00  RKC Waalwijk             0-3 (0-0)  NEC
 [Sun Nov/10]
-  12.15  Almere City FC           -  Feyenoord Rotterdam
-  14.30  SC Heerenveen            -  Go Ahead Eagles
-         FC Twente '65            -  AFC Ajax
-  16.45  AZ                       -  Willem II Tilburg
+  12.15  Almere City FC           1-4 (1-2)  Feyenoord Rotterdam
+  14.30  SC Heerenveen            1-0 (1-0)  Go Ahead Eagles
+         FC Twente '65            2-2 (1-0)  AFC Ajax
+  16.45  AZ                       1-2 (0-2)  Willem II Tilburg
 
 
 Matchday 13
