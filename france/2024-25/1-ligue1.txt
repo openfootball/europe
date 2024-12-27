@@ -173,114 +173,123 @@ Matchday 11
 
 Matchday 12
 [Fri Nov/22]
-  19.00  AS Monaco FC             -  Stade Brestois 29
-  21.00  Paris Saint-Germain FC   -  Toulouse FC
+  19.00  AS Monaco FC             3-2 (2-0)  Stade Brestois 29
+  21.00  Paris Saint-Germain FC   3-0 (1-0)  Toulouse FC
 [Sat Nov/23]
-  17.00  Racing Club de Lens      -  Olympique de Marseille
-  19.00  AS Saint-Étienne         -  Montpellier HSC
-  21.00  Stade de Reims           -  Olympique Lyonnais
+  17.00  Racing Club de Lens      1-3 (0-0)  Olympique de Marseille
+  19.00  AS Saint-Étienne         1-0 (0-0)  Montpellier HSC
+  21.00  Stade de Reims           1-1 (0-1)  Olympique Lyonnais
 [Sun Nov/24]
-  15.00  Lille OSC                -  Stade Rennais FC 1901
-  17.00  FC Nantes                -  Le Havre AC
-         AJ Auxerre               -  Angers SCO
-  20.45  OGC Nice                 -  RC Strasbourg Alsace
+  15.00  Lille OSC                1-0 (1-0)  Stade Rennais FC 1901
+  17.00  FC Nantes                0-2 (0-1)  Le Havre AC
+         AJ Auxerre               1-0 (0-0)  Angers SCO
+  20.45  OGC Nice                 2-1 (0-1)  RC Strasbourg Alsace
 
 
 Matchday 13
 [Fri Nov/29]
-  20.45  Stade de Reims           -  Racing Club de Lens
+  20.45  Stade de Reims           0-2 (0-1)  Racing Club de Lens
 [Sat Nov/30]
-  17.00  Stade Rennais FC 1901    -  AS Saint-Étienne
-  19.00  Stade Brestois 29        -  RC Strasbourg Alsace
-  21.00  Paris Saint-Germain FC   -  FC Nantes
+  17.00  Stade Rennais FC 1901    5-0 (2-0)  AS Saint-Étienne
+  19.00  Stade Brestois 29        3-1 (2-0)  RC Strasbourg Alsace
+  21.00  Paris Saint-Germain FC   1-1 (1-1)  FC Nantes
 [Sun Dec/1]
-  15.00  Montpellier HSC          -  Lille OSC
-  17.00  Le Havre AC              -  Angers SCO
-         Toulouse FC              -  AJ Auxerre
-         Olympique Lyonnais       -  OGC Nice
-  20.45  Olympique de Marseille   -  AS Monaco FC
+  15.00  Montpellier HSC          2-2 (1-1)  Lille OSC
+  17.00  Le Havre AC              0-1 (0-0)  Angers SCO
+         Toulouse FC              2-0 (2-0)  AJ Auxerre
+         Olympique Lyonnais       4-1 (3-1)  OGC Nice
+  20.45  Olympique de Marseille   2-1 (0-1)  AS Monaco FC
 
 
 Matchday 14
 [Fri Dec/6]
-  19.00  Lille OSC                -  Stade Brestois 29
-  21.00  AJ Auxerre               -  Paris Saint-Germain FC
+  19.00  Lille OSC                3-1 (2-0)  Stade Brestois 29
+  21.00  AJ Auxerre               0-0  Paris Saint-Germain FC
 [Sat Dec/7]
-  17.00  AS Monaco FC             -  Toulouse FC
-  19.00  OGC Nice                 -  Le Havre AC
-  21.00  Angers SCO               -  Olympique Lyonnais
+  17.00  AS Monaco FC             2-0 (0-0)  Toulouse FC
+  19.00  OGC Nice                 2-1 (0-0)  Le Havre AC
+  21.00  Angers SCO               0-3 (0-1)  Olympique Lyonnais
 [Sun Dec/8]
-  15.00  Racing Club de Lens      -  Montpellier HSC
-  17.00  RC Strasbourg Alsace     -  Stade de Reims
-         FC Nantes                -  Stade Rennais FC 1901
-  20.45  AS Saint-Étienne         -  Olympique de Marseille
+  15.00  Racing Club de Lens      2-0 (1-0)  Montpellier HSC
+  17.00  RC Strasbourg Alsace     0-0  Stade de Reims
+         FC Nantes                1-0 (0-0)  Stade Rennais FC 1901
+  20.45  AS Saint-Étienne         0-2 (0-1)  Olympique de Marseille
 
 
 Matchday 15
 [Fri Dec/13]
-  20.45  Toulouse FC              -  AS Saint-Étienne
+  20.45  Toulouse FC              2-1 (0-0)  AS Saint-Étienne
 [Sat Dec/14]
-  17.00  Olympique de Marseille   -  Lille OSC
-  19.00  AJ Auxerre               -  Racing Club de Lens
-  21.00  Stade de Reims           -  AS Monaco FC
+  17.00  Olympique de Marseille   1-1 (1-0)  Lille OSC
+  19.00  AJ Auxerre               2-2 (1-2)  Racing Club de Lens
+  21.00  Stade de Reims           0-0  AS Monaco FC
 [Sun Dec/15]
-  15.00  Montpellier HSC          -  OGC Nice
-  17.00  Stade Rennais FC 1901    -  Angers SCO
-         Le Havre AC              -  RC Strasbourg Alsace
-         Stade Brestois 29        -  FC Nantes
-  20.45  Paris Saint-Germain FC   -  Olympique Lyonnais
+  15.00  Montpellier HSC          2-2 (1-2)  OGC Nice
+  17.00  Stade Rennais FC 1901    2-0 (1-0)  Angers SCO
+         Le Havre AC              0-3 (0-2)  RC Strasbourg Alsace
+         Stade Brestois 29        4-1 (2-0)  FC Nantes
+  20.45  Paris Saint-Germain FC   3-1 (2-1)  Olympique Lyonnais
 
 
 Matchday 16
+[Wed Dec/18]
+  21.00  AS Monaco FC             2-4 (0-1)  Paris Saint-Germain FC
+[Fri Jan/3]
+  21.00  OGC Nice                 -  Stade Rennais FC 1901
+[Sat Jan/4]
+  17.00  AS Saint-Étienne         -  Stade de Reims
+  19.00  Lille OSC                -  FC Nantes
+  21.00  Olympique Lyonnais       -  Montpellier HSC
 [Sun Jan/5]
-         AS Monaco FC             -  Paris Saint-Germain FC
-         Olympique Lyonnais       -  Montpellier HSC
-         Racing Club de Lens      -  Toulouse FC
-         AS Saint-Étienne         -  Stade de Reims
+  15.00  Racing Club de Lens      -  Toulouse FC
          Angers SCO               -  Stade Brestois 29
-         Lille OSC                -  FC Nantes
-         Olympique de Marseille   -  Le Havre AC
          RC Strasbourg Alsace     -  AJ Auxerre
-         OGC Nice                 -  Stade Rennais FC 1901
+  20.45  Olympique de Marseille   -  Le Havre AC
 
 
 Matchday 17
+[Fri Jan/10]
+  19.00  FC Nantes                -  AS Monaco FC
+  21.00  AJ Auxerre               -  Lille OSC
+[Sat Jan/11]
+  17.00  Stade Brestois 29        -  Olympique Lyonnais
+  19.00  Stade de Reims           -  OGC Nice
+  21.00  Stade Rennais FC 1901    -  Olympique de Marseille
 [Sun Jan/12]
-         Toulouse FC              -  RC Strasbourg Alsace
-         FC Nantes                -  AS Monaco FC
-         AJ Auxerre               -  Lille OSC
-         Stade de Reims           -  OGC Nice
-         Le Havre AC              -  Racing Club de Lens
+  15.00  Le Havre AC              -  Racing Club de Lens
+  17.15  Toulouse FC              -  RC Strasbourg Alsace
          Montpellier HSC          -  Angers SCO
-         Stade Brestois 29        -  Olympique Lyonnais
-         Paris Saint-Germain FC   -  AS Saint-Étienne
-         Stade Rennais FC 1901    -  Olympique de Marseille
+  20.45  Paris Saint-Germain FC   -  AS Saint-Étienne
 
 
 Matchday 18
+[Fri Jan/17]
+  19.00  Montpellier HSC          -  AS Monaco FC
+  21.00  Lille OSC                -  OGC Nice
+[Sat Jan/18]
+  17.00  Racing Club de Lens      -  Paris Saint-Germain FC
+  19.00  Stade Rennais FC 1901    -  Stade Brestois 29
+  21.00  Olympique Lyonnais       -  Toulouse FC
 [Sun Jan/19]
-         Olympique de Marseille   -  RC Strasbourg Alsace
-         Racing Club de Lens      -  Paris Saint-Germain FC
-         Lille OSC                -  OGC Nice
-         Olympique Lyonnais       -  Toulouse FC
-         AS Saint-Étienne         -  FC Nantes
-         Montpellier HSC          -  AS Monaco FC
-         Stade de Reims           -  Le Havre AC
+  15.00  AS Saint-Étienne         -  FC Nantes
+  17.15  Stade de Reims           -  Le Havre AC
          Angers SCO               -  AJ Auxerre
-         Stade Rennais FC 1901    -  Stade Brestois 29
+  20.45  Olympique de Marseille   -  RC Strasbourg Alsace
 
 
 Matchday 19
+[Fri Jan/24]
+  20.45  AJ Auxerre               -  AS Saint-Étienne
+[Sat Jan/25]
+  17.00  AS Monaco FC             -  Stade Rennais FC 1901
+  19.00  RC Strasbourg Alsace     -  Lille OSC
+  21.00  Paris Saint-Germain FC   -  Stade de Reims
 [Sun Jan/26]
-         RC Strasbourg Alsace     -  Lille OSC
-         FC Nantes                -  Olympique Lyonnais
-         AS Monaco FC             -  Stade Rennais FC 1901
+  15.00  Le Havre AC              -  Stade Brestois 29
+  17.15  FC Nantes                -  Olympique Lyonnais
          Toulouse FC              -  Montpellier HSC
-         Le Havre AC              -  Stade Brestois 29
-         AJ Auxerre               -  AS Saint-Étienne
          Racing Club de Lens      -  Angers SCO
-         Paris Saint-Germain FC   -  Stade de Reims
-         OGC Nice                 -  Olympique de Marseille
+  20.45  OGC Nice                 -  Olympique de Marseille
 
 
 Matchday 20

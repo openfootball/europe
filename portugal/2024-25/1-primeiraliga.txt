@@ -179,71 +179,71 @@ Matchday 11
 
 Matchday 12
 [Fri Nov/29]
-  20.15  SC Farense               -  CF Estrela da Amadora
+  20.15  SC Farense               1-0 (1-0)  CF Estrela da Amadora
 [Sat Nov/30]
-  15.30  Rio Ave FC               -  Moreirense FC
-  18.00  CD Nacional              -  Boavista FC
-  20.30  Sporting Clube de Portugal  -  CD Santa Clara
+  15.30  Rio Ave FC               3-2 (1-0)  Moreirense FC
+  18.00  CD Nacional              0-0  Boavista FC
+  20.30  Sporting Clube de Portugal  0-1 (0-1)  CD Santa Clara
 [Sun Dec/1]
-  15.30  GD Estoril Praia         -  FC Famalicão
-  18.00  FC Arouca                -  Sport Lisboa e Benfica
-  20.30  AVS                      -  Sporting Clube de Braga
+  15.30  GD Estoril Praia         2-1 (2-1)  FC Famalicão
+  18.00  FC Arouca                0-2 (0-1)  Sport Lisboa e Benfica
+  20.30  AVS                      0-1 (0-0)  Sporting Clube de Braga
 [Mon Dec/2]
-  18.45  Vitória Guimarães        -  Gil Vicente FC
-  20.45  FC Porto                 -  Casa Pia AC
+  18.45  Vitória Guimarães        4-0 (1-0)  Gil Vicente FC
+  20.45  FC Porto                 2-0 (0-0)  Casa Pia AC
 
 
 Matchday 13
 [Thu Dec/5]
-  20.15  Moreirense FC            -  Sporting Clube de Portugal
+  20.15  Moreirense FC            2-1 (2-1)  Sporting Clube de Portugal
 [Fri Dec/6]
-  20.15  Sporting Clube de Braga  -  GD Estoril Praia
+  20.15  Sporting Clube de Braga  2-2 (1-0)  GD Estoril Praia
 [Sat Dec/7]
-  15.30  Gil Vicente FC           -  CD Nacional
-  18.00  Sport Lisboa e Benfica   -  Vitória Guimarães
-         CD Santa Clara           -  Rio Ave FC
-  20.30  FC Famalicão             -  FC Porto
+  15.30  Gil Vicente FC           2-1 (1-0)  CD Nacional
+  18.00  Sport Lisboa e Benfica   1-0 (1-0)  Vitória Guimarães
+         CD Santa Clara           1-0 (1-0)  Rio Ave FC
+  20.30  FC Famalicão             1-1 (1-0)  FC Porto
 [Sun Dec/8]
-  15.30  Boavista FC              -  SC Farense
-  18.00  Casa Pia AC              -  AVS
+  15.30  Boavista FC              1-1 (0-0)  SC Farense
+  18.00  Casa Pia AC              1-1 (1-0)  AVS
 [Mon Dec/9]
-  20.15  CF Estrela da Amadora    -  FC Arouca
+  20.15  CF Estrela da Amadora    2-1 (0-1)  FC Arouca
 
 
 Matchday 14
 [Sat Dec/14]
-  15.30  SC Farense               -  Gil Vicente FC
-  18.00  CD Nacional              -  Moreirense FC
-  20.30  GD Estoril Praia         -  Casa Pia AC
+  15.30  SC Farense               0-1 (0-0)  Gil Vicente FC
+  18.00  CD Nacional              1-0 (0-0)  Moreirense FC
+  20.30  Sporting Clube de Portugal  3-2 (1-1)  Boavista FC
 [Sun Dec/15]
-  15.30  FC Arouca                -  CD Santa Clara
-         AVS                      -  Sport Lisboa e Benfica
-  18.00  Sporting Clube de Portugal  -  Boavista FC
+  15.30  FC Arouca                1-0 (0-0)  CD Santa Clara
+  18.00  AVS                      1-1 (0-1)  Sport Lisboa e Benfica
+  20.30  GD Estoril Praia         0-2 (0-0)  Casa Pia AC
 [Mon Dec/16]
-  18.45  Sporting Clube de Braga  -  FC Famalicão
-  20.15  FC Porto                 -  CF Estrela da Amadora
-  20.45  Rio Ave FC               -  Vitória Guimarães
+  18.45  Sporting Clube de Braga  3-3 (0-1)  FC Famalicão
+  20.15  FC Porto                 2-0 (1-0)  CF Estrela da Amadora
+  20.45  Rio Ave FC               2-2 (2-0)  Vitória Guimarães
 
 
 Matchday 8
 [Thu Dec/19]
-  17.00  CD Nacional              -  Sport Lisboa e Benfica
+  17.00  CD Nacional              0-2 (0-0)  Sport Lisboa e Benfica
 
 
 Matchday 15
 [Fri Dec/20]
-  20.15  Casa Pia AC              -  FC Arouca
+  20.15  Casa Pia AC              3-1 (2-0)  FC Arouca
 [Sat Dec/21]
-  15.30  FC Famalicão             -  SC Farense
-  18.00  Boavista FC              -  AVS
-  20.30  Moreirense FC            -  FC Porto
+  15.30  FC Famalicão             1-2 (0-1)  SC Farense
+  18.00  Boavista FC              0-0  AVS
+  20.30  Moreirense FC            0-3 (0-1)  FC Porto
 [Sun Dec/22]
-  19.00  CD Santa Clara           -  Sporting Clube de Braga
-  20.30  Gil Vicente FC           -  Sporting Clube de Portugal
-  20.45  CF Estrela da Amadora    -  Rio Ave FC
+  17.00  CD Santa Clara           0-2 (0-0)  Sporting Clube de Braga
+  20.30  Gil Vicente FC           0-0  Sporting Clube de Portugal
 [Mon Dec/23]
-  18.45  Sport Lisboa e Benfica   -  GD Estoril Praia
-         Vitória Guimarães        -  CD Nacional
+  18.45  Sport Lisboa e Benfica   3-0 (1-0)  GD Estoril Praia
+         Vitória Guimarães        2-2 (1-1)  CD Nacional
+  20.45  CF Estrela da Amadora    1-0 (1-0)  Rio Ave FC
 
 
 Matchday 16
@@ -271,7 +271,7 @@ Matchday 17
   18.00  Sport Lisboa e Benfica   -  Sporting Clube de Braga
   20.30  Boavista FC              -  FC Arouca
 [Sun Jan/5]
-  16.30  CD Santa Clara           -  SC Farense
+  15.30  CD Santa Clara           -  SC Farense
   18.00  Casa Pia AC              -  FC Famalicão
   20.30  CF Estrela da Amadora    -  GD Estoril Praia
 [Mon Jan/6]
@@ -282,7 +282,7 @@ Matchday 18
 [Fri Jan/17]
   20.15  Sport Lisboa e Benfica   -  FC Famalicão
 [Sat Jan/18]
-  16.30  CD Santa Clara           -  GD Estoril Praia
+  15.30  CD Santa Clara           -  GD Estoril Praia
   18.00  Rio Ave FC               -  Sporting Clube de Portugal
   20.30  Vitória Guimarães        -  FC Arouca
 [Sun Jan/19]
