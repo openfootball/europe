@@ -264,18 +264,19 @@ Matchday 16
 
 Matchday 17
 [Fri Jan/3]
-  18.00  CD Nacional              -  FC Porto
-  20.15  Vitória Guimarães        -  Sporting Clube de Portugal
+  20.15  Vitória Guimarães        4-4 (1-2)  Sporting Clube de Portugal
 [Sat Jan/4]
-  15.30  Moreirense FC            -  AVS
-  18.00  Sport Lisboa e Benfica   -  Sporting Clube de Braga
-  20.30  Boavista FC              -  FC Arouca
+  15.30  Moreirense FC            1-1 (1-1)  AVS
+  18.00  Sport Lisboa e Benfica   1-2 (0-2)  Sporting Clube de Braga
+  20.30  Boavista FC              1-3 (0-1)  FC Arouca
 [Sun Jan/5]
-  15.30  CD Santa Clara           -  SC Farense
-  18.00  Casa Pia AC              -  FC Famalicão
-  20.30  CF Estrela da Amadora    -  GD Estoril Praia
+  15.30  CD Santa Clara           0-0  SC Farense
+  18.00  Casa Pia AC              1-1 (1-1)  FC Famalicão
+  20.30  CF Estrela da Amadora    2-4 (0-3)  GD Estoril Praia
 [Mon Jan/6]
-  20.15  Gil Vicente FC           -  Rio Ave FC
+  20.15  Gil Vicente FC           1-1 (1-0)  Rio Ave FC
+[Wed Jan/15]
+  17.00  CD Nacional              -  FC Porto
 
 
 Matchday 18
