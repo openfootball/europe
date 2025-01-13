@@ -249,27 +249,27 @@ Matchday 16
 
 Matchday 17
 [Fri Jan/10]
-  19.00  FC Nantes                -  AS Monaco FC
-  21.00  AJ Auxerre               -  Lille OSC
+  19.00  FC Nantes                2-2 (1-0)  AS Monaco FC
+  21.05  AJ Auxerre               0-0  Lille OSC
 [Sat Jan/11]
-  17.00  Stade Brestois 29        -  Olympique Lyonnais
-  19.00  Stade de Reims           -  OGC Nice
-  21.00  Stade Rennais FC 1901    -  Olympique de Marseille
+  17.00  Stade Brestois 29        2-1 (2-1)  Olympique Lyonnais
+  19.00  Stade de Reims           2-4 (1-2)  OGC Nice
+  21.05  Stade Rennais FC 1901    1-2 (1-1)  Olympique de Marseille
 [Sun Jan/12]
-  15.00  Le Havre AC              -  Racing Club de Lens
-  17.15  Toulouse FC              -  RC Strasbourg Alsace
-         Montpellier HSC          -  Angers SCO
-  20.45  Paris Saint-Germain FC   -  AS Saint-Étienne
+  15.00  Le Havre AC              1-2 (1-1)  Racing Club de Lens
+  17.15  Toulouse FC              1-2 (1-2)  RC Strasbourg Alsace
+         Montpellier HSC          1-3 (0-1)  Angers SCO
+  20.45  Paris Saint-Germain FC   2-1 (2-0)  AS Saint-Étienne
 
 
 Matchday 18
 [Fri Jan/17]
   19.00  Montpellier HSC          -  AS Monaco FC
-  21.00  Lille OSC                -  OGC Nice
+  21.05  Lille OSC                -  OGC Nice
 [Sat Jan/18]
   17.00  Racing Club de Lens      -  Paris Saint-Germain FC
   19.00  Stade Rennais FC 1901    -  Stade Brestois 29
-  21.00  Olympique Lyonnais       -  Toulouse FC
+  21.05  Olympique Lyonnais       -  Toulouse FC
 [Sun Jan/19]
   15.00  AS Saint-Étienne         -  FC Nantes
   17.15  Stade de Reims           -  Le Havre AC
@@ -283,7 +283,7 @@ Matchday 19
 [Sat Jan/25]
   17.00  AS Monaco FC             -  Stade Rennais FC 1901
   19.00  RC Strasbourg Alsace     -  Lille OSC
-  21.00  Paris Saint-Germain FC   -  Stade de Reims
+  21.05  Paris Saint-Germain FC   -  Stade de Reims
 [Sun Jan/26]
   15.00  Le Havre AC              -  Stade Brestois 29
   17.15  FC Nantes                -  Olympique Lyonnais
@@ -293,9 +293,9 @@ Matchday 19
 
 
 Matchday 20
+[Sat Feb/1]
+  17.00  Stade Brestois 29        -  Paris Saint-Germain FC
 [Sun Feb/2]
-         Olympique de Marseille   -  Olympique Lyonnais
-         Stade Brestois 29        -  Paris Saint-Germain FC
          Montpellier HSC          -  Racing Club de Lens
          Lille OSC                -  AS Saint-Étienne
          Stade de Reims           -  FC Nantes
@@ -303,6 +303,7 @@ Matchday 20
          Toulouse FC              -  OGC Nice
          Stade Rennais FC 1901    -  RC Strasbourg Alsace
          AS Monaco FC             -  AJ Auxerre
+  20.45  Olympique de Marseille   -  Olympique Lyonnais
 
 
 Matchday 21
