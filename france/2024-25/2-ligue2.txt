@@ -241,45 +241,45 @@ Matchday 16
 
 Matchday 17
 [Fri Jan/3]
-  20.00  AC Ajaccio               -  FC Annecy
-         Paris FC                 -  FC Martigues
-         Grenoble Foot 38         -  SC Bastia
-         Rodez AF                 -  Red Star FC
-         Amiens SC                -  ESTAC Troyes
-         SM Caen                  -  Clermont Foot 63
+  20.00  AC Ajaccio               1-2 (1-1)  FC Annecy
+         Paris FC                 1-2 (1-0)  FC Martigues
+         Grenoble Foot 38         3-2 (1-1)  SC Bastia
+         Rodez AF                 0-2 (0-1)  Red Star FC
+         Amiens SC                0-3 (0-2)  ESTAC Troyes
+         SM Caen                  0-1 (0-0)  Clermont Foot 63
 [Sat Jan/4]
-  14.00  EA Guingamp              -  USL Dunkerque
-         FC Metz                  -  Pau FC
-  20.00  Stade Lavallois          -  FC Lorient
+  14.00  EA Guingamp              1-1 (0-0)  USL Dunkerque
+         FC Metz                  0-0  Pau FC
+  20.00  Stade Lavallois          2-0 (0-0)  FC Lorient
 
 
 Matchday 18
 [Fri Jan/10]
-  20.00  FC Annecy                -  EA Guingamp
-         FC Martigues             -  Clermont Foot 63
-         Pau FC                   -  USL Dunkerque
-         Rodez AF                 -  ESTAC Troyes
-         SC Bastia                -  AC Ajaccio
-         Stade Lavallois          -  Red Star FC
+  20.00  FC Annecy                1-4 (0-1)  EA Guingamp
+         FC Martigues             0-1 (0-0)  Clermont Foot 63
+         Pau FC                   1-1 (0-1)  USL Dunkerque
+         Rodez AF                 2-1 (1-0)  ESTAC Troyes
+         Stade Lavallois          1-1 (1-1)  Red Star FC
 [Sat Jan/11]
-  14.00  Paris FC                 -  Amiens SC
-         SM Caen                  -  Grenoble Foot 38
-  20.00  FC Lorient               -  FC Metz
+  14.00  Paris FC                 1-0 (0-0)  Amiens SC
+         SC Bastia                4-0 (3-0)  AC Ajaccio
+         SM Caen                  0-1 (0-1)  Grenoble Foot 38
+  20.00  FC Lorient               0-0  FC Metz
 
 
 Matchday 19
 [Fri Jan/17]
-  20.00  AC Ajaccio               -  SM Caen
-         EA Guingamp              -  Rodez AF
-         Red Star FC              -  Pau FC
-         Grenoble Foot 38         -  FC Martigues
-         Amiens SC                -  SC Bastia
+  20.00  AC Ajaccio               2-1 (0-0)  SM Caen
+         EA Guingamp              3-0 (1-0)  Rodez AF
+         Red Star FC              1-3 (1-1)  Pau FC
+         Grenoble Foot 38         1-0 (0-0)  FC Martigues
+         Amiens SC                1-0 (0-0)  SC Bastia
 [Sat Jan/18]
-  14.00  Clermont Foot 63         -  Stade Lavallois
-         FC Metz                  -  Paris FC
-  20.00  USL Dunkerque            -  FC Lorient
+  14.00  Clermont Foot 63         1-1 (0-0)  Stade Lavallois
+         FC Metz                  3-1 (1-1)  Paris FC
+  20.00  USL Dunkerque            0-1 (0-1)  FC Lorient
 [Mon Jan/20]
-  20.45  ESTAC Troyes             -  FC Annecy
+  20.45  ESTAC Troyes             0-1 (0-1)  FC Annecy
 
 
 Matchday 20
@@ -298,55 +298,61 @@ Matchday 20
 
 
 Matchday 21
-[Sat Feb/1]
-         Clermont Foot 63         -  AC Ajaccio
-         EA Guingamp              -  Paris FC
+[Fri Jan/31]
+  20.00  Clermont Foot 63         -  AC Ajaccio
          Pau FC                   -  Stade Lavallois
-         Red Star FC              -  FC Lorient
-         ESTAC Troyes             -  SM Caen
          Grenoble Foot 38         -  Rodez AF
          Amiens SC                -  FC Annecy
          SC Bastia                -  FC Metz
          USL Dunkerque            -  FC Martigues
+[Sat Feb/1]
+  14.00  Red Star FC              -  FC Lorient
+         ESTAC Troyes             -  SM Caen
+  20.00  EA Guingamp              -  Paris FC
 
 
 Matchday 22
-[Sat Feb/8]
-         AC Ajaccio               -  EA Guingamp
-         FC Lorient               -  Amiens SC
-         FC Martigues             -  ESTAC Troyes
-         FC Metz                  -  Clermont Foot 63
+[Fri Feb/7]
+  20.00  FC Martigues             -  ESTAC Troyes
          Paris FC                 -  Pau FC
          Grenoble Foot 38         -  Red Star FC
          Rodez AF                 -  SC Bastia
-         SM Caen                  -  USL Dunkerque
          Stade Lavallois          -  FC Annecy
+[Sat Feb/8]
+  14.00  AC Ajaccio               -  EA Guingamp
+         FC Lorient               -  Amiens SC
+  20.00  FC Metz                  -  Clermont Foot 63
+[Mon Feb/10]
+  20.45  SM Caen                  -  USL Dunkerque
 
 
 Matchday 23
-[Sat Feb/15]
-         AC Ajaccio               -  Stade Lavallois
+[Fri Feb/14]
+  20.00  AC Ajaccio               -  Stade Lavallois
          Clermont Foot 63         -  SC Bastia
-         EA Guingamp              -  FC Metz
-         FC Annecy                -  SM Caen
          Pau FC                   -  Rodez AF
          Red Star FC              -  FC Martigues
          ESTAC Troyes             -  FC Lorient
          Amiens SC                -  Grenoble Foot 38
-         USL Dunkerque            -  Paris FC
+[Sat Feb/15]
+  14.00  USL Dunkerque            -  Paris FC
+  20.00  EA Guingamp              -  FC Metz
+[Mon Feb/17]
+  20.45  FC Annecy                -  SM Caen
 
 
 Matchday 24
-[Sat Feb/22]
-         FC Lorient               -  Stade Lavallois
-         FC Martigues             -  FC Annecy
-         FC Metz                  -  AC Ajaccio
+[Fri Feb/21]
+  20.00  FC Martigues             -  FC Annecy
          Paris FC                 -  ESTAC Troyes
          Grenoble Foot 38         -  EA Guingamp
          Rodez AF                 -  Amiens SC
          SC Bastia                -  Red Star FC
-         SM Caen                  -  Pau FC
          USL Dunkerque            -  Clermont Foot 63
+[Sat Feb/22]
+  14.00  FC Lorient               -  Stade Lavallois
+         SM Caen                  -  Pau FC
+  20.00  FC Metz                  -  AC Ajaccio
 
 
 Matchday 25
