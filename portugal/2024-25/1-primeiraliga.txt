@@ -313,49 +313,55 @@ Matchday 19
 
 Matchday 20
 [Fri Jan/31]
-  20.15  Boavista FC              -  FC Famalicão
+  20.15  Boavista FC              0-2 (0-1)  FC Famalicão
 [Sat Feb/1]
-  15.30  CD Nacional              -  FC Arouca
-         CD Santa Clara           -  Casa Pia AC
-  18.00  Gil Vicente FC           -  GD Estoril Praia
-  20.30  Vitória Guimarães        -  AVS
+  15.30  CD Nacional              1-2 (1-2)  FC Arouca
+         CD Santa Clara           2-1 (0-1)  Casa Pia AC
+  18.00  Gil Vicente FC           1-2 (1-1)  GD Estoril Praia
+  20.30  Vitória Guimarães        2-0 (0-0)  AVS
 [Sun Feb/2]
-  18.00  Sporting Clube de Portugal  -  SC Farense
-  20.30  CF Estrela da Amadora    -  Sport Lisboa e Benfica
+  18.00  Sporting Clube de Portugal  3-1 (2-1)  SC Farense
+  20.30  CF Estrela da Amadora    2-3 (1-3)  Sport Lisboa e Benfica
 [Mon Feb/3]
   18.45  Moreirense FC            -  Sporting Clube de Braga
   20.45  Rio Ave FC               -  FC Porto
 
 
 Matchday 21
+[Fri Feb/7]
+  20.15  FC Porto                 -  Sporting Clube de Portugal
+[Sat Feb/8]
+  15.30  AVS                      -  CD Santa Clara
+  18.00  Sport Lisboa e Benfica   -  Moreirense FC
+  20.30  FC Famalicão             -  Vitória Guimarães
 [Sun Feb/9]
-  00.00  FC Porto                 -  Sporting Clube de Portugal
-         GD Estoril Praia         -  Boavista FC
-         Sport Lisboa e Benfica   -  Moreirense FC
-         Sporting Clube de Braga  -  Gil Vicente FC
-         AVS                      -  CD Santa Clara
-         FC Arouca                -  Rio Ave FC
-         FC Famalicão             -  Vitória Guimarães
+  15.30  GD Estoril Praia         -  Boavista FC
          SC Farense               -  CD Nacional
-         Casa Pia AC              -  CF Estrela da Amadora
+  18.00  Sporting Clube de Braga  -  Gil Vicente FC
+  20.30  Casa Pia AC              -  CF Estrela da Amadora
+[Mon Feb/10]
+  20.15  FC Arouca                -  Rio Ave FC
 
 
 Matchday 22
-[Sun Feb/16]
-  00.00  Moreirense FC            -  Casa Pia AC
-         Vitória Guimarães        -  Sporting Clube de Braga
-         Sporting Clube de Portugal  -  FC Arouca
-         CD Santa Clara           -  Sport Lisboa e Benfica
+[Fri Feb/14]
+  20.15  Boavista FC              -  CF Estrela da Amadora
+[Sat Feb/15]
+  15.30  Moreirense FC            -  Casa Pia AC
          CD Nacional              -  GD Estoril Praia
-         Gil Vicente FC           -  FC Famalicão
-         SC Farense               -  FC Porto
-         Boavista FC              -  CF Estrela da Amadora
-         Rio Ave FC               -  AVS
+  18.00  CD Santa Clara           -  Sport Lisboa e Benfica
+  20.30  Sporting Clube de Portugal  -  FC Arouca
+[Sun Feb/16]
+  15.30  Rio Ave FC               -  AVS
+  18.00  SC Farense               -  FC Porto
+  20.30  Vitória Guimarães        -  Sporting Clube de Braga
+[Mon Feb/17]
+  20.15  Gil Vicente FC           -  FC Famalicão
 
 
 Matchday 23
 [Sun Feb/23]
-         Sport Lisboa e Benfica   -  Boavista FC
+  00.00  Sport Lisboa e Benfica   -  Boavista FC
          FC Porto                 -  Vitória Guimarães
          CF Estrela da Amadora    -  CD Santa Clara
          Sporting Clube de Braga  -  CD Nacional

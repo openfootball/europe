@@ -311,22 +311,22 @@ Matchday 20
 
 Matchday 17
 [Tue Jan/28]
-  20.00  Heracles Almelo          -  FC Groningen
+  20.00  Heracles Almelo          1-1 (1-0)  FC Groningen
 
 
 Matchday 21
 [Fri Jan/31]
-  20.00  NAC Breda                -  Heracles Almelo
+  20.00  NAC Breda                1-1 (1-0)  Heracles Almelo
 [Sat Feb/1]
-  18.45  PEC Zwolle               -  FC Utrecht
-  20.00  SC Heerenveen            -  Fortuna Sittard
-  21.00  NEC                      -  PSV
+  18.45  PEC Zwolle               3-3 (2-0)  FC Utrecht
+  20.00  SC Heerenveen            2-2 (1-1)  Fortuna Sittard
+  21.00  NEC                      3-3 (0-0)  PSV
 [Sun Feb/2]
-  12.15  Almere City FC           -  RKC Waalwijk
-  14.30  AFC Ajax                 -  Feyenoord Rotterdam
-         Go Ahead Eagles          -  FC Twente '65
-  16.45  Sparta Rotterdam         -  FC Groningen
-  20.00  Willem II Tilburg        -  AZ
+  12.15  Almere City FC           1-4 (1-0)  RKC Waalwijk
+  14.30  AFC Ajax                 2-1 (1-0)  Feyenoord Rotterdam
+         Go Ahead Eagles          2-2 (1-0)  FC Twente '65
+  16.45  Sparta Rotterdam         1-0 (0-0)  FC Groningen
+  20.00  Willem II Tilburg        0-2 (0-2)  AZ
 
 
 Matchday 22
@@ -336,11 +336,11 @@ Matchday 22
   20.00  FC Groningen             -  NEC
   21.00  Feyenoord Rotterdam      -  Sparta Rotterdam
 [Sun Feb/9]
-  12.15  AZ                       -  PEC Zwolle
-         FC Utrecht               -  Almere City FC
+  12.15  FC Utrecht               -  Almere City FC
   14.30  Fortuna Sittard          -  AFC Ajax
          RKC Waalwijk             -  NAC Breda
-  16.45  SC Heerenveen            -  FC Twente '65
+  16.45  AZ                       -  PEC Zwolle
+         SC Heerenveen            -  FC Twente '65
 
 
 Matchday 23
