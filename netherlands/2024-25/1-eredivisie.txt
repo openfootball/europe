@@ -331,29 +331,29 @@ Matchday 21
 
 Matchday 22
 [Sat Feb/8]
-  16.30  Heracles Almelo          -  Go Ahead Eagles
-  18.45  PSV                      -  Willem II Tilburg
-  20.00  FC Groningen             -  NEC
-  21.00  Feyenoord Rotterdam      -  Sparta Rotterdam
+  16.30  Heracles Almelo          4-2 (1-1)  Go Ahead Eagles
+  18.45  PSV                      1-1 (0-0)  Willem II Tilburg
+  20.00  FC Groningen             2-1 (2-0)  NEC
+  21.00  Feyenoord Rotterdam      3-0 (1-0)  Sparta Rotterdam
 [Sun Feb/9]
-  12.15  FC Utrecht               -  Almere City FC
-  14.30  Fortuna Sittard          -  AFC Ajax
-         RKC Waalwijk             -  NAC Breda
-  16.45  AZ                       -  PEC Zwolle
-         SC Heerenveen            -  FC Twente '65
+  12.15  FC Utrecht               0-1 (0-1)  Almere City FC
+  14.30  Fortuna Sittard          0-2 (0-0)  AFC Ajax
+         RKC Waalwijk             5-0 (3-0)  NAC Breda
+  16.45  AZ                       2-0 (1-0)  PEC Zwolle
+         SC Heerenveen            3-3 (1-2)  FC Twente '65
 
 
 Matchday 23
 [Fri Feb/14]
   20.00  Go Ahead Eagles          -  Sparta Rotterdam
 [Sat Feb/15]
+  16.30  PSV                      -  FC Utrecht
   18.45  NAC Breda                -  Feyenoord Rotterdam
   21.00  Willem II Tilburg        -  FC Groningen
 [Sun Feb/16]
   12.15  NEC                      -  Almere City FC
   14.30  PEC Zwolle               -  SC Heerenveen
          FC Twente '65            -  RKC Waalwijk
-  16.30  PSV                      -  FC Utrecht
   16.45  AFC Ajax                 -  Heracles Almelo
 
 
@@ -361,8 +361,8 @@ Matchday 20
 [Sat Feb/22]
   20.00  Feyenoord Rotterdam      -  Almere City FC
 [Sun Feb/23]
-  12.15  FC Twente '65            -  NEC
   14.30  AFC Ajax                 -  Go Ahead Eagles
+         FC Twente '65            -  NEC
 
 
 Matchday 23

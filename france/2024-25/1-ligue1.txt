@@ -309,30 +309,32 @@ Matchday 20
 
 Matchday 21
 [Fri Feb/7]
-  21.05  Paris Saint-Germain FC   -  AS Monaco FC
+  19.00  FC Nantes                0-2 (0-1)  Stade Brestois 29
+  21.05  Paris Saint-Germain FC   4-1 (1-1)  AS Monaco FC
 [Sat Feb/8]
-  17.00  OGC Nice                 -  Racing Club de Lens
-  21.05  AS Saint-Étienne         -  Stade Rennais FC 1901
+  17.00  OGC Nice                 2-0 (1-0)  Racing Club de Lens
+  19.00  Lille OSC                1-2 (0-1)  Le Havre AC
+  21.05  AS Saint-Étienne         0-2 (0-1)  Stade Rennais FC 1901
 [Sun Feb/9]
-         FC Nantes                -  Stade Brestois 29
-         Lille OSC                -  Le Havre AC
-  15.00  Olympique Lyonnais       -  Stade de Reims
-  17.15  AJ Auxerre               -  Toulouse FC
-         RC Strasbourg Alsace     -  Montpellier HSC
-  20.45  Angers SCO               -  Olympique de Marseille
+  15.00  Olympique Lyonnais       4-0 (1-0)  Stade de Reims
+  17.15  AJ Auxerre               2-2 (0-0)  Toulouse FC
+         RC Strasbourg Alsace     2-0 (1-0)  Montpellier HSC
+  20.45  Angers SCO               0-2 (0-0)  Olympique de Marseille
 
 
 Matchday 22
+[Fri Feb/14]
+  20.45  Stade Brestois 29        -  AJ Auxerre
+[Sat Feb/15]
+  17.00  Olympique de Marseille   -  AS Saint-Étienne
+  19.00  AS Monaco FC             -  FC Nantes
+  21.05  Toulouse FC              -  Paris Saint-Germain FC
 [Sun Feb/16]
-         Toulouse FC              -  Paris Saint-Germain FC
-         Olympique de Marseille   -  AS Saint-Étienne
-         Montpellier HSC          -  Olympique Lyonnais
-         Racing Club de Lens      -  RC Strasbourg Alsace
-         Stade Brestois 29        -  AJ Auxerre
-         Stade Rennais FC 1901    -  Lille OSC
+  15.00  Montpellier HSC          -  Olympique Lyonnais
+  17.15  Racing Club de Lens      -  RC Strasbourg Alsace
          Stade de Reims           -  Angers SCO
          Le Havre AC              -  OGC Nice
-         AS Monaco FC             -  FC Nantes
+  20.45  Stade Rennais FC 1901    -  Lille OSC
 
 
 Matchday 23

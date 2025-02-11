@@ -323,24 +323,24 @@ Matchday 20
   18.00  Sporting Clube de Portugal  3-1 (2-1)  SC Farense
   20.30  CF Estrela da Amadora    2-3 (1-3)  Sport Lisboa e Benfica
 [Mon Feb/3]
-  18.45  Moreirense FC            -  Sporting Clube de Braga
-  20.45  Rio Ave FC               -  FC Porto
+  18.45  Moreirense FC            1-2 (1-0)  Sporting Clube de Braga
+  20.45  Rio Ave FC               2-2 (1-0)  FC Porto
 
 
 Matchday 21
 [Fri Feb/7]
-  20.15  FC Porto                 -  Sporting Clube de Portugal
+  20.15  FC Porto                 1-1 (0-1)  Sporting Clube de Portugal
 [Sat Feb/8]
-  15.30  AVS                      -  CD Santa Clara
-  18.00  Sport Lisboa e Benfica   -  Moreirense FC
-  20.30  FC Famalicão             -  Vitória Guimarães
+  15.30  AVS                      1-2 (0-0)  CD Santa Clara
+  18.00  Sport Lisboa e Benfica   3-2 (3-1)  Moreirense FC
+  20.30  FC Famalicão             0-0  Vitória Guimarães
 [Sun Feb/9]
-  15.30  GD Estoril Praia         -  Boavista FC
-         SC Farense               -  CD Nacional
-  18.00  Sporting Clube de Braga  -  Gil Vicente FC
-  20.30  Casa Pia AC              -  CF Estrela da Amadora
+  15.30  GD Estoril Praia         2-1 (1-0)  Boavista FC
+         SC Farense               0-2 (0-0)  CD Nacional
+  18.00  Sporting Clube de Braga  2-0 (1-0)  Gil Vicente FC
+  20.30  Casa Pia AC              1-0 (1-0)  CF Estrela da Amadora
 [Mon Feb/10]
-  20.15  FC Arouca                -  Rio Ave FC
+  20.15  FC Arouca                1-1 (0-0)  Rio Ave FC
 
 
 Matchday 22
@@ -374,7 +374,7 @@ Matchday 23
 
 Matchday 24
 [Sun Mar/2]
-         Vitória Guimarães        -  Casa Pia AC
+  00.00  Vitória Guimarães        -  Casa Pia AC
          Gil Vicente FC           -  Sport Lisboa e Benfica
          Rio Ave FC               -  Sporting Clube de Braga
          Sporting Clube de Portugal  -  GD Estoril Praia
