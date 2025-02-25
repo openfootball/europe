@@ -336,7 +336,7 @@ Matchday 21
   20.30  FC Famalicão             0-0  Vitória Guimarães
 [Sun Feb/9]
   15.30  GD Estoril Praia         2-1 (1-0)  Boavista FC
-         SC Farense               0-2 (0-0)  CD Nacional
+         SC Farense               -  CD Nacional
   18.00  Sporting Clube de Braga  2-0 (1-0)  Gil Vicente FC
   20.30  Casa Pia AC              1-0 (1-0)  CF Estrela da Amadora
 [Mon Feb/10]
@@ -348,7 +348,7 @@ Matchday 22
   20.15  Boavista FC              0-1 (0-1)  CF Estrela da Amadora
 [Sat Feb/15]
   15.30  Moreirense FC            3-2 (3-0)  Casa Pia AC
-  17.00  CD Nacional              2-2 (1-1)  GD Estoril Praia
+         CD Nacional              2-2 (1-1)  GD Estoril Praia
   18.00  CD Santa Clara           0-1 (0-0)  Sport Lisboa e Benfica
   20.30  Sporting Clube de Portugal  2-2 (1-2)  FC Arouca
 [Sun Feb/16]
@@ -360,19 +360,16 @@ Matchday 22
 
 
 Matchday 23
-[Fri Feb/21]
-  20.15  Sporting Clube de Braga  -  CD Nacional
-[Sat Feb/22]
-  15.30  Casa Pia AC              -  Gil Vicente FC
-  18.00  Sport Lisboa e Benfica   -  Boavista FC
-  20.30  GD Estoril Praia         -  Rio Ave FC
 [Sun Feb/23]
-  15.30  CF Estrela da Amadora    -  CD Santa Clara
-         FC Arouca                -  SC Farense
-  18.00  AVS                      -  Sporting Clube de Portugal
-  20.30  FC Famalicão             -  Moreirense FC
-[Mon Feb/24]
-  20.15  FC Porto                 -  Vitória Guimarães
+  00.00  Sport Lisboa e Benfica   3-0 (1-0)  Boavista FC
+         FC Porto                 1-1 (0-0)  Vitória Guimarães
+         CF Estrela da Amadora    0-0  CD Santa Clara
+         Sporting Clube de Braga  1-0 (1-0)  CD Nacional
+         AVS                      2-2 (0-2)  Sporting Clube de Portugal
+         FC Arouca                2-2 (0-1)  SC Farense
+         FC Famalicão             2-0 (0-0)  Moreirense FC
+         GD Estoril Praia         2-1 (0-0)  Rio Ave FC
+         Casa Pia AC              1-0 (0-0)  Gil Vicente FC
 
 
 Matchday 24
@@ -390,7 +387,7 @@ Matchday 24
 
 Matchday 25
 [Sun Mar/9]
-  00.00  CF Estrela da Amadora    -  Gil Vicente FC
+         CF Estrela da Amadora    -  Gil Vicente FC
          GD Estoril Praia         -  SC Farense
          Sporting Clube de Braga  -  FC Porto
          AVS                      -  FC Arouca

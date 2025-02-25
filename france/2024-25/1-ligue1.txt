@@ -338,47 +338,42 @@ Matchday 22
 
 
 Matchday 23
-[Fri Feb/21]
-  20.45  Stade Rennais FC 1901    -  Stade de Reims
-[Sat Feb/22]
-  17.00  Lille OSC                -  AS Monaco FC
-  19.00  AS Saint-Étienne         -  Angers SCO
-  21.05  AJ Auxerre               -  Olympique de Marseille
 [Sun Feb/23]
-  15.00  FC Nantes                -  Racing Club de Lens
-  17.15  Le Havre AC              -  Toulouse FC
-         RC Strasbourg Alsace     -  Stade Brestois 29
-         OGC Nice                 -  Montpellier HSC
-  20.45  Olympique Lyonnais       -  Paris Saint-Germain FC
+  01.00  Stade Rennais FC 1901    1-0 (1-0)  Stade de Reims
+         Le Havre AC              1-4 (0-1)  Toulouse FC
+         Lille OSC                2-1 (2-1)  AS Monaco FC
+         RC Strasbourg Alsace     0-0  Stade Brestois 29
+         FC Nantes                3-1 (1-0)  Racing Club de Lens
+         AS Saint-Étienne         3-3 (1-2)  Angers SCO
+         AJ Auxerre               3-0 (1-0)  Olympique de Marseille
+         OGC Nice                 2-0 (1-0)  Montpellier HSC
+         Olympique Lyonnais       2-3 (0-0)  Paris Saint-Germain FC
 
 
 Matchday 24
-[Fri Feb/28]
-  20.45  AS Monaco FC             -  Stade de Reims
-[Sat Mar/1]
-  17.00  AS Saint-Étienne         -  OGC Nice
-  19.00  Racing Club de Lens      -  Le Havre AC
-  21.05  Paris Saint-Germain FC   -  Lille OSC
 [Sun Mar/2]
-  15.00  Olympique Lyonnais       -  Stade Brestois 29
-  17.15  Montpellier HSC          -  Stade Rennais FC 1901
+         Paris Saint-Germain FC   -  Lille OSC
+  01.00  Olympique de Marseille   -  FC Nantes
+         Olympique Lyonnais       -  Stade Brestois 29
+         Montpellier HSC          -  Stade Rennais FC 1901
+  01.00  AS Saint-Étienne         -  OGC Nice
+         Racing Club de Lens      -  Le Havre AC
          AJ Auxerre               -  RC Strasbourg Alsace
+         AS Monaco FC             -  Stade de Reims
          Angers SCO               -  Toulouse FC
-  20.45  Olympique de Marseille   -  FC Nantes
 
 
 Matchday 25
-[Sat Mar/8]
-  17.00  Olympique de Marseille   -  Racing Club de Lens
 [Sun Mar/9]
+  01.00  Le Havre AC              -  AS Saint-Étienne
+         Stade de Reims           -  AJ Auxerre
+         FC Nantes                -  RC Strasbourg Alsace
          Toulouse FC              -  AS Monaco FC
          OGC Nice                 -  Olympique Lyonnais
          Stade Brestois 29        -  Angers SCO
          Lille OSC                -  Montpellier HSC
          Stade Rennais FC 1901    -  Paris Saint-Germain FC
-  17.15  Le Havre AC              -  AS Saint-Étienne
-         Stade de Reims           -  AJ Auxerre
-         FC Nantes                -  RC Strasbourg Alsace
+         Olympique de Marseille   -  Racing Club de Lens
 
 
 Matchday 26
