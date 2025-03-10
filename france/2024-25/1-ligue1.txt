@@ -369,17 +369,17 @@ Matchday 24
 
 Matchday 25
 [Fri Mar/7]
-  20.45  Toulouse FC              -  AS Monaco FC
+  20.45  Toulouse FC              1-1 (0-1)  AS Monaco FC
 [Sat Mar/8]
-  17.00  Stade Rennais FC 1901    -  Paris Saint-Germain FC
-  19.00  Lille OSC                -  Montpellier HSC
-  21.05  Olympique de Marseille   -  Racing Club de Lens
+  17.00  Stade Rennais FC 1901    1-4 (0-1)  Paris Saint-Germain FC
+  19.00  Lille OSC                1-0 (0-0)  Montpellier HSC
+  21.05  Olympique de Marseille   0-1 (0-0)  Racing Club de Lens
 [Sun Mar/9]
-  15.00  Stade Brestois 29        -  Angers SCO
-  17.15  Le Havre AC              -  AS Saint-Étienne
-         Stade de Reims           -  AJ Auxerre
-         FC Nantes                -  RC Strasbourg Alsace
-  20.45  OGC Nice                 -  Olympique Lyonnais
+  15.00  Stade Brestois 29        2-0 (1-0)  Angers SCO
+  17.15  Le Havre AC              1-1 (1-1)  AS Saint-Étienne
+         Stade de Reims           0-2 (0-2)  AJ Auxerre
+         FC Nantes                0-1 (0-0)  RC Strasbourg Alsace
+  20.45  OGC Nice                 0-2 (0-0)  Olympique Lyonnais
 
 
 Matchday 26
@@ -398,16 +398,18 @@ Matchday 26
 
 
 Matchday 27
+[Fri Mar/28]
+  20.45  RC Strasbourg Alsace     -  Olympique Lyonnais
+[Sat Mar/29]
+  17.00  Stade de Reims           -  Olympique de Marseille
+  19.00  AS Saint-Étienne         -  Paris Saint-Germain FC
+  21.05  AS Monaco FC             -  OGC Nice
 [Sun Mar/30]
-  01.00  Angers SCO               -  Stade Rennais FC 1901
+  15.00  Toulouse FC              -  Stade Brestois 29
+  17.15  Angers SCO               -  Stade Rennais FC 1901
          AJ Auxerre               -  Montpellier HSC
          Le Havre AC              -  FC Nantes
-         RC Strasbourg Alsace     -  Olympique Lyonnais
-         Toulouse FC              -  Stade Brestois 29
-         AS Saint-Étienne         -  Paris Saint-Germain FC
-         Stade de Reims           -  Olympique de Marseille
-         Lille OSC                -  Racing Club de Lens
-         AS Monaco FC             -  OGC Nice
+  20.45  Lille OSC                -  Racing Club de Lens
 
 
 Matchday 28

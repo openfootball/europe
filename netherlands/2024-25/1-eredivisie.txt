@@ -377,25 +377,27 @@ Matchday 24
   16.30  FC Utrecht               1-0 (0-0)  NAC Breda
   18.45  Go Ahead Eagles          3-2 (1-2)  PSV
   20.00  FC Groningen             1-1 (1-1)  FC Twente '65
-  21.00  Feyenoord Rotterdam      0-0  NEC
+  21.00  Feyenoord Rotterdam      0-1 (0-0)  NEC
 [Sun Mar/2]
-  12.15  SC Heerenveen            3-1 (1-0)  AZ
-  14.30  Almere City FC           0-1 (0-1)  AFC Ajax
+  12.15  SC Heerenveen            3-2 (1-0)  AZ
+  14.30  Almere City FC           0-2 (0-1)  AFC Ajax
          Heracles Almelo          4-2 (2-2)  PEC Zwolle
   16.45  Sparta Rotterdam         4-0 (1-0)  Willem II Tilburg
 
 
 Matchday 25
 [Fri Mar/7]
-  20.00  NAC Breda                -  Sparta Rotterdam
+  20.00  NAC Breda                1-1 (0-1)  Sparta Rotterdam
 [Sat Mar/8]
-  16.30  Fortuna Sittard          -  Heracles Almelo
-  20.00  PSV                      -  SC Heerenveen
+  16.30  Fortuna Sittard          1-0 (0-0)  Heracles Almelo
+  18.45  Feyenoord Rotterdam      -  FC Groningen
+  21.00  PSV                      2-1 (1-0)  SC Heerenveen
 [Sun Mar/9]
-  12.15  Willem II Tilburg        -  FC Utrecht
-  14.30  NEC                      -  Go Ahead Eagles
-         PEC Zwolle               -  AFC Ajax
-  16.45  FC Twente '65            -  Almere City FC
+  12.15  Willem II Tilburg        2-3 (1-0)  FC Utrecht
+  14.30  NEC                      2-3 (0-1)  Go Ahead Eagles
+         PEC Zwolle               0-1 (0-0)  AFC Ajax
+  16.45  AZ                       -  RKC Waalwijk
+  20.00  FC Twente '65            1-0 (1-0)  Almere City FC
 
 
 Matchday 26
@@ -425,13 +427,6 @@ Matchday 27
   14.30  Heracles Almelo          -  FC Twente '65
          PSV                      -  AFC Ajax
   16.45  Feyenoord Rotterdam      -  Go Ahead Eagles
-
-
-Matchday 25
-[Tue Apr/1]
-  20.00  AZ                       -  RKC Waalwijk
-[Wed Apr/2]
-  20.00  Feyenoord Rotterdam      -  FC Groningen
 
 
 Matchday 28

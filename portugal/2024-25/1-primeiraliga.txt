@@ -390,33 +390,29 @@ Matchday 24
 
 
 Matchday 25
-[Fri Mar/7]
-  20.15  CF Estrela da Amadora    -  Gil Vicente FC
-[Sat Mar/8]
-  15.30  AVS                      -  FC Arouca
-  18.00  GD Estoril Praia         -  SC Farense
-         Sport Lisboa e Benfica   -  CD Nacional
-  20.30  Sporting Clube de Braga  -  FC Porto
 [Sun Mar/9]
-  15.30  CD Santa Clara           -  Moreirense FC
-  18.00  Casa Pia AC              -  Sporting Clube de Portugal
-  20.30  Boavista FC              -  Vitória Guimarães
-[Mon Mar/10]
-  20.15  FC Famalicão             -  Rio Ave FC
+  00.00  CF Estrela da Amadora    1-1 (0-0)  Gil Vicente FC
+         GD Estoril Praia         2-2 (0-0)  SC Farense
+         Sporting Clube de Braga  1-0 (1-0)  FC Porto
+         AVS                      0-1 (0-0)  FC Arouca
+         Sport Lisboa e Benfica   3-0 (2-0)  CD Nacional
+         Boavista FC              1-2 (1-0)  Vitória Guimarães
+         Casa Pia AC              1-3 (1-2)  Sporting Clube de Portugal
+         CD Santa Clara           1-1 (0-0)  Moreirense FC
+         FC Famalicão             -  Rio Ave FC
 
 
 Matchday 26
-[Sat Mar/15]
-  15.30  SC Farense               -  Sporting Clube de Braga
-         Gil Vicente FC           -  CD Santa Clara
-  18.00  FC Porto                 -  AVS
-  20.30  Sporting Clube de Portugal  -  FC Famalicão
 [Sun Mar/16]
-  15.30  CD Nacional              -  Casa Pia AC
-         FC Arouca                -  GD Estoril Praia
-  18.00  Rio Ave FC               -  Sport Lisboa e Benfica
-  20.30  Vitória Guimarães        -  CF Estrela da Amadora
+  00.00  CD Nacional              -  Casa Pia AC
+         Rio Ave FC               -  Sport Lisboa e Benfica
+         SC Farense               -  Sporting Clube de Braga
+         Vitória Guimarães        -  CF Estrela da Amadora
          Moreirense FC            -  Boavista FC
+         FC Arouca                -  GD Estoril Praia
+         Gil Vicente FC           -  CD Santa Clara
+         Sporting Clube de Portugal  -  FC Famalicão
+         FC Porto                 -  AVS
 
 
 Matchday 24
