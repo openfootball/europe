@@ -384,17 +384,17 @@ Matchday 25
 
 Matchday 26
 [Fri Mar/14]
-  20.45  OGC Nice                 -  AJ Auxerre
+  20.45  OGC Nice                 1-1 (1-0)  AJ Auxerre
 [Sat Mar/15]
-  17.00  FC Nantes                -  Lille OSC
-  19.00  Angers SCO               -  AS Monaco FC
-  21.05  Racing Club de Lens      -  Stade Rennais FC 1901
+  17.00  FC Nantes                1-0 (0-0)  Lille OSC
+  19.00  Angers SCO               0-2 (0-0)  AS Monaco FC
+  21.05  Racing Club de Lens      1-0 (0-0)  Stade Rennais FC 1901
 [Sun Mar/16]
-  15.00  Olympique Lyonnais       -  Le Havre AC
-  17.15  Montpellier HSC          -  AS Saint-Étienne
-         Stade Brestois 29        -  Stade de Reims
-         RC Strasbourg Alsace     -  Toulouse FC
-  20.45  Paris Saint-Germain FC   -  Olympique de Marseille
+  15.00  Olympique Lyonnais       4-2 (1-2)  Le Havre AC
+  17.15  Montpellier HSC          -  AS Saint-Étienne         [cancelled]
+         Stade Brestois 29        0-0  Stade de Reims
+         RC Strasbourg Alsace     2-1 (0-1)  Toulouse FC
+  20.45  Paris Saint-Germain FC   3-1 (2-0)  Olympique de Marseille
 
 
 Matchday 27
@@ -414,7 +414,7 @@ Matchday 27
 
 Matchday 28
 [Sun Apr/6]
-         Olympique de Marseille   -  Toulouse FC
+  02.00  Olympique de Marseille   -  Toulouse FC
          OGC Nice                 -  FC Nantes
          Stade Brestois 29        -  AS Monaco FC
          Montpellier HSC          -  Le Havre AC
