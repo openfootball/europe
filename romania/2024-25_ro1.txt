@@ -1,412 +1,625 @@
-= Romanian Liga 1 2024/25
+= Romania Liga 1 2024/25
 
-# Date       Fri Jul/12 2024 - Sat Mar/8 2025 (239d)
+# Date       Fri Jul/12 2024 - Sat May/24 2025 (316d)
 # Teams      16
-# Matches    240
-
-
-
-Matchday 1
-[Fri Jul/12]
-  21.30  FC Hermannstadt          0-0  CS Universitatea Craiova
-  18.30  Farul Constanța          0-1 (0-1)  Unirea Slobozia
-[Sat Jul/13]
-  19.15  UTA Arad                 1-1 (0-1)  Rapid Bucureşti
-  22.00  FCSB                     1-1 (0-0)  Universitatea Cluj
-  17.00  Sepsi OSK                1-0 (1-0)  FC Politehnica Iași
-[Sun Jul/14]
-  19.00  CFR Cluj                 3-2 (1-2)  Dinamo Bucureşti
-[Mon Jul/15]
-  18.30  FC Botoşani              2-3 (1-1)  Oţelul Galaţi
-  21.30  Petrolul Ploieşti        0-0  Gloria Buzău
-
-
-Matchday 2
-[Fri Jul/19]
-  22.00  Unirea Slobozia          2-2 (1-1)  FCSB
-  19.00  FC Politehnica Iași      1-0 (1-0)  FC Botoşani
-[Sat Jul/20]
-  22.00  Rapid Bucureşti          2-2 (0-1)  CFR Cluj
-  19.00  CS Universitatea Craiova  4-2 (1-1)  UTA Arad
-[Sun Jul/21]
-  22.00  Dinamo Bucureşti         4-1 (2-0)  Petrolul Ploieşti
-  19.00  Universitatea Cluj       3-1 (3-1)  FC Hermannstadt
-[Mon Jul/22]
-  19.00  Gloria Buzău             1-2 (0-2)  Sepsi OSK
-  22.00  Oţelul Galaţi            0-0  Farul Constanța
-
-
-Matchday 3
-[Fri Jul/26]
-  22.00  FCSB                     0-2 (0-1)  Oţelul Galaţi
-  19.00  FC Hermannstadt          1-1 (1-1)  Unirea Slobozia
-[Sat Jul/27]
-  22.00  Sepsi OSK                1-1 (1-0)  Dinamo Bucureşti
-  19.00  FC Politehnica Iași      1-2 (1-1)  Gloria Buzău
-[Sun Jul/28]
-  22.00  CFR Cluj                 0-2 (0-0)  CS Universitatea Craiova
-  19.00  Farul Constanța          0-1 (0-0)  FC Botoşani
-[Mon Jul/29]
-  19.00  UTA Arad                 0-0  Universitatea Cluj
-  22.00  Petrolul Ploieşti        1-0 (1-0)  Rapid Bucureşti
-
-
-Matchday 4
-[Fri Aug/2]
-  22.00  Dinamo Bucureşti         4-1 (2-0)  Gloria Buzău
-  19.00  Oţelul Galaţi            1-0 (0-0)  FC Hermannstadt
-[Sat Aug/3]
-  21.00  Farul Constanța          2-0 (2-0)  FC Politehnica Iași
-[Sun Aug/4]
-  22.00  CFR Cluj                 2-3 (1-0)  Universitatea Cluj
-  19.00  CS Universitatea Craiova  0-0  Petrolul Ploieşti
-[Mon Aug/5]
-  19.00  Unirea Slobozia          0-1 (0-0)  UTA Arad
-  22.00  Rapid Bucureşti          2-2 (2-1)  Sepsi OSK
-
-
-Matchday 5
-[Fri Aug/9]
-  21.00  FCSB                     3-2 (1-2)  Farul Constanța
-[Sat Aug/10]
-  17.00  FC Hermannstadt          2-1 (0-1)  FC Botoşani
-  19.00  UTA Arad                 1-1 (0-1)  Oţelul Galaţi
-  22.00  Gloria Buzău             1-1 (0-1)  Rapid Bucureşti
-[Sun Aug/11]
-  22.00  CFR Cluj                 3-0 (1-0)  Unirea Slobozia
-  19.00  Sepsi OSK                1-2 (0-1)  CS Universitatea Craiova
-[Mon Aug/12]
-  19.00  Petrolul Ploieşti        0-0  Universitatea Cluj
-  22.00  FC Politehnica Iași      2-2 (2-1)  Dinamo Bucureşti
-
-
-Matchday 6
-[Fri Aug/16]
-  19.00  Unirea Slobozia          1-2 (1-1)  Petrolul Ploieşti
-  22.00  CS Universitatea Craiova  5-1 (2-0)  Gloria Buzău
-[Sat Aug/17]
-  22.00  FCSB                     0-1 (0-1)  FC Politehnica Iași
-  19.00  FC Botoşani              1-0 (0-0)  UTA Arad
-[Sun Aug/18]
-  21.30  Rapid Bucureşti          1-1 (0-0)  Dinamo Bucureşti
-[Mon Aug/19]
-  19.00  Universitatea Cluj       3-0 (1-0)  Sepsi OSK
-  22.00  Farul Constanța          3-2 (1-0)  FC Hermannstadt
-
-
-Matchday 7
-[Fri Aug/23]
-  19.00  Petrolul Ploieşti        0-0  Oţelul Galaţi
-  22.00  FC Politehnica Iași      1-2 (0-1)  Rapid Bucureşti
-[Sat Aug/24]
-  19.00  Sepsi OSK                0-1 (0-0)  Unirea Slobozia
-  22.00  Dinamo Bucureşti         2-1 (2-1)  CS Universitatea Craiova
-[Sun Aug/25]
-  19.00  CFR Cluj                 3-0 (0-0)  FC Botoşani
-  22.00  FC Hermannstadt          2-0 (0-0)  FCSB
-[Mon Aug/26]
-  19.00  Gloria Buzău             0-2 (0-2)  Universitatea Cluj
-  22.00  UTA Arad                 1-1 (1-0)  Farul Constanța
-
-
-Matchday 8
-[Fri Aug/30]
-  21.00  Oţelul Galaţi            2-0 (2-0)  Sepsi OSK
-[Sat Aug/31]
-  21.30  CS Universitatea Craiova  1-1 (1-1)  Rapid Bucureşti
-  18.30  FC Hermannstadt          6-2 (4-1)  FC Politehnica Iași
-[Sun Sep/1]
-  21.30  FCSB                     2-0 (1-0)  UTA Arad
-  18.45  Farul Constanța          0-3 (0-1)  CFR Cluj
-  16.30  FC Botoşani              0-2 (0-0)  Petrolul Ploieşti
-[Mon Sep/2]
-  19.00  Unirea Slobozia          2-1 (1-0)  Gloria Buzău
-  21.30  Universitatea Cluj       1-0 (0-0)  Dinamo Bucureşti
-
-
-Matchday 9
-[Fri Sep/13]
-  18.00  Sepsi OSK                3-0 (1-0)  FC Botoşani
-  21.00  Dinamo Bucureşti         1-0 (1-0)  Unirea Slobozia
-[Sat Sep/14]
-  18.45  Gloria Buzău             0-0  Oţelul Galaţi
-  21.30  Petrolul Ploieşti        1-1 (0-0)  Farul Constanța
-[Sun Sep/15]
-  18.15  FC Politehnica Iași      2-0 (1-0)  CS Universitatea Craiova
-  21.00  CFR Cluj                 2-2 (1-0)  FCSB
-[Mon Sep/16]
-  18.00  UTA Arad                 1-1 (0-0)  FC Hermannstadt
-  21.00  Rapid Bucureşti          0-2 (0-1)  Universitatea Cluj
-
-
-Matchday 10
-[Fri Sep/20]
-  18.00  FC Botoşani              3-3 (0-1)  Gloria Buzău
-  21.00  Oţelul Galaţi            1-1 (1-1)  Dinamo Bucureşti
-[Sat Sep/21]
-  21.30  FCSB                     1-1 (1-0)  Petrolul Ploieşti
-  18.30  FC Hermannstadt          0-0  CFR Cluj
-[Sun Sep/22]
-  16.00  Farul Constanța          2-1 (1-0)  Sepsi OSK
-  21.30  Universitatea Cluj       1-1 (1-0)  CS Universitatea Craiova
-[Mon Sep/23]
-  18.00  UTA Arad                 0-0  FC Politehnica Iași
-  21.00  Unirea Slobozia          1-2 (1-1)  Rapid Bucureşti
-
-
-Matchday 11
-[Fri Sep/27]
-  18.00  Petrolul Ploieşti        4-1 (3-0)  FC Hermannstadt
-  21.00  Dinamo Bucureşti         2-2 (1-0)  FC Botoşani
-[Sat Sep/28]
-  21.30  Rapid Bucureşti          0-0  Oţelul Galaţi
-  19.00  CFR Cluj                 1-3 (0-1)  UTA Arad
-  16.45  FC Politehnica Iași      1-0 (0-0)  Universitatea Cluj
-[Sun Sep/29]
-  16.00  Gloria Buzău             1-0 (0-0)  Farul Constanța
-  21.30  Sepsi OSK                0-1 (0-1)  FCSB
-[Mon Sep/30]
-  21.00  CS Universitatea Craiova  3-0 (2-0)  Unirea Slobozia
-
-
-Matchday 12
-[Fri Oct/4]
-  18.00  UTA Arad                 3-1 (2-0)  Petrolul Ploieşti
-  21.00  Farul Constanța          1-1 (0-1)  Dinamo Bucureşti
-[Sat Oct/5]
-  16.45  Unirea Slobozia          2-2 (2-0)  Universitatea Cluj
-  21.30  Oţelul Galaţi            1-1 (1-1)  CS Universitatea Craiova
-  19.00  CFR Cluj                 2-1 (2-0)  FC Politehnica Iași
-[Sun Oct/6]
-  18.15  FC Botoşani              2-0 (0-0)  Rapid Bucureşti
-  13.30  FC Hermannstadt          0-4 (0-2)  Sepsi OSK
-  21.00  FCSB                     3-2 (1-1)  Gloria Buzău
-
-
-Matchday 13
-[Fri Oct/18]
-  18.00  Gloria Buzău             -  FC Hermannstadt
-  21.00  Universitatea Cluj       -  Oţelul Galaţi
-[Sat Oct/19]
-  18.15  Sepsi OSK                -  UTA Arad
-  21.00  Petrolul Ploieşti        -  CFR Cluj
-[Sun Oct/20]
-  21.00  Dinamo Bucureşti         -  FCSB
-  16.00  CS Universitatea Craiova  -  FC Botoşani
-[Mon Oct/21]
-  18.30  FC Politehnica Iași      -  Unirea Slobozia
-  21.00  Rapid Bucureşti          -  Farul Constanța
-
-
-Matchday 14
-[Sat Oct/26]
-  Petrolul Ploieşti        -  FC Politehnica Iași
-  Oţelul Galaţi            -  Unirea Slobozia
-  CFR Cluj                 -  Sepsi OSK
-  UTA Arad                 -  Gloria Buzău
-  FC Hermannstadt          -  Dinamo Bucureşti
-  FCSB                     -  Rapid Bucureşti
-  Farul Constanța          -  CS Universitatea Craiova
-  FC Botoşani              -  Universitatea Cluj
-
-
-Matchday 15
-[Sat Nov/2]
-  FC Politehnica Iași      -  Oţelul Galaţi
-  Unirea Slobozia          -  FC Botoşani
-  Sepsi OSK                -  Petrolul Ploieşti
-  Gloria Buzău             -  CFR Cluj
-  Dinamo Bucureşti         -  UTA Arad
-  Rapid Bucureşti          -  FC Hermannstadt
-  CS Universitatea Craiova  -  FCSB
-  Universitatea Cluj       -  Farul Constanța
-
-
-Matchday 16
-[Sat Nov/9]
-  Unirea Slobozia          -  Farul Constanța
-  Oţelul Galaţi            -  FC Botoşani
-  FC Politehnica Iași      -  Sepsi OSK
-  Gloria Buzău             -  Petrolul Ploieşti
-  Dinamo Bucureşti         -  CFR Cluj
-  Rapid Bucureşti          -  UTA Arad
-  CS Universitatea Craiova  -  FC Hermannstadt
-  Universitatea Cluj       -  FCSB
-
-
-Matchday 6
-[Mon Nov/11]
-  Oţelul Galaţi            -  CFR Cluj
-
-
-Matchday 4
-[Thu Nov/21]
-  FC Botoşani              -  FCSB
-
-
-Matchday 17
-[Sat Nov/23]
-  Sepsi OSK                -  Gloria Buzău
-  Petrolul Ploieşti        -  Dinamo Bucureşti
-  CFR Cluj                 -  Rapid Bucureşti
-  UTA Arad                 -  CS Universitatea Craiova
-  FC Hermannstadt          -  Universitatea Cluj
-  FCSB                     -  Unirea Slobozia
-  Farul Constanța          -  Oţelul Galaţi
-  FC Botoşani              -  FC Politehnica Iași
-
-
-Matchday 18
-[Sat Nov/30]
-  Rapid Bucureşti          -  Petrolul Ploieşti
-  CS Universitatea Craiova  -  CFR Cluj
-  Universitatea Cluj       -  UTA Arad
-  Unirea Slobozia          -  FC Hermannstadt
-  Oţelul Galaţi            -  FCSB
-  FC Botoşani              -  Farul Constanța
-  Gloria Buzău             -  FC Politehnica Iași
-  Dinamo Bucureşti         -  Sepsi OSK
-
-
-Matchday 19
-[Sat Dec/7]
-  Sepsi OSK                -  Rapid Bucureşti
-  Petrolul Ploieşti        -  CS Universitatea Craiova
-  CFR Cluj                 -  Universitatea Cluj
-  UTA Arad                 -  Unirea Slobozia
-  FC Hermannstadt          -  Oţelul Galaţi
-  FCSB                     -  FC Botoşani
-  Gloria Buzău             -  Dinamo Bucureşti
-  FC Politehnica Iași      -  Farul Constanța
-
-
-Matchday 20
-[Sat Dec/14]
-  Universitatea Cluj       -  Petrolul Ploieşti
-  Unirea Slobozia          -  CFR Cluj
-  Oţelul Galaţi            -  UTA Arad
-  FC Botoşani              -  FC Hermannstadt
-  Rapid Bucureşti          -  Gloria Buzău
-  Farul Constanța          -  FCSB
-  Dinamo Bucureşti         -  FC Politehnica Iași
-  CS Universitatea Craiova  -  Sepsi OSK
-
-
-Matchday 21
-[Sat Dec/21]
-  Sepsi OSK                -  Universitatea Cluj
-  Petrolul Ploieşti        -  Unirea Slobozia
-  CFR Cluj                 -  Oţelul Galaţi
-  UTA Arad                 -  FC Botoşani
-  Gloria Buzău             -  CS Universitatea Craiova
-  FC Hermannstadt          -  Farul Constanța
-  Dinamo Bucureşti         -  Rapid Bucureşti
-  FC Politehnica Iași      -  FCSB
-
-
-Matchday 22
-[Sat Jan/18]
-  Oţelul Galaţi            -  Petrolul Ploieşti
-  FC Botoşani              -  CFR Cluj
-  Universitatea Cluj       -  Gloria Buzău
-  Farul Constanța          -  UTA Arad
-  CS Universitatea Craiova  -  Dinamo Bucureşti
-  FCSB                     -  FC Hermannstadt
-  Rapid Bucureşti          -  FC Politehnica Iași
-  Unirea Slobozia          -  Sepsi OSK
-
-
-Matchday 23
-[Sat Jan/25]
-  Sepsi OSK                -  Oţelul Galaţi
-  Petrolul Ploieşti        -  FC Botoşani
-  Gloria Buzău             -  Unirea Slobozia
-  CFR Cluj                 -  Farul Constanța
-  Dinamo Bucureşti         -  Universitatea Cluj
-  UTA Arad                 -  FCSB
-  Rapid Bucureşti          -  CS Universitatea Craiova
-  FC Politehnica Iași      -  FC Hermannstadt
-
-
-Matchday 24
-[Sat Feb/1]
-  Oţelul Galaţi            -  Gloria Buzău
-  Farul Constanța          -  Petrolul Ploieşti
-  Unirea Slobozia          -  Dinamo Bucureşti
-  FCSB                     -  CFR Cluj
-  Universitatea Cluj       -  Rapid Bucureşti
-  FC Hermannstadt          -  UTA Arad
-  CS Universitatea Craiova  -  FC Politehnica Iași
-  FC Botoşani              -  Sepsi OSK
-
-
-Matchday 25
-[Wed Feb/5]
-  Sepsi OSK                -  Farul Constanța
-  Gloria Buzău             -  FC Botoşani
-  Dinamo Bucureşti         -  Oţelul Galaţi
-  Petrolul Ploieşti        -  FCSB
-  Rapid Bucureşti          -  Unirea Slobozia
-  CFR Cluj                 -  FC Hermannstadt
-  CS Universitatea Craiova  -  Universitatea Cluj
-  FC Politehnica Iași      -  UTA Arad
-
-
-Matchday 26
-[Sat Feb/8]
-  Farul Constanța          -  Gloria Buzău
-  FC Botoşani              -  Dinamo Bucureşti
-  Oţelul Galaţi            -  Rapid Bucureşti
-  FC Hermannstadt          -  Petrolul Ploieşti
-  Unirea Slobozia          -  CS Universitatea Craiova
-  UTA Arad                 -  CFR Cluj
-  Universitatea Cluj       -  FC Politehnica Iași
-  FCSB                     -  Sepsi OSK
-
-
-Matchday 27
-[Sat Feb/15]
-  Sepsi OSK                -  FC Hermannstadt
-  Gloria Buzău             -  FCSB
-  Dinamo Bucureşti         -  Farul Constanța
-  Rapid Bucureşti          -  FC Botoşani
-  CS Universitatea Craiova  -  Oţelul Galaţi
-  Petrolul Ploieşti        -  UTA Arad
-  Universitatea Cluj       -  Unirea Slobozia
-  FC Politehnica Iași      -  CFR Cluj
-
-
-Matchday 28
-[Sat Feb/22]
-  FC Hermannstadt          -  Gloria Buzău
-  FCSB                     -  Dinamo Bucureşti
-  Farul Constanța          -  Rapid Bucureşti
-  FC Botoşani              -  CS Universitatea Craiova
-  Oţelul Galaţi            -  Universitatea Cluj
-  CFR Cluj                 -  Petrolul Ploieşti
-  Unirea Slobozia          -  FC Politehnica Iași
-  UTA Arad                 -  Sepsi OSK
-
-
-Matchday 29
-[Sat Mar/1]
-  Sepsi OSK                -  CFR Cluj
-  Gloria Buzău             -  UTA Arad
-  Dinamo Bucureşti         -  FC Hermannstadt
-  Rapid Bucureşti          -  FCSB
-  CS Universitatea Craiova  -  Farul Constanța
-  Universitatea Cluj       -  FC Botoşani
-  Unirea Slobozia          -  Oţelul Galaţi
-  FC Politehnica Iași      -  Petrolul Ploieşti
-
-
-Matchday 30
-[Sat Mar/8]
-  CFR Cluj                 -  Gloria Buzău
-  UTA Arad                 -  Dinamo Bucureşti
-  FC Hermannstadt          -  Rapid Bucureşti
-  FCSB                     -  CS Universitatea Craiova
-  Farul Constanța          -  Universitatea Cluj
-  FC Botoşani              -  Unirea Slobozia
-  Oţelul Galaţi            -  FC Politehnica Iași
-  Petrolul Ploieşti        -  Sepsi OSK
+# Matches    315
+# Stages     Regular Season (240)  Championship (30)  Relegation (45)
+
+
+
+» Matchday 1
+  Fri Jul/12 2024
+    18.30  Farul Constanța         v Unirea Slobozia          0-1 (0-1)
+    21.30  FC Hermannstadt         v CS Universitatea Craiova  0-0
+  Sat Jul/13
+    17.00  Sepsi OSK               v FC Politehnica Iași      1-0 (1-0)
+    19.15  UTA Arad                v Rapid Bucureşti          1-1 (0-1)
+    22.00  FCSB                    v Universitatea Cluj       1-1 (0-0)
+  Sun Jul/14
+    19.00  CFR Cluj                v Dinamo Bucureşti         3-2 (1-2)
+  Mon Jul/15
+    18.30  FC Botoşani             v Oţelul Galaţi            2-3 (1-1)
+    21.30  Petrolul Ploieşti       v Gloria Buzău             0-0
+
+
+» Matchday 2
+  Fri Jul/19
+    19.00  FC Politehnica Iași     v FC Botoşani              1-0 (1-0)
+    22.00  Unirea Slobozia         v FCSB                     2-2 (1-1)
+  Sat Jul/20
+    19.00  CS Universitatea Craiova v UTA Arad                 4-2 (1-1)
+    22.00  Rapid Bucureşti         v CFR Cluj                 2-2 (0-1)
+  Sun Jul/21
+    19.00  Universitatea Cluj      v FC Hermannstadt          3-1 (3-1)
+    22.00  Dinamo Bucureşti        v Petrolul Ploieşti        4-1 (2-0)
+  Mon Jul/22
+    19.00  Gloria Buzău            v Sepsi OSK                1-2 (0-2)
+    22.00  Oţelul Galaţi           v Farul Constanța          0-0
+
+
+» Matchday 3
+  Fri Jul/26
+    19.00  FC Hermannstadt         v Unirea Slobozia          1-1 (1-1)
+    22.00  FCSB                    v Oţelul Galaţi            0-2 (0-1)
+  Sat Jul/27
+    19.00  FC Politehnica Iași     v Gloria Buzău             1-2 (1-1)
+    22.00  Sepsi OSK               v Dinamo Bucureşti         1-1 (1-0)
+  Sun Jul/28
+    19.00  Farul Constanța         v FC Botoşani              0-1 (0-0)
+    22.00  CFR Cluj                v CS Universitatea Craiova  0-2 (0-0)
+  Mon Jul/29
+    19.00  UTA Arad                v Universitatea Cluj       0-0
+    22.00  Petrolul Ploieşti       v Rapid Bucureşti          1-0 (1-0)
+
+
+» Matchday 4
+  Fri Aug/2
+    19.00  Oţelul Galaţi           v FC Hermannstadt          1-0 (0-0)
+    22.00  Dinamo Bucureşti        v Gloria Buzău             4-1 (2-0)
+  Sat Aug/3
+    21.00  Farul Constanța         v FC Politehnica Iași      2-0 (2-0)
+  Sun Aug/4
+    19.00  CS Universitatea Craiova v Petrolul Ploieşti        0-0
+    22.00  CFR Cluj                v Universitatea Cluj       2-3 (1-0)
+  Mon Aug/5
+    19.00  Unirea Slobozia         v UTA Arad                 0-1 (0-0)
+    22.00  Rapid Bucureşti         v Sepsi OSK                2-2 (2-1)
+  Thu Nov/21
+    20.00  FC Botoşani             v FCSB                     1-0 (0-0)
+
+
+» Matchday 5
+  Fri Aug/9
+    21.00  FCSB                    v Farul Constanța          3-2 (1-2)
+  Sat Aug/10
+    17.00  FC Hermannstadt         v FC Botoşani              2-1 (0-1)
+    19.00  UTA Arad                v Oţelul Galaţi            1-1 (0-1)
+    22.00  Gloria Buzău            v Rapid Bucureşti          1-1 (0-1)
+  Sun Aug/11
+    19.00  Sepsi OSK               v CS Universitatea Craiova  1-2 (0-1)
+    22.00  CFR Cluj                v Unirea Slobozia          3-0 (1-0)
+  Mon Aug/12
+    19.00  Petrolul Ploieşti       v Universitatea Cluj       0-0
+    22.00  FC Politehnica Iași     v Dinamo Bucureşti         2-2 (2-1)
+
+
+» Matchday 6
+  Fri Aug/16
+    19.00  Unirea Slobozia         v Petrolul Ploieşti        1-2 (1-1)
+    22.00  CS Universitatea Craiova v Gloria Buzău             5-1 (2-0)
+  Sat Aug/17
+    19.00  FC Botoşani             v UTA Arad                 1-0 (0-0)
+    22.00  FCSB                    v FC Politehnica Iași      0-1 (0-1)
+  Sun Aug/18
+    21.30  Rapid Bucureşti         v Dinamo Bucureşti         1-1 (0-0)
+  Mon Aug/19
+    19.00  Universitatea Cluj      v Sepsi OSK                3-0 (1-0)
+    22.00  Farul Constanța         v FC Hermannstadt          3-2 (1-0)
+  Mon Nov/11
+    21.00  Oţelul Galaţi           v CFR Cluj                 0-1 (0-1)
+
+
+» Matchday 7
+  Fri Aug/23
+    19.00  Petrolul Ploieşti       v Oţelul Galaţi            0-0
+    22.00  FC Politehnica Iași     v Rapid Bucureşti          1-2 (0-1)
+  Sat Aug/24
+    19.00  Sepsi OSK               v Unirea Slobozia          0-1 (0-0)
+    22.00  Dinamo Bucureşti        v CS Universitatea Craiova  2-1 (2-1)
+  Sun Aug/25
+    19.00  CFR Cluj                v FC Botoşani              3-0 (0-0)
+    22.00  FC Hermannstadt         v FCSB                     2-0 (0-0)
+  Mon Aug/26
+    19.00  Gloria Buzău            v Universitatea Cluj       0-2 (0-2)
+    22.00  UTA Arad                v Farul Constanța          1-1 (1-0)
+
+
+» Matchday 8
+  Fri Aug/30
+    21.00  Oţelul Galaţi           v Sepsi OSK                2-0 (2-0)
+  Sat Aug/31
+    18.30  FC Hermannstadt         v FC Politehnica Iași      6-2 (4-1)
+    21.30  CS Universitatea Craiova v Rapid Bucureşti          1-1 (1-1)
+  Sun Sep/1
+    16.30  FC Botoşani             v Petrolul Ploieşti        0-2 (0-0)
+    18.45  Farul Constanța         v CFR Cluj                 0-3 (0-1)
+    21.30  FCSB                    v UTA Arad                 2-0 (1-0)
+  Mon Sep/2
+    19.00  Unirea Slobozia         v Gloria Buzău             2-1 (1-0)
+    21.30  Universitatea Cluj      v Dinamo Bucureşti         1-0 (0-0)
+
+
+» Matchday 9
+  Fri Sep/13
+    18.00  Sepsi OSK               v FC Botoşani              3-0 (1-0)
+    21.00  Dinamo Bucureşti        v Unirea Slobozia          1-0 (1-0)
+  Sat Sep/14
+    18.45  Gloria Buzău            v Oţelul Galaţi            0-0
+    21.30  Petrolul Ploieşti       v Farul Constanța          1-1 (0-0)
+  Sun Sep/15
+    18.15  FC Politehnica Iași     v CS Universitatea Craiova  2-0 (1-0)
+    21.00  CFR Cluj                v FCSB                     2-2 (1-0)
+  Mon Sep/16
+    18.00  UTA Arad                v FC Hermannstadt          1-1 (0-0)
+    21.00  Rapid Bucureşti         v Universitatea Cluj       0-2 (0-1)
+
+
+» Matchday 10
+  Fri Sep/20
+    18.00  FC Botoşani             v Gloria Buzău             3-3 (0-1)
+    21.00  Oţelul Galaţi           v Dinamo Bucureşti         1-1 (1-1)
+  Sat Sep/21
+    18.30  FC Hermannstadt         v CFR Cluj                 0-0
+    21.30  FCSB                    v Petrolul Ploieşti        1-1 (1-0)
+  Sun Sep/22
+    16.00  Farul Constanța         v Sepsi OSK                2-1 (1-0)
+    21.30  Universitatea Cluj      v CS Universitatea Craiova  1-1 (1-0)
+  Mon Sep/23
+    18.00  UTA Arad                v FC Politehnica Iași      0-0
+    21.00  Unirea Slobozia         v Rapid Bucureşti          1-2 (1-1)
+
+
+» Matchday 11
+  Fri Sep/27
+    18.00  Petrolul Ploieşti       v FC Hermannstadt          4-1 (3-0)
+    21.00  Dinamo Bucureşti        v FC Botoşani              2-2 (1-0)
+  Sat Sep/28
+    16.45  FC Politehnica Iași     v Universitatea Cluj       1-0 (0-0)
+    19.00  CFR Cluj                v UTA Arad                 1-3 (0-1)
+    21.30  Rapid Bucureşti         v Oţelul Galaţi            0-0
+  Sun Sep/29
+    16.00  Gloria Buzău            v Farul Constanța          1-0 (0-0)
+    21.30  Sepsi OSK               v FCSB                     0-1 (0-1)
+  Mon Sep/30
+    21.00  CS Universitatea Craiova v Unirea Slobozia          3-0 (2-0)
+
+
+» Matchday 12
+  Fri Oct/4
+    18.00  UTA Arad                v Petrolul Ploieşti        3-1 (2-0)
+    21.00  Farul Constanța         v Dinamo Bucureşti         1-1 (0-1)
+  Sat Oct/5
+    16.45  Unirea Slobozia         v Universitatea Cluj       2-2 (2-0)
+    19.00  CFR Cluj                v FC Politehnica Iași      2-1 (2-0)
+    21.30  Oţelul Galaţi           v CS Universitatea Craiova  1-1 (1-1)
+  Sun Oct/6
+    13.30  FC Hermannstadt         v Sepsi OSK                0-4 (0-2)
+    18.15  FC Botoşani             v Rapid Bucureşti          2-0 (0-0)
+    21.00  FCSB                    v Gloria Buzău             3-2 (1-1)
+
+
+» Matchday 13
+  Fri Oct/18
+    18.30  Gloria Buzău            v FC Hermannstadt          3-0 (1-0)
+    21.00  Universitatea Cluj      v Oţelul Galaţi            2-0 (0-0)
+  Sat Oct/19
+    18.15  Sepsi OSK               v UTA Arad                 1-0 (1-0)
+    21.00  Petrolul Ploieşti       v CFR Cluj                 0-0
+  Sun Oct/20
+    16.00  CS Universitatea Craiova v FC Botoşani              0-0
+    21.00  Dinamo Bucureşti        v FCSB                     0-2 (0-1)
+  Mon Oct/21
+    18.30  FC Politehnica Iași     v Unirea Slobozia          1-0 (1-0)
+    21.00  Rapid Bucureşti         v Farul Constanța          5-0 (3-0)
+
+
+» Matchday 14
+  Fri Oct/25
+    21.00  CFR Cluj                v Sepsi OSK                3-3 (0-1)
+  Sat Oct/26
+    13.30  UTA Arad                v Gloria Buzău             1-0 (1-0)
+    16.00  Petrolul Ploieşti       v FC Politehnica Iași      3-1 (1-1)
+    19.00  FC Hermannstadt         v Dinamo Bucureşti         0-2 (0-1)
+  Sun Oct/27
+    16.00  Oţelul Galaţi           v Unirea Slobozia          0-2 (0-0)
+    21.00  FCSB                    v Rapid Bucureşti          0-0
+  Mon Oct/28
+    18.00  FC Botoşani             v Universitatea Cluj       1-2 (1-1)
+    21.00  Farul Constanța         v CS Universitatea Craiova  3-2 (2-0)
+
+
+» Matchday 15
+  Fri Nov/1
+    21.00  Gloria Buzău            v CFR Cluj                 0-1 (0-0)
+  Sat Nov/2
+    18.30  Sepsi OSK               v Petrolul Ploieşti        1-1 (0-1)
+    21.00  Dinamo Bucureşti        v UTA Arad                 1-0 (1-0)
+  Sun Nov/3
+    13.30  FC Politehnica Iași     v Oţelul Galaţi            2-1 (0-1)
+    16.00  Universitatea Cluj      v Farul Constanța          1-1 (1-1)
+    21.00  CS Universitatea Craiova v FCSB                     1-1 (0-1)
+  Mon Nov/4
+    18.00  Unirea Slobozia         v FC Botoşani              1-0 (0-0)
+    21.00  Rapid Bucureşti         v FC Hermannstadt          1-0 (1-0)
+
+
+» Matchday 16
+  Fri Nov/8
+    18.00  Oţelul Galaţi           v FC Botoşani              0-0
+    21.00  Dinamo Bucureşti        v CFR Cluj                 1-1 (1-1)
+  Sat Nov/9
+    13.30  FC Politehnica Iași     v Sepsi OSK                1-2 (1-1)
+    18.15  CS Universitatea Craiova v FC Hermannstadt          3-1 (1-1)
+    21.00  Rapid Bucureşti         v UTA Arad                 2-0 (0-0)
+  Sun Nov/10
+    16.00  Unirea Slobozia         v Farul Constanța          0-1 (0-1)
+    21.00  Universitatea Cluj      v FCSB                     1-2 (0-1)
+  Mon Nov/11
+    18.00  Gloria Buzău            v Petrolul Ploieşti        0-1 (0-1)
+
+
+» Matchday 17
+  Fri Nov/22
+    17.30  Sepsi OSK               v Gloria Buzău             2-0 (2-0)
+    20.30  Farul Constanța         v Oţelul Galaţi            0-1 (0-0)
+  Sat Nov/23
+    17.00  FC Hermannstadt         v Universitatea Cluj       2-1 (1-0)
+    21.30  CFR Cluj                v Rapid Bucureşti          1-1 (0-0)
+  Sun Nov/24
+    18.15  FCSB                    v Unirea Slobozia          3-0 (2-0)
+    20.45  Petrolul Ploieşti       v Dinamo Bucureşti         0-1 (0-1)
+  Mon Nov/25
+    17.30  FC Botoşani             v FC Politehnica Iași      1-1 (1-0)
+    20.30  UTA Arad                v CS Universitatea Craiova  1-2 (1-0)
+
+
+» Matchday 18
+  Fri Nov/29
+    17.00  FC Botoşani             v Farul Constanța          0-0
+    20.45  Rapid Bucureşti         v Petrolul Ploieşti        1-1 (0-0)
+  Sat Nov/30
+    15.00  Unirea Slobozia         v FC Hermannstadt          1-2 (1-0)
+    17.30  Gloria Buzău            v FC Politehnica Iași      2-0 (1-0)
+    20.30  Dinamo Bucureşti        v Sepsi OSK                1-1 (1-0)
+  Sun Dec/1
+    20.30  CS Universitatea Craiova v CFR Cluj                 0-2 (0-1)
+  Mon Dec/2
+    17.30  Universitatea Cluj      v UTA Arad                 0-1 (0-1)
+    20.30  Oţelul Galaţi           v FCSB                     1-4 (0-2)
+
+
+» Matchday 19
+  Fri Dec/6
+    20.00  Sepsi OSK               v Rapid Bucureşti          2-0 (0-0)
+  Sat Dec/7
+    17.00  Gloria Buzău            v Dinamo Bucureşti         0-1 (0-0)
+    20.00  Petrolul Ploieşti       v CS Universitatea Craiova  1-1 (1-0)
+  Sun Dec/8
+    13.30  UTA Arad                v Unirea Slobozia          3-4 (1-1)
+    16.30  FC Politehnica Iași     v Farul Constanța          2-2 (1-0)
+    20.30  FCSB                    v FC Botoşani              2-1 (1-0)
+  Mon Dec/9
+    17.30  FC Hermannstadt         v Oţelul Galaţi            1-0 (1-0)
+    20.30  Universitatea Cluj      v CFR Cluj                 3-2 (0-1)
+
+
+» Matchday 20
+  Fri Dec/13
+    17.00  FC Botoşani             v FC Hermannstadt          1-2 (1-1)
+    20.00  Dinamo Bucureşti        v FC Politehnica Iași      2-0 (0-0)
+  Sat Dec/14
+    14.30  Oţelul Galaţi           v UTA Arad                 1-1 (0-1)
+    17.00  CS Universitatea Craiova v Sepsi OSK                2-1 (1-1)
+    20.00  Universitatea Cluj      v Petrolul Ploieşti        4-1 (0-0)
+  Sun Dec/15
+    16.00  Unirea Slobozia         v CFR Cluj                 1-1 (1-0)
+    20.45  Farul Constanța         v FCSB                     1-1 (0-1)
+  Mon Dec/16
+    20.00  Rapid Bucureşti         v Gloria Buzău             2-0 (2-0)
+
+
+» Matchday 21
+  Fri Dec/20
+    19.00  Sepsi OSK               v Universitatea Cluj       0-0
+  Sat Dec/21
+    17.00  FC Hermannstadt         v Farul Constanța          0-0
+    19.30  Gloria Buzău            v CS Universitatea Craiova  0-2 (0-1)
+  Sun Dec/22
+    12.30  Petrolul Ploieşti       v Unirea Slobozia          2-1 (1-1)
+    15.00  CFR Cluj                v Oţelul Galaţi            3-2 (1-1)
+    20.00  Dinamo Bucureşti        v Rapid Bucureşti          0-0
+  Mon Dec/23
+    17.00  UTA Arad                v FC Botoşani              2-0 (1-0)
+    20.00  FC Politehnica Iași     v FCSB                     0-2 (0-1)
+
+
+» Matchday 22
+  Fri Jan/17 2025
+    17.00  Unirea Slobozia         v Sepsi OSK                3-2 (2-0)
+    20.00  FCSB                    v FC Hermannstadt          1-1 (0-1)
+  Sat Jan/18
+    14.30  Universitatea Cluj      v Gloria Buzău             2-1 (0-1)
+    19.30  Oţelul Galaţi           v Petrolul Ploieşti        0-0
+  Sun Jan/19
+    18.00  FC Botoşani             v CFR Cluj                 1-1 (0-1)
+    20.30  CS Universitatea Craiova v Dinamo Bucureşti         1-1 (1-0)
+  Mon Jan/20
+    17.00  Farul Constanța         v UTA Arad                 1-1 (0-0)
+    20.00  Rapid Bucureşti         v FC Politehnica Iași      2-1 (2-1)
+
+
+» Matchday 23
+  Fri Jan/24
+    17.00  Gloria Buzău            v Unirea Slobozia          3-0 (0-0)
+    20.00  Dinamo Bucureşti        v Universitatea Cluj       0-0
+  Sat Jan/25
+    14.30  FC Politehnica Iași     v FC Hermannstadt          0-2 (0-0)
+    20.00  Rapid Bucureşti         v CS Universitatea Craiova  1-0 (1-0)
+  Sun Jan/26
+    17.00  Sepsi OSK               v Oţelul Galaţi            2-0 (0-0)
+    20.00  UTA Arad                v FCSB                     0-1 (0-0)
+  Mon Jan/27
+    17.00  Petrolul Ploieşti       v FC Botoşani              3-1 (3-0)
+    20.00  CFR Cluj                v Farul Constanța          3-1 (2-0)
+
+
+» Matchday 24
+  Fri Jan/31
+    17.00  FC Hermannstadt         v UTA Arad                 0-0
+    20.00  Unirea Slobozia         v Dinamo Bucureşti         1-3 (1-1)
+  Sat Feb/1
+    14.30  FC Botoşani             v Sepsi OSK                0-0
+    17.00  Oţelul Galaţi           v Gloria Buzău             2-1 (1-1)
+    20.00  Universitatea Cluj      v Rapid Bucureşti          2-1 (1-1)
+  Sun Feb/2
+    17.15  CS Universitatea Craiova v FC Politehnica Iași      4-1 (2-1)
+    20.00  FCSB                    v CFR Cluj                 1-1 (0-0)
+  Mon Feb/3
+    20.00  Farul Constanța         v Petrolul Ploieşti        2-1 (1-1)
+
+
+» Matchday 25
+  Tue Feb/4
+    16.00  Gloria Buzău            v FC Botoşani              0-2 (0-1)
+    18.00  Rapid Bucureşti         v Unirea Slobozia          2-1 (1-1)
+    20.30  Dinamo Bucureşti        v Oţelul Galaţi            1-0 (0-0)
+  Wed Feb/5
+    18.00  CFR Cluj                v FC Hermannstadt          1-0 (1-0)
+    20.30  CS Universitatea Craiova v Universitatea Cluj       1-0 (1-0)
+  Thu Feb/6
+    16.00  FC Politehnica Iași     v UTA Arad                 0-1 (0-0)
+    18.00  Sepsi OSK               v Farul Constanța          1-0 (1-0)
+    20.30  Petrolul Ploieşti       v FCSB                     0-0
+
+
+» Matchday 26
+  Fri Feb/7
+    20.00  FC Botoşani             v Dinamo Bucureşti         1-1 (1-1)
+  Sat Feb/8
+    16.00  Unirea Slobozia         v CS Universitatea Craiova  0-1 (0-0)
+    19.00  Oţelul Galaţi           v Rapid Bucureşti          1-1 (0-0)
+  Sun Feb/9
+    14.30  FC Hermannstadt         v Petrolul Ploieşti        1-1 (0-0)
+    17.00  Universitatea Cluj      v FC Politehnica Iași      2-2 (0-0)
+    20.00  FCSB                    v Sepsi OSK                3-0 (3-0)
+  Mon Feb/10
+    17.00  Farul Constanța         v Gloria Buzău             1-0 (0-0)
+    20.00  UTA Arad                v CFR Cluj                 1-4 (0-0)
+
+
+» Matchday 27
+  Fri Feb/14
+    17.00  Sepsi OSK               v FC Hermannstadt          2-3 (0-0)
+    20.00  CS Universitatea Craiova v Oţelul Galaţi            2-1 (0-0)
+  Sat Feb/15
+    15.00  Petrolul Ploieşti       v UTA Arad                 0-1 (0-1)
+    20.00  Dinamo Bucureşti        v Farul Constanța          0-2 (0-1)
+  Sun Feb/16
+    16.00  FC Politehnica Iași     v CFR Cluj                 1-1 (0-1)
+    20.45  Gloria Buzău            v FCSB                     0-2 (0-0)
+  Mon Feb/17
+    17.00  Universitatea Cluj      v Unirea Slobozia          3-2 (1-2)
+    20.00  Rapid Bucureşti         v FC Botoşani              1-0 (1-0)
+
+
+» Matchday 28
+  Fri Feb/21
+    17.00  FC Hermannstadt         v Gloria Buzău             2-1 (1-1)
+    20.00  Oţelul Galaţi           v Universitatea Cluj       0-1 (0-1)
+  Sat Feb/22
+    18.00  FC Botoşani             v CS Universitatea Craiova  2-2 (1-1)
+    20.30  CFR Cluj                v Petrolul Ploieşti        2-0 (0-0)
+  Sun Feb/23
+    15.00  Unirea Slobozia         v FC Politehnica Iași      0-0
+    20.00  FCSB                    v Dinamo Bucureşti         2-1 (1-1)
+  Mon Feb/24
+    17.00  UTA Arad                v Sepsi OSK                1-2 (0-1)
+    20.00  Farul Constanța         v Rapid Bucureşti          1-3 (1-2)
+
+
+» Matchday 29
+  Fri Feb/28
+    17.00  Unirea Slobozia         v Oţelul Galaţi            0-1 (0-0)
+    20.00  Sepsi OSK               v CFR Cluj                 1-1 (1-0)
+  Sat Mar/1
+    16.00  Universitatea Cluj      v FC Botoşani              0-1 (0-0)
+    19.00  CS Universitatea Craiova v Farul Constanța          1-0 (1-0)
+  Sun Mar/2
+    15.00  FC Politehnica Iași     v Petrolul Ploieşti        1-0 (1-0)
+    20.00  Rapid Bucureşti         v FCSB                     0-0
+  Mon Mar/3
+    17.00  Gloria Buzău            v UTA Arad                 1-1 (0-0)
+    20.00  Dinamo Bucureşti        v FC Hermannstadt          2-0 (0-0)
+
+
+» Matchday 30
+  Fri Mar/7
+    17.00  Oţelul Galaţi           v FC Politehnica Iași      2-3 (2-2)
+    20.00  Farul Constanța         v Universitatea Cluj       1-1 (0-1)
+  Sat Mar/8
+    18.00  Petrolul Ploieşti       v Sepsi OSK                1-0 (0-0)
+    20.30  FC Hermannstadt         v Rapid Bucureşti          1-0 (0-0)
+  Sun Mar/9
+    15.00  CFR Cluj                v Gloria Buzău             6-0 (3-0)
+    20.00  FCSB                    v CS Universitatea Craiova  1-0 (1-0)
+  Mon Mar/10
+    17.00  FC Botoşani             v Unirea Slobozia          1-0 (1-0)
+    20.00  UTA Arad                v Dinamo Bucureşti         0-2 (0-1)
+
+
+» Championship, Matchday 1
+  Fri Mar/14
+    20.00  CS Universitatea Craiova v Universitatea Cluj       3-0 (1-0)
+  Sat Mar/15
+    21.00  CFR Cluj                v Dinamo Bucureşti         3-1 (2-0)
+  Sun Mar/16
+    21.00  FCSB                    v Rapid Bucureşti          3-3 (1-1)
+
+
+» Championship, Matchday 2
+  Sat Mar/29
+    20.00  Rapid Bucureşti         v CS Universitatea Craiova
+  Sun Mar/30
+    20.30  Dinamo Bucureşti        v FCSB
+  Mon Mar/31
+    20.30  Universitatea Cluj      v CFR Cluj
+
+
+» Championship, Matchday 3
+  Sat Apr/5
+    21.15  FCSB                    v Universitatea Cluj
+  Sun Apr/6
+    21.00  Rapid Bucureşti         v Dinamo Bucureşti
+  Mon Apr/7
+    20.30  CFR Cluj                v CS Universitatea Craiova
+
+
+» Championship, Matchday 4
+  Sat Apr/12
+           CS Universitatea Craiova v FCSB
+           Universitatea Cluj      v Dinamo Bucureşti
+  Mon Apr/14
+    20.30  CFR Cluj                v Rapid Bucureşti
+
+
+» Championship, Matchday 5
+  Sat Apr/19
+           FCSB                    v CFR Cluj
+           Dinamo Bucureşti        v CS Universitatea Craiova
+           Rapid Bucureşti         v Universitatea Cluj
+
+
+» Championship, Matchday 6
+  Sat Apr/26
+           Rapid Bucureşti         v FCSB
+           Dinamo Bucureşti        v CFR Cluj
+           Universitatea Cluj      v CS Universitatea Craiova
+
+
+» Championship, Matchday 7
+  Sat May/3
+           FCSB                    v Dinamo Bucureşti
+           CFR Cluj                v Universitatea Cluj
+           CS Universitatea Craiova v Rapid Bucureşti
+
+
+» Championship, Matchday 8
+  Sat May/10
+           Universitatea Cluj      v FCSB
+           CS Universitatea Craiova v CFR Cluj
+           Dinamo Bucureşti        v Rapid Bucureşti
+
+
+» Championship, Matchday 9
+  Sat May/17
+           FCSB                    v CS Universitatea Craiova
+           Dinamo Bucureşti        v Universitatea Cluj
+           Rapid Bucureşti         v CFR Cluj
+
+
+» Championship, Matchday 10
+  Sat May/24
+           CFR Cluj                v FCSB
+           CS Universitatea Craiova v Dinamo Bucureşti
+           Universitatea Cluj      v Rapid Bucureşti
+
+
+» Relegation, Matchday 1
+  Fri Mar/14
+    17.00  Petrolul Ploieşti       v FC Botoşani              0-2 (0-1)
+  Sat Mar/15
+    18.00  Farul Constanța         v FC Politehnica Iași      0-0
+  Sun Mar/16
+    13.00  FC Hermannstadt         v Unirea Slobozia          1-1 (0-0)
+    18.00  UTA Arad                v Oţelul Galaţi            2-0 (2-0)
+  Mon Mar/17
+    20.00  Sepsi OSK               v Gloria Buzău             1-2 (1-1)
+
+
+» Relegation, Matchday 2
+  Fri Mar/28
+    17.30  Unirea Slobozia         v Petrolul Ploieşti
+    20.30  Sepsi OSK               v FC Hermannstadt
+  Sat Mar/29
+    14.30  FC Botoşani             v Farul Constanța
+  Sun Mar/30
+    15.00  FC Politehnica Iași     v UTA Arad
+  Mon Mar/31
+    17.30  Gloria Buzău            v Oţelul Galaţi
+
+
+» Relegation, Matchday 3
+  Fri Apr/4
+    17.30  Oţelul Galaţi           v FC Politehnica Iași
+    20.30  Petrolul Ploieşti       v Sepsi OSK
+  Sat Apr/5
+    16.45  UTA Arad                v FC Botoşani
+  Sun Apr/6
+    13.30  FC Hermannstadt         v Gloria Buzău
+  Mon Apr/7
+    17.30  Farul Constanța         v Unirea Slobozia
+
+
+» Relegation, Matchday 4
+  Sat Apr/12
+           Gloria Buzău            v FC Politehnica Iași
+           Unirea Slobozia         v UTA Arad
+           Sepsi OSK               v Farul Constanța
+           FC Hermannstadt         v Petrolul Ploieşti
+  Mon Apr/14
+    17.30  FC Botoşani             v Oţelul Galaţi
+
+
+» Relegation, Matchday 5
+  Sat Apr/19
+           Petrolul Ploieşti       v Gloria Buzău
+           Farul Constanța         v FC Hermannstadt
+           UTA Arad                v Sepsi OSK
+           Oţelul Galaţi           v Unirea Slobozia
+           FC Politehnica Iași     v FC Botoşani
+
+
+» Relegation, Matchday 6
+  Sat Apr/26
+           Gloria Buzău            v FC Botoşani
+           Unirea Slobozia         v FC Politehnica Iași
+           Sepsi OSK               v Oţelul Galaţi
+           FC Hermannstadt         v UTA Arad
+           Petrolul Ploieşti       v Farul Constanța
+
+
+» Relegation, Matchday 7
+  Sat May/3
+           Farul Constanța         v Gloria Buzău
+           UTA Arad                v Petrolul Ploieşti
+           Oţelul Galaţi           v FC Hermannstadt
+           FC Politehnica Iași     v Sepsi OSK
+           FC Botoşani             v Unirea Slobozia
+
+
+» Relegation, Matchday 8
+  Sat May/10
+           Gloria Buzău            v Unirea Slobozia
+           Sepsi OSK               v FC Botoşani
+           FC Hermannstadt         v FC Politehnica Iași
+           Petrolul Ploieşti       v Oţelul Galaţi
+           Farul Constanța         v UTA Arad
+
+
+» Relegation, Matchday 9
+  Sat May/17
+           UTA Arad                v Gloria Buzău
+           Oţelul Galaţi           v Farul Constanța
+           FC Politehnica Iași     v Petrolul Ploieşti
+           FC Botoşani             v FC Hermannstadt
+           Unirea Slobozia         v Sepsi OSK

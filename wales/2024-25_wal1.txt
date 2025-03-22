@@ -1,257 +1,409 @@
 = Welsh Premier League 2024/25
 
-# Date       Fri Aug/9 2024 - Sat Jan/11 2025 (155d)
+# Date       Fri Aug/9 2024 - Sat Apr/19 2025 (253d)
 # Teams      12
-# Matches    132
+# Matches    192
+# Stages     Regular Season (132)  Championship (30)  Relegation (30)
 
 
 
-Matchday 1
-[Fri Aug/9]
-  19.45  Newtown AFC              4-1 (0-1)  Aberystwyth Town
-[Sat Aug/10]
-  14.30  Flint Town United        1-2 (1-1)  Cardiff Metropolitan
-         Barry Town United        1-1 (1-0)  Bala Town
-[Sun Aug/11]
-  17.10  Briton Ferry Llansawel AFC  0-2 (0-2)  Penybont FC
-  14.30  Connah's Quay Nomads     0-1 (0-0)  Haverfordwest County
+» Matchday 1
+  Fri Aug/9 2024
+    19.45  Newtown AFC             v Aberystwyth Town         4-1 (0-1)
+  Sat Aug/10
+    14.30  Barry Town United       v Bala Town                1-1 (1-0)
+           Flint Town United       v Cardiff Metropolitan     1-2 (1-1)
+  Sun Aug/11
+    14.30  Connah's Quay Nomads    v Haverfordwest County     0-1 (0-0)
+    17.10  Briton Ferry Llansawel AFC v Penybont FC              0-2 (0-2)
+  Wed Oct/9
+    19.45  The New Saints          v Caernarfon Town          1-2 (1-1)
 
 
-Matchday 2
-[Fri Aug/16]
-  20.00  Aberystwyth Town         1-1 (0-0)  Connah's Quay Nomads
-  19.45  Bala Town                2-0 (1-0)  Briton Ferry Llansawel AFC
-         Cardiff Metropolitan     1-1 (1-0)  Barry Town United
-         Flint Town United        1-4 (0-2)  The New Saints
-         Penybont FC              0-0  Newtown AFC
-[Sat Aug/17]
-  17.15  Caernarfon Town          1-2 (0-0)  Haverfordwest County
+» Matchday 2
+  Fri Aug/16
+    19.45  Bala Town               v Briton Ferry Llansawel AFC  2-0 (1-0)
+           Cardiff Metropolitan    v Barry Town United        1-1 (1-0)
+           Flint Town United       v The New Saints           1-4 (0-2)
+           Penybont FC             v Newtown AFC              0-0
+    20.00  Aberystwyth Town        v Connah's Quay Nomads     1-1 (0-0)
+  Sat Aug/17
+    17.15  Caernarfon Town         v Haverfordwest County     1-2 (0-0)
 
 
-Matchday 3
-[Fri Aug/23]
-  20.00  Aberystwyth Town         1-0 (1-0)  Barry Town United
-  19.45  Bala Town                2-0 (1-0)  Flint Town United
-         Briton Ferry Llansawel AFC  1-5 (0-2)  Cardiff Metropolitan
-         Haverfordwest County     0-0  Penybont FC
-         Newtown AFC              0-4 (0-1)  Caernarfon Town
+» Matchday 3
+  Fri Aug/23
+    19.45  Bala Town               v Flint Town United        2-0 (1-0)
+           Briton Ferry Llansawel AFC v Cardiff Metropolitan     1-5 (0-2)
+           Haverfordwest County    v Penybont FC              0-0
+           Newtown AFC             v Caernarfon Town          0-4 (0-1)
+    20.00  Aberystwyth Town        v Barry Town United        1-0 (1-0)
+  Wed Oct/30
+    19.45  Connah's Quay Nomads    v The New Saints           1-2 (0-0)
 
 
-Matchday 4
-[Mon Aug/26]
-  14.30  Barry Town United        1-2 (1-1)  Newtown AFC
-         Penybont FC              5-1 (2-1)  Aberystwyth Town
-         Caernarfon Town          0-0  Bala Town
-         Cardiff Metropolitan     0-0  Haverfordwest County
-         Flint Town United        0-1 (0-0)  Connah's Quay Nomads
+» Matchday 4
+  Mon Aug/26
+    14.30  Caernarfon Town         v Bala Town                0-0
+           Cardiff Metropolitan    v Haverfordwest County     0-0
+           Flint Town United       v Connah's Quay Nomads     0-1 (0-0)
+           Penybont FC             v Aberystwyth Town         5-1 (2-1)
+           Barry Town United       v Newtown AFC              1-2 (1-1)
+  Sun Dec/22
+    14.30  The New Saints          v Briton Ferry Llansawel AFC  5-2 (3-1)
 
 
-Matchday 5
-[Fri Aug/30]
-  19.45  Haverfordwest County     3-0 (1-0)  Newtown AFC
-[Sat Aug/31]
-  14.30  Barry Town United        3-2 (0-2)  Flint Town United
-         Caernarfon Town          1-2 (1-2)  Cardiff Metropolitan
-         Briton Ferry Llansawel AFC  1-5 (1-1)  Connah's Quay Nomads
-         Bala Town                1-2 (1-0)  Penybont FC
-[Tue Sep/3]
-  19.45  The New Saints           2-0 (0-0)  Aberystwyth Town
+» Matchday 5
+  Fri Aug/30
+    19.45  Haverfordwest County    v Newtown AFC              3-0 (1-0)
+  Sat Aug/31
+    14.30  Bala Town               v Penybont FC              1-2 (1-0)
+           Barry Town United       v Flint Town United        3-2 (0-2)
+           Briton Ferry Llansawel AFC v Connah's Quay Nomads     1-5 (1-1)
+           Caernarfon Town         v Cardiff Metropolitan     1-2 (1-2)
+  Tue Sep/3
+    19.45  The New Saints          v Aberystwyth Town         2-0 (0-0)
 
 
-Matchday 6
-[Sat Sep/7]
-  14.30  Penybont FC              2-0 (1-0)  Caernarfon Town
-         Newtown AFC              1-0 (0-0)  Briton Ferry Llansawel AFC
-  17.15  Aberystwyth Town         0-2 (0-1)  Flint Town United
-  14.30  Bala Town                0-1 (0-1)  Cardiff Metropolitan
-         Connah's Quay Nomads     1-2 (1-0)  Barry Town United
-         Haverfordwest County     0-1 (0-1)  The New Saints
+» Matchday 6
+  Sat Sep/7
+    14.30  Bala Town               v Cardiff Metropolitan     0-1 (0-1)
+           Connah's Quay Nomads    v Barry Town United        1-2 (1-0)
+           Haverfordwest County    v The New Saints           0-1 (0-1)
+           Newtown AFC             v Briton Ferry Llansawel AFC  1-0 (0-0)
+           Penybont FC             v Caernarfon Town          2-0 (1-0)
+    17.15  Aberystwyth Town        v Flint Town United        0-2 (0-1)
 
 
-Matchday 7
-[Fri Sep/13]
-  19.45  Bala Town                3-0 (3-0)  Aberystwyth Town
-         Newtown AFC              2-1 (1-0)  Cardiff Metropolitan
-[Sat Sep/14]
-  14.30  Caernarfon Town          3-2 (2-1)  Briton Ferry Llansawel AFC
-         Flint Town United        1-0 (0-0)  Haverfordwest County
-         The New Saints           4-0 (1-0)  Barry Town United
-[Sun Sep/15]
-  14.30  Connah's Quay Nomads     0-1 (0-0)  Penybont FC
+» Matchday 7
+  Fri Sep/13
+    19.45  Bala Town               v Aberystwyth Town         3-0 (3-0)
+           Newtown AFC             v Cardiff Metropolitan     2-1 (1-0)
+  Sat Sep/14
+    14.30  Caernarfon Town         v Briton Ferry Llansawel AFC  3-2 (2-1)
+           Flint Town United       v Haverfordwest County     1-0 (0-0)
+           The New Saints          v Barry Town United        4-0 (1-0)
+  Sun Sep/15
+    14.30  Connah's Quay Nomads    v Penybont FC              0-1 (0-0)
 
 
-Matchday 8
-[Fri Sep/20]
-  19.45  Bala Town                2-2 (1-2)  Newtown AFC
-         Penybont FC              2-1 (1-1)  The New Saints
-  20.00  Aberystwyth Town         0-3 (0-0)  Haverfordwest County
-[Sat Sep/21]
-  14.30  Cardiff Metropolitan     2-1 (1-1)  Connah's Quay Nomads
-         Briton Ferry Llansawel AFC  1-1 (0-0)  Flint Town United
-         Barry Town United        1-1 (1-1)  Caernarfon Town
+» Matchday 8
+  Fri Sep/20
+    19.45  Bala Town               v Newtown AFC              2-2 (1-2)
+           Penybont FC             v The New Saints           2-1 (1-1)
+    20.00  Aberystwyth Town        v Haverfordwest County     0-3 (0-0)
+  Sat Sep/21
+    14.30  Barry Town United       v Caernarfon Town          1-1 (1-1)
+           Briton Ferry Llansawel AFC v Flint Town United        1-1 (0-0)
+           Cardiff Metropolitan    v Connah's Quay Nomads     2-1 (1-1)
 
 
-Matchday 9
-[Tue Sep/24]
-  20.00  Aberystwyth Town         1-2 (0-1)  Cardiff Metropolitan
-  19.45  Haverfordwest County     1-1 (1-1)  Barry Town United
-         The New Saints           2-3 (1-1)  Bala Town
-         Connah's Quay Nomads     1-1 (1-1)  Newtown AFC
-         Penybont FC              0-1 (0-0)  Briton Ferry Llansawel AFC
-[Wed Sep/25]
-  19.45  Flint Town United        1-2 (1-1)  Caernarfon Town
+» Matchday 9
+  Tue Sep/24
+    19.45  Connah's Quay Nomads    v Newtown AFC              1-1 (1-1)
+           Haverfordwest County    v Barry Town United        1-1 (1-1)
+           Penybont FC             v Briton Ferry Llansawel AFC  0-1 (0-0)
+           The New Saints          v Bala Town                2-3 (1-1)
+    20.00  Aberystwyth Town        v Cardiff Metropolitan     1-2 (0-1)
+  Wed Sep/25
+    19.45  Flint Town United       v Caernarfon Town          1-2 (1-1)
 
 
-Matchday 10
-[Fri Sep/27]
-  19.45  Barry Town United        1-0 (0-0)  Aberystwyth Town
-         Newtown AFC              1-6 (0-2)  The New Saints
-         Haverfordwest County     1-0 (0-0)  Cardiff Metropolitan
-[Sat Sep/28]
-  14.30  Flint Town United        0-1 (0-0)  Penybont FC
-         Briton Ferry Llansawel AFC  2-2 (2-1)  Bala Town
-  17.15  Caernarfon Town          3-1 (2-0)  Connah's Quay Nomads
+» Matchday 10
+  Fri Sep/27
+    19.45  Barry Town United       v Aberystwyth Town         1-0 (0-0)
+           Newtown AFC             v The New Saints           1-6 (0-2)
+           Haverfordwest County    v Cardiff Metropolitan     1-0 (0-0)
+  Sat Sep/28
+    14.30  Briton Ferry Llansawel AFC v Bala Town                2-2 (2-1)
+           Flint Town United       v Penybont FC              0-1 (0-0)
+    17.15  Caernarfon Town         v Connah's Quay Nomads     3-1 (2-0)
 
 
-Matchday 11
-[Fri Oct/4]
-  19.45  Newtown AFC              2-4 (1-2)  Flint Town United
-         Penybont FC              4-1 (0-1)  Barry Town United
-         Connah's Quay Nomads     3-0 (2-0)  Aberystwyth Town
-         Bala Town                0-2 (0-0)  Haverfordwest County
-[Sat Oct/5]
-  14.30  Cardiff Metropolitan     1-2 (1-1)  Caernarfon Town
-[Sun Oct/6]
-  14.30  Briton Ferry Llansawel AFC  -  The New Saints           [abandoned]
+» Matchday 11
+  Fri Oct/4
+    19.45  Bala Town               v Haverfordwest County     0-2 (0-0)
+           Connah's Quay Nomads    v Aberystwyth Town         3-0 (2-0)
+           Newtown AFC             v Flint Town United        2-4 (1-2)
+           Penybont FC             v Barry Town United        4-1 (0-1)
+  Sat Oct/5
+    14.30  Cardiff Metropolitan    v Caernarfon Town          1-2 (1-1)
+  Wed Nov/20
+    19.45  Briton Ferry Llansawel AFC v The New Saints           3-1 (3-1)
 
 
-Matchday 1
-[Wed Oct/9]
-  19.45  The New Saints           -  Caernarfon Town
+» Matchday 12
+  Sat Oct/12
+    14.30  Aberystwyth Town        v Penybont FC              0-3 (0-2)
+           Barry Town United       v Briton Ferry Llansawel AFC  3-1 (2-1)
+           Caernarfon Town         v Newtown AFC              1-2 (0-1)
+           Flint Town United       v Bala Town                2-2 (1-0)
+           Haverfordwest County    v Connah's Quay Nomads     0-0
+           The New Saints          v Cardiff Metropolitan     3-0 (2-0)
 
 
-Matchday 12
-[Sat Oct/12]
-  14.30  Haverfordwest County     -  Connah's Quay Nomads
-         The New Saints           -  Cardiff Metropolitan
-         Aberystwyth Town         -  Penybont FC
-         Barry Town United        -  Briton Ferry Llansawel AFC
-         Caernarfon Town          -  Newtown AFC
-         Flint Town United        -  Bala Town
+» Matchday 13
+  Tue Oct/15
+    19.45  Bala Town               v Connah's Quay Nomads     0-0
+           Briton Ferry Llansawel AFC v Haverfordwest County     1-2 (1-1)
+           Caernarfon Town         v Aberystwyth Town         1-4 (0-3)
+           Cardiff Metropolitan    v Penybont FC              1-1 (0-1)
+           Newtown AFC             v Barry Town United        2-4 (2-0)
+           The New Saints          v Flint Town United        5-0 (3-0)
 
 
-Matchday 13
-[Tue Oct/15]
-  19.45  Newtown AFC              -  Barry Town United
-         The New Saints           -  Flint Town United
-         Bala Town                -  Connah's Quay Nomads
-         Briton Ferry Llansawel AFC  -  Haverfordwest County
-         Caernarfon Town          -  Aberystwyth Town
-         Cardiff Metropolitan     -  Penybont FC
+» Matchday 14
+  Fri Oct/25
+    19.45  Cardiff Metropolitan    v Newtown AFC              2-1 (1-1)
+  Sat Oct/26
+    14.30  Flint Town United       v Barry Town United        1-2 (0-2)
+           Penybont FC             v Bala Town                1-1 (1-0)
+    17.15  Haverfordwest County    v Caernarfon Town          0-0
+  Sun Oct/27
+    13.00  Aberystwyth Town        v The New Saints           2-4 (1-3)
+    14.30  Connah's Quay Nomads    v Briton Ferry Llansawel AFC  2-1 (2-0)
 
 
-Matchday 14
-[Fri Oct/25]
-  19.45  Aberystwyth Town         -  The New Saints
-         Cardiff Metropolitan     -  Newtown AFC
-[Sat Oct/26]
-  17.15  Haverfordwest County     -  Caernarfon Town
-  14.30  Flint Town United        -  Barry Town United
-         Penybont FC              -  Bala Town
-[Sun Oct/27]
-  14.30  Connah's Quay Nomads     -  Briton Ferry Llansawel AFC
+» Matchday 15
+  Sat Nov/2
+    13.00  Barry Town United       v The New Saints           1-4 (1-3)
+    14.30  Caernarfon Town         v Penybont FC              1-5 (0-2)
+           Connah's Quay Nomads    v Cardiff Metropolitan     1-0 (0-0)
+           Haverfordwest County    v Flint Town United        4-1 (2-1)
+           Newtown AFC             v Bala Town                0-0
+    17.15  Briton Ferry Llansawel AFC v Aberystwyth Town         4-0 (2-0)
 
 
-Matchday 3
-[Wed Oct/30]
-  19.45  Connah's Quay Nomads     -  The New Saints
+» Matchday 16
+  Fri Nov/8
+    19.45  Aberystwyth Town        v Newtown AFC              3-1 (2-0)
+  Sat Nov/9
+    14.30  Barry Town United       v Connah's Quay Nomads     3-2 (1-0)
+           Briton Ferry Llansawel AFC v Caernarfon Town          0-1 (0-1)
+           Penybont FC             v Flint Town United        3-1 (3-0)
+    17.15  Cardiff Metropolitan    v Bala Town                3-3 (1-1)
+  Sun Nov/10
+    14.30  The New Saints          v Haverfordwest County     2-1 (1-1)
 
 
-Matchday 15
-[Fri Nov/1]
-  19.45  Briton Ferry Llansawel AFC  -  Aberystwyth Town
-[Sat Nov/2]
-  14.30  Newtown AFC              -  Bala Town
-         Barry Town United        -  The New Saints
-         Caernarfon Town          -  Penybont FC
-         Connah's Quay Nomads     -  Cardiff Metropolitan
-         Haverfordwest County     -  Flint Town United
+» Matchday 17
+  Sat Nov/23
+    14.30  Cardiff Metropolitan    v Aberystwyth Town         3-0 (0-0)
+           Flint Town United       v Briton Ferry Llansawel AFC  2-1 (0-0)
+           Haverfordwest County    v Bala Town                0-0
+           The New Saints          v Penybont FC              3-2 (0-2)
+  Sat Nov/30
+    14.30  Newtown AFC             v Connah's Quay Nomads     0-3 (0-1)
+  Sat Dec/14
+    14.30  Caernarfon Town         v Barry Town United        3-2 (2-1)
 
 
-Matchday 16
-[Fri Nov/8]
-  19.45  Aberystwyth Town         -  Newtown AFC
-[Sat Nov/9]
-  14.30  Barry Town United        -  Connah's Quay Nomads
-         Cardiff Metropolitan     -  Bala Town
-         Penybont FC              -  Flint Town United
-         Briton Ferry Llansawel AFC  -  Caernarfon Town
-         The New Saints           -  Haverfordwest County
+» Matchday 18
+  Tue Dec/3
+    19.45  Briton Ferry Llansawel AFC v Newtown AFC              2-1 (0-0)
+           Connah's Quay Nomads    v Caernarfon Town          1-1 (1-0)
+           Penybont FC             v Haverfordwest County     1-0 (0-0)
+  Wed Dec/4
+    19.45  Bala Town               v The New Saints           1-0 (1-0)
+           Flint Town United       v Aberystwyth Town         3-0 (2-0)
+  Tue Dec/10
+    19.45  Barry Town United       v Cardiff Metropolitan     2-1 (0-1)
 
 
-Matchday 17
-[Sat Nov/23]
-  14.30  The New Saints           -  Penybont FC
-         Caernarfon Town          -  Barry Town United
-         Cardiff Metropolitan     -  Aberystwyth Town
-         Flint Town United        -  Briton Ferry Llansawel AFC
-         Haverfordwest County     -  Bala Town
-         Newtown AFC              -  Connah's Quay Nomads
+» Matchday 19
+  Sat Dec/14
+    14.30  Cardiff Metropolitan    v Flint Town United        2-0 (0-0)
+  Sat Dec/21
+    14.30  Aberystwyth Town        v Caernarfon Town          3-1 (1-0)
+           Bala Town               v Barry Town United        3-1 (1-0)
+  Sat Jan/4 2025
+    14.30  Haverfordwest County    v Briton Ferry Llansawel AFC  5-1 (1-1)
+           The New Saints          v Newtown AFC              2-1 (0-1)
+           Penybont FC             v Connah's Quay Nomads     1-0 (0-0)
 
 
-Matchday 18
-[Tue Dec/3]
-  19.45  Bala Town                -  The New Saints
-         Barry Town United        -  Cardiff Metropolitan
-         Briton Ferry Llansawel AFC  -  Newtown AFC
-         Penybont FC              -  Haverfordwest County
-         Connah's Quay Nomads     -  Caernarfon Town
-[Wed Dec/4]
-  19.45  Flint Town United        -  Aberystwyth Town
+» Matchday 20
+  Thu Dec/26 2024
+    12.30  Barry Town United       v Penybont FC              1-2 (1-0)
+           Cardiff Metropolitan    v Briton Ferry Llansawel AFC  1-3 (1-1)
+    14.30  Aberystwyth Town        v Bala Town                0-0
+           Caernarfon Town         v The New Saints           2-5 (2-3)
+           Connah's Quay Nomads    v Flint Town United        7-2 (6-1)
+           Newtown AFC             v Haverfordwest County     0-2 (0-1)
 
 
-Matchday 19
-[Fri Dec/6]
-  19.45  Haverfordwest County     -  Briton Ferry Llansawel AFC
-         The New Saints           -  Newtown AFC
-[Sat Dec/7]
-  14.30  Penybont FC              -  Connah's Quay Nomads
-         Aberystwyth Town         -  Caernarfon Town
-         Bala Town                -  Barry Town United
-         Cardiff Metropolitan     -  Flint Town United
+» Matchday 21
+  Tue Dec/31
+    12.30  Briton Ferry Llansawel AFC v Barry Town United        0-0
+    14.30  The New Saints          v Connah's Quay Nomads     2-1 (2-1)
+    17.45  Penybont FC             v Cardiff Metropolitan     2-2 (1-0)
+  Wed Jan/1 2025
+    14.30  Flint Town United       v Newtown AFC              2-0 (0-0)
+           Haverfordwest County    v Aberystwyth Town         1-0 (1-0)
+  Sat Jan/11
+    12.45  Bala Town               v Caernarfon Town          0-2 (0-1)
 
 
-Matchday 4
-[Sun Dec/22]
-  14.30  The New Saints           -  Briton Ferry Llansawel AFC
+» Matchday 22
+  Sat Jan/11
+    12.45  Aberystwyth Town        v Briton Ferry Llansawel AFC  1-6 (1-2)
+  Tue Jan/14
+    19.45  Barry Town United       v Haverfordwest County     1-1 (1-1)
+           Caernarfon Town         v Flint Town United        3-0 (0-0)
+           Cardiff Metropolitan    v The New Saints           0-2 (0-1)
+           Newtown AFC             v Penybont FC              1-2 (0-1)
+  Fri Jan/17
+    19.45  Connah's Quay Nomads    v Bala Town                0-2 (0-0)
 
 
-Matchday 20
-[Thu Dec/26]
-  12.30  Cardiff Metropolitan     -  Briton Ferry Llansawel AFC
-  14.30  Aberystwyth Town         -  Bala Town
-         Caernarfon Town          -  The New Saints
-         Connah's Quay Nomads     -  Flint Town United
-         Newtown AFC              -  Haverfordwest County
-  12.30  Barry Town United        -  Penybont FC
+» Championship, Matchday 1
+  Fri Jan/24
+    19.45  Cardiff Metropolitan    v Penybont FC              2-1 (0-0)
+  Sat Jan/25
+    14.30  Haverfordwest County    v Bala Town                3-2 (1-1)
+  Tue Feb/11
+    19.45  Caernarfon Town         v The New Saints           0-1 (0-1)
 
 
-Matchday 21
-[Tue Dec/31]
-  19.45  The New Saints           -  Connah's Quay Nomads
-  12.30  Bala Town                -  Caernarfon Town
-[Wed Jan/1]
-  14.30  Briton Ferry Llansawel AFC  -  Barry Town United
-         Flint Town United        -  Newtown AFC
-         Haverfordwest County     -  Aberystwyth Town
-         Penybont FC              -  Cardiff Metropolitan
+» Championship, Matchday 2
+  Fri Jan/31
+    19.45  Bala Town               v Caernarfon Town          1-3 (0-2)
+  Sat Feb/1
+    12.15  Penybont FC             v Haverfordwest County     0-0
+    14.30  The New Saints          v Cardiff Metropolitan     3-1 (1-1)
 
 
-Matchday 22
-[Sat Jan/11]
-  14.30  Barry Town United        -  Haverfordwest County
-         Caernarfon Town          -  Flint Town United
-         Cardiff Metropolitan     -  The New Saints
-         Connah's Quay Nomads     -  Bala Town
-         Newtown AFC              -  Penybont FC
-         Aberystwyth Town         -  Briton Ferry Llansawel AFC
+» Championship, Matchday 3
+  Sat Feb/8
+    12.15  The New Saints          v Penybont FC              4-0 (1-0)
+    14.30  Caernarfon Town         v Haverfordwest County     1-1 (1-1)
+           Cardiff Metropolitan    v Bala Town                2-1 (1-0)
+
+
+» Championship, Matchday 4
+  Fri Feb/21
+    19.45  Bala Town               v The New Saints           0-2 (0-1)
+           Haverfordwest County    v Cardiff Metropolitan     1-0 (0-0)
+  Sat Feb/22
+    14.30  Caernarfon Town         v Penybont FC              3-2 (1-0)
+
+
+» Championship, Matchday 5
+  Sat Mar/8
+    12.15  The New Saints          v Haverfordwest County     5-1 (3-1)
+    14.30  Cardiff Metropolitan    v Caernarfon Town          4-2 (1-1)
+           Penybont FC             v Bala Town                3-2 (1-0)
+
+
+» Championship, Matchday 6
+  Tue Mar/11
+    19.45  The New Saints          v Caernarfon Town          2-0 (1-0)
+  Fri Mar/14
+    19.45  Penybont FC             v Cardiff Metropolitan     0-0
+  Sat Mar/15
+    14.30  Bala Town               v Haverfordwest County     0-0
+
+
+» Championship, Matchday 7
+  Fri Mar/21
+    19.45  Caernarfon Town         v Bala Town                5-0 (1-0)
+           Haverfordwest County    v Penybont FC              1-2 (1-1)
+  Sat Mar/22
+    14.30  Cardiff Metropolitan    v The New Saints
+
+
+» Championship, Matchday 8
+  Sat Mar/29
+    14.30  Bala Town               v Cardiff Metropolitan
+           Haverfordwest County    v Caernarfon Town
+           Penybont FC             v The New Saints
+
+
+» Championship, Matchday 9
+  Fri Apr/11
+    19.45  Cardiff Metropolitan    v Haverfordwest County
+           The New Saints          v Bala Town
+  Sun Apr/13
+    14.30  Penybont FC             v Caernarfon Town
+
+
+» Championship, Matchday 10
+  Sat Apr/19
+    12.45  Bala Town               v Penybont FC
+           Caernarfon Town         v Cardiff Metropolitan
+           Haverfordwest County    v The New Saints
+
+
+» Relegation, Matchday 1
+  Fri Jan/24
+    19.45  Newtown AFC             v Briton Ferry Llansawel AFC  2-2 (2-1)
+    20.00  Aberystwyth Town        v Barry Town United        1-2 (0-0)
+  Sat Jan/25
+    14.30  Flint Town United       v Connah's Quay Nomads     2-1 (1-0)
+
+
+» Relegation, Matchday 2
+  Sat Feb/1
+    14.30  Barry Town United       v Flint Town United        3-1 (2-1)
+           Briton Ferry Llansawel AFC v Aberystwyth Town         2-3 (0-1)
+           Connah's Quay Nomads    v Newtown AFC              1-0 (1-0)
+
+
+» Relegation, Matchday 3
+  Fri Feb/7
+    19.45  Flint Town United       v Aberystwyth Town         2-0 (0-0)
+  Sat Feb/8
+    14.30  Connah's Quay Nomads    v Briton Ferry Llansawel AFC  0-1 (0-0)
+           Newtown AFC             v Barry Town United        1-1 (0-1)
+
+
+» Relegation, Matchday 4
+  Sat Feb/22
+    12.15  Aberystwyth Town        v Newtown AFC              0-1 (0-0)
+    14.30  Barry Town United       v Connah's Quay Nomads     0-2 (0-1)
+           Flint Town United       v Briton Ferry Llansawel AFC  3-1 (2-0)
+
+
+» Relegation, Matchday 5
+  Fri Mar/7
+    19.45  Briton Ferry Llansawel AFC v Barry Town United        3-4 (1-2)
+           Connah's Quay Nomads    v Aberystwyth Town         3-0 (1-0)
+           Newtown AFC             v Flint Town United        2-2 (1-1)
+
+
+» Relegation, Matchday 6
+  Tue Mar/11
+    19.45  Barry Town United       v Aberystwyth Town         2-1 (1-0)
+           Briton Ferry Llansawel AFC v Newtown AFC              1-1 (0-0)
+           Connah's Quay Nomads    v Flint Town United        4-0 (2-0)
+
+
+» Relegation, Matchday 7
+  Fri Mar/21
+    19.45  Newtown AFC             v Connah's Quay Nomads     2-3 (0-2)
+    20.00  Aberystwyth Town        v Briton Ferry Llansawel AFC  0-1 (0-0)
+  Sat Mar/22
+    14.30  Flint Town United       v Barry Town United
+
+
+» Relegation, Matchday 8
+  Fri Mar/28
+    19.45  Barry Town United       v Newtown AFC
+    20.00  Aberystwyth Town        v Flint Town United
+  Sat Mar/29
+    14.30  Briton Ferry Llansawel AFC v Connah's Quay Nomads
+
+
+» Relegation, Matchday 9
+  Sat Apr/12
+    14.30  Briton Ferry Llansawel AFC v Flint Town United
+           Newtown AFC             v Aberystwyth Town
+  Sun Apr/13
+    14.30  Connah's Quay Nomads    v Barry Town United
+
+
+» Relegation, Matchday 10
+  Sat Apr/19
+    12.45  Aberystwyth Town        v Connah's Quay Nomads
+           Barry Town United       v Briton Ferry Llansawel AFC
+           Flint Town United       v Newtown AFC

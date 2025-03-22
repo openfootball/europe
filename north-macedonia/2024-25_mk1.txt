@@ -1,226 +1,341 @@
-= Macedonian First League 2024/25
+= North Macedonia First League 2024/25
 
-# Date       Sun Aug/11 2024 - Wed Mar/5 2025 (206d)
+# Date       Sun Aug/11 2024 - Sun May/18 2025 (280d)
 # Teams      12
-# Matches    132
+# Matches    198
 
 
 
-Matchday 1
-[Sun Aug/11]
-  17.00  KF Besa Dobërdoll        1-3 (1-2)  KF Shkëndija 79
-         FK Rabotnički            1-0 (1-0)  Sileks Kratovo
-         FK Pelister              1-1 (1-1)  KF Gostivari
-         KF Shkupi                3-3 (1-1)  FK Voska Sport
-  20.00  FK AP Brera Strumica     3-1 (1-1)  Vardar Skopje
-  17.00  FC Struga                1-0 (0-0)  GFK Tikvesh
+» Matchday 1
+  Sun Aug/11 2024
+    17.00  FC Struga               v GFK Tikvesh              1-0 (0-0)
+           KF Besa Dobërdoll       v KF Shkëndija 79          1-3 (1-2)
+           FK Rabotnički           v Sileks Kratovo           1-0 (1-0)
+           FK Pelister             v KF Gostivari             1-1 (1-1)
+           KF Shkupi               v FK Voska Sport           3-3 (1-1)
+    20.00  FK AP Brera Strumica    v Vardar Skopje            3-1 (1-1)
 
 
-Matchday 2
-[Sun Aug/18]
-  17.00  GFK Tikvesh              2-1 (1-0)  FK Voska Sport
-         KF Gostivari             2-0 (2-0)  KF Shkupi
-         Sileks Kratovo           4-0 (2-0)  FK AP Brera Strumica
-         KF Shkëndija 79          1-1 (1-0)  FK Rabotnički
-         FC Struga                1-0 (0-0)  KF Besa Dobërdoll
-  20.00  Vardar Skopje            1-0 (0-0)  FK Pelister
+» Matchday 2
+  Sun Aug/18
+    17.00  GFK Tikvesh             v FK Voska Sport           2-1 (1-0)
+           KF Gostivari            v KF Shkupi                2-0 (2-0)
+           Sileks Kratovo          v FK AP Brera Strumica     4-0 (2-0)
+           KF Shkëndija 79         v FK Rabotnički            1-1 (1-0)
+           FC Struga               v KF Besa Dobërdoll        1-0 (0-0)
+    20.00  Vardar Skopje           v FK Pelister              1-0 (0-0)
 
 
-Matchday 3
-[Sun Aug/25]
-  16.00  KF Besa Dobërdoll        1-0 (0-0)  GFK Tikvesh
-         FK Rabotnički            2-0 (2-0)  FC Struga
-         FK Pelister              1-0 (0-0)  Sileks Kratovo
-         KF Shkupi                3-0 (1-0)  Vardar Skopje
-         FK Voska Sport           0-2 (0-1)  KF Gostivari
-  20.00  FK AP Brera Strumica     0-2 (0-0)  KF Shkëndija 79
+» Matchday 3
+  Sun Aug/25
+    16.00  KF Besa Dobërdoll       v GFK Tikvesh              1-0 (0-0)
+           FK Rabotnički           v FC Struga                2-0 (2-0)
+           FK Pelister             v Sileks Kratovo           1-0 (0-0)
+           KF Shkupi               v Vardar Skopje            3-0 (1-0)
+           FK Voska Sport          v KF Gostivari             0-2 (0-1)
+    20.00  FK AP Brera Strumica    v KF Shkëndija 79          0-2 (0-0)
 
 
-Matchday 4
-[Sat Aug/31]
-  16.00  Vardar Skopje            1-3 (0-0)  FK Voska Sport
-         Sileks Kratovo           2-1 (1-0)  KF Shkupi
-         KF Shkëndija 79          2-0 (0-0)  FK Pelister
-         FC Struga                2-0 (0-0)  FK AP Brera Strumica
-         KF Besa Dobërdoll        0-0  FK Rabotnički
-         GFK Tikvesh              0-0  KF Gostivari
+» Matchday 4
+  Sat Aug/31
+    16.00  GFK Tikvesh             v KF Gostivari             0-0
+           Vardar Skopje           v FK Voska Sport           1-3 (0-0)
+           Sileks Kratovo          v KF Shkupi                2-1 (1-0)
+           KF Shkëndija 79         v FK Pelister              2-0 (0-0)
+           FC Struga               v FK AP Brera Strumica     2-0 (0-0)
+           KF Besa Dobërdoll       v FK Rabotnički            0-0
 
 
-Matchday 5
-[Sun Sep/15]
-  15.00  FK Rabotnički            3-1 (1-0)  GFK Tikvesh
-         FK AP Brera Strumica     3-2 (0-0)  KF Besa Dobërdoll
-         FK Pelister              1-1 (1-1)  FC Struga
-         KF Shkupi                1-1 (1-0)  KF Shkëndija 79
-         FK Voska Sport           0-3 (0-0)  Sileks Kratovo
-         KF Gostivari             1-1 (1-0)  Vardar Skopje
+» Matchday 5
+  Sun Sep/15
+    15.00  FK Rabotnički           v GFK Tikvesh              3-1 (1-0)
+           FK AP Brera Strumica    v KF Besa Dobërdoll        3-2 (0-0)
+           FK Pelister             v FC Struga                1-1 (1-1)
+           KF Shkupi               v KF Shkëndija 79          1-1 (1-0)
+           FK Voska Sport          v Sileks Kratovo           0-3 (0-0)
+           KF Gostivari            v Vardar Skopje            1-1 (1-0)
 
 
-Matchday 6
-[Sun Sep/22]
-  15.00  GFK Tikvesh              0-1 (0-0)  Vardar Skopje
-         Sileks Kratovo           1-2 (0-1)  KF Gostivari
-         KF Shkëndija 79          5-1 (4-0)  FK Voska Sport
-         FC Struga                0-3 (0-1)  KF Shkupi
-         KF Besa Dobërdoll        2-3 (0-2)  FK Pelister
-         FK Rabotnički            1-1 (0-1)  FK AP Brera Strumica
+» Matchday 6
+  Sun Sep/22
+    15.00  GFK Tikvesh             v Vardar Skopje            0-1 (0-0)
+           Sileks Kratovo          v KF Gostivari             1-2 (0-1)
+           KF Shkëndija 79         v FK Voska Sport           5-1 (4-0)
+           FC Struga               v KF Shkupi                0-3 (0-1)
+           KF Besa Dobërdoll       v FK Pelister              2-3 (0-2)
+           FK Rabotnički           v FK AP Brera Strumica     1-1 (0-1)
 
 
-Matchday 7
-[Wed Sep/25]
-  15.00  FK Pelister              0-0  FK Rabotnički
-         KF Shkupi                1-1 (1-0)  KF Besa Dobërdoll
-         FK Voska Sport           1-1 (0-0)  FC Struga
-         KF Gostivari             3-1 (1-0)  KF Shkëndija 79
-  20.00  Vardar Skopje            0-1 (0-0)  Sileks Kratovo
-  15.00  FK AP Brera Strumica     0-0  GFK Tikvesh
+» Matchday 7
+  Wed Sep/25
+    15.00  FK AP Brera Strumica    v GFK Tikvesh              0-0
+           FK Pelister             v FK Rabotnički            0-0
+           KF Shkupi               v KF Besa Dobërdoll        1-1 (1-0)
+           FK Voska Sport          v FC Struga                1-1 (0-0)
+           KF Gostivari            v KF Shkëndija 79          3-1 (1-0)
+    20.00  Vardar Skopje           v Sileks Kratovo           0-1 (0-0)
 
 
-Matchday 8
-[Sun Sep/29]
-  14.00  GFK Tikvesh              0-0  Sileks Kratovo
-         KF Shkëndija 79          4-0 (3-0)  Vardar Skopje
-         FC Struga                2-2 (2-1)  KF Gostivari
-         KF Besa Dobërdoll        1-0 (1-0)  FK Voska Sport
-         FK Rabotnički            2-1 (1-0)  KF Shkupi
-         FK AP Brera Strumica     4-0 (1-0)  FK Pelister
+» Matchday 8
+  Sun Sep/29
+    14.00  GFK Tikvesh             v Sileks Kratovo           0-0
+           KF Shkëndija 79         v Vardar Skopje            4-0 (3-0)
+           FC Struga               v KF Gostivari             2-2 (2-1)
+           KF Besa Dobërdoll       v FK Voska Sport           1-0 (1-0)
+           FK Rabotnički           v KF Shkupi                2-1 (1-0)
+           FK AP Brera Strumica    v FK Pelister              4-0 (1-0)
 
 
-Matchday 9
-[Sat Oct/5]
-  14.00  FK Pelister              0-0  GFK Tikvesh
-         KF Shkupi                3-1 (2-1)  FK AP Brera Strumica
-         FK Voska Sport           0-2 (0-1)  FK Rabotnički
-         KF Gostivari             1-1 (0-0)  KF Besa Dobërdoll
-         Vardar Skopje            1-4 (1-2)  FC Struga
-         Sileks Kratovo           0-0  KF Shkëndija 79
+» Matchday 9
+  Sat Oct/5
+    14.00  FK Pelister             v GFK Tikvesh              0-0
+           KF Shkupi               v FK AP Brera Strumica     3-1 (2-1)
+           FK Voska Sport          v FK Rabotnički            0-2 (0-1)
+           KF Gostivari            v KF Besa Dobërdoll        1-1 (0-0)
+           Vardar Skopje           v FC Struga                1-4 (1-2)
+           Sileks Kratovo          v KF Shkëndija 79          0-0
 
 
-Matchday 10
-[Sun Oct/20]
-  14.00  FC Struga                -  Sileks Kratovo
-         KF Besa Dobërdoll        -  Vardar Skopje
-         FK Rabotnički            -  KF Gostivari
-         FK AP Brera Strumica     -  FK Voska Sport
-         FK Pelister              -  KF Shkupi
-         GFK Tikvesh              -  KF Shkëndija 79
+» Matchday 10
+  Sun Oct/20
+    14.00  GFK Tikvesh             v KF Shkëndija 79          0-0
+           FC Struga               v Sileks Kratovo           1-4 (0-0)
+           KF Besa Dobërdoll       v Vardar Skopje            2-1 (1-0)
+           FK Rabotnički           v KF Gostivari             1-0 (1-0)
+           FK AP Brera Strumica    v FK Voska Sport           1-1 (0-0)
+           FK Pelister             v KF Shkupi                0-0
 
 
-Matchday 11
-[Sun Oct/27]
-  14.00  KF Shkupi                -  GFK Tikvesh
-         FK Voska Sport           -  FK Pelister
-         KF Gostivari             -  FK AP Brera Strumica
-         Vardar Skopje            -  FK Rabotnički
-         Sileks Kratovo           -  KF Besa Dobërdoll
-         KF Shkëndija 79          -  FC Struga
+» Matchday 11
+  Sun Oct/27
+    13.00  KF Shkupi               v GFK Tikvesh              3-1 (2-1)
+           FK Voska Sport          v FK Pelister              1-1 (1-0)
+           KF Gostivari            v FK AP Brera Strumica     4-1 (2-1)
+           Vardar Skopje           v FK Rabotnički            0-0
+           Sileks Kratovo          v KF Besa Dobërdoll        2-0 (1-0)
+           KF Shkëndija 79         v FC Struga                1-1 (1-0)
 
 
-Matchday 12
-[Wed Oct/30]
-  13.00  GFK Tikvesh              -  FC Struga
-         KF Shkëndija 79          -  KF Besa Dobërdoll
-         Sileks Kratovo           -  FK Rabotnički
-         Vardar Skopje            -  FK AP Brera Strumica
-         KF Gostivari             -  FK Pelister
-         FK Voska Sport           -  KF Shkupi
+» Matchday 12
+  Wed Oct/30
+    13.00  GFK Tikvesh             v FC Struga                0-1 (0-0)
+           KF Shkëndija 79         v KF Besa Dobërdoll        2-1 (2-1)
+           Sileks Kratovo          v FK Rabotnički            1-1 (0-1)
+           Vardar Skopje           v FK AP Brera Strumica     0-1 (0-1)
+           KF Gostivari            v FK Pelister              0-0
+           FK Voska Sport          v KF Shkupi                3-1 (1-0)
 
 
-Matchday 13
-[Sun Nov/3]
-  13.00  KF Shkupi                -  KF Gostivari
-         FK Pelister              -  Vardar Skopje
-         FK AP Brera Strumica     -  Sileks Kratovo
-         FK Rabotnički            -  KF Shkëndija 79
-         KF Besa Dobërdoll        -  FC Struga
-         FK Voska Sport           -  GFK Tikvesh
+» Matchday 13
+  Sun Nov/3
+    13.00  FK Voska Sport          v GFK Tikvesh              0-0
+           KF Shkupi               v KF Gostivari             0-1 (0-0)
+           FK AP Brera Strumica    v Sileks Kratovo           0-1 (0-1)
+           FK Rabotnički           v KF Shkëndija 79          0-0
+           KF Besa Dobërdoll       v FC Struga                1-2 (0-0)
+    19.00  FK Pelister             v Vardar Skopje            1-0 (0-0)
 
 
-Matchday 14
-[Sat Nov/9]
-  13.00  GFK Tikvesh              -  KF Besa Dobërdoll
-         FC Struga                -  FK Rabotnički
-         KF Shkëndija 79          -  FK AP Brera Strumica
-         Sileks Kratovo           -  FK Pelister
-         Vardar Skopje            -  KF Shkupi
-         KF Gostivari             -  FK Voska Sport
+» Matchday 14
+  Sat Nov/9
+    13.00  GFK Tikvesh             v KF Besa Dobërdoll        0-0
+           FC Struga               v FK Rabotnički            1-0 (1-0)
+           KF Shkëndija 79         v FK AP Brera Strumica     4-3 (2-1)
+           Sileks Kratovo          v FK Pelister              1-0 (1-0)
+           Vardar Skopje           v KF Shkupi                3-2 (2-1)
+           KF Gostivari            v FK Voska Sport           4-0 (0-0)
 
 
-Matchday 15
-[Sun Nov/24]
-  13.00  KF Gostivari             -  GFK Tikvesh
-         FK Voska Sport           -  Vardar Skopje
-         KF Shkupi                -  Sileks Kratovo
-         FK Pelister              -  KF Shkëndija 79
-         FK AP Brera Strumica     -  FC Struga
-         FK Rabotnički            -  KF Besa Dobërdoll
+» Matchday 15
+  Sun Nov/24
+    13.00  KF Gostivari            v GFK Tikvesh              1-0 (0-0)
+           FK Voska Sport          v Vardar Skopje            0-0
+           KF Shkupi               v Sileks Kratovo           0-2 (0-2)
+           FK AP Brera Strumica    v FC Struga                1-1 (0-0)
+           FK Rabotnički           v KF Besa Dobërdoll        4-1 (1-1)
+    17.00  FK Pelister             v KF Shkëndija 79          0-1 (0-1)
 
 
-Matchday 16
-[Wed Nov/27]
-  13.00  KF Besa Dobërdoll        -  FK AP Brera Strumica
-         FC Struga                -  FK Pelister
-         KF Shkëndija 79          -  KF Shkupi
-         Sileks Kratovo           -  FK Voska Sport
-         Vardar Skopje            -  KF Gostivari
-         GFK Tikvesh              -  FK Rabotnički
+» Matchday 16
+  Wed Nov/27
+    13.00  GFK Tikvesh             v FK Rabotnički            0-2 (0-2)
+           KF Besa Dobërdoll       v FK AP Brera Strumica     0-1 (0-0)
+           FC Struga               v FK Pelister              1-0 (1-0)
+           KF Shkëndija 79         v KF Shkupi                2-0 (1-0)
+           Sileks Kratovo          v FK Voska Sport           4-1 (1-0)
+           Vardar Skopje           v KF Gostivari             0-2 (0-0)
 
 
-Matchday 17
-[Sun Dec/1]
-  13.00  Vardar Skopje            -  GFK Tikvesh
-         KF Gostivari             -  Sileks Kratovo
-         FK Voska Sport           -  KF Shkëndija 79
-         KF Shkupi                -  FC Struga
-         FK Pelister              -  KF Besa Dobërdoll
-         FK AP Brera Strumica     -  FK Rabotnički
+» Matchday 17
+  Tue Dec/3
+    13.00  Vardar Skopje           v GFK Tikvesh              1-1 (0-1)
+           KF Gostivari            v Sileks Kratovo           0-0
+           FK Voska Sport          v KF Shkëndija 79          0-1 (0-0)
+           KF Shkupi               v FC Struga                3-1 (2-0)
+           FK Pelister             v KF Besa Dobërdoll        1-0 (1-0)
+           FK AP Brera Strumica    v FK Rabotnički            1-3 (0-2)
 
 
-Matchday 18
-[Sun Dec/8]
-  13.00  GFK Tikvesh              -  FK AP Brera Strumica
-         FK Rabotnički            -  FK Pelister
-         KF Besa Dobërdoll        -  KF Shkupi
-         FC Struga                -  FK Voska Sport
-         KF Shkëndija 79          -  KF Gostivari
-         Sileks Kratovo           -  Vardar Skopje
+» Matchday 18
+  Sun Dec/8
+    13.00  GFK Tikvesh             v FK AP Brera Strumica     2-0 (1-0)
+           FK Rabotnički           v FK Pelister              3-0 (2-0)
+           KF Besa Dobërdoll       v KF Shkupi                0-1 (0-0)
+           FC Struga               v FK Voska Sport           2-1 (1-0)
+           KF Shkëndija 79         v KF Gostivari             0-0
+           Sileks Kratovo          v Vardar Skopje            1-0 (1-0)
 
 
-Matchday 19
-[Sun Feb/16]
-  14.00  Vardar Skopje            -  KF Shkëndija 79
-         KF Gostivari             -  FC Struga
-         FK Voska Sport           -  KF Besa Dobërdoll
-         KF Shkupi                -  FK Rabotnički
-         FK Pelister              -  FK AP Brera Strumica
-         Sileks Kratovo           -  GFK Tikvesh
+» Matchday 19
+  Sun Feb/16 2025
+    14.00  Sileks Kratovo          v GFK Tikvesh              1-1 (1-0)
+           Vardar Skopje           v KF Shkëndija 79          1-2 (0-0)
+           KF Gostivari            v FC Struga                1-0 (0-0)
+           FK Voska Sport          v KF Besa Dobërdoll        2-0 (0-0)
+           KF Shkupi               v FK Rabotnički            2-0 (1-0)
+           FK Pelister             v FK AP Brera Strumica     0-0
 
 
-Matchday 20
-[Sun Feb/23]
-  14.00  GFK Tikvesh              -  FK Pelister
-         FK AP Brera Strumica     -  KF Shkupi
-         FK Rabotnički            -  FK Voska Sport
-         KF Besa Dobërdoll        -  KF Gostivari
-         FC Struga                -  Vardar Skopje
-         KF Shkëndija 79          -  Sileks Kratovo
+» Matchday 20
+  Sat Feb/22
+    14.00  FC Struga               v Vardar Skopje            0-2 (0-0)
+  Sun Feb/23
+    14.00  GFK Tikvesh             v FK Pelister              1-2 (0-0)
+           FK AP Brera Strumica    v KF Shkupi                1-2 (0-1)
+           FK Rabotnički           v FK Voska Sport           1-0 (0-0)
+           KF Besa Dobërdoll       v KF Gostivari             0-0
+           KF Shkëndija 79         v Sileks Kratovo           4-2 (1-1)
 
 
-Matchday 21
-[Sun Mar/2]
-  14.00  KF Shkëndija 79          -  GFK Tikvesh
-         Sileks Kratovo           -  FC Struga
-         Vardar Skopje            -  KF Besa Dobërdoll
-         KF Gostivari             -  FK Rabotnički
-         FK Voska Sport           -  FK AP Brera Strumica
-         KF Shkupi                -  FK Pelister
+» Matchday 21
+  Sat Mar/1
+    14.00  Vardar Skopje           v KF Besa Dobërdoll        0-0
+  Sun Mar/2
+    14.00  KF Shkëndija 79         v GFK Tikvesh              1-0 (1-0)
+           Sileks Kratovo          v FC Struga                3-1 (2-1)
+           KF Gostivari            v FK Rabotnički            0-0
+           FK Voska Sport          v FK AP Brera Strumica     3-1 (1-0)
+           KF Shkupi               v FK Pelister              3-1 (1-0)
 
 
-Matchday 22
-[Wed Mar/5]
-  14.00  FK Pelister              -  FK Voska Sport
-         FK AP Brera Strumica     -  KF Gostivari
-         FK Rabotnički            -  Vardar Skopje
-         KF Besa Dobërdoll        -  Sileks Kratovo
-         FC Struga                -  KF Shkëndija 79
-         GFK Tikvesh              -  KF Shkupi
+» Matchday 22
+  Wed Mar/5
+    14.00  GFK Tikvesh             v KF Shkupi                1-0 (0-0)
+           FK Pelister             v FK Voska Sport           1-0 (0-0)
+           FK AP Brera Strumica    v KF Gostivari             0-1 (0-0)
+           FK Rabotnički           v Vardar Skopje            0-2 (0-1)
+           KF Besa Dobërdoll       v Sileks Kratovo           0-5 (0-3)
+           FC Struga               v KF Shkëndija 79          3-0 (0-0)
+
+
+» Matchday 23
+  Sun Mar/9
+    14.00  FC Struga               v FK Voska Sport           1-0 (0-0)
+           KF Gostivari            v FK AP Brera Strumica     2-2 (1-1)
+           KF Shkëndija 79         v FK Pelister              1-0 (0-0)
+           KF Shkupi               v KF Besa Dobërdoll        2-3 (1-2)
+    14.30  Sileks Kratovo          v Vardar Skopje            1-1 (1-0)
+  Mon Mar/10
+    14.00  FK Rabotnički           v GFK Tikvesh              1-0 (1-0)
+
+
+» Matchday 24
+  Fri Mar/14
+    15.00  Vardar Skopje           v KF Shkëndija 79          1-1 (1-1)
+  Sat Mar/15
+    15.00  FK AP Brera Strumica    v Sileks Kratovo           0-2 (0-0)
+           KF Besa Dobërdoll       v FC Struga                3-2 (1-1)
+           KF Shkupi               v FK Pelister              0-1 (0-0)
+           GFK Tikvesh             v KF Gostivari             2-1 (1-0)
+           FK Voska Sport          v FK Rabotnički            1-1 (0-1)
+
+
+» Matchday 25
+  Sat Mar/29
+    15.00  FK Pelister             v Vardar Skopje
+  Mon Mar/31
+    15.00  FC Struga               v KF Shkupi
+           KF Gostivari            v FK Voska Sport
+           FK Rabotnički           v KF Besa Dobërdoll
+           KF Shkëndija 79         v FK AP Brera Strumica
+           Sileks Kratovo          v GFK Tikvesh
+
+
+» Matchday 26
+  Sun Apr/6
+    15.00  FK AP Brera Strumica    v Vardar Skopje
+           KF Besa Dobërdoll       v KF Gostivari
+           FC Struga               v FK Pelister
+           KF Shkupi               v FK Rabotnički
+           GFK Tikvesh             v KF Shkëndija 79
+           FK Voska Sport          v Sileks Kratovo
+
+
+» Matchday 27
+  Sun Apr/13
+    15.00  KF Gostivari            v KF Shkupi
+           FK Pelister             v FK AP Brera Strumica
+           FK Rabotnički           v FC Struga
+           KF Shkëndija 79         v FK Voska Sport
+           Sileks Kratovo          v KF Besa Dobërdoll
+           Vardar Skopje           v GFK Tikvesh
+
+
+» Matchday 28
+  Sun Apr/20
+    16.00  KF Besa Dobërdoll       v KF Shkëndija 79
+           FC Struga               v KF Gostivari
+           FK Rabotnički           v FK Pelister
+           KF Shkupi               v Sileks Kratovo
+           GFK Tikvesh             v FK AP Brera Strumica
+           FK Voska Sport          v Vardar Skopje
+
+
+» Matchday 29
+  Sun Apr/27
+    16.00  FK AP Brera Strumica    v FK Voska Sport
+           KF Gostivari            v FK Rabotnički
+           FK Pelister             v GFK Tikvesh
+           KF Shkëndija 79         v KF Shkupi
+           Sileks Kratovo          v FC Struga
+           Vardar Skopje           v KF Besa Dobërdoll
+
+
+» Matchday 30
+  Sun May/4
+    17.00  KF Besa Dobërdoll       v FK AP Brera Strumica
+           FC Struga               v KF Shkëndija 79
+           KF Gostivari            v FK Pelister
+           FK Rabotnički           v Sileks Kratovo
+           KF Shkupi               v Vardar Skopje
+           FK Voska Sport          v GFK Tikvesh
+
+
+» Matchday 31
+  Wed May/7
+    17.00  FK AP Brera Strumica    v KF Shkupi
+           FK Pelister             v FK Voska Sport
+           GFK Tikvesh             v KF Besa Dobërdoll
+           KF Shkëndija 79         v FK Rabotnički
+           Sileks Kratovo          v KF Gostivari
+           Vardar Skopje           v FC Struga
+
+
+» Matchday 32
+  Sun May/11
+    17.00  KF Besa Dobërdoll       v FK Voska Sport
+           FC Struga               v FK AP Brera Strumica
+           FK Rabotnički           v Vardar Skopje
+           KF Shkupi               v GFK Tikvesh
+           KF Gostivari            v KF Shkëndija 79
+           Sileks Kratovo          v FK Pelister
+
+
+» Matchday 33
+  Sun May/18
+    17.00  FK AP Brera Strumica    v FK Rabotnički
+           FK Pelister             v KF Besa Dobërdoll
+           GFK Tikvesh             v FC Struga
+           KF Shkëndija 79         v Sileks Kratovo
+           Vardar Skopje           v KF Gostivari
+           FK Voska Sport          v KF Shkupi

@@ -1,420 +1,449 @@
-= Bulgarian A League 2024/25
+= Bulgaria Premier League 2024/25
 
-# Date       Fri Jul/19 2024 - Fri Apr/18 2025 (273d)
+# Date       Fri Jul/19 2024 - Mon Apr/21 2025 (276d)
 # Teams      16
 # Matches    240
 
 
 
-Matchday 1
-[Fri Jul/19]
-  21.15  FK Krumovgrad            1-0 (1-0)  Slavia Sofia
-  18.45  Cherno More Varna        0-0  CSKA 1948 Sofia
-[Sat Jul/20]
-  21.15  Lokomotiv Sofia          1-6 (1-4)  Levski Sofia
-  19.00  Lokomotiv Plovdiv        1-0 (1-0)  Arda Kardzhali
-[Sun Jul/21]
-  19.00  Botev Vratsa             1-3 (0-0)  Botev Plovdiv
-  21.15  PFC Ludogorets Razgrad   1-0 (0-0)  CSKA Sofia
-[Mon Jul/22]
-  21.15  Septemvri Sofia          0-1 (0-0)  PFC Beroe
-  19.00  Hebar Pazardzhik         0-2 (0-1)  Spartak Varna
-
-
-Matchday 2
-[Fri Jul/26]
-  21.15  Levski Sofia             4-0 (1-0)  Botev Vratsa
-  19.00  Arda Kardzhali           1-0 (1-0)  FK Krumovgrad
-[Sat Jul/27]
-  19.00  CSKA Sofia               3-1 (2-0)  Hebar Pazardzhik
-[Sun Jul/28]
-  21.15  Botev Plovdiv            2-2 (1-0)  Lokomotiv Plovdiv
-  19.00  CSKA 1948 Sofia          2-2 (2-1)  Spartak Varna
-[Mon Jul/29]
-  21.15  Cherno More Varna        2-0 (0-0)  Septemvri Sofia
-  19.00  PFC Beroe                0-0  Lokomotiv Sofia
-
-
-Matchday 3
-[Fri Aug/2]
-  19.00  Hebar Pazardzhik         1-1 (0-1)  Slavia Sofia
-  21.15  Lokomotiv Plovdiv        0-2 (0-1)  Levski Sofia
-[Sat Aug/3]
-  21.15  PFC Ludogorets Razgrad   5-1 (2-0)  Arda Kardzhali
-  19.00  Spartak Varna            3-0 (2-0)  CSKA Sofia
-[Sun Aug/4]
-  21.15  FK Krumovgrad            0-1 (0-0)  Botev Plovdiv
-  19.00  Lokomotiv Sofia          2-1 (0-0)  Cherno More Varna
-[Mon Aug/5]
-  21.15  Botev Vratsa             1-2 (1-1)  PFC Beroe
-
-
-Matchday 4
-[Fri Aug/9]
-  19.00  Slavia Sofia             3-1 (2-1)  Spartak Varna
-  21.15  Arda Kardzhali           2-1 (1-0)  Hebar Pazardzhik
-[Sat Aug/10]
-  19.00  PFC Beroe                0-2 (0-0)  Lokomotiv Plovdiv
-  21.15  Levski Sofia             3-0 (1-0)  FK Krumovgrad
-[Mon Aug/12]
-  19.00  Septemvri Sofia          0-1 (0-1)  Lokomotiv Sofia
-  21.15  Cherno More Varna        2-1 (1-1)  Botev Vratsa
-
-
-Matchday 5
-[Fri Aug/16]
-  19.00  Spartak Varna            1-0 (1-0)  Arda Kardzhali
-  21.15  FK Krumovgrad            0-1 (0-0)  PFC Beroe
-[Sat Aug/17]
-  19.00  CSKA Sofia               0-1 (0-1)  Slavia Sofia
-  21.15  PFC Ludogorets Razgrad   1-0 (0-0)  Levski Sofia
-[Sun Aug/18]
-  21.15  Hebar Pazardzhik         0-1 (0-0)  Botev Plovdiv
-  19.00  Lokomotiv Sofia          0-0  CSKA 1948 Sofia
-[Mon Aug/19]
-  21.15  Lokomotiv Plovdiv        1-2 (0-0)  Cherno More Varna
-  19.00  Botev Vratsa             2-0 (2-0)  Septemvri Sofia
-
-
-Matchday 6
-[Fri Aug/23]
-  19.00  Lokomotiv Sofia          0-1 (0-1)  Botev Vratsa
-  21.15  Levski Sofia             1-0 (1-0)  Hebar Pazardzhik
-[Sat Aug/24]
-  21.15  Botev Plovdiv            0-1 (0-0)  Spartak Varna
-  19.00  Arda Kardzhali           2-1 (1-0)  CSKA Sofia
-[Sun Aug/25]
-  21.15  PFC Beroe                0-1 (0-0)  PFC Ludogorets Razgrad
-  19.00  CSKA 1948 Sofia          2-0 (1-0)  Slavia Sofia
-[Mon Aug/26]
-  21.15  Cherno More Varna        3-0 (1-0)  FK Krumovgrad
-  19.00  Septemvri Sofia          2-3 (1-0)  Lokomotiv Plovdiv
-
-
-Matchday 7
-[Fri Aug/30]
-  17.00  Slavia Sofia             1-1 (0-1)  Arda Kardzhali
-  21.30  CSKA Sofia               0-1 (0-0)  Botev Plovdiv
-  19.15  Botev Vratsa             0-3 (0-2)  CSKA 1948 Sofia
-[Sat Aug/31]
-  21.15  FK Krumovgrad            2-0 (1-0)  Septemvri Sofia
-  19.00  Spartak Varna            0-0  Levski Sofia
-[Sun Sep/1]
-  19.15  Hebar Pazardzhik         3-1 (1-0)  PFC Beroe
-  17.00  Lokomotiv Plovdiv        1-1 (0-1)  Lokomotiv Sofia
-  21.30  PFC Ludogorets Razgrad   0-0  Cherno More Varna
-
-
-Matchday 12
-[Fri Sep/13]
-  19.30  Botev Vratsa             1-1 (0-0)  Spartak Varna
-  17.00  Lokomotiv Plovdiv        3-3 (2-1)  Hebar Pazardzhik
-[Sat Sep/14]
-  17.30  Septemvri Sofia          3-2 (1-0)  Slavia Sofia
-  20.00  PFC Beroe                0-1 (0-1)  Botev Plovdiv
-[Sun Sep/15]
-  21.30  FK Krumovgrad            0-3 (0-1)  PFC Ludogorets Razgrad
-  17.00  Cherno More Varna        1-1 (0-1)  Arda Kardzhali
-  19.15  CSKA 1948 Sofia          2-4 (1-2)  Levski Sofia
-[Mon Sep/16]
-  19.45  Lokomotiv Sofia          0-3 (0-2)  CSKA Sofia
-
-
-Matchday 2
-[Wed Sep/18]
-  17.30  Slavia Sofia             0-1 (0-1)  PFC Ludogorets Razgrad
-
-
-Matchday 9
-[Thu Sep/19]
-  17.00  Lokomotiv Plovdiv        0-2 (0-0)  CSKA 1948 Sofia
-[Fri Sep/20]
-  17.00  Hebar Pazardzhik         1-2 (1-1)  Septemvri Sofia
-[Sat Sep/21]
-  17.30  CSKA Sofia               1-0 (1-0)  PFC Beroe
-  20.00  PFC Ludogorets Razgrad   2-0 (1-0)  Lokomotiv Sofia
-[Sun Sep/22]
-  17.30  Slavia Sofia             0-1 (0-1)  Levski Sofia
-  20.00  Spartak Varna            0-2 (0-1)  Cherno More Varna
-[Mon Sep/23]
-  17.30  FK Krumovgrad            3-0 (1-0)  Botev Vratsa
-  20.00  Arda Kardzhali           1-0 (0-0)  Botev Plovdiv
-
-
-Matchday 3
-[Wed Sep/25]
-  17.30  Septemvri Sofia          1-1 (1-1)  CSKA 1948 Sofia
-
-
-Matchday 10
-[Fri Sep/27]
-  20.00  PFC Beroe                1-0 (0-0)  Slavia Sofia
-  17.30  Lokomotiv Sofia          0-0  Hebar Pazardzhik
-[Sat Sep/28]
-  17.00  Lokomotiv Plovdiv        0-2 (0-2)  FK Krumovgrad
-  20.00  Cherno More Varna        0-0  CSKA Sofia
-[Sun Sep/29]
-  21.15  Botev Vratsa             0-2 (0-2)  PFC Ludogorets Razgrad
-  16.15  CSKA 1948 Sofia          0-1 (0-0)  Botev Plovdiv
-  18.45  Levski Sofia             2-1 (1-1)  Arda Kardzhali
-[Mon Sep/30]
-  20.00  Septemvri Sofia          0-1 (0-0)  Spartak Varna
-
-
-Matchday 11
-[Fri Oct/4]
-  17.30  Arda Kardzhali           1-1 (0-0)  PFC Beroe
-  20.00  Slavia Sofia             1-0 (0-0)  Cherno More Varna
-  15.00  FK Krumovgrad            1-1 (1-0)  CSKA 1948 Sofia
-[Sat Oct/5]
-  17.30  CSKA Sofia               0-1 (0-1)  Septemvri Sofia
-  20.00  Botev Plovdiv            1-0 (0-0)  Levski Sofia
-[Sun Oct/6]
-  17.30  Spartak Varna            3-2 (1-2)  Lokomotiv Sofia
-  15.00  Hebar Pazardzhik         1-1 (1-1)  Botev Vratsa
-  20.00  PFC Ludogorets Razgrad   1-0 (0-0)  Lokomotiv Plovdiv
-
-
-Matchday 8
-[Fri Oct/18]
-  17.00  PFC Beroe                -  Spartak Varna
-  19.30  Botev Vratsa             -  Lokomotiv Plovdiv
-[Sat Oct/19]
-  18.45  Botev Plovdiv            -  Slavia Sofia
-  15.45  Levski Sofia             -  CSKA Sofia
-  12.45  Lokomotiv Sofia          -  FK Krumovgrad
-[Sun Oct/20]
-  19.15  Septemvri Sofia          -  PFC Ludogorets Razgrad
-  16.45  Cherno More Varna        -  Hebar Pazardzhik
-[Mon Oct/21]
-  18.00  CSKA 1948 Sofia          -  Arda Kardzhali
-
-
-Matchday 13
-[Wed Oct/23]
-  17.30  Spartak Varna            -  Lokomotiv Plovdiv
-[Thu Oct/24]
-  15.00  Slavia Sofia             -  Lokomotiv Sofia
-  17.30  CSKA Sofia               -  Botev Vratsa
-[Fri Oct/25]
-  16.30  Botev Plovdiv            -  Cherno More Varna
-  14.00  Arda Kardzhali           -  Septemvri Sofia
-  19.00  Levski Sofia             -  PFC Beroe
-[Sat Oct/26]
-  14.00  Hebar Pazardzhik         -  FK Krumovgrad
-[Mon Oct/28]
-  18.00  PFC Ludogorets Razgrad   -  CSKA 1948 Sofia
-
-
-Matchday 14
-[Sat Nov/2]
-  PFC Ludogorets Razgrad   -  Hebar Pazardzhik
-  FK Krumovgrad            -  Spartak Varna
-  CSKA 1948 Sofia          -  PFC Beroe
-  Cherno More Varna        -  Levski Sofia
-  Septemvri Sofia          -  Botev Plovdiv
-  Lokomotiv Sofia          -  Arda Kardzhali
-  Botev Vratsa             -  Slavia Sofia
-  Lokomotiv Plovdiv        -  CSKA Sofia
-
-
-Matchday 4
-[Thu Nov/7]
-  17.30  CSKA 1948 Sofia          -  CSKA Sofia
-
-
-Matchday 15
-[Sat Nov/9]
-  Levski Sofia             -  Septemvri Sofia
-  Hebar Pazardzhik         -  CSKA 1948 Sofia
-  Spartak Varna            -  PFC Ludogorets Razgrad
-  CSKA Sofia               -  FK Krumovgrad
-  Slavia Sofia             -  Lokomotiv Plovdiv
-  Arda Kardzhali           -  Botev Vratsa
-  Botev Plovdiv            -  Lokomotiv Sofia
-  PFC Beroe                -  Cherno More Varna
-
-
-Matchday 4
-[Wed Nov/13]
-  Botev Plovdiv            -  PFC Ludogorets Razgrad
-
-
-Matchday 16
-[Sat Nov/23]
-  CSKA 1948 Sofia          -  Cherno More Varna
-  PFC Beroe                -  Septemvri Sofia
-  Levski Sofia             -  Lokomotiv Sofia
-  Botev Plovdiv            -  Botev Vratsa
-  Arda Kardzhali           -  Lokomotiv Plovdiv
-  Slavia Sofia             -  FK Krumovgrad
-  CSKA Sofia               -  PFC Ludogorets Razgrad
-  Spartak Varna            -  Hebar Pazardzhik
-
-
-Matchday 17
-[Sat Nov/30]
-  Hebar Pazardzhik         -  CSKA Sofia
-  PFC Ludogorets Razgrad   -  Slavia Sofia
-  FK Krumovgrad            -  Arda Kardzhali
-  Lokomotiv Plovdiv        -  Botev Plovdiv
-  Botev Vratsa             -  Levski Sofia
-  Lokomotiv Sofia          -  PFC Beroe
-  Septemvri Sofia          -  Cherno More Varna
-  Spartak Varna            -  CSKA 1948 Sofia
-
-
-Matchday 18
-[Wed Dec/4]
-  CSKA 1948 Sofia          -  Septemvri Sofia
-  Cherno More Varna        -  Lokomotiv Sofia
-  PFC Beroe                -  Botev Vratsa
-  Levski Sofia             -  Lokomotiv Plovdiv
-  Botev Plovdiv            -  FK Krumovgrad
-  Arda Kardzhali           -  PFC Ludogorets Razgrad
-  Slavia Sofia             -  Hebar Pazardzhik
-  CSKA Sofia               -  Spartak Varna
-
-
-Matchday 19
-[Sat Dec/7]
-  Spartak Varna            -  Slavia Sofia
-  Hebar Pazardzhik         -  Arda Kardzhali
-  PFC Ludogorets Razgrad   -  Botev Plovdiv
-  FK Krumovgrad            -  Levski Sofia
-  Lokomotiv Plovdiv        -  PFC Beroe
-  Botev Vratsa             -  Cherno More Varna
-  Lokomotiv Sofia          -  Septemvri Sofia
-  CSKA Sofia               -  CSKA 1948 Sofia
-
-
-Matchday 20
-[Sat Feb/8]
-  CSKA 1948 Sofia          -  Lokomotiv Sofia
-  Septemvri Sofia          -  Botev Vratsa
-  Cherno More Varna        -  Lokomotiv Plovdiv
-  PFC Beroe                -  FK Krumovgrad
-  Levski Sofia             -  PFC Ludogorets Razgrad
-  Botev Plovdiv            -  Hebar Pazardzhik
-  Arda Kardzhali           -  Spartak Varna
-  Slavia Sofia             -  CSKA Sofia
-
-
-Matchday 21
-[Sat Feb/15]
-  CSKA Sofia               -  Arda Kardzhali
-  Spartak Varna            -  Botev Plovdiv
-  Hebar Pazardzhik         -  Levski Sofia
-  PFC Ludogorets Razgrad   -  PFC Beroe
-  FK Krumovgrad            -  Cherno More Varna
-  Lokomotiv Plovdiv        -  Septemvri Sofia
-  Botev Vratsa             -  Lokomotiv Sofia
-  Slavia Sofia             -  CSKA 1948 Sofia
-
-
-Matchday 22
-[Sat Feb/22]
-  CSKA 1948 Sofia          -  Botev Vratsa
-  Lokomotiv Sofia          -  Lokomotiv Plovdiv
-  Septemvri Sofia          -  FK Krumovgrad
-  Cherno More Varna        -  PFC Ludogorets Razgrad
-  PFC Beroe                -  Hebar Pazardzhik
-  Levski Sofia             -  Spartak Varna
-  Botev Plovdiv            -  CSKA Sofia
-  Arda Kardzhali           -  Slavia Sofia
-
-
-Matchday 23
-[Sat Mar/1]
-  Slavia Sofia             -  Botev Plovdiv
-  CSKA Sofia               -  Levski Sofia
-  Spartak Varna            -  PFC Beroe
-  Hebar Pazardzhik         -  Cherno More Varna
-  PFC Ludogorets Razgrad   -  Septemvri Sofia
-  FK Krumovgrad            -  Lokomotiv Sofia
-  Lokomotiv Plovdiv        -  Botev Vratsa
-  Arda Kardzhali           -  CSKA 1948 Sofia
-
-
-Matchday 24
-[Sat Mar/8]
-  CSKA 1948 Sofia          -  Lokomotiv Plovdiv
-  Botev Vratsa             -  FK Krumovgrad
-  Lokomotiv Sofia          -  PFC Ludogorets Razgrad
-  Septemvri Sofia          -  Hebar Pazardzhik
-  Cherno More Varna        -  Spartak Varna
-  PFC Beroe                -  CSKA Sofia
-  Levski Sofia             -  Slavia Sofia
-  Botev Plovdiv            -  Arda Kardzhali
-
-
-Matchday 25
-[Sat Mar/15]
-  Arda Kardzhali           -  Levski Sofia
-  Slavia Sofia             -  PFC Beroe
-  CSKA Sofia               -  Cherno More Varna
-  Spartak Varna            -  Septemvri Sofia
-  Hebar Pazardzhik         -  Lokomotiv Sofia
-  PFC Ludogorets Razgrad   -  Botev Vratsa
-  FK Krumovgrad            -  Lokomotiv Plovdiv
-  Botev Plovdiv            -  CSKA 1948 Sofia
-
-
-Matchday 26
-[Sat Mar/29]
-  CSKA 1948 Sofia          -  FK Krumovgrad
-  Lokomotiv Plovdiv        -  PFC Ludogorets Razgrad
-  Botev Vratsa             -  Hebar Pazardzhik
-  Lokomotiv Sofia          -  Spartak Varna
-  Septemvri Sofia          -  CSKA Sofia
-  Cherno More Varna        -  Slavia Sofia
-  PFC Beroe                -  Arda Kardzhali
-  Levski Sofia             -  Botev Plovdiv
-
-
-Matchday 27
-[Wed Apr/2]
-  Botev Plovdiv            -  PFC Beroe
-  Arda Kardzhali           -  Cherno More Varna
-  Slavia Sofia             -  Septemvri Sofia
-  CSKA Sofia               -  Lokomotiv Sofia
-  Spartak Varna            -  Botev Vratsa
-  Hebar Pazardzhik         -  Lokomotiv Plovdiv
-  PFC Ludogorets Razgrad   -  FK Krumovgrad
-  Levski Sofia             -  CSKA 1948 Sofia
-
-
-Matchday 28
-[Sat Apr/5]
-  CSKA 1948 Sofia          -  PFC Ludogorets Razgrad
-  FK Krumovgrad            -  Hebar Pazardzhik
-  Lokomotiv Plovdiv        -  Spartak Varna
-  Botev Vratsa             -  CSKA Sofia
-  Lokomotiv Sofia          -  Slavia Sofia
-  Septemvri Sofia          -  Arda Kardzhali
-  Cherno More Varna        -  Botev Plovdiv
-  PFC Beroe                -  Levski Sofia
-
-
-Matchday 29
-[Sat Apr/12]
-  Levski Sofia             -  Cherno More Varna
-  Botev Plovdiv            -  Septemvri Sofia
-  Arda Kardzhali           -  Lokomotiv Sofia
-  Slavia Sofia             -  Botev Vratsa
-  CSKA Sofia               -  Lokomotiv Plovdiv
-  Spartak Varna            -  FK Krumovgrad
-  Hebar Pazardzhik         -  PFC Ludogorets Razgrad
-  PFC Beroe                -  CSKA 1948 Sofia
-
-
-Matchday 30
-[Fri Apr/18]
-  CSKA 1948 Sofia          -  Hebar Pazardzhik
-  PFC Ludogorets Razgrad   -  Spartak Varna
-  FK Krumovgrad            -  CSKA Sofia
-  Lokomotiv Plovdiv        -  Slavia Sofia
-  Botev Vratsa             -  Arda Kardzhali
-  Lokomotiv Sofia          -  Botev Plovdiv
-  Septemvri Sofia          -  Levski Sofia
-  Cherno More Varna        -  PFC Beroe
+» Matchday 1
+  Fri Jul/19 2024
+    18.45  Cherno More Varna       v CSKA 1948 Sofia          0-0
+    21.15  FK Krumovgrad           v Slavia Sofia             1-0 (1-0)
+  Sat Jul/20
+    19.00  Lokomotiv Plovdiv       v Arda Kardzhali           1-0 (1-0)
+    21.15  Lokomotiv Sofia         v Levski Sofia             1-6 (1-4)
+  Sun Jul/21
+    19.00  Botev Vratsa            v Botev Plovdiv            1-3 (0-0)
+    21.15  PFC Ludogorets Razgrad  v CSKA Sofia               1-0 (0-0)
+  Mon Jul/22
+    19.00  Hebar Pazardzhik        v Spartak Varna            0-2 (0-1)
+    21.15  Septemvri Sofia         v PFC Beroe                0-1 (0-0)
+
+
+» Matchday 2
+  Fri Jul/26
+    19.00  Arda Kardzhali          v FK Krumovgrad            1-0 (1-0)
+    21.15  Levski Sofia            v Botev Vratsa             4-0 (1-0)
+  Sat Jul/27
+    19.00  CSKA Sofia              v Hebar Pazardzhik         3-1 (2-0)
+  Sun Jul/28
+    19.00  CSKA 1948 Sofia         v Spartak Varna            2-2 (2-1)
+    21.15  Botev Plovdiv           v Lokomotiv Plovdiv        2-2 (1-0)
+  Mon Jul/29
+    19.00  PFC Beroe               v Lokomotiv Sofia          0-0
+    21.15  Cherno More Varna       v Septemvri Sofia          2-0 (0-0)
+  Wed Sep/18
+    17.30  Slavia Sofia            v PFC Ludogorets Razgrad   0-1 (0-1)
+
+
+» Matchday 3
+  Fri Aug/2
+    19.00  Hebar Pazardzhik        v Slavia Sofia             1-1 (0-1)
+    21.15  Lokomotiv Plovdiv       v Levski Sofia             0-2 (0-1)
+  Sat Aug/3
+    19.00  Spartak Varna           v CSKA Sofia               3-0 (2-0)
+    21.15  PFC Ludogorets Razgrad  v Arda Kardzhali           5-1 (2-0)
+  Sun Aug/4
+    19.00  Lokomotiv Sofia         v Cherno More Varna        2-1 (0-0)
+    21.15  FK Krumovgrad           v Botev Plovdiv            0-1 (0-0)
+  Mon Aug/5
+    21.15  Botev Vratsa            v PFC Beroe                1-2 (1-1)
+  Wed Sep/25
+    17.30  Septemvri Sofia         v CSKA 1948 Sofia          1-1 (1-1)
+
+
+» Matchday 4
+  Fri Aug/9
+    19.00  Slavia Sofia            v Spartak Varna            3-1 (2-1)
+    21.15  Arda Kardzhali          v Hebar Pazardzhik         2-1 (1-0)
+  Sat Aug/10
+    19.00  PFC Beroe               v Lokomotiv Plovdiv        0-2 (0-0)
+    21.15  Levski Sofia            v FK Krumovgrad            3-0 (1-0)
+  Mon Aug/12
+    19.00  Septemvri Sofia         v Lokomotiv Sofia          0-1 (0-1)
+    21.15  Cherno More Varna       v Botev Vratsa             2-1 (1-1)
+  Thu Nov/7
+    17.30  CSKA 1948 Sofia         v CSKA Sofia               1-3 (1-2)
+  Thu Dec/19
+    17.00  Botev Plovdiv           v PFC Ludogorets Razgrad   2-4 (1-3)
+
+
+» Matchday 5
+  Fri Aug/16
+    19.00  Spartak Varna           v Arda Kardzhali           1-0 (1-0)
+    21.15  FK Krumovgrad           v PFC Beroe                0-1 (0-0)
+  Sat Aug/17
+    19.00  CSKA Sofia              v Slavia Sofia             0-1 (0-1)
+    21.15  PFC Ludogorets Razgrad  v Levski Sofia             1-0 (0-0)
+  Sun Aug/18
+    19.00  Lokomotiv Sofia         v CSKA 1948 Sofia          0-0
+    21.15  Hebar Pazardzhik        v Botev Plovdiv            0-1 (0-0)
+  Mon Aug/19
+    19.00  Botev Vratsa            v Septemvri Sofia          2-0 (2-0)
+    21.15  Lokomotiv Plovdiv       v Cherno More Varna        1-2 (0-0)
+
+
+» Matchday 6
+  Fri Aug/23
+    19.00  Lokomotiv Sofia         v Botev Vratsa             0-1 (0-1)
+    21.15  Levski Sofia            v Hebar Pazardzhik         1-0 (1-0)
+  Sat Aug/24
+    19.00  Arda Kardzhali          v CSKA Sofia               2-1 (1-0)
+    21.15  Botev Plovdiv           v Spartak Varna            0-1 (0-0)
+  Sun Aug/25
+    19.00  CSKA 1948 Sofia         v Slavia Sofia             2-0 (1-0)
+    21.15  PFC Beroe               v PFC Ludogorets Razgrad   0-1 (0-0)
+  Mon Aug/26
+    19.00  Septemvri Sofia         v Lokomotiv Plovdiv        2-3 (1-0)
+    21.15  Cherno More Varna       v FK Krumovgrad            3-0 (1-0)
+
+
+» Matchday 7
+  Fri Aug/30
+    17.00  Slavia Sofia            v Arda Kardzhali           1-1 (0-1)
+    19.15  Botev Vratsa            v CSKA 1948 Sofia          0-3 (0-2)
+    21.30  CSKA Sofia              v Botev Plovdiv            0-1 (0-0)
+  Sat Aug/31
+    19.00  Spartak Varna           v Levski Sofia             0-0
+    21.15  FK Krumovgrad           v Septemvri Sofia          2-0 (1-0)
+  Sun Sep/1
+    17.00  Lokomotiv Plovdiv       v Lokomotiv Sofia          1-1 (0-1)
+    19.15  Hebar Pazardzhik        v PFC Beroe                3-1 (1-0)
+    21.30  PFC Ludogorets Razgrad  v Cherno More Varna        0-0
+
+
+» Matchday 8
+  Fri Oct/18
+    17.00  PFC Beroe               v Spartak Varna            3-0 (2-0)
+    19.30  Botev Vratsa            v Lokomotiv Plovdiv        0-0
+  Sat Oct/19
+    12.45  Lokomotiv Sofia         v FK Krumovgrad            0-0
+    15.45  Levski Sofia            v CSKA Sofia               1-0 (0-0)
+    18.45  Botev Plovdiv           v Slavia Sofia             1-0 (0-0)
+  Sun Oct/20
+    16.45  Cherno More Varna       v Hebar Pazardzhik         1-0 (0-0)
+    19.15  Septemvri Sofia         v PFC Ludogorets Razgrad   0-2 (0-1)
+  Mon Oct/21
+    18.00  CSKA 1948 Sofia         v Arda Kardzhali           1-2 (0-1)
+
+
+» Matchday 9
+  Thu Sep/19
+    17.00  Lokomotiv Plovdiv       v CSKA 1948 Sofia          0-2 (0-0)
+  Fri Sep/20
+    17.00  Hebar Pazardzhik        v Septemvri Sofia          1-2 (1-1)
+  Sat Sep/21
+    17.30  CSKA Sofia              v PFC Beroe                1-0 (1-0)
+    20.00  PFC Ludogorets Razgrad  v Lokomotiv Sofia          2-0 (1-0)
+  Sun Sep/22
+    17.30  Slavia Sofia            v Levski Sofia             0-1 (0-1)
+    20.00  Spartak Varna           v Cherno More Varna        0-2 (0-1)
+  Mon Sep/23
+    17.30  FK Krumovgrad           v Botev Vratsa             3-0 (1-0)
+    20.00  Arda Kardzhali          v Botev Plovdiv            1-0 (0-0)
+
+
+» Matchday 10
+  Fri Sep/27
+    17.30  Lokomotiv Sofia         v Hebar Pazardzhik         0-0
+    20.00  PFC Beroe               v Slavia Sofia             1-0 (0-0)
+  Sat Sep/28
+    17.00  Lokomotiv Plovdiv       v FK Krumovgrad            0-2 (0-2)
+    20.00  Cherno More Varna       v CSKA Sofia               0-0
+  Sun Sep/29
+    16.15  CSKA 1948 Sofia         v Botev Plovdiv            0-1 (0-0)
+    18.45  Levski Sofia            v Arda Kardzhali           2-1 (1-1)
+    21.15  Botev Vratsa            v PFC Ludogorets Razgrad   0-2 (0-2)
+  Mon Sep/30
+    20.00  Septemvri Sofia         v Spartak Varna            0-1 (0-0)
+
+
+» Matchday 11
+  Fri Oct/4
+    15.00  FK Krumovgrad           v CSKA 1948 Sofia          1-1 (1-0)
+    17.30  Arda Kardzhali          v PFC Beroe                1-1 (0-0)
+    20.00  Slavia Sofia            v Cherno More Varna        1-0 (0-0)
+  Sat Oct/5
+    17.30  CSKA Sofia              v Septemvri Sofia          0-1 (0-1)
+    20.00  Botev Plovdiv           v Levski Sofia             1-0 (0-0)
+  Sun Oct/6
+    15.00  Hebar Pazardzhik        v Botev Vratsa             1-1 (1-1)
+    17.30  Spartak Varna           v Lokomotiv Sofia          3-2 (1-2)
+    20.00  PFC Ludogorets Razgrad  v Lokomotiv Plovdiv        1-0 (0-0)
+
+
+» Matchday 12
+  Fri Sep/13
+    17.00  Lokomotiv Plovdiv       v Hebar Pazardzhik         3-3 (2-1)
+    19.30  Botev Vratsa            v Spartak Varna            1-1 (0-0)
+  Sat Sep/14
+    17.30  Septemvri Sofia         v Slavia Sofia             3-2 (1-0)
+    20.00  PFC Beroe               v Botev Plovdiv            0-1 (0-1)
+  Sun Sep/15
+    17.00  Cherno More Varna       v Arda Kardzhali           1-1 (0-1)
+    19.15  CSKA 1948 Sofia         v Levski Sofia             2-4 (1-2)
+    21.30  FK Krumovgrad           v PFC Ludogorets Razgrad   0-3 (0-1)
+  Mon Sep/16
+    19.45  Lokomotiv Sofia         v CSKA Sofia               0-3 (0-2)
+
+
+» Matchday 13
+  Wed Oct/23
+    17.30  Spartak Varna           v Lokomotiv Plovdiv        1-0 (0-0)
+  Thu Oct/24
+    15.00  Slavia Sofia            v Lokomotiv Sofia          3-2 (3-1)
+    17.30  CSKA Sofia              v Botev Vratsa             2-0 (1-0)
+  Fri Oct/25
+    14.00  Arda Kardzhali          v Septemvri Sofia          2-1 (2-0)
+    16.30  Botev Plovdiv           v Cherno More Varna        1-0 (1-0)
+    19.00  Levski Sofia            v PFC Beroe                0-2 (0-0)
+  Sat Oct/26
+    14.00  Hebar Pazardzhik        v FK Krumovgrad            0-0
+  Mon Oct/28
+    18.00  PFC Ludogorets Razgrad  v CSKA 1948 Sofia          3-0 (2-0)
+
+
+» Matchday 14
+  Fri Nov/1
+    17.30  Botev Vratsa            v Slavia Sofia             3-2 (0-1)
+  Sat Nov/2
+    12.00  Lokomotiv Sofia         v Arda Kardzhali           0-2 (0-1)
+    14.30  Lokomotiv Plovdiv       v CSKA Sofia               2-2 (1-1)
+    17.00  FK Krumovgrad           v Spartak Varna            0-1 (0-0)
+  Sun Nov/3
+    12.30  CSKA 1948 Sofia         v PFC Beroe                1-1 (1-1)
+    15.00  PFC Ludogorets Razgrad  v Hebar Pazardzhik         3-0 (3-0)
+    17.30  Cherno More Varna       v Levski Sofia             2-1 (2-0)
+  Mon Nov/4
+    17.30  Septemvri Sofia         v Botev Plovdiv            1-0 (1-0)
+
+
+» Matchday 15
+  Fri Nov/8
+    15.00  Arda Kardzhali          v Botev Vratsa             2-0 (1-0)
+    17.30  Botev Plovdiv           v Lokomotiv Sofia          2-0 (0-0)
+  Sat Nov/9
+    12.30  Slavia Sofia            v Lokomotiv Plovdiv        2-1 (2-0)
+    15.00  PFC Beroe               v Cherno More Varna        0-1 (0-0)
+    17.30  Levski Sofia            v Septemvri Sofia          2-3 (1-2)
+  Sun Nov/10
+    12.30  Hebar Pazardzhik        v CSKA 1948 Sofia          1-1 (0-1)
+    15.00  CSKA Sofia              v FK Krumovgrad            2-2 (1-0)
+    17.30  Spartak Varna           v PFC Ludogorets Razgrad   1-3 (1-1)
+
+
+» Matchday 16
+  Fri Nov/22
+    17.00  Spartak Varna           v Hebar Pazardzhik         4-0 (2-0)
+  Sat Nov/23
+    12.30  Arda Kardzhali          v Lokomotiv Plovdiv        4-2 (3-1)
+    15.00  Botev Plovdiv           v Botev Vratsa             3-1 (2-0)
+    17.30  Levski Sofia            v Lokomotiv Sofia          2-0 (2-0)
+  Sun Nov/24
+    12.15  PFC Beroe               v Septemvri Sofia          2-0 (1-0)
+    14.30  CSKA 1948 Sofia         v Cherno More Varna        0-4 (0-2)
+    17.00  CSKA Sofia              v PFC Ludogorets Razgrad   2-2 (1-1)
+  Mon Nov/25
+    17.30  Slavia Sofia            v FK Krumovgrad            0-1 (0-1)
+
+
+» Matchday 17
+  Fri Nov/29
+    14.30  Spartak Varna           v CSKA 1948 Sofia          1-1 (0-1)
+    17.00  Septemvri Sofia         v Cherno More Varna        1-2 (0-2)
+  Sat Nov/30
+    12.30  Lokomotiv Sofia         v PFC Beroe                2-1 (1-0)
+    15.00  Botev Vratsa            v Levski Sofia             0-2 (0-0)
+    17.30  Hebar Pazardzhik        v CSKA Sofia               0-1 (0-1)
+  Sun Dec/1
+    12.30  Lokomotiv Plovdiv       v Botev Plovdiv            0-1 (0-0)
+    15.00  FK Krumovgrad           v Arda Kardzhali           0-0
+    17.30  PFC Ludogorets Razgrad  v Slavia Sofia             2-0 (1-0)
+
+
+» Matchday 18
+  Tue Dec/3
+    12.30  CSKA 1948 Sofia         v Septemvri Sofia          2-0 (1-0)
+    15.00  Cherno More Varna       v Lokomotiv Sofia          4-0 (2-0)
+    17.30  CSKA Sofia              v Spartak Varna            3-1 (1-0)
+  Wed Dec/4
+    12.30  PFC Beroe               v Botev Vratsa             5-1 (2-0)
+    15.00  Arda Kardzhali          v PFC Ludogorets Razgrad   0-4 (0-2)
+    17.30  Levski Sofia            v Lokomotiv Plovdiv        2-1 (1-0)
+  Thu Dec/5
+    15.00  Slavia Sofia            v Hebar Pazardzhik         3-2 (1-0)
+    17.30  Botev Plovdiv           v FK Krumovgrad            1-0 (0-0)
+
+
+» Matchday 19
+  Sat Dec/7
+    12.30  Lokomotiv Plovdiv       v PFC Beroe                1-2 (0-1)
+    15.00  Botev Vratsa            v Cherno More Varna        2-3 (2-2)
+    17.30  CSKA Sofia              v CSKA 1948 Sofia          2-2 (0-2)
+  Sun Dec/8
+    12.00  Lokomotiv Sofia         v Septemvri Sofia          1-2 (1-1)
+    14.30  FK Krumovgrad           v Levski Sofia             0-2 (0-2)
+    17.00  PFC Ludogorets Razgrad  v Botev Plovdiv            3-0 (1-0)
+  Mon Dec/9
+    14.45  Hebar Pazardzhik        v Arda Kardzhali           0-2 (0-0)
+    17.00  Spartak Varna           v Slavia Sofia             1-3 (0-1)
+
+
+» Matchday 20
+  Fri Feb/7 2025
+    17.30  Arda Kardzhali          v Spartak Varna            2-2 (1-1)
+  Sat Feb/8
+    12.30  Septemvri Sofia         v Botev Vratsa             2-2 (1-0)
+    15.00  Cherno More Varna       v Lokomotiv Plovdiv        1-2 (0-2)
+    17.30  Slavia Sofia            v CSKA Sofia               1-0 (0-0)
+  Sun Feb/9
+    12.00  CSKA 1948 Sofia         v Lokomotiv Sofia          1-4 (0-3)
+    14.30  Botev Plovdiv           v Hebar Pazardzhik         1-1 (1-1)
+    17.15  Levski Sofia            v PFC Ludogorets Razgrad   2-1 (1-0)
+  Mon Feb/10
+    17.30  PFC Beroe               v FK Krumovgrad            0-0
+
+
+» Matchday 21
+  Fri Feb/14
+    17.30  Botev Vratsa            v Lokomotiv Sofia          0-3 (0-0)
+  Sat Feb/15
+    12.30  FK Krumovgrad           v Cherno More Varna        1-1 (0-1)
+    15.00  Spartak Varna           v Botev Plovdiv            1-0 (0-0)
+    17.30  Hebar Pazardzhik        v Levski Sofia             1-4 (0-2)
+  Sun Feb/16
+    12.30  Lokomotiv Plovdiv       v Septemvri Sofia          0-1 (0-0)
+    15.00  PFC Ludogorets Razgrad  v PFC Beroe                2-1 (0-0)
+    17.30  CSKA Sofia              v Arda Kardzhali           2-0 (1-0)
+  Mon Feb/17
+    18.00  Slavia Sofia            v CSKA 1948 Sofia          1-1 (1-0)
+
+
+» Matchday 22
+  Fri Feb/21
+    12.45  CSKA 1948 Sofia         v Botev Vratsa             1-0 (0-0)
+    15.15  PFC Beroe               v Hebar Pazardzhik         2-1 (1-1)
+    17.45  Levski Sofia            v Spartak Varna            2-0 (1-0)
+  Sat Feb/22
+    12.30  Arda Kardzhali          v Slavia Sofia             1-1 (1-0)
+    15.00  Botev Plovdiv           v CSKA Sofia               0-3 (0-1)
+    17.30  Cherno More Varna       v PFC Ludogorets Razgrad   1-1 (1-1)
+  Sun Feb/23
+    17.00  Lokomotiv Sofia         v Lokomotiv Plovdiv        0-1 (0-0)
+  Mon Feb/24
+    17.30  Septemvri Sofia         v FK Krumovgrad            1-0 (1-0)
+
+
+» Matchday 23
+  Sat Mar/1
+    12.00  FK Krumovgrad           v Lokomotiv Sofia          0-2 (0-2)
+    14.30  Lokomotiv Plovdiv       v Botev Vratsa             1-0 (1-0)
+    16.45  Spartak Varna           v PFC Beroe                0-3 (0-2)
+  Sun Mar/2
+    14.00  CSKA Sofia              v Levski Sofia             2-2 (1-0)
+    17.15  Hebar Pazardzhik        v Cherno More Varna        0-1 (0-0)
+  Mon Mar/3
+    12.30  Arda Kardzhali          v CSKA 1948 Sofia          1-0 (1-0)
+    15.00  Slavia Sofia            v Botev Plovdiv            3-2 (2-1)
+    17.30  PFC Ludogorets Razgrad  v Septemvri Sofia          0-0
+
+
+» Matchday 24
+  Fri Mar/7
+    17.30  Botev Vratsa            v FK Krumovgrad            0-0
+  Sat Mar/8
+    12.30  CSKA 1948 Sofia         v Lokomotiv Plovdiv        2-1 (1-0)
+    15.00  PFC Beroe               v CSKA Sofia               0-2 (0-0)
+    17.30  Cherno More Varna       v Spartak Varna            1-1 (1-0)
+  Sun Mar/9
+    12.00  Botev Plovdiv           v Arda Kardzhali           1-1 (1-0)
+    14.30  Levski Sofia            v Slavia Sofia             3-3 (1-2)
+    17.00  Lokomotiv Sofia         v PFC Ludogorets Razgrad   1-2 (0-1)
+  Mon Mar/10
+    17.30  Septemvri Sofia         v Hebar Pazardzhik         6-1 (3-0)
+
+
+» Matchday 25
+  Fri Mar/14
+    15.15  Slavia Sofia            v PFC Beroe                2-1 (1-1)
+    17.45  FK Krumovgrad           v Lokomotiv Plovdiv        0-0
+  Sat Mar/15
+    12.30  Hebar Pazardzhik        v Lokomotiv Sofia          2-1 (1-0)
+    15.00  PFC Ludogorets Razgrad  v Botev Vratsa             3-0 (1-0)
+    17.30  CSKA Sofia              v Cherno More Varna        1-1 (0-1)
+  Sun Mar/16
+    12.00  Spartak Varna           v Septemvri Sofia          4-2 (2-0)
+    14.30  Botev Plovdiv           v CSKA 1948 Sofia          0-5 (0-2)
+    17.00  Arda Kardzhali          v Levski Sofia             1-1 (0-1)
+
+
+» Matchday 26
+  Fri Mar/28
+    16.15  Lokomotiv Sofia         v Spartak Varna
+    18.45  Botev Vratsa            v Hebar Pazardzhik
+  Sat Mar/29
+    12.15  CSKA 1948 Sofia         v FK Krumovgrad
+    14.45  Cherno More Varna       v Slavia Sofia
+    17.15  Septemvri Sofia         v CSKA Sofia
+  Sun Mar/30
+    13.30  PFC Beroe               v Arda Kardzhali
+    16.00  Lokomotiv Plovdiv       v PFC Ludogorets Razgrad
+    18.30  Levski Sofia            v Botev Plovdiv
+
+
+» Matchday 27
+  Tue Apr/1
+    16.15  Spartak Varna           v Botev Vratsa
+    18.45  Slavia Sofia            v Septemvri Sofia
+  Wed Apr/2
+    14.15  Arda Kardzhali          v Cherno More Varna
+    16.45  Botev Plovdiv           v PFC Beroe
+    19.15  CSKA Sofia              v Lokomotiv Sofia
+  Thu Apr/3
+    14.30  Hebar Pazardzhik        v Lokomotiv Plovdiv
+    17.00  PFC Ludogorets Razgrad  v FK Krumovgrad
+    19.30  Levski Sofia            v CSKA 1948 Sofia
+
+
+» Matchday 28
+  Sat Apr/5
+    16.30  Cherno More Varna       v Botev Plovdiv
+    19.00  Botev Vratsa            v CSKA Sofia
+  Sun Apr/6
+    12.15  FK Krumovgrad           v Hebar Pazardzhik
+    14.45  Lokomotiv Sofia         v Slavia Sofia
+    17.15  PFC Beroe               v Levski Sofia
+  Mon Apr/7
+    15.00  Septemvri Sofia         v Arda Kardzhali
+    17.30  Lokomotiv Plovdiv       v Spartak Varna
+    20.00  CSKA 1948 Sofia         v PFC Ludogorets Razgrad
+
+
+» Matchday 29
+  Fri Apr/11
+    16.30  Spartak Varna           v FK Krumovgrad
+    19.00  PFC Beroe               v CSKA 1948 Sofia
+  Sat Apr/12
+    14.00  Botev Plovdiv           v Septemvri Sofia
+    16.30  CSKA Sofia              v Lokomotiv Plovdiv
+  Sun Apr/13
+    15.00  Arda Kardzhali          v Lokomotiv Sofia
+    17.30  Levski Sofia            v Cherno More Varna
+  Mon Apr/14
+    17.30  Slavia Sofia            v Botev Vratsa
+    20.00  Hebar Pazardzhik        v PFC Ludogorets Razgrad
+
+
+» Matchday 30
+  Fri Apr/18
+    14.00  Lokomotiv Sofia         v Botev Plovdiv
+    16.30  Cherno More Varna       v PFC Beroe
+    19.00  FK Krumovgrad           v CSKA Sofia
+  Sat Apr/19
+    14.00  Botev Vratsa            v Arda Kardzhali
+    16.30  Lokomotiv Plovdiv       v Slavia Sofia
+    19.00  PFC Ludogorets Razgrad  v Spartak Varna
+  Mon Apr/21
+    16.30  Septemvri Sofia         v Levski Sofia
+    19.00  CSKA 1948 Sofia         v Hebar Pazardzhik
