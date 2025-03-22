@@ -1,4 +1,4 @@
-= Faroese Premier Division 2024
+= Faroe Islands Premier Division 2024
 
 # Date       Sat Mar/9 - Sat Oct/26 2024 (231d)
 # Teams      10
@@ -6,285 +6,282 @@
 
 
 
-Matchday 1
-[Sat Mar/9]
-  17.00  07 Vestur                0-2 (0-1)  Víkingur
-[Sun Mar/10]
-  17.00  B68 Toftir               0-3 (0-1)  B36 Tórshavn
-  18.00  HB Tórshavn              3-2 (2-0)  NSÍ Runavík
-  18.30  Skála ÍF                 3-0 (2-0)  EB/Streymur
-  15.00  KÍ Klaksvík              6-0 (3-0)  ÍF Fuglafjørður
+» Matchday 1
+  Sat Mar/9 2024
+    17.00  07 Vestur               v Víkingur                 0-2 (0-1)
+  Sun Mar/10
+    15.00  KÍ Klaksvík             v ÍF Fuglafjørður          6-0 (3-0)
+    17.00  B68 Toftir              v B36 Tórshavn             0-3 (0-1)
+    18.00  HB Tórshavn             v NSÍ Runavík              3-2 (2-0)
+    18.30  Skála ÍF                v EB/Streymur              3-0 (2-0)
 
 
-Matchday 2
-[Fri Mar/15]
-  18.00  Víkingur                 2-1 (1-0)  HB Tórshavn
-[Sat Mar/16]
-  17.00  B36 Tórshavn             2-0 (0-0)  KÍ Klaksvík
-  18.00  NSÍ Runavík              3-1 (2-0)  Skála ÍF
-[Sun Mar/17]
-  17.00  EB/Streymur              1-1 (0-1)  B68 Toftir
-  15.00  ÍF Fuglafjørður          0-1 (0-1)  07 Vestur
+» Matchday 2
+  Fri Mar/15
+    18.00  Víkingur                v HB Tórshavn              2-1 (1-0)
+  Sat Mar/16
+    17.00  B36 Tórshavn            v KÍ Klaksvík              2-0 (0-0)
+    18.00  NSÍ Runavík             v Skála ÍF                 3-1 (2-0)
+  Sun Mar/17
+    15.00  ÍF Fuglafjørður         v 07 Vestur                0-1 (0-1)
+    17.00  EB/Streymur             v B68 Toftir               1-1 (0-1)
 
 
-Matchday 3
-[Mon Apr/1]
-  15.00  KÍ Klaksvík              3-2 (1-2)  NSÍ Runavík
-  17.00  Skála ÍF                 1-4 (0-2)  B36 Tórshavn
-         Víkingur                 2-0 (0-0)  B68 Toftir
-  15.00  HB Tórshavn              4-0 (1-0)  ÍF Fuglafjørður
-[Tue Apr/2]
-  18.00  07 Vestur                4-2 (1-1)  EB/Streymur
+» Matchday 3
+  Mon Apr/1
+    15.00  HB Tórshavn             v ÍF Fuglafjørður          4-0 (1-0)
+           KÍ Klaksvík             v NSÍ Runavík              3-2 (1-2)
+    17.00  Skála ÍF                v B36 Tórshavn             1-4 (0-2)
+           Víkingur                v B68 Toftir               2-0 (0-0)
+  Tue Apr/2
+    18.00  07 Vestur               v EB/Streymur              4-2 (1-1)
 
 
-Matchday 4
-[Sat Apr/6]
-  19.00  Skála ÍF                 1-2 (0-0)  KÍ Klaksvík
-[Sun Apr/7]
-  15.00  ÍF Fuglafjørður          1-8 (1-2)  Víkingur
-         NSÍ Runavík              2-0 (1-0)  EB/Streymur
-  14.00  B36 Tórshavn             2-2 (1-0)  07 Vestur
-[Mon Apr/8]
-  18.00  B68 Toftir               0-1 (0-1)  HB Tórshavn
+» Matchday 4
+  Sat Apr/6
+    19.00  Skála ÍF                v KÍ Klaksvík              1-2 (0-0)
+  Sun Apr/7
+    14.00  B36 Tórshavn            v 07 Vestur                2-2 (1-0)
+    15.00  ÍF Fuglafjørður         v Víkingur                 1-8 (1-2)
+           NSÍ Runavík             v EB/Streymur              2-0 (1-0)
+  Mon Apr/8
+    18.00  B68 Toftir              v HB Tórshavn              0-1 (0-1)
 
 
-Matchday 5
-[Sun Apr/14]
-  15.00  HB Tórshavn              1-0 (0-0)  KÍ Klaksvík
-         Víkingur                 2-1 (0-0)  Skála ÍF
-  17.00  EB/Streymur              5-0 (0-0)  ÍF Fuglafjørður
-  19.00  NSÍ Runavík              1-0 (0-0)  B36 Tórshavn
-[Mon Apr/15]
-  18.00  B68 Toftir               1-2 (1-1)  07 Vestur
+» Matchday 5
+  Sun Apr/14
+    15.00  HB Tórshavn             v KÍ Klaksvík              1-0 (0-0)
+           Víkingur                v Skála ÍF                 2-1 (0-0)
+    17.00  EB/Streymur             v ÍF Fuglafjørður          5-0 (0-0)
+    19.00  NSÍ Runavík             v B36 Tórshavn             1-0 (0-0)
+  Mon Apr/15
+    18.00  B68 Toftir              v 07 Vestur                1-2 (1-1)
 
 
-Matchday 6
-[Fri Apr/19]
-  18.00  HB Tórshavn              2-1 (0-0)  EB/Streymur
-[Sat Apr/20]
-  18.30  KÍ Klaksvík              3-0 (2-0)  B68 Toftir
-[Sun Apr/21]
-  15.00  Víkingur                 4-0 (1-0)  B36 Tórshavn
-  17.00  ÍF Fuglafjørður          2-4 (0-1)  NSÍ Runavík
-  15.00  07 Vestur                1-1 (1-1)  Skála ÍF
+» Matchday 6
+  Fri Apr/19
+    18.00  HB Tórshavn             v EB/Streymur              2-1 (0-0)
+  Sat Apr/20
+    18.30  KÍ Klaksvík             v B68 Toftir               3-0 (2-0)
+  Sun Apr/21
+    15.00  07 Vestur               v Skála ÍF                 1-1 (1-1)
+           Víkingur                v B36 Tórshavn             4-0 (1-0)
+    17.00  ÍF Fuglafjørður         v NSÍ Runavík              2-4 (0-1)
 
 
-Matchday 7
-[Mon Apr/29]
-  18.00  07 Vestur                0-3 (0-2)  HB Tórshavn
-         B36 Tórshavn             3-3 (2-3)  ÍF Fuglafjørður
-  19.00  Skála ÍF                 3-1 (2-0)  B68 Toftir
-         NSÍ Runavík              0-1 (0-0)  Víkingur
-[Tue Apr/30]
-  18.00  EB/Streymur              0-1 (0-1)  KÍ Klaksvík
+» Matchday 7
+  Mon Apr/29
+    18.00  07 Vestur               v HB Tórshavn              0-3 (0-2)
+           B36 Tórshavn            v ÍF Fuglafjørður          3-3 (2-3)
+    19.00  Skála ÍF                v B68 Toftir               3-1 (2-0)
+           NSÍ Runavík             v Víkingur                 0-1 (0-0)
+  Tue Apr/30
+    18.00  EB/Streymur             v KÍ Klaksvík              0-1 (0-1)
 
 
-Matchday 8
-[Sat May/4]
-  18.00  EB/Streymur              1-3 (0-1)  Víkingur
-  18.30  KÍ Klaksvík              2-0 (0-0)  07 Vestur
-  15.00  B68 Toftir               1-2 (1-0)  NSÍ Runavík
-[Sun May/5]
-  17.00  HB Tórshavn              2-1 (1-0)  B36 Tórshavn
-  15.00  ÍF Fuglafjørður          1-2 (0-2)  Skála ÍF
+» Matchday 8
+  Sat May/4
+    15.00  B68 Toftir              v NSÍ Runavík              1-2 (1-0)
+    18.00  EB/Streymur             v Víkingur                 1-3 (0-1)
+    18.30  KÍ Klaksvík             v 07 Vestur                2-0 (0-0)
+  Sun May/5
+    15.00  ÍF Fuglafjørður         v Skála ÍF                 1-2 (0-2)
+    17.00  HB Tórshavn             v B36 Tórshavn             2-1 (1-0)
 
 
-Matchday 9
-[Sun May/12]
-  15.00  KÍ Klaksvík              2-1 (1-1)  Víkingur
-[Mon May/13]
-  18.30  NSÍ Runavík              4-1 (3-1)  07 Vestur
-         Skála ÍF                 0-3 (0-0)  HB Tórshavn
-  19.00  B36 Tórshavn             1-0 (1-0)  EB/Streymur
-[Tue May/14]
-  18.00  B68 Toftir               0-0  ÍF Fuglafjørður
+» Matchday 9
+  Sun May/12
+    15.00  KÍ Klaksvík             v Víkingur                 2-1 (1-1)
+  Mon May/13
+    18.30  NSÍ Runavík             v 07 Vestur                4-1 (3-1)
+           Skála ÍF                v HB Tórshavn              0-3 (0-0)
+    19.00  B36 Tórshavn            v EB/Streymur              1-0 (1-0)
+  Tue May/14
+    18.00  B68 Toftir              v ÍF Fuglafjørður          0-0
 
 
-Matchday 10
-[Mon May/20]
-  15.00  ÍF Fuglafjørður          2-2 (1-2)  B68 Toftir
-  17.00  HB Tórshavn              2-1 (1-0)  B36 Tórshavn
-         Víkingur                 2-0 (0-0)  NSÍ Runavík
-  15.00  07 Vestur                2-0 (0-0)  EB/Streymur
-[Tue May/21]
-  19.00  Skála ÍF                 0-1 (0-1)  KÍ Klaksvík
+» Matchday 10
+  Mon May/20
+    15.00  07 Vestur               v EB/Streymur              2-0 (0-0)
+           ÍF Fuglafjørður         v B68 Toftir               2-2 (1-2)
+    17.00  HB Tórshavn             v B36 Tórshavn             2-1 (1-0)
+           Víkingur                v NSÍ Runavík              2-0 (0-0)
+  Tue May/21
+    19.00  Skála ÍF                v KÍ Klaksvík              0-1 (0-1)
 
 
-Matchday 11
-[Sat May/25]
-  17.00  NSÍ Runavík              2-2 (0-2)  B36 Tórshavn
-  19.00  Víkingur                 5-1 (0-1)  07 Vestur
-  17.00  HB Tórshavn              1-0 (1-0)  ÍF Fuglafjørður
-[Sun May/26]
-  15.00  EB/Streymur              3-0 (1-0)  Skála ÍF
-         KÍ Klaksvík              4-0 (1-0)  B68 Toftir
+» Matchday 11
+  Sat May/25
+    17.00  HB Tórshavn             v ÍF Fuglafjørður          1-0 (1-0)
+           NSÍ Runavík             v B36 Tórshavn             2-2 (0-2)
+    19.00  Víkingur                v 07 Vestur                5-1 (0-1)
+  Sun May/26
+    15.00  KÍ Klaksvík             v B68 Toftir               4-0 (1-0)
+           EB/Streymur             v Skála ÍF                 3-0 (1-0)
 
 
-Matchday 12
-[Sat Jun/1]
-  17.00  Skála ÍF                 3-2 (2-0)  ÍF Fuglafjørður
-         B68 Toftir               2-0 (1-0)  EB/Streymur
-[Sun Jun/2]
-  15.00  B36 Tórshavn             4-4 (3-3)  07 Vestur
-  15.15  KÍ Klaksvík              0-2 (0-1)  Víkingur
-  17.00  NSÍ Runavík              2-3 (0-1)  HB Tórshavn
+» Matchday 12
+  Sat Jun/1
+    17.00  B68 Toftir              v EB/Streymur              2-0 (1-0)
+           Skála ÍF                v ÍF Fuglafjørður          3-2 (2-0)
+  Sun Jun/2
+    15.00  B36 Tórshavn            v 07 Vestur                4-4 (3-3)
+    15.15  KÍ Klaksvík             v Víkingur                 0-2 (0-1)
+    17.00  NSÍ Runavík             v HB Tórshavn              2-3 (0-1)
 
 
-Matchday 13
-[Sat Jun/15]
-  17.00  B36 Tórshavn             1-1 (0-0)  B68 Toftir
-  19.00  07 Vestur                1-4 (1-3)  HB Tórshavn
-  17.00  Skála ÍF                 0-4 (0-3)  Víkingur
-[Sun Jun/16]
-  16.00  ÍF Fuglafjørður          0-3 (0-1)  NSÍ Runavík
-  15.00  EB/Streymur              1-2 (0-0)  KÍ Klaksvík
+» Matchday 13
+  Sat Jun/15
+    17.00  Skála ÍF                v Víkingur                 0-4 (0-3)
+           B36 Tórshavn            v B68 Toftir               1-1 (0-0)
+    19.00  07 Vestur               v HB Tórshavn              1-4 (1-3)
+  Sun Jun/16
+    15.00  EB/Streymur             v KÍ Klaksvík              1-2 (0-0)
+    16.00  ÍF Fuglafjørður         v NSÍ Runavík              0-3 (0-1)
 
 
-Matchday 14
-[Sun Jun/23]
-  15.00  ÍF Fuglafjørður          3-4 (1-2)  B36 Tórshavn
-         NSÍ Runavík              4-0 (1-0)  EB/Streymur
-         Víkingur                 3-0 (2-0)  B68 Toftir
-  17.00  HB Tórshavn              3-0 (1-0)  KÍ Klaksvík
-[Mon Jun/24]
-  19.00  Skála ÍF                 1-2 (0-0)  07 Vestur
+» Matchday 14
+  Sun Jun/23
+    15.00  ÍF Fuglafjørður         v B36 Tórshavn             3-4 (1-2)
+           NSÍ Runavík             v EB/Streymur              4-0 (1-0)
+           Víkingur                v B68 Toftir               3-0 (2-0)
+    17.00  HB Tórshavn             v KÍ Klaksvík              3-0 (1-0)
+  Mon Jun/24
+    19.00  Skála ÍF                v 07 Vestur                1-2 (0-0)
 
 
-Matchday 15
-[Fri Jun/28]
-  18.30  NSÍ Runavík              1-2 (0-0)  KÍ Klaksvík
-  18.00  B68 Toftir               1-0 (1-0)  HB Tórshavn
-[Sat Jun/29]
-  17.00  B36 Tórshavn             3-0 (2-0)  Skála ÍF
-         Víkingur                 4-0 (0-0)  EB/Streymur
-[Sun Jun/30]
-  15.00  07 Vestur                1-0 (1-0)  ÍF Fuglafjørður
+» Matchday 15
+  Fri Jun/28
+    18.00  B68 Toftir              v HB Tórshavn              1-0 (1-0)
+    18.30  NSÍ Runavík             v KÍ Klaksvík              1-2 (0-0)
+  Sat Jun/29
+    17.00  Víkingur                v EB/Streymur              4-0 (0-0)
+           B36 Tórshavn            v Skála ÍF                 3-0 (2-0)
+  Sun Jun/30
+    15.00  07 Vestur               v ÍF Fuglafjørður          1-0 (1-0)
 
 
-Matchday 16
-[Wed Jul/3]
-  18.30  Skála ÍF                 1-1 (0-1)  B68 Toftir
-[Thu Jul/4]
-  18.30  KÍ Klaksvík              4-2 (1-1)  B36 Tórshavn
-         Víkingur                 2-0 (0-0)  HB Tórshavn
-[Fri Jul/5]
-  19.00  NSÍ Runavík              4-0 (2-0)  07 Vestur
-[Sat Jul/6]
-  14.00  ÍF Fuglafjørður          0-1 (0-0)  EB/Streymur
+» Matchday 16
+  Wed Jul/3
+    18.30  Skála ÍF                v B68 Toftir               1-1 (0-1)
+  Thu Jul/4
+    18.30  Víkingur                v HB Tórshavn              2-0 (0-0)
+           KÍ Klaksvík             v B36 Tórshavn             4-2 (1-1)
+  Fri Jul/5
+    19.00  NSÍ Runavík             v 07 Vestur                4-0 (2-0)
+  Sat Jul/6
+    14.00  ÍF Fuglafjørður         v EB/Streymur              0-1 (0-0)
 
 
-Matchday 17
-[Mon Jul/29]
-  17.00  B68 Toftir               1-4 (0-2)  NSÍ Runavík
-[Sun Aug/4]
-  15.00  07 Vestur                0-4 (0-2)  KÍ Klaksvík
-[Mon Aug/5]
-  18.30  HB Tórshavn              3-0 (1-0)  Skála ÍF
-         EB/Streymur              0-4 (0-2)  B36 Tórshavn
-         ÍF Fuglafjørður          0-6 (0-1)  Víkingur
+» Matchday 17
+  Mon Jul/29
+    17.00  B68 Toftir              v NSÍ Runavík              1-4 (0-2)
+  Sun Aug/4
+    15.00  07 Vestur               v KÍ Klaksvík              0-4 (0-2)
+  Mon Aug/5
+    18.30  HB Tórshavn             v Skála ÍF                 3-0 (1-0)
+           EB/Streymur             v B36 Tórshavn             0-4 (0-2)
+           ÍF Fuglafjørður         v Víkingur                 0-6 (0-1)
 
 
-Matchday 18
-[Sat Aug/10]
-  17.00  EB/Streymur              0-4 (0-3)  HB Tórshavn
-  16.00  NSÍ Runavík              3-0 (1-0)  Skála ÍF
-[Sun Aug/11]
-  17.00  B68 Toftir               1-0 (0-0)  07 Vestur
-  15.00  KÍ Klaksvík              2-1 (0-1)  ÍF Fuglafjørður
-[Mon Aug/12]
-  18.30  B36 Tórshavn             1-2 (0-1)  Víkingur
+» Matchday 18
+  Sat Aug/10
+    16.00  NSÍ Runavík             v Skála ÍF                 3-0 (1-0)
+    17.00  EB/Streymur             v HB Tórshavn              0-4 (0-3)
+  Sun Aug/11
+    15.00  KÍ Klaksvík             v ÍF Fuglafjørður          2-1 (0-1)
+    17.00  B68 Toftir              v 07 Vestur                1-0 (0-0)
+  Mon Aug/12
+    18.30  B36 Tórshavn            v Víkingur                 1-2 (0-1)
 
 
-Matchday 19
-[Fri Aug/16]
-  18.30  07 Vestur                3-0 (1-0)  NSÍ Runavík
-[Sun Aug/18]
-  15.00  EB/Streymur              1-0 (1-0)  Skála ÍF
-         ÍF Fuglafjørður          0-3 (0-1)  B36 Tórshavn
-  17.00  HB Tórshavn              1-0 (1-0)  B68 Toftir
+» Matchday 19
+  Fri Aug/16
+    18.30  07 Vestur               v NSÍ Runavík              3-0 (1-0)
+  Sun Aug/18
+    15.00  EB/Streymur             v Skála ÍF                 1-0 (1-0)
+           ÍF Fuglafjørður         v B36 Tórshavn             0-3 (0-1)
+    17.00  HB Tórshavn             v B68 Toftir               1-0 (1-0)
+  Wed Sep/25
+    17.00  Víkingur                v KÍ Klaksvík              1-2 (0-1)
 
 
-Matchday 20
-[Fri Aug/23]
-  18.30  Skála ÍF                 3-3 (2-1)  ÍF Fuglafjørður
-[Sat Aug/24]
-  17.00  07 Vestur                2-0 (1-0)  B68 Toftir
-[Sun Aug/25]
-  15.00  KÍ Klaksvík              2-1 (1-0)  EB/Streymur
-[Tue Aug/27]
-  17.30  B36 Tórshavn             1-4 (1-2)  Víkingur
-  18.30  NSÍ Runavík              3-2 (1-1)  HB Tórshavn
+» Matchday 20
+  Fri Aug/23
+    18.30  Skála ÍF                v ÍF Fuglafjørður          3-3 (2-1)
+  Sat Aug/24
+    17.00  07 Vestur               v B68 Toftir               2-0 (1-0)
+  Sun Aug/25
+    15.00  KÍ Klaksvík             v EB/Streymur              2-1 (1-0)
+  Tue Aug/27
+    17.30  B36 Tórshavn            v Víkingur                 1-4 (1-2)
+    18.30  NSÍ Runavík             v HB Tórshavn              3-2 (1-1)
 
 
-Matchday 21
-[Sat Aug/31]
-  18.30  B36 Tórshavn             2-0 (1-0)  B68 Toftir
-  17.00  ÍF Fuglafjørður          2-1 (0-0)  HB Tórshavn
-         Víkingur                 3-0 (0-0)  NSÍ Runavík
-         EB/Streymur              6-0 (3-0)  07 Vestur
-[Sun Sep/1]
-  15.00  KÍ Klaksvík              3-1 (1-0)  Skála ÍF
+» Matchday 21
+  Sat Aug/31
+    17.00  ÍF Fuglafjørður         v HB Tórshavn              2-1 (0-0)
+           Víkingur                v NSÍ Runavík              3-0 (0-0)
+           EB/Streymur             v 07 Vestur                6-0 (3-0)
+    18.30  B36 Tórshavn            v B68 Toftir               2-0 (1-0)
+  Sun Sep/1
+    15.00  KÍ Klaksvík             v Skála ÍF                 3-1 (1-0)
 
 
-Matchday 22
-[Sat Sep/14]
-  18.30  Skála ÍF                 4-1 (2-0)  07 Vestur
-[Sun Sep/15]
-  15.00  EB/Streymur              2-1 (1-0)  ÍF Fuglafjørður
-         B36 Tórshavn             2-2 (1-1)  NSÍ Runavík
-         KÍ Klaksvík              1-0 (1-0)  HB Tórshavn
-  17.00  B68 Toftir               1-2 (0-1)  Víkingur
+» Matchday 22
+  Sat Sep/14
+    18.30  Skála ÍF                v 07 Vestur                4-1 (2-0)
+  Sun Sep/15
+    15.00  EB/Streymur             v ÍF Fuglafjørður          2-1 (1-0)
+           B36 Tórshavn            v NSÍ Runavík              2-2 (1-1)
+           KÍ Klaksvík             v HB Tórshavn              1-0 (1-0)
+    17.00  B68 Toftir              v Víkingur                 1-2 (0-1)
 
 
-Matchday 23
-[Sat Sep/21]
-  17.00  B68 Toftir               0-2 (0-1)  KÍ Klaksvík
-         Víkingur                 1-0 (1-0)  EB/Streymur
-  18.30  07 Vestur                0-3 (0-1)  B36 Tórshavn
-[Sun Sep/22]
-  15.00  NSÍ Runavík              3-0 (1-0)  ÍF Fuglafjørður
-  17.00  HB Tórshavn              3-0 (1-0)  Skála ÍF
+» Matchday 23
+  Sat Sep/21
+    17.00  Víkingur                v EB/Streymur              1-0 (1-0)
+           B68 Toftir              v KÍ Klaksvík              0-2 (0-1)
+    18.30  07 Vestur               v B36 Tórshavn             0-3 (0-1)
+  Sun Sep/22
+    15.00  NSÍ Runavík             v ÍF Fuglafjørður          3-0 (1-0)
+    17.00  HB Tórshavn             v Skála ÍF                 3-0 (1-0)
 
 
-Matchday 19
-[Wed Sep/25]
-  17.00  Víkingur                 1-2 (0-1)  KÍ Klaksvík
+» Matchday 24
+  Sat Sep/28
+    15.00  ÍF Fuglafjørður         v B68 Toftir               1-3 (1-1)
+    17.00  EB/Streymur             v NSÍ Runavík              4-1 (0-1)
+           B36 Tórshavn            v HB Tórshavn              2-2 (2-1)
+  Sun Sep/29
+    15.00  07 Vestur               v KÍ Klaksvík              0-1 (0-0)
+  Mon Sep/30
+    18.30  Skála ÍF                v Víkingur                 0-3 (0-1)
 
 
-Matchday 24
-[Sat Sep/28]
-  17.00  EB/Streymur              4-1 (0-1)  NSÍ Runavík
-         B36 Tórshavn             2-2 (2-1)  HB Tórshavn
-  15.00  ÍF Fuglafjørður          1-3 (1-1)  B68 Toftir
-[Sun Sep/29]
-  15.00  07 Vestur                0-1 (0-0)  KÍ Klaksvík
-[Mon Sep/30]
-  18.30  Skála ÍF                 0-3 (0-1)  Víkingur
+» Matchday 25
+  Fri Oct/4
+    17.00  Víkingur                v ÍF Fuglafjørður          5-0 (1-0)
+    18.30  B68 Toftir              v Skála ÍF                 1-1 (1-1)
+           KÍ Klaksvík             v NSÍ Runavík              3-1 (1-1)
+  Sat Oct/5
+    16.00  HB Tórshavn             v 07 Vestur                1-0 (0-0)
+    17.00  EB/Streymur             v B36 Tórshavn             1-0 (1-0)
 
 
-Matchday 25
-[Fri Oct/4]
-  18.30  B68 Toftir               1-1 (1-1)  Skála ÍF
-         KÍ Klaksvík              3-1 (1-1)  NSÍ Runavík
-  17.00  Víkingur                 5-0 (1-0)  ÍF Fuglafjørður
-[Sat Oct/5]
-  17.00  EB/Streymur              1-0 (1-0)  B36 Tórshavn
-  16.00  HB Tórshavn              1-0 (0-0)  07 Vestur
+» Matchday 26
+  Sun Oct/20
+    15.00  07 Vestur               v ÍF Fuglafjørður          5-1 (2-1)
+           HB Tórshavn             v Víkingur                 1-1 (1-1)
+           KÍ Klaksvík             v B36 Tórshavn             2-2 (0-0)
+           Skála ÍF                v NSÍ Runavík              0-0
+    18.00  B68 Toftir              v EB/Streymur              1-4 (1-2)
 
 
-Matchday 26
-[Sun Oct/20]
-  15.00  07 Vestur                -  ÍF Fuglafjørður
-         B68 Toftir               -  EB/Streymur
-         HB Tórshavn              -  Víkingur
-         KÍ Klaksvík              -  B36 Tórshavn
-         Skála ÍF                 -  NSÍ Runavík
-
-
-Matchday 27
-[Sat Oct/26]
-  14.00  EB/Streymur              -  HB Tórshavn
-         ÍF Fuglafjørður          -  KÍ Klaksvík
-         NSÍ Runavík              -  B68 Toftir
-         Víkingur                 -  07 Vestur
-         B36 Tórshavn             -  Skála ÍF
+» Matchday 27
+  Sat Oct/26
+    14.00  B36 Tórshavn            v Skála ÍF                 3-0 (0-0)
+           EB/Streymur             v HB Tórshavn              1-4 (1-3)
+           ÍF Fuglafjørður         v KÍ Klaksvík              1-4 (0-1)
+           NSÍ Runavík             v B68 Toftir               1-4 (0-2)
+           Víkingur                v 07 Vestur                4-1 (0-0)

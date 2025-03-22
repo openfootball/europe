@@ -1,4 +1,4 @@
-= Norwegian Eliteserien 2024
+= Norway Eliteserien 2024
 
 # Date       Sun Mar/31 - Sun Dec/1 2024 (245d)
 # Teams      16
@@ -6,437 +6,406 @@
 
 
 
-Matchday 1
-[Sun Mar/31]
-  18.00  Odds BK                  1-2 (0-1)  FK Haugesund
-[Mon Apr/1]
-  14.30  Fredrikstad FK           0-2 (0-0)  FK Bodø/Glimt
-  17.00  Lillestrøm SK            2-3 (0-1)  Kristiansund BK
-         Molde FK                 4-0 (1-0)  Strømsgodset IF
-         Rosenborg BK             2-0 (0-0)  Sandefjord Fotball
-         Tromsø IL                2-4 (0-2)  SK Brann
-  19.15  Viking FK                1-0 (1-0)  Sarpsborg 08
-[Tue Apr/2]
-  19.00  KFUM Oslo                1-1 (0-1)  Hamarkameratene
-
-
-Matchday 2
-[Sat Apr/6]
-  18.00  FK Bodø/Glimt            1-0 (0-0)  Viking FK
-[Sun Apr/7]
-  14.30  Kristiansund BK          1-1 (1-1)  KFUM Oslo
-  17.00  FK Haugesund             0-2 (0-2)  Lillestrøm SK
-         Hamarkameratene          0-1 (0-1)  Molde FK
-         Sarpsborg 08             0-1 (0-1)  Odds BK
-         Strømsgodset IF          1-0 (0-0)  Rosenborg BK
-  19.15  SK Brann                 0-2 (0-1)  Fredrikstad FK
-
-
-Matchday 3
-[Sat Apr/13]
-  18.00  Fredrikstad FK           2-2 (0-1)  Sarpsborg 08
-[Sun Apr/14]
-  14.30  Viking FK                1-1 (1-0)  SK Brann
-  17.00  Molde FK                 2-0 (1-0)  Kristiansund BK
-  19.15  Lillestrøm SK            0-5 (0-1)  FK Bodø/Glimt
-  17.00  Rosenborg BK             1-0 (1-0)  Hamarkameratene
-         Tromsø IL                0-1 (0-1)  FK Haugesund
-         Odds BK                  2-2 (1-1)  Sandefjord Fotball
-[Tue Apr/16]
-  19.00  KFUM Oslo                1-3 (0-2)  Strømsgodset IF
-
-
-Matchday 17
-[Wed Apr/17]
-  18.00  Molde FK                 1-2 (1-1)  Odds BK
-
-
-Matchday 16
-[Wed Apr/17]
-  18.00  SK Brann                 1-0 (0-0)  Hamarkameratene
-
-
-Matchday 4
-[Sun Apr/21]
-  17.00  SK Brann                 2-0 (1-0)  Odds BK
-         FK Haugesund             1-3 (0-2)  Rosenborg BK
-         Kristiansund BK          1-0 (1-0)  Tromsø IL
-         Sandefjord Fotball       0-1 (0-0)  Lillestrøm SK
-         Sarpsborg 08             0-2 (0-2)  KFUM Oslo
-         Viking FK                1-1 (1-1)  Fredrikstad FK
-  19.15  FK Bodø/Glimt            1-1 (1-0)  Molde FK
-  14.30  Hamarkameratene          0-1 (0-1)  Strømsgodset IF
-
-
-Matchday 5
-[Sat Apr/27]
-  18.00  Rosenborg BK             1-3 (0-2)  FK Bodø/Glimt
-[Sun Apr/28]
-  17.00  KFUM Oslo                0-0  SK Brann
-         Lillestrøm SK            1-1 (1-0)  Hamarkameratene
-         Molde FK                 2-1 (2-0)  FK Haugesund
-         Strømsgodset IF          2-2 (0-2)  Kristiansund BK
-         Tromsø IL                0-3 (0-2)  Sarpsborg 08
-  19.15  Odds BK                  3-3 (2-1)  Viking FK
-  17.00  Fredrikstad FK           1-0 (1-0)  Sandefjord Fotball
-
-
-Matchday 6
-[Sat May/4]
-  18.00  SK Brann                 3-0 (1-0)  Rosenborg BK
-[Sun May/5]
-  17.00  FK Haugesund             0-1 (0-1)  KFUM Oslo
-         FK Bodø/Glimt            1-0 (0-0)  Strømsgodset IF
-         Odds BK                  0-2 (0-0)  Fredrikstad FK
-         Sandefjord Fotball       3-1 (0-1)  Molde FK
-         Sarpsborg 08             1-0 (0-0)  Lillestrøm SK
-  19.15  Viking FK                2-1 (0-0)  Tromsø IL
-  17.00  Kristiansund BK          1-1 (1-1)  Hamarkameratene
-
-
-Matchday 7
-[Sat May/11]
-  18.00  Molde FK                 2-2 (1-0)  Rosenborg BK
-[Sun May/12]
-  17.00  KFUM Oslo                1-4 (0-4)  Fredrikstad FK
-         Sandefjord Fotball       4-1 (1-0)  Sarpsborg 08
-         Hamarkameratene          2-2 (1-0)  FK Haugesund
-  14.30  Kristiansund BK          2-4 (1-1)  FK Bodø/Glimt
-  17.00  Tromsø IL                4-0 (0-0)  Odds BK
-  19.15  Lillestrøm SK            0-2 (0-0)  SK Brann
-  17.00  Strømsgodset IF          0-1 (0-0)  Viking FK
-
-
-Matchday 8
-[Thu May/16]
-  18.00  SK Brann                 2-1 (0-0)  Sandefjord Fotball
-         FK Haugesund             1-0 (0-0)  Kristiansund BK
-         Fredrikstad FK           4-1 (3-1)  Strømsgodset IF
-         Odds BK                  0-4 (0-2)  Molde FK
-         Rosenborg BK             1-3 (1-1)  KFUM Oslo
-         Sarpsborg 08             1-7 (0-5)  Hamarkameratene
-         Viking FK                1-4 (0-3)  Lillestrøm SK
-         FK Bodø/Glimt            4-0 (2-0)  Tromsø IL
-
-
-Matchday 9
-[Mon May/20]
-  17.00  KFUM Oslo                0-0  Odds BK
-         Kristiansund BK          2-2 (1-1)  SK Brann
-         Lillestrøm SK            0-3 (0-1)  Fredrikstad FK
-         Molde FK                 2-4 (1-2)  Sarpsborg 08
-         Hamarkameratene          1-0 (1-0)  FK Bodø/Glimt
-         Strømsgodset IF          2-0 (1-0)  FK Haugesund
-  19.15  Tromsø IL                3-2 (0-2)  Rosenborg BK
-  17.00  Sandefjord Fotball       0-3 (0-1)  Viking FK
-
-
-Matchday 10
-[Fri May/24]
-  19.00  FK Bodø/Glimt            2-2 (1-1)  KFUM Oslo
-[Sat May/25]
-  18.00  Fredrikstad FK           0-0  Tromsø IL
-[Sun May/26]
-  17.00  Rosenborg BK             2-1 (0-1)  Kristiansund BK
-         Sarpsborg 08             1-3 (0-1)  Strømsgodset IF
-         Viking FK                3-0 (2-0)  Hamarkameratene
-  19.15  SK Brann                 1-3 (1-0)  Molde FK
-  17.00  Odds BK                  2-1 (0-0)  Lillestrøm SK
-         FK Haugesund             2-1 (0-0)  Sandefjord Fotball
-
-
-Matchday 18
-[Wed May/29]
-  19.00  Tromsø IL                3-0 (2-0)  Fredrikstad FK
-         SK Brann                 2-1 (1-0)  Kristiansund BK
-
-
-Matchday 19
-[Wed May/29]
-  19.00  FK Bodø/Glimt            1-1 (1-1)  Sandefjord Fotball
-
-
-Matchday 11
-[Sat Jun/1]
-  18.00  Hamarkameratene          1-2 (0-1)  SK Brann
-[Sun Jun/2]
-  17.00  KFUM Oslo                3-3 (0-0)  Sandefjord Fotball
-  19.15  Rosenborg BK             1-1 (0-0)  Fredrikstad FK
-  17.00  FK Haugesund             0-1 (0-0)  FK Bodø/Glimt
-         Strømsgodset IF          1-1 (1-0)  Odds BK
-  14.30  Molde FK                 2-2 (1-1)  Viking FK
-  17.00  Tromsø IL                1-2 (0-1)  Lillestrøm SK
-         Kristiansund BK          3-1 (0-0)  Sarpsborg 08
-
-
-Matchday 12
-[Thu Jun/27]
-  21.15  Lillestrøm SK            2-1 (1-0)  KFUM Oslo
-  19.00  Sandefjord Fotball       1-2 (1-1)  Hamarkameratene
-[Fri Jun/28]
-  19.00  Odds BK                  1-1 (0-1)  Kristiansund BK
-         SK Brann                 0-0  Strømsgodset IF
-  21.15  Tromsø IL                0-2 (0-1)  Molde FK
-  19.00  Sarpsborg 08             1-2 (1-0)  FK Bodø/Glimt
-[Sun Jun/30]
-  15.00  Viking FK                4-2 (1-0)  Rosenborg BK
-
-
-Matchday 2
-[Wed Jul/3]
-  19.00  Sandefjord Fotball       1-2 (0-2)  Tromsø IL
-
-
-Matchday 13
-[Sun Jul/7]
-  19.15  Rosenborg BK             2-1 (2-0)  Odds BK
-  17.00  FK Haugesund             1-2 (0-0)  Sarpsborg 08
-  14.30  FK Bodø/Glimt            5-1 (2-0)  SK Brann
-  17.00  Hamarkameratene          0-0  Tromsø IL
-         KFUM Oslo                1-2 (1-0)  Viking FK
-         Molde FK                 3-0 (2-0)  Lillestrøm SK
-[Mon Jul/8]
-  19.00  Strømsgodset IF          1-1 (1-1)  Sandefjord Fotball
-         Kristiansund BK          3-1 (2-1)  Fredrikstad FK
-
-
-Matchday 14
-[Fri Jul/12]
-  19.00  Sarpsborg 08             4-1 (3-0)  Rosenborg BK
-[Sat Jul/13]
-  17.00  Sandefjord Fotball       2-1 (1-0)  FK Bodø/Glimt
-  22.00  Tromsø IL                1-2 (0-0)  KFUM Oslo
-  17.00  Fredrikstad FK           0-0  Molde FK
-         Odds BK                  1-2 (1-1)  Hamarkameratene
-  19.15  SK Brann                 1-1 (0-0)  FK Haugesund
-  17.00  Viking FK                2-0 (0-0)  Kristiansund BK
-         Lillestrøm SK            3-1 (2-1)  Strømsgodset IF
-
-
-Matchday 15
-[Fri Jul/19]
-  19.00  FK Bodø/Glimt            3-1 (1-1)  Odds BK
-[Sat Jul/20]
-  20.15  Molde FK                 2-3 (1-2)  KFUM Oslo
-  18.00  Sarpsborg 08             1-1 (0-0)  SK Brann
-[Sun Jul/21]
-  14.30  Strømsgodset IF          0-1 (0-0)  Tromsø IL
-  17.00  Hamarkameratene          0-1 (0-0)  Fredrikstad FK
-         FK Haugesund             1-0 (0-0)  Viking FK
-
-
-Matchday 16
-[Sat Jul/27]
-  18.00  Fredrikstad FK           2-2 (2-1)  Rosenborg BK
-  16.00  KFUM Oslo                1-1 (1-0)  FK Bodø/Glimt
-[Sun Jul/28]
-  17.00  Sandefjord Fotball       4-3 (3-1)  FK Haugesund
-         Tromsø IL                0-0  Kristiansund BK
-  19.15  Viking FK                1-0 (0-0)  Molde FK
-  17.00  Odds BK                  2-0 (2-0)  Strømsgodset IF
-         Lillestrøm SK            2-2 (0-2)  Sarpsborg 08
-
-
-Matchday 17
-[Sat Aug/3]
-  18.00  FK Bodø/Glimt            4-2 (1-1)  FK Haugesund
-[Sun Aug/4]
-  17.00  Hamarkameratene          3-3 (0-1)  Viking FK
-         Fredrikstad FK           0-0  KFUM Oslo
-         Kristiansund BK          2-1 (1-1)  Lillestrøm SK
-         Sarpsborg 08             2-1 (1-0)  Sandefjord Fotball
-         Strømsgodset IF          2-3 (1-2)  SK Brann
-  19.15  Rosenborg BK             1-0 (0-0)  Tromsø IL
-
-
-Matchday 18
-[Fri Aug/9]
-  19.00  Sandefjord Fotball       2-2 (0-2)  Strømsgodset IF
-[Sat Aug/10]
-  16.00  FK Haugesund             0-1 (0-0)  Hamarkameratene
-  18.00  Viking FK                1-1 (0-0)  FK Bodø/Glimt
-[Sun Aug/11]
-  17.00  Odds BK                  1-1 (1-0)  Sarpsborg 08
-  19.15  Lillestrøm SK            1-2 (1-1)  Molde FK
-  17.00  KFUM Oslo                1-0 (0-0)  Rosenborg BK
-
-
-Matchday 12
-[Wed Aug/14]
-  19.00  Fredrikstad FK           1-0 (0-0)  FK Haugesund
-
-
-Matchday 19
-[Sat Aug/17]
-  18.00  Strømsgodset IF          3-2 (1-2)  Lillestrøm SK
-[Sun Aug/18]
-  17.00  KFUM Oslo                0-1 (0-0)  Tromsø IL
-  19.15  Rosenborg BK             2-1 (2-0)  Viking FK
-  14.30  Fredrikstad FK           0-4 (0-1)  SK Brann
-  17.00  Hamarkameratene          1-0 (0-0)  Odds BK
-         Sarpsborg 08             2-2 (1-1)  FK Haugesund
-
-
-Matchday 15
-[Wed Aug/21]
-  19.00  Rosenborg BK             4-0 (2-0)  Lillestrøm SK
-
-
-Matchday 20
-[Sat Aug/24]
-  16.00  FK Bodø/Glimt            6-0 (2-0)  Sarpsborg 08
-[Sun Aug/25]
-  19.15  Odds BK                  1-3 (0-1)  Rosenborg BK
-  14.30  Lillestrøm SK            0-1 (0-1)  Tromsø IL
-  17.00  Viking FK                5-2 (2-1)  Strømsgodset IF
-         FK Haugesund             1-0 (0-0)  Fredrikstad FK
-         Molde FK                 3-0 (1-0)  Hamarkameratene
-         Sandefjord Fotball       1-0 (0-0)  Kristiansund BK
-
-
-Matchday 21
-[Fri Aug/30]
-  19.00  KFUM Oslo                2-0 (0-0)  Lillestrøm SK
-[Sat Aug/31]
-  18.00  Fredrikstad FK           2-0 (0-0)  Odds BK
-[Sun Sep/1]
-  17.00  Tromsø IL                2-2 (2-0)  Viking FK
-  19.15  SK Brann                 1-3 (0-1)  Sarpsborg 08
-  17.00  Rosenborg BK             2-1 (0-1)  Molde FK
-         Hamarkameratene          1-1 (0-0)  Sandefjord Fotball
-         Kristiansund BK          2-2 (1-1)  FK Haugesund
-         Strømsgodset IF          0-1 (0-0)  FK Bodø/Glimt
-
-
-Matchday 22
-[Fri Sep/13]
-  19.00  FK Bodø/Glimt            3-0 (0-0)  Hamarkameratene
-[Sat Sep/14]
-  16.00  Viking FK                1-0 (1-0)  KFUM Oslo
-  18.00  Molde FK                 6-1 (3-1)  Fredrikstad FK
-[Sun Sep/15]
-  17.00  FK Haugesund             0-0  Strømsgodset IF
-         Sandefjord Fotball       2-2 (1-1)  SK Brann
-         Sarpsborg 08             0-2 (0-0)  Kristiansund BK
-  14.30  Odds BK                  1-0 (0-0)  Tromsø IL
-  19.15  Lillestrøm SK            1-1 (1-1)  Rosenborg BK
-
-
-Matchday 20
-[Wed Sep/18]
-  19.00  SK Brann                 2-0 (0-0)  KFUM Oslo
-
-
-Matchday 19
-[Wed Sep/18]
-  18.00  Kristiansund BK          0-4 (0-2)  Molde FK
-
-
-Matchday 23
-[Sat Sep/21]
-  16.00  Strømsgodset IF          2-1 (2-1)  Sarpsborg 08
-  18.00  Hamarkameratene          5-0 (4-0)  Lillestrøm SK
-[Sun Sep/22]
-  14.30  SK Brann                 4-1 (3-0)  FK Bodø/Glimt
-  17.00  Kristiansund BK          0-0  Odds BK
-         Rosenborg BK             4-0 (2-0)  FK Haugesund
-         Tromsø IL                3-0 (3-0)  Sandefjord Fotball
-  19.15  Fredrikstad FK           3-2 (2-0)  Viking FK
-[Mon Sep/23]
-  19.00  KFUM Oslo                1-1 (0-0)  Molde FK
-
-
-Matchday 24
-[Sat Sep/28]
-  20.00  Sarpsborg 08             0-1 (0-0)  Fredrikstad FK
-  14.00  Molde FK                 5-3 (2-0)  Tromsø IL
-  18.00  FK Haugesund             0-1 (0-1)  SK Brann
-[Sun Sep/29]
-  17.00  FK Bodø/Glimt            4-0 (3-0)  Kristiansund BK
-  14.30  Strømsgodset IF          1-1 (1-0)  Hamarkameratene
-  17.00  Odds BK                  1-3 (1-2)  KFUM Oslo
-         Lillestrøm SK            1-4 (0-1)  Viking FK
-  19.15  Sandefjord Fotball       0-1 (0-0)  Rosenborg BK
-
-
-Matchday 15
-[Sat Oct/5]
-  15.00  Kristiansund BK          2-1 (1-0)  Sandefjord Fotball
-
-
-Matchday 25
-[Sat Oct/19]
-  18.00  Tromsø IL                -  FK Bodø/Glimt
-  16.00  Molde FK                 -  Sandefjord Fotball
-[Sun Oct/20]
-  14.30  Rosenborg BK             -  SK Brann
-  17.00  Hamarkameratene          -  Sarpsborg 08
-         KFUM Oslo                -  FK Haugesund
-         Kristiansund BK          -  Strømsgodset IF
-         Viking FK                -  Odds BK
-  19.15  Fredrikstad FK           -  Lillestrøm SK
-
-
-Matchday 26
-[Sat Oct/26]
-  18.00  Strømsgodset IF          -  Fredrikstad FK
-[Sun Oct/27]
-  17.00  Hamarkameratene          -  Kristiansund BK
-         FK Haugesund             -  Molde FK
-         Lillestrøm SK            -  Odds BK
-         Sandefjord Fotball       -  KFUM Oslo
-         Sarpsborg 08             -  Viking FK
-  19.15  SK Brann                 -  Tromsø IL
-[Mon Oct/28]
-  19.00  FK Bodø/Glimt            -  Rosenborg BK
-
-
-Matchday 27
-[Sat Nov/2]
-  18.00  Viking FK                -  Sandefjord Fotball
-[Sun Nov/3]
-  17.00  KFUM Oslo                -  Sarpsborg 08
-  18.00  Fredrikstad FK           -  Kristiansund BK
-         Lillestrøm SK            -  FK Haugesund
-         Molde FK                 -  FK Bodø/Glimt
-         Odds BK                  -  SK Brann
-         Tromsø IL                -  Hamarkameratene
-  19.15  Rosenborg BK             -  Strømsgodset IF
-
-
-Matchday 28
-[Sat Nov/9]
-  18.00  SK Brann                 -  Lillestrøm SK
-[Sun Nov/10]
-  17.00  Hamarkameratene          -  Rosenborg BK
-         Kristiansund BK          -  Viking FK
-         Sarpsborg 08             -  Molde FK
-         Strømsgodset IF          -  KFUM Oslo
-  19.15  FK Bodø/Glimt            -  Fredrikstad FK
-  17.00  FK Haugesund             -  Tromsø IL
-[Mon Nov/11]
-  19.00  Sandefjord Fotball       -  Odds BK
-
-
-Matchday 29
-[Sat Nov/23]
-  17.00  Fredrikstad FK           -  Hamarkameratene
-         KFUM Oslo                -  Kristiansund BK
-         Lillestrøm SK            -  Sandefjord Fotball
-         Molde FK                 -  SK Brann
-         Odds BK                  -  FK Bodø/Glimt
-         Rosenborg BK             -  Sarpsborg 08
-         Tromsø IL                -  Strømsgodset IF
-         Viking FK                -  FK Haugesund
-
-
-Matchday 30
-[Sun Dec/1]
-  17.00  FK Bodø/Glimt            -  Lillestrøm SK
-         FK Haugesund             -  Odds BK
-         Hamarkameratene          -  KFUM Oslo
-         Kristiansund BK          -  Rosenborg BK
-         Sandefjord Fotball       -  Fredrikstad FK
-         Sarpsborg 08             -  Tromsø IL
-         Strømsgodset IF          -  Molde FK
-         SK Brann                 -  Viking FK
+» Matchday 1
+  Sun Mar/31 2024
+    18.00  Odds BK                 v FK Haugesund             1-2 (0-1)
+  Mon Apr/1
+    14.30  Fredrikstad FK          v FK Bodø/Glimt            0-2 (0-0)
+    17.00  Lillestrøm SK           v Kristiansund BK          2-3 (0-1)
+           Molde FK                v Strømsgodset IF          4-0 (1-0)
+           Rosenborg BK            v Sandefjord Fotball       2-0 (0-0)
+           Tromsø IL               v SK Brann                 2-4 (0-2)
+    19.15  Viking FK               v Sarpsborg 08             1-0 (1-0)
+  Tue Apr/2
+    19.00  KFUM Oslo               v Hamarkameratene          1-1 (0-1)
+
+
+» Matchday 2
+  Sat Apr/6
+    18.00  FK Bodø/Glimt           v Viking FK                1-0 (0-0)
+  Sun Apr/7
+    14.30  Kristiansund BK         v KFUM Oslo                1-1 (1-1)
+    17.00  FK Haugesund            v Lillestrøm SK            0-2 (0-2)
+           Hamarkameratene         v Molde FK                 0-1 (0-1)
+           Sarpsborg 08            v Odds BK                  0-1 (0-1)
+           Strømsgodset IF         v Rosenborg BK             1-0 (0-0)
+    19.15  SK Brann                v Fredrikstad FK           0-2 (0-1)
+  Wed Jul/3
+    19.00  Sandefjord Fotball      v Tromsø IL                1-2 (0-2)
+
+
+» Matchday 3
+  Sat Apr/13
+    18.00  Fredrikstad FK          v Sarpsborg 08             2-2 (0-1)
+  Sun Apr/14
+    14.30  Viking FK               v SK Brann                 1-1 (1-0)
+    17.00  Molde FK                v Kristiansund BK          2-0 (1-0)
+           Odds BK                 v Sandefjord Fotball       2-2 (1-1)
+           Rosenborg BK            v Hamarkameratene          1-0 (1-0)
+           Tromsø IL               v FK Haugesund             0-1 (0-1)
+    19.15  Lillestrøm SK           v FK Bodø/Glimt            0-5 (0-1)
+  Tue Apr/16
+    19.00  KFUM Oslo               v Strømsgodset IF          1-3 (0-2)
+
+
+» Matchday 4
+  Sun Apr/21
+    14.30  Hamarkameratene         v Strømsgodset IF          0-1 (0-1)
+    17.00  SK Brann                v Odds BK                  2-0 (1-0)
+           FK Haugesund            v Rosenborg BK             1-3 (0-2)
+           Kristiansund BK         v Tromsø IL                1-0 (1-0)
+           Sandefjord Fotball      v Lillestrøm SK            0-1 (0-0)
+           Sarpsborg 08            v KFUM Oslo                0-2 (0-2)
+           Viking FK               v Fredrikstad FK           1-1 (1-1)
+    19.15  FK Bodø/Glimt           v Molde FK                 1-1 (1-0)
+
+
+» Matchday 5
+  Sat Apr/27
+    18.00  Rosenborg BK            v FK Bodø/Glimt            1-3 (0-2)
+  Sun Apr/28
+    17.00  Fredrikstad FK          v Sandefjord Fotball       1-0 (1-0)
+           KFUM Oslo               v SK Brann                 0-0
+           Lillestrøm SK           v Hamarkameratene          1-1 (1-0)
+           Molde FK                v FK Haugesund             2-1 (2-0)
+           Strømsgodset IF         v Kristiansund BK          2-2 (0-2)
+           Tromsø IL               v Sarpsborg 08             0-3 (0-2)
+    19.15  Odds BK                 v Viking FK                3-3 (2-1)
+
+
+» Matchday 6
+  Sat May/4
+    18.00  SK Brann                v Rosenborg BK             3-0 (1-0)
+  Sun May/5
+    17.00  FK Bodø/Glimt           v Strømsgodset IF          1-0 (0-0)
+           FK Haugesund            v KFUM Oslo                0-1 (0-1)
+           Kristiansund BK         v Hamarkameratene          1-1 (1-1)
+           Odds BK                 v Fredrikstad FK           0-2 (0-0)
+           Sandefjord Fotball      v Molde FK                 3-1 (0-1)
+           Sarpsborg 08            v Lillestrøm SK            1-0 (0-0)
+    19.15  Viking FK               v Tromsø IL                2-1 (0-0)
+
+
+» Matchday 7
+  Sat May/11
+    18.00  Molde FK                v Rosenborg BK             2-2 (1-0)
+  Sun May/12
+    14.30  Kristiansund BK         v FK Bodø/Glimt            2-4 (1-1)
+    17.00  Hamarkameratene         v FK Haugesund             2-2 (1-0)
+           KFUM Oslo               v Fredrikstad FK           1-4 (0-4)
+           Sandefjord Fotball      v Sarpsborg 08             4-1 (1-0)
+           Strømsgodset IF         v Viking FK                0-1 (0-0)
+           Tromsø IL               v Odds BK                  4-0 (0-0)
+    19.15  Lillestrøm SK           v SK Brann                 0-2 (0-0)
+
+
+» Matchday 8
+  Thu May/16
+    18.00  SK Brann                v Sandefjord Fotball       2-1 (0-0)
+           FK Bodø/Glimt           v Tromsø IL                4-0 (2-0)
+           FK Haugesund            v Kristiansund BK          1-0 (0-0)
+           Fredrikstad FK          v Strømsgodset IF          4-1 (3-1)
+           Odds BK                 v Molde FK                 0-4 (0-2)
+           Rosenborg BK            v KFUM Oslo                1-3 (1-1)
+           Sarpsborg 08            v Hamarkameratene          1-7 (0-5)
+           Viking FK               v Lillestrøm SK            1-4 (0-3)
+
+
+» Matchday 9
+  Mon May/20
+    17.00  Hamarkameratene         v FK Bodø/Glimt            1-0 (1-0)
+           KFUM Oslo               v Odds BK                  0-0
+           Kristiansund BK         v SK Brann                 2-2 (1-1)
+           Lillestrøm SK           v Fredrikstad FK           0-3 (0-1)
+           Molde FK                v Sarpsborg 08             2-4 (1-2)
+           Sandefjord Fotball      v Viking FK                0-3 (0-1)
+           Strømsgodset IF         v FK Haugesund             2-0 (1-0)
+    19.15  Tromsø IL               v Rosenborg BK             3-2 (0-2)
+
+
+» Matchday 10
+  Fri May/24
+    19.00  FK Bodø/Glimt           v KFUM Oslo                2-2 (1-1)
+  Sat May/25
+    18.00  Fredrikstad FK          v Tromsø IL                0-0
+  Sun May/26
+    17.00  FK Haugesund            v Sandefjord Fotball       2-1 (0-0)
+           Odds BK                 v Lillestrøm SK            2-1 (0-0)
+           Rosenborg BK            v Kristiansund BK          2-1 (0-1)
+           Sarpsborg 08            v Strømsgodset IF          1-3 (0-1)
+           Viking FK               v Hamarkameratene          3-0 (2-0)
+    19.15  SK Brann                v Molde FK                 1-3 (1-0)
+
+
+» Matchday 11
+  Sat Jun/1
+    18.00  Hamarkameratene         v SK Brann                 1-2 (0-1)
+  Sun Jun/2
+    14.30  Molde FK                v Viking FK                2-2 (1-1)
+    17.00  FK Haugesund            v FK Bodø/Glimt            0-1 (0-0)
+           KFUM Oslo               v Sandefjord Fotball       3-3 (0-0)
+           Kristiansund BK         v Sarpsborg 08             3-1 (0-0)
+           Strømsgodset IF         v Odds BK                  1-1 (1-0)
+           Tromsø IL               v Lillestrøm SK            1-2 (0-1)
+    19.15  Rosenborg BK            v Fredrikstad FK           1-1 (0-0)
+
+
+» Matchday 12
+  Thu Jun/27
+    19.00  Sandefjord Fotball      v Hamarkameratene          1-2 (1-1)
+    21.15  Lillestrøm SK           v KFUM Oslo                2-1 (1-0)
+  Fri Jun/28
+    19.00  SK Brann                v Strømsgodset IF          0-0
+           Odds BK                 v Kristiansund BK          1-1 (0-1)
+           Sarpsborg 08            v FK Bodø/Glimt            1-2 (1-0)
+    21.15  Tromsø IL               v Molde FK                 0-2 (0-1)
+  Sun Jun/30
+    15.00  Viking FK               v Rosenborg BK             4-2 (1-0)
+  Wed Aug/14
+    19.00  Fredrikstad FK          v FK Haugesund             1-0 (0-0)
+
+
+» Matchday 13
+  Sun Jul/7
+    14.30  FK Bodø/Glimt           v SK Brann                 5-1 (2-0)
+    17.00  FK Haugesund            v Sarpsborg 08             1-2 (0-0)
+           Hamarkameratene         v Tromsø IL                0-0
+           KFUM Oslo               v Viking FK                1-2 (1-0)
+           Molde FK                v Lillestrøm SK            3-0 (2-0)
+    19.15  Rosenborg BK            v Odds BK                  2-1 (2-0)
+  Mon Jul/8
+    19.00  Kristiansund BK         v Fredrikstad FK           3-1 (2-1)
+           Strømsgodset IF         v Sandefjord Fotball       1-1 (1-1)
+
+
+» Matchday 14
+  Fri Jul/12
+    19.00  Sarpsborg 08            v Rosenborg BK             4-1 (3-0)
+  Sat Jul/13
+    17.00  Fredrikstad FK          v Molde FK                 0-0
+           Lillestrøm SK           v Strømsgodset IF          3-1 (2-1)
+           Odds BK                 v Hamarkameratene          1-2 (1-1)
+           Sandefjord Fotball      v FK Bodø/Glimt            2-1 (1-0)
+           Viking FK               v Kristiansund BK          2-0 (0-0)
+    19.15  SK Brann                v FK Haugesund             1-1 (0-0)
+    22.00  Tromsø IL               v KFUM Oslo                1-2 (0-0)
+
+
+» Matchday 15
+  Fri Jul/19
+    19.00  FK Bodø/Glimt           v Odds BK                  3-1 (1-1)
+  Sat Jul/20
+    18.00  Sarpsborg 08            v SK Brann                 1-1 (0-0)
+    20.15  Molde FK                v KFUM Oslo                2-3 (1-2)
+  Sun Jul/21
+    14.30  Strømsgodset IF         v Tromsø IL                0-1 (0-0)
+    17.00  FK Haugesund            v Viking FK                1-0 (0-0)
+           Hamarkameratene         v Fredrikstad FK           0-1 (0-0)
+  Wed Aug/21
+    19.00  Rosenborg BK            v Lillestrøm SK            4-0 (2-0)
+  Sat Oct/5
+    15.00  Kristiansund BK         v Sandefjord Fotball       2-1 (1-0)
+
+
+» Matchday 16
+  Wed Apr/17
+    18.00  SK Brann                v Hamarkameratene          1-0 (0-0)
+  Sat Jul/27
+    16.00  KFUM Oslo               v FK Bodø/Glimt            1-1 (1-0)
+    18.00  Fredrikstad FK          v Rosenborg BK             2-2 (2-1)
+  Sun Jul/28
+    17.00  Lillestrøm SK           v Sarpsborg 08             2-2 (0-2)
+           Odds BK                 v Strømsgodset IF          2-0 (2-0)
+           Sandefjord Fotball      v FK Haugesund             4-3 (3-1)
+           Tromsø IL               v Kristiansund BK          0-0
+    19.15  Viking FK               v Molde FK                 1-0 (0-0)
+
+
+» Matchday 17
+  Wed Apr/17
+    18.00  Molde FK                v Odds BK                  1-2 (1-1)
+  Sat Aug/3
+    18.00  FK Bodø/Glimt           v FK Haugesund             4-2 (1-1)
+  Sun Aug/4
+    17.00  Hamarkameratene         v Viking FK                3-3 (0-1)
+           Fredrikstad FK          v KFUM Oslo                0-0
+           Kristiansund BK         v Lillestrøm SK            2-1 (1-1)
+           Sarpsborg 08            v Sandefjord Fotball       2-1 (1-0)
+           Strømsgodset IF         v SK Brann                 2-3 (1-2)
+    19.15  Rosenborg BK            v Tromsø IL                1-0 (0-0)
+
+
+» Matchday 18
+  Wed May/29
+    19.00  SK Brann                v Kristiansund BK          2-1 (1-0)
+           Tromsø IL               v Fredrikstad FK           3-0 (2-0)
+  Fri Aug/9
+    19.00  Sandefjord Fotball      v Strømsgodset IF          2-2 (0-2)
+  Sat Aug/10
+    16.00  FK Haugesund            v Hamarkameratene          0-1 (0-0)
+    18.00  Viking FK               v FK Bodø/Glimt            1-1 (0-0)
+  Sun Aug/11
+    17.00  KFUM Oslo               v Rosenborg BK             1-0 (0-0)
+           Odds BK                 v Sarpsborg 08             1-1 (1-0)
+    19.15  Lillestrøm SK           v Molde FK                 1-2 (1-1)
+
+
+» Matchday 19
+  Wed May/29
+    19.00  FK Bodø/Glimt           v Sandefjord Fotball       1-1 (1-1)
+  Sat Aug/17
+    18.00  Strømsgodset IF         v Lillestrøm SK            3-2 (1-2)
+  Sun Aug/18
+    14.30  Fredrikstad FK          v SK Brann                 0-4 (0-1)
+    17.00  Hamarkameratene         v Odds BK                  1-0 (0-0)
+           KFUM Oslo               v Tromsø IL                0-1 (0-0)
+           Sarpsborg 08            v FK Haugesund             2-2 (1-1)
+    19.15  Rosenborg BK            v Viking FK                2-1 (2-0)
+  Wed Sep/18
+    18.00  Kristiansund BK         v Molde FK                 0-4 (0-2)
+
+
+» Matchday 20
+  Sat Aug/24
+    16.00  FK Bodø/Glimt           v Sarpsborg 08             6-0 (2-0)
+  Sun Aug/25
+    14.30  Lillestrøm SK           v Tromsø IL                0-1 (0-1)
+    17.00  FK Haugesund            v Fredrikstad FK           1-0 (0-0)
+           Molde FK                v Hamarkameratene          3-0 (1-0)
+           Sandefjord Fotball      v Kristiansund BK          1-0 (0-0)
+           Viking FK               v Strømsgodset IF          5-2 (2-1)
+    19.15  Odds BK                 v Rosenborg BK             1-3 (0-1)
+  Wed Sep/18
+    19.00  SK Brann                v KFUM Oslo                2-0 (0-0)
+
+
+» Matchday 21
+  Fri Aug/30
+    19.00  KFUM Oslo               v Lillestrøm SK            2-0 (0-0)
+  Sat Aug/31
+    18.00  Fredrikstad FK          v Odds BK                  2-0 (0-0)
+  Sun Sep/1
+    17.00  Hamarkameratene         v Sandefjord Fotball       1-1 (0-0)
+           Kristiansund BK         v FK Haugesund             2-2 (1-1)
+           Rosenborg BK            v Molde FK                 2-1 (0-1)
+           Strømsgodset IF         v FK Bodø/Glimt            0-1 (0-0)
+           Tromsø IL               v Viking FK                2-2 (2-0)
+    19.15  SK Brann                v Sarpsborg 08             1-3 (0-1)
+
+
+» Matchday 22
+  Fri Sep/13
+    19.00  FK Bodø/Glimt           v Hamarkameratene          3-0 (0-0)
+  Sat Sep/14
+    16.00  Viking FK               v KFUM Oslo                1-0 (1-0)
+    18.00  Molde FK                v Fredrikstad FK           6-1 (3-1)
+  Sun Sep/15
+    14.30  Odds BK                 v Tromsø IL                1-0 (0-0)
+    17.00  FK Haugesund            v Strømsgodset IF          0-0
+           Sandefjord Fotball      v SK Brann                 2-2 (1-1)
+           Sarpsborg 08            v Kristiansund BK          0-2 (0-0)
+    19.15  Lillestrøm SK           v Rosenborg BK             1-1 (1-1)
+
+
+» Matchday 23
+  Sat Sep/21
+    16.00  Strømsgodset IF         v Sarpsborg 08             2-1 (2-1)
+    18.00  Hamarkameratene         v Lillestrøm SK            5-0 (4-0)
+  Sun Sep/22
+    14.30  SK Brann                v FK Bodø/Glimt            4-1 (3-0)
+    17.00  Kristiansund BK         v Odds BK                  0-0
+           Rosenborg BK            v FK Haugesund             4-0 (2-0)
+           Tromsø IL               v Sandefjord Fotball       3-0 (3-0)
+    19.15  Fredrikstad FK          v Viking FK                3-2 (2-0)
+  Mon Sep/23
+    19.00  KFUM Oslo               v Molde FK                 1-1 (0-0)
+
+
+» Matchday 24
+  Sat Sep/28
+    14.00  Molde FK                v Tromsø IL                5-3 (2-0)
+    18.00  FK Haugesund            v SK Brann                 0-1 (0-1)
+    20.00  Sarpsborg 08            v Fredrikstad FK           0-1 (0-0)
+  Sun Sep/29
+    14.30  Strømsgodset IF         v Hamarkameratene          1-1 (1-0)
+    17.00  FK Bodø/Glimt           v Kristiansund BK          4-0 (3-0)
+           Lillestrøm SK           v Viking FK                1-4 (0-1)
+           Odds BK                 v KFUM Oslo                1-3 (1-2)
+    19.15  Sandefjord Fotball      v Rosenborg BK             0-1 (0-0)
+
+
+» Matchday 25
+  Sat Oct/19
+    16.00  Molde FK                v Sandefjord Fotball       0-1 (0-0)
+    18.00  Tromsø IL               v FK Bodø/Glimt            0-0
+  Sun Oct/20
+    14.30  Rosenborg BK            v SK Brann                 1-2 (0-1)
+    17.00  Hamarkameratene         v Sarpsborg 08             0-2 (0-2)
+           KFUM Oslo               v FK Haugesund             0-0
+           Kristiansund BK         v Strømsgodset IF          0-0
+           Viking FK               v Odds BK                  3-3 (1-2)
+    19.15  Fredrikstad FK          v Lillestrøm SK            2-1 (0-0)
+
+
+» Matchday 26
+  Sat Oct/26
+    18.00  Strømsgodset IF         v Fredrikstad FK           2-0 (1-0)
+  Sun Oct/27
+    17.00  Hamarkameratene         v Kristiansund BK          1-0 (0-0)
+           FK Haugesund            v Molde FK                 0-3 (0-1)
+           Lillestrøm SK           v Odds BK                  3-0 (2-0)
+           Sandefjord Fotball      v KFUM Oslo                2-1 (0-1)
+           Sarpsborg 08            v Viking FK                1-2 (1-1)
+    19.15  SK Brann                v Tromsø IL                4-0 (2-0)
+  Mon Oct/28
+    19.00  FK Bodø/Glimt           v Rosenborg BK             2-3 (1-1)
+
+
+» Matchday 27
+  Sat Nov/2
+    18.00  Viking FK               v Sandefjord Fotball       3-2 (2-2)
+  Sun Nov/3
+    17.00  KFUM Oslo               v Sarpsborg 08             1-2 (1-0)
+           Fredrikstad FK          v Kristiansund BK          1-1 (1-0)
+           Lillestrøm SK           v FK Haugesund             0-1 (0-0)
+           Molde FK                v FK Bodø/Glimt            3-3 (2-1)
+           Odds BK                 v SK Brann                 0-3 (0-2)
+           Tromsø IL               v Hamarkameratene          3-3 (1-2)
+    19.15  Rosenborg BK            v Strømsgodset IF          1-0 (0-0)
+
+
+» Matchday 28
+  Sat Nov/9
+    18.00  SK Brann                v Lillestrøm SK            2-1 (1-0)
+  Sun Nov/10
+    17.00  FK Haugesund            v Tromsø IL                2-0 (1-0)
+           Hamarkameratene         v Rosenborg BK             0-2 (0-2)
+           Kristiansund BK         v Viking FK                0-1 (0-1)
+           Sandefjord Fotball      v Odds BK                  1-0 (0-0)
+           Sarpsborg 08            v Molde FK                 2-2 (2-2)
+           Strømsgodset IF         v KFUM Oslo                1-0 (0-0)
+    19.15  FK Bodø/Glimt           v Fredrikstad FK           2-2 (0-1)
+
+
+» Matchday 29
+  Sat Nov/23
+    17.00  Fredrikstad FK          v Hamarkameratene          1-0 (0-0)
+           KFUM Oslo               v Kristiansund BK          1-2 (0-1)
+           Lillestrøm SK           v Sandefjord Fotball       0-3 (0-1)
+           Molde FK                v SK Brann                 2-1 (2-0)
+           Odds BK                 v FK Bodø/Glimt            0-2 (0-1)
+           Rosenborg BK            v Sarpsborg 08             1-1 (0-0)
+           Tromsø IL               v Strømsgodset IF          2-0 (1-0)
+           Viking FK               v FK Haugesund             5-1 (1-1)
+
+
+» Matchday 30
+  Sun Dec/1
+    17.00  SK Brann                v Viking FK                1-1 (0-0)
+           FK Bodø/Glimt           v Lillestrøm SK            5-2 (2-1)
+           FK Haugesund            v Odds BK                  2-1 (0-1)
+           Hamarkameratene         v KFUM Oslo                0-2 (0-1)
+           Kristiansund BK         v Rosenborg BK             0-4 (0-1)
+           Sandefjord Fotball      v Fredrikstad FK           0-1 (0-0)
+           Sarpsborg 08            v Tromsø IL                2-1 (1-0)
+           Strømsgodset IF         v Molde FK                 1-0 (0-0)
