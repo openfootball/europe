@@ -1,4 +1,4 @@
-= Albanian Super League 2023/24
+= Albania Super League 2023/24
 
 # Date       Sat Aug/26 2023 - Sun May/26 2024 (274d)
 # Teams      10
@@ -6,404 +6,390 @@
 # Stages     Regular Season (180)  Playoffs (4)
 
 
-# Regular Season
-
-Matchday 1
-[Sat Aug/26]
-  20.00  FK Vllaznia              3-1 (2-1)  FK Kukësi
-  17.00  Egnatia Rrogozhine       0-1 (0-0)  KF Skënderbeu
-[Sun Aug/27]
-  20.00  FC Dinamo City           2-3 (1-1)  KF Tiranë
-  17.00  KF Laçi                  3-3 (2-1)  Erzeni Shijak
-
-
-Matchday 2
-[Fri Sep/1]
-  19.00  KF Skënderbeu            1-0 (0-0)  FC Dinamo City
-  16.00  Erzeni Shijak            2-2 (1-1)  FK Vllaznia
-[Sat Sep/2]
-  19.00  KF Teuta Durrës          2-2 (2-1)  KF Tiranë
-[Sun Sep/3]
-  16.00  FK Kukësi                0-4 (0-2)  Egnatia Rrogozhine
-  19.00  FK Partizani             1-0 (0-0)  KF Laçi
-
-
-Matchday 3
-[Wed Sep/13]
-  19.00  FC Dinamo City           2-1 (0-0)  FK Kukësi
-  16.00  Egnatia Rrogozhine       4-3 (4-1)  Erzeni Shijak
-[Thu Sep/14]
-  15.00  KF Tiranë                3-1 (1-1)  KF Skënderbeu
-  18.00  FK Vllaznia              0-0  FK Partizani
-[Fri Sep/15]
-  16.00  KF Laçi                  6-1 (2-0)  KF Teuta Durrës
-
-
-Matchday 4
-[Sun Sep/17]
-  16.00  Erzeni Shijak            2-1 (1-0)  FC Dinamo City
-[Mon Sep/18]
-  16.00  FK Kukësi                1-2 (0-0)  KF Tiranë
-  18.30  FK Partizani             1-1 (1-1)  Egnatia Rrogozhine
-[Tue Sep/19]
-  15.00  KF Laçi                  2-1 (1-1)  FK Vllaznia
-         KF Teuta Durrës          1-0 (1-0)  KF Skënderbeu
-
-
-Matchday 5
-[Fri Sep/22]
-  18.00  FC Dinamo City           1-3 (0-0)  FK Partizani
-  15.00  KF Tiranë                0-1 (0-1)  Erzeni Shijak
-[Sat Sep/23]
-  20.15  FK Vllaznia              2-0 (2-0)  KF Teuta Durrës
-  15.00  Egnatia Rrogozhine       2-1 (1-0)  KF Laçi
-  18.00  KF Skënderbeu            0-1 (0-1)  FK Kukësi
-
-
-Matchday 6
-[Wed Sep/27]
-  15.00  Erzeni Shijak            1-2 (0-1)  KF Skënderbeu
-  18.00  FK Vllaznia              0-2 (0-0)  Egnatia Rrogozhine
-  20.15  KF Teuta Durrës          0-0  FK Kukësi
-[Thu Sep/28]
-  15.00  KF Laçi                  0-1 (0-1)  FC Dinamo City
-
-
-Matchday 7
-[Sun Oct/1]
-  16.30  KF Skënderbeu            1-0 (0-0)  FK Partizani
-  14.00  Egnatia Rrogozhine       0-1 (0-0)  KF Teuta Durrës
-[Mon Oct/2]
-  18.00  FC Dinamo City           1-1 (0-0)  FK Vllaznia
-  14.00  FK Kukësi                2-1 (0-1)  Erzeni Shijak
-[Tue Oct/3]
-  14.00  KF Tiranë                0-3 (0-1)  KF Laçi
-
-
-Matchday 8
-[Fri Oct/6]
-  14.00  Egnatia Rrogozhine       3-0 (2-0)  FC Dinamo City
-[Sat Oct/7]
-  14.00  FK Vllaznia              0-1 (0-0)  KF Tiranë
-[Sun Oct/8]
-  18.00  KF Teuta Durrës          0-1 (0-0)  Erzeni Shijak
-  14.00  KF Laçi                  2-0 (1-0)  KF Skënderbeu
-  18.00  FK Partizani             4-3 (3-1)  FK Kukësi
-
-
-Matchday 6
-[Thu Oct/19]
-  19.00  FK Partizani             2-1 (0-0)  KF Tiranë
-
-
-Matchday 9
-[Sat Oct/21]
-  17.00  KF Skënderbeu            0-2 (0-0)  FK Vllaznia
-[Sun Oct/22]
-  14.00  FK Kukësi                1-0 (0-0)  KF Laçi
-  17.00  FC Dinamo City           2-3 (1-0)  KF Teuta Durrës
-[Mon Oct/23]
-  17.00  Erzeni Shijak            1-2 (0-1)  FK Partizani
-  14.00  KF Tiranë                2-3 (2-1)  Egnatia Rrogozhine
-
-
-Matchday 10
-[Fri Oct/27]
-  17.00  Erzeni Shijak            0-0  KF Laçi
-  14.00  FK Kukësi                1-0 (0-0)  FK Vllaznia
-[Sat Oct/28]
-  14.00  KF Tiranë                1-1 (1-0)  FC Dinamo City
-  17.00  KF Teuta Durrës          0-1 (0-0)  FK Partizani
-         KF Skënderbeu            1-1 (0-1)  Egnatia Rrogozhine
-
-
-Matchday 11
-[Tue Oct/31]
-  14.00  Egnatia Rrogozhine       2-1 (1-1)  FK Kukësi
-  17.00  FC Dinamo City           2-1 (2-1)  KF Skënderbeu
-[Wed Nov/1]
-  14.00  KF Tiranë                2-0 (1-0)  KF Teuta Durrës
-         KF Laçi                  0-1 (0-0)  FK Partizani
-  17.00  FK Vllaznia              1-1 (1-0)  Erzeni Shijak
-
-
-Matchday 12
-[Sat Nov/4]
-  17.00  Erzeni Shijak            0-1 (0-0)  Egnatia Rrogozhine
-[Sun Nov/5]
-  13.30  FK Kukësi                0-0  FC Dinamo City
-  17.00  KF Skënderbeu            1-1 (1-1)  KF Tiranë
-         KF Teuta Durrës          1-1 (1-0)  KF Laçi
-[Mon Nov/6]
-  18.00  FK Partizani             4-1 (3-1)  FK Vllaznia
-
-
-Matchday 13
-[Thu Nov/23]
-  13.30  Egnatia Rrogozhine       1-1 (1-1)  FK Partizani
-  20.00  KF Tiranë                3-2 (1-0)  FK Kukësi
-  17.00  FC Dinamo City           1-0 (0-0)  Erzeni Shijak
-[Fri Nov/24]
-  17.00  FK Vllaznia              0-0  KF Laçi
-         KF Skënderbeu            3-1 (2-0)  KF Teuta Durrës
-
-
-Matchday 14
-[Mon Nov/27]
-  13.30  Erzeni Shijak            1-0 (1-0)  KF Tiranë
-  17.00  FK Partizani             0-0  FC Dinamo City
-[Tue Nov/28]
-  13.30  FK Kukësi                2-2 (0-2)  KF Skënderbeu
-         KF Laçi                  0-2 (0-0)  Egnatia Rrogozhine
-  16.00  KF Teuta Durrës          0-1 (0-1)  FK Vllaznia
-
-
-Matchday 15
-[Sat Dec/2]
-  13.30  Egnatia Rrogozhine       3-0 (3-0)  FK Vllaznia
-  17.00  KF Skënderbeu            1-0 (1-0)  Erzeni Shijak
-[Sun Dec/3]
-  13.30  FK Kukësi                0-0  KF Teuta Durrës
-  16.00  FC Dinamo City           2-0 (1-0)  KF Laçi
-  19.00  KF Tiranë                1-1 (1-0)  FK Partizani
-
-
-Matchday 1
-[Thu Dec/7]
-  17.00  FK Partizani             1-1 (0-1)  KF Teuta Durrës
-
-
-Matchday 16
-[Sun Dec/10]
-  13.30  Erzeni Shijak            0-0  FK Kukësi
-  17.00  FK Vllaznia              3-1 (2-1)  FC Dinamo City
-  13.30  KF Laçi                  2-2 (0-2)  KF Tiranë
-[Mon Dec/11]
-  17.00  FK Partizani             1-1 (0-1)  KF Skënderbeu
-         KF Teuta Durrës          2-2 (1-0)  Egnatia Rrogozhine
-
-
-Matchday 17
-[Sat Dec/16]
-  17.00  FC Dinamo City           1-2 (0-1)  Egnatia Rrogozhine
-  13.30  FK Kukësi                1-1 (0-0)  FK Partizani
-[Sun Dec/17]
-  13.30  KF Tiranë                0-1 (0-1)  FK Vllaznia
-         Erzeni Shijak            0-0  KF Teuta Durrës
-  17.00  KF Skënderbeu            0-1 (0-1)  KF Laçi
-
-
-Matchday 18
-[Fri Dec/22]
-  17.00  FK Vllaznia              5-0 (1-0)  KF Skënderbeu
-         KF Teuta Durrës          1-2 (1-2)  FC Dinamo City
-[Sat Dec/23]
-  13.30  KF Laçi                  1-1 (0-1)  FK Kukësi
-[Sun Dec/24]
-  17.00  FK Partizani             1-2 (0-2)  Erzeni Shijak
-  13.30  Egnatia Rrogozhine       0-5 (0-1)  KF Tiranë
-
-
-Matchday 19
-[Fri Jan/12]
-  17.00  FC Dinamo City           2-3 (1-0)  KF Tiranë
-[Sat Jan/13]
-  13.30  Egnatia Rrogozhine       1-0 (0-0)  KF Skënderbeu
-  17.00  FK Partizani             1-0 (1-0)  KF Teuta Durrës
-[Sun Jan/14]
-  17.00  FK Vllaznia              1-0 (1-0)  FK Kukësi
-  13.30  KF Laçi                  0-0  Erzeni Shijak
-
-
-Matchday 20
-[Fri Jan/19]
-  17.00  KF Teuta Durrës          2-2 (0-1)  KF Tiranë
-  13.30  FK Kukësi                1-4 (0-3)  Egnatia Rrogozhine
-[Sat Jan/20]
-  13.30  Erzeni Shijak            0-1 (0-0)  FK Vllaznia
-  17.00  FK Partizani             1-2 (1-0)  KF Laçi
-
-
-Matchday 21
-[Sun Jan/28]
-  13.30  KF Laçi                  1-1 (1-0)  KF Teuta Durrës
-  17.00  FK Vllaznia              1-1 (1-1)  FK Partizani
-         KF Tiranë                3-4 (2-3)  KF Skënderbeu
-[Mon Jan/29]
-  17.00  FC Dinamo City           3-2 (2-0)  FK Kukësi
-  13.30  Egnatia Rrogozhine       3-2 (0-1)  Erzeni Shijak
-
-
-Matchday 22
-[Sat Feb/3]
-  13.30  FK Kukësi                2-3 (2-1)  KF Tiranë
-  16.00  FK Partizani             1-1 (0-0)  Egnatia Rrogozhine
-         KF Teuta Durrës          3-0 (3-0)  KF Skënderbeu
-[Sun Feb/4]
-  13.30  Erzeni Shijak            0-4 (0-2)  FC Dinamo City
-         KF Laçi                  1-1 (1-0)  FK Vllaznia
-
-
-Matchday 23
-[Sat Feb/10]
-  13.30  Egnatia Rrogozhine       0-0  KF Laçi
-  17.00  FK Vllaznia              2-1 (1-0)  KF Teuta Durrës
-         FC Dinamo City           2-1 (0-1)  FK Partizani
-[Sun Feb/11]
-  17.00  KF Skënderbeu            1-0 (1-0)  FK Kukësi
-         KF Tiranë                1-1 (0-0)  Erzeni Shijak
-
-
-Matchday 24
-[Fri Feb/16]
-  19.00  FK Partizani             2-1 (2-1)  KF Tiranë
-  16.00  KF Teuta Durrës          1-0 (0-0)  FK Kukësi
-[Sat Feb/17]
-  13.30  KF Laçi                  1-1 (0-1)  FC Dinamo City
-         Erzeni Shijak            0-3 (0-2)  KF Skënderbeu
-  17.00  FK Vllaznia              2-1 (1-1)  Egnatia Rrogozhine
-
-
-Matchday 20
-[Wed Feb/21]
-  17.00  KF Skënderbeu            0-1 (0-0)  FC Dinamo City
-
-
-Matchday 25
-[Sun Feb/25]
-  13.30  Egnatia Rrogozhine       0-0  KF Teuta Durrës
-         FK Kukësi                1-2 (1-0)  Erzeni Shijak
-  17.00  KF Skënderbeu            1-0 (1-0)  FK Partizani
-[Mon Feb/26]
-  17.00  KF Tiranë                1-1 (0-0)  KF Laçi
-         FC Dinamo City           0-1 (0-1)  FK Vllaznia
-
-
-Matchday 26
-[Fri Mar/1]
-  13.30  KF Laçi                  0-1 (0-0)  KF Skënderbeu
-         Egnatia Rrogozhine       1-1 (0-0)  FC Dinamo City
-  17.00  FK Partizani             3-0 (0-0)  FK Kukësi
-[Sat Mar/2]
-  17.00  KF Teuta Durrës          3-0 (2-0)  Erzeni Shijak
-         FK Vllaznia              3-1 (2-0)  KF Tiranë
-
-
-Matchday 27
-[Sun Mar/10]
-  17.00  KF Tiranë                1-1 (0-0)  Egnatia Rrogozhine
-  14.00  Erzeni Shijak            0-4 (0-2)  FK Partizani
-[Mon Mar/11]
-  14.00  FK Kukësi                1-0 (0-0)  KF Laçi
-  17.00  KF Skënderbeu            0-1 (0-0)  FK Vllaznia
-
-
-Matchday 28
-[Sat Mar/16]
-  14.00  Erzeni Shijak            0-0  KF Laçi
-  17.00  KF Teuta Durrës          1-0 (0-0)  FK Partizani
-         KF Skënderbeu            2-0 (2-0)  Egnatia Rrogozhine
-[Sun Mar/17]
-  17.00  KF Tiranë                3-2 (2-0)  FC Dinamo City
-  14.00  FK Kukësi                2-0 (0-0)  FK Vllaznia
-
-
-Matchday 29
-[Fri Mar/29]
-  15.00  Egnatia Rrogozhine       1-0 (1-0)  FK Kukësi
-  19.00  FK Vllaznia              1-1 (1-1)  Erzeni Shijak
-         KF Tiranë                1-2 (0-1)  KF Teuta Durrës
-[Sat Mar/30]
-  18.00  FC Dinamo City           2-0 (1-0)  KF Skënderbeu
-  15.00  KF Laçi                  1-1 (0-1)  FK Partizani
-
-
-Matchday 27
-[Wed Apr/3]
-  18.00  FC Dinamo City           1-0 (0-0)  KF Teuta Durrës
-
-
-Matchday 30
-[Sun Apr/7]
-  18.00  KF Teuta Durrës          0-1 (0-0)  KF Laçi
-  20.00  FK Partizani             0-0  FK Vllaznia
-  15.00  FK Kukësi                1-1 (0-0)  FC Dinamo City
-[Mon Apr/8]
-  18.00  Erzeni Shijak            1-0 (0-0)  Egnatia Rrogozhine
-         KF Skënderbeu            0-0  KF Tiranë
-
-
-Matchday 31
-[Sat Apr/13]
-  18.00  FK Vllaznia              1-2 (1-0)  KF Laçi
-         KF Skënderbeu            0-1 (0-0)  KF Teuta Durrës
-  15.00  KF Tiranë                1-0 (0-0)  FK Kukësi
-[Sun Apr/14]
-  18.00  FC Dinamo City           2-0 (1-0)  Erzeni Shijak
-  15.00  Egnatia Rrogozhine       2-1 (2-0)  FK Partizani
-
-
-Matchday 32
-[Fri Apr/19]
-  15.00  Erzeni Shijak            0-2 (0-1)  KF Tiranë
-         FK Kukësi                0-2 (0-1)  KF Skënderbeu
-[Sat Apr/20]
-  18.00  KF Teuta Durrës          0-0  FK Vllaznia
-         FK Partizani             2-0 (1-0)  FC Dinamo City
-  15.00  KF Laçi                  1-2 (1-0)  Egnatia Rrogozhine
-
-
-Matchday 33
-[Sat Apr/27]
-  18.00  FC Dinamo City           0-0  KF Laçi
-         KF Skënderbeu            1-0 (1-0)  Erzeni Shijak
-[Sun Apr/28]
-  15.00  FK Kukësi                0-2 (0-1)  KF Teuta Durrës
-  19.00  KF Tiranë                1-2 (1-1)  FK Partizani
-  15.00  Egnatia Rrogozhine       0-1 (0-1)  FK Vllaznia
-
-
-Matchday 34
-[Sat May/4]
-  16.00  FK Vllaznia              1-0 (0-0)  FC Dinamo City
-         KF Laçi                  1-0 (0-0)  KF Tiranë
-         FK Partizani             1-0 (0-0)  KF Skënderbeu
-         Erzeni Shijak            3-3 (1-0)  FK Kukësi
-         KF Teuta Durrës          1-0 (1-0)  Egnatia Rrogozhine
-
-
-Matchday 35
-[Wed May/8]
-  16.00  FK Kukësi                0-1 (0-1)  FK Partizani
-         KF Skënderbeu            1-1 (0-0)  KF Laçi
-         KF Tiranë                0-0  FK Vllaznia
-         FC Dinamo City           0-1 (0-1)  Egnatia Rrogozhine
-         Erzeni Shijak            0-3 (0-1)  KF Teuta Durrës
-
-
-Matchday 36
-[Sat May/11]
-  16.00  KF Teuta Durrës          1-0 (0-0)  FC Dinamo City
-         Egnatia Rrogozhine       0-3 (0-2)  KF Tiranë
-         FK Vllaznia              1-5 (1-2)  KF Skënderbeu
-         KF Laçi                  2-0 (1-0)  FK Kukësi
-         FK Partizani             4-0 (4-0)  Erzeni Shijak
-
-
-== Playoffs
-
-Semifinals
-[Fri May/17]
-  20.00  FK Partizani             1-0 (0-0)  KF Skënderbeu
-[Sun May/19]
-  20.00  Egnatia Rrogozhine       0-0  FK Vllaznia
-
-
-Match for 3rd place
-[Fri May/24]
-  19.00  KF Skënderbeu            3-2 (3-1)  FK Vllaznia
-
-
-Final
-[Sun May/26]
-  19.00  FK Partizani             0-1 (0-1)  Egnatia Rrogozhine
+
+» Matchday 1
+  Sat Aug/26 2023
+    17.00  Egnatia Rrogozhine      v KF Skënderbeu            0-1 (0-0)
+    20.00  FK Vllaznia             v FK Kukësi                3-1 (2-1)
+  Sun Aug/27
+    17.00  KF Laçi                 v Erzeni Shijak            3-3 (2-1)
+    20.00  FC Dinamo City          v KF Tiranë                2-3 (1-1)
+  Thu Dec/7
+    17.00  FK Partizani            v KF Teuta Durrës          1-1 (0-1)
+
+
+» Matchday 2
+  Fri Sep/1
+    16.00  Erzeni Shijak           v FK Vllaznia              2-2 (1-1)
+    19.00  KF Skënderbeu           v FC Dinamo City           1-0 (0-0)
+  Sat Sep/2
+    19.00  KF Teuta Durrës         v KF Tiranë                2-2 (2-1)
+  Sun Sep/3
+    16.00  FK Kukësi               v Egnatia Rrogozhine       0-4 (0-2)
+    19.00  FK Partizani            v KF Laçi                  1-0 (0-0)
+
+
+» Matchday 3
+  Wed Sep/13
+    16.00  Egnatia Rrogozhine      v Erzeni Shijak            4-3 (4-1)
+    19.00  FC Dinamo City          v FK Kukësi                2-1 (0-0)
+  Thu Sep/14
+    15.00  KF Tiranë               v KF Skënderbeu            3-1 (1-1)
+    18.00  FK Vllaznia             v FK Partizani             0-0
+  Fri Sep/15
+    16.00  KF Laçi                 v KF Teuta Durrës          6-1 (2-0)
+
+
+» Matchday 4
+  Sun Sep/17
+    16.00  Erzeni Shijak           v FC Dinamo City           2-1 (1-0)
+  Mon Sep/18
+    16.00  FK Kukësi               v KF Tiranë                1-2 (0-0)
+    18.30  FK Partizani            v Egnatia Rrogozhine       1-1 (1-1)
+  Tue Sep/19
+    15.00  KF Laçi                 v FK Vllaznia              2-1 (1-1)
+           KF Teuta Durrës         v KF Skënderbeu            1-0 (1-0)
+
+
+» Matchday 5
+  Fri Sep/22
+    15.00  KF Tiranë               v Erzeni Shijak            0-1 (0-1)
+    18.00  FC Dinamo City          v FK Partizani             1-3 (0-0)
+  Sat Sep/23
+    15.00  Egnatia Rrogozhine      v KF Laçi                  2-1 (1-0)
+    18.00  KF Skënderbeu           v FK Kukësi                0-1 (0-1)
+    20.15  FK Vllaznia             v KF Teuta Durrës          2-0 (2-0)
+
+
+» Matchday 6
+  Wed Sep/27
+    15.00  Erzeni Shijak           v KF Skënderbeu            1-2 (0-1)
+    18.00  FK Vllaznia             v Egnatia Rrogozhine       0-2 (0-0)
+    20.15  KF Teuta Durrës         v FK Kukësi                0-0
+  Thu Sep/28
+    15.00  KF Laçi                 v FC Dinamo City           0-1 (0-1)
+  Thu Oct/19
+    19.00  FK Partizani            v KF Tiranë                2-1 (0-0)
+
+
+» Matchday 7
+  Sun Oct/1
+    14.00  Egnatia Rrogozhine      v KF Teuta Durrës          0-1 (0-0)
+    16.30  KF Skënderbeu           v FK Partizani             1-0 (0-0)
+  Mon Oct/2
+    14.00  FK Kukësi               v Erzeni Shijak            2-1 (0-1)
+    18.00  FC Dinamo City          v FK Vllaznia              1-1 (0-0)
+  Tue Oct/3
+    14.00  KF Tiranë               v KF Laçi                  0-3 (0-1)
+
+
+» Matchday 8
+  Fri Oct/6
+    14.00  Egnatia Rrogozhine      v FC Dinamo City           3-0 (2-0)
+  Sat Oct/7
+    14.00  FK Vllaznia             v KF Tiranë                0-1 (0-0)
+  Sun Oct/8
+    14.00  KF Laçi                 v KF Skënderbeu            2-0 (1-0)
+    18.00  FK Partizani            v FK Kukësi                4-3 (3-1)
+           KF Teuta Durrës         v Erzeni Shijak            0-1 (0-0)
+
+
+» Matchday 9
+  Sat Oct/21
+    17.00  KF Skënderbeu           v FK Vllaznia              0-2 (0-0)
+  Sun Oct/22
+    14.00  FK Kukësi               v KF Laçi                  1-0 (0-0)
+    17.00  FC Dinamo City          v KF Teuta Durrës          2-3 (1-0)
+  Mon Oct/23
+    14.00  KF Tiranë               v Egnatia Rrogozhine       2-3 (2-1)
+    17.00  Erzeni Shijak           v FK Partizani             1-2 (0-1)
+
+
+» Matchday 10
+  Fri Oct/27
+    14.00  FK Kukësi               v FK Vllaznia              1-0 (0-0)
+    17.00  Erzeni Shijak           v KF Laçi                  0-0
+  Sat Oct/28
+    14.00  KF Tiranë               v FC Dinamo City           1-1 (1-0)
+    17.00  KF Teuta Durrës         v FK Partizani             0-1 (0-0)
+           KF Skënderbeu           v Egnatia Rrogozhine       1-1 (0-1)
+
+
+» Matchday 11
+  Tue Oct/31
+    14.00  Egnatia Rrogozhine      v FK Kukësi                2-1 (1-1)
+    17.00  FC Dinamo City          v KF Skënderbeu            2-1 (2-1)
+  Wed Nov/1
+    14.00  KF Laçi                 v FK Partizani             0-1 (0-0)
+           KF Tiranë               v KF Teuta Durrës          2-0 (1-0)
+    17.00  FK Vllaznia             v Erzeni Shijak            1-1 (1-0)
+
+
+» Matchday 12
+  Sat Nov/4
+    17.00  Erzeni Shijak           v Egnatia Rrogozhine       0-1 (0-0)
+  Sun Nov/5
+    13.30  FK Kukësi               v FC Dinamo City           0-0
+    17.00  KF Teuta Durrës         v KF Laçi                  1-1 (1-0)
+           KF Skënderbeu           v KF Tiranë                1-1 (1-1)
+  Mon Nov/6
+    18.00  FK Partizani            v FK Vllaznia              4-1 (3-1)
+
+
+» Matchday 13
+  Sat Nov/11
+    13.30  Egnatia Rrogozhine      v FK Partizani             1-1 (1-1)
+  Thu Nov/23
+    17.00  FC Dinamo City          v Erzeni Shijak            1-0 (0-0)
+    20.00  KF Tiranë               v FK Kukësi                3-2 (1-0)
+  Fri Nov/24
+    17.00  FK Vllaznia             v KF Laçi                  0-0
+           KF Skënderbeu           v KF Teuta Durrës          3-1 (2-0)
+
+
+» Matchday 14
+  Mon Nov/27
+    13.30  Erzeni Shijak           v KF Tiranë                1-0 (1-0)
+    17.00  FK Partizani            v FC Dinamo City           0-0
+  Tue Nov/28
+    13.30  KF Laçi                 v Egnatia Rrogozhine       0-2 (0-0)
+           FK Kukësi               v KF Skënderbeu            2-2 (0-2)
+    16.00  KF Teuta Durrës         v FK Vllaznia              0-1 (0-1)
+
+
+» Matchday 15
+  Sat Dec/2
+    13.30  Egnatia Rrogozhine      v FK Vllaznia              3-0 (3-0)
+    17.00  KF Skënderbeu           v Erzeni Shijak            1-0 (1-0)
+  Sun Dec/3
+    13.30  FK Kukësi               v KF Teuta Durrës          0-0
+    16.00  FC Dinamo City          v KF Laçi                  2-0 (1-0)
+    19.00  KF Tiranë               v FK Partizani             1-1 (1-0)
+
+
+» Matchday 16
+  Sun Dec/10
+    13.30  KF Laçi                 v KF Tiranë                2-2 (0-2)
+           Erzeni Shijak           v FK Kukësi                0-0
+    17.00  FK Vllaznia             v FC Dinamo City           3-1 (2-1)
+  Mon Dec/11
+    17.00  KF Teuta Durrës         v Egnatia Rrogozhine       2-2 (1-0)
+           FK Partizani            v KF Skënderbeu            1-1 (0-1)
+
+
+» Matchday 17
+  Sat Dec/16
+    13.30  FK Kukësi               v FK Partizani             1-1 (0-0)
+    17.00  FC Dinamo City          v Egnatia Rrogozhine       1-2 (0-1)
+  Sun Dec/17
+    13.30  KF Tiranë               v FK Vllaznia              0-1 (0-1)
+           Erzeni Shijak           v KF Teuta Durrës          0-0
+    17.00  KF Skënderbeu           v KF Laçi                  0-1 (0-1)
+
+
+» Matchday 18
+  Fri Dec/22
+    17.00  KF Teuta Durrës         v FC Dinamo City           1-2 (1-2)
+           FK Vllaznia             v KF Skënderbeu            5-0 (1-0)
+  Sat Dec/23
+    13.30  KF Laçi                 v FK Kukësi                1-1 (0-1)
+  Sun Dec/24
+    13.30  Egnatia Rrogozhine      v KF Tiranë                0-5 (0-1)
+    17.00  FK Partizani            v Erzeni Shijak            1-2 (0-2)
+
+
+» Matchday 19
+  Fri Jan/12 2024
+    17.00  FC Dinamo City          v KF Tiranë                2-3 (1-0)
+  Sat Jan/13
+    13.30  Egnatia Rrogozhine      v KF Skënderbeu            1-0 (0-0)
+    17.00  FK Partizani            v KF Teuta Durrës          1-0 (1-0)
+  Sun Jan/14
+    13.30  KF Laçi                 v Erzeni Shijak            0-0
+    17.00  FK Vllaznia             v FK Kukësi                1-0 (1-0)
+
+
+» Matchday 20
+  Fri Jan/19
+    13.30  FK Kukësi               v Egnatia Rrogozhine       1-4 (0-3)
+    17.00  KF Teuta Durrës         v KF Tiranë                2-2 (0-1)
+  Sat Jan/20
+    13.30  Erzeni Shijak           v FK Vllaznia              0-1 (0-0)
+    17.00  FK Partizani            v KF Laçi                  1-2 (1-0)
+  Wed Feb/21
+    17.00  KF Skënderbeu           v FC Dinamo City           0-1 (0-0)
+
+
+» Matchday 21
+  Sun Jan/28
+    13.30  KF Laçi                 v KF Teuta Durrës          1-1 (1-0)
+    17.00  FK Vllaznia             v FK Partizani             1-1 (1-1)
+           KF Tiranë               v KF Skënderbeu            3-4 (2-3)
+  Mon Jan/29
+    13.30  Egnatia Rrogozhine      v Erzeni Shijak            3-2 (0-1)
+    17.00  FC Dinamo City          v FK Kukësi                3-2 (2-0)
+
+
+» Matchday 22
+  Sat Feb/3
+    13.30  FK Kukësi               v KF Tiranë                2-3 (2-1)
+    16.00  FK Partizani            v Egnatia Rrogozhine       1-1 (0-0)
+           KF Teuta Durrës         v KF Skënderbeu            3-0 (3-0)
+  Sun Feb/4
+    13.30  KF Laçi                 v FK Vllaznia              1-1 (1-0)
+           Erzeni Shijak           v FC Dinamo City           0-4 (0-2)
+
+
+» Matchday 23
+  Sat Feb/10
+    13.30  Egnatia Rrogozhine      v KF Laçi                  0-0
+    17.00  FK Vllaznia             v KF Teuta Durrës          2-1 (1-0)
+           FC Dinamo City          v FK Partizani             2-1 (0-1)
+  Sun Feb/11
+    17.00  KF Tiranë               v Erzeni Shijak            1-1 (0-0)
+           KF Skënderbeu           v FK Kukësi                1-0 (1-0)
+
+
+» Matchday 24
+  Fri Feb/16
+    16.00  KF Teuta Durrës         v FK Kukësi                1-0 (0-0)
+    19.00  FK Partizani            v KF Tiranë                2-1 (2-1)
+  Sat Feb/17
+    13.30  KF Laçi                 v FC Dinamo City           1-1 (0-1)
+           Erzeni Shijak           v KF Skënderbeu            0-3 (0-2)
+    17.00  FK Vllaznia             v Egnatia Rrogozhine       2-1 (1-1)
+
+
+» Matchday 25
+  Sun Feb/25
+    13.30  Egnatia Rrogozhine      v KF Teuta Durrës          0-0
+           FK Kukësi               v Erzeni Shijak            1-2 (1-0)
+    17.00  KF Skënderbeu           v FK Partizani             1-0 (1-0)
+  Mon Feb/26
+    17.00  FC Dinamo City          v FK Vllaznia              0-1 (0-1)
+           KF Tiranë               v KF Laçi                  1-1 (0-0)
+
+
+» Matchday 26
+  Fri Mar/1
+    13.30  KF Laçi                 v KF Skënderbeu            0-1 (0-0)
+           Egnatia Rrogozhine      v FC Dinamo City           1-1 (0-0)
+    17.00  FK Partizani            v FK Kukësi                3-0 (0-0)
+  Sat Mar/2
+    17.00  FK Vllaznia             v KF Tiranë                3-1 (2-0)
+           KF Teuta Durrës         v Erzeni Shijak            3-0 (2-0)
+
+
+» Matchday 27
+  Sun Mar/10
+    14.00  Erzeni Shijak           v FK Partizani             0-4 (0-2)
+    17.00  KF Tiranë               v Egnatia Rrogozhine       1-1 (0-0)
+  Mon Mar/11
+    14.00  FK Kukësi               v KF Laçi                  1-0 (0-0)
+    17.00  KF Skënderbeu           v FK Vllaznia              0-1 (0-0)
+  Wed Apr/3
+    18.00  FC Dinamo City          v KF Teuta Durrës          1-0 (0-0)
+
+
+» Matchday 28
+  Sat Mar/16
+    14.00  Erzeni Shijak           v KF Laçi                  0-0
+    17.00  KF Teuta Durrës         v FK Partizani             1-0 (0-0)
+           KF Skënderbeu           v Egnatia Rrogozhine       2-0 (2-0)
+  Sun Mar/17
+    14.00  FK Kukësi               v FK Vllaznia              2-0 (0-0)
+    17.00  KF Tiranë               v FC Dinamo City           3-2 (2-0)
+
+
+» Matchday 29
+  Fri Mar/29
+    15.00  Egnatia Rrogozhine      v FK Kukësi                1-0 (1-0)
+    19.00  FK Vllaznia             v Erzeni Shijak            1-1 (1-1)
+           KF Tiranë               v KF Teuta Durrës          1-2 (0-1)
+  Sat Mar/30
+    15.00  KF Laçi                 v FK Partizani             1-1 (0-1)
+    18.00  FC Dinamo City          v KF Skënderbeu            2-0 (1-0)
+
+
+» Matchday 30
+  Sun Apr/7
+    15.00  FK Kukësi               v FC Dinamo City           1-1 (0-0)
+    18.00  KF Teuta Durrës         v KF Laçi                  0-1 (0-0)
+    20.00  FK Partizani            v FK Vllaznia              0-0
+  Mon Apr/8
+    18.00  Erzeni Shijak           v Egnatia Rrogozhine       1-0 (0-0)
+           KF Skënderbeu           v KF Tiranë                0-0
+
+
+» Matchday 31
+  Sat Apr/13
+    15.00  KF Tiranë               v FK Kukësi                1-0 (0-0)
+    18.00  FK Vllaznia             v KF Laçi                  1-2 (1-0)
+           KF Skënderbeu           v KF Teuta Durrës          0-1 (0-0)
+  Sun Apr/14
+    15.00  Egnatia Rrogozhine      v FK Partizani             2-1 (2-0)
+    18.00  FC Dinamo City          v Erzeni Shijak            2-0 (1-0)
+
+
+» Matchday 32
+  Fri Apr/19
+    15.00  Erzeni Shijak           v KF Tiranë                0-2 (0-1)
+           FK Kukësi               v KF Skënderbeu            0-2 (0-1)
+  Sat Apr/20
+    15.00  KF Laçi                 v Egnatia Rrogozhine       1-2 (1-0)
+    18.00  KF Teuta Durrës         v FK Vllaznia              0-0
+           FK Partizani            v FC Dinamo City           2-0 (1-0)
+
+
+» Matchday 33
+  Sat Apr/27
+    18.00  FC Dinamo City          v KF Laçi                  0-0
+           KF Skënderbeu           v Erzeni Shijak            1-0 (1-0)
+  Sun Apr/28
+    15.00  Egnatia Rrogozhine      v FK Vllaznia              0-1 (0-1)
+           FK Kukësi               v KF Teuta Durrës          0-2 (0-1)
+    19.00  KF Tiranë               v FK Partizani             1-2 (1-1)
+
+
+» Matchday 34
+  Sat May/4
+    16.00  KF Teuta Durrës         v Egnatia Rrogozhine       1-0 (1-0)
+           FK Vllaznia             v FC Dinamo City           1-0 (0-0)
+           KF Laçi                 v KF Tiranë                1-0 (0-0)
+           FK Partizani            v KF Skënderbeu            1-0 (0-0)
+           Erzeni Shijak           v FK Kukësi                3-3 (1-0)
+
+
+» Matchday 35
+  Wed May/8
+    16.00  FK Kukësi               v FK Partizani             0-1 (0-1)
+           KF Skënderbeu           v KF Laçi                  1-1 (0-0)
+           KF Tiranë               v FK Vllaznia              0-0
+           FC Dinamo City          v Egnatia Rrogozhine       0-1 (0-1)
+           Erzeni Shijak           v KF Teuta Durrës          0-3 (0-1)
+
+
+» Matchday 36
+  Sat May/11
+    16.00  KF Teuta Durrës         v FC Dinamo City           1-0 (0-0)
+           Egnatia Rrogozhine      v KF Tiranë                0-3 (0-2)
+           FK Vllaznia             v KF Skënderbeu            1-5 (1-2)
+           KF Laçi                 v FK Kukësi                2-0 (1-0)
+           FK Partizani            v Erzeni Shijak            4-0 (4-0)
+
+
+» Playoffs, Semifinals
+  Fri May/17
+    20.00  FK Partizani            v KF Skënderbeu            1-0 (0-0)
+  Sun May/19
+    20.00  Egnatia Rrogozhine      v FK Vllaznia              0-0
+
+
+» Playoffs, Match for 3rd place
+  Fri May/24
+    19.00  KF Skënderbeu           v FK Vllaznia              3-2 (3-1)
+
+
+» Playoffs, Final
+  Sun May/26
+    19.00  FK Partizani            v Egnatia Rrogozhine       0-1 (0-1)
