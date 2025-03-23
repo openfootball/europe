@@ -1,0 +1,545 @@
+= Portuguese Segunda Liga 2021/22
+
+# Date       Sat Aug/7 2021 - Sun May/15 2022 (281d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Sat Aug/7 2021
+    10.45  Académico de Viseu      v Casa Pia AC              2-1 (0-1)
+    14.00  Varzim SC               v GD Chaves                2-2 (1-1)
+    18.00  FC Porto B              v CD Trofense              2-2 (0-0)
+    19.30  CD Feirense             v Sporting Covilhã         1-2 (0-0)
+  Sun Aug/8
+    11.00  Estrela Amadora         v CD Mafra                 0-2 (0-1)
+    14.00  Rio Ave FC              v Académica de Coimbra     5-1 (3-0)
+  Mon Aug/9
+    18.00  SL Benfica B            v CD Nacional              5-0 (3-0)
+           UD Vilafranquense       v FC Penafiel              0-1 (0-0)
+  Tue Aug/10
+    18.00  Leixões SC              v SC Farense               3-1 (2-1)
+
+
+» Matchday 2
+  Fri Aug/13
+    18.00  CD Trofense             v Estrela Amadora          0-0
+  Sat Aug/14
+    11.00  Académica de Coimbra    v Varzim SC                1-1 (0-0)
+    14.00  Casa Pia AC             v FC Porto B               2-0 (0-0)
+    18.00  CD Mafra                v CD Feirense              0-1 (0-0)
+  Sun Aug/15
+    11.00  SC Farense              v Rio Ave FC               1-1 (0-0)
+    14.00  FC Penafiel             v SL Benfica B             0-1 (0-1)
+    15.30  CD Nacional             v UD Vilafranquense        4-0 (2-0)
+    19.30  Sporting Covilhã        v Académico de Viseu       2-1 (2-0)
+  Mon Aug/16
+    18.00  GD Chaves               v Leixões SC               1-1 (0-1)
+
+
+» Matchday 3
+  Sat Aug/21
+    11.00  Estrela Amadora         v SC Farense               3-1 (0-1)
+    14.00  FC Penafiel             v Casa Pia AC              1-0 (1-0)
+  Sun Aug/22
+    11.00  Varzim SC               v Rio Ave FC               0-3 (0-1)
+    14.00  Leixões SC              v Académica de Coimbra     2-1 (0-1)
+    15.30  FC Porto B              v CD Nacional              1-1 (1-0)
+    18.00  Académico de Viseu      v CD Mafra                 1-3 (0-2)
+           SL Benfica B            v CD Trofense              2-1 (2-0)
+    19.30  CD Feirense             v GD Chaves                3-1 (3-0)
+  Mon Aug/23
+    18.00  UD Vilafranquense       v Sporting Covilhã         1-1 (0-0)
+
+
+» Matchday 4
+  Thu Aug/26
+    18.00  GD Chaves               v Académico de Viseu       3-0 (1-0)
+  Sat Aug/28
+    11.00  Casa Pia AC             v SL Benfica B             4-2 (2-1)
+    14.00  Rio Ave FC              v Leixões SC               2-1 (1-0)
+    15.30  CD Nacional             v Varzim SC                2-1 (0-1)
+  Sun Aug/29
+    11.00  Sporting Covilhã        v FC Porto B               1-2 (1-1)
+    19.30  SC Farense              v CD Feirense              0-1 (0-1)
+  Mon Aug/30
+    19.00  CD Mafra                v UD Vilafranquense        1-0 (1-0)
+    21.15  CD Trofense             v FC Penafiel              2-1 (1-1)
+  Thu Sep/16
+    20.15  Académica de Coimbra    v Estrela Amadora          2-2 (1-0)
+
+
+» Matchday 5
+  Fri Sep/10
+    20.15  Estrela Amadora         v Rio Ave FC               2-5 (1-2)
+  Sat Sep/11
+    11.00  SL Benfica B            v Sporting Covilhã         0-0
+           CD Feirense             v Académica de Coimbra     1-0 (0-0)
+  Sun Sep/12
+    11.00  FC Penafiel             v CD Nacional              1-0 (1-0)
+           UD Vilafranquense       v GD Chaves                1-1 (0-0)
+    14.00  Leixões SC              v Varzim SC                1-1 (0-1)
+    15.30  FC Porto B              v CD Mafra                 3-1 (2-1)
+           CD Trofense             v Casa Pia AC              0-0
+  Mon Sep/13
+    19.30  Académico de Viseu      v SC Farense               2-2 (0-1)
+
+
+» Matchday 6
+  Fri Sep/17
+    18.00  Sporting Covilhã        v FC Penafiel              0-0
+  Sat Sep/18
+    11.00  Rio Ave FC              v CD Feirense              0-4 (0-2)
+    15.30  CD Mafra                v CD Trofense              0-0
+  Sun Sep/19
+    11.00  CD Nacional             v Casa Pia AC              1-2 (0-0)
+           SC Farense              v SL Benfica B             2-2 (1-2)
+    14.00  GD Chaves               v FC Porto B               4-2 (0-2)
+  Mon Sep/20
+    18.00  Académica de Coimbra    v UD Vilafranquense        1-2 (1-1)
+    19.30  Leixões SC              v Académico de Viseu       1-4 (0-1)
+  Tue Sep/21
+    18.00  Varzim SC               v Estrela Amadora          3-1 (2-0)
+
+
+» Matchday 7
+  Sat Oct/2
+    11.00  Estrela Amadora         v Leixões SC               1-0 (0-0)
+    14.00  Académico de Viseu      v Académica de Coimbra     1-0 (1-0)
+  Sun Oct/3
+    11.00  CD Feirense             v Varzim SC                2-1 (1-1)
+    14.00  SL Benfica B            v GD Chaves                3-1 (0-0)
+           FC Penafiel             v CD Mafra                 2-1 (0-0)
+    15.00  Casa Pia AC             v Sporting Covilhã         4-0 (2-0)
+    15.30  FC Porto B              v Rio Ave FC               1-1 (0-1)
+    19.30  UD Vilafranquense       v SC Farense               2-2 (0-0)
+  Mon Oct/4
+    20.15  CD Trofense             v CD Nacional              0-3 (0-1)
+
+
+» Matchday 8
+  Sun Oct/10
+    11.00  Rio Ave FC              v UD Vilafranquense        2-1 (0-1)
+    14.00  Sporting Covilhã        v CD Nacional              1-1 (1-0)
+    15.30  CD Mafra                v Casa Pia AC              1-1 (1-0)
+    16.30  Leixões SC              v CD Feirense              2-0 (0-0)
+    19.00  GD Chaves               v FC Penafiel              3-1 (0-1)
+    19.30  Estrela Amadora         v Académico de Viseu       4-0 (4-0)
+  Wed Oct/27
+    16.45  Varzim SC               v SL Benfica B             0-2 (0-1)
+  Sat Nov/13
+    11.00  SC Farense              v CD Trofense              2-0 (0-0)
+  Sun Nov/21
+    11.00  Académica de Coimbra    v FC Porto B               1-2 (1-1)
+
+
+» Matchday 9
+  Fri Oct/22
+    18.00  Académico de Viseu      v Varzim SC                1-0 (1-0)
+           UD Vilafranquense       v Leixões SC               1-3 (0-1)
+  Sat Oct/23
+    11.00  FC Penafiel             v Rio Ave FC               1-1 (0-1)
+    14.00  Casa Pia AC             v GD Chaves                1-0 (1-0)
+    15.30  FC Porto B              v SC Farense               0-0
+    18.00  SL Benfica B            v Académica de Coimbra     3-1 (2-1)
+  Sun Oct/24
+    11.00  CD Feirense             v Estrela Amadora          1-2 (0-1)
+    14.00  CD Nacional             v CD Mafra                 1-1 (0-0)
+    19.30  CD Trofense             v Sporting Covilhã         3-0 (2-0)
+
+
+» Matchday 10
+  Fri Oct/29
+    18.00  GD Chaves               v CD Trofense              0-0
+  Sat Oct/30
+    11.00  Leixões SC              v SL Benfica B             1-2 (1-1)
+  Sun Oct/31
+    11.00  Estrela Amadora         v FC Porto B               0-0
+           CD Mafra                v Sporting Covilhã         1-1 (1-0)
+    14.00  Rio Ave FC              v Académico de Viseu       1-2 (0-0)
+    16.00  CD Feirense             v Casa Pia AC              1-1 (1-1)
+    19.30  Varzim SC               v UD Vilafranquense        0-2 (0-1)
+  Mon Nov/1
+    14.00  SC Farense              v FC Penafiel              2-2 (1-2)
+    16.30  Académica de Coimbra    v CD Nacional              1-2 (0-1)
+
+
+» Matchday 11
+  Fri Nov/5
+    18.00  UD Vilafranquense       v Estrela Amadora          2-2 (0-1)
+  Sat Nov/6
+    11.00  CD Trofense             v Rio Ave FC               0-1 (0-1)
+    14.00  Casa Pia AC             v Académica de Coimbra     2-0 (1-0)
+  Sun Nov/7
+    11.00  FC Penafiel             v Leixões SC               1-1 (0-1)
+    14.00  SL Benfica B            v CD Mafra                 1-3 (1-1)
+    15.30  FC Porto B              v Varzim SC                2-2 (1-0)
+    19.30  Sporting Covilhã        v SC Farense               0-0
+  Mon Nov/8
+    18.00  CD Nacional             v GD Chaves                1-1 (0-1)
+    20.15  Académico de Viseu      v CD Feirense              0-2 (0-0)
+
+
+» Matchday 12
+  Fri Nov/26
+    18.00  SC Farense              v Casa Pia AC              0-1 (0-1)
+  Sat Nov/27
+    11.00  GD Chaves               v CD Mafra                 0-1 (0-1)
+    14.00  Varzim SC               v FC Penafiel              0-2 (0-2)
+    15.30  Académico de Viseu      v UD Vilafranquense        0-0
+  Sun Nov/28
+    11.00  CD Feirense             v FC Porto B               3-2 (2-0)
+    14.00  Rio Ave FC              v CD Nacional              1-0 (0-0)
+    15.30  Leixões SC              v CD Trofense              1-2 (1-1)
+    19.30  Académica de Coimbra    v Sporting Covilhã         3-0 (1-0)
+  Mon Nov/29
+    18.00  Estrela Amadora         v SL Benfica B             3-6 (2-3)
+
+
+» Matchday 13
+  Thu Dec/2
+    20.15  Casa Pia AC             v Varzim SC                1-0 (1-0)
+  Sat Dec/4
+    11.00  UD Vilafranquense       v CD Feirense              1-1 (1-1)
+    14.00  CD Nacional             v Estrela Amadora          4-1 (2-0)
+    15.30  FC Porto B              v Leixões SC               1-0 (0-0)
+    18.00  SL Benfica B            v Rio Ave FC               2-0 (1-0)
+  Sun Dec/5
+    11.00  FC Penafiel             v Académica de Coimbra     0-0
+    14.00  Sporting Covilhã        v GD Chaves                0-2 (0-1)
+    15.30  CD Trofense             v Académico de Viseu       1-0 (1-0)
+    20.30  CD Mafra                v SC Farense               0-2 (0-2)
+
+
+» Matchday 14
+  Sat Dec/11
+    11.00  CD Feirense             v FC Penafiel              1-2 (1-0)
+    14.00  Rio Ave FC              v CD Mafra                 1-2 (1-1)
+    15.30  Leixões SC              v Sporting Covilhã         2-1 (0-0)
+  Sun Dec/12
+    11.00  SC Farense              v CD Nacional              2-2 (1-0)
+           UD Vilafranquense       v FC Porto B               2-1 (2-0)
+    14.00  Académica de Coimbra    v GD Chaves                1-2 (1-1)
+    19.30  Varzim SC               v CD Trofense              1-3 (1-2)
+  Mon Dec/13
+    18.00  Estrela Amadora         v Casa Pia AC              1-0 (1-0)
+  Tue Dec/14
+    18.00  Académico de Viseu      v SL Benfica B             0-1 (0-1)
+
+
+» Matchday 15
+  Sat Dec/18
+    11.00  CD Mafra                v Académica de Coimbra     2-2 (1-0)
+    14.00  GD Chaves               v SC Farense               2-1 (2-0)
+    15.30  CD Nacional             v Leixões SC               2-0 (1-0)
+  Sun Dec/19
+    11.00  FC Penafiel             v Estrela Amadora          0-2 (0-0)
+    14.00  Casa Pia AC             v Rio Ave FC               0-1 (0-0)
+    15.30  FC Porto B              v Académico de Viseu       1-0 (0-0)
+  Mon Dec/20
+    16.00  SL Benfica B            v UD Vilafranquense        0-0
+    18.00  Sporting Covilhã        v Varzim SC                1-0 (1-0)
+    20.15  CD Trofense             v CD Feirense              0-1 (0-0)
+
+
+» Matchday 16
+  Thu Dec/23
+    14.30  FC Porto B              v FC Penafiel              3-1 (1-1)
+  Mon Dec/27
+    20.15  Estrela Amadora         v GD Chaves                1-3 (0-2)
+  Tue Dec/28
+    18.00  CD Feirense             v SL Benfica B             2-1 (1-0)
+    20.00  Académica de Coimbra    v CD Trofense              1-1 (0-1)
+  Wed Dec/29
+    15.30  Académico de Viseu      v CD Nacional              1-4 (1-3)
+  Mon Jan/3 2022
+    18.00  UD Vilafranquense       v Casa Pia AC              0-2 (0-1)
+  Wed Feb/2
+    17.00  Rio Ave FC              v Sporting Covilhã         3-1 (1-1)
+    18.00  Leixões SC              v CD Mafra                 2-0 (0-0)
+  Thu Feb/17
+    15.30  Varzim SC               v SC Farense               0-1 (0-1)
+
+
+» Matchday 17
+  Sat Jan/8
+    11.00  CD Mafra                v Varzim SC                0-0
+           FC Penafiel             v Académico de Viseu       0-0
+  Sun Jan/9
+    11.00  Casa Pia AC             v Leixões SC               1-0 (1-0)
+           CD Trofense             v UD Vilafranquense        1-3 (0-2)
+    19.30  Sporting Covilhã        v Estrela Amadora          1-3 (0-3)
+  Mon Jan/10
+    16.00  SL Benfica B            v FC Porto B               1-2 (0-1)
+    18.00  CD Nacional             v CD Feirense              2-1 (1-0)
+  Thu Feb/3
+    20.15  SC Farense              v Académica de Coimbra     3-1 (0-1)
+  Thu Feb/10
+    18.45  GD Chaves               v Rio Ave FC               2-1 (2-0)
+
+
+» Matchday 18
+  Sat Jan/15
+    11.00  Casa Pia AC             v Académico de Viseu       0-1 (0-1)
+    15.30  FC Penafiel             v UD Vilafranquense        4-3 (2-2)
+  Sun Jan/16
+    11.00  CD Nacional             v SL Benfica B             0-3 (0-2)
+  Mon Jan/17
+    18.00  SC Farense              v Leixões SC               0-1 (0-1)
+  Tue Jan/18
+    18.00  CD Mafra                v Estrela Amadora          2-2 (0-1)
+    20.15  Sporting Covilhã        v CD Feirense              2-2 (0-0)
+  Wed Jan/19
+    18.00  Académica de Coimbra    v Rio Ave FC               1-2 (0-1)
+  Wed Feb/2
+    18.00  GD Chaves               v Varzim SC                1-0 (0-0)
+  Thu Feb/3
+    18.00  CD Trofense             v FC Porto B               2-2 (0-2)
+
+
+» Matchday 19
+  Sat Jan/22
+    11.00  UD Vilafranquense       v CD Nacional              4-3 (2-2)
+    15.30  Varzim SC               v Académica de Coimbra     1-0 (0-0)
+  Sun Jan/23
+    11.00  CD Feirense             v CD Mafra                 1-0 (0-0)
+    14.00  FC Porto B              v Casa Pia AC              0-3 (0-0)
+    15.30  Rio Ave FC              v SC Farense               2-1 (2-1)
+    18.00  SL Benfica B            v FC Penafiel              1-0 (0-0)
+    19.30  Estrela Amadora         v CD Trofense              2-0 (2-0)
+  Mon Jan/24
+    15.30  Académico de Viseu      v Sporting Covilhã         1-1 (0-1)
+    20.15  Leixões SC              v GD Chaves                1-1 (1-0)
+
+
+» Matchday 20
+  Fri Jan/28
+    18.00  SC Farense              v Estrela Amadora          3-0 (0-0)
+    20.15  CD Trofense             v SL Benfica B             2-0 (0-0)
+  Sun Jan/30
+    11.00  CD Mafra                v Académico de Viseu       0-0
+           CD Nacional             v FC Porto B               1-0 (1-0)
+    12.45  Rio Ave FC              v Varzim SC                1-1 (1-1)
+    14.00  GD Chaves               v CD Feirense              3-1 (1-0)
+    15.30  Sporting Covilhã        v UD Vilafranquense        1-1 (1-1)
+    17.30  Académica de Coimbra    v Leixões SC               1-0 (0-0)
+  Mon Jan/31
+    17.00  Casa Pia AC             v FC Penafiel              2-0 (1-0)
+
+
+» Matchday 21
+  Fri Feb/4
+    18.00  SL Benfica B            v Casa Pia AC              1-1 (1-1)
+  Sat Feb/5
+    15.00  Académico de Viseu      v GD Chaves                0-2 (0-0)
+  Sun Feb/6
+    11.00  Leixões SC              v Rio Ave FC               2-2 (2-0)
+    14.00  UD Vilafranquense       v CD Mafra                 2-0 (0-0)
+  Mon Feb/7
+    15.30  FC Porto B              v Sporting Covilhã         3-1 (1-1)
+    17.00  FC Penafiel             v CD Trofense              1-0 (0-0)
+  Tue Feb/8
+    15.30  Varzim SC               v CD Nacional              0-0
+    18.00  CD Feirense             v SC Farense               4-1 (1-1)
+    20.15  Estrela Amadora         v Académica de Coimbra     1-3 (1-2)
+
+
+» Matchday 22
+  Fri Feb/11
+    18.00  Casa Pia AC             v CD Trofense              1-0 (1-0)
+  Sat Feb/12
+    11.00  CD Mafra                v FC Porto B               3-2 (2-1)
+    14.00  Académica de Coimbra    v CD Feirense              1-2 (1-1)
+  Sun Feb/13
+    11.00  CD Nacional             v FC Penafiel              3-0 (1-0)
+    14.00  Sporting Covilhã        v SL Benfica B             1-2 (0-1)
+    16.00  Varzim SC               v Leixões SC               1-1 (0-1)
+    19.30  SC Farense              v Académico de Viseu       1-1 (1-1)
+  Mon Feb/14
+    18.00  Rio Ave FC              v Estrela Amadora          1-0 (1-0)
+           GD Chaves               v UD Vilafranquense        1-0 (0-0)
+
+
+» Matchday 23
+  Fri Feb/18
+    18.00  Académico de Viseu      v Leixões SC               1-2 (0-2)
+  Sat Feb/19
+    11.00  UD Vilafranquense       v Académica de Coimbra     2-1 (1-1)
+    14.00  Casa Pia AC             v CD Nacional              1-0 (1-0)
+  Sun Feb/20
+    11.00  FC Penafiel             v Sporting Covilhã         1-1 (1-1)
+    14.00  CD Feirense             v Rio Ave FC               0-0
+    15.30  FC Porto B              v GD Chaves                0-0
+    19.30  CD Trofense             v CD Mafra                 1-3 (0-0)
+  Mon Feb/21
+    18.00  SL Benfica B            v SC Farense               3-0 (2-0)
+    19.00  Estrela Amadora         v Varzim SC                0-0
+
+
+» Matchday 24
+  Fri Feb/25
+    18.00  GD Chaves               v SL Benfica B             1-1 (0-0)
+  Sat Feb/26
+    11.00  Sporting Covilhã        v Casa Pia AC              0-1 (0-0)
+    14.00  CD Mafra                v FC Penafiel              1-1 (0-0)
+  Sun Feb/27
+    11.00  CD Nacional             v CD Trofense              1-1 (0-1)
+    14.00  Rio Ave FC              v FC Porto B               1-0 (0-0)
+    15.30  Leixões SC              v Estrela Amadora          3-0 (2-0)
+           SC Farense              v UD Vilafranquense        1-0 (0-0)
+  Mon Feb/28
+    18.00  Varzim SC               v CD Feirense              0-0
+    19.30  Académica de Coimbra    v Académico de Viseu       1-2 (0-1)
+
+
+» Matchday 25
+  Sat Mar/5
+    11.00  Académico de Viseu      v Estrela Amadora          0-4 (0-3)
+    14.00  CD Nacional             v Sporting Covilhã         1-1 (0-0)
+  Sun Mar/6
+    11.00  CD Feirense             v Leixões SC               0-1 (0-0)
+    14.00  FC Penafiel             v GD Chaves                2-1 (0-1)
+    15.30  FC Porto B              v Académica de Coimbra     3-3 (2-1)
+    18.00  SL Benfica B            v Varzim SC                1-2 (0-2)
+    20.15  CD Trofense             v SC Farense               1-1 (0-0)
+  Mon Mar/7
+    18.00  UD Vilafranquense       v Rio Ave FC               1-2 (0-0)
+  Tue Mar/8
+    20.15  Casa Pia AC             v CD Mafra                 3-1 (3-1)
+
+
+» Matchday 26
+  Fri Mar/11
+    18.00  Académica de Coimbra    v SL Benfica B             3-4 (0-1)
+           Varzim SC               v Académico de Viseu       1-0 (1-0)
+  Sat Mar/12
+    11.00  Estrela Amadora         v CD Feirense              1-2 (1-0)
+    14.00  Rio Ave FC              v FC Penafiel              2-0 (1-0)
+  Sun Mar/13
+    11.00  SC Farense              v FC Porto B               2-0 (0-0)
+    14.00  GD Chaves               v Casa Pia AC              4-1 (1-1)
+           CD Mafra                v CD Nacional              3-2 (1-1)
+    15.30  Sporting Covilhã        v CD Trofense              2-0 (0-0)
+  Mon Mar/14
+    19.30  Leixões SC              v UD Vilafranquense        1-1 (0-0)
+
+
+» Matchday 27
+  Fri Mar/18
+    18.00  Académico de Viseu      v Rio Ave FC               0-1 (0-0)
+  Sat Mar/19
+    11.00  Sporting Covilhã        v CD Mafra                 2-0 (0-0)
+    14.00  FC Penafiel             v SC Farense               1-3 (1-2)
+  Sun Mar/20
+    11.00  CD Nacional             v Académica de Coimbra     3-1 (1-0)
+    14.00  SL Benfica B            v Leixões SC               2-3 (0-2)
+           Casa Pia AC             v CD Feirense              1-1 (1-0)
+    15.30  FC Porto B              v Estrela Amadora          2-2 (2-1)
+    18.00  CD Trofense             v GD Chaves                1-1 (1-0)
+    20.30  UD Vilafranquense       v Varzim SC                0-0
+
+
+» Matchday 28
+  Fri Apr/1
+    18.00  Leixões SC              v FC Penafiel              0-1 (0-0)
+  Sat Apr/2
+    11.00  CD Mafra                v SL Benfica B             2-1 (2-0)
+    14.00  CD Feirense             v Académico de Viseu       2-1 (1-0)
+    20.00  Rio Ave FC              v CD Trofense              1-0 (1-0)
+  Sun Apr/3
+    11.00  Académica de Coimbra    v Casa Pia AC              0-2 (0-1)
+    14.00  GD Chaves               v CD Nacional              2-0 (1-0)
+           SC Farense              v Sporting Covilhã         1-0 (0-0)
+    19.00  Estrela Amadora         v UD Vilafranquense        0-1 (0-1)
+  Mon Apr/4
+    18.00  Varzim SC               v FC Porto B               2-1 (1-1)
+
+
+» Matchday 29
+  Fri Apr/8
+    18.00  FC Penafiel             v Varzim SC                4-1 (0-0)
+  Sat Apr/9
+    11.00  Casa Pia AC             v SC Farense               1-0 (1-0)
+    14.00  SL Benfica B            v Estrela Amadora          0-0
+           CD Mafra                v GD Chaves                0-1 (0-1)
+    15.30  UD Vilafranquense       v Académico de Viseu       2-1 (0-0)
+  Sun Apr/10
+    11.00  Sporting Covilhã        v Académica de Coimbra     2-0 (0-0)
+    14.00  CD Nacional             v Rio Ave FC               2-0 (0-0)
+    15.30  FC Porto B              v CD Feirense              2-1 (0-1)
+    17.00  CD Trofense             v Leixões SC               1-2 (1-0)
+
+
+» Matchday 30
+  Fri Apr/15
+    11.00  GD Chaves               v Sporting Covilhã         1-0 (1-0)
+    14.00  Varzim SC               v Casa Pia AC              1-0 (0-0)
+  Sat Apr/16
+    11.00  Académica de Coimbra    v FC Penafiel              0-0
+           SC Farense              v CD Mafra                 1-0 (1-0)
+    14.00  Leixões SC              v FC Porto B               0-0
+    15.30  Académico de Viseu      v CD Trofense              2-1 (2-0)
+    17.00  Estrela Amadora         v CD Nacional              0-0
+    19.00  CD Feirense             v UD Vilafranquense        1-1 (0-1)
+  Sun Apr/17
+    15.30  Rio Ave FC              v SL Benfica B             2-1 (0-1)
+
+
+» Matchday 31
+  Sat Apr/23
+    11.00  Casa Pia AC             v Estrela Amadora          3-0 (2-0)
+    14.00  GD Chaves               v Académica de Coimbra     3-2 (3-0)
+  Sun Apr/24
+    11.00  FC Penafiel             v CD Feirense              2-0 (1-0)
+    14.00  CD Mafra                v Rio Ave FC               1-1 (1-1)
+    15.30  SL Benfica B            v Académico de Viseu       1-2 (0-2)
+           FC Porto B              v UD Vilafranquense        0-1 (0-1)
+           CD Nacional             v SC Farense               3-2 (1-1)
+    17.00  Sporting Covilhã        v Leixões SC               1-1 (1-0)
+  Mon Apr/25
+    15.30  CD Trofense             v Varzim SC                1-0 (0-0)
+
+
+» Matchday 32
+  Fri Apr/29
+    18.00  Académico de Viseu      v FC Porto B               1-1 (1-0)
+  Sat Apr/30
+    11.00  Académica de Coimbra    v CD Mafra                 0-2 (0-0)
+           SC Farense              v GD Chaves                1-2 (0-1)
+    14.00  Estrela Amadora         v FC Penafiel              0-2 (0-0)
+    15.30  Leixões SC              v CD Nacional              0-1 (0-1)
+    19.15  Varzim SC               v Sporting Covilhã         0-2 (0-0)
+  Sun May/1
+    11.00  UD Vilafranquense       v SL Benfica B             1-2 (1-0)
+    12.45  CD Feirense             v CD Trofense              1-2 (0-2)
+    14.00  Rio Ave FC              v Casa Pia AC              1-0 (1-0)
+
+
+» Matchday 33
+  Sat May/7
+    11.00  CD Mafra                v Leixões SC               0-2 (0-0)
+           FC Penafiel             v FC Porto B               1-2 (0-0)
+    14.00  SL Benfica B            v CD Feirense              1-2 (1-0)
+           Sporting Covilhã        v Rio Ave FC               0-1 (0-0)
+    15.30  Casa Pia AC             v UD Vilafranquense        2-1 (1-0)
+           CD Nacional             v Académico de Viseu       1-2 (0-2)
+  Sun May/8
+    11.00  GD Chaves               v Estrela Amadora          2-2 (2-1)
+    14.00  SC Farense              v Varzim SC                0-1 (0-1)
+    18.00  CD Trofense             v Académica de Coimbra     2-1 (0-0)
+
+
+» Matchday 34
+  Fri May/13
+    15.30  FC Porto B              v SL Benfica B             2-3 (2-1)
+    18.00  Académico de Viseu      v FC Penafiel              1-2 (0-0)
+  Sat May/14
+    11.00  Académica de Coimbra    v SC Farense               0-0
+    15.30  UD Vilafranquense       v CD Trofense              2-4 (0-1)
+  Sun May/15
+    11.00  Rio Ave FC              v GD Chaves                3-0 (1-0)
+           Leixões SC              v Casa Pia AC              1-5 (0-4)
+    15.00  CD Feirense             v CD Nacional              4-1 (2-0)
+    15.30  Estrela Amadora         v Sporting Covilhã         0-1 (0-0)
+           Varzim SC               v CD Mafra                 2-0 (1-0)

@@ -1,0 +1,513 @@
+= Portuguese Segunda Liga 2024/25
+
+# Date       Sat Aug/10 2024 - Sat May/17 2025 (280d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Sat Aug/10 2024
+    11.00  CS Marítimo             v CD Tondela               2-2 (1-2)
+    14.00  CD Mafra                v Paços de Ferreira        0-1 (0-1)
+    15.30  Leixões SC              v SL Benfica B             2-1 (1-1)
+    18.00  Académico de Viseu      v GD Chaves                2-1 (2-0)
+  Sun Aug/11
+    11.00  FC Penafiel             v UD Oliveirense           4-3 (2-3)
+    14.00  União Torreense         v CD Feirense              0-1 (0-0)
+    18.00  FC Porto B              v FC Alverca               1-1 (0-1)
+    20.30  União Leiria            v FC Vizela                0-2 (0-1)
+  Mon Aug/12
+    18.00  FC Felgueiras 1932      v Portimonense SC          0-0
+
+
+» Matchday 2
+  Sat Aug/17
+    11.00  FC Alverca              v FC Felgueiras 1932       1-1 (0-0)
+    14.00  UD Oliveirense          v CD Mafra                 0-0
+    20.30  Portimonense SC         v União Leiria             0-3 (0-1)
+  Sun Aug/18
+    11.00  Paços de Ferreira       v CS Marítimo              1-2 (1-1)
+    14.00  CD Feirense             v Académico de Viseu       2-2 (2-1)
+    15.30  FC Vizela               v FC Penafiel              1-2 (0-1)
+    18.00  GD Chaves               v Leixões SC               0-0
+           SL Benfica B            v União Torreense          2-0 (1-0)
+  Mon Aug/19
+    18.00  CD Tondela              v FC Porto B               2-2 (1-0)
+
+
+» Matchday 3
+  Fri Aug/23
+    18.00  União Leiria            v FC Alverca               1-1 (0-0)
+  Sat Aug/24
+    11.00  FC Felgueiras 1932      v CD Feirense              0-0
+    14.00  União Torreense         v UD Oliveirense           3-0 (1-0)
+    15.30  Leixões SC              v Paços de Ferreira        3-3 (2-2)
+  Sun Aug/25
+    11.00  Académico de Viseu      v FC Porto B               2-0 (2-0)
+    14.00  FC Penafiel             v CD Tondela               2-2 (2-2)
+    15.30  CS Marítimo             v GD Chaves                1-1 (0-0)
+    18.00  CD Mafra                v Portimonense SC          2-2 (0-0)
+           SL Benfica B            v FC Vizela                1-0 (0-0)
+
+
+» Matchday 4
+  Fri Aug/30
+    18.00  FC Alverca              v Académico de Viseu       0-4 (0-3)
+  Sat Aug/31
+    11.00  UD Oliveirense          v Leixões SC               0-1 (0-1)
+    14.00  CD Tondela              v FC Felgueiras 1932       1-1 (0-0)
+    15.30  FC Vizela               v União Torreense          1-2 (0-1)
+  Sun Sep/1
+    11.00  Portimonense SC         v CS Marítimo              5-1 (3-0)
+    14.00  CD Feirense             v SL Benfica B             2-3 (1-2)
+    15.30  Paços de Ferreira       v FC Penafiel              1-3 (1-1)
+    18.00  FC Porto B              v União Leiria             1-1 (1-1)
+           GD Chaves               v CD Mafra                 0-3 (0-1)
+
+
+» Matchday 5
+  Fri Sep/13
+    18.00  União Torreense         v Portimonense SC          3-2 (1-0)
+  Sat Sep/14
+    11.00  FC Felgueiras 1932      v GD Chaves                1-2 (1-1)
+    14.00  Académico de Viseu      v União Leiria             0-1 (0-0)
+  Sun Sep/15
+    11.00  CS Marítimo             v FC Alverca               1-2 (0-2)
+           CD Mafra                v CD Tondela               0-4 (0-1)
+    12.45  FC Penafiel             v FC Porto B               1-1 (0-1)
+    15.30  SL Benfica B            v UD Oliveirense           2-2 (2-1)
+           Leixões SC              v FC Vizela                0-1 (0-0)
+  Mon Sep/16
+    18.00  CD Feirense             v Paços de Ferreira        2-0 (2-0)
+
+
+» Matchday 6
+  Sat Sep/28
+    11.00  GD Chaves               v União Torreense          2-1 (0-1)
+    14.00  Paços de Ferreira       v SL Benfica B             0-3 (0-1)
+    18.00  Portimonense SC         v FC Penafiel              0-2 (0-1)
+    20.30  CD Tondela              v Académico de Viseu       4-1 (3-1)
+  Sun Sep/29
+    11.00  FC Porto B              v FC Felgueiras 1932       0-2 (0-0)
+           UD Oliveirense          v CD Feirense              1-0 (0-0)
+    14.00  FC Alverca              v Leixões SC               1-1 (1-0)
+    15.30  União Leiria            v CS Marítimo              1-1 (0-1)
+  Mon Sep/30
+    18.00  FC Vizela               v CD Mafra                 3-0 (1-0)
+
+
+» Matchday 7
+  Fri Oct/4
+    18.00  União Torreense         v CD Tondela               0-2 (0-1)
+  Sat Oct/5
+    11.00  FC Felgueiras 1932      v Académico de Viseu       1-1 (0-1)
+    14.00  CS Marítimo             v FC Porto B               1-0 (1-0)
+    15.30  UD Oliveirense          v Paços de Ferreira        0-2 (0-2)
+    18.00  Leixões SC              v Portimonense SC          3-0 (3-0)
+  Sun Oct/6
+    11.00  CD Feirense             v FC Vizela                0-0
+    14.00  FC Penafiel             v União Leiria             1-0 (1-0)
+    15.30  CD Mafra                v FC Alverca               1-1 (0-0)
+           SL Benfica B            v GD Chaves                1-0 (0-0)
+
+
+» Matchday 8
+  Fri Oct/11
+    18.00  União Leiria            v FC Felgueiras 1932       1-3 (1-2)
+  Sat Oct/12
+    11.00  CD Tondela              v Leixões SC               2-1 (0-1)
+    14.00  FC Alverca              v FC Penafiel              2-2 (1-1)
+  Sun Oct/13
+    15.30  Académico de Viseu      v CS Marítimo              0-2 (0-0)
+    18.00  Paços de Ferreira       v União Torreense          1-0 (0-0)
+    20.30  GD Chaves               v CD Feirense              0-0
+  Wed Oct/23
+    15.30  FC Porto B              v CD Mafra                 2-1 (0-1)
+  Sat Nov/23
+    11.00  Portimonense SC         v SL Benfica B             0-2 (0-1)
+  Sun Nov/24
+    11.00  FC Vizela               v UD Oliveirense           0-0
+
+
+» Matchday 9
+  Fri Oct/25
+    18.00  Paços de Ferreira       v FC Vizela                1-1 (0-1)
+  Sat Oct/26
+    11.00  FC Penafiel             v Académico de Viseu       0-2 (0-0)
+    14.00  UD Oliveirense          v GD Chaves                0-3 (0-1)
+    15.30  CD Feirense             v Portimonense SC          1-1 (0-1)
+    18.00  SL Benfica B            v CD Tondela               1-3 (1-0)
+  Sun Oct/27
+    11.00  União Torreense         v FC Alverca               1-0 (1-0)
+    14.00  FC Felgueiras 1932      v CS Marítimo              1-3 (1-2)
+    15.30  Leixões SC              v FC Porto B               3-0 (2-0)
+  Mon Oct/28
+    18.00  CD Mafra                v União Leiria             2-1 (1-0)
+
+
+» Matchday 10
+  Fri Nov/1
+    18.00  FC Alverca              v CD Feirense              1-0 (0-0)
+  Sat Nov/2
+    11.00  Portimonense SC         v FC Vizela                1-1 (1-1)
+    14.00  CS Marítimo             v FC Penafiel              1-2 (1-1)
+    15.30  GD Chaves               v Paços de Ferreira        2-1 (1-1)
+  Sun Nov/3
+    11.00  Académico de Viseu      v SL Benfica B             1-1 (1-0)
+    14.00  FC Felgueiras 1932      v CD Mafra                 1-1 (0-0)
+    15.30  União Leiria            v Leixões SC               1-0 (1-0)
+           FC Porto B              v União Torreense          1-1 (1-1)
+  Mon Nov/4
+    18.00  CD Tondela              v UD Oliveirense           2-0 (2-0)
+
+
+» Matchday 11
+  Fri Nov/8
+    18.00  FC Vizela               v GD Chaves                0-1 (0-0)
+  Sat Nov/9
+    11.00  FC Penafiel             v FC Felgueiras 1932       2-1 (0-1)
+    14.00  UD Oliveirense          v Portimonense SC          0-2 (0-1)
+    15.30  CD Mafra                v Académico de Viseu       0-2 (0-1)
+    18.00  CD Feirense             v CD Tondela               1-1 (0-1)
+  Sun Nov/10
+    11.00  Paços de Ferreira       v FC Porto B               2-2 (1-0)
+    14.00  Leixões SC              v CS Marítimo              2-1 (1-0)
+    15.30  SL Benfica B            v FC Alverca               2-1 (1-1)
+           União Torreense         v União Leiria             2-1 (1-1)
+
+
+» Matchday 12
+  Fri Nov/29
+    18.00  Académico de Viseu      v Leixões SC               2-0 (1-0)
+  Sat Nov/30
+    11.00  FC Felgueiras 1932      v União Torreense          1-2 (1-1)
+    14.00  União Leiria            v CD Feirense              1-0 (0-0)
+    15.30  Portimonense SC         v GD Chaves                1-2 (1-1)
+    18.00  FC Alverca              v FC Vizela                4-2 (4-1)
+  Sun Dec/1
+    11.00  FC Penafiel             v CD Mafra                 1-1 (1-1)
+    14.00  CD Tondela              v Paços de Ferreira        2-1 (1-1)
+    15.30  CS Marítimo             v SL Benfica B             1-1 (0-1)
+           FC Porto B              v UD Oliveirense           2-1 (1-0)
+
+
+» Matchday 13
+  Sat Dec/7
+    11.00  CD Feirense             v FC Penafiel              3-0 (1-0)
+    14.00  União Torreense         v Académico de Viseu       1-0 (1-0)
+           SL Benfica B            v União Leiria             0-5 (0-3)
+    15.30  Leixões SC              v FC Felgueiras 1932       2-2 (0-1)
+  Sun Dec/8
+    11.00  Paços de Ferreira       v Portimonense SC          0-1 (0-0)
+    14.00  UD Oliveirense          v FC Alverca               1-4 (1-3)
+    15.30  CD Mafra                v CS Marítimo              2-3 (1-1)
+    18.00  GD Chaves               v FC Porto B               2-1 (2-0)
+    20.30  FC Vizela               v CD Tondela               1-1 (0-0)
+
+
+» Matchday 14
+  Sat Dec/14
+    11.00  União Leiria            v Paços de Ferreira        0-1 (0-1)
+    12.45  FC Alverca              v GD Chaves                3-1 (1-1)
+    14.00  FC Penafiel             v Leixões SC               3-1 (2-0)
+    15.30  CD Mafra                v SL Benfica B             2-0 (2-0)
+  Sun Dec/15
+    11.00  FC Felgueiras 1932      v FC Vizela                2-1 (0-1)
+    14.00  CD Tondela              v Portimonense SC          2-0 (2-0)
+    15.30  FC Porto B              v CD Feirense              0-0
+           CS Marítimo             v União Torreense          0-3 (0-0)
+  Mon Dec/16
+    18.00  Académico de Viseu      v UD Oliveirense           2-1 (1-0)
+
+
+» Matchday 15
+  Sat Nov/23
+    15.30  CD Feirense             v CS Marítimo              1-0 (0-0)
+  Fri Dec/20
+    18.00  Leixões SC              v CD Mafra                 2-1 (0-1)
+  Sat Dec/21
+    11.00  FC Vizela               v FC Porto B               2-1 (1-0)
+    14.00  Portimonense SC         v Académico de Viseu       1-1 (0-1)
+    15.30  GD Chaves               v CD Tondela               2-2 (1-1)
+  Sun Dec/22
+    11.00  Paços de Ferreira       v FC Alverca               1-3 (1-2)
+    14.00  UD Oliveirense          v União Leiria             1-2 (0-1)
+    15.30  União Torreense         v FC Penafiel              0-1 (0-0)
+    18.00  SL Benfica B            v FC Felgueiras 1932       2-0 (1-0)
+
+
+» Matchday 16
+  Sun Dec/29
+    11.00  FC Penafiel             v SL Benfica B             1-1 (1-1)
+    14.00  CD Mafra                v CD Feirense              0-0
+    15.30  CS Marítimo             v UD Oliveirense           1-2 (0-1)
+  Sun Jan/12 2025
+    11.00  Académico de Viseu      v FC Vizela                0-0
+           FC Felgueiras 1932      v Paços de Ferreira        1-0 (1-0)
+    12.45  FC Porto B              v Portimonense SC          1-2 (1-1)
+    18.00  União Leiria            v GD Chaves                1-1 (1-0)
+           Leixões SC              v União Torreense          1-1 (0-0)
+    20.30  FC Alverca              v CD Tondela               1-1 (0-1)
+
+
+» Matchday 17
+  Sat Jan/4
+    11.00  Portimonense SC         v FC Alverca               1-0 (0-0)
+    14.00  GD Chaves               v FC Penafiel              0-1 (0-1)
+    15.30  CD Feirense             v Leixões SC               1-0 (0-0)
+    18.00  CD Tondela              v União Leiria             1-4 (0-2)
+  Sun Jan/5
+    11.00  UD Oliveirense          v FC Felgueiras 1932       0-3 (0-2)
+    14.00  União Torreense         v CD Mafra                 1-0 (0-0)
+    15.30  FC Vizela               v CS Marítimo              3-2 (1-2)
+    18.00  Paços de Ferreira       v Académico de Viseu       4-3 (2-2)
+  Mon Jan/6
+    18.00  SL Benfica B            v FC Porto B               2-1 (2-0)
+
+
+» Matchday 18
+  Fri Jan/17
+    18.00  SL Benfica B            v Leixões SC               4-0 (2-0)
+    20.15  GD Chaves               v Académico de Viseu       3-0 (1-0)
+  Sat Jan/18
+    11.00  FC Alverca              v FC Porto B               2-0 (0-0)
+    14.00  Portimonense SC         v FC Felgueiras 1932       3-2 (1-1)
+    15.30  CD Feirense             v União Torreense          1-1 (1-1)
+  Sun Jan/19
+    11.00  FC Vizela               v União Leiria             1-0 (0-0)
+    14.00  Paços de Ferreira       v CD Mafra                 2-1 (1-0)
+    15.30  CD Tondela              v CS Marítimo              0-0
+  Mon Jan/20
+    18.00  UD Oliveirense          v FC Penafiel              2-2 (1-0)
+
+
+» Matchday 19
+  Fri Jan/24
+    18.00  Académico de Viseu      v CD Feirense              2-1 (1-1)
+  Sat Jan/25
+    11.00  FC Felgueiras 1932      v FC Alverca               0-1 (0-1)
+    14.00  Leixões SC              v GD Chaves                0-0
+    15.30  CS Marítimo             v Paços de Ferreira        2-2 (2-1)
+  Sun Jan/26
+    11.00  FC Penafiel             v FC Vizela                1-1 (1-0)
+    14.00  CD Mafra                v UD Oliveirense           0-0
+    15.30  FC Porto B              v CD Tondela               2-2 (1-2)
+           União Leiria            v Portimonense SC          1-0 (0-0)
+  Mon Jan/27
+    18.00  União Torreense         v SL Benfica B             1-1 (1-0)
+
+
+» Matchday 20
+  Fri Jan/31
+    18.00  Paços de Ferreira       v Leixões SC               0-0
+  Sat Feb/1
+    11.00  CD Feirense             v FC Felgueiras 1932       3-2 (2-1)
+    14.00  CD Tondela              v FC Penafiel              2-0 (0-0)
+    15.30  FC Vizela               v SL Benfica B             1-0 (0-0)
+           FC Porto B              v Académico de Viseu       3-2 (2-1)
+    18.00  Portimonense SC         v CD Mafra                 2-0 (1-0)
+  Sun Feb/2
+    11.00  UD Oliveirense          v União Torreense          0-0
+    14.00  GD Chaves               v CS Marítimo              1-1 (0-0)
+    15.30  FC Alverca              v União Leiria             2-1 (1-0)
+
+
+» Matchday 21
+  Fri Feb/7
+    18.00  SL Benfica B            v CD Feirense              0-1 (0-0)
+  Sat Feb/8
+    11.00  Leixões SC              v UD Oliveirense           1-2 (0-2)
+    14.00  FC Felgueiras 1932      v CD Tondela               1-0 (0-0)
+    15.30  CS Marítimo             v Portimonense SC          2-0 (1-0)
+    18.00  FC Penafiel             v Paços de Ferreira        1-2 (1-2)
+  Sun Feb/9
+    11.00  CD Mafra                v GD Chaves                0-0
+    14.00  Académico de Viseu      v FC Alverca               2-2 (2-1)
+    15.30  União Leiria            v FC Porto B               0-0
+  Mon Feb/10
+    18.00  União Torreense         v FC Vizela                2-4 (0-0)
+
+
+» Matchday 22
+  Sat Feb/15
+    11.00  GD Chaves               v FC Felgueiras 1932       2-0 (0-0)
+    14.00  Paços de Ferreira       v CD Feirense              1-2 (0-2)
+    15.30  CD Tondela              v CD Mafra                 1-0 (0-0)
+  Sun Feb/16
+    11.00  UD Oliveirense          v SL Benfica B             3-2 (2-2)
+           FC Vizela               v Leixões SC               0-0
+    14.00  Portimonense SC         v União Torreense          1-2 (0-0)
+    15.30  FC Porto B              v FC Penafiel              3-2 (0-0)
+    17.00  FC Alverca              v CS Marítimo              5-0 (3-0)
+  Mon Feb/17
+    18.00  União Leiria            v Académico de Viseu       1-1 (0-1)
+
+
+» Matchday 23
+  Fri Feb/21
+    18.00  FC Penafiel             v Portimonense SC          3-0 (3-0)
+  Sat Feb/22
+    11.00  FC Felgueiras 1932      v FC Porto B               1-0 (1-0)
+    14.00  CD Mafra                v FC Vizela                1-4 (0-3)
+           SL Benfica B            v Paços de Ferreira        0-0
+    15.30  CS Marítimo             v União Leiria             1-2 (0-0)
+    18.00  CD Feirense             v UD Oliveirense           3-1 (1-0)
+  Sun Feb/23
+    11.00  União Torreense         v GD Chaves                1-2 (0-2)
+    14.00  Leixões SC              v FC Alverca               1-1 (1-0)
+    15.30  Académico de Viseu      v CD Tondela               1-1 (1-0)
+
+
+» Matchday 24
+  Fri Feb/28
+    20.15  GD Chaves               v SL Benfica B             1-2 (1-0)
+  Sat Mar/1
+    11.00  Académico de Viseu      v FC Felgueiras 1932       0-0
+    14.00  FC Alverca              v CD Mafra                 2-0 (1-0)
+    15.30  CD Tondela              v União Torreense          2-2 (1-0)
+  Sun Mar/2
+    11.00  Portimonense SC         v Leixões SC               2-1 (0-1)
+    14.00  União Leiria            v FC Penafiel              1-0 (1-0)
+           FC Porto B              v CS Marítimo              0-1 (0-0)
+    18.00  FC Vizela               v CD Feirense              5-0 (3-0)
+  Mon Mar/3
+    18.00  Paços de Ferreira       v UD Oliveirense           0-1 (0-0)
+
+
+» Matchday 25
+  Fri Mar/7
+    18.00  CD Feirense             v GD Chaves                0-1 (0-1)
+  Sat Mar/8
+    11.00  FC Penafiel             v FC Alverca               3-2 (2-2)
+    14.00  FC Felgueiras 1932      v União Leiria             2-2 (0-1)
+    15.30  União Torreense         v Paços de Ferreira        3-0 (2-0)
+  Sun Mar/9
+    11.00  CD Mafra                v FC Porto B               0-0
+    14.00  CS Marítimo             v Académico de Viseu       1-1 (0-0)
+    15.30  UD Oliveirense          v FC Vizela                0-1 (0-0)
+    18.00  SL Benfica B            v Portimonense SC          0-0
+  Mon Mar/10
+    18.00  Leixões SC              v CD Tondela               0-1 (0-1)
+
+
+» Matchday 26
+  Fri Mar/14
+    18.45  Portimonense SC         v CD Feirense              1-2 (1-1)
+    20.45  FC Alverca              v União Torreense          2-2 (2-1)
+  Sat Mar/15
+    11.00  Académico de Viseu      v FC Penafiel              1-0 (1-0)
+    14.00  CS Marítimo             v FC Felgueiras 1932       0-0
+    15.30  GD Chaves               v UD Oliveirense           4-0 (1-0)
+  Sun Mar/16
+    11.00  CD Tondela              v SL Benfica B             2-1 (1-0)
+    14.00  União Leiria            v CD Mafra                 3-1 (1-1)
+    15.30  FC Porto B              v Leixões SC               0-1 (0-1)
+    20.30  FC Vizela               v Paços de Ferreira        2-1 (1-0)
+
+
+» Matchday 27
+  Sat Mar/29
+    11.00  UD Oliveirense          v CD Tondela
+    14.00  FC Penafiel             v CS Marítimo
+    15.30  FC Vizela               v Portimonense SC
+  Sun Mar/30
+    11.00  Leixões SC              v União Leiria
+    12.45  União Torreense         v FC Porto B
+    14.00  Paços de Ferreira       v GD Chaves
+    18.00  CD Feirense             v FC Alverca
+  Mon Mar/31
+    18.00  SL Benfica B            v Académico de Viseu
+    20.15  CD Mafra                v FC Felgueiras 1932
+
+
+» Matchday 28
+  Sat Apr/5
+    11.00  CD Tondela              v CD Feirense
+    14.00  FC Felgueiras 1932      v FC Penafiel
+    15.30  CS Marítimo             v Leixões SC
+    18.00  GD Chaves               v FC Vizela
+  Sun Apr/6
+    11.00  União Leiria            v União Torreense
+           FC Porto B              v Paços de Ferreira
+    14.00  Académico de Viseu      v CD Mafra
+    15.30  Portimonense SC         v UD Oliveirense
+    18.00  FC Alverca              v SL Benfica B
+
+
+» Matchday 29
+  Sun Apr/13
+           GD Chaves               v Portimonense SC
+           SL Benfica B            v CS Marítimo
+           UD Oliveirense          v FC Porto B
+           Paços de Ferreira       v CD Tondela
+           CD Mafra                v FC Penafiel
+           Leixões SC              v Académico de Viseu
+           União Torreense         v FC Felgueiras 1932
+           FC Vizela               v FC Alverca
+           CD Feirense             v União Leiria
+
+
+» Matchday 30
+  Sat Apr/19
+           Académico de Viseu      v União Torreense
+           CD Tondela              v FC Vizela
+           FC Felgueiras 1932      v Leixões SC
+           União Leiria            v SL Benfica B
+           FC Alverca              v UD Oliveirense
+           FC Porto B              v GD Chaves
+           CS Marítimo             v CD Mafra
+           FC Penafiel             v CD Feirense
+           Portimonense SC         v Paços de Ferreira
+
+
+» Matchday 31
+  Sun Apr/27
+           Leixões SC              v FC Penafiel
+           Portimonense SC         v CD Tondela
+           SL Benfica B            v CD Mafra
+           CD Feirense             v FC Porto B
+           Paços de Ferreira       v União Leiria
+           UD Oliveirense          v Académico de Viseu
+           FC Vizela               v FC Felgueiras 1932
+           GD Chaves               v FC Alverca
+           União Torreense         v CS Marítimo
+
+
+» Matchday 32
+  Sun May/4
+           FC Alverca              v Paços de Ferreira
+           FC Porto B              v FC Vizela
+           União Leiria            v UD Oliveirense
+           Académico de Viseu      v Portimonense SC
+           FC Penafiel             v União Torreense
+           FC Felgueiras 1932      v SL Benfica B
+           CD Tondela              v GD Chaves
+           CS Marítimo             v CD Feirense
+           CD Mafra                v Leixões SC
+
+
+» Matchday 33
+  Sun May/11
+           UD Oliveirense          v CS Marítimo
+           GD Chaves               v União Leiria
+           SL Benfica B            v FC Penafiel
+           União Torreense         v Leixões SC
+           CD Feirense             v CD Mafra
+           Portimonense SC         v FC Porto B
+           CD Tondela              v FC Alverca
+           FC Vizela               v Académico de Viseu
+           Paços de Ferreira       v FC Felgueiras 1932
+
+
+» Matchday 34
+  Sat May/17
+           CD Mafra                v União Torreense
+           FC Felgueiras 1932      v UD Oliveirense
+           CS Marítimo             v FC Vizela
+           FC Alverca              v Portimonense SC
+           União Leiria            v CD Tondela
+           Académico de Viseu      v Paços de Ferreira
+           FC Penafiel             v GD Chaves
+           Leixões SC              v CD Feirense
+           FC Porto B              v SL Benfica B

@@ -1,0 +1,251 @@
+= Iceland Urvalsdeild 2025
+
+# Date       Sat Apr/5 - Sun Sep/14 2025 (162d)
+# Teams      12
+# Matches    132
+
+
+
+» Matchday 1
+  Sat Apr/5 2025
+    19.15  Breiðablik              v Afturelding
+  Sun Apr/6
+    14.00  Valur Reykjavík         v IF Vestri
+    16.15  KA Akureyri             v KR Reykjavík
+    19.15  Fram Reykjavík          v ÍA Akranes
+  Mon Apr/7
+    18.00  Víkingur Reykjavík      v ÍBV Vestmannaeyjar
+    19.15  UMF Stjarnan            v FH Hafnarfjörður
+
+
+» Matchday 2
+  Sun Apr/13
+    14.00  IF Vestri               v FH Hafnarfjörður
+    17.00  Afturelding             v ÍBV Vestmannaeyjar
+    19.15  Víkingur Reykjavík      v KA Akureyri
+           Fram Reykjavík          v Breiðablik
+  Mon Apr/14
+    19.15  UMF Stjarnan            v ÍA Akranes
+           KR Reykjavík            v Valur Reykjavík
+
+
+» Matchday 3
+  Wed Apr/23
+    18.00  FH Hafnarfjörður        v KR Reykjavík
+           ÍA Akranes              v IF Vestri
+    19.15  Valur Reykjavík         v KA Akureyri
+           Breiðablik              v UMF Stjarnan
+  Thu Apr/24
+    17.00  ÍBV Vestmannaeyjar      v Fram Reykjavík
+    19.15  Afturelding             v Víkingur Reykjavík
+
+
+» Matchday 4
+  Sun Apr/27
+    14.00  IF Vestri               v Breiðablik
+    17.00  KA Akureyri             v FH Hafnarfjörður
+    19.15  KR Reykjavík            v ÍA Akranes
+  Mon Apr/28
+    18.00  UMF Stjarnan            v ÍBV Vestmannaeyjar
+    19.15  Fram Reykjavík          v Afturelding
+           Víkingur Reykjavík      v Valur Reykjavík
+
+
+» Matchday 5
+  Sun May/4
+    14.00  ÍBV Vestmannaeyjar      v IF Vestri
+    17.00  ÍA Akranes              v KA Akureyri
+    19.15  FH Hafnarfjörður        v Valur Reykjavík
+           Fram Reykjavík          v Víkingur Reykjavík
+  Mon May/5
+    19.15  Afturelding             v UMF Stjarnan
+           Breiðablik              v KR Reykjavík
+
+
+» Matchday 6
+  Sat May/10
+    14.00  IF Vestri               v Afturelding
+    17.00  KR Reykjavík            v ÍBV Vestmannaeyjar
+    19.15  Valur Reykjavík         v ÍA Akranes
+  Sun May/11
+    19.15  KA Akureyri             v Breiðablik
+           UMF Stjarnan            v Fram Reykjavík
+           Víkingur Reykjavík      v FH Hafnarfjörður
+
+
+» Matchday 7
+  Sun May/18
+    14.00  Fram Reykjavík          v IF Vestri
+    17.00  ÍBV Vestmannaeyjar      v KA Akureyri
+    19.15  UMF Stjarnan            v Víkingur Reykjavík
+           Afturelding             v KR Reykjavík
+  Mon May/19
+    19.15  Breiðablik              v Valur Reykjavík
+           ÍA Akranes              v FH Hafnarfjörður
+
+
+» Matchday 8
+  Sat May/24
+    14.00  IF Vestri               v UMF Stjarnan
+    17.00  KA Akureyri             v Afturelding
+           Valur Reykjavík         v ÍBV Vestmannaeyjar
+    19.15  Víkingur Reykjavík      v ÍA Akranes
+  Sun May/25
+    19.15  KR Reykjavík            v Fram Reykjavík
+           FH Hafnarfjörður        v Breiðablik
+
+
+» Matchday 9
+  Wed May/28
+    19.15  Afturelding             v Valur Reykjavík
+  Thu May/29
+    14.00  IF Vestri               v Víkingur Reykjavík
+    17.00  ÍBV Vestmannaeyjar      v FH Hafnarfjörður
+           Fram Reykjavík          v KA Akureyri
+    19.15  UMF Stjarnan            v KR Reykjavík
+           Breiðablik              v ÍA Akranes
+
+
+» Matchday 10
+  Sun Jun/1
+    14.00  KR Reykjavík            v IF Vestri
+    17.00  ÍA Akranes              v ÍBV Vestmannaeyjar
+           KA Akureyri             v UMF Stjarnan
+    19.15  Valur Reykjavík         v Fram Reykjavík
+           Breiðablik              v Víkingur Reykjavík
+           FH Hafnarfjörður        v Afturelding
+
+
+» Matchday 11
+  Sun Jun/15
+    14.00  IF Vestri               v KA Akureyri
+    17.00  ÍBV Vestmannaeyjar      v Breiðablik
+    19.15  Fram Reykjavík          v FH Hafnarfjörður
+           Víkingur Reykjavík      v KR Reykjavík
+           Afturelding             v ÍA Akranes
+  Mon Jun/16
+    19.15  UMF Stjarnan            v Valur Reykjavík
+
+
+» Matchday 12
+  Sun Jun/22
+    14.00  FH Hafnarfjörður        v IF Vestri
+    17.00  KA Akureyri             v Víkingur Reykjavík
+    19.15  ÍA Akranes              v UMF Stjarnan
+           Breiðablik              v Fram Reykjavík
+  Mon Jun/23
+    18.00  ÍBV Vestmannaeyjar      v Afturelding
+    19.15  Valur Reykjavík         v KR Reykjavík
+
+
+» Matchday 13
+  Thu Jun/26
+    19.15  UMF Stjarnan            v Breiðablik
+  Sat Jun/28
+    17.00  KA Akureyri             v Valur Reykjavík
+  Sun Jun/29
+    17.00  Fram Reykjavík          v ÍBV Vestmannaeyjar
+           IF Vestri               v ÍA Akranes
+    19.15  Víkingur Reykjavík      v Afturelding
+           KR Reykjavík            v FH Hafnarfjörður
+
+
+» Matchday 14
+  Thu Jul/3
+    19.15  Afturelding             v Breiðablik
+  Sat Jul/5
+    14.00  IF Vestri               v Valur Reykjavík
+           ÍA Akranes              v Fram Reykjavík
+           ÍBV Vestmannaeyjar      v Víkingur Reykjavík
+  Sun Jul/6
+    16.00  KR Reykjavík            v KA Akureyri
+  Mon Jul/7
+    19.15  FH Hafnarfjörður        v UMF Stjarnan
+
+
+» Matchday 15
+  Mon Jul/14
+    18.00  ÍBV Vestmannaeyjar      v UMF Stjarnan
+    19.15  Afturelding             v Fram Reykjavík
+           ÍA Akranes              v KR Reykjavík
+  Sat Jul/19
+    14.00  Breiðablik              v IF Vestri
+  Sun Jul/20
+    17.00  FH Hafnarfjörður        v KA Akureyri
+    19.15  Valur Reykjavík         v Víkingur Reykjavík
+
+
+» Matchday 16
+  Sun Jul/27
+    14.00  IF Vestri               v ÍBV Vestmannaeyjar
+    19.15  KR Reykjavík            v Breiðablik
+           Valur Reykjavík         v FH Hafnarfjörður
+           KA Akureyri             v ÍA Akranes
+           Víkingur Reykjavík      v Fram Reykjavík
+  Mon Jul/28
+    19.15  UMF Stjarnan            v Afturelding
+
+
+» Matchday 17
+  Sat Aug/2
+    14.00  ÍBV Vestmannaeyjar      v KR Reykjavík
+  Tue Aug/5
+    19.15  FH Hafnarfjörður        v Víkingur Reykjavík
+           ÍA Akranes              v Valur Reykjavík
+           Breiðablik              v KA Akureyri
+  Wed Aug/6
+    18.00  Afturelding             v IF Vestri
+    19.15  Fram Reykjavík          v UMF Stjarnan
+
+
+» Matchday 18
+  Sun Aug/10
+    14.00  KA Akureyri             v ÍBV Vestmannaeyjar
+           IF Vestri               v Fram Reykjavík
+    19.15  Víkingur Reykjavík      v UMF Stjarnan
+           Valur Reykjavík         v Breiðablik
+  Mon Aug/11
+    19.15  KR Reykjavík            v Afturelding
+           FH Hafnarfjörður        v ÍA Akranes
+
+
+» Matchday 19
+  Sun Aug/17
+    14.00  UMF Stjarnan            v IF Vestri
+           ÍBV Vestmannaeyjar      v Valur Reykjavík
+    17.00  Afturelding             v KA Akureyri
+    18.00  ÍA Akranes              v Víkingur Reykjavík
+    19.15  Breiðablik              v FH Hafnarfjörður
+  Mon Aug/18
+    19.15  Fram Reykjavík          v KR Reykjavík
+
+
+» Matchday 20
+  Sun Aug/24
+    14.00  Víkingur Reykjavík      v IF Vestri
+    17.00  KA Akureyri             v Fram Reykjavík
+           ÍA Akranes              v Breiðablik
+    18.00  FH Hafnarfjörður        v ÍBV Vestmannaeyjar
+  Mon Aug/25
+    18.00  KR Reykjavík            v UMF Stjarnan
+    19.15  Valur Reykjavík         v Afturelding
+
+
+» Matchday 21
+  Sun Aug/31
+    14.00  IF Vestri               v KR Reykjavík
+           ÍBV Vestmannaeyjar      v ÍA Akranes
+    17.00  Afturelding             v FH Hafnarfjörður
+           UMF Stjarnan            v KA Akureyri
+    19.15  Fram Reykjavík          v Valur Reykjavík
+           Víkingur Reykjavík      v Breiðablik
+
+
+» Matchday 22
+  Sun Sep/14
+    14.00  FH Hafnarfjörður        v Fram Reykjavík
+           KR Reykjavík            v Víkingur Reykjavík
+           ÍA Akranes              v Afturelding
+           Breiðablik              v ÍBV Vestmannaeyjar
+           KA Akureyri             v IF Vestri
+           Valur Reykjavík         v UMF Stjarnan

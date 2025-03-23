@@ -1,0 +1,379 @@
+= Estonia Meistriliiga 2025
+
+# Date       Fri Feb/28 - Sat Nov/8 2025 (253d)
+# Teams      10
+# Matches    180
+
+
+
+» Matchday 1
+  Fri Feb/28 2025
+    19.00  FCI Levadia             v Harju JK                 5-0 (2-0)
+  Sat Mar/1
+    12.30  Pärnu JK Vaprus         v JK Nõmme Kalju           0-3 (0-1)
+    14.30  FC Flora                v JK Narva Trans           2-2 (1-0)
+  Sun Mar/2
+    12.30  FC Kuressaare           v Paide Linnameeskond      1-2 (0-0)
+    14.30  JK Tallinna Kalev       v JK Tammeka               1-2 (0-1)
+
+
+» Matchday 2
+  Sat Mar/8
+    12.30  FC Flora                v Pärnu JK Vaprus          0-1 (0-1)
+    14.30  JK Tammeka              v FCI Levadia              2-3 (1-2)
+           JK Narva Trans          v FC Kuressaare            0-2 (0-1)
+  Sun Mar/9
+    12.30  Harju JK                v JK Tallinna Kalev        2-0 (2-0)
+    14.30  Paide Linnameeskond     v JK Nõmme Kalju           4-0 (1-0)
+
+
+» Matchday 3
+  Sat Mar/15
+    12.30  Pärnu JK Vaprus         v FCI Levadia              1-2 (1-0)
+    14.30  JK Narva Trans          v Paide Linnameeskond      1-0 (1-0)
+           JK Tallinna Kalev       v FC Flora                 0-4 (0-2)
+  Sun Mar/16
+    12.30  FC Kuressaare           v Harju JK                 1-2 (1-1)
+    14.30  JK Nõmme Kalju          v JK Tammeka               2-2 (1-1)
+
+
+» Matchday 4
+  Sat Mar/29
+    12.30  JK Tammeka              v Pärnu JK Vaprus
+    14.30  Harju JK                v JK Narva Trans
+    17.00  FC Flora                v FC Kuressaare
+  Sun Mar/30
+    12.30  Paide Linnameeskond     v JK Tallinna Kalev
+    14.30  FCI Levadia             v JK Nõmme Kalju
+
+
+» Matchday 5
+  Sat Apr/5
+    12.30  Paide Linnameeskond     v JK Tammeka
+    14.30  JK Nõmme Kalju          v FC Flora
+           JK Narva Trans          v FCI Levadia
+    17.00  Pärnu JK Vaprus         v Harju JK
+    19.00  JK Tallinna Kalev       v FC Kuressaare
+
+
+» Matchday 6
+  Tue Apr/8
+    17.30  JK Narva Trans          v JK Tallinna Kalev
+    18.00  FCI Levadia             v FC Kuressaare
+    19.00  JK Tammeka              v FC Flora
+  Wed Apr/9
+    18.00  JK Nõmme Kalju          v Harju JK
+    19.00  Paide Linnameeskond     v Pärnu JK Vaprus
+
+
+» Matchday 7
+  Sat Apr/12
+    14.30  FC Kuressaare           v JK Nõmme Kalju
+    17.00  Harju JK                v Paide Linnameeskond
+    19.00  FCI Levadia             v FC Flora
+  Sun Apr/13
+    14.30  Pärnu JK Vaprus         v JK Tallinna Kalev
+    17.00  JK Tammeka              v JK Narva Trans
+
+
+» Matchday 8
+  Fri Apr/18
+    14.30  FC Flora                v Paide Linnameeskond
+    17.00  FC Kuressaare           v Pärnu JK Vaprus
+    19.00  Harju JK                v JK Tammeka
+  Sat Apr/19
+    14.30  JK Tallinna Kalev       v FCI Levadia
+    17.00  JK Narva Trans          v JK Nõmme Kalju
+
+
+» Matchday 9
+  Tue Apr/22
+    18.00  JK Tammeka              v FC Kuressaare
+           JK Nõmme Kalju          v JK Tallinna Kalev
+    19.00  FC Flora                v Harju JK
+  Wed Apr/23
+    18.00  Pärnu JK Vaprus         v JK Narva Trans
+    19.00  Paide Linnameeskond     v FCI Levadia
+
+
+» Matchday 10
+  Sat Apr/26
+    14.30  Harju JK                v Pärnu JK Vaprus
+    17.00  JK Tallinna Kalev       v Paide Linnameeskond
+    19.00  FCI Levadia             v JK Tammeka
+  Sun Apr/27
+    14.30  FC Flora                v JK Nõmme Kalju
+    17.00  FC Kuressaare           v JK Narva Trans
+
+
+» Matchday 11
+  Fri May/2
+    19.00  Pärnu JK Vaprus         v FC Flora
+  Sat May/3
+    14.30  JK Tallinna Kalev       v Harju JK
+    17.00  JK Narva Trans          v JK Tammeka
+  Sun May/4
+    14.30  JK Nõmme Kalju          v FCI Levadia
+    17.00  Paide Linnameeskond     v FC Kuressaare
+
+
+» Matchday 12
+  Fri May/9
+    19.00  Harju JK                v FC Flora
+  Sat May/10
+    14.30  FC Kuressaare           v JK Tallinna Kalev
+    17.00  JK Narva Trans          v Pärnu JK Vaprus
+  Sun May/11
+    14.30  FCI Levadia             v Paide Linnameeskond
+    17.00  JK Tammeka              v JK Nõmme Kalju
+
+
+» Matchday 13
+  Sat May/17
+    14.30  Pärnu JK Vaprus         v JK Tammeka
+    17.00  Paide Linnameeskond     v Harju JK
+  Sun May/18
+    14.30  FC Flora                v FCI Levadia
+    17.00  JK Tallinna Kalev       v JK Narva Trans
+    19.00  JK Nõmme Kalju          v FC Kuressaare
+
+
+» Matchday 14
+  Tue May/27
+    18.00  JK Tammeka              v JK Tallinna Kalev
+           FC Kuressaare           v FC Flora
+    19.00  JK Narva Trans          v Harju JK
+  Wed May/28
+    19.00  FCI Levadia             v Pärnu JK Vaprus
+           JK Nõmme Kalju          v Paide Linnameeskond
+
+
+» Matchday 15
+  Fri May/30
+    20.00  FC Flora                v JK Tammeka
+  Sat May/31
+    14.30  Harju JK                v FCI Levadia
+    17.00  Paide Linnameeskond     v JK Narva Trans
+  Sun Jun/1
+    14.30  Pärnu JK Vaprus         v FC Kuressaare
+    17.00  JK Tallinna Kalev       v JK Nõmme Kalju
+
+
+» Matchday 16
+  Fri Jun/13
+    19.00  JK Tammeka              v Harju JK
+  Sat Jun/14
+    14.30  JK Tallinna Kalev       v Pärnu JK Vaprus
+    17.00  FC Kuressaare           v FCI Levadia
+  Sun Jun/15
+    14.30  Paide Linnameeskond     v FC Flora
+    17.00  JK Nõmme Kalju          v JK Narva Trans
+
+
+» Matchday 17
+  Tue Jun/17
+    18.00  FC Kuressaare           v JK Tammeka
+  Wed Jun/18
+    18.00  JK Narva Trans          v FC Flora
+           FCI Levadia             v JK Tallinna Kalev
+    19.00  Pärnu JK Vaprus         v Paide Linnameeskond
+    20.00  JK Nõmme Kalju          v Harju JK
+
+
+» Matchday 18
+  Fri Jun/27
+    19.00  FCI Levadia             v JK Narva Trans
+    20.00  Pärnu JK Vaprus         v JK Nõmme Kalju
+  Sat Jun/28
+    19.00  JK Tammeka              v Paide Linnameeskond
+  Sun Jun/29
+    17.00  Harju JK                v FC Kuressaare
+    19.00  FC Flora                v JK Tallinna Kalev
+
+
+» Matchday 19
+  Fri Jul/4
+    19.00  Paide Linnameeskond     v FCI Levadia
+  Sat Jul/5
+    17.00  JK Narva Trans          v FC Kuressaare
+    19.00  Harju JK                v Pärnu JK Vaprus
+  Sun Jul/6
+    17.00  JK Tallinna Kalev       v JK Tammeka
+    21.30  FC Flora                v JK Nõmme Kalju
+
+
+» Matchday 20
+  Sat Jun/21
+    14.30  FCI Levadia             v JK Nõmme Kalju
+    19.00  FC Flora                v Paide Linnameeskond
+  Fri Jul/11
+    19.00  Pärnu JK Vaprus         v JK Narva Trans
+  Sat Jul/12
+    19.00  FC Kuressaare           v JK Tammeka
+  Sun Jul/13
+    14.30  JK Tallinna Kalev       v Harju JK
+
+
+» Matchday 21
+  Fri Jul/18
+    20.00  Harju JK                v FCI Levadia
+  Sun Jul/20
+    17.00  JK Nõmme Kalju          v JK Tallinna Kalev
+           JK Tammeka              v FC Flora
+    19.00  FC Kuressaare           v Pärnu JK Vaprus
+           Paide Linnameeskond     v JK Narva Trans
+
+
+» Matchday 22
+  Fri Aug/1
+    19.30  JK Tallinna Kalev       v Pärnu JK Vaprus
+  Sat Aug/2
+    17.00  JK Tammeka              v JK Nõmme Kalju
+    19.00  JK Narva Trans          v FC Flora
+  Sun Aug/3
+    17.00  Harju JK                v Paide Linnameeskond
+    19.00  FCI Levadia             v FC Kuressaare
+
+
+» Matchday 23
+  Fri Aug/8
+    19.30  FC Flora                v FCI Levadia
+  Sat Aug/9
+    17.00  JK Narva Trans          v JK Tammeka
+    19.00  Paide Linnameeskond     v JK Tallinna Kalev
+  Sun Aug/10
+    17.00  FC Kuressaare           v Harju JK
+    19.00  JK Nõmme Kalju          v Pärnu JK Vaprus
+
+
+» Matchday 24
+  Fri Aug/15
+    19.30  Pärnu JK Vaprus         v JK Tammeka
+  Sat Aug/16
+    17.00  Paide Linnameeskond     v FC Kuressaare
+    19.00  FC Flora                v Harju JK
+  Sun Aug/17
+    17.00  JK Nõmme Kalju          v JK Narva Trans
+    19.00  JK Tallinna Kalev       v FCI Levadia
+
+
+» Matchday 25
+  Fri Aug/22
+    19.30  FCI Levadia             v Pärnu JK Vaprus
+  Sat Aug/23
+    17.00  JK Tammeka              v Paide Linnameeskond
+    18.30  JK Narva Trans          v JK Tallinna Kalev
+  Sun Aug/24
+    14.30  FC Kuressaare           v FC Flora
+    19.00  Harju JK                v JK Nõmme Kalju
+
+
+» Matchday 26
+  Fri Aug/29
+    19.30  FCI Levadia             v JK Narva Trans
+  Sat Aug/30
+    17.00  JK Tallinna Kalev       v FC Flora
+    19.00  Pärnu JK Vaprus         v Paide Linnameeskond
+  Sun Aug/31
+    17.00  JK Nõmme Kalju          v FC Kuressaare
+    19.00  Harju JK                v JK Tammeka
+
+
+» Matchday 27
+  Sat Sep/13
+    14.30  FC Flora                v Pärnu JK Vaprus
+    17.00  JK Tammeka              v FCI Levadia
+  Sun Sep/14
+    14.30  FC Kuressaare           v JK Tallinna Kalev
+           Paide Linnameeskond     v JK Nõmme Kalju
+    17.00  JK Narva Trans          v Harju JK
+
+
+» Matchday 28
+  Tue Sep/16
+    19.00  JK Tammeka              v Pärnu JK Vaprus
+  Wed Sep/17
+    17.30  Harju JK                v FC Kuressaare
+    19.00  FCI Levadia             v FC Flora
+           JK Narva Trans          v JK Nõmme Kalju
+    19.30  JK Tallinna Kalev       v Paide Linnameeskond
+
+
+» Matchday 29
+  Sat Sep/20
+    14.30  FC Kuressaare           v JK Narva Trans
+           Paide Linnameeskond     v Harju JK
+    17.00  FC Flora                v JK Tammeka
+  Sun Sep/21
+    14.30  JK Nõmme Kalju          v FCI Levadia
+    17.00  Pärnu JK Vaprus         v JK Tallinna Kalev
+
+
+» Matchday 30
+  Fri Sep/26
+    19.00  JK Tammeka              v FC Kuressaare
+  Sat Sep/27
+    14.30  Pärnu JK Vaprus         v Harju JK
+    17.00  JK Narva Trans          v Paide Linnameeskond
+  Sun Sep/28
+    14.30  JK Nõmme Kalju          v FC Flora
+    17.00  FCI Levadia             v JK Tallinna Kalev
+
+
+» Matchday 31
+  Sat Oct/4
+    14.30  FC Kuressaare           v Paide Linnameeskond
+    17.00  JK Tallinna Kalev       v JK Narva Trans
+    19.00  Harju JK                v FC Flora
+  Sun Oct/5
+    14.30  FCI Levadia             v JK Tammeka
+    16.30  JK Nõmme Kalju          v Pärnu JK Vaprus
+
+
+» Matchday 32
+  Sat Oct/18
+    14.30  FC Kuressaare           v FCI Levadia
+           Paide Linnameeskond     v JK Tammeka
+    17.00  JK Narva Trans          v Pärnu JK Vaprus
+    19.00  FC Flora                v JK Tallinna Kalev
+  Sun Oct/19
+    14.30  Harju JK                v JK Nõmme Kalju
+
+
+» Matchday 33
+  Tue Oct/21
+    18.00  FC Flora                v JK Narva Trans
+           Pärnu JK Vaprus         v FC Kuressaare
+  Wed Oct/22
+    18.00  JK Tallinna Kalev       v JK Nõmme Kalju
+           JK Tammeka              v Harju JK
+    19.00  FCI Levadia             v Paide Linnameeskond
+
+
+» Matchday 34
+  Sat Oct/25
+    14.30  FC Kuressaare           v JK Nõmme Kalju
+           Harju JK                v JK Narva Trans
+    17.00  JK Tammeka              v JK Tallinna Kalev
+  Sun Oct/26
+    14.30  Paide Linnameeskond     v FC Flora
+    17.00  Pärnu JK Vaprus         v FCI Levadia
+
+
+» Matchday 35
+  Sat Nov/1
+    12.30  JK Nõmme Kalju          v JK Tammeka
+    14.30  FC Flora                v FC Kuressaare
+           Harju JK                v JK Tallinna Kalev
+  Sun Nov/2
+    12.30  Paide Linnameeskond     v Pärnu JK Vaprus
+    14.30  JK Narva Trans          v FCI Levadia
+
+
+» Matchday 36
+  Sat Nov/8
+    12.30  FCI Levadia             v Harju JK
+           JK Nõmme Kalju          v Paide Linnameeskond
+           JK Tammeka              v JK Narva Trans
+           Pärnu JK Vaprus         v FC Flora
+           JK Tallinna Kalev       v FC Kuressaare

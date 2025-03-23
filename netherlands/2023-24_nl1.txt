@@ -1,4 +1,4 @@
-= Dutch Eredivisie 2023/24
+= Netherlands Eredivisie 2023/24
 
 # Date       Fri Aug/11 2023 - Sun May/19 2024 (282d)
 # Teams      18
@@ -6,519 +6,519 @@
 
 
 
-Matchday 1
-[Fri Aug/11]
-  20.00  FC Volendam              1-2 (1-0)  SBV Vitesse
-[Sat Aug/12]
-  16.30  PSV                      2-0 (1-0)  FC Utrecht
-  18.45  SC Heerenveen            3-1 (3-0)  RKC Waalwijk
-  20.00  AFC Ajax                 4-1 (1-1)  Heracles Almelo
-  21.00  PEC Zwolle               1-2 (0-1)  Sparta Rotterdam
-[Sun Aug/13]
-  12.15  NEC                      3-4 (2-1)  SBV Excelsior
-  14.30  Feyenoord Rotterdam      0-0  Fortuna Sittard
-         AZ                       5-1 (2-0)  Go Ahead Eagles
-  16.45  Almere City FC           1-4 (0-0)  FC Twente '65
-
-
-Matchday 2
-[Fri Aug/18]
-  20.00  Heracles Almelo          2-1 (0-1)  NEC
-[Sat Aug/19]
-  16.30  SBV Excelsior            2-2 (1-1)  AFC Ajax
-  18.45  SBV Vitesse              1-3 (1-0)  PSV
-  20.00  Fortuna Sittard          2-1 (2-1)  Almere City FC
-  21.00  Go Ahead Eagles          4-1 (3-0)  FC Volendam
-[Sun Aug/20]
-  12.15  FC Utrecht               0-2 (0-0)  SC Heerenveen
-  14.30  Sparta Rotterdam         2-2 (1-0)  Feyenoord Rotterdam
-         FC Twente '65            3-1 (1-1)  PEC Zwolle
-  16.45  RKC Waalwijk             1-3 (1-0)  AZ
-
-
-Matchday 3
-[Sat Aug/26]
-  18.45  NEC                      3-0 (1-0)  RKC Waalwijk
-  21.00  SBV Excelsior            2-2 (1-0)  Fortuna Sittard
-[Sun Aug/27]
-  12.15  PEC Zwolle               1-0 (0-0)  FC Utrecht
-  14.30  Feyenoord Rotterdam      6-1 (3-0)  Almere City FC
-  16.45  SC Heerenveen            1-3 (0-1)  Sparta Rotterdam
-
-
-Matchday 4
-[Fri Sep/1]
-  20.00  Sparta Rotterdam         1-1 (0-0)  NEC
-[Sat Sep/2]
-  16.30  Almere City FC           1-2 (0-1)  PEC Zwolle
-  18.45  Go Ahead Eagles          3-2 (2-1)  SC Heerenveen
-  20.00  RKC Waalwijk             0-4 (0-1)  PSV
-  21.00  Heracles Almelo          3-1 (0-1)  SBV Excelsior
-[Sun Sep/3]
-  12.15  FC Utrecht               1-5 (1-2)  Feyenoord Rotterdam
-  14.30  Fortuna Sittard          0-0  AFC Ajax
-         FC Volendam              0-2 (0-1)  FC Twente '65
-  16.45  SBV Vitesse              0-2 (0-0)  AZ
-
-
-Matchday 5
-[Sat Sep/16]
-  16.30  Feyenoord Rotterdam      6-1 (3-1)  SC Heerenveen
-  18.45  SBV Vitesse              0-2 (0-1)  RKC Waalwijk
-  20.00  PSV                      4-0 (2-0)  NEC
-         Fortuna Sittard          3-1 (0-1)  FC Volendam
-  21.00  Heracles Almelo          1-3 (0-2)  FC Utrecht
-[Sun Sep/17]
-  12.15  PEC Zwolle               1-1 (0-0)  Go Ahead Eagles
-  14.30  FC Twente '65            3-1 (2-1)  AFC Ajax
-         SBV Excelsior            0-0  Almere City FC
-  16.45  AZ                       2-0 (2-0)  Sparta Rotterdam
-
-
-Matchday 6
-[Fri Sep/22]
-  20.00  Go Ahead Eagles          3-0 (1-0)  Fortuna Sittard
-[Sat Sep/23]
-  16.30  FC Volendam              2-2 (0-0)  Heracles Almelo
-  18.45  NEC                      3-0 (2-0)  FC Utrecht
-  20.00  Almere City FC           0-4 (0-2)  PSV
-  21.00  SC Heerenveen            0-3 (0-2)  SBV Excelsior
-[Sun Sep/24]
-  12.15  Sparta Rotterdam         1-0 (1-0)  SBV Vitesse
-  16.45  RKC Waalwijk             1-0 (0-0)  FC Twente '65
-         PEC Zwolle               0-3 (0-1)  AZ
-[Wed Sep/27]
-  14.00  AFC Ajax                 0-4 (0-3)  Feyenoord Rotterdam
-
-
-Matchday 3
-[Wed Sep/27]
-  18.45  PSV                      3-0 (1-0)  Go Ahead Eagles
-  20.00  FC Twente '65            1-0 (1-0)  SBV Vitesse
-[Thu Sep/28]
-  20.00  AZ                       1-1 (1-0)  Heracles Almelo
-
-
-Matchday 7
-[Sat Sep/30]
-  16.30  Feyenoord Rotterdam      3-1 (1-0)  Go Ahead Eagles
-  18.45  FC Utrecht               0-2 (0-0)  Almere City FC
-         PSV                      3-1 (1-0)  FC Volendam
-  21.00  FC Twente '65            1-0 (0-0)  SC Heerenveen
-[Sun Oct/1]
-  12.15  NEC                      1-2 (1-1)  SBV Vitesse
-  14.30  SBV Excelsior            2-1 (0-0)  Sparta Rotterdam
-         Heracles Almelo          2-1 (0-0)  PEC Zwolle
-  16.45  AZ                       4-0 (1-0)  Fortuna Sittard
-
-
-Matchday 8
-[Fri Oct/6]
-  20.00  FC Volendam              1-0 (0-0)  FC Utrecht
-[Sat Oct/7]
-  16.30  SC Heerenveen            1-1 (1-1)  NEC
-  18.45  Almere City FC           1-0 (1-0)  RKC Waalwijk
-  20.00  Go Ahead Eagles          4-0 (2-0)  Heracles Almelo
-  21.00  SBV Vitesse              0-0  SBV Excelsior
-[Sun Oct/8]
-  12.15  PEC Zwolle               0-2 (0-1)  Feyenoord Rotterdam
-  14.30  Fortuna Sittard          0-3 (0-1)  FC Twente '65
-         AFC Ajax                 1-2 (0-1)  AZ
-  16.45  Sparta Rotterdam         0-4 (0-0)  PSV
-
-
-Matchday 9
-[Sat Oct/21]
-  18.45  RKC Waalwijk             2-1 (1-0)  FC Volendam
-         PSV                      3-1 (1-0)  Fortuna Sittard
-  20.00  NEC                      1-1 (0-1)  Almere City FC
-  21.00  Feyenoord Rotterdam      4-0 (2-0)  SBV Vitesse
-         AZ                       3-0 (1-0)  SC Heerenveen
-[Sun Oct/22]
-  12.15  FC Utrecht               4-3 (1-0)  AFC Ajax
-  14.30  Heracles Almelo          2-2 (0-2)  FC Twente '65
-         SBV Excelsior            2-4 (1-0)  PEC Zwolle
-  16.45  Go Ahead Eagles          0-0  Sparta Rotterdam
-
-
-Matchday 10
-[Fri Oct/27]
-  20.00  SBV Vitesse              1-1 (0-1)  PEC Zwolle
-[Sat Oct/28]
-  18.45  SC Heerenveen            3-0 (2-0)  Heracles Almelo
-  20.00  Almere City FC           0-0  Go Ahead Eagles
-         Sparta Rotterdam         2-0 (0-0)  RKC Waalwijk
-  21.00  Fortuna Sittard          0-0  FC Utrecht
-[Sun Oct/29]
-  12.15  FC Twente '65            2-1 (1-0)  Feyenoord Rotterdam
-  14.30  FC Volendam              3-1 (0-1)  SBV Excelsior
-         PSV                      5-2 (1-2)  AFC Ajax
-
-
-Matchday 3
-[Thu Nov/2]
-  20.00  AFC Ajax                 2-0 (0-0)  FC Volendam
-
-
-Matchday 11
-[Sat Nov/4]
-  16.30  Heracles Almelo          0-6 (0-2)  PSV
-  18.45  RKC Waalwijk             1-2 (1-1)  Feyenoord Rotterdam
-         SBV Excelsior            1-1 (0-0)  AZ
-  21.00  Go Ahead Eagles          5-1 (1-0)  SBV Vitesse
-[Sun Nov/5]
-  12.15  FC Utrecht               1-1 (1-1)  FC Twente '65
-  14.30  PEC Zwolle               2-0 (1-0)  Fortuna Sittard
-         NEC                      3-3 (1-1)  FC Volendam
-  16.45  AFC Ajax                 4-1 (2-1)  SC Heerenveen
-         Sparta Rotterdam         1-2 (0-1)  Almere City FC
-
-
-Matchday 12
-[Fri Nov/10]
-  20.00  Fortuna Sittard          4-1 (4-0)  Heracles Almelo
-[Sat Nov/11]
-  18.45  RKC Waalwijk             0-1 (0-1)  Go Ahead Eagles
-  20.00  FC Twente '65            3-3 (1-0)  NEC
-  21.00  SBV Vitesse              1-3 (1-1)  SC Heerenveen
-[Sun Nov/12]
-  12.15  PSV                      4-0 (2-0)  PEC Zwolle
-  14.30  FC Volendam              1-4 (1-2)  Sparta Rotterdam
-         Almere City FC           2-2 (0-0)  AFC Ajax
-  16.45  Feyenoord Rotterdam      1-0 (1-0)  AZ
-  20.00  FC Utrecht               2-2 (0-0)  SBV Excelsior
-
-
-Matchday 13
-[Sat Nov/25]
-  16.30  SBV Excelsior            2-4 (1-1)  Feyenoord Rotterdam
-  18.45  FC Twente '65            0-3 (0-1)  PSV
-         SC Heerenveen            3-0 (1-0)  Fortuna Sittard
-  21.00  PEC Zwolle               1-2 (1-1)  RKC Waalwijk
-         AFC Ajax                 5-0 (2-0)  SBV Vitesse
-[Sun Nov/26]
-  12.15  Almere City FC           0-5 (0-1)  Heracles Almelo
-  14.30  AZ                       3-0 (1-0)  FC Volendam
-         NEC                      1-1 (0-0)  Go Ahead Eagles
-  16.45  Sparta Rotterdam         1-2 (1-1)  FC Utrecht
-
-
-Matchday 14
-[Fri Dec/1]
-  20.00  SC Heerenveen            3-0 (2-0)  Almere City FC
-[Sat Dec/2]
-  18.45  FC Volendam              0-5 (0-0)  PEC Zwolle
-  20.00  Fortuna Sittard          3-1 (2-0)  SBV Vitesse
-         RKC Waalwijk             2-2 (1-0)  SBV Excelsior
-  21.00  Heracles Almelo          0-1 (0-0)  Sparta Rotterdam
-[Sun Dec/3]
-  12.15  Feyenoord Rotterdam      1-2 (0-0)  PSV
-  14.30  NEC                      1-2 (0-0)  AFC Ajax
-         Go Ahead Eagles          1-3 (0-2)  FC Twente '65
-  16.45  FC Utrecht               1-1 (0-1)  AZ
-
-
-Matchday 10
-[Wed Dec/6]
-  19.00  AZ                       1-2 (0-2)  NEC
-
-
-Matchday 7
-[Wed Dec/6]
-  20.00  RKC Waalwijk             2-3 (1-2)  AFC Ajax
-
-
-Matchday 15
-[Thu Dec/7]
-  18.45  PSV                      2-0 (1-0)  SC Heerenveen
-  21.00  Feyenoord Rotterdam      3-1 (1-1)  FC Volendam
-[Fri Dec/8]
-  20.00  FC Twente '65            4-2 (1-2)  SBV Excelsior
-[Sat Dec/9]
-  18.45  AFC Ajax                 2-1 (2-0)  Sparta Rotterdam
-  20.00  PEC Zwolle               1-3 (0-1)  NEC
-  21.00  AZ                       4-1 (1-0)  Almere City FC
-[Sun Dec/10]
-  12.15  Go Ahead Eagles          0-2 (0-2)  FC Utrecht
-  14.30  Fortuna Sittard          1-0 (0-0)  RKC Waalwijk
-  16.45  SBV Vitesse              2-0 (1-0)  Heracles Almelo
-
-
-Matchday 16
-[Fri Dec/15]
-  20.00  NEC                      4-1 (2-0)  Fortuna Sittard
-[Sat Dec/16]
-  16.30  FC Utrecht               1-1 (1-1)  RKC Waalwijk
-  18.45  SBV Excelsior            1-1 (0-0)  Go Ahead Eagles
-  21.00  SC Heerenveen            1-2 (0-1)  FC Volendam
-[Sun Dec/17]
-  12.15  Almere City FC           5-0 (2-0)  SBV Vitesse
-  14.30  Sparta Rotterdam         2-2 (0-1)  FC Twente '65
-         Heracles Almelo          0-4 (0-2)  Feyenoord Rotterdam
-  16.45  AFC Ajax                 2-2 (1-0)  PEC Zwolle
-  20.00  AZ                       0-4 (0-3)  PSV
-
-
-Matchday 17
-[Fri Jan/12]
-  20.00  RKC Waalwijk             1-2 (0-1)  Heracles Almelo
-[Sat Jan/13]
-  16.30  Fortuna Sittard          0-2 (0-1)  Sparta Rotterdam
-  18.45  FC Twente '65            2-1 (1-1)  AZ
-  20.00  PEC Zwolle               2-2 (0-1)  SC Heerenveen
-  21.00  PSV                      3-1 (2-0)  SBV Excelsior
-[Sun Jan/14]
-  12.15  FC Volendam              0-1 (0-1)  Almere City FC
-  14.30  Go Ahead Eagles          2-3 (1-2)  AFC Ajax
-         SBV Vitesse              0-0  FC Utrecht
-  16.45  Feyenoord Rotterdam      2-2 (2-1)  NEC
-
-
-Matchday 18
-[Fri Jan/19]
-  20.00  SBV Excelsior            3-0 (2-0)  SC Heerenveen
-[Sat Jan/20]
-  16.30  NEC                      1-0 (0-0)  FC Twente '65
-  18.45  Heracles Almelo          1-1 (0-1)  FC Volendam
-  20.00  AZ                       2-2 (0-0)  PEC Zwolle
-[Sun Jan/21]
-  12.15  FC Utrecht               1-1 (0-1)  PSV
-  14.30  SBV Vitesse              1-2 (0-1)  Feyenoord Rotterdam
-         Sparta Rotterdam         0-2 (0-1)  Go Ahead Eagles
-  16.45  AFC Ajax                 4-1 (2-1)  RKC Waalwijk
-[Wed Jan/24]
-  18.45  Almere City FC           0-0  Fortuna Sittard
-
-
-Matchday 19
-[Fri Jan/26]
-  20.00  PEC Zwolle               1-0 (1-0)  SBV Vitesse
-[Sat Jan/27]
-  18.45  RKC Waalwijk             1-1 (0-0)  Sparta Rotterdam
-         PSV                      2-0 (1-0)  Almere City FC
-  21.00  SBV Excelsior            1-1 (0-0)  FC Utrecht
-         Heracles Almelo          2-4 (1-1)  AFC Ajax
-[Sun Jan/28]
-  12.15  SC Heerenveen            2-2 (1-1)  AZ
-  14.30  Go Ahead Eagles          2-2 (0-1)  NEC
-         Feyenoord Rotterdam      0-0  FC Twente '65
-  16.45  FC Volendam              0-1 (0-0)  Fortuna Sittard
-
-
-Matchday 20
-[Fri Feb/2]
-  20.00  Almere City FC           2-1 (1-1)  SBV Excelsior
-[Sat Feb/3]
-  16.30  FC Twente '65            3-0 (1-0)  RKC Waalwijk
-  18.45  Fortuna Sittard          3-3 (0-2)  SC Heerenveen
-  20.00  AFC Ajax                 1-1 (1-1)  PSV
-  21.00  NEC                      3-1 (0-1)  Heracles Almelo
-[Sun Feb/4]
-  12.15  SBV Vitesse              0-2 (0-1)  Go Ahead Eagles
-  14.30  AZ                       0-1 (0-1)  Feyenoord Rotterdam
-         FC Utrecht               4-2 (2-1)  FC Volendam
-  16.45  Sparta Rotterdam         0-2 (0-1)  PEC Zwolle
-
-
-Matchday 21
-[Fri Feb/9]
-  20.00  RKC Waalwijk             2-0 (2-0)  NEC
-[Sat Feb/10]
-  18.45  SBV Excelsior            0-3 (0-3)  FC Twente '65
-  20.00  Almere City FC           0-0  AZ
-  21.00  Heracles Almelo          3-2 (1-2)  SBV Vitesse
-[Sun Feb/11]
-  12.15  Go Ahead Eagles          1-1 (0-0)  PEC Zwolle
-  14.30  FC Utrecht               4-0 (1-0)  Fortuna Sittard
-         SC Heerenveen            3-2 (2-0)  AFC Ajax
-  16.45  FC Volendam              1-5 (1-1)  PSV
-  20.00  Feyenoord Rotterdam      2-0 (0-0)  Sparta Rotterdam
-
-
-Matchday 22
-[Fri Feb/16]
-  20.00  PSV                      2-0 (1-0)  Heracles Almelo
-[Sat Feb/17]
-  18.45  Sparta Rotterdam         4-2 (2-2)  SBV Excelsior
-         Fortuna Sittard          1-2 (1-0)  AZ
-  21.00  SC Heerenveen            0-2 (0-0)  Go Ahead Eagles
-         PEC Zwolle               0-1 (0-0)  Almere City FC
-[Sun Feb/18]
-  12.15  FC Twente '65            0-1 (0-1)  FC Utrecht
-  14.30  AFC Ajax                 2-2 (1-0)  NEC
-         SBV Vitesse              1-1 (1-1)  FC Volendam
-  16.45  Feyenoord Rotterdam      1-0 (0-0)  RKC Waalwijk
-
-
-Matchday 23
-[Fri Feb/23]
-  20.00  FC Utrecht               1-0 (0-0)  Heracles Almelo
-[Sat Feb/24]
-  18.45  RKC Waalwijk             0-1 (0-0)  Fortuna Sittard
-  20.00  PEC Zwolle               1-7 (1-2)  PSV
-  21.00  NEC                      2-0 (2-0)  Sparta Rotterdam
-[Sun Feb/25]
-  12.15  SBV Excelsior            1-2 (0-0)  SBV Vitesse
-  14.30  Almere City FC           0-2 (0-0)  Feyenoord Rotterdam
-         FC Twente '65            3-0 (2-0)  Go Ahead Eagles
-  16.45  AZ                       2-0 (1-0)  AFC Ajax
-  20.00  FC Volendam              0-4 (0-1)  SC Heerenveen
-
-
-Matchday 24
-[Fri Mar/1]
-  20.00  FC Volendam              2-5 (0-3)  NEC
-[Sat Mar/2]
-  18.45  Go Ahead Eagles          1-0 (0-0)  RKC Waalwijk
-  20.00  SBV Vitesse              1-2 (1-1)  FC Twente '65
-  21.00  Sparta Rotterdam         1-1 (0-1)  AZ
-[Sun Mar/3]
-  12.15  AFC Ajax                 2-0 (1-0)  FC Utrecht
-  14.30  PSV                      2-2 (1-1)  Feyenoord Rotterdam
-         SC Heerenveen            2-0 (1-0)  PEC Zwolle
-  16.45  Fortuna Sittard          5-2 (4-0)  SBV Excelsior
-  20.00  Heracles Almelo          2-2 (0-2)  Almere City FC
-
-
-Matchday 25
-[Fri Mar/8]
-  20.00  Go Ahead Eagles          0-1 (0-1)  PSV
-[Sat Mar/9]
-  18.45  FC Twente '65            2-1 (1-0)  Sparta Rotterdam
-  20.00  Almere City FC           1-1 (1-1)  FC Utrecht
-  21.00  RKC Waalwijk             3-1 (1-0)  SBV Vitesse
-[Sun Mar/10]
-  12.15  AZ                       4-0 (3-0)  SBV Excelsior
-  14.30  PEC Zwolle               1-1 (0-0)  FC Volendam
-         AFC Ajax                 2-2 (1-0)  Fortuna Sittard
-  16.45  NEC                      2-0 (0-0)  SC Heerenveen
-  20.00  Feyenoord Rotterdam      3-0 (2-0)  Heracles Almelo
-
-
-Matchday 26
-[Fri Mar/15]
-  20.00  Heracles Almelo          2-0 (0-0)  Go Ahead Eagles
-[Sat Mar/16]
-  18.45  Fortuna Sittard          3-1 (1-0)  PEC Zwolle
-  20.00  SBV Excelsior            1-1 (1-0)  RKC Waalwijk
-  21.00  SBV Vitesse              1-1 (0-1)  Almere City FC
-[Sun Mar/17]
-  12.15  FC Volendam              0-4 (0-2)  AZ
-  14.30  FC Utrecht               1-0 (0-0)  NEC
-         SC Heerenveen            2-3 (1-1)  Feyenoord Rotterdam
-  16.45  Sparta Rotterdam         2-2 (1-0)  AFC Ajax
-  20.00  PSV                      1-0 (0-0)  FC Twente '65
-
-
-Matchday 27
-[Sat Mar/30]
-  16.30  NEC                      3-1 (1-1)  PSV
-  18.45  Sparta Rotterdam         4-0 (1-0)  Fortuna Sittard
-  20.00  Go Ahead Eagles          3-0 (1-0)  SBV Excelsior
-         RKC Waalwijk             1-1 (0-0)  SC Heerenveen
-  21.00  AZ                       2-0 (0-0)  SBV Vitesse
-[Sun Mar/31]
-  12.15  PEC Zwolle               1-3 (0-2)  AFC Ajax
-  14.30  Feyenoord Rotterdam      4-2 (1-2)  FC Utrecht
-         FC Twente '65            1-0 (0-0)  Heracles Almelo
-  16.45  Almere City FC           1-1 (0-0)  FC Volendam
-
-
-Matchday 28
-[Tue Apr/2]
-  18.45  SBV Vitesse              1-4 (1-3)  Sparta Rotterdam
-  20.00  SBV Excelsior            0-2 (0-0)  PSV
-  21.00  Fortuna Sittard          1-1 (0-0)  NEC
-[Wed Apr/3]
-  18.45  Heracles Almelo          5-0 (3-0)  AZ
-  20.00  FC Utrecht               5-1 (0-0)  PEC Zwolle
-  21.00  SC Heerenveen            3-3 (2-3)  FC Twente '65
-[Thu Apr/4]
-  18.45  FC Volendam              0-0  Feyenoord Rotterdam
-  20.00  RKC Waalwijk             0-0  Almere City FC
-  21.00  AFC Ajax                 1-1 (1-0)  Go Ahead Eagles
-
-
-Matchday 29
-[Sat Apr/6]
-  16.30  Sparta Rotterdam         1-2 (1-0)  Heracles Almelo
-  18.45  PSV                      5-1 (2-0)  AZ
-  20.00  PEC Zwolle               2-1 (1-0)  SBV Excelsior
-  21.00  FC Twente '65            2-0 (0-0)  Fortuna Sittard
-[Sun Apr/7]
-  12.15  SBV Vitesse              0-3 (0-0)  NEC
-  14.30  Feyenoord Rotterdam      6-0 (3-0)  AFC Ajax
-         Go Ahead Eagles          1-1 (1-1)  Almere City FC
-  16.45  FC Volendam              3-2 (2-0)  RKC Waalwijk
-  20.00  SC Heerenveen            2-3 (0-1)  FC Utrecht
-
-
-Matchday 30
-[Fri Apr/12]
-  20.00  SBV Excelsior            4-0 (2-0)  FC Volendam
-[Sat Apr/13]
-  16.30  PSV                      6-0 (3-0)  SBV Vitesse
-  18.45  AZ                       3-2 (0-2)  RKC Waalwijk
-  21.00  Almere City FC           2-3 (1-2)  Sparta Rotterdam
-[Sun Apr/14]
-  12.15  Heracles Almelo          0-2 (0-1)  SC Heerenveen
-  14.30  Fortuna Sittard          0-1 (0-1)  Feyenoord Rotterdam
-         FC Utrecht               2-1 (1-1)  Go Ahead Eagles
-  16.45  AFC Ajax                 2-1 (0-1)  FC Twente '65
-  20.00  NEC                      2-2 (0-1)  PEC Zwolle
-
-
-Matchday 31
-[Wed Apr/24]
-  18.45  FC Twente '65            3-1 (1-0)  Almere City FC
-  21.00  AFC Ajax                 2-2 (1-1)  SBV Excelsior
-[Thu Apr/25]
-  18.55  SC Heerenveen            0-8 (0-5)  PSV
-  21.00  Go Ahead Eagles          1-3 (1-2)  Feyenoord Rotterdam
-[Sun Apr/28]
-  12.15  NEC                      0-3 (0-1)  AZ
-         PEC Zwolle               3-1 (1-1)  Heracles Almelo
-  14.30  Sparta Rotterdam         1-0 (0-0)  FC Volendam
-         RKC Waalwijk             2-2 (1-0)  FC Utrecht
-  16.45  SBV Vitesse              3-2 (1-1)  Fortuna Sittard
-
-
-Matchday 32
-[Fri May/3]
-  20.00  Fortuna Sittard          0-0  Go Ahead Eagles
-         Almere City FC           1-1 (0-0)  SC Heerenveen
-[Sun May/5]
-  12.15  PSV                      4-2 (2-2)  Sparta Rotterdam
-         Heracles Almelo          0-5 (0-2)  RKC Waalwijk
-  14.30  FC Utrecht               1-0 (0-0)  SBV Vitesse
-         FC Volendam              1-4 (0-1)  AFC Ajax
-  16.45  AZ                       2-1 (0-1)  FC Twente '65
-  20.00  Feyenoord Rotterdam      5-0 (2-0)  PEC Zwolle
-[Mon May/6]
-  20.00  SBV Excelsior            0-3 (0-0)  NEC
-
-
-Matchday 33
-[Sun May/12]
-  14.30  AFC Ajax                 3-0 (3-0)  Almere City FC
-         SBV Excelsior            4-0 (1-0)  Heracles Almelo
-         FC Twente '65            7-2 (5-2)  FC Volendam
-         FC Utrecht               0-1 (0-0)  Sparta Rotterdam
-         Fortuna Sittard          1-1 (1-0)  PSV
-         Go Ahead Eagles          0-3 (0-2)  AZ
-         NEC                      2-3 (0-1)  Feyenoord Rotterdam
-         RKC Waalwijk             1-1 (0-0)  PEC Zwolle
-         SC Heerenveen            1-3 (1-1)  SBV Vitesse
-
-
-Matchday 34
-[Sun May/19]
-  14.30  Almere City FC           1-4 (1-2)  NEC
-         AZ                       3-3 (3-0)  FC Utrecht
-         FC Volendam              1-2 (1-1)  Go Ahead Eagles
-         Feyenoord Rotterdam      4-0 (0-0)  SBV Excelsior
-         Heracles Almelo          0-0  Fortuna Sittard
-         PEC Zwolle               1-2 (0-0)  FC Twente '65
-         PSV                      3-1 (1-1)  RKC Waalwijk
-         Sparta Rotterdam         2-1 (0-0)  SC Heerenveen
-         SBV Vitesse              2-2 (1-1)  AFC Ajax
+» Matchday 1
+  Fri Aug/11 2023
+    20.00  FC Volendam             v SBV Vitesse              1-2 (1-0)
+  Sat Aug/12
+    16.30  PSV                     v FC Utrecht               2-0 (1-0)
+    18.45  SC Heerenveen           v RKC Waalwijk             3-1 (3-0)
+    20.00  AFC Ajax                v Heracles Almelo          4-1 (1-1)
+    21.00  PEC Zwolle              v Sparta Rotterdam         1-2 (0-1)
+  Sun Aug/13
+    12.15  NEC                     v SBV Excelsior            3-4 (2-1)
+    14.30  Feyenoord Rotterdam     v Fortuna Sittard          0-0
+           AZ                      v Go Ahead Eagles          5-1 (2-0)
+    16.45  Almere City FC          v FC Twente '65            1-4 (0-0)
+
+
+» Matchday 2
+  Fri Aug/18
+    20.00  Heracles Almelo         v NEC                      2-1 (0-1)
+  Sat Aug/19
+    16.30  SBV Excelsior           v AFC Ajax                 2-2 (1-1)
+    18.45  SBV Vitesse             v PSV                      1-3 (1-0)
+    20.00  Fortuna Sittard         v Almere City FC           2-1 (2-1)
+    21.00  Go Ahead Eagles         v FC Volendam              4-1 (3-0)
+  Sun Aug/20
+    12.15  FC Utrecht              v SC Heerenveen            0-2 (0-0)
+    14.30  Sparta Rotterdam        v Feyenoord Rotterdam      2-2 (1-0)
+           FC Twente '65           v PEC Zwolle               3-1 (1-1)
+    16.45  RKC Waalwijk            v AZ                       1-3 (1-0)
+
+
+» Matchday 3
+  Sat Aug/26
+    18.45  NEC                     v RKC Waalwijk             3-0 (1-0)
+    21.00  SBV Excelsior           v Fortuna Sittard          2-2 (1-0)
+  Sun Aug/27
+    12.15  PEC Zwolle              v FC Utrecht               1-0 (0-0)
+    14.30  Feyenoord Rotterdam     v Almere City FC           6-1 (3-0)
+    16.45  SC Heerenveen           v Sparta Rotterdam         1-3 (0-1)
+
+
+» Matchday 4
+  Fri Sep/1
+    20.00  Sparta Rotterdam        v NEC                      1-1 (0-0)
+  Sat Sep/2
+    16.30  Almere City FC          v PEC Zwolle               1-2 (0-1)
+    18.45  Go Ahead Eagles         v SC Heerenveen            3-2 (2-1)
+    20.00  RKC Waalwijk            v PSV                      0-4 (0-1)
+    21.00  Heracles Almelo         v SBV Excelsior            3-1 (0-1)
+  Sun Sep/3
+    12.15  FC Utrecht              v Feyenoord Rotterdam      1-5 (1-2)
+    14.30  Fortuna Sittard         v AFC Ajax                 0-0
+           FC Volendam             v FC Twente '65            0-2 (0-1)
+    16.45  SBV Vitesse             v AZ                       0-2 (0-0)
+
+
+» Matchday 5
+  Sat Sep/16
+    16.30  Feyenoord Rotterdam     v SC Heerenveen            6-1 (3-1)
+    18.45  SBV Vitesse             v RKC Waalwijk             0-2 (0-1)
+    20.00  PSV                     v NEC                      4-0 (2-0)
+           Fortuna Sittard         v FC Volendam              3-1 (0-1)
+    21.00  Heracles Almelo         v FC Utrecht               1-3 (0-2)
+  Sun Sep/17
+    12.15  PEC Zwolle              v Go Ahead Eagles          1-1 (0-0)
+    14.30  FC Twente '65           v AFC Ajax                 3-1 (2-1)
+           SBV Excelsior           v Almere City FC           0-0
+    16.45  AZ                      v Sparta Rotterdam         2-0 (2-0)
+
+
+» Matchday 6
+  Fri Sep/22
+    20.00  Go Ahead Eagles         v Fortuna Sittard          3-0 (1-0)
+  Sat Sep/23
+    16.30  FC Volendam             v Heracles Almelo          2-2 (0-0)
+    18.45  NEC                     v FC Utrecht               3-0 (2-0)
+    20.00  Almere City FC          v PSV                      0-4 (0-2)
+    21.00  SC Heerenveen           v SBV Excelsior            0-3 (0-2)
+  Sun Sep/24
+    12.15  Sparta Rotterdam        v SBV Vitesse              1-0 (1-0)
+    16.45  RKC Waalwijk            v FC Twente '65            1-0 (0-0)
+           PEC Zwolle              v AZ                       0-3 (0-1)
+  Wed Sep/27
+    14.00  AFC Ajax                v Feyenoord Rotterdam      0-4 (0-3)
+
+
+» Matchday 3
+  Wed Sep/27
+    18.45  PSV                     v Go Ahead Eagles          3-0 (1-0)
+    20.00  FC Twente '65           v SBV Vitesse              1-0 (1-0)
+  Thu Sep/28
+    20.00  AZ                      v Heracles Almelo          1-1 (1-0)
+
+
+» Matchday 7
+  Sat Sep/30
+    16.30  Feyenoord Rotterdam     v Go Ahead Eagles          3-1 (1-0)
+    18.45  FC Utrecht              v Almere City FC           0-2 (0-0)
+           PSV                     v FC Volendam              3-1 (1-0)
+    21.00  FC Twente '65           v SC Heerenveen            1-0 (0-0)
+  Sun Oct/1
+    12.15  NEC                     v SBV Vitesse              1-2 (1-1)
+    14.30  SBV Excelsior           v Sparta Rotterdam         2-1 (0-0)
+           Heracles Almelo         v PEC Zwolle               2-1 (0-0)
+    16.45  AZ                      v Fortuna Sittard          4-0 (1-0)
+
+
+» Matchday 8
+  Fri Oct/6
+    20.00  FC Volendam             v FC Utrecht               1-0 (0-0)
+  Sat Oct/7
+    16.30  SC Heerenveen           v NEC                      1-1 (1-1)
+    18.45  Almere City FC          v RKC Waalwijk             1-0 (1-0)
+    20.00  Go Ahead Eagles         v Heracles Almelo          4-0 (2-0)
+    21.00  SBV Vitesse             v SBV Excelsior            0-0
+  Sun Oct/8
+    12.15  PEC Zwolle              v Feyenoord Rotterdam      0-2 (0-1)
+    14.30  Fortuna Sittard         v FC Twente '65            0-3 (0-1)
+           AFC Ajax                v AZ                       1-2 (0-1)
+    16.45  Sparta Rotterdam        v PSV                      0-4 (0-0)
+
+
+» Matchday 9
+  Sat Oct/21
+    18.45  RKC Waalwijk            v FC Volendam              2-1 (1-0)
+           PSV                     v Fortuna Sittard          3-1 (1-0)
+    20.00  NEC                     v Almere City FC           1-1 (0-1)
+    21.00  Feyenoord Rotterdam     v SBV Vitesse              4-0 (2-0)
+           AZ                      v SC Heerenveen            3-0 (1-0)
+  Sun Oct/22
+    12.15  FC Utrecht              v AFC Ajax                 4-3 (1-0)
+    14.30  Heracles Almelo         v FC Twente '65            2-2 (0-2)
+           SBV Excelsior           v PEC Zwolle               2-4 (1-0)
+    16.45  Go Ahead Eagles         v Sparta Rotterdam         0-0
+
+
+» Matchday 10
+  Fri Oct/27
+    20.00  SBV Vitesse             v PEC Zwolle               1-1 (0-1)
+  Sat Oct/28
+    18.45  SC Heerenveen           v Heracles Almelo          3-0 (2-0)
+    20.00  Almere City FC          v Go Ahead Eagles          0-0
+           Sparta Rotterdam        v RKC Waalwijk             2-0 (0-0)
+    21.00  Fortuna Sittard         v FC Utrecht               0-0
+  Sun Oct/29
+    12.15  FC Twente '65           v Feyenoord Rotterdam      2-1 (1-0)
+    14.30  FC Volendam             v SBV Excelsior            3-1 (0-1)
+           PSV                     v AFC Ajax                 5-2 (1-2)
+
+
+» Matchday 3
+  Thu Nov/2
+    20.00  AFC Ajax                v FC Volendam              2-0 (0-0)
+
+
+» Matchday 11
+  Sat Nov/4
+    16.30  Heracles Almelo         v PSV                      0-6 (0-2)
+    18.45  RKC Waalwijk            v Feyenoord Rotterdam      1-2 (1-1)
+           SBV Excelsior           v AZ                       1-1 (0-0)
+    21.00  Go Ahead Eagles         v SBV Vitesse              5-1 (1-0)
+  Sun Nov/5
+    12.15  FC Utrecht              v FC Twente '65            1-1 (1-1)
+    14.30  PEC Zwolle              v Fortuna Sittard          2-0 (1-0)
+           NEC                     v FC Volendam              3-3 (1-1)
+    16.45  AFC Ajax                v SC Heerenveen            4-1 (2-1)
+           Sparta Rotterdam        v Almere City FC           1-2 (0-1)
+
+
+» Matchday 12
+  Fri Nov/10
+    20.00  Fortuna Sittard         v Heracles Almelo          4-1 (4-0)
+  Sat Nov/11
+    18.45  RKC Waalwijk            v Go Ahead Eagles          0-1 (0-1)
+    20.00  FC Twente '65           v NEC                      3-3 (1-0)
+    21.00  SBV Vitesse             v SC Heerenveen            1-3 (1-1)
+  Sun Nov/12
+    12.15  PSV                     v PEC Zwolle               4-0 (2-0)
+    14.30  FC Volendam             v Sparta Rotterdam         1-4 (1-2)
+           Almere City FC          v AFC Ajax                 2-2 (0-0)
+    16.45  Feyenoord Rotterdam     v AZ                       1-0 (1-0)
+    20.00  FC Utrecht              v SBV Excelsior            2-2 (0-0)
+
+
+» Matchday 13
+  Sat Nov/25
+    16.30  SBV Excelsior           v Feyenoord Rotterdam      2-4 (1-1)
+    18.45  FC Twente '65           v PSV                      0-3 (0-1)
+           SC Heerenveen           v Fortuna Sittard          3-0 (1-0)
+    21.00  PEC Zwolle              v RKC Waalwijk             1-2 (1-1)
+           AFC Ajax                v SBV Vitesse              5-0 (2-0)
+  Sun Nov/26
+    12.15  Almere City FC          v Heracles Almelo          0-5 (0-1)
+    14.30  AZ                      v FC Volendam              3-0 (1-0)
+           NEC                     v Go Ahead Eagles          1-1 (0-0)
+    16.45  Sparta Rotterdam        v FC Utrecht               1-2 (1-1)
+
+
+» Matchday 14
+  Fri Dec/1
+    20.00  SC Heerenveen           v Almere City FC           3-0 (2-0)
+  Sat Dec/2
+    18.45  FC Volendam             v PEC Zwolle               0-5 (0-0)
+    20.00  Fortuna Sittard         v SBV Vitesse              3-1 (2-0)
+           RKC Waalwijk            v SBV Excelsior            2-2 (1-0)
+    21.00  Heracles Almelo         v Sparta Rotterdam         0-1 (0-0)
+  Sun Dec/3
+    12.15  Feyenoord Rotterdam     v PSV                      1-2 (0-0)
+    14.30  NEC                     v AFC Ajax                 1-2 (0-0)
+           Go Ahead Eagles         v FC Twente '65            1-3 (0-2)
+    16.45  FC Utrecht              v AZ                       1-1 (0-1)
+
+
+» Matchday 10
+  Wed Dec/6
+    19.00  AZ                      v NEC                      1-2 (0-2)
+
+
+» Matchday 7
+  Wed Dec/6
+    20.00  RKC Waalwijk            v AFC Ajax                 2-3 (1-2)
+
+
+» Matchday 15
+  Thu Dec/7
+    18.45  PSV                     v SC Heerenveen            2-0 (1-0)
+    21.00  Feyenoord Rotterdam     v FC Volendam              3-1 (1-1)
+  Fri Dec/8
+    20.00  FC Twente '65           v SBV Excelsior            4-2 (1-2)
+  Sat Dec/9
+    18.45  AFC Ajax                v Sparta Rotterdam         2-1 (2-0)
+    20.00  PEC Zwolle              v NEC                      1-3 (0-1)
+    21.00  AZ                      v Almere City FC           4-1 (1-0)
+  Sun Dec/10
+    12.15  Go Ahead Eagles         v FC Utrecht               0-2 (0-2)
+    14.30  Fortuna Sittard         v RKC Waalwijk             1-0 (0-0)
+    16.45  SBV Vitesse             v Heracles Almelo          2-0 (1-0)
+
+
+» Matchday 16
+  Fri Dec/15
+    20.00  NEC                     v Fortuna Sittard          4-1 (2-0)
+  Sat Dec/16
+    16.30  FC Utrecht              v RKC Waalwijk             1-1 (1-1)
+    18.45  SBV Excelsior           v Go Ahead Eagles          1-1 (0-0)
+    21.00  SC Heerenveen           v FC Volendam              1-2 (0-1)
+  Sun Dec/17
+    12.15  Almere City FC          v SBV Vitesse              5-0 (2-0)
+    14.30  Sparta Rotterdam        v FC Twente '65            2-2 (0-1)
+           Heracles Almelo         v Feyenoord Rotterdam      0-4 (0-2)
+    16.45  AFC Ajax                v PEC Zwolle               2-2 (1-0)
+    20.00  AZ                      v PSV                      0-4 (0-3)
+
+
+» Matchday 17
+  Fri Jan/12 2024
+    20.00  RKC Waalwijk            v Heracles Almelo          1-2 (0-1)
+  Sat Jan/13
+    16.30  Fortuna Sittard         v Sparta Rotterdam         0-2 (0-1)
+    18.45  FC Twente '65           v AZ                       2-1 (1-1)
+    20.00  PEC Zwolle              v SC Heerenveen            2-2 (0-1)
+    21.00  PSV                     v SBV Excelsior            3-1 (2-0)
+  Sun Jan/14
+    12.15  FC Volendam             v Almere City FC           0-1 (0-1)
+    14.30  Go Ahead Eagles         v AFC Ajax                 2-3 (1-2)
+           SBV Vitesse             v FC Utrecht               0-0
+    16.45  Feyenoord Rotterdam     v NEC                      2-2 (2-1)
+
+
+» Matchday 18
+  Fri Jan/19
+    20.00  SBV Excelsior           v SC Heerenveen            3-0 (2-0)
+  Sat Jan/20
+    16.30  NEC                     v FC Twente '65            1-0 (0-0)
+    18.45  Heracles Almelo         v FC Volendam              1-1 (0-1)
+    20.00  AZ                      v PEC Zwolle               2-2 (0-0)
+  Sun Jan/21
+    12.15  FC Utrecht              v PSV                      1-1 (0-1)
+    14.30  SBV Vitesse             v Feyenoord Rotterdam      1-2 (0-1)
+           Sparta Rotterdam        v Go Ahead Eagles          0-2 (0-1)
+    16.45  AFC Ajax                v RKC Waalwijk             4-1 (2-1)
+  Wed Jan/24
+    18.45  Almere City FC          v Fortuna Sittard          0-0
+
+
+» Matchday 19
+  Fri Jan/26
+    20.00  PEC Zwolle              v SBV Vitesse              1-0 (1-0)
+  Sat Jan/27
+    18.45  RKC Waalwijk            v Sparta Rotterdam         1-1 (0-0)
+           PSV                     v Almere City FC           2-0 (1-0)
+    21.00  SBV Excelsior           v FC Utrecht               1-1 (0-0)
+           Heracles Almelo         v AFC Ajax                 2-4 (1-1)
+  Sun Jan/28
+    12.15  SC Heerenveen           v AZ                       2-2 (1-1)
+    14.30  Go Ahead Eagles         v NEC                      2-2 (0-1)
+           Feyenoord Rotterdam     v FC Twente '65            0-0
+    16.45  FC Volendam             v Fortuna Sittard          0-1 (0-0)
+
+
+» Matchday 20
+  Fri Feb/2
+    20.00  Almere City FC          v SBV Excelsior            2-1 (1-1)
+  Sat Feb/3
+    16.30  FC Twente '65           v RKC Waalwijk             3-0 (1-0)
+    18.45  Fortuna Sittard         v SC Heerenveen            3-3 (0-2)
+    20.00  AFC Ajax                v PSV                      1-1 (1-1)
+    21.00  NEC                     v Heracles Almelo          3-1 (0-1)
+  Sun Feb/4
+    12.15  SBV Vitesse             v Go Ahead Eagles          0-2 (0-1)
+    14.30  AZ                      v Feyenoord Rotterdam      0-1 (0-1)
+           FC Utrecht              v FC Volendam              4-2 (2-1)
+    16.45  Sparta Rotterdam        v PEC Zwolle               0-2 (0-1)
+
+
+» Matchday 21
+  Fri Feb/9
+    20.00  RKC Waalwijk            v NEC                      2-0 (2-0)
+  Sat Feb/10
+    18.45  SBV Excelsior           v FC Twente '65            0-3 (0-3)
+    20.00  Almere City FC          v AZ                       0-0
+    21.00  Heracles Almelo         v SBV Vitesse              3-2 (1-2)
+  Sun Feb/11
+    12.15  Go Ahead Eagles         v PEC Zwolle               1-1 (0-0)
+    14.30  FC Utrecht              v Fortuna Sittard          4-0 (1-0)
+           SC Heerenveen           v AFC Ajax                 3-2 (2-0)
+    16.45  FC Volendam             v PSV                      1-5 (1-1)
+    20.00  Feyenoord Rotterdam     v Sparta Rotterdam         2-0 (0-0)
+
+
+» Matchday 22
+  Fri Feb/16
+    20.00  PSV                     v Heracles Almelo          2-0 (1-0)
+  Sat Feb/17
+    18.45  Sparta Rotterdam        v SBV Excelsior            4-2 (2-2)
+           Fortuna Sittard         v AZ                       1-2 (1-0)
+    21.00  SC Heerenveen           v Go Ahead Eagles          0-2 (0-0)
+           PEC Zwolle              v Almere City FC           0-1 (0-0)
+  Sun Feb/18
+    12.15  FC Twente '65           v FC Utrecht               0-1 (0-1)
+    14.30  AFC Ajax                v NEC                      2-2 (1-0)
+           SBV Vitesse             v FC Volendam              1-1 (1-1)
+    16.45  Feyenoord Rotterdam     v RKC Waalwijk             1-0 (0-0)
+
+
+» Matchday 23
+  Fri Feb/23
+    20.00  FC Utrecht              v Heracles Almelo          1-0 (0-0)
+  Sat Feb/24
+    18.45  RKC Waalwijk            v Fortuna Sittard          0-1 (0-0)
+    20.00  PEC Zwolle              v PSV                      1-7 (1-2)
+    21.00  NEC                     v Sparta Rotterdam         2-0 (2-0)
+  Sun Feb/25
+    12.15  SBV Excelsior           v SBV Vitesse              1-2 (0-0)
+    14.30  Almere City FC          v Feyenoord Rotterdam      0-2 (0-0)
+           FC Twente '65           v Go Ahead Eagles          3-0 (2-0)
+    16.45  AZ                      v AFC Ajax                 2-0 (1-0)
+    20.00  FC Volendam             v SC Heerenveen            0-4 (0-1)
+
+
+» Matchday 24
+  Fri Mar/1
+    20.00  FC Volendam             v NEC                      2-5 (0-3)
+  Sat Mar/2
+    18.45  Go Ahead Eagles         v RKC Waalwijk             1-0 (0-0)
+    20.00  SBV Vitesse             v FC Twente '65            1-2 (1-1)
+    21.00  Sparta Rotterdam        v AZ                       1-1 (0-1)
+  Sun Mar/3
+    12.15  AFC Ajax                v FC Utrecht               2-0 (1-0)
+    14.30  PSV                     v Feyenoord Rotterdam      2-2 (1-1)
+           SC Heerenveen           v PEC Zwolle               2-0 (1-0)
+    16.45  Fortuna Sittard         v SBV Excelsior            5-2 (4-0)
+    20.00  Heracles Almelo         v Almere City FC           2-2 (0-2)
+
+
+» Matchday 25
+  Fri Mar/8
+    20.00  Go Ahead Eagles         v PSV                      0-1 (0-1)
+  Sat Mar/9
+    18.45  FC Twente '65           v Sparta Rotterdam         2-1 (1-0)
+    20.00  Almere City FC          v FC Utrecht               1-1 (1-1)
+    21.00  RKC Waalwijk            v SBV Vitesse              3-1 (1-0)
+  Sun Mar/10
+    12.15  AZ                      v SBV Excelsior            4-0 (3-0)
+    14.30  PEC Zwolle              v FC Volendam              1-1 (0-0)
+           AFC Ajax                v Fortuna Sittard          2-2 (1-0)
+    16.45  NEC                     v SC Heerenveen            2-0 (0-0)
+    20.00  Feyenoord Rotterdam     v Heracles Almelo          3-0 (2-0)
+
+
+» Matchday 26
+  Fri Mar/15
+    20.00  Heracles Almelo         v Go Ahead Eagles          2-0 (0-0)
+  Sat Mar/16
+    18.45  Fortuna Sittard         v PEC Zwolle               3-1 (1-0)
+    20.00  SBV Excelsior           v RKC Waalwijk             1-1 (1-0)
+    21.00  SBV Vitesse             v Almere City FC           1-1 (0-1)
+  Sun Mar/17
+    12.15  FC Volendam             v AZ                       0-4 (0-2)
+    14.30  FC Utrecht              v NEC                      1-0 (0-0)
+           SC Heerenveen           v Feyenoord Rotterdam      2-3 (1-1)
+    16.45  Sparta Rotterdam        v AFC Ajax                 2-2 (1-0)
+    20.00  PSV                     v FC Twente '65            1-0 (0-0)
+
+
+» Matchday 27
+  Sat Mar/30
+    16.30  NEC                     v PSV                      3-1 (1-1)
+    18.45  Sparta Rotterdam        v Fortuna Sittard          4-0 (1-0)
+    20.00  Go Ahead Eagles         v SBV Excelsior            3-0 (1-0)
+           RKC Waalwijk            v SC Heerenveen            1-1 (0-0)
+    21.00  AZ                      v SBV Vitesse              2-0 (0-0)
+  Sun Mar/31
+    12.15  PEC Zwolle              v AFC Ajax                 1-3 (0-2)
+    14.30  Feyenoord Rotterdam     v FC Utrecht               4-2 (1-2)
+           FC Twente '65           v Heracles Almelo          1-0 (0-0)
+    16.45  Almere City FC          v FC Volendam              1-1 (0-0)
+
+
+» Matchday 28
+  Tue Apr/2
+    18.45  SBV Vitesse             v Sparta Rotterdam         1-4 (1-3)
+    20.00  SBV Excelsior           v PSV                      0-2 (0-0)
+    21.00  Fortuna Sittard         v NEC                      1-1 (0-0)
+  Wed Apr/3
+    18.45  Heracles Almelo         v AZ                       5-0 (3-0)
+    20.00  FC Utrecht              v PEC Zwolle               5-1 (0-0)
+    21.00  SC Heerenveen           v FC Twente '65            3-3 (2-3)
+  Thu Apr/4
+    18.45  FC Volendam             v Feyenoord Rotterdam      0-0
+    20.00  RKC Waalwijk            v Almere City FC           0-0
+    21.00  AFC Ajax                v Go Ahead Eagles          1-1 (1-0)
+
+
+» Matchday 29
+  Sat Apr/6
+    16.30  Sparta Rotterdam        v Heracles Almelo          1-2 (1-0)
+    18.45  PSV                     v AZ                       5-1 (2-0)
+    20.00  PEC Zwolle              v SBV Excelsior            2-1 (1-0)
+    21.00  FC Twente '65           v Fortuna Sittard          2-0 (0-0)
+  Sun Apr/7
+    12.15  SBV Vitesse             v NEC                      0-3 (0-0)
+    14.30  Feyenoord Rotterdam     v AFC Ajax                 6-0 (3-0)
+           Go Ahead Eagles         v Almere City FC           1-1 (1-1)
+    16.45  FC Volendam             v RKC Waalwijk             3-2 (2-0)
+    20.00  SC Heerenveen           v FC Utrecht               2-3 (0-1)
+
+
+» Matchday 30
+  Fri Apr/12
+    20.00  SBV Excelsior           v FC Volendam              4-0 (2-0)
+  Sat Apr/13
+    16.30  PSV                     v SBV Vitesse              6-0 (3-0)
+    18.45  AZ                      v RKC Waalwijk             3-2 (0-2)
+    21.00  Almere City FC          v Sparta Rotterdam         2-3 (1-2)
+  Sun Apr/14
+    12.15  Heracles Almelo         v SC Heerenveen            0-2 (0-1)
+    14.30  Fortuna Sittard         v Feyenoord Rotterdam      0-1 (0-1)
+           FC Utrecht              v Go Ahead Eagles          2-1 (1-1)
+    16.45  AFC Ajax                v FC Twente '65            2-1 (0-1)
+    20.00  NEC                     v PEC Zwolle               2-2 (0-1)
+
+
+» Matchday 31
+  Wed Apr/24
+    18.45  FC Twente '65           v Almere City FC           3-1 (1-0)
+    21.00  AFC Ajax                v SBV Excelsior            2-2 (1-1)
+  Thu Apr/25
+    18.55  SC Heerenveen           v PSV                      0-8 (0-5)
+    21.00  Go Ahead Eagles         v Feyenoord Rotterdam      1-3 (1-2)
+  Sun Apr/28
+    12.15  NEC                     v AZ                       0-3 (0-1)
+           PEC Zwolle              v Heracles Almelo          3-1 (1-1)
+    14.30  Sparta Rotterdam        v FC Volendam              1-0 (0-0)
+           RKC Waalwijk            v FC Utrecht               2-2 (1-0)
+    16.45  SBV Vitesse             v Fortuna Sittard          3-2 (1-1)
+
+
+» Matchday 32
+  Fri May/3
+    20.00  Fortuna Sittard         v Go Ahead Eagles          0-0
+           Almere City FC          v SC Heerenveen            1-1 (0-0)
+  Sun May/5
+    12.15  PSV                     v Sparta Rotterdam         4-2 (2-2)
+           Heracles Almelo         v RKC Waalwijk             0-5 (0-2)
+    14.30  FC Utrecht              v SBV Vitesse              1-0 (0-0)
+           FC Volendam             v AFC Ajax                 1-4 (0-1)
+    16.45  AZ                      v FC Twente '65            2-1 (0-1)
+    20.00  Feyenoord Rotterdam     v PEC Zwolle               5-0 (2-0)
+  Mon May/6
+    20.00  SBV Excelsior           v NEC                      0-3 (0-0)
+
+
+» Matchday 33
+  Sun May/12
+    14.30  AFC Ajax                v Almere City FC           3-0 (3-0)
+           SBV Excelsior           v Heracles Almelo          4-0 (1-0)
+           FC Twente '65           v FC Volendam              7-2 (5-2)
+           FC Utrecht              v Sparta Rotterdam         0-1 (0-0)
+           Fortuna Sittard         v PSV                      1-1 (1-0)
+           Go Ahead Eagles         v AZ                       0-3 (0-2)
+           NEC                     v Feyenoord Rotterdam      2-3 (0-1)
+           RKC Waalwijk            v PEC Zwolle               1-1 (0-0)
+           SC Heerenveen           v SBV Vitesse              1-3 (1-1)
+
+
+» Matchday 34
+  Sun May/19
+    14.30  Almere City FC          v NEC                      1-4 (1-2)
+           AZ                      v FC Utrecht               3-3 (3-0)
+           FC Volendam             v Go Ahead Eagles          1-2 (1-1)
+           Feyenoord Rotterdam     v SBV Excelsior            4-0 (0-0)
+           Heracles Almelo         v Fortuna Sittard          0-0
+           PEC Zwolle              v FC Twente '65            1-2 (0-0)
+           PSV                     v RKC Waalwijk             3-1 (1-1)
+           Sparta Rotterdam        v SC Heerenveen            2-1 (0-0)
+           SBV Vitesse             v AFC Ajax                 2-2 (1-1)

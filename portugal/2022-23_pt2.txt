@@ -1,0 +1,533 @@
+= Portuguese Segunda Liga 2022/23
+
+# Date       Sat Aug/6 2022 - Sun May/28 2023 (295d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Sat Aug/6 2022
+    11.00  SC Farense              v União Torreense          2-1 (1-0)
+    14.00  CD Nacional             v CD Tondela               0-1 (0-1)
+           UD Oliveirense          v CD Mafra                 3-1 (0-1)
+    15.30  CD Trofense             v B-SAD                    3-2 (0-1)
+    18.00  SL Benfica B            v Académico de Viseu       1-1 (0-0)
+  Sun Aug/7
+    11.00  CD Feirense             v Estrela Amadora          1-1 (0-0)
+    15.30  Moreirense FC           v UD Vilafranquense        1-0 (1-0)
+    18.00  FC Porto B              v Sporting Covilhã         0-1 (0-1)
+  Mon Aug/8
+    18.00  FC Penafiel             v Leixões SC               0-0
+
+
+» Matchday 2
+  Fri Aug/12
+    18.00  CD Tondela              v SL Benfica B             1-1 (1-1)
+  Sat Aug/13
+    11.00  Sporting Covilhã        v CD Feirense              0-2 (0-2)
+    15.30  Estrela Amadora         v SC Farense               1-1 (1-0)
+           União Torreense         v CD Nacional              0-2 (0-1)
+  Sun Aug/14
+    11.00  Académico de Viseu      v Moreirense FC            1-3 (0-1)
+    15.30  B-SAD                   v FC Porto B               2-3 (1-1)
+           UD Vilafranquense       v UD Oliveirense           2-1 (1-1)
+  Mon Aug/15
+    18.00  CD Mafra                v FC Penafiel              3-0 (0-0)
+    20.30  Leixões SC              v CD Trofense              1-0 (0-0)
+
+
+» Matchday 3
+  Wed Aug/17
+    11.00  SL Benfica B            v Estrela Amadora          1-2 (0-2)
+  Fri Aug/19
+    18.00  CD Tondela              v Sporting Covilhã         1-1 (0-1)
+  Sat Aug/20
+    11.00  SC Farense              v Académico de Viseu       2-2 (1-2)
+    15.30  Moreirense FC           v União Torreense          3-0 (2-0)
+    18.00  CD Trofense             v UD Vilafranquense        1-3 (1-1)
+  Sun Aug/21
+    11.00  CD Feirense             v Leixões SC               1-1 (0-1)
+    14.00  CD Nacional             v CD Mafra                 0-2 (0-1)
+    15.30  FC Porto B              v UD Oliveirense           2-0 (2-0)
+  Mon Aug/22
+    18.00  FC Penafiel             v B-SAD                    3-3 (0-2)
+
+
+» Matchday 4
+  Fri Aug/26
+    18.00  UD Vilafranquense       v CD Feirense              1-0 (0-0)
+  Sat Aug/27
+    11.00  Académico de Viseu      v CD Tondela               2-2 (0-2)
+    14.00  B-SAD                   v Moreirense FC            2-3 (0-1)
+    15.30  Sporting Covilhã        v FC Penafiel              0-2 (0-1)
+  Sun Aug/28
+    11.00  Leixões SC              v CD Nacional              3-0 (1-0)
+    14.00  União Torreense         v SL Benfica B             0-0
+    15.30  Estrela Amadora         v FC Porto B               1-1 (0-1)
+    18.00  UD Oliveirense          v CD Trofense              1-1 (1-0)
+  Mon Aug/29
+    18.00  CD Mafra                v SC Farense               0-3 (0-1)
+
+
+» Matchday 5
+  Sat Sep/3
+    11.00  Académico de Viseu      v União Torreense          1-2 (0-2)
+           SL Benfica B            v Leixões SC               2-1 (1-0)
+    14.00  Moreirense FC           v UD Oliveirense           4-1 (3-1)
+    15.30  FC Porto B              v UD Vilafranquense        0-1 (0-0)
+  Sun Sep/4
+    11.00  FC Penafiel             v CD Trofense              3-0 (1-0)
+    14.00  CD Feirense             v CD Mafra                 0-0
+    15.30  CD Nacional             v B-SAD                    1-3 (1-1)
+           SC Farense              v Sporting Covilhã         2-2 (1-1)
+  Mon Sep/5
+    18.00  CD Tondela              v Estrela Amadora          1-1 (0-0)
+
+
+» Matchday 6
+  Fri Sep/9
+    18.00  UD Oliveirense          v FC Penafiel              1-1 (1-1)
+  Sat Sep/10
+    11.00  UD Vilafranquense       v SL Benfica B             3-2 (2-2)
+    15.30  CD Mafra                v FC Porto B               0-1 (0-1)
+  Sun Sep/11
+    11.00  B-SAD                   v CD Feirense              1-1 (0-1)
+           Sporting Covilhã        v CD Nacional              1-2 (1-0)
+    14.00  Leixões SC              v SC Farense               0-1 (0-0)
+    15.30  União Torreense         v CD Tondela               0-3 (0-3)
+    18.00  CD Trofense             v Moreirense FC            0-3 (0-1)
+  Mon Sep/12
+    18.00  Estrela Amadora         v Académico de Viseu       2-1 (2-1)
+
+
+» Matchday 7
+  Fri Sep/16
+    18.00  CD Tondela              v B-SAD                    3-1 (2-0)
+  Sat Sep/17
+    11.00  Académico de Viseu      v CD Mafra                 2-0 (1-0)
+    14.00  FC Penafiel             v Moreirense FC            1-1 (0-1)
+    15.30  FC Porto B              v União Torreense          2-0 (1-0)
+  Sun Sep/18
+    11.00  SL Benfica B            v Sporting Covilhã         4-0 (2-0)
+           SC Farense              v UD Vilafranquense        2-1 (0-1)
+    14.00  CD Nacional             v CD Trofense              0-1 (0-1)
+    15.30  Estrela Amadora         v Leixões SC               2-2 (0-0)
+  Mon Sep/19
+    18.00  CD Feirense             v UD Oliveirense           3-2 (0-1)
+
+
+» Matchday 8
+  Fri Oct/7
+    18.00  B-SAD                   v SC Farense               2-3 (2-1)
+  Sat Oct/8
+    11.00  Leixões SC              v FC Porto B               0-0
+    12.45  UD Oliveirense          v SL Benfica B             2-2 (0-0)
+    15.30  UD Vilafranquense       v FC Penafiel              0-1 (0-0)
+    20.30  União Torreense         v Estrela Amadora          1-0 (0-0)
+  Sun Oct/9
+    11.00  Sporting Covilhã        v Académico de Viseu       2-3 (1-2)
+    14.00  Moreirense FC           v CD Nacional              3-1 (3-1)
+    15.30  CD Mafra                v CD Tondela               1-1 (1-1)
+  Mon Oct/10
+    18.00  CD Trofense             v CD Feirense              0-3 (0-1)
+
+
+» Matchday 9
+  Sat Oct/15
+    18.00  Estrela Amadora         v Sporting Covilhã         2-1 (1-0)
+  Tue Oct/18
+    18.00  SL Benfica B            v CD Mafra                 5-1 (4-1)
+           União Torreense         v B-SAD                    0-1 (0-1)
+    20.30  CD Feirense             v Moreirense FC            1-2 (0-1)
+  Wed Oct/19
+    15.30  Académico de Viseu      v Leixões SC               2-2 (1-0)
+           FC Porto B              v FC Penafiel              0-0
+    18.00  CD Nacional             v UD Vilafranquense        1-1 (0-0)
+    20.30  CD Tondela              v UD Oliveirense           1-3 (1-2)
+  Wed Nov/16
+    20.15  SC Farense              v CD Trofense              3-1 (1-0)
+
+
+» Matchday 10
+  Sat Oct/22
+    11.00  Sporting Covilhã        v União Torreense          0-3 (0-1)
+    20.30  B-SAD                   v SL Benfica B             0-2 (0-0)
+  Sun Oct/23
+    11.00  CD Trofense             v FC Porto B               0-3 (0-1)
+    14.00  UD Oliveirense          v CD Nacional              0-0
+           FC Penafiel             v CD Feirense              0-1 (0-0)
+    15.30  Moreirense FC           v SC Farense               3-2 (1-1)
+           CD Mafra                v Estrela Amadora          2-2 (1-1)
+    18.00  UD Vilafranquense       v Académico de Viseu       1-3 (1-2)
+  Mon Oct/24
+    18.00  Leixões SC              v CD Tondela               1-1 (0-0)
+
+
+» Matchday 11
+  Sat Oct/29
+    11.00  União Torreense         v CD Mafra                 0-1 (0-0)
+    12.45  FC Porto B              v CD Feirense              0-0
+           CD Nacional             v FC Penafiel              1-1 (0-0)
+    14.00  SL Benfica B            v Moreirense FC            2-1 (2-1)
+  Sun Oct/30
+    11.00  Académico de Viseu      v B-SAD                    2-1 (1-0)
+    14.00  SC Farense              v UD Oliveirense           2-0 (1-0)
+    15.30  Sporting Covilhã        v Leixões SC               1-2 (0-0)
+    18.00  CD Tondela              v CD Trofense              0-0
+  Mon Oct/31
+    18.00  Estrela Amadora         v UD Vilafranquense        1-1 (1-0)
+
+
+» Matchday 12
+  Fri Nov/4
+    18.00  CD Mafra                v Sporting Covilhã         3-2 (1-2)
+  Sat Nov/5
+    11.00  Moreirense FC           v FC Porto B               3-2 (1-1)
+    14.00  Leixões SC              v União Torreense          1-0 (1-0)
+           UD Vilafranquense       v CD Tondela               1-1 (0-1)
+    15.30  FC Penafiel             v SC Farense               0-2 (0-0)
+    18.00  UD Oliveirense          v Académico de Viseu       1-1 (0-1)
+  Sun Nov/6
+    11.00  CD Feirense             v CD Nacional              1-1 (0-1)
+    15.30  B-SAD                   v Estrela Amadora          1-3 (0-1)
+  Mon Nov/7
+    18.00  CD Trofense             v SL Benfica B             1-2 (1-0)
+
+
+» Matchday 13
+  Fri Nov/11
+    20.15  União Torreense         v UD Vilafranquense        0-1 (0-0)
+  Sat Nov/12
+    11.00  Estrela Amadora         v UD Oliveirense           1-0 (0-0)
+    14.00  SC Farense              v CD Feirense              0-0
+    18.00  SL Benfica B            v FC Penafiel              1-2 (0-0)
+           CD Nacional             v FC Porto B               4-0 (2-0)
+  Sun Nov/13
+    11.00  Académico de Viseu      v CD Trofense              3-1 (1-1)
+    14.00  Sporting Covilhã        v B-SAD                    1-1 (0-1)
+  Mon Nov/14
+    18.00  CD Tondela              v Moreirense FC            1-1 (1-0)
+           CD Mafra                v Leixões SC               1-1 (0-1)
+
+
+» Matchday 14
+  Fri Dec/23
+    19.00  UD Vilafranquense       v CD Mafra                 3-3 (2-2)
+    21.15  CD Feirense             v CD Tondela               1-1 (0-0)
+  Wed Dec/28
+    17.00  FC Porto B              v SC Farense               4-0 (1-0)
+  Thu Dec/29
+    17.00  B-SAD                   v Leixões SC               2-0 (1-0)
+    19.00  CD Nacional             v SL Benfica B             2-0 (2-0)
+  Fri Dec/30
+    17.00  UD Oliveirense          v Sporting Covilhã         2-0 (2-0)
+    19.00  CD Trofense             v União Torreense          0-1 (0-1)
+  Sat Dec/31
+    11.00  FC Penafiel             v Académico de Viseu       1-2 (0-1)
+    14.00  Moreirense FC           v Estrela Amadora          0-0
+
+
+» Matchday 15
+  Thu Jan/5 2023
+    18.00  Leixões SC              v Moreirense FC            0-1 (0-0)
+  Sat Jan/7
+    11.00  Académico de Viseu      v FC Porto B               2-1 (0-0)
+    14.00  SC Farense              v CD Nacional              1-0 (1-0)
+    15.30  CD Mafra                v B-SAD                    0-1 (0-1)
+           União Torreense         v UD Oliveirense           1-1 (0-1)
+  Sun Jan/8
+    11.00  Sporting Covilhã        v UD Vilafranquense        0-0
+    14.00  SL Benfica B            v CD Feirense              3-6 (3-1)
+           Estrela Amadora         v CD Trofense              2-2 (0-1)
+  Mon Jan/9
+    20.15  CD Tondela              v FC Penafiel              0-1 (0-1)
+
+
+» Matchday 16
+  Fri Jan/13
+    18.00  Moreirense FC           v CD Mafra                 4-2 (0-1)
+  Sat Jan/14
+    11.00  FC Penafiel             v União Torreense          0-0
+    14.00  CD Trofense             v Sporting Covilhã         2-0 (2-0)
+    15.30  UD Vilafranquense       v Leixões SC               2-0 (0-0)
+  Sun Jan/15
+    11.00  CD Feirense             v Académico de Viseu       1-1 (0-0)
+    14.00  CD Nacional             v Estrela Amadora          0-1 (0-1)
+    15.30  FC Porto B              v CD Tondela               1-1 (0-0)
+           SC Farense              v SL Benfica B             5-2 (3-2)
+    18.00  UD Oliveirense          v B-SAD                    2-1 (0-0)
+
+
+» Matchday 17
+  Sat Jan/21
+    11.00  Académico de Viseu      v CD Nacional              1-1 (1-1)
+    12.45  B-SAD                   v UD Vilafranquense        0-3 (0-2)
+    15.30  Leixões SC              v UD Oliveirense           1-2 (1-2)
+           CD Mafra                v CD Trofense              1-0 (0-0)
+  Sun Jan/22
+    11.00  Sporting Covilhã        v Moreirense FC            0-0
+    14.00  SL Benfica B            v FC Porto B               2-2 (0-0)
+           CD Tondela              v SC Farense               1-0 (1-0)
+    15.30  Estrela Amadora         v FC Penafiel              3-0 (2-0)
+  Mon Jan/23
+    18.00  União Torreense         v CD Feirense              4-2 (2-0)
+
+
+» Matchday 18
+  Sun Jan/29
+    11.00  União Torreense         v SC Farense               1-0 (0-0)
+    12.45  Sporting Covilhã        v FC Porto B               1-2 (0-2)
+    14.00  CD Tondela              v CD Nacional              1-0 (0-0)
+           UD Vilafranquense       v Moreirense FC            1-2 (1-1)
+    15.30  Estrela Amadora         v CD Feirense              4-1 (1-0)
+           CD Mafra                v UD Oliveirense           2-3 (0-2)
+    18.00  Leixões SC              v FC Penafiel              2-1 (0-0)
+  Mon Jan/30
+    18.00  B-SAD                   v CD Trofense              1-1 (0-0)
+  Tue Jan/31
+    18.00  Académico de Viseu      v SL Benfica B             2-0 (0-0)
+
+
+» Matchday 19
+  Fri Feb/3
+    20.15  SC Farense              v Estrela Amadora          2-2 (1-1)
+  Sat Feb/4
+    11.00  UD Oliveirense          v UD Vilafranquense        2-2 (0-2)
+    14.00  Moreirense FC           v Académico de Viseu       1-0 (1-0)
+    15.30  FC Porto B              v B-SAD                    1-2 (1-1)
+           CD Nacional             v União Torreense          3-1 (1-1)
+  Sun Feb/5
+    11.00  FC Penafiel             v CD Mafra                 1-0 (0-0)
+    14.00  SL Benfica B            v CD Tondela               2-1 (0-0)
+           CD Trofense             v Leixões SC               0-1 (0-0)
+  Mon Feb/6
+    18.00  CD Feirense             v Sporting Covilhã         0-2 (0-1)
+
+
+» Matchday 20
+  Fri Feb/10
+    18.00  União Torreense         v Moreirense FC            1-0 (0-0)
+  Sat Feb/11
+    11.00  Leixões SC              v CD Feirense              0-1 (0-1)
+    14.00  Estrela Amadora         v SL Benfica B             2-1 (0-0)
+    15.30  Sporting Covilhã        v CD Tondela               1-0 (0-0)
+           UD Vilafranquense       v CD Trofense              0-1 (0-0)
+  Sun Feb/12
+    11.00  UD Oliveirense          v FC Porto B               2-1 (1-0)
+    14.00  Académico de Viseu      v SC Farense               2-0 (1-0)
+  Mon Feb/13
+    18.00  B-SAD                   v FC Penafiel              2-2 (1-1)
+           CD Mafra                v CD Nacional              3-3 (1-2)
+
+
+» Matchday 21
+  Fri Feb/17
+    18.00  CD Tondela              v Académico de Viseu       1-1 (1-1)
+  Sat Feb/18
+    11.00  FC Penafiel             v Sporting Covilhã         1-1 (0-0)
+    14.00  CD Trofense             v UD Oliveirense           2-1 (1-1)
+    15.30  CD Feirense             v UD Vilafranquense        1-2 (0-0)
+           FC Porto B              v Estrela Amadora          1-2 (0-1)
+  Sun Feb/19
+    11.00  CD Nacional             v Leixões SC               1-2 (0-1)
+    14.00  Moreirense FC           v B-SAD                    4-1 (1-1)
+    15.30  SL Benfica B            v União Torreense          1-2 (0-1)
+           SC Farense              v CD Mafra                 1-0 (0-0)
+
+
+» Matchday 22
+  Fri Feb/24
+    18.00  CD Trofense             v FC Penafiel              1-2 (0-1)
+  Sat Feb/25
+    11.00  União Torreense         v Académico de Viseu       1-2 (1-1)
+    14.00  Leixões SC              v SL Benfica B             1-1 (1-1)
+    15.30  UD Oliveirense          v Moreirense FC            2-2 (1-2)
+  Sun Feb/26
+    11.00  CD Mafra                v CD Feirense              1-1 (1-1)
+           UD Vilafranquense       v FC Porto B               1-2 (1-1)
+    14.00  B-SAD                   v CD Nacional              0-1 (0-0)
+           Sporting Covilhã        v SC Farense               1-0 (1-0)
+    15.30  Estrela Amadora         v CD Tondela               0-0
+
+
+» Matchday 23
+  Sat Mar/4
+    11.00  SL Benfica B            v UD Vilafranquense        0-2 (0-0)
+           FC Penafiel             v UD Oliveirense           1-1 (0-1)
+    14.00  Moreirense FC           v CD Trofense              1-0 (1-0)
+    15.30  CD Tondela              v União Torreense          1-1 (0-1)
+  Sun Mar/5
+    11.00  SC Farense              v Leixões SC               1-0 (0-0)
+    14.00  Académico de Viseu      v Estrela Amadora          1-1 (0-0)
+           CD Nacional             v Sporting Covilhã         2-0 (0-0)
+    15.30  CD Feirense             v B-SAD                    0-1 (0-0)
+           FC Porto B              v CD Mafra                 1-1 (0-1)
+
+
+» Matchday 24
+  Fri Mar/10
+    18.00  Moreirense FC           v FC Penafiel              3-1 (1-1)
+  Sat Mar/11
+    11.00  UD Vilafranquense       v SC Farense               1-1 (0-0)
+    14.00  União Torreense         v FC Porto B               3-0 (1-0)
+           CD Trofense             v CD Nacional              2-2 (2-1)
+    15.30  UD Oliveirense          v CD Feirense              0-1 (0-0)
+  Sun Mar/12
+    11.00  Sporting Covilhã        v SL Benfica B             2-1 (1-0)
+    14.00  CD Mafra                v Académico de Viseu       2-0 (1-0)
+    15.30  B-SAD                   v CD Tondela               0-2 (0-1)
+           Leixões SC              v Estrela Amadora          1-1 (1-1)
+
+
+» Matchday 25
+  Sat Mar/18
+    11.00  Estrela Amadora         v União Torreense          1-0 (1-0)
+    14.00  CD Feirense             v CD Trofense              1-0 (1-0)
+    15.30  CD Nacional             v Moreirense FC            0-2 (0-1)
+  Sun Mar/19
+    11.00  SL Benfica B            v UD Oliveirense           2-0 (0-0)
+           CD Tondela              v CD Mafra                 1-2 (1-1)
+    12.45  Académico de Viseu      v Sporting Covilhã         1-0 (1-0)
+    14.00  FC Penafiel             v UD Vilafranquense        1-1 (0-0)
+    15.30  FC Porto B              v Leixões SC               4-0 (2-0)
+           SC Farense              v B-SAD                    4-0 (2-0)
+
+
+» Matchday 26
+  Sat Apr/1
+    11.00  CD Trofense             v SC Farense               2-1 (1-0)
+    12.45  CD Mafra                v SL Benfica B             1-1 (1-1)
+    14.00  Moreirense FC           v CD Feirense              0-0
+    15.30  UD Oliveirense          v CD Tondela               0-0
+  Sun Apr/2
+    11.00  B-SAD                   v União Torreense          1-3 (1-1)
+           Leixões SC              v Académico de Viseu       2-3 (1-3)
+    14.00  Sporting Covilhã        v Estrela Amadora          0-2 (0-2)
+    15.30  UD Vilafranquense       v CD Nacional              4-0 (0-0)
+  Mon Apr/3
+    18.00  FC Penafiel             v FC Porto B               1-2 (0-2)
+
+
+» Matchday 27
+  Fri Apr/7
+    11.00  CD Nacional             v UD Oliveirense           0-3 (0-1)
+    14.00  SC Farense              v Moreirense FC            3-1 (1-1)
+    15.30  Estrela Amadora         v CD Mafra                 2-2 (1-1)
+  Sat Apr/8
+    11.00  Académico de Viseu      v UD Vilafranquense        2-0 (2-0)
+           SL Benfica B            v B-SAD                    0-1 (0-0)
+    14.00  CD Tondela              v Leixões SC               2-3 (0-1)
+    15.30  CD Feirense             v FC Penafiel              2-1 (1-0)
+           FC Porto B              v CD Trofense              4-2 (2-1)
+           União Torreense         v Sporting Covilhã         3-1 (1-0)
+
+
+» Matchday 28
+  Fri Apr/14
+    18.00  UD Oliveirense          v SC Farense               1-2 (0-1)
+  Sat Apr/15
+    11.00  B-SAD                   v Académico de Viseu       1-1 (1-1)
+    14.00  CD Trofense             v CD Tondela               1-2 (1-0)
+    15.30  Leixões SC              v Sporting Covilhã         3-2 (2-0)
+           CD Mafra                v União Torreense          1-0 (0-0)
+  Sun Apr/16
+    11.00  Moreirense FC           v SL Benfica B             7-4 (2-0)
+    14.00  CD Feirense             v FC Porto B               3-0 (2-0)
+    15.30  FC Penafiel             v CD Nacional              3-0 (1-0)
+  Mon Apr/17
+    20.15  UD Vilafranquense       v Estrela Amadora          0-1 (0-0)
+
+
+» Matchday 29
+  Fri Apr/21
+    18.00  CD Nacional             v CD Feirense              0-0
+  Sat Apr/22
+    11.00  Académico de Viseu      v UD Oliveirense           1-4 (0-3)
+    14.00  União Torreense         v Leixões SC               2-0 (1-0)
+    15.30  SC Farense              v FC Penafiel              2-1 (0-0)
+  Sun Apr/23
+    11.00  CD Tondela              v UD Vilafranquense        1-0 (0-0)
+    14.00  Estrela Amadora         v B-SAD                    2-0 (2-0)
+    15.30  FC Porto B              v Moreirense FC            0-0
+  Mon Apr/24
+    18.00  SL Benfica B            v CD Trofense              0-0
+           Sporting Covilhã        v CD Mafra                 1-2 (0-1)
+
+
+» Matchday 30
+  Fri Apr/28
+    18.00  UD Oliveirense          v Estrela Amadora          1-2 (1-0)
+  Sat Apr/29
+    11.00  CD Feirense             v SC Farense               1-2 (0-1)
+           UD Vilafranquense       v União Torreense          2-0 (2-0)
+    14.00  Moreirense FC           v CD Tondela               2-1 (0-1)
+  Sun Apr/30
+    11.00  B-SAD                   v Sporting Covilhã         0-1 (0-0)
+           Leixões SC              v CD Mafra                 0-2 (0-1)
+    12.45  FC Porto B              v CD Nacional              1-1 (0-0)
+    14.00  FC Penafiel             v SL Benfica B             0-3 (0-2)
+    15.30  CD Trofense             v Académico de Viseu       1-0 (0-0)
+
+
+» Matchday 31
+  Fri May/5
+    18.00  Leixões SC              v B-SAD                    0-2 (0-0)
+  Sat May/6
+    11.00  CD Mafra                v UD Vilafranquense        2-1 (0-1)
+    14.00  Sporting Covilhã        v UD Oliveirense           2-1 (1-1)
+    15.30  CD Tondela              v CD Feirense              1-1 (0-0)
+    18.00  Estrela Amadora         v Moreirense FC            2-4 (1-0)
+  Sun May/7
+    11.00  SL Benfica B            v CD Nacional              1-2 (1-1)
+           União Torreense         v CD Trofense              0-0
+    14.00  Académico de Viseu      v FC Penafiel              0-0
+    15.30  SC Farense              v FC Porto B               2-0 (0-0)
+
+
+» Matchday 32
+  Fri May/12
+    18.00  CD Trofense             v Estrela Amadora          2-2 (1-1)
+  Sat May/13
+    11.00  B-SAD                   v CD Mafra                 2-2 (0-1)
+    14.00  CD Feirense             v SL Benfica B             1-2 (1-2)
+  Sun May/14
+    11.00  CD Nacional             v SC Farense               0-1 (0-0)
+    14.00  FC Penafiel             v CD Tondela               1-0 (0-0)
+    15.30  Moreirense FC           v Leixões SC               4-2 (0-0)
+           FC Porto B              v Académico de Viseu       3-1 (2-1)
+    18.00  UD Vilafranquense       v Sporting Covilhã         0-0
+  Mon May/15
+    18.00  UD Oliveirense          v União Torreense          3-1 (0-0)
+
+
+» Matchday 33
+  Fri May/19
+    18.00  SL Benfica B            v SC Farense               0-1 (0-0)
+           Leixões SC              v UD Vilafranquense        2-0 (0-0)
+  Sat May/20
+    11.00  Sporting Covilhã        v CD Trofense              0-2 (0-1)
+    14.00  Académico de Viseu      v CD Feirense              2-1 (1-1)
+    15.30  B-SAD                   v UD Oliveirense           2-1 (2-1)
+  Sun May/21
+    11.00  Estrela Amadora         v CD Nacional              0-1 (0-0)
+    14.00  CD Mafra                v Moreirense FC            0-2 (0-0)
+    15.30  União Torreense         v FC Penafiel              5-1 (2-0)
+  Mon May/22
+    18.00  CD Tondela              v FC Porto B               0-1 (0-0)
+
+
+» Matchday 34
+  Thu May/25
+    20.15  Moreirense FC           v Sporting Covilhã         6-4 (4-3)
+  Fri May/26
+    18.00  CD Feirense             v União Torreense          4-1 (3-1)
+  Sat May/27
+    11.00  FC Penafiel             v Estrela Amadora          2-4 (2-0)
+    12.45  FC Porto B              v SL Benfica B             3-1 (1-0)
+  Sun May/28
+    11.00  UD Oliveirense          v Leixões SC               4-3 (4-1)
+    15.30  CD Nacional             v Académico de Viseu       3-2 (0-2)
+           CD Trofense             v CD Mafra                 1-2 (0-1)
+           UD Vilafranquense       v B-SAD                    1-1 (0-1)
+    18.00  SC Farense              v CD Tondela               3-1 (3-1)

@@ -1,0 +1,538 @@
+= Portuguese Segunda Liga 2023/24
+
+# Date       Sat Aug/12 2023 - Sun May/19 2024 (281d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Sat Aug/12 2023
+    11.00  Paços de Ferreira       v União Leiria             0-0
+    14.00  CD Nacional             v CS Marítimo              1-2 (1-1)
+    18.00  AVS                     v Os Belenenses            1-0 (1-0)
+  Sun Aug/13
+    11.00  Académico de Viseu      v Vilaverdense FC          1-1 (0-0)
+           FC Porto B              v CD Tondela               1-1 (1-0)
+    14.00  FC Penafiel             v Leixões SC               3-0 (1-0)
+    18.00  SL Benfica B            v CD Mafra                 3-2 (2-1)
+  Tue Aug/15
+    11.00  UD Oliveirense          v CD Feirense              3-1 (1-0)
+  Wed Aug/16
+    18.00  CD Santa Clara          v União Torreense          2-0 (1-0)
+
+
+» Matchday 2
+  Fri Aug/18
+    18.00  CS Marítimo             v AVS                      0-1 (0-0)
+  Sat Aug/19
+    11.00  CD Mafra                v Paços de Ferreira        2-1 (2-1)
+    14.00  União Leiria            v SL Benfica B             3-1 (2-1)
+    15.30  CD Tondela              v Académico de Viseu       2-2 (2-1)
+  Sun Aug/20
+    11.00  Vilaverdense FC         v UD Oliveirense           1-2 (0-1)
+    14.00  Os Belenenses           v FC Porto B               1-1 (0-0)
+    20.30  CD Feirense             v FC Penafiel              2-0 (0-0)
+  Mon Aug/21
+    18.45  União Torreense         v CD Nacional              3-0 (2-0)
+    20.45  Leixões SC              v CD Santa Clara           0-0
+
+
+» Matchday 3
+  Sat Aug/26
+    11.00  Académico de Viseu      v CD Feirense              2-0 (1-0)
+    14.00  Paços de Ferreira       v CD Tondela               5-1 (4-0)
+    15.30  Os Belenenses           v CD Mafra                 1-1 (1-0)
+  Sun Aug/27
+    11.00  FC Porto B              v União Leiria             2-1 (0-0)
+           UD Oliveirense          v FC Penafiel              3-1 (2-1)
+    14.00  CD Santa Clara          v Vilaverdense FC          2-0 (1-0)
+    15.30  SL Benfica B            v CS Marítimo              0-1 (0-1)
+    18.00  AVS                     v União Torreense          0-0
+  Mon Aug/28
+    18.00  CD Nacional             v Leixões SC               3-1 (2-0)
+
+
+» Matchday 4
+  Fri Sep/1
+    18.00  CD Tondela              v Os Belenenses            0-1 (0-0)
+  Sat Sep/2
+    11.00  CD Mafra                v FC Porto B               2-1 (2-1)
+    14.00  CD Feirense             v CD Santa Clara           0-2 (0-1)
+    15.30  União Leiria            v AVS                      1-2 (0-1)
+           FC Penafiel             v Académico de Viseu       0-0
+    18.00  CS Marítimo             v Paços de Ferreira        2-0 (1-0)
+  Sun Sep/3
+    11.00  União Torreense         v UD Oliveirense           3-1 (2-0)
+    14.00  Leixões SC              v SL Benfica B             1-1 (0-1)
+    15.30  Vilaverdense FC         v CD Nacional              1-2 (0-1)
+
+
+» Matchday 5
+  Fri Sep/15
+    20.15  Paços de Ferreira       v Leixões SC               1-2 (0-2)
+  Sat Sep/16
+    11.00  AVS                     v Vilaverdense FC          2-0 (1-0)
+           FC Porto B              v CS Marítimo              0-2 (0-0)
+    14.00  CD Nacional             v CD Feirense              1-0 (0-0)
+    15.30  CD Santa Clara          v FC Penafiel              0-0
+    18.00  CD Tondela              v CD Mafra                 2-1 (0-0)
+  Sun Sep/17
+    11.00  UD Oliveirense          v Académico de Viseu       2-2 (0-1)
+    14.00  Os Belenenses           v União Leiria             0-5 (0-3)
+    18.00  SL Benfica B            v União Torreense          0-2 (0-0)
+
+
+» Matchday 6
+  Fri Sep/29
+    18.00  Vilaverdense FC         v SL Benfica B             1-4 (0-3)
+  Sat Sep/30
+    11.00  UD Oliveirense          v CD Santa Clara           1-1 (1-0)
+    14.00  CS Marítimo             v CD Mafra                 1-2 (1-1)
+  Sun Oct/1
+    11.00  Académico de Viseu      v AVS                      1-2 (0-0)
+    14.00  Leixões SC              v FC Porto B               1-3 (1-0)
+    18.00  CD Feirense             v Paços de Ferreira        1-0 (0-0)
+    20.30  União Leiria            v CD Tondela               2-2 (1-0)
+  Mon Oct/2
+    18.00  FC Penafiel             v CD Nacional              1-4 (1-3)
+    20.15  União Torreense         v Os Belenenses            2-2 (1-0)
+
+
+» Matchday 7
+  Fri Oct/6
+    18.00  CD Santa Clara          v Académico de Viseu       2-0 (1-0)
+  Sat Oct/7
+    11.00  CD Nacional             v UD Oliveirense           5-0 (4-0)
+    14.00  CD Tondela              v Leixões SC               4-2 (2-1)
+    18.00  Paços de Ferreira       v Vilaverdense FC          2-0 (0-0)
+  Sun Oct/8
+    11.00  FC Porto B              v União Torreense          2-2 (1-0)
+           CD Mafra                v União Leiria             3-0 (2-0)
+    14.00  Os Belenenses           v CS Marítimo              1-2 (0-1)
+    18.00  SL Benfica B            v CD Feirense              2-3 (1-3)
+  Mon Oct/9
+    20.15  AVS                     v FC Penafiel              1-0 (1-0)
+
+
+» Matchday 8
+  Fri Oct/27
+    18.00  FC Penafiel             v CD Mafra                 1-0 (1-0)
+  Sat Oct/28
+    11.00  União Torreense         v Paços de Ferreira        1-2 (1-1)
+    14.00  Leixões SC              v Os Belenenses            1-0 (0-0)
+    15.30  CS Marítimo             v CD Tondela               2-2 (0-0)
+  Sun Oct/29
+    11.00  Académico de Viseu      v CD Nacional              1-1 (1-1)
+    14.00  CD Feirense             v AVS                      1-2 (1-1)
+    15.30  CD Santa Clara          v SL Benfica B             1-1 (1-1)
+    18.00  UD Oliveirense          v União Leiria             1-4 (0-2)
+  Mon Oct/30
+    18.00  Vilaverdense FC         v FC Porto B               0-5 (0-1)
+
+
+» Matchday 9
+  Sat Nov/4
+    11.00  FC Porto B              v CD Feirense              2-0 (0-0)
+           CD Mafra                v Leixões SC               0-1 (0-0)
+    15.30  Os Belenenses           v Vilaverdense FC          0-2 (0-1)
+    18.00  SL Benfica B            v FC Penafiel              1-0 (0-0)
+           CD Nacional             v CD Santa Clara           1-1 (1-1)
+  Sun Nov/5
+    11.00  AVS                     v UD Oliveirense           0-1 (0-0)
+    14.00  União Leiria            v CS Marítimo              4-3 (3-2)
+    18.00  CD Tondela              v União Torreense          1-2 (1-1)
+  Mon Nov/6
+    18.00  Paços de Ferreira       v Académico de Viseu       1-0 (1-0)
+
+
+» Matchday 10
+  Fri Nov/10
+    18.00  CD Feirense             v Os Belenenses            1-0 (1-0)
+  Sat Nov/11
+    11.00  CD Nacional             v União Leiria             2-0 (1-0)
+    14.00  FC Penafiel             v FC Porto B               3-2 (1-0)
+    15.30  CD Santa Clara          v AVS                      2-1 (0-1)
+    18.00  UD Oliveirense          v Paços de Ferreira        0-0
+  Sun Nov/12
+    11.00  União Torreense         v CD Mafra                 0-0
+           Vilaverdense FC         v CD Tondela               1-2 (1-1)
+    15.30  Leixões SC              v CS Marítimo              0-1 (0-1)
+    18.00  Académico de Viseu      v SL Benfica B             1-0 (1-0)
+
+
+» Matchday 11
+  Sat Nov/18
+    11.00  CD Mafra                v Vilaverdense FC          1-0 (1-0)
+    14.00  Paços de Ferreira       v CD Santa Clara           0-2 (0-2)
+    15.30  CD Tondela              v CD Feirense              2-0 (1-0)
+    18.00  União Leiria            v Leixões SC               0-0
+  Sun Nov/19
+    11.00  AVS                     v CD Nacional              0-1 (0-1)
+    14.00  Os Belenenses           v FC Penafiel              2-0 (1-0)
+    15.30  CS Marítimo             v União Torreense          1-2 (1-2)
+  Sat Nov/25
+    11.00  FC Porto B              v Académico de Viseu       3-0 (1-0)
+    18.00  SL Benfica B            v UD Oliveirense           1-1 (0-1)
+
+
+» Matchday 12
+  Fri Dec/1
+    15.30  Vilaverdense FC         v União Leiria             1-0 (1-0)
+    18.00  Académico de Viseu      v Os Belenenses            3-1 (2-0)
+  Sat Dec/2
+    11.00  UD Oliveirense          v FC Porto B               1-3 (0-0)
+    14.00  CD Nacional             v Paços de Ferreira        2-1 (1-0)
+    20.30  AVS                     v SL Benfica B             1-0 (1-0)
+  Sun Dec/3
+    11.00  União Torreense         v Leixões SC               0-0
+    14.00  FC Penafiel             v CD Tondela               0-2 (0-1)
+    15.30  CD Santa Clara          v CS Marítimo              2-1 (1-1)
+  Mon Dec/4
+    18.00  CD Feirense             v CD Mafra                 3-2 (3-0)
+
+
+» Matchday 13
+  Fri Dec/8
+    20.30  União Leiria            v União Torreense          1-0 (1-0)
+  Sat Dec/9
+    11.00  FC Porto B              v AVS                      2-3 (0-1)
+           Paços de Ferreira       v FC Penafiel              2-1 (1-1)
+    14.00  CD Tondela              v CD Santa Clara           2-3 (1-1)
+    15.30  Leixões SC              v CD Feirense              0-0
+    18.00  SL Benfica B            v CD Nacional              2-1 (0-1)
+  Sun Dec/10
+    11.00  CD Mafra                v Académico de Viseu       1-1 (1-1)
+    14.00  Os Belenenses           v UD Oliveirense           1-0 (1-0)
+    15.30  CS Marítimo             v Vilaverdense FC          4-0 (1-0)
+
+
+» Matchday 14
+  Sat Dec/16
+    11.00  Académico de Viseu      v União Torreense          0-0
+    14.00  FC Penafiel             v União Leiria             1-0 (0-0)
+    15.30  CD Nacional             v Os Belenenses            5-0 (2-0)
+    18.00  AVS                     v Paços de Ferreira        2-0 (1-0)
+  Sun Dec/17
+    11.00  Vilaverdense FC         v Leixões SC               1-0 (1-0)
+    12.00  CD Santa Clara          v FC Porto B               2-1 (2-1)
+    14.00  CD Feirense             v CS Marítimo              0-1 (0-0)
+    15.30  SL Benfica B            v CD Tondela               1-1 (0-0)
+    18.00  UD Oliveirense          v CD Mafra                 1-3 (0-2)
+
+
+» Matchday 15
+  Thu Dec/21
+    18.00  União Torreense         v Vilaverdense FC          3-1 (1-1)
+  Fri Dec/22
+    20.45  Os Belenenses           v CD Santa Clara           0-0
+  Sat Dec/23
+    12.45  CS Marítimo             v FC Penafiel              0-0
+  Sat Dec/30
+    11.00  FC Porto B              v CD Nacional              2-3 (1-1)
+           Leixões SC              v Académico de Viseu       1-2 (0-1)
+    14.00  CD Tondela              v UD Oliveirense           1-0 (1-0)
+           Paços de Ferreira       v SL Benfica B             2-2 (2-2)
+    18.00  União Leiria            v CD Feirense              1-1 (1-1)
+  Sun Dec/31
+    11.00  CD Mafra                v AVS                      0-2 (0-2)
+
+
+» Matchday 16
+  Sat Jan/6 2024
+    11.00  UD Oliveirense          v CS Marítimo              1-1 (0-0)
+    14.00  FC Penafiel             v Vilaverdense FC          2-1 (2-0)
+    15.30  SL Benfica B            v Os Belenenses            2-1 (1-0)
+           CD Santa Clara          v CD Mafra                 0-1 (0-0)
+    18.00  Académico de Viseu      v União Leiria             1-0 (0-0)
+           CD Nacional             v CD Tondela               1-1 (1-0)
+  Sun Jan/7
+    11.00  AVS                     v Leixões SC               1-3 (0-2)
+    14.00  Paços de Ferreira       v FC Porto B               3-0 (2-0)
+    15.30  CD Feirense             v União Torreense          3-1 (1-0)
+
+
+» Matchday 17
+  Fri Jan/12
+    18.00  Leixões SC              v UD Oliveirense           0-2 (0-0)
+  Sat Jan/13
+    14.00  Os Belenenses           v Paços de Ferreira        0-1 (0-0)
+  Sun Jan/14
+    11.00  Vilaverdense FC         v CD Feirense              2-1 (0-1)
+    14.00  CD Tondela              v AVS                      3-2 (1-1)
+    15.30  FC Porto B              v SL Benfica B             0-3 (0-1)
+           CS Marítimo             v Académico de Viseu       1-1 (0-1)
+    18.00  União Leiria            v CD Santa Clara           0-1 (0-0)
+  Mon Jan/15
+    18.45  CD Mafra                v CD Nacional              0-0
+    20.45  União Torreense         v FC Penafiel              1-0 (1-0)
+
+
+» Matchday 18
+  Fri Dec/22 2023
+    18.45  União Leiria            v Paços de Ferreira        1-1 (1-1)
+  Fri Jan/19 2024
+    18.00  Vilaverdense FC         v Académico de Viseu       0-2 (0-1)
+  Sat Jan/20
+    11.00  CD Mafra                v SL Benfica B             1-2 (1-1)
+    14.00  Os Belenenses           v AVS                      1-3 (1-1)
+    15.30  CD Feirense             v UD Oliveirense           0-0
+  Sun Jan/21
+    11.00  CD Tondela              v FC Porto B               0-0
+    14.00  Leixões SC              v FC Penafiel              0-1 (0-0)
+    15.30  União Torreense         v CD Santa Clara           1-2 (0-0)
+    18.00  CS Marítimo             v CD Nacional              3-1 (2-0)
+
+
+» Matchday 19
+  Sun Jan/28
+    11.00  AVS                     v CS Marítimo              3-2 (2-2)
+    12.45  Paços de Ferreira       v CD Mafra                 0-1 (0-1)
+    14.00  CD Santa Clara          v Leixões SC               2-0 (1-0)
+    15.30  FC Porto B              v Os Belenenses            3-0 (2-0)
+           CD Nacional             v União Torreense          2-1 (1-1)
+    18.00  UD Oliveirense          v Vilaverdense FC          0-1 (0-0)
+  Mon Jan/29
+    16.00  SL Benfica B            v União Leiria             0-1 (0-0)
+    18.00  FC Penafiel             v CD Feirense              2-1 (2-0)
+  Tue Jan/30
+    20.15  Académico de Viseu      v CD Tondela               1-1 (0-0)
+
+
+» Matchday 20
+  Fri Feb/2
+    18.45  Vilaverdense FC         v CD Santa Clara           1-1 (0-1)
+    20.45  CD Mafra                v Os Belenenses            1-1 (1-0)
+  Sat Feb/3
+    11.00  União Leiria            v FC Porto B               1-1 (1-1)
+    14.00  União Torreense         v AVS                      2-1 (0-1)
+    15.30  FC Penafiel             v UD Oliveirense           1-1 (0-0)
+  Sun Feb/4
+    14.00  CS Marítimo             v SL Benfica B             3-1 (1-1)
+  Mon Feb/5
+    18.00  CD Tondela              v Paços de Ferreira        1-1 (1-1)
+  Wed Feb/21
+    18.00  CD Feirense             v Académico de Viseu       0-3 (0-0)
+  Wed Feb/28
+    20.15  Leixões SC              v CD Nacional              1-1 (0-0)
+
+
+» Matchday 21
+  Fri Feb/9
+    18.00  UD Oliveirense          v União Torreense          1-2 (1-1)
+  Sat Feb/10
+    11.00  Académico de Viseu      v FC Penafiel              1-0 (0-0)
+    14.00  CD Nacional             v Vilaverdense FC          3-2 (2-1)
+    15.30  SL Benfica B            v Leixões SC               1-1 (1-0)
+  Sun Feb/11
+    11.00  AVS                     v União Leiria             2-1 (1-0)
+    14.00  Paços de Ferreira       v CS Marítimo              1-2 (0-1)
+    15.30  Os Belenenses           v CD Tondela               0-0
+           FC Porto B              v CD Mafra                 1-1 (1-0)
+  Mon Feb/12
+    18.00  CD Santa Clara          v CD Feirense              2-1 (2-1)
+
+
+» Matchday 22
+  Fri Feb/16
+    18.00  Leixões SC              v Paços de Ferreira        1-1 (0-1)
+  Sat Feb/17
+    11.00  CD Mafra                v CD Tondela               1-3 (0-1)
+    14.00  União Torreense         v SL Benfica B             3-1 (1-1)
+    15.30  CS Marítimo             v FC Porto B               1-0 (1-0)
+    18.00  União Leiria            v Os Belenenses            4-2 (0-1)
+  Sun Feb/18
+    11.00  Académico de Viseu      v UD Oliveirense           2-2 (0-0)
+    14.00  FC Penafiel             v CD Santa Clara           1-2 (1-1)
+    15.30  CD Feirense             v CD Nacional              2-1 (1-1)
+  Mon Feb/19
+    18.00  Vilaverdense FC         v AVS                      2-3 (0-2)
+
+
+» Matchday 23
+  Sat Feb/24
+    11.00  CD Tondela              v União Leiria             1-1 (0-0)
+    14.00  CD Santa Clara          v UD Oliveirense           3-0 (3-0)
+    15.30  FC Porto B              v Leixões SC               0-2 (0-1)
+           CD Nacional             v FC Penafiel              3-2 (1-1)
+    18.00  SL Benfica B            v Vilaverdense FC          2-0 (1-0)
+  Sun Feb/25
+    11.00  CD Mafra                v CS Marítimo              0-0
+    14.00  Os Belenenses           v União Torreense          0-2 (0-1)
+  Mon Feb/26
+    18.00  Paços de Ferreira       v CD Feirense              1-0 (1-0)
+  Tue Feb/27
+    20.15  AVS                     v Académico de Viseu       2-0 (0-0)
+
+
+» Matchday 24
+  Sat Mar/2
+    11.00  União Leiria            v CD Mafra                 2-3 (2-0)
+    14.00  CD Feirense             v SL Benfica B             1-2 (1-0)
+  Sun Mar/3
+    11.00  UD Oliveirense          v CD Nacional              0-1 (0-0)
+    12.45  União Torreense         v FC Porto B               0-1 (0-1)
+    14.00  FC Penafiel             v AVS                      0-1 (0-0)
+    15.30  Leixões SC              v CD Tondela               1-1 (1-0)
+  Mon Mar/4
+    18.00  Académico de Viseu      v CD Santa Clara           1-1 (1-0)
+    20.15  Vilaverdense FC         v Paços de Ferreira        0-1 (0-0)
+  Tue Mar/5
+    18.00  CS Marítimo             v Os Belenenses            1-1 (1-0)
+
+
+» Matchday 25
+  Fri Mar/8
+    20.45  União Leiria            v UD Oliveirense           1-0 (1-0)
+  Sat Mar/9
+    11.00  CD Mafra                v FC Penafiel              0-1 (0-0)
+    14.00  CD Nacional             v Académico de Viseu       1-1 (1-1)
+    15.30  SL Benfica B            v CD Santa Clara           0-1 (0-1)
+           FC Porto B              v Vilaverdense FC          2-1 (1-0)
+           Paços de Ferreira       v União Torreense          2-0 (1-0)
+  Sun Mar/10
+    11.00  CD Tondela              v CS Marítimo              0-3 (0-1)
+  Mon Mar/11
+    18.00  Os Belenenses           v Leixões SC               1-2 (0-1)
+    20.15  AVS                     v CD Feirense              1-0 (1-0)
+
+
+» Matchday 26
+  Fri Mar/15
+    18.00  União Torreense         v CD Tondela               0-1 (0-0)
+  Sat Mar/16
+    11.00  UD Oliveirense          v AVS                      1-1 (1-0)
+    14.00  FC Penafiel             v SL Benfica B             0-1 (0-0)
+    15.30  Académico de Viseu      v Paços de Ferreira        1-1 (0-0)
+           CS Marítimo             v União Leiria             2-0 (1-0)
+  Sun Mar/17
+    11.00  CD Feirense             v FC Porto B               1-1 (1-1)
+    14.00  CD Santa Clara          v CD Nacional              0-1 (0-1)
+    15.30  Leixões SC              v CD Mafra                 1-1 (0-1)
+  Mon Mar/18
+    20.15  Vilaverdense FC         v Os Belenenses            1-1 (0-0)
+
+
+» Matchday 27
+  Fri Mar/29
+    11.00  Os Belenenses           v CD Feirense              3-1 (0-1)
+    14.00  Paços de Ferreira       v UD Oliveirense           2-0 (2-0)
+    15.30  CD Tondela              v Vilaverdense FC          1-0 (0-0)
+  Sat Mar/30
+    11.00  União Leiria            v CD Nacional              1-1 (1-0)
+    14.00  CS Marítimo             v Leixões SC               0-0
+    15.30  AVS                     v CD Santa Clara           1-2 (0-1)
+           FC Porto B              v FC Penafiel              3-1 (1-0)
+  Mon Apr/1
+    18.00  SL Benfica B            v Académico de Viseu       1-1 (0-0)
+           CD Mafra                v União Torreense          2-1 (0-0)
+
+
+» Matchday 28
+  Sat Apr/6
+    11.00  FC Penafiel             v Os Belenenses            3-0 (0-0)
+    14.00  Leixões SC              v União Leiria             0-0
+    15.30  CD Feirense             v CD Tondela               1-3 (1-0)
+           CD Nacional             v AVS                      2-1 (2-1)
+  Sun Apr/7
+    11.00  Vilaverdense FC         v CD Mafra                 2-1 (0-0)
+    14.00  CD Santa Clara          v Paços de Ferreira        0-1 (0-0)
+    15.30  União Torreense         v CS Marítimo              0-0
+    18.00  UD Oliveirense          v SL Benfica B             3-1 (2-1)
+  Mon Apr/8
+    18.00  Académico de Viseu      v FC Porto B               0-2 (0-0)
+
+
+» Matchday 29
+  Sat Apr/13
+    11.00  Os Belenenses           v Académico de Viseu       1-0 (0-0)
+    14.00  União Leiria            v Vilaverdense FC          3-1 (1-0)
+    15.30  SL Benfica B            v AVS                      0-1 (0-0)
+           CD Tondela              v FC Penafiel              0-1 (0-1)
+  Sun Apr/14
+    11.00  Paços de Ferreira       v CD Nacional              1-1 (0-1)
+    14.00  CD Mafra                v CD Feirense              0-0
+    15.30  FC Porto B              v UD Oliveirense           0-1 (0-0)
+           Leixões SC              v União Torreense          1-1 (0-1)
+    20.30  CS Marítimo             v CD Santa Clara           0-0
+
+
+» Matchday 30
+  Fri Apr/19
+    18.00  CD Feirense             v Leixões SC               1-1 (0-1)
+  Sat Apr/20
+    11.00  FC Penafiel             v Paços de Ferreira        1-1 (0-0)
+    14.00  União Torreense         v União Leiria             0-3 (0-2)
+    15.30  CD Santa Clara          v CD Tondela               1-0 (0-0)
+  Sun Apr/21
+    11.00  UD Oliveirense          v Os Belenenses            1-2 (0-1)
+    14.00  Académico de Viseu      v CD Mafra                 0-1 (0-1)
+    15.30  Vilaverdense FC         v CS Marítimo              0-2 (0-1)
+  Mon Apr/22
+    18.00  CD Nacional             v SL Benfica B             3-1 (2-0)
+  Wed Apr/24
+    20.15  AVS                     v FC Porto B               0-2 (0-1)
+
+
+» Matchday 31
+  Thu Apr/25
+    18.00  União Leiria            v FC Penafiel              0-2 (0-1)
+  Sat Apr/27
+    11.00  CD Mafra                v UD Oliveirense           3-3 (2-1)
+    14.00  CS Marítimo             v CD Feirense              3-2 (0-1)
+    15.30  Leixões SC              v Vilaverdense FC          1-3 (1-1)
+  Sun Apr/28
+    11.00  União Torreense         v Académico de Viseu       1-2 (1-1)
+    14.00  CD Tondela              v SL Benfica B             1-1 (1-0)
+    15.30  Os Belenenses           v CD Nacional              1-3 (0-3)
+           FC Porto B              v CD Santa Clara           2-2 (1-1)
+  Tue Apr/30
+    19.45  Paços de Ferreira       v AVS                      0-4 (0-1)
+
+
+» Matchday 32
+  Fri May/3
+    18.00  CD Santa Clara          v Os Belenenses            2-0 (0-0)
+  Sat May/4
+    11.00  CD Feirense             v União Leiria             1-0 (1-0)
+    14.00  Académico de Viseu      v Leixões SC               1-1 (0-1)
+    15.30  UD Oliveirense          v CD Tondela               2-1 (2-1)
+  Sun May/5
+    11.00  FC Penafiel             v CS Marítimo              0-1 (0-1)
+    14.00  CD Nacional             v FC Porto B               4-0 (2-0)
+    15.30  Vilaverdense FC         v União Torreense          0-1 (0-1)
+    18.00  SL Benfica B            v Paços de Ferreira        2-2 (2-0)
+  Mon May/6
+    20.15  AVS                     v CD Mafra                 3-3 (1-2)
+
+
+» Matchday 33
+  Fri May/10
+    18.00  Os Belenenses           v SL Benfica B             2-3 (2-1)
+  Sat May/11
+    14.00  União Torreense         v CD Feirense              2-1 (2-0)
+    15.30  Vilaverdense FC         v FC Penafiel              2-1 (0-1)
+  Sun May/12
+    11.00  CD Tondela              v CD Nacional              2-3 (1-0)
+           Leixões SC              v AVS                      0-0
+    14.00  CD Mafra                v CD Santa Clara           0-2 (0-2)
+    15.30  FC Porto B              v Paços de Ferreira        1-3 (0-1)
+           CS Marítimo             v UD Oliveirense           2-1 (1-1)
+  Mon May/13
+    20.15  União Leiria            v Académico de Viseu       3-0 (2-0)
+
+
+» Matchday 34
+  Thu May/16
+    20.15  FC Penafiel             v União Torreense          1-1 (0-1)
+  Fri May/17
+    18.00  SL Benfica B            v FC Porto B               5-2 (3-0)
+           Paços de Ferreira       v Os Belenenses            2-1 (0-0)
+  Sat May/18
+    11.00  CD Feirense             v Vilaverdense FC          1-1 (0-0)
+  Sun May/19
+    11.00  Académico de Viseu      v CS Marítimo              2-2 (1-1)
+           AVS                     v CD Tondela               0-1 (0-1)
+    14.00  UD Oliveirense          v Leixões SC               1-3 (0-1)
+    16.30  CD Santa Clara          v União Leiria             2-0 (0-0)
+           CD Nacional             v CD Mafra                 2-0 (2-0)

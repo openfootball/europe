@@ -1,4 +1,4 @@
-= Moldovan First Division 2023/24
+= Moldova First Division 2023/24
 
 # Date       Sat Aug/5 2023 - Sat May/18 2024 (287d)
 # Teams      8
@@ -6,208 +6,205 @@
 # Stages     Phase I (56)  Phase II (30)
 
 
-== Phase I
 
-Matchday 1
-[Sat Aug/5]
-  20.00  FC Bălţi                 3-0 (1-0)  Dacia Buiucani
-  18.00  FC Floreşti              4-0 (1-0)  Sparta Selemet
-[Sun Aug/6]
-  20.00  CS Petrocub              0-1 (0-0)  FC Sheriff
-  19.00  FC Zimbru                0-1 (0-0)  FC Milsami
-
-
-Matchday 2
-[Sat Aug/12]
-  18.00  FC Floreşti              1-2 (1-0)  FC Zimbru
-  20.00  FC Milsami               2-1 (2-0)  FC Bălţi
-[Sun Aug/13]
-  18.00  Sparta Selemet           0-2 (0-1)  FC Sheriff
-         Dacia Buiucani           0-1 (0-1)  CS Petrocub
+» Phase I, Matchday 1
+  Sat Aug/5 2023
+    18.00  FC Floreşti             v Spartanii Sportul        4-0 (1-0)
+    20.00  FC Bălţi                v Dacia Buiucani           3-0 (1-0)
+  Sun Aug/6
+    19.00  FC Zimbru               v FC Milsami               0-1 (0-0)
+    20.00  CS Petrocub             v FC Sheriff               0-1 (0-0)
 
 
-Matchday 3
-[Sat Aug/19]
-  20.00  CS Petrocub              2-0 (0-0)  FC Milsami
-  18.00  FC Zimbru                2-0 (0-0)  Sparta Selemet
-[Sun Aug/20]
-  18.00  FC Bălţi                 2-1 (1-0)  FC Floreşti
-  20.00  FC Sheriff               5-0 (4-0)  Dacia Buiucani
+» Phase I, Matchday 2
+  Sat Aug/12
+    18.00  FC Floreşti             v FC Zimbru                1-2 (1-0)
+    20.00  FC Milsami              v FC Bălţi                 2-1 (2-0)
+  Sun Aug/13
+    18.00  Dacia Buiucani          v CS Petrocub              0-1 (0-1)
+           Spartanii Sportul       v FC Sheriff               0-2 (0-1)
 
 
-Matchday 4
-[Sat Aug/26]
-  20.00  FC Zimbru                1-0 (0-0)  FC Bălţi
-  18.00  Sparta Selemet           1-4 (1-2)  Dacia Buiucani
-[Sun Aug/27]
-  20.00  FC Milsami               2-0 (1-0)  FC Sheriff
-  18.00  FC Floreşti              0-1 (0-0)  CS Petrocub
+» Phase I, Matchday 3
+  Sat Aug/19
+    18.00  FC Zimbru               v Spartanii Sportul        2-0 (0-0)
+    20.00  CS Petrocub             v FC Milsami               2-0 (0-0)
+  Sun Aug/20
+    18.00  FC Bălţi                v FC Floreşti              2-1 (1-0)
+    20.00  FC Sheriff              v Dacia Buiucani           5-0 (4-0)
 
 
-Matchday 5
-[Sat Sep/16]
-  17.00  FC Sheriff               5-1 (4-0)  FC Floreşti
-  19.00  CS Petrocub              0-2 (0-0)  FC Zimbru
-  17.00  Dacia Buiucani           1-2 (0-1)  FC Milsami
-[Sun Sep/17]
-  19.00  FC Bălţi                 1-1 (0-0)  Sparta Selemet
+» Phase I, Matchday 4
+  Sat Aug/26
+    18.00  Spartanii Sportul       v Dacia Buiucani           1-4 (1-2)
+    20.00  FC Zimbru               v FC Bălţi                 1-0 (0-0)
+  Sun Aug/27
+    18.00  FC Floreşti             v CS Petrocub              0-1 (0-0)
+    20.00  FC Milsami              v FC Sheriff               2-0 (1-0)
 
 
-Matchday 6
-[Sat Sep/23]
-  16.00  FC Floreşti              2-2 (1-0)  Dacia Buiucani
-  19.00  FC Bălţi                 0-4 (0-1)  CS Petrocub
-[Sun Sep/24]
-  19.00  FC Zimbru                0-1 (0-1)  FC Sheriff
-  16.00  Sparta Selemet           1-2 (1-0)  FC Milsami
+» Phase I, Matchday 5
+  Sat Sep/16
+    17.00  Dacia Buiucani          v FC Milsami               1-2 (0-1)
+           FC Sheriff              v FC Floreşti              5-1 (4-0)
+    19.00  CS Petrocub             v FC Zimbru                0-2 (0-0)
+  Sun Sep/17
+    19.00  FC Bălţi                v Spartanii Sportul        1-1 (0-0)
 
 
-Matchday 7
-[Sat Sep/30]
-  20.00  FC Sheriff               4-0 (3-0)  FC Bălţi
-  18.00  CS Petrocub              3-2 (2-0)  Sparta Selemet
-[Sun Oct/1]
-  16.00  Dacia Buiucani           1-3 (0-1)  FC Zimbru
-  18.00  FC Milsami               2-1 (1-0)  FC Floreşti
+» Phase I, Matchday 6
+  Sat Sep/23
+    16.00  FC Floreşti             v Dacia Buiucani           2-2 (1-0)
+    19.00  FC Bălţi                v CS Petrocub              0-4 (0-1)
+  Sun Sep/24
+    16.00  Spartanii Sportul       v FC Milsami               1-2 (1-0)
+    19.00  FC Zimbru               v FC Sheriff               0-1 (0-1)
 
 
-Matchday 8
-[Sat Oct/7]
-  18.00  FC Milsami               1-0 (0-0)  FC Zimbru
-  15.00  Dacia Buiucani           1-5 (1-2)  FC Bălţi
-[Sun Oct/8]
-  18.00  FC Sheriff               0-0  CS Petrocub
-  15.00  Sparta Selemet           1-3 (1-1)  FC Floreşti
+» Phase I, Matchday 7
+  Sat Sep/30
+    18.00  CS Petrocub             v Spartanii Sportul        3-2 (2-0)
+    20.00  FC Sheriff              v FC Bălţi                 4-0 (3-0)
+  Sun Oct/1
+    16.00  Dacia Buiucani          v FC Zimbru                1-3 (0-1)
+    18.00  FC Milsami              v FC Floreşti              2-1 (1-0)
 
 
-Matchday 9
-[Sat Oct/21]
-  15.00  FC Zimbru                3-1 (2-1)  FC Floreşti
-         FC Sheriff               4-0 (2-0)  Sparta Selemet
-  17.00  FC Bălţi                 3-0 (0-0)  FC Milsami
-[Sun Oct/22]
-  17.00  CS Petrocub              0-0  Dacia Buiucani
+» Phase I, Matchday 8
+  Sat Oct/7
+    15.00  Dacia Buiucani          v FC Bălţi                 1-5 (1-2)
+    18.00  FC Milsami              v FC Zimbru                1-0 (0-0)
+  Sun Oct/8
+    15.00  Spartanii Sportul       v FC Floreşti              1-3 (1-1)
+    18.00  FC Sheriff              v CS Petrocub              0-0
 
 
-Matchday 10
-[Sat Oct/28]
-  17.00  FC Milsami               1-1 (1-1)  CS Petrocub
-  14.00  Sparta Selemet           0-1 (0-0)  FC Zimbru
-[Sun Oct/29]
-  14.00  FC Floreşti              2-3 (1-1)  FC Bălţi
-         Dacia Buiucani           0-4 (0-1)  FC Sheriff
+» Phase I, Matchday 9
+  Sat Oct/21
+    15.00  FC Zimbru               v FC Floreşti              3-1 (2-1)
+           FC Sheriff              v Spartanii Sportul        4-0 (2-0)
+    17.00  FC Bălţi                v FC Milsami               3-0 (0-0)
+  Sun Oct/22
+    17.00  CS Petrocub             v Dacia Buiucani           0-0
 
 
-Matchday 11
-[Sat Nov/4]
-  17.00  CS Petrocub              6-0 (4-0)  FC Floreşti
-  13.00  Dacia Buiucani           1-1 (0-1)  Sparta Selemet
-[Sun Nov/5]
-  15.00  FC Bălţi                 0-1 (0-0)  FC Zimbru
-  17.00  FC Sheriff               2-1 (1-0)  FC Milsami
+» Phase I, Matchday 10
+  Sat Oct/28
+    14.00  Spartanii Sportul       v FC Zimbru                0-1 (0-0)
+    17.00  FC Milsami              v CS Petrocub              1-1 (1-1)
+  Sun Oct/29
+    14.00  Dacia Buiucani          v FC Sheriff               0-4 (0-1)
+           FC Floreşti             v FC Bălţi                 2-3 (1-1)
 
 
-Matchday 12
-[Fri Nov/10]
-  18.00  FC Zimbru                1-1 (1-0)  CS Petrocub
-[Sat Nov/11]
-  17.00  FC Milsami               3-0 (1-0)  Dacia Buiucani
-  13.00  Sparta Selemet           1-5 (0-1)  FC Bălţi
-[Sun Nov/12]
-  13.00  FC Floreşti              0-4 (0-1)  FC Sheriff
+» Phase I, Matchday 11
+  Sat Nov/4
+    13.00  Dacia Buiucani          v Spartanii Sportul        1-1 (0-1)
+    17.00  CS Petrocub             v FC Floreşti              6-0 (4-0)
+  Sun Nov/5
+    15.00  FC Bălţi                v FC Zimbru                0-1 (0-0)
+    17.00  FC Sheriff              v FC Milsami               2-1 (1-0)
 
 
-Matchday 13
-[Sat Nov/25]
-  14.00  FC Sheriff               2-0 (2-0)  FC Zimbru
-  16.00  CS Petrocub              3-0 (3-0)  FC Bălţi
-  13.00  FC Milsami               3-1 (2-1)  Sparta Selemet
-[Mon Nov/27]
-  13.00  Dacia Buiucani           2-1 (2-1)  FC Floreşti
+» Phase I, Matchday 12
+  Fri Nov/10
+    18.00  FC Zimbru               v CS Petrocub              1-1 (1-0)
+  Sat Nov/11
+    13.00  Spartanii Sportul       v FC Bălţi                 1-5 (0-1)
+    17.00  FC Milsami              v Dacia Buiucani           3-0 (1-0)
+  Sun Nov/12
+    13.00  FC Floreşti             v FC Sheriff               0-4 (0-1)
 
 
-Matchday 14
-[Sun Dec/3]
-  13.00  Sparta Selemet           0-7 (0-2)  CS Petrocub
-         FC Zimbru                1-2 (1-1)  Dacia Buiucani
-         FC Floreşti              1-0 (0-0)  FC Milsami
-         FC Bălţi                 3-1 (1-0)  FC Sheriff
+» Phase I, Matchday 13
+  Sat Nov/25
+    13.00  FC Milsami              v Spartanii Sportul        3-1 (2-1)
+    14.00  FC Sheriff              v FC Zimbru                2-0 (2-0)
+    16.00  CS Petrocub             v FC Bălţi                 3-0 (3-0)
+  Mon Nov/27
+    13.00  Dacia Buiucani          v FC Floreşti              2-1 (2-1)
 
 
-== Phase II
-
-Matchday 1
-[Sat Mar/9]
-  16.00  CS Petrocub              5-0 (2-0)  FC Bălţi
-  14.00  FC Sheriff               1-1 (0-1)  Dacia Buiucani
-[Sun Mar/10]
-  15.00  FC Milsami               0-0  FC Zimbru
+» Phase I, Matchday 14
+  Sun Dec/3
+    13.00  Spartanii Sportul       v CS Petrocub              0-7 (0-2)
+           FC Zimbru               v Dacia Buiucani           1-2 (1-1)
+           FC Floreşti             v FC Milsami               1-0 (0-0)
+           FC Bălţi                v FC Sheriff               3-1 (1-0)
 
 
-Matchday 2
-[Sat Mar/16]
-  14.00  Dacia Buiucani           0-2 (0-1)  FC Zimbru
-  16.00  FC Sheriff               1-1 (1-1)  CS Petrocub
-[Sun Mar/17]
-  15.00  FC Bălţi                 1-0 (1-0)  FC Milsami
+» Phase II, Matchday 1
+  Sat Mar/9 2024
+    14.00  FC Sheriff              v Dacia Buiucani           1-1 (0-1)
+    16.00  CS Petrocub             v FC Bălţi                 5-0 (2-0)
+  Sun Mar/10
+    15.00  FC Milsami              v FC Zimbru                0-0
 
 
-Matchday 3
-[Sat Mar/30]
-  17.00  FC Zimbru                3-0 (1-0)  FC Bălţi
-[Sun Mar/31]
-  18.00  FC Milsami               0-0  FC Sheriff
-  16.00  CS Petrocub              3-0 (2-0)  Dacia Buiucani
+» Phase II, Matchday 2
+  Sat Mar/16
+    14.00  Dacia Buiucani          v FC Zimbru                0-2 (0-1)
+    16.00  FC Sheriff              v CS Petrocub              1-1 (1-1)
+  Sun Mar/17
+    15.00  FC Bălţi                v FC Milsami               1-0 (1-0)
 
 
-Matchday 4
-[Sat Apr/6]
-  18.00  CS Petrocub              3-0 (1-0)  FC Milsami
-[Sun Apr/7]
-  18.00  FC Sheriff               4-1 (3-1)  FC Zimbru
-  16.00  Dacia Buiucani           1-1 (0-0)  FC Bălţi
+» Phase II, Matchday 3
+  Sat Mar/30
+    17.00  FC Zimbru               v FC Bălţi                 3-0 (1-0)
+  Sun Mar/31
+    16.00  CS Petrocub             v Dacia Buiucani           3-0 (2-0)
+    18.00  FC Milsami              v FC Sheriff               0-0
 
 
-Matchday 5
-[Sat Apr/13]
-  18.00  FC Sheriff               2-0 (1-0)  FC Bălţi
-  15.00  Dacia Buiucani           1-4 (0-0)  FC Milsami
-[Sun Apr/14]
-  18.00  FC Zimbru                1-1 (0-1)  CS Petrocub
+» Phase II, Matchday 4
+  Sat Apr/6
+    18.00  CS Petrocub             v FC Milsami               3-0 (1-0)
+  Sun Apr/7
+    16.00  Dacia Buiucani          v FC Bălţi                 1-1 (0-0)
+    18.00  FC Sheriff              v FC Zimbru                4-1 (3-1)
 
 
-Matchday 6
-[Sat Apr/20]
-  18.00  FC Bălţi                 0-3 (0-1)  CS Petrocub
-[Sun Apr/21]
-  18.00  FC Zimbru                3-1 (1-1)  FC Milsami
-  15.00  FC Sheriff               3-0 (0-0)  Dacia Buiucani
+» Phase II, Matchday 5
+  Sat Apr/13
+    15.00  Dacia Buiucani          v FC Milsami               1-4 (0-0)
+    18.00  FC Sheriff              v FC Bălţi                 2-0 (1-0)
+  Sun Apr/14
+    18.00  FC Zimbru               v CS Petrocub              1-1 (0-1)
 
 
-Matchday 7
-[Sat Apr/27]
-  20.00  FC Zimbru                2-0 (1-0)  Dacia Buiucani
-  18.00  FC Milsami               3-0 (2-0)  FC Bălţi
-[Sun Apr/28]
-  18.00  CS Petrocub              2-1 (1-0)  FC Sheriff
+» Phase II, Matchday 6
+  Sat Apr/20
+    18.00  FC Bălţi                v CS Petrocub              0-3 (0-1)
+  Sun Apr/21
+    15.00  FC Sheriff              v Dacia Buiucani           3-0 (0-0)
+    18.00  FC Zimbru               v FC Milsami               3-1 (1-1)
 
 
-Matchday 8
-[Sat May/4]
-  18.00  FC Sheriff               2-1 (1-0)  FC Milsami
-  20.00  FC Bălţi                 2-1 (2-1)  FC Zimbru
-  16.00  CS Petrocub              7-0 (3-0)  Dacia Buiucani
+» Phase II, Matchday 7
+  Sat Apr/27
+    18.00  FC Milsami              v FC Bălţi                 3-0 (2-0)
+    20.00  FC Zimbru               v Dacia Buiucani           2-0 (1-0)
+  Sun Apr/28
+    18.00  CS Petrocub             v FC Sheriff               2-1 (1-0)
 
 
-Matchday 9
-[Sat May/11]
-  16.00  FC Bălţi                 2-2 (2-0)  Dacia Buiucani
-  18.00  FC Milsami               1-1 (0-0)  CS Petrocub
-  20.00  FC Zimbru                2-0 (1-0)  FC Sheriff
+» Phase II, Matchday 8
+  Sat May/4
+    16.00  CS Petrocub             v Dacia Buiucani           7-0 (3-0)
+    18.00  FC Sheriff              v FC Milsami               2-1 (1-0)
+    20.00  FC Bălţi                v FC Zimbru                2-1 (2-1)
 
 
-Matchday 10
-[Sat May/18]
-  20.00  CS Petrocub              4-1 (1-0)  FC Zimbru
-         FC Milsami               1-1 (1-0)  Dacia Buiucani
-         FC Sheriff               2-1 (1-0)  FC Bălţi
+» Phase II, Matchday 9
+  Sat May/11
+    16.00  FC Bălţi                v Dacia Buiucani           2-2 (2-0)
+    18.00  FC Milsami              v CS Petrocub              1-1 (0-0)
+    20.00  FC Zimbru               v FC Sheriff               2-0 (1-0)
+
+
+» Phase II, Matchday 10
+  Sat May/18
+    20.00  FC Sheriff              v FC Bălţi                 2-1 (1-0)
+           CS Petrocub             v FC Zimbru                4-1 (1-0)
+           FC Milsami              v Dacia Buiucani           1-1 (1-0)

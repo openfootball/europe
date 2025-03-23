@@ -1,4 +1,4 @@
-= Georgian Premier League 2023
+= Georgia Premier League A 2023
 
 # Date       Sat Feb/25 - Sat Dec/2 2023 (280d)
 # Teams      10
@@ -6,366 +6,360 @@
 
 
 
-Matchday 1
-[Sat Feb/25]
-  19.00  Dila Gori                1-2 (1-1)  Dinamo Tbilisi
-  15.00  FC Samtredia             1-0 (0-0)  FC Telavi
-[Sun Feb/26]
-  17.00  FC Saburtalo             0-0  Torpedo Kutaisi
-  20.00  Dinamo Batumi            2-1 (1-0)  Shukura Kobuleti
-  15.00  FC Gagra                 3-4 (1-2)  Samgurali Tskhaltubo
-
-
-Matchday 2
-[Fri Mar/3]
-  20.00  Dinamo Batumi            3-1 (0-1)  FC Saburtalo
-[Sat Mar/4]
-  15.30  Torpedo Kutaisi          0-0  Dila Gori
-  17.00  FC Telavi                0-0  FC Gagra
-  19.00  Dinamo Tbilisi           4-0 (2-0)  FC Samtredia
-  14.30  Shukura Kobuleti         2-1 (1-0)  Samgurali Tskhaltubo
-
-
-Matchday 3
-[Wed Mar/8]
-  14.30  FC Gagra                 3-5 (1-2)  Dinamo Tbilisi
-  15.00  Samgurali Tskhaltubo     1-0 (1-0)  FC Telavi
-  15.30  FC Samtredia             0-2 (0-1)  Torpedo Kutaisi
-  17.00  FC Saburtalo             2-1 (2-1)  Shukura Kobuleti
-  20.00  Dila Gori                1-1 (1-0)  Dinamo Batumi
-
-
-Matchday 4
-[Sun Mar/12]
-  15.30  Torpedo Kutaisi          3-1 (2-1)  FC Gagra
-  17.00  FC Saburtalo             0-0  Dila Gori
-  20.00  Dinamo Batumi            3-2 (1-1)  FC Samtredia
-  15.00  Shukura Kobuleti         1-2 (1-1)  FC Telavi
-[Mon Mar/13]
-  19.00  Dinamo Tbilisi           2-0 (0-0)  Samgurali Tskhaltubo
-
-
-Matchday 5
-[Sat Mar/18]
-  15.00  FC Gagra                 1-4 (0-3)  Dinamo Batumi
-  15.30  FC Samtredia             3-3 (2-2)  FC Saburtalo
-  18.00  FC Telavi                2-2 (1-2)  Dinamo Tbilisi
-  20.00  Dila Gori                2-0 (1-0)  Shukura Kobuleti
-[Sun Mar/19]
-  15.30  Samgurali Tskhaltubo     0-0  Torpedo Kutaisi
-
-
-Matchday 6
-[Sat Apr/1]
-  18.00  FC Saburtalo             3-0 (2-0)  FC Gagra
-  20.00  Dila Gori                1-0 (0-0)  FC Samtredia
-  15.30  Torpedo Kutaisi          2-1 (0-0)  FC Telavi
-[Sun Apr/2]
-  14.00  Shukura Kobuleti         1-2 (1-1)  Dinamo Tbilisi
-  21.00  Dinamo Batumi            2-0 (2-0)  Samgurali Tskhaltubo
-
-
-Matchday 7
-[Sat Apr/8]
-  18.00  FC Telavi                1-4 (1-1)  Dinamo Batumi
-  20.00  Dinamo Tbilisi           2-1 (1-0)  Torpedo Kutaisi
-  16.00  FC Samtredia             0-2 (0-2)  Shukura Kobuleti
-[Sun Apr/9]
-  16.00  Samgurali Tskhaltubo     2-1 (0-0)  FC Saburtalo
-  14.30  FC Gagra                 0-0  Dila Gori
-
-
-Matchday 8
-[Wed Apr/12]
-  14.00  Shukura Kobuleti         0-2 (0-1)  Torpedo Kutaisi
-  20.00  Dinamo Batumi            2-2 (2-1)  Dinamo Tbilisi
-[Thu Apr/13]
-  18.00  FC Saburtalo             3-0 (2-0)  FC Telavi
-  20.00  Dila Gori                0-3 (0-1)  Samgurali Tskhaltubo
-  16.00  FC Samtredia             1-2 (0-1)  FC Gagra
-
-
-Matchday 9
-[Fri Apr/21]
-  16.00  Torpedo Kutaisi          0-0  Dinamo Batumi
-  19.00  FC Telavi                2-2 (1-1)  Dila Gori
-  21.00  Dinamo Tbilisi           1-3 (1-0)  FC Saburtalo
-[Sat Apr/22]
-  16.30  Samgurali Tskhaltubo     2-1 (0-0)  FC Samtredia
-  15.30  FC Gagra                 2-0 (1-0)  Shukura Kobuleti
-
-
-Matchday 10
-[Tue Apr/25]
-  20.00  Dinamo Tbilisi           1-2 (0-0)  Dila Gori
-  16.00  Torpedo Kutaisi          0-3 (0-2)  FC Saburtalo
-[Wed Apr/26]
-  15.30  Samgurali Tskhaltubo     1-0 (0-0)  FC Gagra
-  16.30  Shukura Kobuleti         1-3 (0-1)  Dinamo Batumi
-  18.00  FC Telavi                0-1 (0-0)  FC Samtredia
-
-
-Matchday 11
-[Sun Apr/30]
-  15.30  Samgurali Tskhaltubo     4-1 (1-1)  Shukura Kobuleti
-  16.30  FC Samtredia             0-2 (0-1)  Dinamo Tbilisi
-  19.00  FC Saburtalo             3-3 (0-1)  Dinamo Batumi
-  21.00  Dila Gori                5-0 (1-0)  Torpedo Kutaisi
-  14.30  FC Gagra                 1-1 (1-0)  FC Telavi
-
-
-Matchday 12
-[Fri May/5]
-  14.00  Shukura Kobuleti         2-3 (0-1)  FC Saburtalo
-  21.00  Dinamo Batumi            0-2 (0-0)  Dila Gori
-[Sat May/6]
-  18.00  FC Telavi                0-1 (0-0)  Samgurali Tskhaltubo
-  20.00  Dinamo Tbilisi           0-0  FC Gagra
-  16.00  Torpedo Kutaisi          1-0 (0-0)  FC Samtredia
-
-
-Matchday 13
-[Tue May/9]
-  20.00  Dila Gori                1-1 (0-0)  FC Saburtalo
-[Wed May/10]
-  16.00  Samgurali Tskhaltubo     2-1 (1-0)  Dinamo Tbilisi
-  16.30  FC Samtredia             1-2 (0-1)  Dinamo Batumi
-  19.00  FC Telavi                0-0  Shukura Kobuleti
-  15.00  FC Gagra                 0-0  Torpedo Kutaisi
-
-
-Matchday 14
-[Sun May/14]
-  16.30  Torpedo Kutaisi          1-3 (0-2)  Samgurali Tskhaltubo
-  19.00  FC Saburtalo             2-0 (0-0)  FC Samtredia
-  20.00  Dinamo Tbilisi           6-1 (3-0)  FC Telavi
-  21.00  Dinamo Batumi            3-1 (2-0)  FC Gagra
-[Mon May/15]
-  15.00  Shukura Kobuleti         2-3 (0-2)  Dila Gori
-
-
-Matchday 15
-[Sat May/20]
-  14.30  FC Gagra                 1-2 (0-2)  FC Saburtalo
-  15.00  FC Samtredia             1-2 (0-2)  Dila Gori
-  16.00  Samgurali Tskhaltubo     1-1 (1-1)  Dinamo Batumi
-  19.00  FC Telavi                1-0 (0-0)  Torpedo Kutaisi
-  20.00  Dinamo Tbilisi           4-4 (2-3)  Shukura Kobuleti
-
-
-Matchday 16
-[Wed May/24]
-  16.30  Torpedo Kutaisi          2-3 (0-1)  Dinamo Tbilisi
-  19.00  FC Saburtalo             5-1 (1-0)  Samgurali Tskhaltubo
-  21.00  Dinamo Batumi            2-0 (1-0)  FC Telavi
-         Dila Gori                1-0 (0-0)  FC Gagra
-  15.30  Shukura Kobuleti         2-2 (1-0)  FC Samtredia
-
-
-Matchday 17
-[Sun May/28]
-  15.00  FC Gagra                 0-1 (0-0)  FC Samtredia
-  16.00  Samgurali Tskhaltubo     2-2 (0-0)  Dila Gori
-  16.30  Torpedo Kutaisi          1-2 (0-0)  Shukura Kobuleti
-  19.00  FC Telavi                0-3 (0-1)  FC Saburtalo
-  21.00  Dinamo Tbilisi           1-2 (1-1)  Dinamo Batumi
-
-
-Matchday 18
-[Thu Jun/1]
-  16.00  FC Samtredia             0-2 (0-0)  Samgurali Tskhaltubo
-         Shukura Kobuleti         3-4 (3-1)  FC Gagra
-  19.00  FC Saburtalo             2-1 (0-0)  Dinamo Tbilisi
-  20.00  Dila Gori                6-1 (4-1)  FC Telavi
-  21.00  Dinamo Batumi            1-1 (0-0)  Torpedo Kutaisi
-
-
-Matchday 20
-[Mon Jun/5]
-  17.00  Torpedo Kutaisi          1-0 (0-0)  Dila Gori
-  21.00  Dinamo Batumi            2-1 (0-1)  FC Saburtalo
-  20.00  Dinamo Tbilisi           3-0 (0-0)  FC Samtredia
-[Tue Jun/6]
-  17.00  Shukura Kobuleti         2-2 (2-0)  Samgurali Tskhaltubo
-  19.00  FC Telavi                0-1 (0-1)  FC Gagra
-
-
-Matchday 19
-[Sat Aug/5]
-  21.00  Dinamo Batumi            5-0 (1-0)  Shukura Kobuleti
-  19.00  FC Gagra                 0-0  Samgurali Tskhaltubo
-[Sun Aug/6]
-  17.30  FC Samtredia             0-2 (0-1)  FC Telavi
-[Tue Aug/8]
-  20.00  FC Saburtalo             1-3 (1-0)  Torpedo Kutaisi
-
-
-Matchday 21
-[Sat Aug/12]
-  17.00  Samgurali Tskhaltubo     0-1 (0-0)  FC Telavi
-[Sun Aug/13]
-  20.00  FC Gagra                 1-6 (1-4)  Dinamo Tbilisi
-[Mon Aug/14]
-  17.00  FC Samtredia             2-3 (1-2)  Torpedo Kutaisi
-[Tue Aug/15]
-  20.00  FC Saburtalo             5-1 (4-0)  Shukura Kobuleti
-
-
-Matchday 22
-[Sat Aug/19]
-  20.00  Dinamo Tbilisi           5-2 (2-1)  Samgurali Tskhaltubo
-  21.00  Dinamo Batumi            1-1 (0-0)  FC Samtredia
-[Sun Aug/20]
-  20.00  Shukura Kobuleti         0-2 (0-1)  FC Telavi
-  21.00  FC Saburtalo             1-2 (1-1)  Dila Gori
-  20.00  Torpedo Kutaisi          4-1 (2-0)  FC Gagra
-
-
-Matchday 23
-[Fri Aug/25]
-  20.00  FC Telavi                2-2 (1-1)  Dinamo Tbilisi
-         Dila Gori                5-1 (3-0)  Shukura Kobuleti
-[Sat Aug/26]
-  17.00  FC Samtredia             0-0  FC Saburtalo
-[Sun Aug/27]
-  21.00  FC Gagra                 0-2 (0-0)  Dinamo Batumi
-  17.00  Samgurali Tskhaltubo     0-0  Torpedo Kutaisi
-
-
-Matchday 19
-[Tue Aug/29]
-  21.00  Dila Gori                0-3 (0-0)  Dinamo Tbilisi
-
-
-Matchday 24
-[Fri Sep/1]
-  20.00  Torpedo Kutaisi          2-1 (1-1)  FC Telavi
-  21.00  Dinamo Batumi            4-1 (2-0)  Samgurali Tskhaltubo
-[Sat Sep/2]
-  21.00  Dila Gori                1-3 (0-2)  FC Samtredia
-  19.00  Shukura Kobuleti         2-3 (2-0)  Dinamo Tbilisi
-  20.00  FC Saburtalo             5-0 (2-0)  FC Gagra
-
-
-Matchday 25
-[Sat Sep/16]
-  18.00  FC Telavi                2-1 (0-0)  Dinamo Batumi
-  20.00  FC Gagra                 0-0  Dila Gori
-  21.00  Dinamo Tbilisi           1-1 (1-0)  Torpedo Kutaisi
-[Sun Sep/17]
-  16.00  FC Samtredia             4-2 (1-1)  Shukura Kobuleti
-         Samgurali Tskhaltubo     1-0 (1-0)  FC Saburtalo
-
-
-Matchday 21
-[Wed Sep/20]
-  20.00  Dila Gori                1-3 (0-2)  Dinamo Batumi
-
-
-Matchday 26
-[Sat Sep/23]
-  15.30  Shukura Kobuleti         0-0  Torpedo Kutaisi
-         FC Samtredia             3-1 (3-1)  FC Gagra
-[Sun Sep/24]
-  19.00  Dila Gori                2-0 (1-0)  Samgurali Tskhaltubo
-  20.00  FC Saburtalo             0-1 (0-1)  FC Telavi
-  21.00  Dinamo Batumi            2-2 (1-1)  Dinamo Tbilisi
-
-
-Matchday 27
-[Wed Sep/27]
-  20.00  FC Gagra                 1-0 (0-0)  Shukura Kobuleti
-[Thu Sep/28]
-  18.00  FC Telavi                2-1 (1-1)  Dila Gori
-  20.00  Torpedo Kutaisi          0-3 (0-0)  Dinamo Batumi
-  15.30  Samgurali Tskhaltubo     0-3 (0-2)  FC Samtredia
-[Fri Sep/29]
-  20.00  Dinamo Tbilisi           1-0 (1-0)  FC Saburtalo
-
-
-Matchday 28
-[Mon Oct/2]
-  15.30  Samgurali Tskhaltubo     2-2 (0-1)  FC Gagra
-  18.00  FC Telavi                1-1 (1-0)  FC Samtredia
-  14.30  Shukura Kobuleti         0-6 (0-5)  Dinamo Batumi
-[Tue Oct/3]
-  18.00  Torpedo Kutaisi          5-0 (3-0)  FC Saburtalo
-  20.00  Dinamo Tbilisi           3-1 (3-0)  Dila Gori
-
-
-Matchday 29
-[Sat Oct/7]
-  20.00  Dila Gori                0-1 (0-1)  Torpedo Kutaisi
-  15.00  FC Samtredia             3-2 (1-0)  Dinamo Tbilisi
-[Sun Oct/8]
-  18.00  FC Gagra                 4-1 (2-0)  FC Telavi
-  20.00  FC Saburtalo             0-0  Dinamo Batumi
-  15.00  Samgurali Tskhaltubo     5-0 (2-0)  Shukura Kobuleti
-
-
-Matchday 30
-[Fri Oct/20]
-  15.00  Shukura Kobuleti         1-2 (1-1)  FC Saburtalo
-  20.00  Dinamo Batumi            1-1 (1-1)  Dila Gori
-[Sat Oct/21]
-  19.00  Dinamo Tbilisi           0-1 (0-1)  FC Gagra
-  20.00  Torpedo Kutaisi          2-0 (1-0)  FC Samtredia
-  17.00  FC Telavi                2-1 (2-0)  Samgurali Tskhaltubo
-
-
-Matchday 31
-[Sat Oct/28]
-  15.00  FC Samtredia             1-3 (0-2)  Dinamo Batumi
-  17.00  FC Telavi                0-1 (0-0)  Shukura Kobuleti
-  19.00  Dila Gori                3-0 (1-0)  FC Saburtalo
-[Sun Oct/29]
-  18.00  FC Gagra                 1-2 (1-0)  Torpedo Kutaisi
-  15.00  Samgurali Tskhaltubo     0-2 (0-1)  Dinamo Tbilisi
-
-
-Matchday 32
-[Fri Nov/3]
-  19.00  Torpedo Kutaisi          0-0  Samgurali Tskhaltubo
-  21.00  Dinamo Batumi            3-0 (1-0)  FC Gagra
-  18.00  FC Saburtalo             0-0  FC Samtredia
-[Sat Nov/4]
-  19.00  Dinamo Tbilisi           4-0 (1-0)  FC Telavi
-  14.30  Shukura Kobuleti         1-2 (1-2)  Dila Gori
-
-
-Matchday 33
-[Fri Nov/10]
-  14.30  FC Samtredia             1-2 (1-1)  Dila Gori
-  17.00  FC Telavi                1-2 (1-1)  Torpedo Kutaisi
-  19.00  Dinamo Tbilisi           4-2 (3-1)  Shukura Kobuleti
-[Sat Nov/11]
-  19.00  FC Gagra                 2-1 (0-1)  FC Saburtalo
-  14.30  Samgurali Tskhaltubo     3-2 (1-2)  Dinamo Batumi
-
-
-Matchday 34
-[Thu Nov/23]
-  19.00  FC Saburtalo             2-2 (2-0)  Samgurali Tskhaltubo
-[Fri Nov/24]
-  19.00  Dinamo Batumi            3-0 (1-0)  FC Telavi
-         Torpedo Kutaisi          2-2 (1-0)  Dinamo Tbilisi
-  20.00  Dila Gori                1-0 (1-0)  FC Gagra
-  14.00  Shukura Kobuleti         0-9 (0-4)  FC Samtredia
-
-
-Matchday 35
-[Tue Nov/28]
-  14.00  FC Gagra                 4-3 (2-3)  FC Samtredia
-         Samgurali Tskhaltubo     1-0 (1-0)  Dila Gori
-  17.00  FC Telavi                3-0 (2-0)  FC Saburtalo
-  19.00  Dinamo Tbilisi           6-2 (5-2)  Dinamo Batumi
-         Torpedo Kutaisi          9-0 (2-0)  Shukura Kobuleti
-
-
-Matchday 36
-[Sat Dec/2]
-  14.00  Dila Gori                3-1 (0-0)  FC Telavi
-         FC Samtredia             2-3 (2-1)  Samgurali Tskhaltubo
-         Shukura Kobuleti         0-9 (0-5)  FC Gagra
-  19.30  FC Saburtalo             0-3 (0-0)  Dinamo Tbilisi
-  14.00  Dinamo Batumi            2-2 (2-1)  Torpedo Kutaisi
+» Matchday 1
+  Sat Feb/25 2023
+    15.00  FC Samtredia            v FC Telavi                1-0 (0-0)
+    19.00  Dila Gori               v Dinamo Tbilisi           1-2 (1-1)
+  Sun Feb/26
+    15.00  FC Gagra                v Samgurali Tskhaltubo     3-4 (1-2)
+    17.00  FC Saburtalo            v Torpedo Kutaisi          0-0
+    20.00  Dinamo Batumi           v Shukura Kobuleti         2-1 (1-0)
+
+
+» Matchday 2
+  Fri Mar/3
+    20.00  Dinamo Batumi           v FC Saburtalo             3-1 (0-1)
+  Sat Mar/4
+    14.30  Shukura Kobuleti        v Samgurali Tskhaltubo     2-1 (1-0)
+    15.30  Torpedo Kutaisi         v Dila Gori                0-0
+    17.00  FC Telavi               v FC Gagra                 0-0
+    19.00  Dinamo Tbilisi          v FC Samtredia             4-0 (2-0)
+
+
+» Matchday 3
+  Wed Mar/8
+    14.30  FC Gagra                v Dinamo Tbilisi           3-5 (1-2)
+    15.00  Samgurali Tskhaltubo    v FC Telavi                1-0 (1-0)
+    15.30  FC Samtredia            v Torpedo Kutaisi          0-2 (0-1)
+    17.00  FC Saburtalo            v Shukura Kobuleti         2-1 (2-1)
+    20.00  Dila Gori               v Dinamo Batumi            1-1 (1-0)
+
+
+» Matchday 4
+  Sun Mar/12
+    15.00  Shukura Kobuleti        v FC Telavi                1-2 (1-1)
+    15.30  Torpedo Kutaisi         v FC Gagra                 3-1 (2-1)
+    17.00  FC Saburtalo            v Dila Gori                0-0
+    20.00  Dinamo Batumi           v FC Samtredia             3-2 (1-1)
+  Mon Mar/13
+    19.00  Dinamo Tbilisi          v Samgurali Tskhaltubo     2-0 (0-0)
+
+
+» Matchday 5
+  Sat Mar/18
+    15.00  FC Gagra                v Dinamo Batumi            1-4 (0-3)
+    15.30  FC Samtredia            v FC Saburtalo             3-3 (2-2)
+    18.00  FC Telavi               v Dinamo Tbilisi           2-2 (1-2)
+    20.00  Dila Gori               v Shukura Kobuleti         2-0 (1-0)
+  Sun Mar/19
+    15.30  Samgurali Tskhaltubo    v Torpedo Kutaisi          0-0
+
+
+» Matchday 6
+  Sat Apr/1
+    15.30  Torpedo Kutaisi         v FC Telavi                2-1 (0-0)
+    18.00  FC Saburtalo            v FC Gagra                 3-0 (2-0)
+    20.00  Dila Gori               v FC Samtredia             1-0 (0-0)
+  Sun Apr/2
+    14.00  Shukura Kobuleti        v Dinamo Tbilisi           1-2 (1-1)
+    21.00  Dinamo Batumi           v Samgurali Tskhaltubo     2-0 (2-0)
+
+
+» Matchday 7
+  Sat Apr/8
+    16.00  FC Samtredia            v Shukura Kobuleti         0-2 (0-2)
+    18.00  FC Telavi               v Dinamo Batumi            1-4 (1-1)
+    20.00  Dinamo Tbilisi          v Torpedo Kutaisi          2-1 (1-0)
+  Sun Apr/9
+    14.30  FC Gagra                v Dila Gori                0-0
+    16.00  Samgurali Tskhaltubo    v FC Saburtalo             2-1 (0-0)
+
+
+» Matchday 8
+  Wed Apr/12
+    14.00  Shukura Kobuleti        v Torpedo Kutaisi          0-2 (0-1)
+    20.00  Dinamo Batumi           v Dinamo Tbilisi           2-2 (2-1)
+  Thu Apr/13
+    16.00  FC Samtredia            v FC Gagra                 1-2 (0-1)
+    18.00  FC Saburtalo            v FC Telavi                3-0 (2-0)
+    20.00  Dila Gori               v Samgurali Tskhaltubo     0-3 (0-1)
+
+
+» Matchday 9
+  Fri Apr/21
+    16.00  Torpedo Kutaisi         v Dinamo Batumi            0-0
+    19.00  FC Telavi               v Dila Gori                2-2 (1-1)
+    21.00  Dinamo Tbilisi          v FC Saburtalo             1-3 (1-0)
+  Sat Apr/22
+    15.30  FC Gagra                v Shukura Kobuleti         2-0 (1-0)
+    16.30  Samgurali Tskhaltubo    v FC Samtredia             2-1 (0-0)
+
+
+» Matchday 10
+  Tue Apr/25
+    16.00  Torpedo Kutaisi         v FC Saburtalo             0-3 (0-2)
+    20.00  Dinamo Tbilisi          v Dila Gori                1-2 (0-0)
+  Wed Apr/26
+    15.30  Samgurali Tskhaltubo    v FC Gagra                 1-0 (0-0)
+    16.30  Shukura Kobuleti        v Dinamo Batumi            1-3 (0-1)
+    18.00  FC Telavi               v FC Samtredia             0-1 (0-0)
+
+
+» Matchday 11
+  Sun Apr/30
+    14.30  FC Gagra                v FC Telavi                1-1 (1-0)
+    15.30  Samgurali Tskhaltubo    v Shukura Kobuleti         4-1 (1-1)
+    16.30  FC Samtredia            v Dinamo Tbilisi           0-2 (0-1)
+    19.00  FC Saburtalo            v Dinamo Batumi            3-3 (0-1)
+    21.00  Dila Gori               v Torpedo Kutaisi          5-0 (1-0)
+
+
+» Matchday 12
+  Fri May/5
+    14.00  Shukura Kobuleti        v FC Saburtalo             2-3 (0-1)
+    21.00  Dinamo Batumi           v Dila Gori                0-2 (0-0)
+  Sat May/6
+    16.00  Torpedo Kutaisi         v FC Samtredia             1-0 (0-0)
+    18.00  FC Telavi               v Samgurali Tskhaltubo     0-1 (0-0)
+    20.00  Dinamo Tbilisi          v FC Gagra                 0-0
+
+
+» Matchday 13
+  Tue May/9
+    20.00  Dila Gori               v FC Saburtalo             1-1 (0-0)
+  Wed May/10
+    15.00  FC Gagra                v Torpedo Kutaisi          0-0
+    16.00  Samgurali Tskhaltubo    v Dinamo Tbilisi           2-1 (1-0)
+    16.30  FC Samtredia            v Dinamo Batumi            1-2 (0-1)
+    19.00  FC Telavi               v Shukura Kobuleti         0-0
+
+
+» Matchday 14
+  Sun May/14
+    16.30  Torpedo Kutaisi         v Samgurali Tskhaltubo     1-3 (0-2)
+    19.00  FC Saburtalo            v FC Samtredia             2-0 (0-0)
+    20.00  Dinamo Tbilisi          v FC Telavi                6-1 (3-0)
+    21.00  Dinamo Batumi           v FC Gagra                 3-1 (2-0)
+  Mon May/15
+    15.00  Shukura Kobuleti        v Dila Gori                2-3 (0-2)
+
+
+» Matchday 15
+  Sat May/20
+    14.30  FC Gagra                v FC Saburtalo             1-2 (0-2)
+    15.00  FC Samtredia            v Dila Gori                1-2 (0-2)
+    16.00  Samgurali Tskhaltubo    v Dinamo Batumi            1-1 (1-1)
+    19.00  FC Telavi               v Torpedo Kutaisi          1-0 (0-0)
+    20.00  Dinamo Tbilisi          v Shukura Kobuleti         4-4 (2-3)
+
+
+» Matchday 16
+  Wed May/24
+    15.30  Shukura Kobuleti        v FC Samtredia             2-2 (1-0)
+    16.30  Torpedo Kutaisi         v Dinamo Tbilisi           2-3 (0-1)
+    19.00  FC Saburtalo            v Samgurali Tskhaltubo     5-1 (1-0)
+    21.00  Dinamo Batumi           v FC Telavi                2-0 (1-0)
+           Dila Gori               v FC Gagra                 1-0 (0-0)
+
+
+» Matchday 17
+  Sun May/28
+    15.00  FC Gagra                v FC Samtredia             0-1 (0-0)
+    16.00  Samgurali Tskhaltubo    v Dila Gori                2-2 (0-0)
+    16.30  Torpedo Kutaisi         v Shukura Kobuleti         1-2 (0-0)
+    19.00  FC Telavi               v FC Saburtalo             0-3 (0-1)
+    21.00  Dinamo Tbilisi          v Dinamo Batumi            1-2 (1-1)
+
+
+» Matchday 18
+  Thu Jun/1
+    16.00  FC Samtredia            v Samgurali Tskhaltubo     0-2 (0-0)
+           Shukura Kobuleti        v FC Gagra                 3-4 (3-1)
+    19.00  FC Saburtalo            v Dinamo Tbilisi           2-1 (0-0)
+    20.00  Dila Gori               v FC Telavi                6-1 (4-1)
+    21.00  Dinamo Batumi           v Torpedo Kutaisi          1-1 (0-0)
+
+
+» Matchday 19
+  Sat Aug/5
+    19.00  FC Gagra                v Samgurali Tskhaltubo     0-0
+    21.00  Dinamo Batumi           v Shukura Kobuleti         5-0 (1-0)
+  Sun Aug/6
+    17.30  FC Samtredia            v FC Telavi                0-2 (0-1)
+  Tue Aug/8
+    20.00  FC Saburtalo            v Torpedo Kutaisi          1-3 (1-0)
+  Tue Aug/29
+    21.00  Dila Gori               v Dinamo Tbilisi           0-3 (0-0)
+
+
+» Matchday 20
+  Mon Jun/5
+    17.00  Torpedo Kutaisi         v Dila Gori                1-0 (0-0)
+    20.00  Dinamo Tbilisi          v FC Samtredia             3-0 (0-0)
+    21.00  Dinamo Batumi           v FC Saburtalo             2-1 (0-1)
+  Tue Jun/6
+    17.00  Shukura Kobuleti        v Samgurali Tskhaltubo     2-2 (2-0)
+    19.00  FC Telavi               v FC Gagra                 0-1 (0-1)
+
+
+» Matchday 21
+  Sat Aug/12
+    17.00  Samgurali Tskhaltubo    v FC Telavi                0-1 (0-0)
+  Sun Aug/13
+    20.00  FC Gagra                v Dinamo Tbilisi           1-6 (1-4)
+  Mon Aug/14
+    17.00  FC Samtredia            v Torpedo Kutaisi          2-3 (1-2)
+  Tue Aug/15
+    20.00  FC Saburtalo            v Shukura Kobuleti         5-1 (4-0)
+  Wed Sep/20
+    20.00  Dila Gori               v Dinamo Batumi            1-3 (0-2)
+
+
+» Matchday 22
+  Sat Aug/19
+    20.00  Dinamo Tbilisi          v Samgurali Tskhaltubo     5-2 (2-1)
+    21.00  Dinamo Batumi           v FC Samtredia             1-1 (0-0)
+  Sun Aug/20
+    20.00  Shukura Kobuleti        v FC Telavi                0-2 (0-1)
+           Torpedo Kutaisi         v FC Gagra                 4-1 (2-0)
+    21.00  FC Saburtalo            v Dila Gori                1-2 (1-1)
+
+
+» Matchday 23
+  Fri Aug/25
+    20.00  Dila Gori               v Shukura Kobuleti         5-1 (3-0)
+           FC Telavi               v Dinamo Tbilisi           2-2 (1-1)
+  Sat Aug/26
+    17.00  FC Samtredia            v FC Saburtalo             0-0
+  Sun Aug/27
+    17.00  Samgurali Tskhaltubo    v Torpedo Kutaisi          0-0
+    21.00  FC Gagra                v Dinamo Batumi            0-2 (0-0)
+
+
+» Matchday 24
+  Fri Sep/1
+    20.00  Torpedo Kutaisi         v FC Telavi                2-1 (1-1)
+    21.00  Dinamo Batumi           v Samgurali Tskhaltubo     4-1 (2-0)
+  Sat Sep/2
+    19.00  Shukura Kobuleti        v Dinamo Tbilisi           2-3 (2-0)
+    20.00  FC Saburtalo            v FC Gagra                 5-0 (2-0)
+    21.00  Dila Gori               v FC Samtredia             1-3 (0-2)
+
+
+» Matchday 25
+  Sat Sep/16
+    18.00  FC Telavi               v Dinamo Batumi            2-1 (0-0)
+    20.00  FC Gagra                v Dila Gori                0-0
+    21.00  Dinamo Tbilisi          v Torpedo Kutaisi          1-1 (1-0)
+  Sun Sep/17
+    16.00  FC Samtredia            v Shukura Kobuleti         4-2 (1-1)
+           Samgurali Tskhaltubo    v FC Saburtalo             1-0 (1-0)
+
+
+» Matchday 26
+  Sat Sep/23
+    15.30  FC Samtredia            v FC Gagra                 3-1 (3-1)
+           Shukura Kobuleti        v Torpedo Kutaisi          0-0
+  Sun Sep/24
+    19.00  Dila Gori               v Samgurali Tskhaltubo     2-0 (1-0)
+    20.00  FC Saburtalo            v FC Telavi                0-1 (0-1)
+    21.00  Dinamo Batumi           v Dinamo Tbilisi           2-2 (1-1)
+
+
+» Matchday 27
+  Wed Sep/27
+    20.00  FC Gagra                v Shukura Kobuleti         1-0 (0-0)
+  Thu Sep/28
+    15.30  Samgurali Tskhaltubo    v FC Samtredia             0-3 (0-2)
+    18.00  FC Telavi               v Dila Gori                2-1 (1-1)
+    20.00  Torpedo Kutaisi         v Dinamo Batumi            0-3 (0-0)
+  Fri Sep/29
+    20.00  Dinamo Tbilisi          v FC Saburtalo             1-0 (1-0)
+
+
+» Matchday 28
+  Mon Oct/2
+    14.30  Shukura Kobuleti        v Dinamo Batumi            0-6 (0-5)
+    15.30  Samgurali Tskhaltubo    v FC Gagra                 2-2 (0-1)
+    18.00  FC Telavi               v FC Samtredia             1-1 (1-0)
+  Tue Oct/3
+    18.00  Torpedo Kutaisi         v FC Saburtalo             5-0 (3-0)
+    20.00  Dinamo Tbilisi          v Dila Gori                3-1 (3-0)
+
+
+» Matchday 29
+  Sat Oct/7
+    15.00  FC Samtredia            v Dinamo Tbilisi           3-2 (1-0)
+    20.00  Dila Gori               v Torpedo Kutaisi          0-1 (0-1)
+  Sun Oct/8
+    15.00  Samgurali Tskhaltubo    v Shukura Kobuleti         5-0 (2-0)
+    18.00  FC Gagra                v FC Telavi                4-1 (2-0)
+    20.00  FC Saburtalo            v Dinamo Batumi            0-0
+
+
+» Matchday 30
+  Fri Oct/20
+    15.00  Shukura Kobuleti        v FC Saburtalo             1-2 (1-1)
+    20.00  Dinamo Batumi           v Dila Gori                1-1 (1-1)
+  Sat Oct/21
+    17.00  FC Telavi               v Samgurali Tskhaltubo     2-1 (2-0)
+    19.00  Dinamo Tbilisi          v FC Gagra                 0-1 (0-1)
+    20.00  Torpedo Kutaisi         v FC Samtredia             2-0 (1-0)
+
+
+» Matchday 31
+  Sat Oct/28
+    15.00  FC Samtredia            v Dinamo Batumi            1-3 (0-2)
+    17.00  FC Telavi               v Shukura Kobuleti         0-1 (0-0)
+    19.00  Dila Gori               v FC Saburtalo             3-0 (1-0)
+  Sun Oct/29
+    15.00  Samgurali Tskhaltubo    v Dinamo Tbilisi           0-2 (0-1)
+    18.00  FC Gagra                v Torpedo Kutaisi          1-2 (1-0)
+
+
+» Matchday 32
+  Fri Nov/3
+    18.00  FC Saburtalo            v FC Samtredia             0-0
+    19.00  Torpedo Kutaisi         v Samgurali Tskhaltubo     0-0
+    21.00  Dinamo Batumi           v FC Gagra                 3-0 (1-0)
+  Sat Nov/4
+    14.30  Shukura Kobuleti        v Dila Gori                1-2 (1-2)
+    19.00  Dinamo Tbilisi          v FC Telavi                4-0 (1-0)
+
+
+» Matchday 33
+  Fri Nov/10
+    14.30  FC Samtredia            v Dila Gori                1-2 (1-1)
+    17.00  FC Telavi               v Torpedo Kutaisi          1-2 (1-1)
+    19.00  Dinamo Tbilisi          v Shukura Kobuleti         4-2 (3-1)
+  Sat Nov/11
+    14.30  Samgurali Tskhaltubo    v Dinamo Batumi            3-2 (1-2)
+    19.00  FC Gagra                v FC Saburtalo             2-1 (0-1)
+
+
+» Matchday 34
+  Thu Nov/23
+    19.00  FC Saburtalo            v Samgurali Tskhaltubo     2-2 (2-0)
+  Fri Nov/24
+    14.00  Shukura Kobuleti        v FC Samtredia             0-9 (0-4)
+    19.00  Dinamo Batumi           v FC Telavi                3-0 (1-0)
+           Torpedo Kutaisi         v Dinamo Tbilisi           2-2 (1-0)
+    20.00  Dila Gori               v FC Gagra                 1-0 (1-0)
+
+
+» Matchday 35
+  Tue Nov/28
+    14.00  FC Gagra                v FC Samtredia             4-3 (2-3)
+           Samgurali Tskhaltubo    v Dila Gori                1-0 (1-0)
+    17.00  FC Telavi               v FC Saburtalo             3-0 (2-0)
+    19.00  Dinamo Tbilisi          v Dinamo Batumi            6-2 (5-2)
+           Torpedo Kutaisi         v Shukura Kobuleti         9-0 (2-0)
+
+
+» Matchday 36
+  Sat Dec/2
+    14.00  Dinamo Batumi           v Torpedo Kutaisi          2-2 (2-1)
+           Dila Gori               v FC Telavi                3-1 (0-0)
+           FC Samtredia            v Samgurali Tskhaltubo     2-3 (2-1)
+           Shukura Kobuleti        v FC Gagra                 0-9 (0-5)
+    19.30  FC Saburtalo            v Dinamo Tbilisi           0-3 (0-0)

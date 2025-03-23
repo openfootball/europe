@@ -1,4 +1,4 @@
-= Liechtensteiner Cup 2023/24
+= Liechtensteiner Pokal 2023/24
 
 # Date       Fri Aug/11 2023 - Wed May/8 2024 (271d)
 # Teams      17
@@ -6,41 +6,41 @@
 
 
 
-Preliminary round
-[Fri Aug/11]
-  20.00  FC Triesen III           0-3  FC Vaduz III
+» Preliminary round
+  Fri Aug/11 2023
+    20.00  FC Triesen III          v FC Vaduz III             0-3
 
 
-Round of 16
-[Tue Aug/22]
-  20.00  FC Schaan                1-2  USV Eschen/Mauren
-         USV Eschen/Mauren II     1-2 a.e.t.  FC Triesen
-         FC Triesen II            0-8  FC Triesenberg
-         FC Ruggell               1-8  FC Vaduz
-[Wed Aug/23]
-  20.15  FC Schaan II             6-1  FC Triesenberg II
-  20.00  FC Vaduz II              0-1  FC Balzers
-[Tue Aug/29]
-  20.00  FC Ruggell II            2-0  FC Balzers II
-[Fri Sep/15]
-  20.00  FC Vaduz III             -  USV Eschen/Mauren III
+» Round of 16
+  Tue Aug/22
+    20.00  FC Ruggell              v FC Vaduz                 1-8
+           FC Schaan               v USV Eschen/Mauren        1-2
+           USV Eschen/Mauren II    v FC Triesen               1-2 a.e.t.
+           FC Triesen II           v FC Triesenberg           0-8
+  Wed Aug/23
+    20.00  FC Vaduz II             v FC Balzers               0-1
+    20.15  FC Schaan II            v FC Triesenberg II        6-1
+  Tue Aug/29
+    20.00  FC Ruggell II           v FC Balzers II            2-0
+  Fri Sep/15
+    20.00  FC Vaduz III            v USV Eschen/Mauren III    5-4 pen.
 
 
-Quarterfinals
-[Tue Oct/24]
-  20.00  FC Vaduz III             1-6  FC Balzers
-         FC Schaan II             1-4  FC Triesen
-         FC Ruggell II            1-2  FC Triesenberg
-[Wed Oct/25]
-  20.00  USV Eschen/Mauren        1-2 a.e.t.  FC Vaduz
+» Quarterfinals
+  Tue Oct/24
+    20.00  FC Ruggell II           v FC Triesenberg           1-2
+           FC Vaduz III            v FC Balzers               1-6
+           FC Schaan II            v FC Triesen               1-4
+  Wed Oct/25
+    20.00  USV Eschen/Mauren       v FC Vaduz                 1-2 a.e.t.
 
 
-Semifinals
-[Tue Apr/9]
-  20.00  FC Triesenberg           2-0  FC Triesen
-         FC Balzers               0-5  FC Vaduz
+» Semifinals
+  Tue Apr/9 2024
+    20.00  FC Balzers              v FC Vaduz                 0-5
+           FC Triesenberg          v FC Triesen               2-0
 
 
-Final
-[Wed May/8]
-  19.00  FC Vaduz                 5-0  FC Triesenberg
+» Final
+  Wed May/8
+    19.00  FC Vaduz                v FC Triesenberg           5-0

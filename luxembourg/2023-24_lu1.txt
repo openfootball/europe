@@ -1,4 +1,4 @@
-= Luxembourger First Division 2023/24
+= Luxembourg National Division 2023/24
 
 # Date       Sat Aug/5 2023 - Sun May/26 2024 (295d)
 # Teams      16
@@ -6,385 +6,376 @@
 
 
 
-Matchday 1
-[Sat Aug/5]
-  18.00  FC Schifflange 95        3-3 (1-2)  Union Titus Pétange
-[Sun Aug/6]
-  16.00  UN Käerjéng              1-2 (0-1)  FC Mondercange
-         Marisca Mersch           1-2 (0-0)  Victoria Rosport
-         US Mondorf               1-3 (1-0)  RFCU Luxemburg
-         UNA Strassen             1-5 (1-2)  Swift Hesperange
-  18.30  Jeunesse Esch            1-3 (1-1)  Progrès Niedercorn
-  19.00  FC Differdange 03        5-1 (3-1)  CS FOLA Esch
-  16.00  F91 Dudelange            3-1 (2-1)  FC Wiltz 71
-
-
-Matchday 2
-[Sun Aug/13]
-  16.00  CS FOLA Esch             3-2 (1-0)  F91 Dudelange
-         FC Mondercange           3-2 (1-1)  US Mondorf
-         RFCU Luxemburg           1-3 (0-2)  FC Differdange 03
-         UNA Strassen             2-1 (2-1)  UN Käerjéng
-         Union Titus Pétange      2-0 (1-0)  Swift Hesperange
-         Victoria Rosport         1-2 (0-1)  FC Schifflange 95
-         FC Wiltz 71              0-1 (0-0)  Jeunesse Esch
-  18.30  Progrès Niedercorn       4-3 (2-1)  Marisca Mersch
-
-
-Matchday 3
-[Sun Aug/20]
-  16.00  FC Differdange 03        2-0 (1-0)  FC Mondercange
-         Swift Hesperange         3-2 (2-1)  Victoria Rosport
-         Jeunesse Esch            4-1 (3-1)  CS FOLA Esch
-         Marisca Mersch           1-1 (1-0)  FC Wiltz 71
-         US Mondorf               5-3 (3-2)  UN Käerjéng
-         FC Schifflange 95        2-0 (0-0)  Progrès Niedercorn
-  18.30  Union Titus Pétange      2-2 (2-0)  UNA Strassen
-  16.00  F91 Dudelange            2-0 (2-0)  RFCU Luxemburg
-
-
-Matchday 4
-[Sun Aug/27]
-  16.00  CS FOLA Esch             1-2 (0-1)  Marisca Mersch
-         UN Käerjéng              0-1 (0-1)  FC Differdange 03
-         FC Mondercange           1-0 (1-0)  F91 Dudelange
-         RFCU Luxemburg           0-3 (0-1)  Jeunesse Esch
-         UNA Strassen             4-2 (0-1)  US Mondorf
-         Victoria Rosport         3-1 (3-0)  Union Titus Pétange
-         FC Wiltz 71              2-1 (0-0)  FC Schifflange 95
-  18.30  Progrès Niedercorn       2-0 (0-0)  Swift Hesperange
-
-
-Matchday 5
-[Sun Sep/3]
-  16.00  FC Differdange 03        1-1 (0-1)  US Mondorf
-         Jeunesse Esch            0-1 (0-0)  FC Mondercange
-         Marisca Mersch           2-2 (1-1)  RFCU Luxemburg
-         FC Schifflange 95        3-1 (1-0)  CS FOLA Esch
-         Union Titus Pétange      2-2 (2-1)  Progrès Niedercorn
-         Victoria Rosport         0-3 (0-2)  UNA Strassen
-  18.30  Swift Hesperange         1-1 (1-0)  FC Wiltz 71
-  16.00  F91 Dudelange            4-1 (3-0)  UN Käerjéng
-
-
-Matchday 6
-[Sun Sep/17]
-  16.00  CS FOLA Esch             1-2 (0-1)  Swift Hesperange
-         Progrès Niedercorn       1-1 (0-0)  Victoria Rosport
-         UN Käerjéng              1-1 (1-0)  Jeunesse Esch
-         FC Mondercange           1-2 (0-0)  Marisca Mersch
-         US Mondorf               4-0 (3-0)  F91 Dudelange
-         RFCU Luxemburg           1-0 (0-0)  FC Schifflange 95
-         FC Wiltz 71              2-0 (1-0)  Union Titus Pétange
-  18.30  UNA Strassen             2-2 (0-0)  FC Differdange 03
-
-
-Matchday 7
-[Fri Sep/22]
-  20.00  Marisca Mersch           2-1 (0-1)  UN Käerjéng
-[Sat Sep/23]
-  18.00  Union Titus Pétange      2-1 (0-0)  CS FOLA Esch
-  18.30  Progrès Niedercorn       2-0 (0-0)  UNA Strassen
-  19.30  Swift Hesperange         2-1 (1-1)  RFCU Luxemburg
-  18.00  F91 Dudelange            2-2 (1-2)  FC Differdange 03
-[Sun Sep/24]
-  16.00  FC Schifflange 95        2-2 (1-1)  FC Mondercange
-         Victoria Rosport         3-1 (2-0)  FC Wiltz 71
-         Jeunesse Esch            2-2 (1-1)  US Mondorf
-
-
-Matchday 8
-[Wed Sep/27]
-  20.00  CS FOLA Esch             0-1 (0-0)  Victoria Rosport
-         FC Differdange 03        3-1 (1-1)  Jeunesse Esch
-         UN Käerjéng              1-0 (1-0)  FC Schifflange 95
-         FC Mondercange           0-6 (0-1)  Swift Hesperange
-         US Mondorf               3-2 (0-0)  Marisca Mersch
-         RFCU Luxemburg           2-0 (2-0)  Union Titus Pétange
-         UNA Strassen             1-1 (1-0)  F91 Dudelange
-         FC Wiltz 71              2-2 (0-2)  Progrès Niedercorn
-
-
-Matchday 9
-[Sun Oct/8]
-  16.00  Swift Hesperange         0-0  UN Käerjéng
-         Jeunesse Esch            1-2 (1-2)  F91 Dudelange
-         Marisca Mersch           1-1 (1-0)  FC Differdange 03
-         FC Schifflange 95        0-0  US Mondorf
-         Union Titus Pétange      4-0 (3-0)  FC Mondercange
-         Victoria Rosport         1-0 (0-0)  RFCU Luxemburg
-         FC Wiltz 71              2-1 (1-1)  UNA Strassen
-  18.30  Progrès Niedercorn       3-2 (2-1)  CS FOLA Esch
-
-
-Matchday 10
-[Sat Oct/21]
-  18.00  FC Differdange 03        5-0 (1-0)  FC Schifflange 95
-[Sun Oct/22]
-  16.00  CS FOLA Esch             0-1 (0-1)  FC Wiltz 71
-         F91 Dudelange            1-0 (1-0)  Marisca Mersch
-         FC Mondercange           3-3 (2-1)  Victoria Rosport
-         US Mondorf               0-2 (0-0)  Swift Hesperange
-         RFCU Luxemburg           3-3 (1-1)  Progrès Niedercorn
-         UNA Strassen             1-1 (1-0)  Jeunesse Esch
-  18.30  UN Käerjéng              0-1 (0-0)  Union Titus Pétange
-
-
-Matchday 11
-[Sun Nov/5]
-  14.30  FC Schifflange 95        0-3 (0-1)  F91 Dudelange
-         FC Wiltz 71              1-3 (0-1)  RFCU Luxemburg
-  15.30  Progrès Niedercorn       1-1 (1-1)  FC Mondercange
-  16.00  CS FOLA Esch             1-1 (0-0)  UNA Strassen
-         Swift Hesperange         1-1 (1-0)  FC Differdange 03
-         Union Titus Pétange      4-1 (2-0)  US Mondorf
-         Victoria Rosport         1-4 (1-2)  UN Käerjéng
-
-
-Matchday 12
-[Sat Nov/11]
-  18.00  RFCU Luxemburg           0-1 (0-0)  CS FOLA Esch
-[Sun Nov/12]
-  16.00  UNA Strassen             1-1 (0-1)  Marisca Mersch
-         F91 Dudelange            1-0 (0-0)  Swift Hesperange
-         FC Differdange 03        2-0 (1-0)  Union Titus Pétange
-         Jeunesse Esch            3-3 (2-0)  FC Schifflange 95
-         UN Käerjéng              2-0 (1-0)  Progrès Niedercorn
-         FC Mondercange           1-3 (0-2)  FC Wiltz 71
-
-
-Matchday 13
-[Sun Nov/26]
-  16.00  RFCU Luxemburg           2-1 (1-0)  UNA Strassen
-         Victoria Rosport         0-1 (0-0)  FC Differdange 03
-  14.30  FC Schifflange 95        2-1 (0-0)  Marisca Mersch
-  15.30  Progrès Niedercorn       3-0 (1-0)  US Mondorf
-  16.00  CS FOLA Esch             2-2 (2-2)  FC Mondercange
-         Swift Hesperange         2-0 (2-0)  Jeunesse Esch
-         Union Titus Pétange      0-1 (0-1)  F91 Dudelange
-         FC Wiltz 71              1-1 (1-0)  UN Käerjéng
-
-
-Matchday 12
-[Wed Nov/29]
-  20.00  US Mondorf               2-0 (0-0)  Victoria Rosport
-
-
-Matchday 11
-[Wed Nov/29]
-  20.00  Marisca Mersch           4-1 (1-1)  Jeunesse Esch
-
-
-Matchday 14
-[Sat Dec/2]
-  16.00  Marisca Mersch           2-2 (0-0)  Swift Hesperange
-  17.00  FC Mondercange           0-4 (0-4)  RFCU Luxemburg
-  16.00  Jeunesse Esch            0-0  Union Titus Pétange
-[Sun Dec/3]
-  15.00  UN Käerjéng              2-1 (0-0)  CS FOLA Esch
-  16.00  F91 Dudelange            3-0 (1-0)  Victoria Rosport
-         FC Differdange 03        3-1 (2-1)  Progrès Niedercorn
-         US Mondorf               2-0 (0-0)  FC Wiltz 71
-         UNA Strassen             1-0 (0-0)  FC Schifflange 95
-
-
-Matchday 15
-[Sat Dec/9]
-  16.00  FC Wiltz 71              1-1 (0-0)  FC Differdange 03
-  16.30  Victoria Rosport         1-0 (1-0)  Jeunesse Esch
-  16.00  Union Titus Pétange      4-1 (2-0)  Marisca Mersch
-[Sun Dec/10]
-  15.30  Progrès Niedercorn       1-0 (1-0)  F91 Dudelange
-  16.00  Swift Hesperange         2-1 (0-1)  FC Schifflange 95
-         FC Mondercange           0-0  UNA Strassen
-         RFCU Luxemburg           2-1 (1-1)  UN Käerjéng
-  15.00  CS FOLA Esch             3-2 (1-0)  US Mondorf
-
-
-Matchday 16
-[Sun Feb/11]
-  14.30  FC Schifflange 95        2-2 (2-0)  Victoria Rosport
-  16.00  F91 Dudelange            4-0 (3-0)  CS FOLA Esch
-         FC Differdange 03        7-0 (4-0)  RFCU Luxemburg
-         Swift Hesperange         3-3 (1-0)  Union Titus Pétange
-         Jeunesse Esch            5-2 (3-0)  FC Wiltz 71
-         UN Käerjéng              0-1 (0-1)  UNA Strassen
-         Marisca Mersch           0-3 (0-1)  Progrès Niedercorn
-         US Mondorf               2-0 (0-0)  FC Mondercange
-
-
-Matchday 17
-[Sun Feb/18]
-  16.00  Progrès Niedercorn       4-0 (2-0)  FC Schifflange 95
-         UN Käerjéng              2-1 (0-1)  US Mondorf
-         FC Mondercange           1-1 (0-0)  FC Differdange 03
-         RFCU Luxemburg           0-3 (0-1)  F91 Dudelange
-         UNA Strassen             1-0 (0-0)  Union Titus Pétange
-         Victoria Rosport         1-3 (0-1)  Swift Hesperange
-         FC Wiltz 71              0-1 (0-1)  Marisca Mersch
-  18.30  CS FOLA Esch             0-1 (0-0)  Jeunesse Esch
-
-
-Matchday 18
-[Sat Feb/24]
-  17.00  Jeunesse Esch            3-0 (0-0)  RFCU Luxemburg
-[Sun Feb/25]
-  15.00  FC Schifflange 95        1-1 (0-1)  FC Wiltz 71
-  16.00  F91 Dudelange            4-2 (3-1)  FC Mondercange
-         FC Differdange 03        4-0 (1-0)  UN Käerjéng
-         Swift Hesperange         0-0  Progrès Niedercorn
-         US Mondorf               1-1 (0-1)  UNA Strassen
-         Union Titus Pétange      2-3 (1-1)  Victoria Rosport
-
-
-Matchday 19
-[Sun Mar/3]
-  16.00  US Mondorf               0-2 (0-0)  FC Differdange 03
-         CS FOLA Esch             2-1 (1-1)  FC Schifflange 95
-         Progrès Niedercorn       2-1 (1-0)  Union Titus Pétange
-         UN Käerjéng              2-2 (1-2)  F91 Dudelange
-         FC Mondercange           0-2 (0-0)  Jeunesse Esch
-         UNA Strassen             0-0  Victoria Rosport
-         RFCU Luxemburg           4-1 (2-0)  Marisca Mersch
-         FC Wiltz 71              4-5 (2-2)  Swift Hesperange
-
-
-Matchday 18
-[Wed Mar/6]
-  20.00  Marisca Mersch           0-1 (0-0)  CS FOLA Esch
-
-
-Matchday 20
-[Sat Mar/9]
-  16.00  Union Titus Pétange      1-0 (0-0)  FC Wiltz 71
-[Sun Mar/10]
-  15.00  FC Schifflange 95        4-1 (2-1)  RFCU Luxemburg
-  16.00  F91 Dudelange            2-1 (1-1)  US Mondorf
-         FC Differdange 03        2-0 (0-0)  UNA Strassen
-         Swift Hesperange         4-1 (1-0)  CS FOLA Esch
-         Jeunesse Esch            3-0 (1-0)  UN Käerjéng
-         Marisca Mersch           2-1 (1-1)  FC Mondercange
-         Victoria Rosport         3-1 (1-0)  Progrès Niedercorn
-
-
-Matchday 21
-[Sat Mar/16]
-  17.00  FC Differdange 03        2-0 (1-0)  F91 Dudelange
-[Sun Mar/17]
-  16.00  UN Käerjéng              1-0 (1-0)  Marisca Mersch
-         FC Mondercange           2-1 (0-0)  FC Schifflange 95
-         US Mondorf               0-2 (0-1)  Jeunesse Esch
-         RFCU Luxemburg           2-5 (1-4)  Swift Hesperange
-         UNA Strassen             0-1 (0-1)  Progrès Niedercorn
-         FC Wiltz 71              2-2 (1-1)  Victoria Rosport
-         CS FOLA Esch             0-3 (0-3)  Union Titus Pétange
-
-
-Matchday 22
-[Sat Mar/30]
-  16.00  Jeunesse Esch            4-3 (1-0)  FC Differdange 03
-         FC Schifflange 95        0-1 (0-0)  UN Käerjéng
-  16.30  Victoria Rosport         2-3 (1-1)  CS FOLA Esch
-  18.00  F91 Dudelange            4-3 (2-1)  UNA Strassen
-         Swift Hesperange         1-1 (0-0)  FC Mondercange
-         Marisca Mersch           1-4 (0-3)  US Mondorf
-         Union Titus Pétange      0-3 (0-1)  RFCU Luxemburg
-  18.30  Progrès Niedercorn       3-0 (0-0)  FC Wiltz 71
-
-
-Matchday 23
-[Sun Apr/7]
-  16.00  F91 Dudelange            1-1 (0-1)  Jeunesse Esch
-         FC Differdange 03        2-0 (1-0)  Marisca Mersch
-         UN Käerjéng              1-3 (1-2)  Swift Hesperange
-         FC Mondercange           0-3 (0-1)  Union Titus Pétange
-         US Mondorf               3-3 (1-0)  FC Schifflange 95
-         RFCU Luxemburg           0-3 (0-1)  Victoria Rosport
-         UNA Strassen             1-1 (0-0)  FC Wiltz 71
-         CS FOLA Esch             0-0  Progrès Niedercorn
-
-
-Matchday 24
-[Sun Apr/14]
-  16.00  Progrès Niedercorn       2-1 (1-0)  RFCU Luxemburg
-         Swift Hesperange         1-2 (0-0)  US Mondorf
-         Jeunesse Esch            1-2 (0-2)  UNA Strassen
-         Marisca Mersch           3-4 (0-1)  F91 Dudelange
-         FC Schifflange 95        0-4 (0-1)  FC Differdange 03
-         Union Titus Pétange      1-1 (0-1)  UN Käerjéng
-         Victoria Rosport         2-1 (2-0)  FC Mondercange
-         FC Wiltz 71              1-1 (1-0)  CS FOLA Esch
-
-
-Matchday 25
-[Sat Apr/20]
-  18.00  Jeunesse Esch            3-1 (1-1)  Marisca Mersch
-         FC Mondercange           2-1 (1-0)  Progrès Niedercorn
-         US Mondorf               2-1 (2-0)  Union Titus Pétange
-         FC Differdange 03        2-0 (0-0)  Swift Hesperange
-[Sun Apr/21]
-  16.00  UN Käerjéng              0-0  Victoria Rosport
-         RFCU Luxemburg           2-4 (0-3)  FC Wiltz 71
-         UNA Strassen             3-1 (3-1)  CS FOLA Esch
-         F91 Dudelange            1-0 (1-0)  FC Schifflange 95
-
-
-Matchday 26
-[Sun Apr/28]
-  16.00  CS FOLA Esch             1-2 (0-1)  RFCU Luxemburg
-         Marisca Mersch           2-3 (1-0)  UNA Strassen
-         FC Schifflange 95        1-3 (1-1)  Jeunesse Esch
-         Union Titus Pétange      1-4 (1-1)  FC Differdange 03
-         Victoria Rosport         1-1 (1-1)  US Mondorf
-         FC Wiltz 71              2-1 (1-0)  FC Mondercange
-  18.00  Swift Hesperange         2-1 (1-1)  F91 Dudelange
-  18.30  Progrès Niedercorn       2-0 (0-0)  UN Käerjéng
-
-
-Matchday 27
-[Sun May/5]
-  16.00  FC Differdange 03        2-2 (0-1)  Victoria Rosport
-         Jeunesse Esch            0-2 (0-2)  Swift Hesperange
-         UN Käerjéng              2-2 (1-1)  FC Wiltz 71
-         Marisca Mersch           2-0 (1-0)  FC Schifflange 95
-         FC Mondercange           2-1 (0-0)  CS FOLA Esch
-         US Mondorf               2-4 (0-2)  Progrès Niedercorn
-         UNA Strassen             1-1 (0-0)  RFCU Luxemburg
-         F91 Dudelange            3-0 (1-0)  Union Titus Pétange
-
-
-Matchday 28
-[Sun May/12]
-  16.00  Swift Hesperange         3-1 (0-0)  Marisca Mersch
-         RFCU Luxemburg           1-1 (0-1)  FC Mondercange
-         Union Titus Pétange      2-1 (0-0)  Jeunesse Esch
-         Victoria Rosport         1-2 (0-1)  F91 Dudelange
-         FC Wiltz 71              2-2 (0-2)  US Mondorf
-  18.00  FC Schifflange 95        0-2 (0-1)  UNA Strassen
-  18.30  CS FOLA Esch             1-0 (0-0)  UN Käerjéng
-[Mon May/13]
-  20.00  Progrès Niedercorn       0-1 (0-0)  FC Differdange 03
-
-
-Matchday 29
-[Sat May/18]
-  18.00  F91 Dudelange            0-2 (0-2)  Progrès Niedercorn
-         FC Differdange 03        1-1 (0-0)  FC Wiltz 71
-         Jeunesse Esch            0-2 (0-0)  Victoria Rosport
-         UN Käerjéng              1-4 (1-3)  RFCU Luxemburg
-         Marisca Mersch           1-4 (1-1)  Union Titus Pétange
-         US Mondorf               6-0 (3-0)  CS FOLA Esch
-         FC Schifflange 95        1-4 (1-1)  Swift Hesperange
-         UNA Strassen             1-0 (1-0)  FC Mondercange
-
-
-Matchday 30
-[Sun May/26]
-  16.00  Progrès Niedercorn       1-3 (1-1)  Jeunesse Esch
-         Swift Hesperange         2-0 (2-0)  UNA Strassen
-         FC Mondercange           2-1 (2-0)  UN Käerjéng
-         RFCU Luxemburg           1-1 (1-1)  US Mondorf
-         Union Titus Pétange      1-3 (0-1)  FC Schifflange 95
-         Victoria Rosport         2-0 (0-0)  Marisca Mersch
-         FC Wiltz 71              2-3 (1-0)  F91 Dudelange
-         CS FOLA Esch             2-0 (2-0)  FC Differdange 03
+» Matchday 1
+  Sat Aug/5 2023
+    18.00  FC Schifflange 95       v Union Titus Pétange      3-3 (1-2)
+  Sun Aug/6
+    16.00  F91 Dudelange           v FC Wiltz 71              3-1 (2-1)
+           UN Käerjéng             v FC Mondercange           1-2 (0-1)
+           Marisca Mersch          v Victoria Rosport         1-2 (0-0)
+           US Mondorf              v RFCU Luxemburg           1-3 (1-0)
+           UNA Strassen            v Swift Hesperange         1-5 (1-2)
+    18.30  Jeunesse Esch           v Progrès Niedercorn       1-3 (1-1)
+    19.00  FC Differdange 03       v CS FOLA Esch             5-1 (3-1)
+
+
+» Matchday 2
+  Sun Aug/13
+    16.00  CS FOLA Esch            v F91 Dudelange            3-2 (1-0)
+           FC Mondercange          v US Mondorf               3-2 (1-1)
+           RFCU Luxemburg          v FC Differdange 03        1-3 (0-2)
+           UNA Strassen            v UN Käerjéng              2-1 (2-1)
+           Union Titus Pétange     v Swift Hesperange         2-0 (1-0)
+           Victoria Rosport        v FC Schifflange 95        1-2 (0-1)
+           FC Wiltz 71             v Jeunesse Esch            0-1 (0-0)
+    18.30  Progrès Niedercorn      v Marisca Mersch           4-3 (2-1)
+
+
+» Matchday 3
+  Sun Aug/20
+    16.00  F91 Dudelange           v RFCU Luxemburg           2-0 (2-0)
+           FC Differdange 03       v FC Mondercange           2-0 (1-0)
+           Swift Hesperange        v Victoria Rosport         3-2 (2-1)
+           Jeunesse Esch           v CS FOLA Esch             4-1 (3-1)
+           Marisca Mersch          v FC Wiltz 71              1-1 (1-0)
+           US Mondorf              v UN Käerjéng              5-3 (3-2)
+           FC Schifflange 95       v Progrès Niedercorn       2-0 (0-0)
+    18.30  Union Titus Pétange     v UNA Strassen             2-2 (2-0)
+
+
+» Matchday 4
+  Sun Aug/27
+    16.00  CS FOLA Esch            v Marisca Mersch           1-2 (0-1)
+           UN Käerjéng             v FC Differdange 03        0-1 (0-1)
+           FC Mondercange          v F91 Dudelange            1-0 (1-0)
+           RFCU Luxemburg          v Jeunesse Esch            0-3 (0-1)
+           UNA Strassen            v US Mondorf               4-2 (0-1)
+           Victoria Rosport        v Union Titus Pétange      3-1 (3-0)
+           FC Wiltz 71             v FC Schifflange 95        2-1 (0-0)
+    18.30  Progrès Niedercorn      v Swift Hesperange         2-0 (0-0)
+
+
+» Matchday 5
+  Sun Sep/3
+    16.00  F91 Dudelange           v UN Käerjéng              4-1 (3-0)
+           FC Differdange 03       v US Mondorf               1-1 (0-1)
+           Jeunesse Esch           v FC Mondercange           0-1 (0-0)
+           Marisca Mersch          v RFCU Luxemburg           2-2 (1-1)
+           FC Schifflange 95       v CS FOLA Esch             3-1 (1-0)
+           Union Titus Pétange     v Progrès Niedercorn       2-2 (2-1)
+           Victoria Rosport        v UNA Strassen             0-3 (0-2)
+    18.30  Swift Hesperange        v FC Wiltz 71              1-1 (1-0)
+
+
+» Matchday 6
+  Sun Sep/17
+    16.00  CS FOLA Esch            v Swift Hesperange         1-2 (0-1)
+           Progrès Niedercorn      v Victoria Rosport         1-1 (0-0)
+           UN Käerjéng             v Jeunesse Esch            1-1 (1-0)
+           FC Mondercange          v Marisca Mersch           1-2 (0-0)
+           US Mondorf              v F91 Dudelange            4-0 (3-0)
+           RFCU Luxemburg          v FC Schifflange 95        1-0 (0-0)
+           FC Wiltz 71             v Union Titus Pétange      2-0 (1-0)
+    18.30  UNA Strassen            v FC Differdange 03        2-2 (0-0)
+
+
+» Matchday 7
+  Fri Sep/22
+    20.00  Marisca Mersch          v UN Käerjéng              2-1 (0-1)
+  Sat Sep/23
+    18.00  F91 Dudelange           v FC Differdange 03        2-2 (1-2)
+           Union Titus Pétange     v CS FOLA Esch             2-1 (0-0)
+    18.30  Progrès Niedercorn      v UNA Strassen             2-0 (0-0)
+    19.30  Swift Hesperange        v RFCU Luxemburg           2-1 (1-1)
+  Sun Sep/24
+    16.00  Jeunesse Esch           v US Mondorf               2-2 (1-1)
+           FC Schifflange 95       v FC Mondercange           2-2 (1-1)
+           Victoria Rosport        v FC Wiltz 71              3-1 (2-0)
+
+
+» Matchday 8
+  Wed Sep/27
+    20.00  CS FOLA Esch            v Victoria Rosport         0-1 (0-0)
+           FC Differdange 03       v Jeunesse Esch            3-1 (1-1)
+           UN Käerjéng             v FC Schifflange 95        1-0 (1-0)
+           FC Mondercange          v Swift Hesperange         0-6 (0-1)
+           US Mondorf              v Marisca Mersch           3-2 (0-0)
+           RFCU Luxemburg          v Union Titus Pétange      2-0 (2-0)
+           UNA Strassen            v F91 Dudelange            1-1 (1-0)
+           FC Wiltz 71             v Progrès Niedercorn       2-2 (0-2)
+
+
+» Matchday 9
+  Sun Oct/8
+    16.00  Swift Hesperange        v UN Käerjéng              0-0
+           Jeunesse Esch           v F91 Dudelange            1-2 (1-2)
+           Marisca Mersch          v FC Differdange 03        1-1 (1-0)
+           FC Schifflange 95       v US Mondorf               0-0
+           Union Titus Pétange     v FC Mondercange           4-0 (3-0)
+           Victoria Rosport        v RFCU Luxemburg           1-0 (0-0)
+           FC Wiltz 71             v UNA Strassen             2-1 (1-1)
+    18.30  Progrès Niedercorn      v CS FOLA Esch             3-2 (2-1)
+
+
+» Matchday 10
+  Sat Oct/21
+    18.00  FC Differdange 03       v FC Schifflange 95        5-0 (1-0)
+  Sun Oct/22
+    16.00  CS FOLA Esch            v FC Wiltz 71              0-1 (0-1)
+           F91 Dudelange           v Marisca Mersch           1-0 (1-0)
+           FC Mondercange          v Victoria Rosport         3-3 (2-1)
+           US Mondorf              v Swift Hesperange         0-2 (0-0)
+           RFCU Luxemburg          v Progrès Niedercorn       3-3 (1-1)
+           UNA Strassen            v Jeunesse Esch            1-1 (1-0)
+    18.30  UN Käerjéng             v Union Titus Pétange      0-1 (0-0)
+
+
+» Matchday 11
+  Sun Nov/5
+    14.30  FC Schifflange 95       v F91 Dudelange            0-3 (0-1)
+           FC Wiltz 71             v RFCU Luxemburg           1-3 (0-1)
+    15.30  Progrès Niedercorn      v FC Mondercange           1-1 (1-1)
+    16.00  CS FOLA Esch            v UNA Strassen             1-1 (0-0)
+           Swift Hesperange        v FC Differdange 03        1-1 (1-0)
+           Union Titus Pétange     v US Mondorf               4-1 (2-0)
+           Victoria Rosport        v UN Käerjéng              1-4 (1-2)
+  Wed Nov/29
+    20.00  Marisca Mersch          v Jeunesse Esch            4-1 (1-1)
+
+
+» Matchday 12
+  Sat Nov/11
+    18.00  RFCU Luxemburg          v CS FOLA Esch             0-1 (0-0)
+  Sun Nov/12
+    16.00  F91 Dudelange           v Swift Hesperange         1-0 (0-0)
+           FC Differdange 03       v Union Titus Pétange      2-0 (1-0)
+           Jeunesse Esch           v FC Schifflange 95        3-3 (2-0)
+           UN Käerjéng             v Progrès Niedercorn       2-0 (1-0)
+           FC Mondercange          v FC Wiltz 71              1-3 (0-2)
+           UNA Strassen            v Marisca Mersch           1-1 (0-1)
+  Wed Nov/29
+    20.00  US Mondorf              v Victoria Rosport         2-0 (0-0)
+
+
+» Matchday 13
+  Sun Nov/26
+    14.30  FC Schifflange 95       v Marisca Mersch           2-1 (0-0)
+    15.30  Progrès Niedercorn      v US Mondorf               3-0 (1-0)
+    16.00  CS FOLA Esch            v FC Mondercange           2-2 (2-2)
+           Swift Hesperange        v Jeunesse Esch            2-0 (2-0)
+           RFCU Luxemburg          v UNA Strassen             2-1 (1-0)
+           Union Titus Pétange     v F91 Dudelange            0-1 (0-1)
+           Victoria Rosport        v FC Differdange 03        0-1 (0-0)
+           FC Wiltz 71             v UN Käerjéng              1-1 (1-0)
+
+
+» Matchday 14
+  Sat Dec/2
+    16.00  Jeunesse Esch           v Union Titus Pétange      0-0
+           Marisca Mersch          v Swift Hesperange         2-2 (0-0)
+    17.00  FC Mondercange          v RFCU Luxemburg           0-4 (0-4)
+  Sun Dec/3
+    15.00  UN Käerjéng             v CS FOLA Esch             2-1 (0-0)
+    16.00  F91 Dudelange           v Victoria Rosport         3-0 (1-0)
+           FC Differdange 03       v Progrès Niedercorn       3-1 (2-1)
+           US Mondorf              v FC Wiltz 71              2-0 (0-0)
+           UNA Strassen            v FC Schifflange 95        1-0 (0-0)
+
+
+» Matchday 15
+  Sat Dec/9
+    16.00  Union Titus Pétange     v Marisca Mersch           4-1 (2-0)
+           FC Wiltz 71             v FC Differdange 03        1-1 (0-0)
+    16.30  Victoria Rosport        v Jeunesse Esch            1-0 (1-0)
+  Sun Dec/10
+    15.00  CS FOLA Esch            v US Mondorf               3-2 (1-0)
+    15.30  Progrès Niedercorn      v F91 Dudelange            1-0 (1-0)
+    16.00  Swift Hesperange        v FC Schifflange 95        2-1 (0-1)
+           FC Mondercange          v UNA Strassen             0-0
+           RFCU Luxemburg          v UN Käerjéng              2-1 (1-1)
+
+
+» Matchday 16
+  Sun Feb/11 2024
+    14.30  FC Schifflange 95       v Victoria Rosport         2-2 (2-0)
+    16.00  F91 Dudelange           v CS FOLA Esch             4-0 (3-0)
+           FC Differdange 03       v RFCU Luxemburg           7-0 (4-0)
+           Swift Hesperange        v Union Titus Pétange      3-3 (1-0)
+           Jeunesse Esch           v FC Wiltz 71              5-2 (3-0)
+           UN Käerjéng             v UNA Strassen             0-1 (0-1)
+           Marisca Mersch          v Progrès Niedercorn       0-3 (0-1)
+           US Mondorf              v FC Mondercange           2-0 (0-0)
+
+
+» Matchday 17
+  Sun Feb/18
+    16.00  Progrès Niedercorn      v FC Schifflange 95        4-0 (2-0)
+           UN Käerjéng             v US Mondorf               2-1 (0-1)
+           FC Mondercange          v FC Differdange 03        1-1 (0-0)
+           RFCU Luxemburg          v F91 Dudelange            0-3 (0-1)
+           UNA Strassen            v Union Titus Pétange      1-0 (0-0)
+           Victoria Rosport        v Swift Hesperange         1-3 (0-1)
+           FC Wiltz 71             v Marisca Mersch           0-1 (0-1)
+    18.30  CS FOLA Esch            v Jeunesse Esch            0-1 (0-0)
+
+
+» Matchday 18
+  Sat Feb/24
+    17.00  Jeunesse Esch           v RFCU Luxemburg           3-0 (0-0)
+  Sun Feb/25
+    15.00  FC Schifflange 95       v FC Wiltz 71              1-1 (0-1)
+    16.00  F91 Dudelange           v FC Mondercange           4-2 (3-1)
+           FC Differdange 03       v UN Käerjéng              4-0 (1-0)
+           Swift Hesperange        v Progrès Niedercorn       0-0
+           US Mondorf              v UNA Strassen             1-1 (0-1)
+           Union Titus Pétange     v Victoria Rosport         2-3 (1-1)
+  Wed Mar/6
+    20.00  Marisca Mersch          v CS FOLA Esch             0-1 (0-0)
+
+
+» Matchday 19
+  Sun Mar/3
+    16.00  CS FOLA Esch            v FC Schifflange 95        2-1 (1-1)
+           Progrès Niedercorn      v Union Titus Pétange      2-1 (1-0)
+           UN Käerjéng             v F91 Dudelange            2-2 (1-2)
+           FC Mondercange          v Jeunesse Esch            0-2 (0-0)
+           US Mondorf              v FC Differdange 03        0-2 (0-0)
+           RFCU Luxemburg          v Marisca Mersch           4-1 (2-0)
+           UNA Strassen            v Victoria Rosport         0-0
+           FC Wiltz 71             v Swift Hesperange         4-5 (2-2)
+
+
+» Matchday 20
+  Sat Mar/9
+    16.00  Union Titus Pétange     v FC Wiltz 71              1-0 (0-0)
+  Sun Mar/10
+    15.00  FC Schifflange 95       v RFCU Luxemburg           4-1 (2-1)
+    16.00  F91 Dudelange           v US Mondorf               2-1 (1-1)
+           FC Differdange 03       v UNA Strassen             2-0 (0-0)
+           Swift Hesperange        v CS FOLA Esch             4-1 (1-0)
+           Jeunesse Esch           v UN Käerjéng              3-0 (1-0)
+           Marisca Mersch          v FC Mondercange           2-1 (1-1)
+           Victoria Rosport        v Progrès Niedercorn       3-1 (1-0)
+
+
+» Matchday 21
+  Sat Mar/16
+    17.00  FC Differdange 03       v F91 Dudelange            2-0 (1-0)
+  Sun Mar/17
+    16.00  CS FOLA Esch            v Union Titus Pétange      0-3 (0-3)
+           UN Käerjéng             v Marisca Mersch           1-0 (1-0)
+           FC Mondercange          v FC Schifflange 95        2-1 (0-0)
+           US Mondorf              v Jeunesse Esch            0-2 (0-1)
+           RFCU Luxemburg          v Swift Hesperange         2-5 (1-4)
+           UNA Strassen            v Progrès Niedercorn       0-1 (0-1)
+           FC Wiltz 71             v Victoria Rosport         2-2 (1-1)
+
+
+» Matchday 22
+  Sat Mar/30
+    16.00  Jeunesse Esch           v FC Differdange 03        4-3 (1-0)
+           FC Schifflange 95       v UN Käerjéng              0-1 (0-0)
+    16.30  Victoria Rosport        v CS FOLA Esch             2-3 (1-1)
+    18.00  F91 Dudelange           v UNA Strassen             4-3 (2-1)
+           Swift Hesperange        v FC Mondercange           1-1 (0-0)
+           Marisca Mersch          v US Mondorf               1-4 (0-3)
+           Union Titus Pétange     v RFCU Luxemburg           0-3 (0-1)
+    18.30  Progrès Niedercorn      v FC Wiltz 71              3-0 (0-0)
+
+
+» Matchday 23
+  Sun Apr/7
+    16.00  CS FOLA Esch            v Progrès Niedercorn       0-0
+           F91 Dudelange           v Jeunesse Esch            1-1 (0-1)
+           FC Differdange 03       v Marisca Mersch           2-0 (1-0)
+           UN Käerjéng             v Swift Hesperange         1-3 (1-2)
+           FC Mondercange          v Union Titus Pétange      0-3 (0-1)
+           US Mondorf              v FC Schifflange 95        3-3 (1-0)
+           RFCU Luxemburg          v Victoria Rosport         0-3 (0-1)
+           UNA Strassen            v FC Wiltz 71              1-1 (0-0)
+
+
+» Matchday 24
+  Sun Apr/14
+    16.00  Progrès Niedercorn      v RFCU Luxemburg           2-1 (1-0)
+           Swift Hesperange        v US Mondorf               1-2 (0-0)
+           Jeunesse Esch           v UNA Strassen             1-2 (0-2)
+           Marisca Mersch          v F91 Dudelange            3-4 (0-1)
+           FC Schifflange 95       v FC Differdange 03        0-4 (0-1)
+           Union Titus Pétange     v UN Käerjéng              1-1 (0-1)
+           Victoria Rosport        v FC Mondercange           2-1 (2-0)
+           FC Wiltz 71             v CS FOLA Esch             1-1 (1-0)
+
+
+» Matchday 25
+  Sat Apr/20
+    18.00  FC Differdange 03       v Swift Hesperange         2-0 (0-0)
+           Jeunesse Esch           v Marisca Mersch           3-1 (1-1)
+           FC Mondercange          v Progrès Niedercorn       2-1 (1-0)
+           US Mondorf              v Union Titus Pétange      2-1 (2-0)
+  Sun Apr/21
+    16.00  F91 Dudelange           v FC Schifflange 95        1-0 (1-0)
+           UN Käerjéng             v Victoria Rosport         0-0
+           RFCU Luxemburg          v FC Wiltz 71              2-4 (0-3)
+           UNA Strassen            v CS FOLA Esch             3-1 (3-1)
+
+
+» Matchday 26
+  Sun Apr/28
+    16.00  CS FOLA Esch            v RFCU Luxemburg           1-2 (0-1)
+           Marisca Mersch          v UNA Strassen             2-3 (1-0)
+           FC Schifflange 95       v Jeunesse Esch            1-3 (1-1)
+           Union Titus Pétange     v FC Differdange 03        1-4 (1-1)
+           Victoria Rosport        v US Mondorf               1-1 (1-1)
+           FC Wiltz 71             v FC Mondercange           2-1 (1-0)
+    18.00  Swift Hesperange        v F91 Dudelange            2-1 (1-1)
+    18.30  Progrès Niedercorn      v UN Käerjéng              2-0 (0-0)
+
+
+» Matchday 27
+  Sun May/5
+    16.00  F91 Dudelange           v Union Titus Pétange      3-0 (1-0)
+           FC Differdange 03       v Victoria Rosport         2-2 (0-1)
+           Jeunesse Esch           v Swift Hesperange         0-2 (0-2)
+           UN Käerjéng             v FC Wiltz 71              2-2 (1-1)
+           Marisca Mersch          v FC Schifflange 95        2-0 (1-0)
+           FC Mondercange          v CS FOLA Esch             2-1 (0-0)
+           US Mondorf              v Progrès Niedercorn       2-4 (0-2)
+           UNA Strassen            v RFCU Luxemburg           1-1 (0-0)
+
+
+» Matchday 28
+  Sun May/12
+    16.00  Swift Hesperange        v Marisca Mersch           3-1 (0-0)
+           RFCU Luxemburg          v FC Mondercange           1-1 (0-1)
+           Union Titus Pétange     v Jeunesse Esch            2-1 (0-0)
+           Victoria Rosport        v F91 Dudelange            1-2 (0-1)
+           FC Wiltz 71             v US Mondorf               2-2 (0-2)
+    18.00  FC Schifflange 95       v UNA Strassen             0-2 (0-1)
+    18.30  CS FOLA Esch            v UN Käerjéng              1-0 (0-0)
+  Mon May/13
+    20.00  Progrès Niedercorn      v FC Differdange 03        0-1 (0-0)
+
+
+» Matchday 29
+  Sat May/18
+    18.00  F91 Dudelange           v Progrès Niedercorn       0-2 (0-2)
+           FC Differdange 03       v FC Wiltz 71              1-1 (0-0)
+           Jeunesse Esch           v Victoria Rosport         0-2 (0-0)
+           UN Käerjéng             v RFCU Luxemburg           1-4 (1-3)
+           Marisca Mersch          v Union Titus Pétange      1-4 (1-1)
+           US Mondorf              v CS FOLA Esch             6-0 (3-0)
+           FC Schifflange 95       v Swift Hesperange         1-4 (1-1)
+           UNA Strassen            v FC Mondercange           1-0 (1-0)
+
+
+» Matchday 30
+  Sun May/26
+    16.00  CS FOLA Esch            v FC Differdange 03        2-0 (2-0)
+           Progrès Niedercorn      v Jeunesse Esch            1-3 (1-1)
+           Swift Hesperange        v UNA Strassen             2-0 (2-0)
+           FC Mondercange          v UN Käerjéng              2-1 (2-0)
+           RFCU Luxemburg          v US Mondorf               1-1 (1-1)
+           Union Titus Pétange     v FC Schifflange 95        1-3 (0-1)
+           Victoria Rosport        v Marisca Mersch           2-0 (0-0)
+           FC Wiltz 71             v F91 Dudelange            2-3 (1-0)

@@ -1,0 +1,337 @@
+= Georgia Premier League A 2025
+
+# Date       Fri Feb/28 - Sat Dec/13 2025 (288d)
+# Teams      10
+# Matches    180
+
+
+
+» Matchday 1
+  Fri Feb/28 2025
+    19.00  FC Iberia 1999          v FC Telavi                2-0 (0-0)
+  Sat Mar/1
+    18.00  FC Gagra                v Torpedo Kutaisi          1-2 (0-1)
+  Tue Apr/1
+    19.00  Dinamo Batumi           v Dinamo Tbilisi
+    20.00  Samgurali Tskhaltubo    v Kolkheti Poti
+    21.00  Dila Gori               v FC Gareji Sagarejo
+
+
+» Matchday 2
+  Wed Mar/5
+    19.00  FC Telavi               v Kolkheti Poti            1-0 (0-0)
+           FC Iberia 1999          v Torpedo Kutaisi          2-0 (1-0)
+  Thu Mar/6
+    17.00  FC Gagra                v Dila Gori                0-0
+    19.00  Dinamo Tbilisi          v Samgurali Tskhaltubo     2-1 (1-0)
+    20.00  FC Gareji Sagarejo      v Dinamo Batumi            0-0
+
+
+» Matchday 3
+  Sun Mar/9
+    20.00  Torpedo Kutaisi         v FC Telavi                1-2 (0-1)
+  Mon Mar/10
+    15.00  Kolkheti Poti           v Dinamo Tbilisi           0-0
+    19.00  Dila Gori               v FC Iberia 1999           0-1 (0-1)
+    21.00  Dinamo Batumi           v FC Gagra                 2-1 (2-1)
+  Tue Mar/11
+    19.00  Samgurali Tskhaltubo    v FC Gareji Sagarejo       3-1 (3-1)
+
+
+» Matchday 4
+  Sat Mar/15
+    15.00  FC Iberia 1999          v Dinamo Batumi            1-1 (0-1)
+    18.00  FC Telavi               v Dinamo Tbilisi           1-1 (1-1)
+    19.00  Torpedo Kutaisi         v Dila Gori                1-2 (1-1)
+  Sun Mar/16
+    15.00  Kolkheti Poti           v FC Gareji Sagarejo       0-1 (0-0)
+    18.00  FC Gagra                v Samgurali Tskhaltubo     0-2 (0-1)
+
+
+» Matchday 5
+  Fri Mar/28
+    15.00  Kolkheti Poti           v FC Gagra
+           Dinamo Tbilisi          v FC Gareji Sagarejo
+    19.00  Samgurali Tskhaltubo    v FC Iberia 1999
+    21.00  Dinamo Batumi           v Torpedo Kutaisi
+           Dila Gori               v FC Telavi
+
+
+» Matchday 6
+  Wed Apr/2
+    15.00  Torpedo Kutaisi         v Samgurali Tskhaltubo
+           FC Iberia 1999          v Kolkheti Poti
+           FC Gagra                v Dinamo Tbilisi
+           Dila Gori               v Dinamo Batumi
+           FC Telavi               v FC Gareji Sagarejo
+
+
+» Matchday 7
+  Sun Apr/6
+           Dinamo Tbilisi          v FC Iberia 1999
+           Samgurali Tskhaltubo    v Dila Gori
+           FC Gareji Sagarejo      v FC Gagra
+           Kolkheti Poti           v Torpedo Kutaisi
+           Dinamo Batumi           v FC Telavi
+
+
+» Matchday 8
+  Sun Apr/13
+    19.00  Dila Gori               v Kolkheti Poti
+    21.00  Torpedo Kutaisi         v Dinamo Tbilisi
+  Mon Apr/14
+    19.00  FC Iberia 1999          v FC Gareji Sagarejo
+    20.00  FC Telavi               v FC Gagra
+    21.00  Dinamo Batumi           v Samgurali Tskhaltubo
+
+
+» Matchday 9
+  Thu Apr/17
+           FC Gareji Sagarejo      v Torpedo Kutaisi
+           Kolkheti Poti           v Dinamo Batumi
+           FC Gagra                v FC Iberia 1999
+           Dinamo Tbilisi          v Dila Gori
+           Samgurali Tskhaltubo    v FC Telavi
+
+
+» Matchday 10
+  Fri Apr/25
+           FC Gagra                v Torpedo Kutaisi
+           Dinamo Tbilisi          v Dinamo Batumi
+           FC Telavi               v FC Iberia 1999
+           FC Gareji Sagarejo      v Dila Gori
+           Kolkheti Poti           v Samgurali Tskhaltubo
+
+
+» Matchday 11
+  Tue Apr/29
+           Samgurali Tskhaltubo    v Dinamo Tbilisi
+           Dila Gori               v FC Gagra
+           Kolkheti Poti           v FC Telavi
+           Dinamo Batumi           v FC Gareji Sagarejo
+           Torpedo Kutaisi         v FC Iberia 1999
+
+
+» Matchday 12
+  Wed May/7
+           FC Iberia 1999          v Dila Gori
+           FC Gareji Sagarejo      v Samgurali Tskhaltubo
+           FC Telavi               v Torpedo Kutaisi
+           FC Gagra                v Dinamo Batumi
+           Dinamo Tbilisi          v Kolkheti Poti
+
+
+» Matchday 13
+  Sun May/11
+           FC Gareji Sagarejo      v Kolkheti Poti
+           Dinamo Batumi           v FC Iberia 1999
+           Dinamo Tbilisi          v FC Telavi
+           Samgurali Tskhaltubo    v FC Gagra
+           Dila Gori               v Torpedo Kutaisi
+
+
+» Matchday 14
+  Thu May/15
+           FC Gareji Sagarejo      v Dinamo Tbilisi
+           Torpedo Kutaisi         v Dinamo Batumi
+           FC Gagra                v Kolkheti Poti
+           FC Telavi               v Dila Gori
+           FC Iberia 1999          v Samgurali Tskhaltubo
+
+
+» Matchday 15
+  Mon May/19
+           Dinamo Batumi           v Dila Gori
+           Dinamo Tbilisi          v FC Gagra
+           Samgurali Tskhaltubo    v Torpedo Kutaisi
+           FC Gareji Sagarejo      v FC Telavi
+           Kolkheti Poti           v FC Iberia 1999
+
+
+» Matchday 16
+  Fri May/23
+           FC Gagra                v FC Gareji Sagarejo
+           Dila Gori               v Samgurali Tskhaltubo
+           FC Iberia 1999          v Dinamo Tbilisi
+           FC Telavi               v Dinamo Batumi
+           Torpedo Kutaisi         v Kolkheti Poti
+
+
+» Matchday 17
+  Tue May/27
+           Samgurali Tskhaltubo    v Dinamo Batumi
+           FC Gareji Sagarejo      v FC Iberia 1999
+           Kolkheti Poti           v Dila Gori
+           FC Gagra                v FC Telavi
+           Dinamo Tbilisi          v Torpedo Kutaisi
+
+
+» Matchday 18
+  Sat May/31
+           FC Iberia 1999          v FC Gagra
+           Dinamo Batumi           v Kolkheti Poti
+           Torpedo Kutaisi         v FC Gareji Sagarejo
+           FC Telavi               v Samgurali Tskhaltubo
+           Dila Gori               v Dinamo Tbilisi
+
+
+» Matchday 19
+  Sat Aug/2
+           Samgurali Tskhaltubo    v Kolkheti Poti
+           Dila Gori               v FC Gareji Sagarejo
+           FC Iberia 1999          v FC Telavi
+           Dinamo Batumi           v Dinamo Tbilisi
+           Torpedo Kutaisi         v FC Gagra
+
+
+» Matchday 20
+  Sat Aug/9
+           Dinamo Tbilisi          v Samgurali Tskhaltubo
+           FC Iberia 1999          v Torpedo Kutaisi
+           FC Gareji Sagarejo      v Dinamo Batumi
+           FC Telavi               v Kolkheti Poti
+           FC Gagra                v Dila Gori
+
+
+» Matchday 21
+  Sat Aug/16
+           Dila Gori               v FC Iberia 1999
+           Kolkheti Poti           v Dinamo Tbilisi
+           Dinamo Batumi           v FC Gagra
+           Torpedo Kutaisi         v FC Telavi
+           Samgurali Tskhaltubo    v FC Gareji Sagarejo
+
+
+» Matchday 22
+  Sat Aug/23
+           FC Gareji Sagarejo      v Kolkheti Poti
+           Torpedo Kutaisi         v Dila Gori
+           FC Gagra                v Samgurali Tskhaltubo
+           FC Telavi               v Dinamo Tbilisi
+           FC Iberia 1999          v Dinamo Batumi
+
+
+» Matchday 23
+  Sat Aug/30
+           Dinamo Batumi           v Torpedo Kutaisi
+           Dinamo Tbilisi          v FC Gareji Sagarejo
+           Samgurali Tskhaltubo    v FC Iberia 1999
+           Dila Gori               v FC Telavi
+           Kolkheti Poti           v FC Gagra
+
+
+» Matchday 24
+  Sat Sep/13
+           FC Gagra                v Dinamo Tbilisi
+           Dila Gori               v Dinamo Batumi
+           FC Iberia 1999          v Kolkheti Poti
+           FC Telavi               v FC Gareji Sagarejo
+           Torpedo Kutaisi         v Samgurali Tskhaltubo
+
+
+» Matchday 25
+  Sat Sep/20
+           Samgurali Tskhaltubo    v Dila Gori
+           FC Gareji Sagarejo      v FC Gagra
+           Kolkheti Poti           v Torpedo Kutaisi
+           Dinamo Batumi           v FC Telavi
+           Dinamo Tbilisi          v FC Iberia 1999
+
+
+» Matchday 26
+  Sat Sep/27
+           Dinamo Batumi           v Samgurali Tskhaltubo
+           Torpedo Kutaisi         v Dinamo Tbilisi
+           FC Iberia 1999          v FC Gareji Sagarejo
+           Dila Gori               v Kolkheti Poti
+           FC Telavi               v FC Gagra
+
+
+» Matchday 27
+  Sat Oct/4
+           Samgurali Tskhaltubo    v FC Telavi
+           Dinamo Tbilisi          v Dila Gori
+           FC Gagra                v FC Iberia 1999
+           Kolkheti Poti           v Dinamo Batumi
+           FC Gareji Sagarejo      v Torpedo Kutaisi
+
+
+» Matchday 28
+  Sat Oct/18
+           FC Telavi               v FC Iberia 1999
+           FC Gareji Sagarejo      v Dila Gori
+           Kolkheti Poti           v Samgurali Tskhaltubo
+           FC Gagra                v Torpedo Kutaisi
+           Dinamo Tbilisi          v Dinamo Batumi
+
+
+» Matchday 29
+  Sat Oct/25
+           Kolkheti Poti           v FC Telavi
+           Dinamo Batumi           v FC Gareji Sagarejo
+           Torpedo Kutaisi         v FC Iberia 1999
+           Samgurali Tskhaltubo    v Dinamo Tbilisi
+           Dila Gori               v FC Gagra
+
+
+» Matchday 30
+  Sat Nov/1
+           FC Gareji Sagarejo      v Samgurali Tskhaltubo
+           FC Telavi               v Torpedo Kutaisi
+           FC Gagra                v Dinamo Batumi
+           Dinamo Tbilisi          v Kolkheti Poti
+           FC Iberia 1999          v Dila Gori
+
+
+» Matchday 31
+  Sat Nov/8
+           Dinamo Batumi           v FC Iberia 1999
+           Dinamo Tbilisi          v FC Telavi
+           Samgurali Tskhaltubo    v FC Gagra
+           Dila Gori               v Torpedo Kutaisi
+           Kolkheti Poti           v FC Gareji Sagarejo
+
+
+» Matchday 32
+  Sat Nov/22
+           FC Gagra                v Kolkheti Poti
+           FC Telavi               v Dila Gori
+           FC Iberia 1999          v Samgurali Tskhaltubo
+           FC Gareji Sagarejo      v Dinamo Tbilisi
+           Torpedo Kutaisi         v Dinamo Batumi
+
+
+» Matchday 33
+  Sat Nov/29
+           Dinamo Batumi           v Dila Gori
+           FC Gareji Sagarejo      v FC Telavi
+           Dinamo Tbilisi          v FC Gagra
+           Kolkheti Poti           v FC Iberia 1999
+           Samgurali Tskhaltubo    v Torpedo Kutaisi
+
+
+» Matchday 34
+  Tue Dec/2
+           FC Telavi               v Dinamo Batumi
+           Torpedo Kutaisi         v Kolkheti Poti
+           FC Gagra                v FC Gareji Sagarejo
+           Dila Gori               v Samgurali Tskhaltubo
+           FC Iberia 1999          v Dinamo Tbilisi
+
+
+» Matchday 35
+  Sat Dec/6
+           FC Gagra                v FC Telavi
+           Dinamo Tbilisi          v Torpedo Kutaisi
+           Samgurali Tskhaltubo    v Dinamo Batumi
+           FC Gareji Sagarejo      v FC Iberia 1999
+           Kolkheti Poti           v Dila Gori
+
+
+» Matchday 36
+  Sat Dec/13
+           FC Telavi               v Samgurali Tskhaltubo
+           Dila Gori               v Dinamo Tbilisi
+           FC Iberia 1999          v FC Gagra
+           Dinamo Batumi           v Kolkheti Poti
+           Torpedo Kutaisi         v FC Gareji Sagarejo

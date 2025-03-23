@@ -1,78 +1,97 @@
 = Swiss Cup 2024/25
 
-# Date       Fri Aug/16 - Tue Dec/3 2024 (109d)
+# Date       Fri Aug/16 2024 - Sun Apr/27 2025 (254d)
 # Teams      64
-# Matches    56
+# Matches    62
 
 
 
-Round 1
-[Fri Aug/16]
-  20.00  Lancy FC                 1-4 pen. 3-3 a.e.t. (3-3, 2-1)  Etoile Carouge FC
-         FC Dardania Lausanne     0-3 (0-0)  Yverdon Sport FC
-         SC Kriens                1-2 (0-2)  AC Bellinzona
-         AC Taverne               1-3 (0-0)  FC Wil 1900
-         FC Wettswil-Bonstetten   1-2 (0-0)  FC Winterthur
-[Sat Aug/17]
-  16.00  FC Subingen              0-8 (0-5)  FC Basel 1893
-         FC Baden                 1-3 (0-1)  FC Rapperswil-Jona
-         FC Ursy                  0-6 (0-4)  FC Stade Nyonnais
-         FC Schattdorf            0-1 (0-0)  FC Paradiso
-  17.00  FC Printse-Nendaz        0-10 (0-6)  BSC Young Boys
-         FC Suhr                  0-4 (0-2)  FC Aarau
-         FC Echallens             1-6 (0-3)  Stade-Lausanne-Ouchy
-         FC Besa St. Gallen       1-0 (1-0)  Chur 97
-  18.00  FC Monthey               4-3 a.e.t. (3-3, 1-1)  FC Solothurn
-         FC Wallbach              0-2 (0-0)  FC Langenthal
-         FC Tuggen                0-2 (0-1)  FC Schaffhausen
-         FC Mendrisio             1-4 (1-3)  FC Luzern
-  19.00  FC Aemme                 2-1 (2-0)  FC Haute-Ajoie
-         FC CSL                   3-1 pen. 1-1 a.e.t. (1-1, 1-0)  FC Prishtina Bern
-         Zürich City SC           0-1 (0-0)  SC YF/Juventus Zürich
-         SC Emmen                 3-2 (0-2)  FC Altstätten
-  19.30  FC Biel/Bienne           2-1 (1-0)  Neuchâtel Xamax FCS
-  20.00  SR Delémont              1-4 pen. 1-1 a.e.t. (1-1, 1-0)  FC Sion
-[Sun Aug/18]
-  14.00  FC Genolier-Begnins      1-3 (0-1)  Vevey-Sports
-  14.30  Signal FC Bernex-Confignon  1-7 (0-4)  Servette FC
-         FC Champel               0-7 (0-2)  FC Lausanne-Sport
-  15.00  SC Schwyz                0-6 (0-2)  FC Thun Berner Oberland
-         KF Dardania St. Gallen   1-2 (0-2)  FC Gambarogno-Contone
-         SC Brühl                 1-7 (1-4)  FC Lugano
-  16.00  Zug 94                   0-2 (0-2)  FC Zürich
-         FC Regensdorf            0-9 (0-6)  Grasshopper Club Zürich
-  16.30  FC Malcantone            0-4 (0-3)  FC St. Gallen
+» Round 1
+  Fri Aug/16 2024
+    20.00  FC Wettswil-Bonstetten  v FC Winterthur            1-2 (0-0)
+           Lancy FC                v Etoile Carouge FC        1-4 pen. 3-3 a.e.t. (3-3, 2-1)
+           FC Dardania Lausanne    v Yverdon Sport FC         0-3 (0-0)
+           SC Kriens               v AC Bellinzona            1-2 (0-2)
+           AC Taverne              v FC Wil 1900              1-3 (0-0)
+  Sat Aug/17
+    16.00  FC Subingen             v FC Basel 1893            0-8 (0-5)
+           FC Baden                v FC Rapperswil-Jona       1-3 (0-1)
+           FC Ursy                 v FC Stade Nyonnais        0-6 (0-4)
+           FC Schattdorf           v FC Paradiso              0-1 (0-0)
+    17.00  FC Printse-Nendaz       v BSC Young Boys           0-10 (0-6)
+           FC Suhr                 v FC Aarau                 0-4 (0-2)
+           FC Echallens            v Stade Lausanne-Ouchy     1-6 (0-3)
+           FC Besa St. Gallen      v Chur 97                  1-0 (1-0)
+    18.00  FC Monthey              v FC Solothurn             4-3 a.e.t. (3-3, 1-1)
+           FC Wallbach             v FC Langenthal            0-2 (0-0)
+           FC Tuggen               v FC Schaffhausen          0-2 (0-1)
+           FC Mendrisio            v FC Luzern                1-4 (1-3)
+    19.00  FC Aemme                v FC Haute-Ajoie           2-1 (2-0)
+           FC CSL                  v FC Prishtina Bern        3-1 pen. 1-1 a.e.t. (1-1, 1-0)
+           Zürich City SC          v SC YF/Juventus Zürich    0-1 (0-0)
+           SC Emmen                v FC Altstätten            3-2 (0-2)
+    19.30  FC Biel/Bienne          v Neuchâtel Xamax FCS      2-1 (1-0)
+    20.00  SR Delémont             v FC Sion                  1-4 pen. 1-1 a.e.t. (1-1, 1-0)
+  Sun Aug/18
+    14.00  FC Genolier-Begnins     v Vevey-Sports             1-3 (0-1)
+    14.30  Signal FC Bernex-Confignon v Servette FC              1-7 (0-4)
+           FC Champel              v FC Lausanne-Sport        0-7 (0-2)
+    15.00  SC Schwyz               v FC Thun Berner Oberland  0-6 (0-2)
+           KF Dardania St. Gallen  v FC Gambarogno-Contone    1-2 (0-2)
+           SC Brühl                v FC Lugano                1-7 (1-4)
+    16.00  Zug 94                  v FC Zürich                0-2 (0-2)
+           FC Regensdorf           v Grasshopper Club Zürich  0-9 (0-6)
+    16.30  FC Malcantone           v FC St. Gallen            0-4 (0-3)
 
 
-Round 2
-[Fri Sep/13]
-  20.00  SC Emmen                 1-2 (1-2)  Yverdon Sport FC
-         SC YF/Juventus Zürich    0-2 (0-1)  FC Sion
-         FC Thun Berner Oberland  0-2 (0-1)  Grasshopper Club Zürich
-  20.15  FC Besa St. Gallen       1-6 (0-2)  FC Biel/Bienne
-  20.00  FC Monthey               0-2 (0-2)  Etoile Carouge FC
-[Sat Sep/14]
-  15.00  FC Langenthal            1-0 (1-0)  Stade-Lausanne-Ouchy
-  16.00  FC Paradiso              1-3 (1-1)  FC St. Gallen
-  17.00  FC Rapperswil-Jona       1-3 (0-0)  FC Lugano
-         FC Aemme                 0-4 (0-1)  FC Lausanne-Sport
-  18.00  Vevey-Sports             2-4 (0-2)  BSC Young Boys
-         FC Wil 1900              2-4 pen. 2-2 a.e.t. (1-1, 0-1)  FC Winterthur
-  18.30  FC CSL                   0-3 (0-0)  FC Zürich
-[Sun Sep/15]
-  14.30  FC Schaffhausen          2-1 (0-1)  Servette FC
-  16.00  FC Gambarogno-Contone    1-2 (0-2)  AC Bellinzona
-         FC Aarau                 1-0 (0-0)  FC Luzern
-  16.30  FC Stade Nyonnais        0-1 a.e.t. (0-0)  FC Basel 1893
+» Round 2
+  Fri Sep/13
+    20.00  FC Monthey              v Etoile Carouge FC        0-2 (0-2)
+           SC Emmen                v Yverdon Sport FC         1-2 (1-2)
+           SC YF/Juventus Zürich   v FC Sion                  0-2 (0-1)
+           FC Thun Berner Oberland v Grasshopper Club Zürich  0-2 (0-1)
+    20.15  FC Besa St. Gallen      v FC Biel/Bienne           1-6 (0-2)
+  Sat Sep/14
+    15.00  FC Langenthal           v Stade Lausanne-Ouchy     1-0 (1-0)
+    16.00  FC Paradiso             v FC St. Gallen            1-3 (1-1)
+    17.00  FC Rapperswil-Jona      v FC Lugano                1-3 (0-0)
+           FC Aemme                v FC Lausanne-Sport        0-4 (0-1)
+    18.00  Vevey-Sports            v BSC Young Boys           2-4 (0-2)
+           FC Wil 1900             v FC Winterthur            2-4 pen. 2-2 a.e.t. (1-1, 0-1)
+    18.30  FC CSL                  v FC Zürich                0-3 (0-0)
+  Sun Sep/15
+    14.30  FC Schaffhausen         v Servette FC              2-1 (0-1)
+    16.00  FC Gambarogno-Contone   v AC Bellinzona            1-2 (0-2)
+           FC Aarau                v FC Luzern                1-0 (0-0)
+    16.30  FC Stade Nyonnais       v FC Basel 1893            0-1 a.e.t. (0-0)
 
 
-Round of 16
-[Tue Dec/3]
-  FC St. Gallen            -  AC Bellinzona
-  Grasshopper Club Zürich  -  FC Zürich
-  FC Aarau                 -  Etoile Carouge FC
-  FC Basel 1893            -  FC Sion
-  Yverdon Sport FC         -  FC Lugano
-  FC Winterthur            -  FC Lausanne-Sport
-  FC Langenthal            -  FC Biel/Bienne
-  FC Schaffhausen          -  BSC Young Boys
+» Round of 16
+  Tue Dec/3
+    19.00  FC Langenthal           v FC Biel/Bienne           0-6 (0-4)
+    20.00  Grasshopper Club Zürich v FC Zürich                0-1 (0-0)
+  Wed Dec/4
+    20.00  FC Schaffhausen         v BSC Young Boys           0-1 (0-1)
+    20.15  FC Basel 1893           v FC Sion                  4-1 pen. 2-2 a.e.t. (2-2, 1-2)
+    20.30  Yverdon Sport FC        v FC Lugano                0-2 (0-0)
+  Thu Dec/5
+    20.00  FC Aarau                v Etoile Carouge FC        0-1 (0-0)
+    20.30  AC Bellinzona           v FC St. Gallen            1-0 (0-0)
+           FC Winterthur           v FC Lausanne-Sport        0-3 (0-2)
+
+
+» Quarterfinals
+  Tue Feb/25 2025
+    20.30  AC Bellinzona           v FC Lausanne-Sport        3-4 pen. 1-1 a.e.t. (1-1, 0-0)
+  Wed Feb/26
+    19.30  Etoile Carouge FC       v FC Basel 1893            1-3 (0-0)
+    20.30  FC Biel/Bienne          v FC Lugano                2-0 (0-0)
+  Thu Feb/27
+    20.30  FC Zürich               v BSC Young Boys           2-3 (1-1)
+
+
+» Semifinals
+  Sat Apr/26
+    20.30  FC Biel/Bienne          v BSC Young Boys
+  Sun Apr/27
+    15.30  FC Basel 1893           v FC Lausanne-Sport

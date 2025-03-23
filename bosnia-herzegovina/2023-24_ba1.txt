@@ -1,4 +1,4 @@
-= Bosnian-Herzegovinian Premier League 2023/24
+= Bosnia and Herzegovina Premier Liga 2023/24
 
 # Date       Sat Jul/29 2023 - Sun May/26 2024 (302d)
 # Teams      12
@@ -6,431 +6,404 @@
 
 
 
-Matchday 1
-[Sat Jul/29]
-  20.30  Velež Mostar             5-0 (3-0)  Zvijezda 09 Bijeljina
-[Sun Jul/30]
-  20.30  FK Sarajevo              1-2 (1-1)  Sloga Doboj
-  17.00  NK GOŠK Gabela           1-4 (1-1)  FK Tuzla City
-
-
-Matchday 2
-[Fri Aug/4]
-  21.00  HŠK Posušje              1-2 (0-1)  Široki Brijeg
-[Sat Aug/5]
-  17.00  Zvijezda 09 Bijeljina    3-4 (1-3)  Igman Konjic
-[Sun Aug/6]
-  21.00  Velež Mostar             0-0  NK GOŠK Gabela
-
-
-Matchday 3
-[Fri Aug/11]
-  21.00  FK Sarajevo              3-0 (1-0)  HŠK Posušje
-[Sat Aug/12]
-  17.00  Igman Konjic             1-0 (0-0)  Sloga Doboj
-         NK GOŠK Gabela           2-0 (1-0)  Zvijezda 09 Bijeljina
-  20.45  Željezničar Sarajevo     2-0 (0-0)  Borac Banja Luka
-[Sun Aug/13]
-  21.00  Široki Brijeg            1-0 (1-0)  FK Tuzla City
-
-
-Matchday 4
-[Sat Aug/19]
-  17.00  Zvijezda 09 Bijeljina    1-0 (0-0)  Sloga Doboj
-  20.45  HŠK Posušje              1-0 (1-0)  Željezničar Sarajevo
-[Sun Aug/20]
-  20.00  Zrinjski Mostar          3-1 (2-1)  NK GOŠK Gabela
-  21.30  Velež Mostar             1-1 (0-1)  Široki Brijeg
-  19.30  Borac Banja Luka         4-1 (2-1)  Igman Konjic
-[Mon Aug/21]
-  17.00  FK Tuzla City            1-2 (0-2)  FK Sarajevo
-
-
-Matchday 5
-[Fri Aug/25]
-  20.00  Borac Banja Luka         5-0 (1-0)  Sloga Doboj
-[Sat Aug/26]
-  17.00  Igman Konjic             2-1 (2-0)  HŠK Posušje
-  20.45  Željezničar Sarajevo     3-1 (1-0)  FK Tuzla City
-[Sun Aug/27]
-  19.30  Široki Brijeg            2-0 (1-0)  NK GOŠK Gabela
-  19.45  Zrinjski Mostar          5-3 (3-2)  Zvijezda 09 Bijeljina
-[Mon Aug/28]
-  21.00  FK Sarajevo              1-0 (0-0)  Velež Mostar
-
-
-Matchday 1
-[Wed Aug/30]
-  18.30  Željezničar Sarajevo     1-0 (0-0)  Igman Konjic
-
-
-Matchday 6
-[Fri Sep/1]
-  19.00  Borac Banja Luka         4-2 (1-2)  Zvijezda 09 Bijeljina
-[Sat Sep/2]
-  19.30  HŠK Posušje              4-0 (2-0)  Sloga Doboj
-  20.45  NK GOŠK Gabela           2-2 (1-0)  FK Sarajevo
-[Sun Sep/3]
-  19.45  FK Tuzla City            3-1 (1-1)  Igman Konjic
-         Velež Mostar             1-0 (0-0)  Željezničar Sarajevo
-
-
-Matchday 1
-[Wed Sep/13]
-  18.30  Zrinjski Mostar          0-1 (0-1)  HŠK Posušje
-
-
-Matchday 7
-[Fri Sep/15]
-  16.00  Sloga Doboj              2-1 (1-1)  FK Tuzla City
-  18.30  Željezničar Sarajevo     2-3 (1-0)  NK GOŠK Gabela
-[Sat Sep/16]
-  16.00  Igman Konjic             2-4 (2-2)  Velež Mostar
-  20.45  FK Sarajevo              1-0 (0-0)  Zrinjski Mostar
-[Sun Sep/17]
-  19.45  Široki Brijeg            2-1 (2-0)  Zvijezda 09 Bijeljina
-         Borac Banja Luka         1-0 (0-0)  HŠK Posušje
-
-
-Matchday 2
-[Wed Sep/20]
-  15.00  Sloga Doboj              3-0 (1-0)  Željezničar Sarajevo
-
-
-Matchday 8
-[Fri Sep/22]
-  20.00  Široki Brijeg            1-0 (0-0)  FK Sarajevo
-[Sat Sep/23]
-  20.45  Velež Mostar             4-2 (2-1)  Sloga Doboj
-  18.30  NK GOŠK Gabela           4-0 (1-0)  Igman Konjic
-  16.00  FK Tuzla City            1-2 (0-2)  Borac Banja Luka
-[Sun Sep/24]
-  19.45  Zrinjski Mostar          2-1 (0-1)  Željezničar Sarajevo
-  16.00  Zvijezda 09 Bijeljina    0-2 (0-0)  HŠK Posušje
-
-
-Matchday 2
-[Wed Sep/27]
-  15.00  FK Tuzla City            2-4 (0-1)  Zrinjski Mostar
-
-
-Matchday 1
-[Wed Sep/27]
-  18.30  Široki Brijeg            0-2 (0-2)  Borac Banja Luka
-
-
-Matchday 9
-[Sat Sep/30]
-  18.30  HŠK Posušje              1-1 (1-0)  FK Tuzla City
-  20.45  FK Sarajevo              2-0 (2-0)  Zvijezda 09 Bijeljina
-[Sun Oct/1]
-  20.45  Borac Banja Luka         2-0 (0-0)  Velež Mostar
-  15.00  Igman Konjic             0-2 (0-2)  Zrinjski Mostar
-         Sloga Doboj              3-2 (0-0)  NK GOŠK Gabela
-[Mon Oct/2]
-  18.00  Željezničar Sarajevo     2-1 (1-0)  Široki Brijeg
-
-
-Matchday 10
-[Fri Oct/6]
-  18.00  Velež Mostar             2-1 (0-0)  HŠK Posušje
-[Sat Oct/7]
-  15.00  Zvijezda 09 Bijeljina    1-1 (0-0)  FK Tuzla City
-[Sun Oct/8]
-  20.30  FK Sarajevo              3-0 (2-0)  Željezničar Sarajevo
-  15.00  NK GOŠK Gabela           0-3 (0-2)  Borac Banja Luka
-  18.00  Široki Brijeg            2-0 (1-0)  Igman Konjic
-[Mon Oct/9]
-  18.00  Zrinjski Mostar          2-0 (1-0)  Sloga Doboj
-
-
-Matchday 3
-[Wed Oct/18]
-  16.30  Zrinjski Mostar          3-0 (3-0)  Velež Mostar
-
-
-Matchday 2
-[Wed Oct/18]
-  19.00  Borac Banja Luka         1-1 (0-0)  FK Sarajevo
-
-
-Matchday 11
-[Sat Oct/21]
-  13.30  Sloga Doboj              1-0 (0-0)  Široki Brijeg
-  18.30  HŠK Posušje              0-0  NK GOŠK Gabela
-  20.45  Željezničar Sarajevo     1-0 (0-0)  Zvijezda 09 Bijeljina
-[Sun Oct/22]
-  13.00  Igman Konjic             1-2 (1-1)  FK Sarajevo
-  19.45  Borac Banja Luka         0-0  Zrinjski Mostar
-[Mon Oct/23]
-  14.30  FK Tuzla City            1-1 (1-0)  Velež Mostar
-
-
-Matchday 12
-[Fri Oct/27]
-  14.00  Igman Konjic             2-0 (0-0)  Željezničar Sarajevo
-[Sat Oct/28]
-  13.30  Sloga Doboj              3-0 (1-0)  FK Sarajevo
-  16.00  Borac Banja Luka         1-0 (1-0)  Široki Brijeg
-[Sun Oct/29]
-  14.00  Zvijezda 09 Bijeljina    0-0  Velež Mostar
-  18.40  HŠK Posušje              2-2 (2-2)  Zrinjski Mostar
-[Mon Oct/30]
-  14.00  FK Tuzla City            2-2 (1-0)  NK GOŠK Gabela
-
-
-Matchday 13
-[Fri Nov/3]
-  18.00  NK GOŠK Gabela           0-4 (0-1)  Velež Mostar
-[Sat Nov/4]
-  13.00  Igman Konjic             3-1 (2-1)  Zvijezda 09 Bijeljina
-  16.00  Željezničar Sarajevo     1-0 (0-0)  Sloga Doboj
-[Sun Nov/5]
-  13.00  Široki Brijeg            1-1 (0-1)  HŠK Posušje
-         Zrinjski Mostar          3-1 (1-0)  FK Tuzla City
-  19.45  FK Sarajevo              1-1 (0-1)  Borac Banja Luka
-
-
-Matchday 14
-[Sat Nov/11]
-  13.00  Sloga Doboj              4-1 (1-0)  Igman Konjic
-  20.45  HŠK Posušje              0-1 (0-1)  FK Sarajevo
-[Sun Nov/12]
-  15.15  Borac Banja Luka         3-2 (2-1)  Željezničar Sarajevo
-  13.00  Zvijezda 09 Bijeljina    1-2 (0-1)  NK GOŠK Gabela
-[Mon Nov/13]
-  18.00  Velež Mostar             3-0 (1-0)  Zrinjski Mostar
-
-
-Matchday 6
-[Wed Nov/22]
-  18.00  Zrinjski Mostar          3-1 (3-1)  Široki Brijeg
-
-
-Matchday 15
-[Fri Nov/24]
-  18.00  FK Sarajevo              6-2 (4-1)  FK Tuzla City
-[Sat Nov/25]
-  13.00  Igman Konjic             0-1 (0-1)  Borac Banja Luka
-[Sun Nov/26]
-  13.00  Sloga Doboj              1-0 (0-0)  Zvijezda 09 Bijeljina
-         Željezničar Sarajevo     1-1 (0-1)  HŠK Posušje
-  15.00  NK GOŠK Gabela           1-5 (0-2)  Zrinjski Mostar
-  19.45  Široki Brijeg            2-2 (1-0)  Velež Mostar
-
-
-Matchday 16
-[Fri Dec/1]
-  18.00  Velež Mostar             1-0 (0-0)  FK Sarajevo
-[Sat Dec/2]
-  13.30  FK Tuzla City            3-0 (3-0)  Željezničar Sarajevo
-  16.00  Sloga Doboj              0-4 (0-4)  Borac Banja Luka
-[Sun Dec/3]
-  13.00  HŠK Posušje              4-1 (3-0)  Igman Konjic
-  19.45  NK GOŠK Gabela           0-0  Široki Brijeg
-[Mon Dec/4]
-  13.00  Zvijezda 09 Bijeljina    2-1 (0-0)  Zrinjski Mostar
-
-
-Matchday 14
-[Wed Dec/6]
-  13.00  FK Tuzla City            2-0 (0-0)  Široki Brijeg
-
-
-Matchday 17
-[Fri Dec/8]
-  18.00  Željezničar Sarajevo     0-1 (0-0)  Velež Mostar
-[Sat Dec/9]
-  13.00  Zvijezda 09 Bijeljina    1-2 (0-1)  Borac Banja Luka
-         Sloga Doboj              1-0 (0-0)  HŠK Posušje
-  16.00  FK Sarajevo              3-0 (0-0)  NK GOŠK Gabela
-[Sun Dec/10]
-  15.15  Široki Brijeg            0-2 (0-1)  Zrinjski Mostar
-  13.00  Igman Konjic             2-0 (2-0)  FK Tuzla City
-
-
-Matchday 18
-[Fri Dec/15]
-  18.00  HŠK Posušje              0-2 (0-1)  Borac Banja Luka
-[Sat Dec/16]
-  13.00  FK Tuzla City            3-0 (2-0)  Sloga Doboj
-  16.00  NK GOŠK Gabela           1-0 (0-0)  Željezničar Sarajevo
-[Sun Dec/17]
-  15.00  Velež Mostar             1-1 (0-1)  Igman Konjic
-  13.00  Zvijezda 09 Bijeljina    3-0 (2-0)  Široki Brijeg
-[Mon Dec/18]
-  18.00  Zrinjski Mostar          2-0 (2-0)  FK Sarajevo
-
-
-Matchday 19
-[Fri Feb/16]
-  18.00  Sloga Doboj              0-0  Velež Mostar
-[Sat Feb/17]
-  13.00  Igman Konjic             1-2 (0-1)  NK GOŠK Gabela
-         HŠK Posušje              2-0 (1-0)  Zvijezda 09 Bijeljina
-  16.00  Željezničar Sarajevo     0-0  Zrinjski Mostar
-[Sun Feb/18]
-  17.30  Borac Banja Luka         2-1 (1-0)  FK Tuzla City
-  13.00  FK Sarajevo              1-3 (0-0)  Široki Brijeg
-
-
-Matchday 20
-[Fri Feb/23]
-  18.00  NK GOŠK Gabela           2-4 (1-3)  Sloga Doboj
-[Sat Feb/24]
-  16.00  Velež Mostar             0-0  Borac Banja Luka
-  13.00  Zvijezda 09 Bijeljina    1-0 (0-0)  FK Sarajevo
-[Sun Feb/25]
-  13.00  FK Tuzla City            0-1 (0-0)  HŠK Posušje
-  15.00  Zrinjski Mostar          5-0 (4-0)  Igman Konjic
-[Mon Feb/26]
-  13.00  Široki Brijeg            2-0 (0-0)  Željezničar Sarajevo
-
-
-Matchday 21
-[Sat Mar/2]
-  13.00  Igman Konjic             1-0 (0-0)  Široki Brijeg
-  16.00  Sloga Doboj              1-1 (0-0)  Zrinjski Mostar
-  13.00  FK Tuzla City            2-0 (1-0)  Zvijezda 09 Bijeljina
-[Sun Mar/3]
-  14.00  HŠK Posušje              1-0 (1-0)  Velež Mostar
-  18.45  Željezničar Sarajevo     3-0 (1-0)  FK Sarajevo
-[Mon Mar/4]
-  17.45  Borac Banja Luka         3-0 (1-0)  NK GOŠK Gabela
-
-
-Matchday 22
-[Sat Mar/9]
-  16.00  NK GOŠK Gabela           1-1 (1-0)  HŠK Posušje
-  18.30  FK Sarajevo              2-2 (0-0)  Igman Konjic
-  13.00  Široki Brijeg            0-1 (0-0)  Sloga Doboj
-[Sun Mar/10]
-  14.00  Zvijezda 09 Bijeljina    2-1 (1-1)  Željezničar Sarajevo
-  19.00  Zrinjski Mostar          0-1 (0-1)  Borac Banja Luka
-[Mon Mar/11]
-  18.00  Velež Mostar             1-1 (1-1)  FK Tuzla City
-
-
-Matchday 23
-[Sat Mar/16]
-  16.00  Zrinjski Mostar          2-0 (0-0)  Željezničar Sarajevo
-  20.45  FK Sarajevo              4-0 (2-0)  NK GOŠK Gabela
-  13.30  Sloga Doboj              3-1 (2-0)  FK Tuzla City
-[Sun Mar/17]
-  14.00  HŠK Posušje              1-0 (1-0)  Široki Brijeg
-  18.00  Borac Banja Luka         3-1 (1-0)  Zvijezda 09 Bijeljina
-  20.00  Velež Mostar             2-0 (2-0)  Igman Konjic
-
-
-Matchday 24
-[Fri Mar/29]
-  16.00  FK Tuzla City            1-5 (0-2)  FK Sarajevo
-  20.00  Željezničar Sarajevo     0-1 (0-0)  Velež Mostar
-  14.00  Igman Konjic             2-0 (2-0)  Sloga Doboj
-[Sat Mar/30]
-  13.30  Zvijezda 09 Bijeljina    2-3 (1-1)  Široki Brijeg
-  16.00  Borac Banja Luka         1-2 (0-1)  Zrinjski Mostar
-  20.45  NK GOŠK Gabela           0-1 (0-0)  HŠK Posušje
-
-
-Matchday 25
-[Sat Apr/6]
-  20.45  FK Sarajevo              3-2 (3-1)  Igman Konjic
-  13.30  HŠK Posušje              1-1 (0-1)  FK Tuzla City
-[Sun Apr/7]
-  20.45  Velež Mostar             1-1 (0-1)  Borac Banja Luka
-  14.00  Sloga Doboj              0-3 (0-0)  Željezničar Sarajevo
-[Mon Apr/8]
-  15.30  Široki Brijeg            2-2 (1-0)  NK GOŠK Gabela
-  18.00  Zrinjski Mostar          4-0 (3-0)  Zvijezda 09 Bijeljina
-
-
-Matchday 26
-[Fri Apr/12]
-  20.30  Borac Banja Luka         1-0 (1-0)  Sloga Doboj
-  15.30  FK Tuzla City            3-1 (1-1)  Široki Brijeg
-[Sat Apr/13]
-  16.00  Zrinjski Mostar          1-0 (1-0)  Velež Mostar
-  13.30  Zvijezda 09 Bijeljina    1-2 (1-2)  NK GOŠK Gabela
-[Sun Apr/14]
-  20.00  Željezničar Sarajevo     0-0  FK Sarajevo
-  13.00  Igman Konjic             1-1 (1-0)  HŠK Posušje
-
-
-Matchday 27
-[Fri Apr/19]
-  16.00  NK GOŠK Gabela           1-0 (0-0)  FK Tuzla City
-  18.00  HŠK Posušje              1-0 (1-0)  Željezničar Sarajevo
-  20.00  Velež Mostar             3-1 (1-0)  Zvijezda 09 Bijeljina
-[Sat Apr/20]
-  16.00  Sloga Doboj              0-2 (0-0)  Zrinjski Mostar
-  20.45  FK Sarajevo              1-1 (0-1)  Borac Banja Luka
-  13.30  Široki Brijeg            4-1 (1-1)  Igman Konjic
-
-
-Matchday 28
-[Tue Apr/23]
-  16.00  Igman Konjic             0-0  NK GOŠK Gabela
-  18.00  Velež Mostar             1-0 (1-0)  Sloga Doboj
-  20.30  Željezničar Sarajevo     1-0 (0-0)  Široki Brijeg
-[Wed Apr/24]
-  18.00  Borac Banja Luka         1-0 (1-0)  HŠK Posušje
-  20.30  Zrinjski Mostar          4-3 (3-1)  FK Sarajevo
-  16.00  Zvijezda 09 Bijeljina    3-2 (1-1)  FK Tuzla City
-
-
-Matchday 29
-[Sat Apr/27]
-  13.30  Sloga Doboj              2-0 (0-0)  Zvijezda 09 Bijeljina
-  16.00  NK GOŠK Gabela           1-2 (1-1)  Željezničar Sarajevo
-[Sun Apr/28]
-  17.00  HŠK Posušje              0-1 (0-1)  Zrinjski Mostar
-  20.45  FK Sarajevo              3-0 (1-0)  Velež Mostar
-  13.00  Široki Brijeg            1-2 (0-1)  Borac Banja Luka
-[Mon Apr/29]
-  16.30  FK Tuzla City            1-2 (1-0)  Igman Konjic
-
-
-Matchday 30
-[Fri May/3]
-  18.00  Željezničar Sarajevo     2-0 (1-0)  FK Tuzla City
-         Velež Mostar             2-0 (1-0)  HŠK Posušje
-  20.30  Zrinjski Mostar          3-0 (2-0)  Široki Brijeg
-[Sat May/4]
-  16.00  Sloga Doboj              0-1 (0-0)  FK Sarajevo
-  20.45  Borac Banja Luka         3-1 (1-0)  NK GOŠK Gabela
-  13.30  Zvijezda 09 Bijeljina    2-2 (2-1)  Igman Konjic
-
-
-Matchday 31
-[Fri May/10]
-  20.00  FK Sarajevo              2-1 (0-1)  Zvijezda 09 Bijeljina
-[Sat May/11]
-  16.00  Široki Brijeg            0-1 (0-1)  Velež Mostar
-[Sun May/12]
-  19.30  HŠK Posušje              2-1 (0-0)  Sloga Doboj
-  15.30  Igman Konjic             0-0  Željezničar Sarajevo
-[Mon May/13]
-  21.00  NK GOŠK Gabela           1-4 (0-0)  Zrinjski Mostar
-  17.00  FK Tuzla City            2-6 (1-4)  Borac Banja Luka
-
-
-Matchday 32
-[Mon May/20]
-  17.00  FK Sarajevo              1-1 (0-0)  HŠK Posušje
-         Borac Banja Luka         4-3 (1-2)  Igman Konjic
-         Sloga Doboj              2-3 (2-2)  Široki Brijeg
-         Zrinjski Mostar          4-0 (2-0)  FK Tuzla City
-         Velež Mostar             3-3 (1-1)  NK GOŠK Gabela
-         Zvijezda 09 Bijeljina    0-5 (0-1)  Željezničar Sarajevo
-
-
-Matchday 33
-[Fri May/24]
-  17.00  FK Tuzla City            1-5 (0-2)  Velež Mostar
-[Sun May/26]
-  16.00  Igman Konjic             1-4 (1-2)  Zrinjski Mostar
-  17.00  Široki Brijeg            2-2 (2-1)  FK Sarajevo
-         HŠK Posušje              2-0 (2-0)  Zvijezda 09 Bijeljina
-         Željezničar Sarajevo     2-1 (2-0)  Borac Banja Luka
-  15.00  NK GOŠK Gabela           1-1 (0-0)  Sloga Doboj
+» Matchday 1
+  Sat Jul/29 2023
+    20.30  Velež Mostar            v Zvijezda 09 Bijeljina    5-0 (3-0)
+  Sun Jul/30
+    17.00  NK GOŠK Gabela          v FK Tuzla City            1-4 (1-1)
+    20.30  FK Sarajevo             v Sloga Doboj              1-2 (1-1)
+  Wed Aug/30
+    18.30  Željezničar Sarajevo    v Igman Konjic             1-0 (0-0)
+  Wed Sep/13
+    18.30  Zrinjski Mostar         v HŠK Posušje              0-1 (0-1)
+  Wed Sep/27
+    18.30  Široki Brijeg           v Borac Banja Luka         0-2 (0-2)
+
+
+» Matchday 2
+  Fri Aug/4
+    21.00  HŠK Posušje             v Široki Brijeg            1-2 (0-1)
+  Sat Aug/5
+    17.00  Zvijezda 09 Bijeljina   v Igman Konjic             3-4 (1-3)
+  Sun Aug/6
+    21.00  Velež Mostar            v NK GOŠK Gabela           0-0
+  Wed Sep/20
+    15.00  Sloga Doboj             v Željezničar Sarajevo     3-0 (1-0)
+  Wed Sep/27
+    15.00  FK Tuzla City           v Zrinjski Mostar          2-4 (0-1)
+  Wed Oct/18
+    19.00  Borac Banja Luka        v FK Sarajevo              1-1 (0-0)
+
+
+» Matchday 3
+  Fri Aug/11
+    21.00  FK Sarajevo             v HŠK Posušje              3-0 (1-0)
+  Sat Aug/12
+    17.00  NK GOŠK Gabela          v Zvijezda 09 Bijeljina    2-0 (1-0)
+           Igman Konjic            v Sloga Doboj              1-0 (0-0)
+    20.45  Željezničar Sarajevo    v Borac Banja Luka         2-0 (0-0)
+  Sun Aug/13
+    21.00  Široki Brijeg           v FK Tuzla City            1-0 (1-0)
+  Wed Oct/18
+    16.30  Zrinjski Mostar         v Velež Mostar             3-0 (3-0)
+
+
+» Matchday 4
+  Sat Aug/19
+    17.00  Zvijezda 09 Bijeljina   v Sloga Doboj              1-0 (0-0)
+    20.45  HŠK Posušje             v Željezničar Sarajevo     1-0 (1-0)
+  Sun Aug/20
+    19.30  Borac Banja Luka        v Igman Konjic             4-1 (2-1)
+    20.00  Zrinjski Mostar         v NK GOŠK Gabela           3-1 (2-1)
+    21.30  Velež Mostar            v Široki Brijeg            1-1 (0-1)
+  Mon Aug/21
+    17.00  FK Tuzla City           v FK Sarajevo              1-2 (0-2)
+
+
+» Matchday 5
+  Fri Aug/25
+    20.00  Borac Banja Luka        v Sloga Doboj              5-0 (1-0)
+  Sat Aug/26
+    17.00  Igman Konjic            v HŠK Posušje              2-1 (2-0)
+    20.45  Željezničar Sarajevo    v FK Tuzla City            3-1 (1-0)
+  Sun Aug/27
+    19.30  Široki Brijeg           v NK GOŠK Gabela           2-0 (1-0)
+    19.45  Zrinjski Mostar         v Zvijezda 09 Bijeljina    5-3 (3-2)
+  Mon Aug/28
+    21.00  FK Sarajevo             v Velež Mostar             1-0 (0-0)
+
+
+» Matchday 6
+  Fri Sep/1
+    19.00  Borac Banja Luka        v Zvijezda 09 Bijeljina    4-2 (1-2)
+  Sat Sep/2
+    19.30  HŠK Posušje             v Sloga Doboj              4-0 (2-0)
+    20.45  NK GOŠK Gabela          v FK Sarajevo              2-2 (1-0)
+  Sun Sep/3
+    19.45  FK Tuzla City           v Igman Konjic             3-1 (1-1)
+           Velež Mostar            v Željezničar Sarajevo     1-0 (0-0)
+  Wed Nov/22
+    18.00  Zrinjski Mostar         v Široki Brijeg            3-1 (3-1)
+
+
+» Matchday 7
+  Fri Sep/15
+    16.00  Sloga Doboj             v FK Tuzla City            2-1 (1-1)
+    18.30  Željezničar Sarajevo    v NK GOŠK Gabela           2-3 (1-0)
+  Sat Sep/16
+    16.00  Igman Konjic            v Velež Mostar             2-4 (2-2)
+    20.45  FK Sarajevo             v Zrinjski Mostar          1-0 (0-0)
+  Sun Sep/17
+    19.45  Borac Banja Luka        v HŠK Posušje              1-0 (0-0)
+           Široki Brijeg           v Zvijezda 09 Bijeljina    2-1 (2-0)
+
+
+» Matchday 8
+  Fri Sep/22
+    20.00  Široki Brijeg           v FK Sarajevo              1-0 (0-0)
+  Sat Sep/23
+    16.00  FK Tuzla City           v Borac Banja Luka         1-2 (0-2)
+    18.30  NK GOŠK Gabela          v Igman Konjic             4-0 (1-0)
+    20.45  Velež Mostar            v Sloga Doboj              4-2 (2-1)
+  Sun Sep/24
+    16.00  Zvijezda 09 Bijeljina   v HŠK Posušje              0-2 (0-0)
+    19.45  Zrinjski Mostar         v Željezničar Sarajevo     2-1 (0-1)
+
+
+» Matchday 9
+  Sat Sep/30
+    18.30  HŠK Posušje             v FK Tuzla City            1-1 (1-0)
+    20.45  FK Sarajevo             v Zvijezda 09 Bijeljina    2-0 (2-0)
+  Sun Oct/1
+    15.00  Igman Konjic            v Zrinjski Mostar          0-2 (0-2)
+           Sloga Doboj             v NK GOŠK Gabela           3-2 (0-0)
+    20.45  Borac Banja Luka        v Velež Mostar             2-0 (0-0)
+  Mon Oct/2
+    18.00  Željezničar Sarajevo    v Široki Brijeg            2-1 (1-0)
+
+
+» Matchday 10
+  Fri Oct/6
+    18.00  Velež Mostar            v HŠK Posušje              2-1 (0-0)
+  Sat Oct/7
+    15.00  Zvijezda 09 Bijeljina   v FK Tuzla City            1-1 (0-0)
+  Sun Oct/8
+    15.00  NK GOŠK Gabela          v Borac Banja Luka         0-3 (0-2)
+    18.00  Široki Brijeg           v Igman Konjic             2-0 (1-0)
+    20.30  FK Sarajevo             v Željezničar Sarajevo     3-0 (2-0)
+  Mon Oct/9
+    18.00  Zrinjski Mostar         v Sloga Doboj              2-0 (1-0)
+
+
+» Matchday 11
+  Sat Oct/21
+    13.30  Sloga Doboj             v Široki Brijeg            1-0 (0-0)
+    18.30  HŠK Posušje             v NK GOŠK Gabela           0-0
+    20.45  Željezničar Sarajevo    v Zvijezda 09 Bijeljina    1-0 (0-0)
+  Sun Oct/22
+    13.00  Igman Konjic            v FK Sarajevo              1-2 (1-1)
+    19.45  Borac Banja Luka        v Zrinjski Mostar          0-0
+  Mon Oct/23
+    14.30  FK Tuzla City           v Velež Mostar             1-1 (1-0)
+
+
+» Matchday 12
+  Fri Oct/27
+    14.00  Igman Konjic            v Željezničar Sarajevo     2-0 (0-0)
+  Sat Oct/28
+    13.30  Sloga Doboj             v FK Sarajevo              3-0 (1-0)
+    16.00  Borac Banja Luka        v Široki Brijeg            1-0 (1-0)
+  Sun Oct/29
+    14.00  Zvijezda 09 Bijeljina   v Velež Mostar             0-0
+    18.40  HŠK Posušje             v Zrinjski Mostar          2-2 (2-2)
+  Mon Oct/30
+    14.00  FK Tuzla City           v NK GOŠK Gabela           2-2 (1-0)
+
+
+» Matchday 13
+  Fri Nov/3
+    18.00  NK GOŠK Gabela          v Velež Mostar             0-4 (0-1)
+  Sat Nov/4
+    13.00  Igman Konjic            v Zvijezda 09 Bijeljina    3-1 (2-1)
+    16.00  Željezničar Sarajevo    v Sloga Doboj              1-0 (0-0)
+  Sun Nov/5
+    13.00  Široki Brijeg           v HŠK Posušje              1-1 (0-1)
+           Zrinjski Mostar         v FK Tuzla City            3-1 (1-0)
+    19.45  FK Sarajevo             v Borac Banja Luka         1-1 (0-1)
+
+
+» Matchday 14
+  Sat Nov/11
+    13.00  Sloga Doboj             v Igman Konjic             4-1 (1-0)
+    20.45  HŠK Posušje             v FK Sarajevo              0-1 (0-1)
+  Sun Nov/12
+    13.00  Zvijezda 09 Bijeljina   v NK GOŠK Gabela           1-2 (0-1)
+    15.15  Borac Banja Luka        v Željezničar Sarajevo     3-2 (2-1)
+  Mon Nov/13
+    18.00  Velež Mostar            v Zrinjski Mostar          3-0 (1-0)
+  Wed Dec/6
+    13.00  FK Tuzla City           v Široki Brijeg            2-0 (0-0)
+
+
+» Matchday 15
+  Fri Nov/24
+    18.00  FK Sarajevo             v FK Tuzla City            6-2 (4-1)
+  Sat Nov/25
+    13.00  Igman Konjic            v Borac Banja Luka         0-1 (0-1)
+  Sun Nov/26
+    13.00  Sloga Doboj             v Zvijezda 09 Bijeljina    1-0 (0-0)
+           Željezničar Sarajevo    v HŠK Posušje              1-1 (0-1)
+    15.00  NK GOŠK Gabela          v Zrinjski Mostar          1-5 (0-2)
+    19.45  Široki Brijeg           v Velež Mostar             2-2 (1-0)
+
+
+» Matchday 16
+  Fri Dec/1
+    18.00  Velež Mostar            v FK Sarajevo              1-0 (0-0)
+  Sat Dec/2
+    13.30  FK Tuzla City           v Željezničar Sarajevo     3-0 (3-0)
+    16.00  Sloga Doboj             v Borac Banja Luka         0-4 (0-4)
+  Sun Dec/3
+    13.00  HŠK Posušje             v Igman Konjic             4-1 (3-0)
+    19.45  NK GOŠK Gabela          v Široki Brijeg            0-0
+  Mon Dec/4
+    13.00  Zvijezda 09 Bijeljina   v Zrinjski Mostar          2-1 (0-0)
+
+
+» Matchday 17
+  Fri Dec/8
+    18.00  Željezničar Sarajevo    v Velež Mostar             0-1 (0-0)
+  Sat Dec/9
+    13.00  Zvijezda 09 Bijeljina   v Borac Banja Luka         1-2 (0-1)
+           Sloga Doboj             v HŠK Posušje              1-0 (0-0)
+    16.00  FK Sarajevo             v NK GOŠK Gabela           3-0 (0-0)
+  Sun Dec/10
+    13.00  Igman Konjic            v FK Tuzla City            2-0 (2-0)
+    15.15  Široki Brijeg           v Zrinjski Mostar          0-2 (0-1)
+
+
+» Matchday 18
+  Fri Dec/15
+    18.00  HŠK Posušje             v Borac Banja Luka         0-2 (0-1)
+  Sat Dec/16
+    13.00  FK Tuzla City           v Sloga Doboj              3-0 (2-0)
+    16.00  NK GOŠK Gabela          v Željezničar Sarajevo     1-0 (0-0)
+  Sun Dec/17
+    13.00  Zvijezda 09 Bijeljina   v Široki Brijeg            3-0 (2-0)
+    15.00  Velež Mostar            v Igman Konjic             1-1 (0-1)
+  Mon Dec/18
+    18.00  Zrinjski Mostar         v FK Sarajevo              2-0 (2-0)
+
+
+» Matchday 19
+  Fri Feb/16 2024
+    18.00  Sloga Doboj             v Velež Mostar             0-0
+  Sat Feb/17
+    13.00  Igman Konjic            v NK GOŠK Gabela           1-2 (0-1)
+           HŠK Posušje             v Zvijezda 09 Bijeljina    2-0 (1-0)
+    16.00  Željezničar Sarajevo    v Zrinjski Mostar          0-0
+  Sun Feb/18
+    13.00  FK Sarajevo             v Široki Brijeg            1-3 (0-0)
+    17.30  Borac Banja Luka        v FK Tuzla City            2-1 (1-0)
+
+
+» Matchday 20
+  Fri Feb/23
+    18.00  NK GOŠK Gabela          v Sloga Doboj              2-4 (1-3)
+  Sat Feb/24
+    13.00  Zvijezda 09 Bijeljina   v FK Sarajevo              1-0 (0-0)
+    16.00  Velež Mostar            v Borac Banja Luka         0-0
+  Sun Feb/25
+    13.00  FK Tuzla City           v HŠK Posušje              0-1 (0-0)
+    15.00  Zrinjski Mostar         v Igman Konjic             5-0 (4-0)
+  Mon Feb/26
+    13.00  Široki Brijeg           v Željezničar Sarajevo     2-0 (0-0)
+
+
+» Matchday 21
+  Sat Mar/2
+    13.00  FK Tuzla City           v Zvijezda 09 Bijeljina    2-0 (1-0)
+           Igman Konjic            v Široki Brijeg            1-0 (0-0)
+    16.00  Sloga Doboj             v Zrinjski Mostar          1-1 (0-0)
+  Sun Mar/3
+    14.00  HŠK Posušje             v Velež Mostar             1-0 (1-0)
+    18.45  Željezničar Sarajevo    v FK Sarajevo              3-0 (1-0)
+  Mon Mar/4
+    17.45  Borac Banja Luka        v NK GOŠK Gabela           3-0 (1-0)
+
+
+» Matchday 22
+  Sat Mar/9
+    13.00  Široki Brijeg           v Sloga Doboj              0-1 (0-0)
+    16.00  NK GOŠK Gabela          v HŠK Posušje              1-1 (1-0)
+    18.30  FK Sarajevo             v Igman Konjic             2-2 (0-0)
+  Sun Mar/10
+    14.00  Zvijezda 09 Bijeljina   v Željezničar Sarajevo     2-1 (1-1)
+    19.00  Zrinjski Mostar         v Borac Banja Luka         0-1 (0-1)
+  Mon Mar/11
+    18.00  Velež Mostar            v FK Tuzla City            1-1 (1-1)
+
+
+» Matchday 23
+  Sat Mar/16
+    13.30  Sloga Doboj             v FK Tuzla City            3-1 (2-0)
+    16.00  Zrinjski Mostar         v Željezničar Sarajevo     2-0 (0-0)
+    20.45  FK Sarajevo             v NK GOŠK Gabela           4-0 (2-0)
+  Sun Mar/17
+    14.00  HŠK Posušje             v Široki Brijeg            1-0 (1-0)
+    18.00  Borac Banja Luka        v Zvijezda 09 Bijeljina    3-1 (1-0)
+    20.00  Velež Mostar            v Igman Konjic             2-0 (2-0)
+
+
+» Matchday 24
+  Fri Mar/29
+    14.00  Igman Konjic            v Sloga Doboj              2-0 (2-0)
+    16.00  FK Tuzla City           v FK Sarajevo              1-5 (0-2)
+    20.00  Željezničar Sarajevo    v Velež Mostar             0-1 (0-0)
+  Sat Mar/30
+    13.30  Zvijezda 09 Bijeljina   v Široki Brijeg            2-3 (1-1)
+    16.00  Borac Banja Luka        v Zrinjski Mostar          1-2 (0-1)
+    20.45  NK GOŠK Gabela          v HŠK Posušje              0-1 (0-0)
+
+
+» Matchday 25
+  Sat Apr/6
+    13.30  HŠK Posušje             v FK Tuzla City            1-1 (0-1)
+    20.45  FK Sarajevo             v Igman Konjic             3-2 (3-1)
+  Sun Apr/7
+    14.00  Sloga Doboj             v Željezničar Sarajevo     0-3 (0-0)
+    20.45  Velež Mostar            v Borac Banja Luka         1-1 (0-1)
+  Mon Apr/8
+    15.30  Široki Brijeg           v NK GOŠK Gabela           2-2 (1-0)
+    18.00  Zrinjski Mostar         v Zvijezda 09 Bijeljina    4-0 (3-0)
+
+
+» Matchday 26
+  Fri Apr/12
+    15.30  FK Tuzla City           v Široki Brijeg            3-1 (1-1)
+    20.30  Borac Banja Luka        v Sloga Doboj              1-0 (1-0)
+  Sat Apr/13
+    13.30  Zvijezda 09 Bijeljina   v NK GOŠK Gabela           1-2 (1-2)
+    16.00  Zrinjski Mostar         v Velež Mostar             1-0 (1-0)
+  Sun Apr/14
+    13.00  Igman Konjic            v HŠK Posušje              1-1 (1-0)
+    20.00  Željezničar Sarajevo    v FK Sarajevo              0-0
+
+
+» Matchday 27
+  Fri Apr/19
+    16.00  NK GOŠK Gabela          v FK Tuzla City            1-0 (0-0)
+    18.00  HŠK Posušje             v Željezničar Sarajevo     1-0 (1-0)
+    20.00  Velež Mostar            v Zvijezda 09 Bijeljina    3-1 (1-0)
+  Sat Apr/20
+    13.30  Široki Brijeg           v Igman Konjic             4-1 (1-1)
+    16.00  Sloga Doboj             v Zrinjski Mostar          0-2 (0-0)
+    20.45  FK Sarajevo             v Borac Banja Luka         1-1 (0-1)
+
+
+» Matchday 28
+  Tue Apr/23
+    16.00  Igman Konjic            v NK GOŠK Gabela           0-0
+    18.00  Velež Mostar            v Sloga Doboj              1-0 (1-0)
+    20.30  Željezničar Sarajevo    v Široki Brijeg            1-0 (0-0)
+  Wed Apr/24
+    16.00  Zvijezda 09 Bijeljina   v FK Tuzla City            3-2 (1-1)
+    18.00  Borac Banja Luka        v HŠK Posušje              1-0 (1-0)
+    20.30  Zrinjski Mostar         v FK Sarajevo              4-3 (3-1)
+
+
+» Matchday 29
+  Sat Apr/27
+    13.30  Sloga Doboj             v Zvijezda 09 Bijeljina    2-0 (0-0)
+    16.00  NK GOŠK Gabela          v Željezničar Sarajevo     1-2 (1-1)
+  Sun Apr/28
+    13.00  Široki Brijeg           v Borac Banja Luka         1-2 (0-1)
+    17.00  HŠK Posušje             v Zrinjski Mostar          0-1 (0-1)
+    20.45  FK Sarajevo             v Velež Mostar             3-0 (1-0)
+  Mon Apr/29
+    16.30  FK Tuzla City           v Igman Konjic             1-2 (1-0)
+
+
+» Matchday 30
+  Fri May/3
+    18.00  Željezničar Sarajevo    v FK Tuzla City            2-0 (1-0)
+           Velež Mostar            v HŠK Posušje              2-0 (1-0)
+    20.30  Zrinjski Mostar         v Široki Brijeg            3-0 (2-0)
+  Sat May/4
+    13.30  Zvijezda 09 Bijeljina   v Igman Konjic             2-2 (2-1)
+    16.00  Sloga Doboj             v FK Sarajevo              0-1 (0-0)
+    20.45  Borac Banja Luka        v NK GOŠK Gabela           3-1 (1-0)
+
+
+» Matchday 31
+  Fri May/10
+    20.00  FK Sarajevo             v Zvijezda 09 Bijeljina    2-1 (0-1)
+  Sat May/11
+    16.00  Široki Brijeg           v Velež Mostar             0-1 (0-1)
+  Sun May/12
+    15.30  Igman Konjic            v Željezničar Sarajevo     0-0
+    19.30  HŠK Posušje             v Sloga Doboj              2-1 (0-0)
+  Mon May/13
+    17.00  FK Tuzla City           v Borac Banja Luka         2-6 (1-4)
+    21.00  NK GOŠK Gabela          v Zrinjski Mostar          1-4 (0-0)
+
+
+» Matchday 32
+  Mon May/20
+    17.00  FK Sarajevo             v HŠK Posušje              1-1 (0-0)
+           Borac Banja Luka        v Igman Konjic             4-3 (1-2)
+           Sloga Doboj             v Široki Brijeg            2-3 (2-2)
+           Zrinjski Mostar         v FK Tuzla City            4-0 (2-0)
+           Velež Mostar            v NK GOŠK Gabela           3-3 (1-1)
+           Zvijezda 09 Bijeljina   v Željezničar Sarajevo     0-5 (0-1)
+
+
+» Matchday 33
+  Fri May/24
+    17.00  FK Tuzla City           v Velež Mostar             1-5 (0-2)
+  Sun May/26
+    15.00  NK GOŠK Gabela          v Sloga Doboj              1-1 (0-0)
+    16.00  Igman Konjic            v Zrinjski Mostar          1-4 (1-2)
+    17.00  Široki Brijeg           v FK Sarajevo              2-2 (2-1)
+           HŠK Posušje             v Zvijezda 09 Bijeljina    2-0 (2-0)
+           Željezničar Sarajevo    v Borac Banja Luka         2-1 (2-0)

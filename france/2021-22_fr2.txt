@@ -1,0 +1,575 @@
+= French Ligue 2 2021/22
+
+# Date       Sat Jul/24 2021 - Sat May/14 2022 (294d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Sat Jul/24 2021
+    15.00  SC Bastia               v Nîmes Olympique          1-1 (0-1)
+    19.00  Havre AC                v EA Guingamp              0-0
+           Pau FC                  v AS Nancy Lorraine        2-1 (1-0)
+           Toulouse FC             v AC Ajaccio               2-2 (1-1)
+           Valenciennes FC         v Chamois Niortais         0-0
+           Grenoble Foot 38        v Paris FC                 0-4 (0-1)
+           Amiens SC               v AJ Auxerre               1-2 (1-0)
+           SM Caen                 v Rodez AF                 4-0 (3-0)
+           USL Dunkerque           v US Quevilly-Rouen        1-1 (1-1)
+  Mon Jul/26
+    20.45  Dijon FCO               v FC Sochaux               1-3 (0-0)
+
+
+» Matchday 2
+  Sat Jul/31
+    15.00  Nîmes Olympique         v Dijon FCO                2-1 (1-0)
+    19.00  AC Ajaccio              v Amiens SC                3-1 (2-0)
+           AS Nancy Lorraine       v Toulouse FC              0-4 (0-3)
+           EA Guingamp             v Valenciennes FC          1-1 (0-0)
+           Chamois Niortais        v SM Caen                  0-1 (0-0)
+           Paris FC                v USL Dunkerque            2-1 (1-1)
+           FC Sochaux              v Havre AC                 0-2 (0-2)
+           Rodez AF                v Pau FC                   1-0 (1-0)
+  Mon Aug/2
+    20.45  AJ Auxerre              v Grenoble Foot 38         3-0 (2-0)
+  Wed Aug/18
+    19.00  US Quevilly-Rouen       v SC Bastia                1-2 (0-1)
+
+
+» Matchday 3
+  Sat Aug/7
+    15.00  SM Caen                 v FC Sochaux               1-2 (0-0)
+    19.00  Havre AC                v Paris FC                 1-2 (0-1)
+           AJ Auxerre              v AC Ajaccio               0-0
+           Dijon FCO               v Rodez AF                 1-1 (0-0)
+           Pau FC                  v Toulouse FC              0-1 (0-1)
+           Valenciennes FC         v Nîmes Olympique          0-3 (0-0)
+           Grenoble Foot 38        v EA Guingamp              0-0
+           Amiens SC               v US Quevilly-Rouen        1-3 (1-2)
+           USL Dunkerque           v Chamois Niortais         1-2 (1-1)
+  Wed Aug/11
+    19.00  SC Bastia               v AS Nancy Lorraine        1-1 (1-0)
+
+
+» Matchday 4
+  Sat Aug/14
+    15.00  Toulouse FC             v SC Bastia                1-0 (1-0)
+    19.00  AS Nancy Lorraine       v Valenciennes FC          0-1 (0-0)
+           EA Guingamp             v Amiens SC                0-2 (0-1)
+           Chamois Niortais        v Grenoble Foot 38         1-0 (1-0)
+           FC Sochaux              v USL Dunkerque            1-0 (1-0)
+           Nîmes Olympique         v Pau FC                   0-0
+           Rodez AF                v Havre AC                 0-0
+           US Quevilly-Rouen       v Dijon FCO                2-1 (1-0)
+  Mon Aug/16
+    20.45  Paris FC                v AJ Auxerre               1-1 (0-0)
+  Wed Aug/25
+    19.00  AC Ajaccio              v SM Caen                  2-0 (1-0)
+
+
+» Matchday 5
+  Sat Aug/21
+    15.00  Dijon FCO               v Toulouse FC              2-4 (1-1)
+    19.00  Havre AC                v Chamois Niortais         2-1 (1-0)
+           Pau FC                  v SC Bastia                2-0 (1-0)
+           Valenciennes FC         v Rodez AF                 1-4 (1-1)
+           Grenoble Foot 38        v US Quevilly-Rouen        2-0 (1-0)
+           Amiens SC               v FC Sochaux               0-0
+           SM Caen                 v AS Nancy Lorraine        1-0 (1-0)
+           USL Dunkerque           v Nîmes Olympique          0-2 (0-0)
+  Mon Aug/23
+    20.45  AJ Auxerre              v EA Guingamp              1-2 (0-1)
+  Tue Sep/14
+    19.00  AC Ajaccio              v Paris FC                 1-0 (0-0)
+
+
+» Matchday 6
+  Sat Aug/28
+    15.00  Toulouse FC             v Valenciennes FC          1-0 (1-0)
+           Nîmes Olympique         v SM Caen                  0-0
+    19.00  AS Nancy Lorraine       v AJ Auxerre               1-4 (0-2)
+           EA Guingamp             v AC Ajaccio               1-1 (0-1)
+           Chamois Niortais        v Amiens SC                0-0
+           Pau FC                  v Dijon FCO                2-0 (1-0)
+           FC Sochaux              v Grenoble Foot 38         1-0 (1-0)
+           Rodez AF                v USL Dunkerque            2-2 (0-1)
+           SC Bastia               v Havre AC                 0-0
+           US Quevilly-Rouen       v Paris FC                 0-1 (0-0)
+
+
+» Matchday 7
+  Sat Sep/11
+    15.00  Paris FC                v EA Guingamp              0-1 (0-1)
+    19.00  AC Ajaccio              v FC Sochaux               1-0 (0-0)
+           AJ Auxerre              v Chamois Niortais         4-0 (1-0)
+           Dijon FCO               v SC Bastia                2-1 (0-0)
+           Valenciennes FC         v US Quevilly-Rouen        1-2 (1-0)
+           Grenoble Foot 38        v Nîmes Olympique          2-1 (0-1)
+           Amiens SC               v Rodez AF                 0-1 (0-1)
+           SM Caen                 v Pau FC                   1-2 (1-1)
+           USL Dunkerque           v AS Nancy Lorraine        0-0
+  Mon Sep/13
+    20.45  Havre AC                v Toulouse FC              1-1 (0-1)
+
+
+» Matchday 8
+  Sat Sep/18
+    15.00  FC Sochaux              v Paris FC                 2-0 (1-0)
+           Toulouse FC             v Grenoble Foot 38         4-1 (2-0)
+    19.00  AS Nancy Lorraine       v Havre AC                 1-1 (0-0)
+           Dijon FCO               v USL Dunkerque            2-0 (0-0)
+           Chamois Niortais        v EA Guingamp              2-0 (1-0)
+           Pau FC                  v Valenciennes FC          1-1 (1-1)
+           Nîmes Olympique         v Amiens SC                3-3 (2-0)
+           Rodez AF                v AC Ajaccio               0-2 (0-1)
+           SC Bastia               v SM Caen                  1-1 (1-0)
+           US Quevilly-Rouen       v AJ Auxerre               0-0
+
+
+» Matchday 9
+  Tue Sep/21
+    20.00  AC Ajaccio              v Chamois Niortais         0-0
+           Havre AC                v US Quevilly-Rouen        1-0 (1-0)
+           AJ Auxerre              v Rodez AF                 1-0 (1-0)
+           EA Guingamp             v FC Sochaux               1-2 (1-0)
+           Paris FC                v Nîmes Olympique          2-0 (0-0)
+           Valenciennes FC         v SC Bastia                2-1 (1-1)
+           Grenoble Foot 38        v AS Nancy Lorraine        4-1 (1-1)
+           Amiens SC               v Pau FC                   2-2 (1-1)
+           SM Caen                 v Dijon FCO                0-1 (0-1)
+           USL Dunkerque           v Toulouse FC              0-2 (0-1)
+
+
+» Matchday 10
+  Fri Sep/24
+    21.00  AS Nancy Lorraine       v Amiens SC                1-1 (0-1)
+           Dijon FCO               v Valenciennes FC          0-1 (0-1)
+           Chamois Niortais        v Paris FC                 4-1 (2-0)
+           Pau FC                  v USL Dunkerque            1-2 (0-2)
+           FC Sochaux              v AJ Auxerre               0-0
+           Nîmes Olympique         v Havre AC                 0-1 (0-0)
+           Rodez AF                v Grenoble Foot 38         1-1 (0-1)
+           US Quevilly-Rouen       v EA Guingamp              2-2 (2-2)
+  Sat Sep/25
+    15.00  SC Bastia               v AC Ajaccio               2-0 (0-0)
+  Mon Sep/27
+    20.45  Toulouse FC             v SM Caen                  2-3 (2-3)
+
+
+» Matchday 11
+  Sat Oct/2
+    15.00  AJ Auxerre              v Nîmes Olympique          2-2 (1-0)
+           Amiens SC               v Toulouse FC              0-0
+    19.00  AC Ajaccio              v US Quevilly-Rouen        0-1 (0-0)
+           Havre AC                v Dijon FCO                2-0 (1-0)
+           EA Guingamp             v Rodez AF                 2-1 (1-1)
+           Paris FC                v AS Nancy Lorraine        1-1 (1-0)
+           FC Sochaux              v Chamois Niortais         1-0 (0-0)
+           Grenoble Foot 38        v Pau FC                   2-0 (2-0)
+           SM Caen                 v Valenciennes FC          1-2 (0-2)
+           USL Dunkerque           v SC Bastia                2-0 (0-0)
+
+
+» Matchday 12
+  Sat Oct/16
+    15.00  Toulouse FC             v AJ Auxerre               6-0 (3-0)
+    19.00  AS Nancy Lorraine       v EA Guingamp              2-1 (0-1)
+           Dijon FCO               v Amiens SC                1-0 (0-0)
+           Pau FC                  v Paris FC                 1-0 (1-0)
+           Valenciennes FC         v USL Dunkerque            1-3 (0-2)
+           Rodez AF                v FC Sochaux               0-1 (0-0)
+           SC Bastia               v Grenoble Foot 38         0-0
+           SM Caen                 v Havre AC                 2-2 (1-1)
+           US Quevilly-Rouen       v Chamois Niortais         0-3 (0-2)
+  Mon Oct/18
+    20.45  Nîmes Olympique         v AC Ajaccio               0-2 (0-2)
+
+
+» Matchday 13
+  Sat Oct/23
+    15.00  Paris FC                v Toulouse FC              2-2 (2-0)
+    19.00  AC Ajaccio              v AS Nancy Lorraine        2-0 (1-0)
+           Havre AC                v Pau FC                   1-0 (1-0)
+           EA Guingamp             v Nîmes Olympique          3-1 (1-0)
+           Chamois Niortais        v Rodez AF                 0-2 (0-1)
+           FC Sochaux              v US Quevilly-Rouen        1-1 (0-1)
+           Grenoble Foot 38        v Dijon FCO                1-2 (1-0)
+           Amiens SC               v Valenciennes FC          3-0 (1-0)
+           USL Dunkerque           v SM Caen                  1-1 (0-0)
+  Mon Oct/25
+    20.45  AJ Auxerre              v SC Bastia                1-0 (1-0)
+
+
+» Matchday 14
+  Sat Oct/30
+    15.00  Toulouse FC             v EA Guingamp              2-2 (0-1)
+    19.00  AS Nancy Lorraine       v FC Sochaux               0-0
+           Dijon FCO               v Paris FC                 0-1 (0-1)
+           Pau FC                  v AC Ajaccio               1-0 (0-0)
+           Nîmes Olympique         v Chamois Niortais         1-2 (0-1)
+           Rodez AF                v US Quevilly-Rouen        3-0 (0-0)
+           SC Bastia               v Amiens SC                0-0
+           SM Caen                 v Grenoble Foot 38         0-1 (0-1)
+           USL Dunkerque           v Havre AC                 1-0 (0-0)
+  Mon Nov/1
+    20.45  Valenciennes FC         v AJ Auxerre               1-2 (0-0)
+
+
+» Matchday 15
+  Sat Nov/6
+    15.00  AJ Auxerre              v Pau FC                   4-1 (1-0)
+           FC Sochaux              v Nîmes Olympique          0-1 (0-0)
+    19.00  AC Ajaccio              v Dijon FCO                1-0 (0-0)
+           Havre AC                v Valenciennes FC          0-0
+           EA Guingamp             v SC Bastia                2-3 (0-1)
+           Chamois Niortais        v AS Nancy Lorraine        1-3 (0-1)
+           Paris FC                v Rodez AF                 1-0 (1-0)
+           Grenoble Foot 38        v USL Dunkerque            1-0 (0-0)
+           Amiens SC               v SM Caen                  0-0
+           US Quevilly-Rouen       v Toulouse FC              0-0
+
+
+» Matchday 16
+  Sat Nov/20
+    15.00  Toulouse FC             v FC Sochaux               4-1 (1-1)
+    19.00  Havre AC                v Amiens SC                1-1 (1-0)
+           AS Nancy Lorraine       v Rodez AF                 0-2 (0-2)
+           Pau FC                  v EA Guingamp              2-0 (1-0)
+           Valenciennes FC         v Grenoble Foot 38         1-0 (1-0)
+           Nîmes Olympique         v US Quevilly-Rouen        2-1 (1-1)
+           SC Bastia               v Chamois Niortais         2-0 (2-0)
+           SM Caen                 v Paris FC                 0-1 (0-0)
+           USL Dunkerque           v AC Ajaccio               0-1 (0-0)
+  Mon Nov/22
+    20.45  Dijon FCO               v AJ Auxerre               3-1 (2-0)
+
+
+» Matchday 17
+  Fri Dec/3
+    21.00  AC Ajaccio              v Valenciennes FC          0-0
+           EA Guingamp             v Dijon FCO                3-2 (0-1)
+           Paris FC                v SC Bastia                1-0 (0-0)
+           FC Sochaux              v Pau FC                   2-1 (0-0)
+           Grenoble Foot 38        v Havre AC                 1-2 (0-1)
+           Rodez AF                v Nîmes Olympique          1-0 (1-0)
+           Amiens SC               v USL Dunkerque            3-0 (1-0)
+           US Quevilly-Rouen       v AS Nancy Lorraine        2-1 (1-1)
+  Sat Dec/4
+    15.00  AJ Auxerre              v SM Caen                  2-2 (1-1)
+  Mon Dec/6
+    20.45  Chamois Niortais        v Toulouse FC              2-1 (0-0)
+
+
+» Matchday 18
+  Sat Dec/11
+    15.00  Havre AC                v AC Ajaccio               0-1 (0-0)
+    19.00  Dijon FCO               v Chamois Niortais         2-2 (0-2)
+           Pau FC                  v US Quevilly-Rouen        1-2 (0-0)
+           Valenciennes FC         v Paris FC                 1-4 (0-3)
+           Nîmes Olympique         v AS Nancy Lorraine        2-1 (2-1)
+           Amiens SC               v Grenoble Foot 38         4-1 (2-0)
+           SC Bastia               v FC Sochaux               2-2 (2-0)
+           SM Caen                 v EA Guingamp              2-0 (1-0)
+           USL Dunkerque           v AJ Auxerre               0-2 (0-0)
+  Mon Dec/13
+    20.45  Toulouse FC             v Rodez AF                 1-1 (1-0)
+
+
+» Matchday 19
+  Tue Dec/21
+    20.45  AC Ajaccio              v Grenoble Foot 38         1-0 (0-0)
+           AJ Auxerre              v Havre AC                 2-3 (1-2)
+           AS Nancy Lorraine       v Dijon FCO                0-3 (0-1)
+           EA Guingamp             v USL Dunkerque            2-1 (0-0)
+           Chamois Niortais        v Pau FC                   3-0 (0-0)
+           Paris FC                v Amiens SC                1-0 (1-0)
+           FC Sochaux              v Valenciennes FC          1-1 (0-1)
+           Nîmes Olympique         v Toulouse FC              1-2 (0-1)
+           Rodez AF                v SC Bastia                0-0
+           US Quevilly-Rouen       v SM Caen                  2-2 (0-1)
+
+
+» Matchday 20
+  Sat Jan/8 2022
+    15.00  Havre AC                v FC Sochaux               0-1 (0-0)
+    19.00  Dijon FCO               v Nîmes Olympique          1-2 (0-2)
+           Pau FC                  v Rodez AF                 4-0 (0-0)
+           Valenciennes FC         v EA Guingamp              1-1 (1-0)
+           Grenoble Foot 38        v AJ Auxerre               0-1 (0-1)
+           SC Bastia               v US Quevilly-Rouen        3-0 (1-0)
+  Wed Jan/19
+    19.00  Toulouse FC             v AS Nancy Lorraine        4-0 (2-0)
+           Amiens SC               v AC Ajaccio               0-1 (0-1)
+  Fri Jan/28
+    19.00  SM Caen                 v Chamois Niortais         0-2 (0-1)
+           USL Dunkerque           v Paris FC                 1-1 (0-0)
+
+
+» Matchday 21
+  Sat Jan/15
+    19.00  AS Nancy Lorraine       v SC Bastia                2-1 (1-0)
+           EA Guingamp             v Grenoble Foot 38         0-0
+           FC Sochaux              v SM Caen                  3-2 (0-2)
+           Toulouse FC             v Pau FC                   1-1 (0-0)
+           Rodez AF                v Dijon FCO                0-2 (0-1)
+  Mon Jan/17
+    20.45  Paris FC                v Havre AC                 2-2 (2-0)
+  Wed Jan/26
+    19.00  US Quevilly-Rouen       v Amiens SC                1-1 (0-1)
+  Fri Jan/28
+    19.00  AC Ajaccio              v AJ Auxerre               0-0
+           Nîmes Olympique         v Valenciennes FC          2-1 (2-0)
+  Tue Feb/1
+    19.00  Chamois Niortais        v USL Dunkerque            2-0 (0-0)
+
+
+» Matchday 22
+  Sat Jan/22
+    19.00  Havre AC                v Rodez AF                 0-0
+           Dijon FCO               v US Quevilly-Rouen        1-0 (0-0)
+           Amiens SC               v EA Guingamp              3-0 (0-0)
+           SC Bastia               v Toulouse FC              0-0
+           USL Dunkerque           v FC Sochaux               0-0
+  Mon Jan/24
+    20.45  SM Caen                 v AC Ajaccio               2-0 (0-0)
+  Tue Feb/1
+    19.00  AJ Auxerre              v Paris FC                 1-2 (1-1)
+           Pau FC                  v Nîmes Olympique          0-3 (0-0)
+           Valenciennes FC         v AS Nancy Lorraine        6-1 (5-1)
+  Tue Feb/15
+    19.00  Grenoble Foot 38        v Chamois Niortais         1-0 (0-0)
+
+
+» Matchday 23
+  Sat Feb/5
+    15.00  Toulouse FC             v Dijon FCO                4-1 (2-1)
+    19.00  AS Nancy Lorraine       v SM Caen                  1-1 (0-0)
+           EA Guingamp             v AJ Auxerre               1-1 (0-0)
+           Chamois Niortais        v Havre AC                 0-0
+           FC Sochaux              v Amiens SC                1-1 (1-1)
+           Nîmes Olympique         v USL Dunkerque            0-1 (0-0)
+           Rodez AF                v Valenciennes FC          0-0
+           SC Bastia               v Pau FC                   1-1 (0-0)
+           US Quevilly-Rouen       v Grenoble Foot 38         1-0 (0-0)
+  Mon Feb/7
+    20.45  Paris FC                v AC Ajaccio               2-0 (0-0)
+
+
+» Matchday 24
+  Sat Feb/12
+    15.00  Valenciennes FC         v Toulouse FC              1-3 (0-1)
+    19.00  AC Ajaccio              v EA Guingamp              0-1 (0-0)
+           AJ Auxerre              v AS Nancy Lorraine        1-1 (1-1)
+           Dijon FCO               v Pau FC                   0-1 (0-0)
+           Paris FC                v US Quevilly-Rouen        3-0 (2-0)
+           Grenoble Foot 38        v FC Sochaux               1-3 (1-1)
+           Amiens SC               v Chamois Niortais         3-1 (2-0)
+           SM Caen                 v Nîmes Olympique          4-0 (3-0)
+           USL Dunkerque           v Rodez AF                 2-0 (2-0)
+  Mon Feb/14
+    20.45  Havre AC                v SC Bastia                2-4 (2-2)
+
+
+» Matchday 25
+  Sat Feb/19
+    15.00  FC Sochaux              v AC Ajaccio               0-1 (0-0)
+    19.00  AS Nancy Lorraine       v USL Dunkerque            2-0 (1-0)
+           EA Guingamp             v Paris FC                 1-1 (0-0)
+           Chamois Niortais        v AJ Auxerre               0-1 (0-1)
+           Pau FC                  v SM Caen                  1-0 (0-0)
+           Nîmes Olympique         v Grenoble Foot 38         3-1 (1-0)
+           Rodez AF                v Amiens SC                1-1 (1-1)
+           SC Bastia               v Dijon FCO                0-0
+           US Quevilly-Rouen       v Valenciennes FC          1-1 (1-1)
+  Mon Feb/21
+    20.45  Toulouse FC             v Havre AC                 4-0 (2-0)
+
+
+» Matchday 26
+  Sat Feb/26
+    15.00  Paris FC                v FC Sochaux               3-1 (0-1)
+    19.00  AC Ajaccio              v Rodez AF                 2-1 (2-1)
+           Havre AC                v AS Nancy Lorraine        1-0 (1-0)
+           AJ Auxerre              v US Quevilly-Rouen        1-0 (1-0)
+           EA Guingamp             v Chamois Niortais         1-0 (0-0)
+           Valenciennes FC         v Pau FC                   1-0 (0-0)
+           Amiens SC               v Nîmes Olympique          3-0 (1-0)
+           SM Caen                 v SC Bastia                2-1 (1-1)
+           USL Dunkerque           v Dijon FCO                2-1 (1-0)
+  Mon Feb/28
+    20.45  Grenoble Foot 38        v Toulouse FC              0-2 (0-0)
+
+
+» Matchday 27
+  Sat Mar/5
+    15.00  Nîmes Olympique         v Paris FC                 1-1 (1-1)
+    19.00  AS Nancy Lorraine       v Grenoble Foot 38         0-1 (0-0)
+           Dijon FCO               v SM Caen                  1-0 (1-0)
+           Chamois Niortais        v AC Ajaccio               0-1 (0-0)
+           Pau FC                  v Amiens SC                2-1 (0-1)
+           FC Sochaux              v EA Guingamp              1-0 (0-0)
+           Rodez AF                v AJ Auxerre               1-3 (0-1)
+           SC Bastia               v Valenciennes FC          1-1 (1-1)
+           US Quevilly-Rouen       v Havre AC                 0-2 (0-1)
+  Mon Mar/7
+    20.45  Toulouse FC             v USL Dunkerque            2-0 (1-0)
+
+
+» Matchday 28
+  Sat Mar/12
+    15.00  AC Ajaccio              v SC Bastia                0-1 (0-1)
+           AJ Auxerre              v FC Sochaux               3-2 (2-1)
+    19.00  Havre AC                v Nîmes Olympique          0-1 (0-1)
+           EA Guingamp             v US Quevilly-Rouen        1-1 (1-1)
+           Paris FC                v Chamois Niortais         2-0 (1-0)
+           Valenciennes FC         v Dijon FCO                0-0
+           Grenoble Foot 38        v Rodez AF                 0-0
+           Amiens SC               v AS Nancy Lorraine        1-0 (0-0)
+           SM Caen                 v Toulouse FC              4-1 (2-0)
+           USL Dunkerque           v Pau FC                   1-0 (1-0)
+
+
+» Matchday 29
+  Tue Mar/15
+    19.00  AS Nancy Lorraine       v Paris FC                 3-0 (3-0)
+           Dijon FCO               v Havre AC                 2-0 (0-0)
+           Chamois Niortais        v FC Sochaux               1-1 (0-1)
+           Pau FC                  v Grenoble Foot 38         0-1 (0-1)
+           Toulouse FC             v Amiens SC                6-0 (3-0)
+           Valenciennes FC         v SM Caen                  1-1 (1-1)
+           Nîmes Olympique         v AJ Auxerre               1-2 (1-2)
+           Rodez AF                v EA Guingamp              1-1 (0-1)
+           SC Bastia               v USL Dunkerque            1-0 (1-0)
+           US Quevilly-Rouen       v AC Ajaccio               0-0
+
+
+» Matchday 30
+  Sat Mar/19
+    15.00  Havre AC                v SM Caen                  2-4 (0-1)
+           AJ Auxerre              v Toulouse FC              1-2 (0-2)
+    19.00  AC Ajaccio              v Nîmes Olympique          1-0 (0-0)
+           EA Guingamp             v AS Nancy Lorraine        3-1 (2-0)
+           Chamois Niortais        v US Quevilly-Rouen        2-0 (1-0)
+           Paris FC                v Pau FC                   1-1 (0-0)
+           FC Sochaux              v Rodez AF                 2-0 (2-0)
+           Grenoble Foot 38        v SC Bastia                1-1 (0-0)
+           Amiens SC               v Dijon FCO                1-1 (0-0)
+           USL Dunkerque           v Valenciennes FC          1-2 (0-1)
+
+
+» Matchday 31
+  Sat Apr/2
+    15.00  Toulouse FC             v Paris FC                 2-1 (0-1)
+    19.00  Dijon FCO               v Grenoble Foot 38         1-0 (0-0)
+           Pau FC                  v Havre AC                 2-1 (1-1)
+           Valenciennes FC         v Amiens SC                0-2 (0-2)
+           Nîmes Olympique         v EA Guingamp              0-2 (0-0)
+           Rodez AF                v Chamois Niortais         1-1 (1-1)
+           SC Bastia               v AJ Auxerre               1-1 (1-0)
+           SM Caen                 v USL Dunkerque            2-1 (1-0)
+           US Quevilly-Rouen       v FC Sochaux               0-2 (0-1)
+  Mon Apr/4
+    20.45  AS Nancy Lorraine       v AC Ajaccio               0-2 (0-0)
+
+
+» Matchday 32
+  Sat Apr/9
+    15.00  EA Guingamp             v Toulouse FC              2-4 (2-2)
+    19.00  AC Ajaccio              v Pau FC                   2-1 (0-0)
+           Havre AC                v USL Dunkerque            2-1 (1-0)
+           AJ Auxerre              v Valenciennes FC          1-0 (1-0)
+           Chamois Niortais        v Nîmes Olympique          0-0
+           FC Sochaux              v AS Nancy Lorraine        1-0 (1-0)
+           Grenoble Foot 38        v SM Caen                  0-2 (0-0)
+           Amiens SC               v SC Bastia                0-0
+           US Quevilly-Rouen       v Rodez AF                 2-0 (2-0)
+  Mon Apr/11
+    20.45  Paris FC                v Dijon FCO                2-2 (0-1)
+
+
+» Matchday 33
+  Sat Apr/16
+    15.00  Pau FC                  v AJ Auxerre               1-4 (1-2)
+           Toulouse FC             v US Quevilly-Rouen        2-0 (0-0)
+    19.00  AS Nancy Lorraine       v Chamois Niortais         0-2 (0-0)
+           Dijon FCO               v AC Ajaccio               0-3 (0-1)
+           Valenciennes FC         v Havre AC                 0-1 (0-1)
+           Nîmes Olympique         v FC Sochaux               1-3 (1-1)
+           Rodez AF                v Paris FC                 0-1 (0-1)
+           SC Bastia               v EA Guingamp              1-2 (0-0)
+           SM Caen                 v Amiens SC                1-1 (0-0)
+           USL Dunkerque           v Grenoble Foot 38         0-3 (0-2)
+
+
+» Matchday 34
+  Tue Apr/19
+    20.00  AC Ajaccio              v USL Dunkerque            2-1 (2-0)
+           AJ Auxerre              v Dijon FCO                2-1 (2-0)
+           EA Guingamp             v Pau FC                   3-0 (2-0)
+           Chamois Niortais        v SC Bastia                1-1 (0-1)
+           Paris FC                v SM Caen                  1-0 (1-0)
+           FC Sochaux              v Toulouse FC              1-1 (1-0)
+           Grenoble Foot 38        v Valenciennes FC          3-0 (1-0)
+           Rodez AF                v AS Nancy Lorraine        1-1 (0-0)
+           Amiens SC               v Havre AC                 0-2 (0-0)
+           US Quevilly-Rouen       v Nîmes Olympique          0-1 (0-1)
+
+
+» Matchday 35
+  Fri Apr/22
+    21.00  Havre AC                v Grenoble Foot 38         0-1 (0-0)
+           AS Nancy Lorraine       v US Quevilly-Rouen        0-3 (0-3)
+           Dijon FCO               v EA Guingamp              3-3 (3-0)
+           Pau FC                  v FC Sochaux               0-1 (0-1)
+           Valenciennes FC         v AC Ajaccio               0-0
+           Nîmes Olympique         v Rodez AF                 3-2 (2-0)
+           SC Bastia               v Paris FC                 2-1 (2-0)
+           USL Dunkerque           v Amiens SC                0-0
+  Sat Apr/23
+    15.00  SM Caen                 v AJ Auxerre               1-1 (0-1)
+  Mon Apr/25
+    20.45  Toulouse FC             v Chamois Niortais         2-0 (1-0)
+
+
+» Matchday 36
+  Sat Apr/30
+    15.00  AJ Auxerre              v USL Dunkerque            1-0 (0-0)
+    19.00  AC Ajaccio              v Havre AC                 2-1 (2-1)
+           AS Nancy Lorraine       v Nîmes Olympique          1-3 (0-1)
+           EA Guingamp             v SM Caen                  2-1 (0-1)
+           Chamois Niortais        v Dijon FCO                1-3 (1-1)
+           Paris FC                v Valenciennes FC          1-1 (1-1)
+           FC Sochaux              v SC Bastia                2-1 (0-0)
+           Grenoble Foot 38        v Amiens SC                1-1 (1-0)
+           US Quevilly-Rouen       v Pau FC                   1-2 (1-0)
+  Mon May/2
+    20.45  Rodez AF                v Toulouse FC              1-0 (0-0)
+
+
+» Matchday 37
+  Sat May/7
+    19.00  Havre AC                v AJ Auxerre               1-2 (1-0)
+           Dijon FCO               v AS Nancy Lorraine        2-3 (1-0)
+           Pau FC                  v Chamois Niortais         2-2 (1-2)
+           Toulouse FC             v Nîmes Olympique          2-1 (0-1)
+           Valenciennes FC         v FC Sochaux               1-0 (0-0)
+           Grenoble Foot 38        v AC Ajaccio               1-1 (1-0)
+           Amiens SC               v Paris FC                 1-2 (0-0)
+           SC Bastia               v Rodez AF                 0-1 (0-0)
+           SM Caen                 v US Quevilly-Rouen        2-0 (0-0)
+           USL Dunkerque           v EA Guingamp              1-3 (0-3)
+
+
+» Matchday 38
+  Sat May/14
+    19.00  AC Ajaccio              v Toulouse FC              1-0 (1-0)
+           AJ Auxerre              v Amiens SC                2-1 (1-0)
+           AS Nancy Lorraine       v Pau FC                   2-3 (2-3)
+           EA Guingamp             v Havre AC                 2-1 (1-1)
+           Chamois Niortais        v Valenciennes FC          1-2 (1-1)
+           Paris FC                v Grenoble Foot 38         2-0 (0-0)
+           FC Sochaux              v Dijon FCO                2-2 (1-0)
+           Nîmes Olympique         v SC Bastia                0-2 (0-0)
+           Rodez AF                v SM Caen                  2-0 (0-0)
+           US Quevilly-Rouen       v USL Dunkerque            3-1 (1-1)

@@ -6,389 +6,365 @@
 
 
 
-Matchday 1
-[Fri Aug/4]
-  19.45  Coleraine FC             2-1 (1-1)  Ballymena United
-[Sat Aug/5]
-  15.00  Newry City FC            0-3 (0-3)  Loughgall FC
-         Glenavon FC              0-1 (0-0)  Glentoran FC
-[Mon Aug/7]
-  19.45  Larne FC                 4-4 (1-1)  Dungannon Swifts
-
-
-Matchday 2
-[Fri Aug/11]
-  19.45  Loughgall FC             1-2 (1-2)  Coleraine FC
-         Glentoran FC             1-2 (0-0)  Larne FC
-         Ballymena United         1-2 (0-2)  Crusaders FC
-[Sat Aug/12]
-  15.00  Dungannon Swifts         2-3 (1-1)  Linfield FC
-         Cliftonville FC          3-0 (3-0)  Glenavon FC
-         Carrick Rangers          0-2 (0-2)  Newry City FC
-
-
-Matchday 3
-[Tue Aug/15]
-  19.45  Loughgall FC             0-1 (0-1)  Glentoran FC
-         Newry City FC            0-3 (0-3)  Cliftonville FC
-         Carrick Rangers          2-0 (2-0)  Coleraine FC
-         Crusaders FC             2-0 (0-0)  Dungannon Swifts
-         Larne FC                 3-0 (0-0)  Ballymena United
-         Linfield FC              4-2 (1-1)  Glenavon FC
-
-
-Matchday 4
-[Fri Aug/18]
-  19.45  Ballymena United         0-1 (0-0)  Linfield FC
-[Sat Aug/19]
-  15.00  Dungannon Swifts         1-2 (0-1)  Loughgall FC
-         Glenavon FC              1-3 (0-1)  Newry City FC
-         Cliftonville FC          4-0 (3-0)  Carrick Rangers
-         Coleraine FC             0-0  Larne FC
-
-
-Matchday 1
-[Tue Aug/22]
-  19.45  Linfield FC              2-1 (1-0)  Cliftonville FC
-         Crusaders FC             9-0 (5-0)  Carrick Rangers
-
-
-Matchday 5
-[Fri Aug/25]
-  19.45  Loughgall FC             2-2 (2-0)  Glenavon FC
-         Ballymena United         0-2 (0-1)  Glentoran FC
-         Dungannon Swifts         2-2 (0-0)  Coleraine FC
-[Sat Aug/26]
-  15.00  Linfield FC              3-3 (2-2)  Carrick Rangers
-         Newry City FC            0-4 (0-2)  Crusaders FC
-  17.30  Cliftonville FC          1-1 (1-1)  Larne FC
-
-
-Matchday 4
-[Tue Aug/29]
-  19.45  Glentoran FC             2-2 (1-1)  Crusaders FC
-
-
-Matchday 6
-[Fri Sep/1]
-  19.45  Carrick Rangers          2-1 (1-1)  Dungannon Swifts
-[Sat Sep/2]
-  15.00  Coleraine FC             1-3 (0-1)  Linfield FC
-         Crusaders FC             1-1 (0-0)  Loughgall FC
-         Glenavon FC              1-0 (1-0)  Ballymena United
-         Glentoran FC             1-0 (0-0)  Cliftonville FC
-         Larne FC                 4-0 (3-0)  Newry City FC
-
-
-Matchday 7
-[Sat Sep/9]
-  15.00  Carrick Rangers          0-1 (0-1)  Ballymena United
-         Dungannon Swifts         3-1 (1-1)  Glenavon FC
-  17.30  Newry City FC            2-4 (2-2)  Glentoran FC
-
-
-Matchday 8
-[Fri Sep/15]
-  19.45  Larne FC                 2-0 (1-0)  Linfield FC
-[Sat Sep/16]
-  15.00  Glenavon FC              2-1 (0-0)  Carrick Rangers
-         Glentoran FC             0-0  Dungannon Swifts
-         Coleraine FC             3-1 (1-0)  Newry City FC
-         Ballymena United         1-3 (1-0)  Loughgall FC
-[Mon Sep/18]
-  19.45  Crusaders FC             0-3 (0-2)  Cliftonville FC
-
-
-Matchday 9
-[Fri Sep/22]
-  19.45  Larne FC                 4-1 (3-0)  Carrick Rangers
-         Newry City FC            2-2 (1-2)  Dungannon Swifts
-         Glentoran FC             1-2 (1-0)  Coleraine FC
-[Sat Sep/23]
-  15.00  Crusaders FC             2-0 (1-0)  Glenavon FC
-         Ballymena United         0-2 (0-1)  Cliftonville FC
-         Loughgall FC             0-2 (0-1)  Linfield FC
-
-
-Matchday 7
-[Tue Sep/26]
-  19.45  Cliftonville FC          5-0 (1-0)  Coleraine FC
-         Linfield FC              2-0 (2-0)  Crusaders FC
-         Loughgall FC             1-0 (0-0)  Larne FC
-
-
-Matchday 10
-[Sat Sep/30]
-  15.00  Carrick Rangers          2-1 (0-1)  Glentoran FC
-         Cliftonville FC          1-1 (1-1)  Loughgall FC
-         Coleraine FC             0-4 (0-1)  Crusaders FC
-         Dungannon Swifts         0-1 (0-0)  Ballymena United
-         Linfield FC              6-1 (4-0)  Newry City FC
-  17.30  Glenavon FC              0-4 (0-0)  Larne FC
-
-
-Matchday 11
-[Fri Oct/6]
-  19.45  Larne FC                 1-1 (0-0)  Crusaders FC
-         Linfield FC              2-0 (2-0)  Glentoran FC
-[Sat Oct/7]
-  15.00  Cliftonville FC          5-0 (2-0)  Dungannon Swifts
-         Coleraine FC             4-1 (1-1)  Glenavon FC
-         Loughgall FC             3-4 (1-3)  Carrick Rangers
-         Ballymena United         0-2 (0-1)  Newry City FC
-
-
-Matchday 12
-[Fri Oct/13]
-  19.45  Carrick Rangers          1-2 (0-0)  Linfield FC
-         Crusaders FC             1-0 (1-0)  Ballymena United
-         Dungannon Swifts         0-0  Larne FC
-         Glenavon FC              0-1 (0-0)  Cliftonville FC
-         Glentoran FC             6-0 (4-0)  Loughgall FC
-         Newry City FC            0-2 (0-1)  Coleraine FC
-
-
-Matchday 13
-[Fri Oct/20]
-  19.45  Cliftonville FC          0-1 (0-0)  Linfield FC
-         Larne FC                 2-0 (1-0)  Carrick Rangers
-[Sat Oct/21]
-  15.00  Dungannon Swifts         1-4 (1-0)  Crusaders FC
-         Glentoran FC             3-1 (3-0)  Glenavon FC
-         Loughgall FC             3-1 (0-0)  Newry City FC
-         Ballymena United         3-1 (0-0)  Coleraine FC
-
-
-Matchday 14
-[Sat Oct/28]
-  15.00  Ballymena United         1-1 (1-0)  Dungannon Swifts
-         Carrick Rangers          1-3 (1-2)  Glenavon FC
-         Coleraine FC             1-2 (0-0)  Cliftonville FC
-         Crusaders FC             1-1 (1-1)  Glentoran FC
-         Linfield FC              5-1 (1-1)  Loughgall FC
-  17.30  Newry City FC            1-2 (0-0)  Larne FC
-
-
-Matchday 15
-[Fri Nov/3]
-  19.45  Larne FC                 2-1 (2-0)  Cliftonville FC
-[Sat Nov/4]
-  15.00  Crusaders FC             0-2 (0-0)  Coleraine FC
-         Glenavon FC              1-0 (1-0)  Dungannon Swifts
-         Glentoran FC             2-3 (1-0)  Carrick Rangers
-         Loughgall FC             5-2 (3-1)  Ballymena United
-         Newry City FC            0-3 (0-0)  Linfield FC
-
-
-Matchday 16
-[Sat Nov/11]
-  15.00  Cliftonville FC          1-0 (1-0)  Newry City FC
-         Dungannon Swifts         2-3 (1-0)  Carrick Rangers
-         Loughgall FC             1-2 (0-0)  Crusaders FC
-  17.30  Linfield FC              1-2 (1-1)  Larne FC
-  15.00  Ballymena United         0-1 (0-1)  Glenavon FC
-[Mon Nov/13]
-  19.45  Coleraine FC             0-0  Glentoran FC
-
-
-Matchday 17
-[Fri Nov/17]
-  20.00  Larne FC                 2-0 (1-0)  Coleraine FC
-[Sat Nov/18]
-  15.00  Dungannon Swifts         4-1 (3-1)  Newry City FC
-         Glenavon FC              2-0 (2-0)  Loughgall FC
-         Glentoran FC             5-0 (4-0)  Ballymena United
-[Sun Nov/19]
-  14.00  Carrick Rangers          0-3 (0-1)  Cliftonville FC
-
-
-Matchday 18
-[Fri Nov/24]
-  19.45  Larne FC                 2-1 (1-0)  Glentoran FC
-         Newry City FC            0-3 (0-2)  Glenavon FC
-[Sat Nov/25]
-  17.45  Loughgall FC             1-2 (0-1)  Dungannon Swifts
-  15.00  Cliftonville FC          3-0 (1-0)  Crusaders FC
-         Coleraine FC             1-1 (0-1)  Carrick Rangers
-         Linfield FC              4-0 (2-0)  Ballymena United
-
-
-Matchday 19
-[Fri Dec/1]
-  19.45  Glentoran FC             4-0 (3-0)  Linfield FC
-[Sat Dec/2]
-  15.00  Glenavon FC              1-1 (0-0)  Coleraine FC
-         Ballymena United         0-0  Larne FC
-         Carrick Rangers          2-2 (1-0)  Loughgall FC
-         Crusaders FC             1-1 (1-0)  Newry City FC
-         Dungannon Swifts         1-4 (1-0)  Cliftonville FC
-
-
-Matchday 20
-[Fri Dec/8]
-  19.45  Carrick Rangers          0-1 (0-1)  Crusaders FC
-         Larne FC                 4-1 (1-0)  Glenavon FC
-  20.00  Newry City FC            0-0  Ballymena United
-[Sat Dec/9]
-  15.00  Linfield FC              4-3 (1-3)  Dungannon Swifts
-         Coleraine FC             3-2 (2-1)  Loughgall FC
-         Cliftonville FC          2-2 (1-1)  Glentoran FC
-
-
-Matchday 21
-[Fri Dec/15]
-  19.45  Crusaders FC             0-3 (0-0)  Larne FC
-         Ballymena United         0-2 (0-1)  Carrick Rangers
-[Sat Dec/16]
-  15.00  Loughgall FC             1-4 (0-2)  Cliftonville FC
-         Coleraine FC             2-3 (0-1)  Dungannon Swifts
-         Glenavon FC              0-2 (0-1)  Linfield FC
-         Glentoran FC             1-0 (1-0)  Newry City FC
-
-
-Matchday 22
-[Fri Dec/22]
-  19.45  Larne FC                 1-0 (1-0)  Loughgall FC
-         Linfield FC              2-1 (0-0)  Coleraine FC
-         Newry City FC            0-1 (0-0)  Carrick Rangers
-[Sat Dec/23]
-  15.00  Cliftonville FC          2-0 (1-0)  Ballymena United
-         Dungannon Swifts         1-2 (1-0)  Glentoran FC
-         Glenavon FC              1-3 (0-1)  Crusaders FC
-
-
-Matchday 23
-[Tue Dec/26]
-  15.00  Linfield FC              2-0 (1-0)  Glentoran FC
-         Ballymena United         3-1 (0-1)  Coleraine FC
-         Carrick Rangers          1-2 (0-1)  Larne FC
-         Cliftonville FC          2-1 (1-0)  Crusaders FC
-         Newry City FC            0-4 (0-3)  Glenavon FC
-         Loughgall FC             2-1 (1-1)  Dungannon Swifts
-
-
-Matchday 24
-[Sat Dec/30]
-  15.00  Coleraine FC             1-3 (0-1)  Loughgall FC
-         Crusaders FC             2-0 (0-0)  Carrick Rangers
-         Dungannon Swifts         5-0 (3-0)  Newry City FC
-         Glenavon FC              0-1 (0-1)  Ballymena United
-         Larne FC                 1-1 (1-1)  Linfield FC
-
-
-Matchday 17
-[Tue Jan/2]
-  19.45  Crusaders FC             0-1 (0-1)  Linfield FC
-
-
-Matchday 25
-[Fri Jan/12]
-  19.45  Crusaders FC             0-2 (0-1)  Larne FC
-[Sat Jan/13]
-  15.00  Newry City FC            1-2 (1-0)  Cliftonville FC
-         Ballymena United         2-4 (1-3)  Dungannon Swifts
-         Carrick Rangers          0-2 (0-1)  Glenavon FC
-         Glentoran FC             6-0 (2-0)  Coleraine FC
-         Loughgall FC             1-2 (0-0)  Linfield FC
-
-
-Matchday 26
-[Sat Jan/20]
-  15.00  Cliftonville FC          3-0 (1-0)  Ballymena United
-         Coleraine FC             0-2 (0-0)  Carrick Rangers
-         Dungannon Swifts         0-2 (0-2)  Larne FC
-         Linfield FC              1-0 (1-0)  Crusaders FC
-
-
-Matchday 27
-[Fri Jan/26]
-  20.00  Larne FC                 3-0 (1-0)  Newry City FC
-  19.45  Carrick Rangers          0-1 (0-0)  Cliftonville FC
-[Sat Jan/27]
-  15.00  Linfield FC              1-2 (0-0)  Dungannon Swifts
-         Coleraine FC             1-0 (0-0)  Glenavon FC
-         Crusaders FC             1-2 (0-1)  Glentoran FC
-         Ballymena United         0-1 (0-0)  Loughgall FC
-
-
-Matchday 24
-[Tue Feb/6]
-  19.45  Glentoran FC             2-2 (2-0)  Cliftonville FC
-
-
-Matchday 28
-[Fri Feb/9]
-  19.45  Larne FC                 2-0 (1-0)  Loughgall FC
-         Newry City FC            1-1 (0-0)  Ballymena United
-[Sat Feb/10]
-  15.00  Glenavon FC              2-2 (1-1)  Linfield FC
-         Glentoran FC             2-2 (2-0)  Carrick Rangers
-         Dungannon Swifts         2-2 (0-1)  Crusaders FC
-         Cliftonville FC          4-1 (2-0)  Coleraine FC
-
-
-Matchday 26
-[Tue Feb/13]
-  19.45  Loughgall FC             0-0  Newry City FC
-
-
-Matchday 29
-[Fri Feb/16]
-  19.45  Coleraine FC             3-0 (0-0)  Linfield FC
-[Sat Feb/17]
-  15.00  Loughgall FC             0-1 (0-0)  Crusaders FC
-         Ballymena United         0-1 (0-1)  Larne FC
-         Carrick Rangers          2-1 (1-0)  Dungannon Swifts
-         Cliftonville FC          4-2 (0-1)  Glenavon FC
-         Glentoran FC             8-2 (5-1)  Newry City FC
-
-
-Matchday 31
-[Tue Feb/20]
-  19.45  Cliftonville FC          0-3 (0-0)  Linfield FC
-
-
-Matchday 30
-[Fri Feb/23]
-  19.45  Larne FC                 3-0 (1-0)  Glentoran FC
-[Sat Feb/24]
-  15.00  Dungannon Swifts         3-1 (1-0)  Cliftonville FC
-         Linfield FC              2-0 (0-0)  Ballymena United
-         Loughgall FC             3-3 (1-2)  Carrick Rangers
-         Newry City FC            0-2 (0-2)  Coleraine FC
-         Crusaders FC             2-0 (1-0)  Glenavon FC
-
-
-Matchday 26
-[Tue Mar/5]
-  19.45  Glenavon FC              0-0  Glentoran FC
-
-
-Matchday 31
-[Sat Mar/9]
-  15.00  Ballymena United         2-4 (2-1)  Crusaders FC
-         Carrick Rangers          0-1 (0-0)  Newry City FC
-         Coleraine FC             0-0  Larne FC
-         Glenavon FC              4-0 (2-0)  Dungannon Swifts
-         Glentoran FC             0-3 (0-2)  Loughgall FC
-
-
-Matchday 32
-[Sat Mar/16]
-  15.00  Crusaders FC             1-1 (0-1)  Coleraine FC
-         Dungannon Swifts         0-3 (0-2)  Glentoran FC
-         Larne FC                 6-1 (5-1)  Glenavon FC
-         Linfield FC              6-0 (4-0)  Newry City FC
-         Loughgall FC             2-3 (1-1)  Cliftonville FC
-         Ballymena United         0-2 (0-1)  Carrick Rangers
-
-
-Matchday 33
-[Sat Mar/23]
-  15.00  Coleraine FC             1-1 (1-0)  Dungannon Swifts
-         Glenavon FC              1-2 (0-2)  Loughgall FC
-         Glentoran FC             4-0 (1-0)  Ballymena United
-         Newry City FC            0-1 (0-0)  Crusaders FC
-[Tue Apr/2]
-  19.45  Cliftonville FC          0-2 (0-1)  Larne FC
-         Carrick Rangers          2-3 (1-1)  Linfield FC
+» Matchday 1
+  Fri Aug/4 2023
+    19.45  Coleraine FC            v Ballymena United         2-1 (1-1)
+  Sat Aug/5
+    15.00  Glenavon FC             v Glentoran FC             0-1 (0-0)
+           Newry City FC           v Loughgall FC             0-3 (0-3)
+  Mon Aug/7
+    19.45  Larne FC                v Dungannon Swifts         4-4 (1-1)
+  Tue Aug/22
+    19.45  Crusaders FC            v Carrick Rangers          9-0 (5-0)
+           Linfield FC             v Cliftonville FC          2-1 (1-0)
+
+
+» Matchday 2
+  Fri Aug/11
+    19.45  Ballymena United        v Crusaders FC             1-2 (0-2)
+           Glentoran FC            v Larne FC                 1-2 (0-0)
+           Loughgall FC            v Coleraine FC             1-2 (1-2)
+  Sat Aug/12
+    15.00  Carrick Rangers         v Newry City FC            0-2 (0-2)
+           Cliftonville FC         v Glenavon FC              3-0 (3-0)
+           Dungannon Swifts        v Linfield FC              2-3 (1-1)
+
+
+» Matchday 3
+  Tue Aug/15
+    19.45  Carrick Rangers         v Coleraine FC             2-0 (2-0)
+           Crusaders FC            v Dungannon Swifts         2-0 (0-0)
+           Larne FC                v Ballymena United         3-0 (0-0)
+           Linfield FC             v Glenavon FC              4-2 (1-1)
+           Loughgall FC            v Glentoran FC             0-1 (0-1)
+           Newry City FC           v Cliftonville FC          0-3 (0-3)
+
+
+» Matchday 4
+  Fri Aug/18
+    19.45  Ballymena United        v Linfield FC              0-1 (0-0)
+  Sat Aug/19
+    15.00  Cliftonville FC         v Carrick Rangers          4-0 (3-0)
+           Coleraine FC            v Larne FC                 0-0
+           Dungannon Swifts        v Loughgall FC             1-2 (0-1)
+           Glenavon FC             v Newry City FC            1-3 (0-1)
+  Tue Aug/29
+    19.45  Glentoran FC            v Crusaders FC             2-2 (1-1)
+
+
+» Matchday 5
+  Fri Aug/25
+    19.45  Ballymena United        v Glentoran FC             0-2 (0-1)
+           Dungannon Swifts        v Coleraine FC             2-2 (0-0)
+           Loughgall FC            v Glenavon FC              2-2 (2-0)
+  Sat Aug/26
+    15.00  Linfield FC             v Carrick Rangers          3-3 (2-2)
+           Newry City FC           v Crusaders FC             0-4 (0-2)
+    17.30  Cliftonville FC         v Larne FC                 1-1 (1-1)
+
+
+» Matchday 6
+  Fri Sep/1
+    19.45  Carrick Rangers         v Dungannon Swifts         2-1 (1-1)
+  Sat Sep/2
+    15.00  Coleraine FC            v Linfield FC              1-3 (0-1)
+           Crusaders FC            v Loughgall FC             1-1 (0-0)
+           Glenavon FC             v Ballymena United         1-0 (1-0)
+           Glentoran FC            v Cliftonville FC          1-0 (0-0)
+           Larne FC                v Newry City FC            4-0 (3-0)
+
+
+» Matchday 7
+  Sat Sep/9
+    15.00  Carrick Rangers         v Ballymena United         0-1 (0-1)
+           Dungannon Swifts        v Glenavon FC              3-1 (1-1)
+    17.30  Newry City FC           v Glentoran FC             2-4 (2-2)
+  Tue Sep/26
+    19.45  Cliftonville FC         v Coleraine FC             5-0 (1-0)
+           Linfield FC             v Crusaders FC             2-0 (2-0)
+           Loughgall FC            v Larne FC                 1-0 (0-0)
+
+
+» Matchday 8
+  Fri Sep/15
+    19.45  Larne FC                v Linfield FC              2-0 (1-0)
+  Sat Sep/16
+    15.00  Ballymena United        v Loughgall FC             1-3 (1-0)
+           Coleraine FC            v Newry City FC            3-1 (1-0)
+           Glenavon FC             v Carrick Rangers          2-1 (0-0)
+           Glentoran FC            v Dungannon Swifts         0-0
+  Mon Sep/18
+    19.45  Crusaders FC            v Cliftonville FC          0-3 (0-2)
+
+
+» Matchday 9
+  Fri Sep/22
+    19.45  Glentoran FC            v Coleraine FC             1-2 (1-0)
+           Larne FC                v Carrick Rangers          4-1 (3-0)
+           Newry City FC           v Dungannon Swifts         2-2 (1-2)
+  Sat Sep/23
+    15.00  Ballymena United        v Cliftonville FC          0-2 (0-1)
+           Crusaders FC            v Glenavon FC              2-0 (1-0)
+           Loughgall FC            v Linfield FC              0-2 (0-1)
+
+
+» Matchday 10
+  Sat Sep/30
+    15.00  Carrick Rangers         v Glentoran FC             2-1 (0-1)
+           Cliftonville FC         v Loughgall FC             1-1 (1-1)
+           Coleraine FC            v Crusaders FC             0-4 (0-1)
+           Dungannon Swifts        v Ballymena United         0-1 (0-0)
+           Linfield FC             v Newry City FC            6-1 (4-0)
+    17.30  Glenavon FC             v Larne FC                 0-4 (0-0)
+
+
+» Matchday 11
+  Fri Oct/6
+    19.45  Larne FC                v Crusaders FC             1-1 (0-0)
+           Linfield FC             v Glentoran FC             2-0 (2-0)
+  Sat Oct/7
+    15.00  Ballymena United        v Newry City FC            0-2 (0-1)
+           Cliftonville FC         v Dungannon Swifts         5-0 (2-0)
+           Coleraine FC            v Glenavon FC              4-1 (1-1)
+           Loughgall FC            v Carrick Rangers          3-4 (1-3)
+
+
+» Matchday 12
+  Fri Oct/13
+    19.45  Carrick Rangers         v Linfield FC              1-2 (0-0)
+           Crusaders FC            v Ballymena United         1-0 (1-0)
+           Dungannon Swifts        v Larne FC                 0-0
+           Glenavon FC             v Cliftonville FC          0-1 (0-0)
+           Glentoran FC            v Loughgall FC             6-0 (4-0)
+           Newry City FC           v Coleraine FC             0-2 (0-1)
+
+
+» Matchday 13
+  Fri Oct/20
+    19.45  Cliftonville FC         v Linfield FC              0-1 (0-0)
+           Larne FC                v Carrick Rangers          2-0 (1-0)
+  Sat Oct/21
+    15.00  Ballymena United        v Coleraine FC             3-1 (0-0)
+           Dungannon Swifts        v Crusaders FC             1-4 (1-0)
+           Glentoran FC            v Glenavon FC              3-1 (3-0)
+           Loughgall FC            v Newry City FC            3-1 (0-0)
+
+
+» Matchday 14
+  Sat Oct/28
+    15.00  Ballymena United        v Dungannon Swifts         1-1 (1-0)
+           Carrick Rangers         v Glenavon FC              1-3 (1-2)
+           Coleraine FC            v Cliftonville FC          1-2 (0-0)
+           Crusaders FC            v Glentoran FC             1-1 (1-1)
+           Linfield FC             v Loughgall FC             5-1 (1-1)
+    17.30  Newry City FC           v Larne FC                 1-2 (0-0)
+
+
+» Matchday 15
+  Fri Nov/3
+    19.45  Larne FC                v Cliftonville FC          2-1 (2-0)
+  Sat Nov/4
+    15.00  Crusaders FC            v Coleraine FC             0-2 (0-0)
+           Glenavon FC             v Dungannon Swifts         1-0 (1-0)
+           Glentoran FC            v Carrick Rangers          2-3 (1-0)
+           Loughgall FC            v Ballymena United         5-2 (3-1)
+           Newry City FC           v Linfield FC              0-3 (0-0)
+
+
+» Matchday 16
+  Sat Nov/11
+    15.00  Ballymena United        v Glenavon FC              0-1 (0-1)
+           Cliftonville FC         v Newry City FC            1-0 (1-0)
+           Dungannon Swifts        v Carrick Rangers          2-3 (1-0)
+           Loughgall FC            v Crusaders FC             1-2 (0-0)
+    17.30  Linfield FC             v Larne FC                 1-2 (1-1)
+  Mon Nov/13
+    19.45  Coleraine FC            v Glentoran FC             0-0
+
+
+» Matchday 17
+  Fri Nov/17
+    20.00  Larne FC                v Coleraine FC             2-0 (1-0)
+  Sat Nov/18
+    15.00  Dungannon Swifts        v Newry City FC            4-1 (3-1)
+           Glenavon FC             v Loughgall FC             2-0 (2-0)
+           Glentoran FC            v Ballymena United         5-0 (4-0)
+  Sun Nov/19
+    14.00  Carrick Rangers         v Cliftonville FC          0-3 (0-1)
+  Tue Jan/2 2024
+    19.45  Crusaders FC            v Linfield FC              0-1 (0-1)
+
+
+» Matchday 18
+  Fri Nov/24 2023
+    19.45  Larne FC                v Glentoran FC             2-1 (1-0)
+           Newry City FC           v Glenavon FC              0-3 (0-2)
+  Sat Nov/25
+    15.00  Cliftonville FC         v Crusaders FC             3-0 (1-0)
+           Coleraine FC            v Carrick Rangers          1-1 (0-1)
+           Linfield FC             v Ballymena United         4-0 (2-0)
+    17.45  Loughgall FC            v Dungannon Swifts         1-2 (0-1)
+
+
+» Matchday 19
+  Fri Dec/1
+    19.45  Glentoran FC            v Linfield FC              4-0 (3-0)
+  Sat Dec/2
+    15.00  Ballymena United        v Larne FC                 0-0
+           Carrick Rangers         v Loughgall FC             2-2 (1-0)
+           Crusaders FC            v Newry City FC            1-1 (1-0)
+           Dungannon Swifts        v Cliftonville FC          1-4 (1-0)
+           Glenavon FC             v Coleraine FC             1-1 (0-0)
+
+
+» Matchday 20
+  Fri Dec/8
+    19.45  Carrick Rangers         v Crusaders FC             0-1 (0-1)
+           Larne FC                v Glenavon FC              4-1 (1-0)
+    20.00  Newry City FC           v Ballymena United         0-0
+  Sat Dec/9
+    15.00  Cliftonville FC         v Glentoran FC             2-2 (1-1)
+           Coleraine FC            v Loughgall FC             3-2 (2-1)
+           Linfield FC             v Dungannon Swifts         4-3 (1-3)
+
+
+» Matchday 21
+  Fri Dec/15
+    19.45  Ballymena United        v Carrick Rangers          0-2 (0-1)
+           Crusaders FC            v Larne FC                 0-3 (0-0)
+  Sat Dec/16
+    15.00  Coleraine FC            v Dungannon Swifts         2-3 (0-1)
+           Glenavon FC             v Linfield FC              0-2 (0-1)
+           Glentoran FC            v Newry City FC            1-0 (1-0)
+           Loughgall FC            v Cliftonville FC          1-4 (0-2)
+
+
+» Matchday 22
+  Fri Dec/22
+    19.45  Larne FC                v Loughgall FC             1-0 (1-0)
+           Linfield FC             v Coleraine FC             2-1 (0-0)
+           Newry City FC           v Carrick Rangers          0-1 (0-0)
+  Sat Dec/23
+    15.00  Cliftonville FC         v Ballymena United         2-0 (1-0)
+           Dungannon Swifts        v Glentoran FC             1-2 (1-0)
+           Glenavon FC             v Crusaders FC             1-3 (0-1)
+
+
+» Matchday 23
+  Tue Dec/26
+    15.00  Ballymena United        v Coleraine FC             3-1 (0-1)
+           Carrick Rangers         v Larne FC                 1-2 (0-1)
+           Cliftonville FC         v Crusaders FC             2-1 (1-0)
+           Linfield FC             v Glentoran FC             2-0 (1-0)
+           Loughgall FC            v Dungannon Swifts         2-1 (1-1)
+           Newry City FC           v Glenavon FC              0-4 (0-3)
+
+
+» Matchday 24
+  Sat Dec/30
+    15.00  Coleraine FC            v Loughgall FC             1-3 (0-1)
+           Crusaders FC            v Carrick Rangers          2-0 (0-0)
+           Dungannon Swifts        v Newry City FC            5-0 (3-0)
+           Glenavon FC             v Ballymena United         0-1 (0-1)
+           Larne FC                v Linfield FC              1-1 (1-1)
+  Tue Feb/6 2024
+    19.45  Glentoran FC            v Cliftonville FC          2-2 (2-0)
+
+
+» Matchday 25
+  Fri Jan/12
+    19.45  Crusaders FC            v Larne FC                 0-2 (0-1)
+  Sat Jan/13
+    15.00  Ballymena United        v Dungannon Swifts         2-4 (1-3)
+           Carrick Rangers         v Glenavon FC              0-2 (0-1)
+           Glentoran FC            v Coleraine FC             6-0 (2-0)
+           Loughgall FC            v Linfield FC              1-2 (0-0)
+           Newry City FC           v Cliftonville FC          1-2 (1-0)
+
+
+» Matchday 26
+  Sat Jan/20
+    15.00  Cliftonville FC         v Ballymena United         3-0 (1-0)
+           Coleraine FC            v Carrick Rangers          0-2 (0-0)
+           Dungannon Swifts        v Larne FC                 0-2 (0-2)
+           Linfield FC             v Crusaders FC             1-0 (1-0)
+  Tue Feb/13
+    19.45  Loughgall FC            v Newry City FC            0-0
+  Tue Mar/5
+    19.45  Glenavon FC             v Glentoran FC             0-0
+
+
+» Matchday 27
+  Fri Jan/26
+    19.45  Carrick Rangers         v Cliftonville FC          0-1 (0-0)
+    20.00  Larne FC                v Newry City FC            3-0 (1-0)
+  Sat Jan/27
+    15.00  Ballymena United        v Loughgall FC             0-1 (0-0)
+           Coleraine FC            v Glenavon FC              1-0 (0-0)
+           Crusaders FC            v Glentoran FC             1-2 (0-1)
+           Linfield FC             v Dungannon Swifts         1-2 (0-0)
+
+
+» Matchday 28
+  Fri Feb/9
+    19.45  Larne FC                v Loughgall FC             2-0 (1-0)
+           Newry City FC           v Ballymena United         1-1 (0-0)
+  Sat Feb/10
+    15.00  Cliftonville FC         v Coleraine FC             4-1 (2-0)
+           Dungannon Swifts        v Crusaders FC             2-2 (0-1)
+           Glenavon FC             v Linfield FC              2-2 (1-1)
+           Glentoran FC            v Carrick Rangers          2-2 (2-0)
+
+
+» Matchday 29
+  Fri Feb/16
+    19.45  Coleraine FC            v Linfield FC              3-0 (0-0)
+  Sat Feb/17
+    15.00  Ballymena United        v Larne FC                 0-1 (0-1)
+           Carrick Rangers         v Dungannon Swifts         2-1 (1-0)
+           Cliftonville FC         v Glenavon FC              4-2 (0-1)
+           Glentoran FC            v Newry City FC            8-2 (5-1)
+           Loughgall FC            v Crusaders FC             0-1 (0-0)
+
+
+» Matchday 30
+  Fri Feb/23
+    19.45  Larne FC                v Glentoran FC             3-0 (1-0)
+  Sat Feb/24
+    15.00  Crusaders FC            v Glenavon FC              2-0 (1-0)
+           Dungannon Swifts        v Cliftonville FC          3-1 (1-0)
+           Linfield FC             v Ballymena United         2-0 (0-0)
+           Loughgall FC            v Carrick Rangers          3-3 (1-2)
+           Newry City FC           v Coleraine FC             0-2 (0-2)
+
+
+» Matchday 31
+  Tue Feb/20
+    19.45  Cliftonville FC         v Linfield FC              0-3 (0-0)
+  Sat Mar/9
+    15.00  Ballymena United        v Crusaders FC             2-4 (2-1)
+           Carrick Rangers         v Newry City FC            0-1 (0-0)
+           Coleraine FC            v Larne FC                 0-0
+           Glenavon FC             v Dungannon Swifts         4-0 (2-0)
+           Glentoran FC            v Loughgall FC             0-3 (0-2)
+
+
+» Matchday 32
+  Sat Mar/16
+    15.00  Ballymena United        v Carrick Rangers          0-2 (0-1)
+           Crusaders FC            v Coleraine FC             1-1 (0-1)
+           Dungannon Swifts        v Glentoran FC             0-3 (0-2)
+           Larne FC                v Glenavon FC              6-1 (5-1)
+           Linfield FC             v Newry City FC            6-0 (4-0)
+           Loughgall FC            v Cliftonville FC          2-3 (1-1)
+
+
+» Matchday 33
+  Sat Mar/23
+    15.00  Coleraine FC            v Dungannon Swifts         1-1 (1-0)
+           Glenavon FC             v Loughgall FC             1-2 (0-2)
+           Glentoran FC            v Ballymena United         4-0 (1-0)
+           Newry City FC           v Crusaders FC             0-1 (0-0)
+  Tue Apr/2
+    19.45  Carrick Rangers         v Linfield FC              2-3 (1-1)
+           Cliftonville FC         v Larne FC                 0-2 (0-1)

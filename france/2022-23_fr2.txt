@@ -1,0 +1,570 @@
+= French Ligue 2 2022/23
+
+# Date       Sat Jul/30 2022 - Fri Jun/2 2023 (307d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Sat Jul/30 2022
+    15.00  Dijon FCO               v AS Saint-Étienne         2-1 (2-0)
+    19.00  Havre AC                v Grenoble Foot 38         0-0
+           EA Guingamp             v Pau FC                   4-0 (3-0)
+           FC Annecy               v Chamois Niortais         1-2 (0-2)
+           FC Metz                 v Amiens SC                3-0 (2-0)
+           Nîmes Olympique         v SM Caen                  0-1 (0-0)
+           SC Bastia               v Stade Lavallois          0-2 (0-1)
+           US Quevilly-Rouen       v Rodez AF                 0-0
+           Girondins Bordeaux      v Valenciennes FC          0-0
+  Mon Aug/1
+    20.45  FC Sochaux              v Paris FC                 0-0
+
+
+» Matchday 2
+  Sat Aug/6
+    15.00  AS Saint-Étienne        v Nîmes Olympique          1-1 (1-1)
+    19.00  Chamois Niortais        v SC Bastia                1-4 (0-4)
+           Paris FC                v US Quevilly-Rouen        2-1 (2-0)
+           Pau FC                  v Dijon FCO                0-0
+           Valenciennes FC         v Havre AC                 1-0 (1-0)
+           Grenoble Foot 38        v FC Sochaux               1-0 (1-0)
+           Amiens SC               v FC Annecy                1-0 (0-0)
+           Stade Lavallois         v EA Guingamp              1-2 (1-0)
+           Rodez AF                v Girondins Bordeaux       0-3 (0-2)
+  Mon Aug/8
+    20.45  SM Caen                 v FC Metz                  1-0 (1-0)
+
+
+» Matchday 3
+  Sat Aug/13
+    15.00  EA Guingamp             v Paris FC                 0-0
+    19.00  Havre AC                v Pau FC                   1-1 (1-0)
+           Dijon FCO               v SM Caen                  2-2 (0-0)
+           FC Annecy               v Stade Lavallois          0-1 (0-1)
+           FC Metz                 v Valenciennes FC          2-0 (1-0)
+           FC Sochaux              v Amiens SC                0-1 (0-0)
+           Nîmes Olympique         v Rodez AF                 1-0 (0-0)
+           SC Bastia               v Grenoble Foot 38         3-0 (2-0)
+           Girondins Bordeaux      v Chamois Niortais         1-0 (0-0)
+  Mon Aug/15
+    20.45  US Quevilly-Rouen       v AS Saint-Étienne         2-2 (2-2)
+
+
+» Matchday 4
+  Sat Aug/20
+    15.00  AS Saint-Étienne        v Havre AC                 0-6 (0-0)
+    19.00  Dijon FCO               v Nîmes Olympique          2-1 (1-0)
+           Chamois Niortais        v Paris FC                 2-1 (0-0)
+           Pau FC                  v FC Sochaux               0-3 (0-1)
+           Valenciennes FC         v US Quevilly-Rouen        0-0
+           Rodez AF                v FC Annecy                2-2 (1-2)
+           Amiens SC               v SC Bastia                3-1 (2-1)
+           SM Caen                 v EA Guingamp              4-1 (2-1)
+           Stade Lavallois         v FC Metz                  3-3 (1-3)
+  Mon Aug/22
+    20.45  Grenoble Foot 38        v Girondins Bordeaux       0-0
+
+
+» Matchday 5
+  Sat Aug/27
+    15.00  FC Metz                 v Dijon FCO                1-2 (0-1)
+           Girondins Bordeaux      v EA Guingamp              0-1 (0-1)
+    19.00  Havre AC                v Amiens SC                1-1 (0-1)
+           FC Annecy               v Grenoble Foot 38         0-0
+           Paris FC                v SM Caen                  1-1 (0-1)
+           FC Sochaux              v Chamois Niortais         3-0 (1-0)
+           Valenciennes FC         v AS Saint-Étienne         2-2 (1-1)
+           Nîmes Olympique         v Stade Lavallois          1-0 (0-0)
+           SC Bastia               v Rodez AF                 0-2 (0-0)
+           US Quevilly-Rouen       v Pau FC                   2-1 (0-0)
+
+
+» Matchday 6
+  Tue Aug/30
+    20.45  AS Saint-Étienne        v SC Bastia                5-0 (4-0)
+           Dijon FCO               v FC Annecy                0-2 (0-1)
+           EA Guingamp             v FC Sochaux               1-2 (1-1)
+           Chamois Niortais        v Valenciennes FC          0-1 (0-1)
+           Grenoble Foot 38        v Nîmes Olympique          3-2 (1-0)
+           Rodez AF                v FC Metz                  1-4 (0-3)
+           Amiens SC               v Paris FC                 1-1 (0-0)
+           SM Caen                 v Pau FC                   1-1 (1-1)
+           Stade Lavallois         v Havre AC                 1-3 (1-0)
+           Girondins Bordeaux      v US Quevilly-Rouen        4-0 (3-0)
+
+
+» Matchday 7
+  Fri Sep/2
+    20.45  Havre AC                v SM Caen                  2-1 (1-0)
+           FC Metz                 v FC Annecy                0-0
+           FC Sochaux              v Stade Lavallois          4-1 (1-1)
+           Valenciennes FC         v Nîmes Olympique          3-2 (1-1)
+           Amiens SC               v Grenoble Foot 38         1-0 (0-0)
+           SC Bastia               v Dijon FCO                1-0 (0-0)
+           US Quevilly-Rouen       v Chamois Niortais         3-3 (3-2)
+  Sat Sep/3
+    15.00  Paris FC                v Girondins Bordeaux       1-3 (0-2)
+  Mon Sep/5
+    20.45  Pau FC                  v AS Saint-Étienne         2-2 (0-1)
+  Tue Oct/4
+    20.45  EA Guingamp             v Rodez AF                 0-0
+
+
+» Matchday 8
+  Sat Sep/10
+    15.00  AS Saint-Étienne        v Girondins Bordeaux       2-0 (1-0)
+    19.00  Dijon FCO               v FC Sochaux               0-2 (0-1)
+           FC Annecy               v US Quevilly-Rouen        1-0 (0-0)
+           Chamois Niortais        v Havre AC                 0-1 (0-0)
+           Grenoble Foot 38        v Paris FC                 1-2 (0-0)
+           Nîmes Olympique         v SC Bastia                0-0
+           Rodez AF                v Valenciennes FC          1-1 (0-0)
+           SM Caen                 v Amiens SC                3-1 (0-0)
+           Stade Lavallois         v Pau FC                   0-1 (0-0)
+  Mon Sep/12
+    20.45  FC Metz                 v EA Guingamp              3-6 (3-3)
+
+
+» Matchday 9
+  Sat Sep/17
+    15.00  EA Guingamp             v AS Saint-Étienne         2-1 (1-0)
+           Girondins Bordeaux      v Dijon FCO                2-1 (1-0)
+    19.00  Havre AC                v FC Annecy                2-0 (0-0)
+           Paris FC                v Rodez AF                 1-2 (1-0)
+           Pau FC                  v Valenciennes FC          1-0 (0-0)
+           FC Sochaux              v Nîmes Olympique          3-1 (2-1)
+           Grenoble Foot 38        v SM Caen                  1-0 (0-0)
+           Amiens SC               v Chamois Niortais         3-0 (0-0)
+           SC Bastia               v FC Metz                  1-0 (1-0)
+           US Quevilly-Rouen       v Stade Lavallois          1-3 (1-2)
+
+
+» Matchday 10
+  Sat Oct/1
+    15.00  AS Saint-Étienne        v Grenoble Foot 38         2-2 (0-1)
+    19.00  Dijon FCO               v Havre AC                 0-0
+           FC Annecy               v SC Bastia                0-2 (0-1)
+           Chamois Niortais        v EA Guingamp              0-0
+           FC Metz                 v Pau FC                   1-0 (1-0)
+           Valenciennes FC         v FC Sochaux               2-1 (1-1)
+           Nîmes Olympique         v Paris FC                 0-1 (0-0)
+           Rodez AF                v Amiens SC                0-1 (0-1)
+           SM Caen                 v US Quevilly-Rouen        0-1 (0-1)
+  Mon Oct/3
+    20.45  Stade Lavallois         v Girondins Bordeaux       1-2 (0-1)
+
+
+» Matchday 11
+  Sat Oct/8
+    15.00  Girondins Bordeaux      v FC Metz                  2-0 (1-0)
+    19.00  Havre AC                v SC Bastia                3-0 (2-0)
+           EA Guingamp             v FC Annecy                0-4 (0-1)
+           Paris FC                v Valenciennes FC          0-1 (0-1)
+           Pau FC                  v Rodez AF                 2-2 (1-0)
+           Grenoble Foot 38        v Stade Lavallois          3-2 (3-2)
+           Amiens SC               v Dijon FCO                2-1 (0-1)
+           SM Caen                 v Chamois Niortais         1-0 (1-0)
+           US Quevilly-Rouen       v Nîmes Olympique          3-1 (2-0)
+  Mon Oct/10
+    20.45  FC Sochaux              v AS Saint-Étienne         2-1 (1-0)
+
+
+» Matchday 12
+  Sat Oct/15
+    15.00  AS Saint-Étienne        v Paris FC                 0-2 (0-0)
+    19.00  Dijon FCO               v US Quevilly-Rouen        0-0
+           FC Annecy               v Pau FC                   0-2 (0-1)
+           Chamois Niortais        v Grenoble Foot 38         0-3 (0-1)
+           FC Metz                 v FC Sochaux               0-0
+           Valenciennes FC         v EA Guingamp              1-0 (1-0)
+           Nîmes Olympique         v Amiens SC                2-0 (2-0)
+           Rodez AF                v Havre AC                 1-1 (0-1)
+           Stade Lavallois         v SM Caen                  4-0 (2-0)
+  Mon Oct/17
+    20.45  SC Bastia               v Girondins Bordeaux       1-1 (0-0)
+
+
+» Matchday 13
+  Sat Oct/22
+    15.00  Amiens SC               v AS Saint-Étienne         0-1 (0-0)
+    19.00  EA Guingamp             v SC Bastia                1-1 (0-0)
+           Chamois Niortais        v Dijon FCO                2-1 (0-0)
+           Paris FC                v Stade Lavallois          0-0
+           Pau FC                  v Nîmes Olympique          1-0 (1-0)
+           FC Sochaux              v US Quevilly-Rouen        2-2 (0-1)
+           Grenoble Foot 38        v Valenciennes FC          1-0 (0-0)
+           SM Caen                 v Rodez AF                 2-0 (0-0)
+           Girondins Bordeaux      v FC Annecy                1-0 (1-0)
+  Mon Oct/24
+    20.45  Havre AC                v FC Metz                  2-0 (1-0)
+
+
+» Matchday 14
+  Sat Nov/5
+    15.00  Nîmes Olympique         v Girondins Bordeaux       1-0 (1-0)
+    19.00  Dijon FCO               v EA Guingamp              1-1 (0-1)
+           FC Annecy               v FC Sochaux               2-1 (0-1)
+           Pau FC                  v Amiens SC                2-1 (1-0)
+           Valenciennes FC         v SM Caen                  1-1 (1-1)
+           Rodez AF                v Grenoble Foot 38         0-1 (0-0)
+           SC Bastia               v Paris FC                 0-1 (0-1)
+           Stade Lavallois         v Chamois Niortais         2-1 (1-1)
+           US Quevilly-Rouen       v Havre AC                 0-1 (0-0)
+  Mon Nov/7
+    20.45  FC Metz                 v AS Saint-Étienne         3-2 (2-1)
+
+
+» Matchday 15
+  Sat Nov/12
+    15.00  AS Saint-Étienne        v Rodez AF                 0-2 (0-0)
+    19.00  EA Guingamp             v Havre AC                 0-1 (0-0)
+           Chamois Niortais        v Nîmes Olympique          1-1 (0-1)
+           Paris FC                v FC Metz                  1-4 (1-2)
+           FC Sochaux              v SC Bastia                1-0 (1-0)
+           Grenoble Foot 38        v Dijon FCO                0-0
+           Amiens SC               v US Quevilly-Rouen        0-2 (0-1)
+           SM Caen                 v FC Annecy                0-0
+           Stade Lavallois         v Valenciennes FC          1-0 (1-0)
+           Girondins Bordeaux      v Pau FC                   1-1 (0-1)
+
+
+» Matchday 16
+  Mon Dec/26
+    17.00  FC Annecy               v AS Saint-Étienne         2-1 (1-0)
+    19.05  Havre AC                v Girondins Bordeaux       1-0 (1-0)
+    21.00  Dijon FCO               v Stade Lavallois          5-0 (3-0)
+           FC Metz                 v Chamois Niortais         0-0
+           Pau FC                  v Paris FC                 0-1 (0-1)
+           FC Sochaux              v Rodez AF                 1-0 (0-0)
+           Valenciennes FC         v Amiens SC                1-1 (1-1)
+           Nîmes Olympique         v EA Guingamp              1-2 (1-1)
+           SC Bastia               v SM Caen                  1-0 (0-0)
+           US Quevilly-Rouen       v Grenoble Foot 38         2-0 (0-0)
+
+
+» Matchday 17
+  Fri Dec/30
+    17.00  Girondins Bordeaux      v FC Sochaux               2-1 (2-0)
+    19.05  AS Saint-Étienne        v SM Caen                  1-1 (0-1)
+    21.00  EA Guingamp             v US Quevilly-Rouen        0-2 (0-1)
+           FC Annecy               v Nîmes Olympique          0-0
+           Chamois Niortais        v Pau FC                   2-1 (1-0)
+           Paris FC                v Havre AC                 0-0
+           Grenoble Foot 38        v FC Metz                  0-1 (0-0)
+           Rodez AF                v Dijon FCO                2-1 (2-0)
+           SC Bastia               v Valenciennes FC          1-0 (0-0)
+           Stade Lavallois         v Amiens SC                0-3 (0-1)
+
+
+» Matchday 18
+  Tue Jan/10 2023
+    20.45  Havre AC                v FC Sochaux               1-0 (0-0)
+           AS Saint-Étienne        v Stade Lavallois          1-0 (0-0)
+           Paris FC                v Dijon FCO                2-1 (1-0)
+           Pau FC                  v Grenoble Foot 38         0-0
+           Valenciennes FC         v FC Annecy                2-2 (1-1)
+           Nîmes Olympique         v FC Metz                  1-4 (0-0)
+           Rodez AF                v Chamois Niortais         1-1 (0-0)
+           Amiens SC               v EA Guingamp              1-1 (0-0)
+           US Quevilly-Rouen       v SC Bastia                1-1 (1-0)
+           SM Caen                 v Girondins Bordeaux       2-2 (0-2)
+
+
+» Matchday 19
+  Fri Jan/13
+    20.45  Havre AC                v Nîmes Olympique          3-1 (0-0)
+           Dijon FCO               v Valenciennes FC          2-1 (1-0)
+           EA Guingamp             v Grenoble Foot 38         2-4 (1-1)
+           FC Annecy               v Paris FC                 2-0 (1-0)
+           FC Metz                 v US Quevilly-Rouen        2-0 (0-0)
+           SC Bastia               v Pau FC                   1-0 (0-0)
+           Stade Lavallois         v Rodez AF                 3-1 (1-0)
+           Girondins Bordeaux      v Amiens SC                1-1 (1-0)
+  Mon Jan/16
+    20.45  Chamois Niortais        v AS Saint-Étienne         0-1 (0-0)
+  Fri Jan/20
+    18.30  FC Sochaux              v SM Caen                  1-2 (1-0)
+
+
+» Matchday 20
+  Sat Jan/28
+    15.00  AS Saint-Étienne        v FC Sochaux               2-3 (0-1)
+    19.00  Pau FC                  v FC Annecy                2-2 (0-2)
+           Valenciennes FC         v FC Metz                  1-1 (0-0)
+           Grenoble Foot 38        v SC Bastia                0-1 (0-0)
+           Nîmes Olympique         v Chamois Niortais         3-2 (3-1)
+           Rodez AF                v EA Guingamp              0-1 (0-0)
+           Amiens SC               v Havre AC                 1-1 (1-0)
+           SM Caen                 v Stade Lavallois          0-0
+           US Quevilly-Rouen       v Paris FC                 3-1 (1-0)
+           Dijon FCO               v Girondins Bordeaux       0-3 (0-1)
+
+
+» Matchday 21
+  Tue Jan/31
+    20.45  EA Guingamp             v Nîmes Olympique          1-2 (1-0)
+           FC Annecy               v SM Caen                  2-0 (0-0)
+           Chamois Niortais        v Amiens SC                1-3 (0-2)
+           FC Metz                 v Rodez AF                 1-1 (0-0)
+           Paris FC                v Pau FC                   0-1 (0-0)
+           FC Sochaux              v Valenciennes FC          4-0 (2-0)
+           Grenoble Foot 38        v US Quevilly-Rouen        1-0 (0-0)
+           SC Bastia               v AS Saint-Étienne         2-0 (0-0)
+           Stade Lavallois         v Dijon FCO                1-0 (0-0)
+           Girondins Bordeaux      v Havre AC                 1-2 (0-1)
+
+
+» Matchday 22
+  Fri Feb/3
+    20.45  Havre AC                v Paris FC                 0-0
+           Dijon FCO               v Chamois Niortais         0-1 (0-1)
+           Valenciennes FC         v Stade Lavallois          3-1 (2-0)
+           Nîmes Olympique         v Grenoble Foot 38         0-2 (0-1)
+           Rodez AF                v FC Sochaux               1-2 (1-1)
+           SM Caen                 v SC Bastia                3-1 (0-0)
+           US Quevilly-Rouen       v EA Guingamp              2-0 (1-0)
+           Pau FC                  v Girondins Bordeaux       0-2 (0-1)
+  Sat Feb/4
+    15.00  AS Saint-Étienne        v FC Annecy                3-2 (1-1)
+  Mon Feb/6
+    20.45  Amiens SC               v FC Metz                  0-2 (0-0)
+
+
+» Matchday 23
+  Sat Feb/11
+    15.00  AS Saint-Étienne        v Dijon FCO                2-0 (2-0)
+    19.00  EA Guingamp             v Valenciennes FC          3-1 (1-0)
+           FC Sochaux              v Havre AC                 1-1 (0-1)
+           Grenoble Foot 38        v Pau FC                   1-1 (0-1)
+           Rodez AF                v Nîmes Olympique          1-1 (1-0)
+           SC Bastia               v US Quevilly-Rouen        0-1 (0-1)
+           Stade Lavallois         v FC Annecy                1-1 (1-1)
+           Chamois Niortais        v Girondins Bordeaux       3-1 (2-1)
+  Mon Feb/13
+    20.45  FC Metz                 v SM Caen                  0-0
+  Tue Mar/14
+    19.00  Paris FC                v Amiens SC                3-0 (1-0)
+
+
+» Matchday 24
+  Sat Feb/18
+    15.00  Girondins Bordeaux      v Paris FC                 2-1 (2-0)
+    19.00  Havre AC                v Chamois Niortais         1-0 (0-0)
+           Dijon FCO               v FC Metz                  0-0
+           FC Annecy               v Amiens SC                2-0 (1-0)
+           Pau FC                  v Stade Lavallois          0-1 (0-1)
+           Valenciennes FC         v Rodez AF                 0-0
+           SC Bastia               v EA Guingamp              1-1 (1-0)
+           SM Caen                 v Grenoble Foot 38         2-1 (0-1)
+           US Quevilly-Rouen       v FC Sochaux               0-0
+  Mon Feb/20
+    20.45  Nîmes Olympique         v AS Saint-Étienne         1-2 (0-1)
+
+
+» Matchday 25
+  Sat Feb/25
+    15.00  Grenoble Foot 38        v Havre AC                 0-0
+    19.00  AS Saint-Étienne        v Pau FC                   2-0 (1-0)
+           EA Guingamp             v SM Caen                  1-2 (0-2)
+           FC Metz                 v Nîmes Olympique          2-0 (1-0)
+           Paris FC                v Chamois Niortais         3-0 (0-0)
+           FC Sochaux              v FC Annecy                5-1 (3-0)
+           Valenciennes FC         v Dijon FCO                2-2 (0-0)
+           Rodez AF                v SC Bastia                0-2 (0-1)
+           Stade Lavallois         v US Quevilly-Rouen        0-1 (0-0)
+  Mon Feb/27
+    20.45  Amiens SC               v Girondins Bordeaux       1-2 (1-0)
+
+
+» Matchday 26
+  Sat Mar/4
+    15.00  Girondins Bordeaux      v AS Saint-Étienne         1-1 (0-0)
+    19.00  Havre AC                v Stade Lavallois          2-1 (1-1)
+           Dijon FCO               v Grenoble Foot 38         1-0 (1-0)
+           FC Annecy               v FC Metz                  0-3 (0-1)
+           Chamois Niortais        v Rodez AF                 2-3 (1-2)
+           Paris FC                v EA Guingamp              1-2 (0-2)
+           Amiens SC               v Pau FC                   1-0 (1-0)
+           SC Bastia               v Nîmes Olympique          4-2 (2-1)
+           US Quevilly-Rouen       v Valenciennes FC          1-1 (0-1)
+  Mon Mar/6
+    20.45  SM Caen                 v FC Sochaux               0-0
+
+
+» Matchday 27
+  Sat Mar/11
+    15.00  FC Sochaux              v Girondins Bordeaux       1-1 (1-1)
+    19.00  AS Saint-Étienne        v Amiens SC                1-1 (0-0)
+           EA Guingamp             v Dijon FCO                2-0 (1-0)
+           Pau FC                  v Chamois Niortais         1-0 (1-0)
+           Valenciennes FC         v SC Bastia                2-2 (1-1)
+           Grenoble Foot 38        v FC Annecy                2-1 (1-1)
+           Nîmes Olympique         v US Quevilly-Rouen        2-0 (0-0)
+           Rodez AF                v SM Caen                  3-2 (2-1)
+           Stade Lavallois         v Paris FC                 1-2 (1-1)
+  Mon Mar/13
+    20.45  FC Metz                 v Havre AC                 1-1 (1-0)
+
+
+» Matchday 28
+  Sat Mar/18
+    15.00  Havre AC                v AS Saint-Étienne         2-2 (0-0)
+    19.00  Dijon FCO               v Pau FC                   0-1 (0-1)
+           FC Annecy               v EA Guingamp              1-1 (1-1)
+           Chamois Niortais        v Stade Lavallois          3-2 (1-1)
+           Paris FC                v SC Bastia                0-1 (0-0)
+           FC Sochaux              v Grenoble Foot 38         1-0 (0-0)
+           Amiens SC               v Rodez AF                 1-3 (1-1)
+           SM Caen                 v Valenciennes FC          2-1 (1-1)
+           US Quevilly-Rouen       v FC Metz                  1-2 (0-0)
+           Girondins Bordeaux      v Nîmes Olympique          1-0 (0-0)
+
+
+» Matchday 29
+  Sat Apr/1
+    15.00  AS Saint-Étienne        v Chamois Niortais         2-0 (0-0)
+    19.00  FC Metz                 v Stade Lavallois          1-0 (0-0)
+           Pau FC                  v Havre AC                 0-1 (0-1)
+           Valenciennes FC         v Paris FC                 4-5 (2-2)
+           Grenoble Foot 38        v Amiens SC                2-1 (1-0)
+           Nîmes Olympique         v FC Annecy                4-0 (2-0)
+           Rodez AF                v US Quevilly-Rouen        1-0 (0-0)
+           SC Bastia               v FC Sochaux               3-2 (1-2)
+           SM Caen                 v Dijon FCO                2-1 (0-1)
+  Mon Apr/3
+    20.45  EA Guingamp             v Girondins Bordeaux       0-1 (0-1)
+
+
+» Matchday 30
+  Sat Apr/8
+    15.00  Girondins Bordeaux      v SC Bastia                2-0 (1-0)
+    19.00  Havre AC                v EA Guingamp              0-0
+           Dijon FCO               v Rodez AF                 1-0 (0-0)
+           Chamois Niortais        v FC Sochaux               0-3 (0-3)
+           Paris FC                v AS Saint-Étienne         2-4 (2-2)
+           Pau FC                  v FC Metz                  1-1 (0-0)
+           Amiens SC               v Nîmes Olympique          1-0 (0-0)
+           Stade Lavallois         v Grenoble Foot 38         0-1 (0-1)
+           US Quevilly-Rouen       v SM Caen                  2-1 (2-0)
+  Mon Apr/10
+    20.45  FC Annecy               v Valenciennes FC          2-1 (1-1)
+
+
+» Matchday 31
+  Sat Apr/15
+    15.00  FC Metz                 v Girondins Bordeaux       3-0 (0-0)
+    19.00  EA Guingamp             v Amiens SC                3-1 (1-0)
+           FC Sochaux              v Pau FC                   2-3 (0-2)
+           Valenciennes FC         v Chamois Niortais         0-0
+           Nîmes Olympique         v Havre AC                 0-1 (0-1)
+           Rodez AF                v Stade Lavallois          1-0 (1-0)
+           SC Bastia               v FC Annecy                3-0 (3-0)
+           SM Caen                 v Paris FC                 3-1 (2-0)
+           US Quevilly-Rouen       v Dijon FCO                2-2 (1-0)
+  Mon Apr/17
+    20.45  Grenoble Foot 38        v AS Saint-Étienne         0-2 (0-0)
+
+
+» Matchday 32
+  Sat Apr/22
+    15.00  AS Saint-Étienne        v FC Metz                  1-3 (1-3)
+    19.00  Havre AC                v US Quevilly-Rouen        0-0
+           Dijon FCO               v SC Bastia                1-1 (0-0)
+           FC Annecy               v Rodez AF                 0-3 (0-0)
+           Chamois Niortais        v SM Caen                  1-2 (0-2)
+           Paris FC                v Nîmes Olympique          3-0 (1-0)
+           Pau FC                  v EA Guingamp              2-1 (1-1)
+           Amiens SC               v Valenciennes FC          0-2 (0-0)
+           Stade Lavallois         v FC Sochaux               2-1 (2-0)
+  Mon Apr/24
+    20.45  Girondins Bordeaux      v Grenoble Foot 38         3-0 (1-0)
+
+
+» Matchday 33
+  Sat Apr/29
+    14.45  SM Caen                 v Havre AC                 1-2 (0-1)
+    19.00  EA Guingamp             v Stade Lavallois          3-1 (1-1)
+           FC Metz                 v Paris FC                 1-1 (1-1)
+           Grenoble Foot 38        v Chamois Niortais         2-0 (1-0)
+           Nîmes Olympique         v Pau FC                   3-2 (2-1)
+           Rodez AF                v AS Saint-Étienne         1-1 (0-0)
+           SC Bastia               v Amiens SC                1-1 (1-1)
+           US Quevilly-Rouen       v FC Annecy                2-2 (0-1)
+           Valenciennes FC         v Girondins Bordeaux       0-2 (0-0)
+  Mon May/1
+    20.45  FC Sochaux              v Dijon FCO                0-2 (0-2)
+
+
+» Matchday 34
+  Sat May/6
+    15.00  Girondins Bordeaux      v SM Caen                  1-0 (1-0)
+    19.00  AS Saint-Étienne        v EA Guingamp              3-2 (1-2)
+           FC Annecy               v Dijon FCO                1-1 (0-0)
+           Chamois Niortais        v FC Metz                  1-3 (1-1)
+           Paris FC                v Grenoble Foot 38         1-0 (1-0)
+           Pau FC                  v US Quevilly-Rouen        3-4 (1-1)
+           Nîmes Olympique         v Valenciennes FC          3-3 (1-1)
+           Amiens SC               v FC Sochaux               1-0 (0-0)
+           Stade Lavallois         v SC Bastia                2-1 (2-0)
+  Mon May/8
+    20.45  Havre AC                v Rodez AF                 1-0 (0-0)
+
+
+» Matchday 35
+  Sat May/13
+    15.00  US Quevilly-Rouen       v Girondins Bordeaux       0-0
+    19.00  Dijon FCO               v Amiens SC                3-0 (2-0)
+           FC Metz                 v Grenoble Foot 38         1-0 (0-0)
+           FC Sochaux              v EA Guingamp              0-1 (0-0)
+           Valenciennes FC         v Pau FC                   1-1 (0-0)
+           Rodez AF                v Paris FC                 0-0
+           SC Bastia               v Chamois Niortais         2-1 (0-0)
+           SM Caen                 v Nîmes Olympique          4-2 (0-0)
+           Stade Lavallois         v AS Saint-Étienne         2-1 (1-1)
+  Mon May/15
+    20.45  FC Annecy               v Havre AC                 1-0 (0-0)
+
+
+» Matchday 36
+  Fri May/19
+    19.00  Grenoble Foot 38        v Rodez AF                 1-1 (1-1)
+  Sat May/20
+    14.45  Girondins Bordeaux      v Stade Lavallois          3-0 (2-0)
+    19.00  AS Saint-Étienne        v US Quevilly-Rouen        4-2 (1-1)
+           EA Guingamp             v FC Metz                  1-1 (0-1)
+           Chamois Niortais        v FC Annecy                2-2 (0-1)
+           Paris FC                v FC Sochaux               2-1 (0-1)
+           Pau FC                  v SC Bastia                2-6 (1-2)
+           Nîmes Olympique         v Dijon FCO                1-2 (1-0)
+           Amiens SC               v SM Caen                  1-3 (1-1)
+  Mon May/22
+    20.45  Havre AC                v Valenciennes FC          0-2 (0-2)
+
+
+» Matchday 37
+  Fri May/26
+    20.45  Dijon FCO               v Paris FC                 1-1 (0-0)
+           EA Guingamp             v Chamois Niortais         2-0 (1-0)
+           FC Sochaux              v FC Metz                  0-1 (0-0)
+           Valenciennes FC         v Grenoble Foot 38         1-0 (0-0)
+           Rodez AF                v Pau FC                   2-3 (1-3)
+           SC Bastia               v Havre AC                 1-1 (0-0)
+           SM Caen                 v AS Saint-Étienne         2-2 (0-2)
+           Stade Lavallois         v Nîmes Olympique          2-0 (2-0)
+           US Quevilly-Rouen       v Amiens SC                1-3 (1-0)
+           FC Annecy               v Girondins Bordeaux       1-0 (1-0)
+
+
+» Matchday 38
+  Fri Jun/2
+    20.45  Havre AC                v Dijon FCO                1-0 (1-0)
+           AS Saint-Étienne        v Valenciennes FC          2-0 (0-0)
+           Chamois Niortais        v US Quevilly-Rouen        3-3 (2-1)
+           FC Metz                 v SC Bastia                3-2 (1-0)
+           Paris FC                v FC Annecy                1-0 (0-0)
+           Pau FC                  v SM Caen                  1-0 (1-0)
+           Grenoble Foot 38        v EA Guingamp              0-2 (0-1)
+           Nîmes Olympique         v FC Sochaux               3-1 (1-1)
+           Amiens SC               v Stade Lavallois          1-2 (0-0)
+           Girondins Bordeaux      v Rodez AF                 0-1 (0-1)

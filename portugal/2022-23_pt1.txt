@@ -1,553 +1,546 @@
 = Portuguese Primeira Liga 2022/23
 
-
-Matchday 1
-[Fri Aug/5]
-  20.15  SL Benfica               4-0 (3-0)  FC Arouca
-[Sat Aug/6]
-  15.30  Rio Ave FC               0-1 (0-0)  FC Vizela
-  18.00  Estoril Praia            2-0 (2-0)  FC Famalicão
-  20.30  FC Porto                 5-1 (3-0)  CS Marítimo
-[Sun Aug/7]
-  15.30  CD Santa Clara           0-0  Casa Pia
-  18.00  SC Braga                 3-3 (2-2)  Sporting CP
-  20.30  Portimonense SC          0-1 (0-1)  Boavista FC
-         GD Chaves                0-1 (0-1)  Vitória de Guimarães
-[Mon Aug/8]
-  20.15  Gil Vicente FC           1-0 (0-0)  FC Paços de Ferreira
-
-
-Matchday 2
-[Fri Aug/12]
-  20.15  FC Famalicão             0-3 (0-2)  SC Braga
-[Sat Aug/13]
-  18.00  Casa Pia                 0-1 (0-0)  SL Benfica
-  20.30  Sporting CP              3-0 (1-0)  Rio Ave FC
-[Sun Aug/14]
-  15.30  Boavista FC              2-1 (0-1)  CD Santa Clara
-  18.00  FC Vizela                0-1 (0-0)  FC Porto
-  20.30  Vitória de Guimarães     1-0 (1-0)  Estoril Praia
-[Mon Aug/15]
-  15.30  CS Marítimo              1-2 (1-0)  GD Chaves
-  18.00  FC Arouca                1-0 (1-0)  Gil Vicente FC
-  20.30  FC Paços de Ferreira     0-3 (0-1)  Portimonense SC
-
-
-Matchday 3
-[Fri Aug/19]
-  20.15  Estoril Praia            2-2 (1-0)  Rio Ave FC
-[Sat Aug/20]
-  15.30  CD Santa Clara           1-2 (0-0)  FC Arouca
-  18.00  GD Chaves                1-1 (1-1)  FC Vizela
-  20.30  FC Porto                 3-0 (1-0)  Sporting CP
-[Sun Aug/21]
-  15.30  Casa Pia                 2-0 (0-0)  Boavista FC
-  18.00  SC Braga                 5-0 (2-0)  CS Marítimo
-  20.30  Portimonense SC          2-1 (0-0)  Vitória de Guimarães
-[Mon Aug/22]
-  20.15  Gil Vicente FC           0-0  FC Famalicão
-
-
-Matchday 4
-[Fri Aug/26]
-  20.15  FC Paços de Ferreira     0-3 (0-2)  Estoril Praia
-[Sat Aug/27]
-  15.30  CS Marítimo              0-1 (0-1)  Portimonense SC
-  18.00  Boavista FC              0-3 (0-1)  SL Benfica
-  20.30  Sporting CP              0-2 (0-0)  GD Chaves
-[Sun Aug/28]
-  15.30  FC Famalicão             1-0 (1-0)  CD Santa Clara
-  18.00  FC Arouca                0-6 (0-4)  SC Braga
-  20.30  Rio Ave FC               3-1 (3-0)  FC Porto
-[Mon Aug/29]
-  19.00  Vitória de Guimarães     0-1 (0-1)  Casa Pia
-  21.15  FC Vizela                2-2 (2-2)  Gil Vicente FC
-
-
-Matchday 3
-[Tue Aug/30]
-  20.15  SL Benfica               3-2 (2-1)  FC Paços de Ferreira
-
-
-Matchday 5
-[Fri Sep/2]
-  19.00  SL Benfica               2-1 (0-1)  FC Vizela
-  21.15  Estoril Praia            0-2 (0-2)  Sporting CP
-[Sat Sep/3]
-  15.30  SC Braga                 1-0 (0-0)  Vitória de Guimarães
-  20.30  Gil Vicente FC           0-2 (0-2)  FC Porto
-[Sun Sep/4]
-  15.30  Casa Pia                 0-0  FC Arouca
-  18.00  CD Santa Clara           2-1 (0-1)  CS Marítimo
-  20.30  Portimonense SC          1-0 (0-0)  FC Famalicão
-[Mon Sep/5]
-  19.00  Boavista FC              1-0 (0-0)  FC Paços de Ferreira
-  21.15  GD Chaves                1-1 (1-0)  Rio Ave FC
-
-
-Matchday 6
-[Fri Sep/9]
-  20.15  Vitória de Guimarães     1-0 (0-0)  CD Santa Clara
-[Sat Sep/10]
-  15.30  FC Famalicão             0-1 (0-0)  SL Benfica
-  18.00  Sporting CP              4-0 (2-0)  Portimonense SC
-  20.30  FC Porto                 3-0 (1-0)  GD Chaves
-[Sun Sep/11]
-  15.30  FC Paços de Ferreira     2-3 (1-0)  Casa Pia
-  18.00  FC Arouca                1-2 (1-1)  Boavista FC
-         CS Marítimo              1-2 (1-0)  Gil Vicente FC
-  20.30  Rio Ave FC               2-3 (0-2)  SC Braga
-[Mon Sep/12]
-  20.15  FC Vizela                0-1 (0-1)  Estoril Praia
-
-
-Matchday 7
-[Fri Sep/16]
-  20.15  Portimonense SC          1-0 (1-0)  GD Chaves
-[Sat Sep/17]
-  15.30  CD Santa Clara           1-1 (1-0)  FC Paços de Ferreira
-         Gil Vicente FC           2-2 (0-1)  Rio Ave FC
-  18.00  Estoril Praia            1-1 (1-0)  FC Porto
-  20.30  Boavista FC              2-1 (1-0)  Sporting CP
-[Sun Sep/18]
-  15.30  FC Arouca                2-2 (1-0)  Vitória de Guimarães
-  18.00  Casa Pia                 1-0 (0-0)  FC Famalicão
-         SL Benfica               5-0 (1-0)  CS Marítimo
-  20.30  SC Braga                 2-0 (0-0)  FC Vizela
-
-
-Matchday 8
-[Fri Sep/30]
-  19.00  Sporting CP              3-1 (2-0)  Gil Vicente FC
-  21.15  FC Porto                 4-1 (2-0)  SC Braga
-[Sat Oct/1]
-  15.30  FC Vizela                1-0 (1-0)  Portimonense SC
-  18.00  GD Chaves                1-1 (1-0)  Estoril Praia
-  20.30  Vitória de Guimarães     0-0  SL Benfica
-[Sun Oct/2]
-  15.30  Rio Ave FC               1-0 (1-0)  CD Santa Clara
-  18.00  FC Paços de Ferreira     1-1 (0-0)  FC Arouca
-  20.30  FC Famalicão             4-0 (2-0)  Boavista FC
-[Mon Oct/3]
-  20.15  CS Marítimo              1-2 (1-1)  Casa Pia
-
-
-Matchday 9
-[Fri Oct/7]
-  20.15  Gil Vicente FC           0-1 (0-0)  Estoril Praia
-[Sat Oct/8]
-  15.30  CD Santa Clara           1-2 (0-1)  Sporting CP
-  18.00  Portimonense SC          0-2 (0-1)  FC Porto
-         SL Benfica               4-2 (3-1)  Rio Ave FC
-  20.30  FC Paços de Ferreira     0-1 (0-1)  Vitória de Guimarães
-[Sun Oct/9]
-  15.30  Boavista FC              1-1 (1-0)  CS Marítimo
-  18.00  Casa Pia                 0-1 (0-0)  FC Vizela
-  20.30  SC Braga                 0-1 (0-1)  GD Chaves
-[Mon Oct/10]
-  20.15  FC Arouca                4-1 (1-1)  FC Famalicão
-
-
-Matchday 10
-[Fri Oct/21]
-  20.15  FC Porto                 0-1 (0-0)  SL Benfica
-[Sat Oct/22]
-  15.30  FC Famalicão             2-1 (1-1)  FC Paços de Ferreira
-  18.00  Estoril Praia            0-2 (0-2)  SC Braga
-  20.30  Sporting CP              3-1 (0-1)  Casa Pia
-[Sun Oct/23]
-  15.30  FC Vizela                0-1 (0-0)  CD Santa Clara
-         CS Marítimo              1-1 (1-1)  FC Arouca
-  18.00  GD Chaves                3-1 (0-1)  Gil Vicente FC
-  20.30  Vitória de Guimarães     3-2 (1-1)  Boavista FC
-[Mon Oct/24]
-  20.15  Rio Ave FC               1-0 (1-0)  Portimonense SC
-
-
-Matchday 11
-[Fri Oct/28]
-  20.15  FC Paços de Ferreira     0-1 (0-1)  CS Marítimo
-[Sat Oct/29]
-  15.30  CD Santa Clara           1-1 (0-1)  FC Porto
-  18.00  SL Benfica               5-0 (3-0)  GD Chaves
-  20.30  FC Arouca                1-0 (0-0)  Sporting CP
-[Sun Oct/30]
-  15.30  Portimonense SC          1-1 (0-1)  Estoril Praia
-         Boavista FC              2-2 (1-2)  FC Vizela
-  18.00  Casa Pia                 1-0 (0-0)  Rio Ave FC
-  20.30  Gil Vicente FC           0-1 (0-0)  SC Braga
-[Mon Oct/31]
-  20.15  Vitória de Guimarães     3-2 (1-0)  FC Famalicão
-
-
-Matchday 12
-[Fri Nov/4]
-  20.15  Gil Vicente FC           1-2 (1-1)  Portimonense SC
-[Sat Nov/5]
-  15.30  FC Vizela                0-1 (0-1)  FC Arouca
-  18.00  FC Porto                 4-0 (3-0)  FC Paços de Ferreira
-  20.30  Sporting CP              3-0 (2-0)  Vitória de Guimarães
-[Sun Nov/6]
-  15.30  Rio Ave FC               1-0 (0-0)  Boavista FC
-  18.00  SC Braga                 0-1 (0-1)  Casa Pia
-         CS Marítimo              0-0  FC Famalicão
-  20.30  Estoril Praia            1-5 (0-3)  SL Benfica
-[Mon Nov/7]
-  20.15  GD Chaves                0-0  CD Santa Clara
-
-
-Matchday 13
-[Sat Nov/12]
-  18.00  FC Arouca                0-1 (0-0)  Rio Ave FC
-  20.30  Boavista FC              1-4 (0-1)  FC Porto
-[Sun Nov/13]
-  15.30  FC Paços de Ferreira     0-2 (0-0)  FC Vizela
-         Vitória de Guimarães     1-0 (0-0)  CS Marítimo
-  18.00  SL Benfica               3-1 (2-1)  Gil Vicente FC
-         Portimonense SC          1-2 (1-0)  SC Braga
-         Casa Pia                 1-2 (1-0)  GD Chaves
-  20.30  FC Famalicão             1-2 (0-2)  Sporting CP
-[Mon Nov/14]
-  20.15  CD Santa Clara           3-1 (2-1)  Estoril Praia
-
-
-Matchday 14
-[Fri Dec/23]
-  20.15  Rio Ave FC               1-1 (1-1)  CS Marítimo
-[Wed Dec/28]
-  19.00  Portimonense SC          1-2 (1-1)  Casa Pia
-  21.15  FC Porto                 5-1 (3-0)  FC Arouca
-[Thu Dec/29]
-  17.00  Gil Vicente FC           1-0 (1-0)  CD Santa Clara
-  21.15  Sporting CP              3-0 (3-0)  FC Paços de Ferreira
-[Fri Dec/30]
-  17.00  GD Chaves                0-2 (0-1)  FC Famalicão
-  19.00  FC Vizela                3-0 (1-0)  Vitória de Guimarães
-  21.15  SC Braga                 3-0 (2-0)  SL Benfica
-
-
-Matchday 15
-[Thu Jan/5]
-  20.15  CD Santa Clara           0-4 (0-2)  SC Braga
-[Fri Jan/6]
-  19.00  SL Benfica               1-0 (1-0)  Portimonense SC
-  21.15  FC Famalicão             2-1 (1-0)  FC Vizela
-[Sat Jan/7]
-  15.30  FC Arouca                2-0 (1-0)  Estoril Praia
-  18.00  Vitória de Guimarães     0-0  Rio Ave FC
-  20.30  Casa Pia                 0-0  FC Porto
-[Sun Jan/8]
-  15.30  FC Paços de Ferreira     1-1 (0-0)  GD Chaves
-  18.00  CS Marítimo              1-0 (0-0)  Sporting CP
-  20.30  Boavista FC              1-0 (1-0)  Gil Vicente FC
-
-
-Matchday 16
-[Fri Jan/13]
-  20.15  Portimonense SC          0-0  CD Santa Clara
-[Sat Jan/14]
-  15.30  FC Vizela                3-0 (2-0)  CS Marítimo
-  18.00  Rio Ave FC               0-1 (0-1)  FC Paços de Ferreira
-  20.30  SC Braga                 1-0 (0-0)  Boavista FC
-[Sun Jan/15]
-  15.30  GD Chaves                1-1 (1-0)  FC Arouca
-  18.00  SL Benfica               2-2 (1-1)  Sporting CP
-  20.30  FC Porto                 4-1 (3-0)  FC Famalicão
-[Mon Jan/16]
-  19.00  Estoril Praia            2-0 (1-0)  Casa Pia
-  21.15  Gil Vicente FC           2-1 (1-1)  Vitória de Guimarães
-
-
-Matchday 17
-[Fri Jan/20]
-  19.00  FC Arouca                4-0 (2-0)  Portimonense SC
-  21.15  Sporting CP              2-1 (0-0)  FC Vizela
-[Sat Jan/21]
-  15.30  FC Paços de Ferreira     1-2 (0-0)  SC Braga
-  18.00  CD Santa Clara           0-3 (0-2)  SL Benfica
-  20.30  Vitória de Guimarães     0-1 (0-1)  FC Porto
-[Sun Jan/22]
-  15.30  CS Marítimo              1-0 (1-0)  Estoril Praia
-  18.00  Casa Pia                 1-3 (0-0)  Gil Vicente FC
-  20.30  FC Famalicão             0-0  Rio Ave FC
-[Mon Jan/23]
-  20.15  Boavista FC              1-1 (1-0)  GD Chaves
-
-
-Matchday 20
-[Thu Jan/26]
-  20.15  FC Paços de Ferreira     0-2 (0-2)  SL Benfica
-
-
-Matchday 18
-[Sun Jan/29]
-  15.30  FC Vizela                3-1 (0-1)  Rio Ave FC
-         Casa Pia                 2-1 (0-0)  CD Santa Clara
-  18.00  Boavista FC              4-2 (0-0)  Portimonense SC
-  20.30  FC Famalicão             1-0 (0-0)  Estoril Praia
-[Mon Jan/30]
-  20.15  Vitória de Guimarães     2-1 (1-0)  GD Chaves
-[Tue Jan/31]
-  19.00  FC Paços de Ferreira     2-1 (1-0)  Gil Vicente FC
-  21.15  FC Arouca                0-3 (0-1)  SL Benfica
-[Wed Feb/1]
-  19.00  CS Marítimo              0-2 (0-0)  FC Porto
-  21.15  Sporting CP              5-0 (1-0)  SC Braga
-
-
-Matchday 19
-[Sat Feb/4]
-  15.30  CD Santa Clara           2-2 (0-1)  Boavista FC
-  18.00  SL Benfica               3-0 (2-0)  Casa Pia
-  20.30  Estoril Praia            0-1 (0-1)  Vitória de Guimarães
-[Sun Feb/5]
-  15.30  GD Chaves                2-1 (2-1)  CS Marítimo
-         SC Braga                 4-1 (1-0)  FC Famalicão
-  18.00  FC Porto                 2-0 (1-0)  FC Vizela
-  20.30  Gil Vicente FC           1-1 (1-1)  FC Arouca
-[Mon Feb/6]
-  19.00  Portimonense SC          1-0 (0-0)  FC Paços de Ferreira
-  21.15  Rio Ave FC               0-1 (0-0)  Sporting CP
-
-
-Matchday 14
-[Thu Feb/9]
-  18.00  Estoril Praia            2-1 (0-1)  Boavista FC
-
-
-Matchday 20
-[Fri Feb/10]
-  20.15  FC Vizela                0-0  GD Chaves
-[Sat Feb/11]
-  18.00  FC Arouca                1-0 (0-0)  CD Santa Clara
-  20.30  Vitória de Guimarães     1-0 (1-0)  Portimonense SC
-[Sun Feb/12]
-  15.30  FC Famalicão             0-1 (0-0)  Gil Vicente FC
-  18.00  Sporting CP              1-2 (0-0)  FC Porto
-  20.30  CS Marítimo              1-2 (1-2)  SC Braga
-[Mon Feb/13]
-  19.00  Rio Ave FC               2-0 (0-0)  Estoril Praia
-  21.15  Boavista FC              0-0  Casa Pia
-
-
-Matchday 21
-[Fri Feb/17]
-  20.15  Gil Vicente FC           1-1 (0-0)  FC Vizela
-[Sat Feb/18]
-  18.00  Estoril Praia            1-3 (0-2)  FC Paços de Ferreira
-         Portimonense SC          2-1 (0-1)  CS Marítimo
-  20.30  FC Porto                 1-0 (1-0)  Rio Ave FC
-[Sun Feb/19]
-  15.30  CD Santa Clara           1-3 (0-0)  FC Famalicão
-  18.00  SC Braga                 2-0 (1-0)  FC Arouca
-  20.30  Casa Pia                 0-0  Vitória de Guimarães
-[Mon Feb/20]
-  19.00  GD Chaves                2-3 (1-1)  Sporting CP
-  21.15  SL Benfica               3-1 (0-0)  Boavista FC
-
-
-Matchday 22
-[Fri Feb/24]
-  20.15  FC Famalicão             1-0 (0-0)  Portimonense SC
-[Sat Feb/25]
-  15.30  FC Arouca                2-0 (0-0)  Casa Pia
-  18.00  CS Marítimo              3-1 (0-1)  CD Santa Clara
-  20.30  FC Vizela                0-2 (0-1)  SL Benfica
-[Sun Feb/26]
-  15.30  Rio Ave FC               1-0 (0-0)  GD Chaves
-  18.00  FC Paços de Ferreira     1-3 (0-1)  Boavista FC
-  20.30  FC Porto                 1-2 (1-2)  Gil Vicente FC
-[Mon Feb/27]
-  19.00  Sporting CP              2-0 (1-0)  Estoril Praia
-  21.15  Vitória de Guimarães     2-1 (2-0)  SC Braga
-
-
-Matchday 23
-[Fri Mar/3]
-  19.00  Boavista FC              0-0  FC Arouca
-  21.15  SL Benfica               2-0 (1-0)  FC Famalicão
-[Sat Mar/4]
-  15.30  Estoril Praia            0-3 (0-2)  FC Vizela
-  18.00  Portimonense SC          0-1 (0-0)  Sporting CP
-  20.30  GD Chaves                1-3 (0-2)  FC Porto
-[Sun Mar/5]
-  15.30  Gil Vicente FC           2-0 (1-0)  CS Marítimo
-  18.00  CD Santa Clara           1-3 (0-3)  Vitória de Guimarães
-  20.30  SC Braga                 2-0 (1-0)  Rio Ave FC
-[Mon Mar/6]
-  20.15  Casa Pia                 2-1 (0-1)  FC Paços de Ferreira
-
-
-Matchday 24
-[Fri Mar/10]
-  20.15  FC Porto                 3-2 (2-1)  Estoril Praia
-[Sat Mar/11]
-  15.30  FC Paços de Ferreira     1-0 (0-0)  CD Santa Clara
-         GD Chaves                2-0 (1-0)  Portimonense SC
-  18.00  Vitória de Guimarães     0-2 (0-0)  FC Arouca
-  20.30  FC Vizela                0-4 (0-1)  SC Braga
-[Sun Mar/12]
-  15.30  Rio Ave FC               2-1 (2-0)  Gil Vicente FC
-  18.00  CS Marítimo              0-3 (0-1)  SL Benfica
-  20.30  Sporting CP              3-0 (2-0)  Boavista FC
-[Mon Mar/13]
-  20.15  FC Famalicão             1-0 (1-0)  Casa Pia
-
-
-Matchday 25
-[Fri Mar/17]
-  20.15  CD Santa Clara           0-2 (0-0)  Rio Ave FC
-[Sat Mar/18]
-  15.30  Portimonense SC          0-1 (0-0)  FC Vizela
-  18.00  FC Arouca                1-1 (0-0)  FC Paços de Ferreira
-         SL Benfica               5-1 (3-0)  Vitória de Guimarães
-  20.30  Estoril Praia            0-2 (0-1)  GD Chaves
-[Sun Mar/19]
-  15.30  Casa Pia                 2-0 (1-0)  CS Marítimo
-  18.00  SC Braga                 0-0  FC Porto
-  20.30  Boavista FC              1-2 (0-0)  FC Famalicão
-
-
-Matchday 26
-[Fri Mar/31]
-  20.15  Estoril Praia            1-0 (1-0)  Gil Vicente FC
-[Sat Apr/1]
-  15.30  FC Vizela                3-1 (1-1)  Casa Pia
-  18.00  Vitória de Guimarães     0-0  FC Paços de Ferreira
-  20.30  Sporting CP              3-0 (2-0)  CD Santa Clara
-[Sun Apr/2]
-  15.30  CS Marítimo              4-2 (2-0)  Boavista FC
-         GD Chaves                1-2 (1-1)  SC Braga
-  18.00  Rio Ave FC               0-1 (0-0)  SL Benfica
-  20.30  FC Porto                 1-0 (1-0)  Portimonense SC
-[Mon Apr/3]
-  20.15  FC Famalicão             0-1 (0-0)  FC Arouca
-
-
-Matchday 25
-[Wed Apr/5]
-  20.15  Gil Vicente FC           0-0  Sporting CP
-
-
-Matchday 27
-[Fri Apr/7]
-  15.30  CD Santa Clara           0-1 (0-1)  FC Vizela
-  18.00  SL Benfica               1-2 (1-1)  FC Porto
-  20.30  Boavista FC              2-1 (1-0)  Vitória de Guimarães
-[Sat Apr/8]
-  15.30  FC Arouca                1-0 (1-0)  CS Marítimo
-  18.00  Portimonense SC          2-2 (0-1)  Rio Ave FC
-         FC Paços de Ferreira     1-3 (1-1)  FC Famalicão
-  20.30  SC Braga                 4-1 (1-0)  Estoril Praia
-[Sun Apr/9]
-  18.00  Casa Pia                 3-4 (2-2)  Sporting CP
-[Mon Apr/10]
-  20.15  Gil Vicente FC           0-0  GD Chaves
-
-
-Matchday 28
-[Fri Apr/14]
-  20.15  FC Famalicão             2-1 (1-0)  Vitória de Guimarães
-[Sat Apr/15]
-  15.30  CS Marítimo              3-1 (2-0)  FC Paços de Ferreira
-         Estoril Praia            0-1 (0-0)  Portimonense SC
-  18.00  GD Chaves                1-0 (0-0)  SL Benfica
-  20.30  FC Porto                 2-1 (1-0)  CD Santa Clara
-[Sun Apr/16]
-  15.30  Rio Ave FC               1-1 (0-1)  Casa Pia
-  18.00  SC Braga                 1-0 (1-0)  Gil Vicente FC
-  20.30  Sporting CP              1-1 (0-1)  FC Arouca
-[Mon Apr/17]
-  20.15  FC Vizela                1-1 (0-0)  Boavista FC
-
-
-Matchday 29
-[Fri Apr/21]
-  20.15  Casa Pia                 0-1 (0-0)  SC Braga
-[Sat Apr/22]
-  15.30  FC Famalicão             3-2 (0-2)  CS Marítimo
-  18.00  Boavista FC              3-2 (3-1)  Rio Ave FC
-  20.30  FC Paços de Ferreira     0-2 (0-0)  FC Porto
-[Sun Apr/23]
-  15.30  Portimonense SC          1-0 (0-0)  Gil Vicente FC
-  18.00  SL Benfica               1-0 (1-0)  Estoril Praia
-         CD Santa Clara           1-1 (0-0)  GD Chaves
-  20.30  FC Arouca                1-0 (1-0)  FC Vizela
-[Mon Apr/24]
-  20.15  Vitória de Guimarães     0-2 (0-0)  Sporting CP
-
-
-Matchday 30
-[Fri Apr/28]
-  20.15  Rio Ave FC               1-0 (0-0)  FC Arouca
-[Sat Apr/29]
-  15.30  SC Braga                 4-1 (3-1)  Portimonense SC
-         CS Marítimo              1-2 (0-1)  Vitória de Guimarães
-  18.00  GD Chaves                1-0 (1-0)  Casa Pia
-         FC Vizela                1-2 (0-2)  FC Paços de Ferreira
-  20.30  Gil Vicente FC           0-2 (0-0)  SL Benfica
-[Sun Apr/30]
-  15.30  Estoril Praia            3-0 (2-0)  CD Santa Clara
-  18.00  FC Porto                 1-0 (0-0)  Boavista FC
-  20.30  Sporting CP              2-1 (1-0)  FC Famalicão
-
-
-Matchday 31
-[Fri May/5]
-  20.15  Casa Pia                 1-1 (0-0)  Portimonense SC
-[Sat May/6]
-  15.30  CD Santa Clara           3-2 (2-0)  Gil Vicente FC
-  18.00  Boavista FC              1-0 (0-0)  Estoril Praia
-  20.30  SL Benfica               1-0 (0-0)  SC Braga
-[Sun May/7]
-  15.30  CS Marítimo              2-2 (1-2)  Rio Ave FC
-  18.00  Vitória de Guimarães     3-0 (2-0)  FC Vizela
-  20.30  FC Paços de Ferreira     0-4 (0-2)  Sporting CP
-[Mon May/8]
-  19.00  FC Famalicão             1-2 (0-0)  GD Chaves
-  21.15  FC Arouca                0-1 (0-1)  FC Porto
-
-
-Matchday 32
-[Fri May/12]
-  20.15  Gil Vicente FC           3-1 (1-0)  Boavista FC
-[Sat May/13]
-  15.30  GD Chaves                2-0 (0-0)  FC Paços de Ferreira
-         FC Vizela                0-0  FC Famalicão
-  18.00  Portimonense SC          1-5 (1-3)  SL Benfica
-  20.30  Sporting CP              2-1 (0-1)  CS Marítimo
-[Sun May/14]
-  15.30  Rio Ave FC               0-1 (0-0)  Vitória de Guimarães
-  18.00  SC Braga                 5-3 (3-1)  CD Santa Clara
-  20.30  FC Porto                 2-1 (0-1)  Casa Pia
-[Mon May/15]
-  20.15  Estoril Praia            2-0 (0-0)  FC Arouca
-
-
-Matchday 33
-[Fri May/19]
-  20.15  CS Marítimo              1-0 (0-0)  FC Vizela
-[Sat May/20]
-  15.30  FC Arouca                1-0 (0-0)  GD Chaves
-         CD Santa Clara           1-0 (1-0)  Portimonense SC
-  18.00  Boavista FC              1-1 (0-0)  SC Braga
-  20.30  FC Famalicão             2-4 (2-2)  FC Porto
-[Sun May/21]
-  15.30  Vitória de Guimarães     1-0 (0-0)  Gil Vicente FC
-  18.00  FC Paços de Ferreira     3-1 (1-1)  Rio Ave FC
-         Casa Pia                 2-2 (0-0)  Estoril Praia
-  20.30  Sporting CP              2-2 (2-0)  SL Benfica
-
-
-Matchday 34
-[Fri May/26]
-  19.00  Rio Ave FC               2-2 (0-2)  FC Famalicão
-  21.15  FC Vizela                1-2 (1-1)  Sporting CP
-[Sat May/27]
-  12.45  Gil Vicente FC           1-0 (0-0)  Casa Pia
-  15.30  GD Chaves                1-4 (0-2)  Boavista FC
-         Estoril Praia            3-1 (1-0)  CS Marítimo
-  18.00  FC Porto                 3-0 (3-0)  Vitória de Guimarães
-         Portimonense SC          0-2 (0-0)  FC Arouca
-         SL Benfica               3-0 (2-0)  CD Santa Clara
-  20.30  SC Braga                 3-0 (2-0)  FC Paços de Ferreira
+# Date       Fri Aug/5 2022 - Sat May/27 2023 (295d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/5 2022
+    20.15  SL Benfica              v FC Arouca                4-0 (3-0)
+  Sat Aug/6
+    15.30  Rio Ave FC              v FC Vizela                0-1 (0-0)
+    18.00  GD Estoril              v FC Famalicão             2-0 (2-0)
+    20.30  FC Porto                v CS Marítimo              5-1 (3-0)
+  Sun Aug/7
+    15.30  CD Santa Clara          v Casa Pia AC              0-0
+    18.00  Sporting Braga          v Sporting CP              3-3 (2-2)
+    20.30  Portimonense SC         v Boavista                 0-1 (0-1)
+           GD Chaves               v Vitória Guimarães        0-1 (0-1)
+  Mon Aug/8
+    20.15  Gil Vicente             v Paços de Ferreira        1-0 (0-0)
+
+
+» Matchday 2
+  Fri Aug/12
+    20.15  FC Famalicão            v Sporting Braga           0-3 (0-2)
+  Sat Aug/13
+    18.00  Casa Pia AC             v SL Benfica               0-1 (0-0)
+    20.30  Sporting CP             v Rio Ave FC               3-0 (1-0)
+  Sun Aug/14
+    15.30  Boavista                v CD Santa Clara           2-1 (0-1)
+    18.00  FC Vizela               v FC Porto                 0-1 (0-0)
+    20.30  Vitória Guimarães       v GD Estoril               1-0 (1-0)
+  Mon Aug/15
+    15.30  CS Marítimo             v GD Chaves                1-2 (1-0)
+    18.00  FC Arouca               v Gil Vicente              1-0 (1-0)
+    20.30  Paços de Ferreira       v Portimonense SC          0-3 (0-1)
+
+
+» Matchday 3
+  Fri Aug/19
+    20.15  GD Estoril              v Rio Ave FC               2-2 (1-0)
+  Sat Aug/20
+    15.30  CD Santa Clara          v FC Arouca                1-2 (0-0)
+    18.00  GD Chaves               v FC Vizela                1-1 (1-1)
+    20.30  FC Porto                v Sporting CP              3-0 (1-0)
+  Sun Aug/21
+    15.30  Casa Pia AC             v Boavista                 2-0 (0-0)
+    18.00  Sporting Braga          v CS Marítimo              5-0 (2-0)
+    20.30  Portimonense SC         v Vitória Guimarães        2-1 (0-0)
+  Mon Aug/22
+    20.15  Gil Vicente             v FC Famalicão             0-0
+  Tue Aug/30
+    20.15  SL Benfica              v Paços de Ferreira        3-2 (2-1)
+
+
+» Matchday 4
+  Fri Aug/26
+    20.15  Paços de Ferreira       v GD Estoril               0-3 (0-2)
+  Sat Aug/27
+    15.30  CS Marítimo             v Portimonense SC          0-1 (0-1)
+    18.00  Boavista                v SL Benfica               0-3 (0-1)
+    20.30  Sporting CP             v GD Chaves                0-2 (0-0)
+  Sun Aug/28
+    15.30  FC Famalicão            v CD Santa Clara           1-0 (1-0)
+    18.00  FC Arouca               v Sporting Braga           0-6 (0-4)
+    20.30  Rio Ave FC              v FC Porto                 3-1 (3-0)
+  Mon Aug/29
+    19.00  Vitória Guimarães       v Casa Pia AC              0-1 (0-1)
+    21.15  FC Vizela               v Gil Vicente              2-2 (2-2)
+
+
+» Matchday 5
+  Fri Sep/2
+    19.00  SL Benfica              v FC Vizela                2-1 (0-1)
+    21.15  GD Estoril              v Sporting CP              0-2 (0-2)
+  Sat Sep/3
+    15.30  Sporting Braga          v Vitória Guimarães        1-0 (0-0)
+    20.30  Gil Vicente             v FC Porto                 0-2 (0-2)
+  Sun Sep/4
+    15.30  Casa Pia AC             v FC Arouca                0-0
+    18.00  CD Santa Clara          v CS Marítimo              2-1 (0-1)
+    20.30  Portimonense SC         v FC Famalicão             1-0 (0-0)
+  Mon Sep/5
+    19.00  Boavista                v Paços de Ferreira        1-0 (0-0)
+    21.15  GD Chaves               v Rio Ave FC               1-1 (1-0)
+
+
+» Matchday 6
+  Fri Sep/9
+    20.15  Vitória Guimarães       v CD Santa Clara           1-0 (0-0)
+  Sat Sep/10
+    15.30  FC Famalicão            v SL Benfica               0-1 (0-0)
+    18.00  Sporting CP             v Portimonense SC          4-0 (2-0)
+    20.30  FC Porto                v GD Chaves                3-0 (1-0)
+  Sun Sep/11
+    15.30  Paços de Ferreira       v Casa Pia AC              2-3 (1-0)
+    18.00  FC Arouca               v Boavista                 1-2 (1-1)
+           CS Marítimo             v Gil Vicente              1-2 (1-0)
+    20.30  Rio Ave FC              v Sporting Braga           2-3 (0-2)
+  Mon Sep/12
+    20.15  FC Vizela               v GD Estoril               0-1 (0-1)
+
+
+» Matchday 7
+  Fri Sep/16
+    20.15  Portimonense SC         v GD Chaves                1-0 (1-0)
+  Sat Sep/17
+    15.30  CD Santa Clara          v Paços de Ferreira        1-1 (1-0)
+           Gil Vicente             v Rio Ave FC               2-2 (0-1)
+    18.00  GD Estoril              v FC Porto                 1-1 (1-0)
+    20.30  Boavista                v Sporting CP              2-1 (1-0)
+  Sun Sep/18
+    15.30  FC Arouca               v Vitória Guimarães        2-2 (1-0)
+    18.00  SL Benfica              v CS Marítimo              5-0 (1-0)
+           Casa Pia AC             v FC Famalicão             1-0 (0-0)
+    20.30  Sporting Braga          v FC Vizela                2-0 (0-0)
+
+
+» Matchday 8
+  Fri Sep/30
+    19.00  Sporting CP             v Gil Vicente              3-1 (2-0)
+    21.15  FC Porto                v Sporting Braga           4-1 (2-0)
+  Sat Oct/1
+    15.30  FC Vizela               v Portimonense SC          1-0 (1-0)
+    18.00  GD Chaves               v GD Estoril               1-1 (1-0)
+    20.30  Vitória Guimarães       v SL Benfica               0-0
+  Sun Oct/2
+    15.30  Rio Ave FC              v CD Santa Clara           1-0 (1-0)
+    18.00  Paços de Ferreira       v FC Arouca                1-1 (0-0)
+    20.30  FC Famalicão            v Boavista                 4-0 (2-0)
+  Mon Oct/3
+    20.15  CS Marítimo             v Casa Pia AC              1-2 (1-1)
+
+
+» Matchday 9
+  Fri Oct/7
+    20.15  Gil Vicente             v GD Estoril               0-1 (0-0)
+  Sat Oct/8
+    15.30  CD Santa Clara          v Sporting CP              1-2 (0-1)
+    18.00  SL Benfica              v Rio Ave FC               4-2 (3-1)
+           Portimonense SC         v FC Porto                 0-2 (0-1)
+    20.30  Paços de Ferreira       v Vitória Guimarães        0-1 (0-1)
+  Sun Oct/9
+    15.30  Boavista                v CS Marítimo              1-1 (1-0)
+    18.00  Casa Pia AC             v FC Vizela                0-1 (0-0)
+    20.30  Sporting Braga          v GD Chaves                0-1 (0-1)
+  Mon Oct/10
+    20.15  FC Arouca               v FC Famalicão             4-1 (1-1)
+
+
+» Matchday 10
+  Fri Oct/21
+    20.15  FC Porto                v SL Benfica               0-1 (0-0)
+  Sat Oct/22
+    15.30  FC Famalicão            v Paços de Ferreira        2-1 (1-1)
+    18.00  GD Estoril              v Sporting Braga           0-2 (0-2)
+    20.30  Sporting CP             v Casa Pia AC              3-1 (0-1)
+  Sun Oct/23
+    15.30  FC Vizela               v CD Santa Clara           0-1 (0-0)
+           CS Marítimo             v FC Arouca                1-1 (1-1)
+    18.00  GD Chaves               v Gil Vicente              3-1 (0-1)
+    20.30  Vitória Guimarães       v Boavista                 3-2 (1-1)
+  Mon Oct/24
+    20.15  Rio Ave FC              v Portimonense SC          1-0 (1-0)
+
+
+» Matchday 11
+  Fri Oct/28
+    20.15  Paços de Ferreira       v CS Marítimo              0-1 (0-1)
+  Sat Oct/29
+    15.30  CD Santa Clara          v FC Porto                 1-1 (0-1)
+    18.00  SL Benfica              v GD Chaves                5-0 (3-0)
+    20.30  FC Arouca               v Sporting CP              1-0 (0-0)
+  Sun Oct/30
+    15.30  Boavista                v FC Vizela                2-2 (1-2)
+           Portimonense SC         v GD Estoril               1-1 (0-1)
+    18.00  Casa Pia AC             v Rio Ave FC               1-0 (0-0)
+    20.30  Gil Vicente             v Sporting Braga           0-1 (0-0)
+  Mon Oct/31
+    20.15  Vitória Guimarães       v FC Famalicão             3-2 (1-0)
+
+
+» Matchday 12
+  Fri Nov/4
+    20.15  Gil Vicente             v Portimonense SC          1-2 (1-1)
+  Sat Nov/5
+    15.30  FC Vizela               v FC Arouca                0-1 (0-1)
+    18.00  FC Porto                v Paços de Ferreira        4-0 (3-0)
+    20.30  Sporting CP             v Vitória Guimarães        3-0 (2-0)
+  Sun Nov/6
+    15.30  Rio Ave FC              v Boavista                 1-0 (0-0)
+    18.00  CS Marítimo             v FC Famalicão             0-0
+           Sporting Braga          v Casa Pia AC              0-1 (0-1)
+    20.30  GD Estoril              v SL Benfica               1-5 (0-3)
+  Mon Nov/7
+    20.15  GD Chaves               v CD Santa Clara           0-0
+
+
+» Matchday 13
+  Sat Nov/12
+    18.00  FC Arouca               v Rio Ave FC               0-1 (0-0)
+    20.30  Boavista                v FC Porto                 1-4 (0-1)
+  Sun Nov/13
+    15.30  Paços de Ferreira       v FC Vizela                0-2 (0-0)
+           Vitória Guimarães       v CS Marítimo              1-0 (0-0)
+    18.00  SL Benfica              v Gil Vicente              3-1 (2-1)
+           Casa Pia AC             v GD Chaves                1-2 (1-0)
+           Portimonense SC         v Sporting Braga           1-2 (1-0)
+    20.30  FC Famalicão            v Sporting CP              1-2 (0-2)
+  Mon Nov/14
+    20.15  CD Santa Clara          v GD Estoril               3-1 (2-1)
+
+
+» Matchday 14
+  Fri Dec/23
+    20.15  Rio Ave FC              v CS Marítimo              1-1 (1-1)
+  Wed Dec/28
+    19.00  Portimonense SC         v Casa Pia AC              1-2 (1-1)
+    21.15  FC Porto                v FC Arouca                5-1 (3-0)
+  Thu Dec/29
+    17.00  Gil Vicente             v CD Santa Clara           1-0 (1-0)
+    21.15  Sporting CP             v Paços de Ferreira        3-0 (3-0)
+  Fri Dec/30
+    17.00  GD Chaves               v FC Famalicão             0-2 (0-1)
+    19.00  FC Vizela               v Vitória Guimarães        3-0 (1-0)
+    21.15  Sporting Braga          v SL Benfica               3-0 (2-0)
+  Thu Feb/9 2023
+    18.00  GD Estoril              v Boavista                 2-1 (0-1)
+
+
+» Matchday 15
+  Thu Jan/5
+    20.15  CD Santa Clara          v Sporting Braga           0-4 (0-2)
+  Fri Jan/6
+    19.00  SL Benfica              v Portimonense SC          1-0 (1-0)
+    21.15  FC Famalicão            v FC Vizela                2-1 (1-0)
+  Sat Jan/7
+    15.30  FC Arouca               v GD Estoril               2-0 (1-0)
+    18.00  Vitória Guimarães       v Rio Ave FC               0-0
+    20.30  Casa Pia AC             v FC Porto                 0-0
+  Sun Jan/8
+    15.30  Paços de Ferreira       v GD Chaves                1-1 (0-0)
+    18.00  CS Marítimo             v Sporting CP              1-0 (0-0)
+    20.30  Boavista                v Gil Vicente              1-0 (1-0)
+
+
+» Matchday 16
+  Fri Jan/13
+    20.15  Portimonense SC         v CD Santa Clara           0-0
+  Sat Jan/14
+    15.30  FC Vizela               v CS Marítimo              3-0 (2-0)
+    18.00  Rio Ave FC              v Paços de Ferreira        0-1 (0-1)
+    20.30  Sporting Braga          v Boavista                 1-0 (0-0)
+  Sun Jan/15
+    15.30  GD Chaves               v FC Arouca                1-1 (1-0)
+    18.00  SL Benfica              v Sporting CP              2-2 (1-1)
+    20.30  FC Porto                v FC Famalicão             4-1 (3-0)
+  Mon Jan/16
+    19.00  GD Estoril              v Casa Pia AC              2-0 (1-0)
+    21.15  Gil Vicente             v Vitória Guimarães        2-1 (1-1)
+
+
+» Matchday 17
+  Fri Jan/20
+    19.00  FC Arouca               v Portimonense SC          4-0 (2-0)
+    21.15  Sporting CP             v FC Vizela                2-1 (0-0)
+  Sat Jan/21
+    15.30  Paços de Ferreira       v Sporting Braga           1-2 (0-0)
+    18.00  CD Santa Clara          v SL Benfica               0-3 (0-2)
+    20.30  Vitória Guimarães       v FC Porto                 0-1 (0-1)
+  Sun Jan/22
+    15.30  CS Marítimo             v GD Estoril               1-0 (1-0)
+    18.00  Casa Pia AC             v Gil Vicente              1-3 (0-0)
+    20.30  FC Famalicão            v Rio Ave FC               0-0
+  Mon Jan/23
+    20.15  Boavista                v GD Chaves                1-1 (1-0)
+
+
+» Matchday 18
+  Sun Jan/29
+    15.30  Casa Pia AC             v CD Santa Clara           2-1 (0-0)
+           FC Vizela               v Rio Ave FC               3-1 (0-1)
+    18.00  Boavista                v Portimonense SC          4-2 (0-0)
+    20.30  FC Famalicão            v GD Estoril               1-0 (0-0)
+  Mon Jan/30
+    20.15  Vitória Guimarães       v GD Chaves                2-1 (1-0)
+  Tue Jan/31
+    19.00  Paços de Ferreira       v Gil Vicente              2-1 (1-0)
+    21.15  FC Arouca               v SL Benfica               0-3 (0-1)
+  Wed Feb/1
+    19.00  CS Marítimo             v FC Porto                 0-2 (0-0)
+    21.15  Sporting CP             v Sporting Braga           5-0 (1-0)
+
+
+» Matchday 19
+  Sat Feb/4
+    15.30  CD Santa Clara          v Boavista                 2-2 (0-1)
+    18.00  SL Benfica              v Casa Pia AC              3-0 (2-0)
+    20.30  GD Estoril              v Vitória Guimarães        0-1 (0-1)
+  Sun Feb/5
+    15.30  GD Chaves               v CS Marítimo              2-1 (2-1)
+           Sporting Braga          v FC Famalicão             4-1 (1-0)
+    18.00  FC Porto                v FC Vizela                2-0 (1-0)
+    20.30  Gil Vicente             v FC Arouca                1-1 (1-1)
+  Mon Feb/6
+    19.00  Portimonense SC         v Paços de Ferreira        1-0 (0-0)
+    21.15  Rio Ave FC              v Sporting CP              0-1 (0-0)
+
+
+» Matchday 20
+  Thu Jan/26
+    20.15  Paços de Ferreira       v SL Benfica               0-2 (0-2)
+  Fri Feb/10
+    20.15  FC Vizela               v GD Chaves                0-0
+  Sat Feb/11
+    18.00  FC Arouca               v CD Santa Clara           1-0 (0-0)
+    20.30  Vitória Guimarães       v Portimonense SC          1-0 (1-0)
+  Sun Feb/12
+    15.30  FC Famalicão            v Gil Vicente              0-1 (0-0)
+    18.00  Sporting CP             v FC Porto                 1-2 (0-0)
+    20.30  CS Marítimo             v Sporting Braga           1-2 (1-2)
+  Mon Feb/13
+    19.00  Rio Ave FC              v GD Estoril               2-0 (0-0)
+    21.15  Boavista                v Casa Pia AC              0-0
+
+
+» Matchday 21
+  Fri Feb/17
+    20.15  Gil Vicente             v FC Vizela                1-1 (0-0)
+  Sat Feb/18
+    18.00  GD Estoril              v Paços de Ferreira        1-3 (0-2)
+           Portimonense SC         v CS Marítimo              2-1 (0-1)
+    20.30  FC Porto                v Rio Ave FC               1-0 (1-0)
+  Sun Feb/19
+    15.30  CD Santa Clara          v FC Famalicão             1-3 (0-0)
+    18.00  Sporting Braga          v FC Arouca                2-0 (1-0)
+    20.30  Casa Pia AC             v Vitória Guimarães        0-0
+  Mon Feb/20
+    19.00  GD Chaves               v Sporting CP              2-3 (1-1)
+    21.15  SL Benfica              v Boavista                 3-1 (0-0)
+
+
+» Matchday 22
+  Fri Feb/24
+    20.15  FC Famalicão            v Portimonense SC          1-0 (0-0)
+  Sat Feb/25
+    15.30  FC Arouca               v Casa Pia AC              2-0 (0-0)
+    18.00  CS Marítimo             v CD Santa Clara           3-1 (0-1)
+    20.30  FC Vizela               v SL Benfica               0-2 (0-1)
+  Sun Feb/26
+    15.30  Rio Ave FC              v GD Chaves                1-0 (0-0)
+    18.00  Paços de Ferreira       v Boavista                 1-3 (0-1)
+    20.30  FC Porto                v Gil Vicente              1-2 (1-2)
+  Mon Feb/27
+    19.00  Sporting CP             v GD Estoril               2-0 (1-0)
+    21.15  Vitória Guimarães       v Sporting Braga           2-1 (2-0)
+
+
+» Matchday 23
+  Fri Mar/3
+    19.00  Boavista                v FC Arouca                0-0
+    21.15  SL Benfica              v FC Famalicão             2-0 (1-0)
+  Sat Mar/4
+    15.30  GD Estoril              v FC Vizela                0-3 (0-2)
+    18.00  Portimonense SC         v Sporting CP              0-1 (0-0)
+    20.30  GD Chaves               v FC Porto                 1-3 (0-2)
+  Sun Mar/5
+    15.30  Gil Vicente             v CS Marítimo              2-0 (1-0)
+    18.00  CD Santa Clara          v Vitória Guimarães        1-3 (0-3)
+    20.30  Sporting Braga          v Rio Ave FC               2-0 (1-0)
+  Mon Mar/6
+    20.15  Casa Pia AC             v Paços de Ferreira        2-1 (0-1)
+
+
+» Matchday 24
+  Fri Mar/10
+    20.15  FC Porto                v GD Estoril               3-2 (2-1)
+  Sat Mar/11
+    15.30  GD Chaves               v Portimonense SC          2-0 (1-0)
+           Paços de Ferreira       v CD Santa Clara           1-0 (0-0)
+    18.00  Vitória Guimarães       v FC Arouca                0-2 (0-0)
+    20.30  FC Vizela               v Sporting Braga           0-4 (0-1)
+  Sun Mar/12
+    15.30  Rio Ave FC              v Gil Vicente              2-1 (2-0)
+    18.00  CS Marítimo             v SL Benfica               0-3 (0-1)
+    20.30  Sporting CP             v Boavista                 3-0 (2-0)
+  Mon Mar/13
+    20.15  FC Famalicão            v Casa Pia AC              1-0 (1-0)
+
+
+» Matchday 25
+  Fri Mar/17
+    20.15  CD Santa Clara          v Rio Ave FC               0-2 (0-0)
+  Sat Mar/18
+    15.30  Portimonense SC         v FC Vizela                0-1 (0-0)
+    18.00  SL Benfica              v Vitória Guimarães        5-1 (3-0)
+           FC Arouca               v Paços de Ferreira        1-1 (0-0)
+    20.30  GD Estoril              v GD Chaves                0-2 (0-1)
+  Sun Mar/19
+    15.30  Casa Pia AC             v CS Marítimo              2-0 (1-0)
+    18.00  Sporting Braga          v FC Porto                 0-0
+    20.30  Boavista                v FC Famalicão             1-2 (0-0)
+  Wed Apr/5
+    20.15  Gil Vicente             v Sporting CP              0-0
+
+
+» Matchday 26
+  Fri Mar/31
+    20.15  GD Estoril              v Gil Vicente              1-0 (1-0)
+  Sat Apr/1
+    15.30  FC Vizela               v Casa Pia AC              3-1 (1-1)
+    18.00  Vitória Guimarães       v Paços de Ferreira        0-0
+    20.30  Sporting CP             v CD Santa Clara           3-0 (2-0)
+  Sun Apr/2
+    15.30  GD Chaves               v Sporting Braga           1-2 (1-1)
+           CS Marítimo             v Boavista                 4-2 (2-0)
+    18.00  Rio Ave FC              v SL Benfica               0-1 (0-0)
+    20.30  FC Porto                v Portimonense SC          1-0 (1-0)
+  Mon Apr/3
+    20.15  FC Famalicão            v FC Arouca                0-1 (0-0)
+
+
+» Matchday 27
+  Fri Apr/7
+    15.30  CD Santa Clara          v FC Vizela                0-1 (0-1)
+    18.00  SL Benfica              v FC Porto                 1-2 (1-1)
+    20.30  Boavista                v Vitória Guimarães        2-1 (1-0)
+  Sat Apr/8
+    15.30  FC Arouca               v CS Marítimo              1-0 (1-0)
+    18.00  Paços de Ferreira       v FC Famalicão             1-3 (1-1)
+           Portimonense SC         v Rio Ave FC               2-2 (0-1)
+    20.30  Sporting Braga          v GD Estoril               4-1 (1-0)
+  Sun Apr/9
+    18.00  Casa Pia AC             v Sporting CP              3-4 (2-2)
+  Mon Apr/10
+    20.15  Gil Vicente             v GD Chaves                0-0
+
+
+» Matchday 28
+  Fri Apr/14
+    20.15  FC Famalicão            v Vitória Guimarães        2-1 (1-0)
+  Sat Apr/15
+    15.30  GD Estoril              v Portimonense SC          0-1 (0-0)
+           CS Marítimo             v Paços de Ferreira        3-1 (2-0)
+    18.00  GD Chaves               v SL Benfica               1-0 (0-0)
+    20.30  FC Porto                v CD Santa Clara           2-1 (1-0)
+  Sun Apr/16
+    15.30  Rio Ave FC              v Casa Pia AC              1-1 (0-1)
+    18.00  Sporting Braga          v Gil Vicente              1-0 (1-0)
+    20.30  Sporting CP             v FC Arouca                1-1 (0-1)
+  Mon Apr/17
+    20.15  FC Vizela               v Boavista                 1-1 (0-0)
+
+
+» Matchday 29
+  Fri Apr/21
+    20.15  Casa Pia AC             v Sporting Braga           0-1 (0-0)
+  Sat Apr/22
+    15.30  FC Famalicão            v CS Marítimo              3-2 (0-2)
+    18.00  Boavista                v Rio Ave FC               3-2 (3-1)
+    20.30  Paços de Ferreira       v FC Porto                 0-2 (0-0)
+  Sun Apr/23
+    15.30  Portimonense SC         v Gil Vicente              1-0 (0-0)
+    18.00  SL Benfica              v GD Estoril               1-0 (1-0)
+           CD Santa Clara          v GD Chaves                1-1 (0-0)
+    20.30  FC Arouca               v FC Vizela                1-0 (1-0)
+  Mon Apr/24
+    20.15  Vitória Guimarães       v Sporting CP              0-2 (0-0)
+
+
+» Matchday 30
+  Fri Apr/28
+    20.15  Rio Ave FC              v FC Arouca                1-0 (0-0)
+  Sat Apr/29
+    15.30  CS Marítimo             v Vitória Guimarães        1-2 (0-1)
+           Sporting Braga          v Portimonense SC          4-1 (3-1)
+    18.00  FC Vizela               v Paços de Ferreira        1-2 (0-2)
+           GD Chaves               v Casa Pia AC              1-0 (1-0)
+    20.30  Gil Vicente             v SL Benfica               0-2 (0-0)
+  Sun Apr/30
+    15.30  GD Estoril              v CD Santa Clara           3-0 (2-0)
+    18.00  FC Porto                v Boavista                 1-0 (0-0)
+    20.30  Sporting CP             v FC Famalicão             2-1 (1-0)
+
+
+» Matchday 31
+  Fri May/5
+    20.15  Casa Pia AC             v Portimonense SC          1-1 (0-0)
+  Sat May/6
+    15.30  CD Santa Clara          v Gil Vicente              3-2 (2-0)
+    18.00  Boavista                v GD Estoril               1-0 (0-0)
+    20.30  SL Benfica              v Sporting Braga           1-0 (0-0)
+  Sun May/7
+    15.30  CS Marítimo             v Rio Ave FC               2-2 (1-2)
+    18.00  Vitória Guimarães       v FC Vizela                3-0 (2-0)
+    20.30  Paços de Ferreira       v Sporting CP              0-4 (0-2)
+  Mon May/8
+    19.00  FC Famalicão            v GD Chaves                1-2 (0-0)
+    21.15  FC Arouca               v FC Porto                 0-1 (0-1)
+
+
+» Matchday 32
+  Fri May/12
+    20.15  Gil Vicente             v Boavista                 3-1 (1-0)
+  Sat May/13
+    15.30  FC Vizela               v FC Famalicão             0-0
+           GD Chaves               v Paços de Ferreira        2-0 (0-0)
+    18.00  Portimonense SC         v SL Benfica               1-5 (1-3)
+    20.30  Sporting CP             v CS Marítimo              2-1 (0-1)
+  Sun May/14
+    15.30  Rio Ave FC              v Vitória Guimarães        0-1 (0-0)
+    18.00  Sporting Braga          v CD Santa Clara           5-3 (3-1)
+    20.30  FC Porto                v Casa Pia AC              2-1 (0-1)
+  Mon May/15
+    20.15  GD Estoril              v FC Arouca                2-0 (0-0)
+
+
+» Matchday 33
+  Fri May/19
+    20.15  CS Marítimo             v FC Vizela                1-0 (0-0)
+  Sat May/20
+    15.30  CD Santa Clara          v Portimonense SC          1-0 (1-0)
+           FC Arouca               v GD Chaves                1-0 (0-0)
+    18.00  Boavista                v Sporting Braga           1-1 (0-0)
+    20.30  FC Famalicão            v FC Porto                 2-4 (2-2)
+  Sun May/21
+    15.30  Vitória Guimarães       v Gil Vicente              1-0 (0-0)
+    18.00  Casa Pia AC             v GD Estoril               2-2 (0-0)
+           Paços de Ferreira       v Rio Ave FC               3-1 (1-1)
+    20.30  Sporting CP             v SL Benfica               2-2 (2-0)
+
+
+» Matchday 34
+  Fri May/26
+    19.00  Rio Ave FC              v FC Famalicão             2-2 (0-2)
+    21.15  FC Vizela               v Sporting CP              1-2 (1-1)
+  Sat May/27
+    12.45  Gil Vicente             v Casa Pia AC              1-0 (0-0)
+    15.30  GD Chaves               v Boavista                 1-4 (0-2)
+           GD Estoril              v CS Marítimo              3-1 (1-0)
+    18.00  SL Benfica              v CD Santa Clara           3-0 (2-0)
+           FC Porto                v Vitória Guimarães        3-0 (3-0)
+           Portimonense SC         v FC Arouca                0-2 (0-0)
+    20.30  Sporting Braga          v Paços de Ferreira        3-0 (2-0)

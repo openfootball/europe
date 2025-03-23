@@ -1,514 +1,504 @@
-= Dutch Eredivisie 2020/21
-
-
-Matchday 1
-[Sat Sep/12]
-  18.45  SC Heerenveen            2-0 (1-0)  Willem II Tilburg
-  20.00  PEC Zwolle               0-2 (0-1)  Feyenoord Rotterdam
-  21.00  FC Twente                2-0 (1-0)  Fortuna Sittard
-[Sun Sep/13]
-  12.15  FC Emmen                 3-5 (1-0)  VVV Venlo
-  14.30  Heracles Almelo          2-0 (0-0)  ADO Den Haag
-         Sparta Rotterdam         0-1 (0-1)  Ajax Amsterdam
-  16.45  FC Groningen             1-3 (0-1)  PSV Eindhoven
-         RKC Waalwijk             0-1 (0-1)  Vitesse Arnhem
-
-
-Matchday 2
-[Fri Sep/18]
-  20.00  VVV Venlo                1-1 (1-0)  FC Utrecht
-[Sat Sep/19]
-  16.30  AZ Alkmaar               1-1 (0-1)  PEC Zwolle
-  18.45  Vitesse Arnhem           2-0 (1-0)  Sparta Rotterdam
-  20.00  PSV Eindhoven            2-1 (1-0)  FC Emmen
-  21.00  Fortuna Sittard          1-3 (0-3)  SC Heerenveen
-[Sun Sep/20]
-  12.15  ADO Den Haag             0-1 (0-1)  FC Groningen
-  14.30  Willem II Tilburg        4-0 (0-0)  Heracles Almelo
-         Feyenoord Rotterdam      1-1 (1-1)  FC Twente
-  16.45  Ajax Amsterdam           3-0 (2-0)  RKC Waalwijk
-
-
-Matchday 3
-[Fri Sep/25]
-  20.00  FC Twente                3-1 (2-0)  FC Groningen
-[Sat Sep/26]
-  16.30  PEC Zwolle               4-0 (1-0)  Sparta Rotterdam
-  18.45  Fortuna Sittard          3-3 (1-1)  AZ Alkmaar
-  20.00  SC Heerenveen            1-0 (1-0)  VVV Venlo
-  21.00  Ajax Amsterdam           2-1 (1-0)  Vitesse Arnhem
-[Sun Sep/27]
-  12.15  Feyenoord Rotterdam      4-2 (1-1)  ADO Den Haag
-  14.30  FC Utrecht               3-1 (1-0)  RKC Waalwijk
-  16.45  FC Emmen                 1-1 (1-1)  Willem II Tilburg
-         Heracles Almelo          1-1 (1-0)  PSV Eindhoven
-
-
-Matchday 4
-[Fri Oct/2]
-  20.00  FC Utrecht               1-1 (1-1)  SC Heerenveen
-[Sat Oct/3]
-  16.30  Vitesse Arnhem           3-0 (2-0)  Heracles Almelo
-  20.00  VVV Venlo                1-2 (1-1)  ADO Den Haag
-  21.00  FC Twente                1-1 (0-0)  FC Emmen
-[Sun Oct/4]
-  12.15  FC Groningen             1-0 (0-0)  Ajax Amsterdam
-  14.30  Sparta Rotterdam         4-4 (0-4)  AZ Alkmaar
-         Willem II Tilburg        1-4 (1-1)  Feyenoord Rotterdam
-  16.45  PSV Eindhoven            2-0 (1-0)  Fortuna Sittard
-
-
-Matchday 5
-[Sat Oct/17]
-  18.45  Heracles Almelo          0-1 (0-1)  RKC Waalwijk
-  20.00  AZ Alkmaar               2-2 (2-0)  VVV Venlo
-  21.00  Willem II Tilburg        0-3 (0-1)  FC Twente
-[Sun Oct/18]
-  12.15  Feyenoord Rotterdam      1-1 (1-0)  Sparta Rotterdam
-  14.30  ADO Den Haag             0-2 (0-1)  Vitesse Arnhem
-         Ajax Amsterdam           5-1 (3-0)  SC Heerenveen
-  16.45  PEC Zwolle               0-3 (0-3)  PSV Eindhoven
-         FC Groningen             0-0  FC Utrecht
-  20.00  FC Emmen                 2-2 (0-2)  Fortuna Sittard
-
-
-Matchday 4
-[Wed Oct/21]
-  17.30  RKC Waalwijk             1-1 (0-0)  PEC Zwolle
-
-
-Matchday 6
-[Sat Oct/24]
-  16.30  VVV Venlo                0-13 (0-4)  Ajax Amsterdam
-  18.45  FC Utrecht               2-1 (1-1)  FC Twente
-  20.00  PEC Zwolle               0-0  Willem II Tilburg
-  21.00  SC Heerenveen            4-0 (2-0)  FC Emmen
-[Sun Oct/25]
-  12.15  Fortuna Sittard          1-3 (0-2)  FC Groningen
-  14.30  Sparta Rotterdam         1-1 (0-0)  Heracles Almelo
-         Vitesse Arnhem           2-1 (1-0)  PSV Eindhoven
-  16.45  RKC Waalwijk             2-2 (0-0)  Feyenoord Rotterdam
-  20.00  ADO Den Haag             2-2 (0-1)  AZ Alkmaar
-
-
-Matchday 7
-[Sat Oct/31]
-  18.45  FC Twente                5-1 (3-0)  PEC Zwolle
-  20.00  FC Groningen             2-1 (1-0)  VVV Venlo
-         Ajax Amsterdam           5-2 (2-1)  Fortuna Sittard
-  21.00  Willem II Tilburg        1-3 (1-0)  Vitesse Arnhem
-[Sun Nov/1]
-  12.15  Heracles Almelo          4-1 (2-0)  FC Utrecht
-  14.30  FC Emmen                 2-3 (2-2)  Feyenoord Rotterdam
-         Sparta Rotterdam         1-4 (0-3)  SC Heerenveen
-  16.45  PSV Eindhoven            4-0 (1-0)  ADO Den Haag
-  20.00  AZ Alkmaar               3-0 (1-0)  RKC Waalwijk
-
-
-Matchday 8
-[Fri Nov/6]
-  20.00  Fortuna Sittard          2-2 (2-1)  PEC Zwolle
-[Sat Nov/7]
-  16.30  ADO Den Haag             2-4 (0-1)  FC Twente
-  18.45  VVV Venlo                3-2 (0-1)  Heracles Almelo
-  21.00  RKC Waalwijk             0-2 (0-0)  Sparta Rotterdam
-[Sun Nov/8]
-  12.15  FC Utrecht               0-3 (0-0)  Ajax Amsterdam
-  14.30  Feyenoord Rotterdam      2-0 (0-0)  FC Groningen
-         Vitesse Arnhem           3-1 (3-0)  FC Emmen
-  16.45  SC Heerenveen            0-3 (0-2)  AZ Alkmaar
-  20.00  PSV Eindhoven            3-0 (2-0)  Willem II Tilburg
-
-
-Matchday 9
-[Sat Nov/21]
-  18.45  Willem II Tilburg        2-1 (2-1)  VVV Venlo
-  20.00  FC Groningen             1-1 (1-1)  Vitesse Arnhem
-  21.00  PEC Zwolle               1-1 (1-0)  FC Utrecht
-[Sun Nov/22]
-  12.15  Ajax Amsterdam           5-0 (3-0)  Heracles Almelo
-  14.30  Sparta Rotterdam         6-0 (1-0)  ADO Den Haag
-         Fortuna Sittard          1-3 (1-2)  Feyenoord Rotterdam
-  16.45  RKC Waalwijk             1-1 (0-1)  SC Heerenveen
-         FC Twente                1-1 (0-1)  PSV Eindhoven
-  20.00  AZ Alkmaar               1-0 (1-0)  FC Emmen
-
-
-Matchday 10
-[Fri Nov/27]
-  20.00  FC Twente                0-2 (0-2)  RKC Waalwijk
-[Sat Nov/28]
-  18.45  FC Emmen                 0-5 (0-3)  Ajax Amsterdam
-  20.00  ADO Den Haag             1-1 (1-1)  SC Heerenveen
-  21.00  VVV Venlo                2-2 (1-1)  PEC Zwolle
-[Sun Nov/29]
-  12.15  Vitesse Arnhem           2-0 (0-0)  Fortuna Sittard
-  14.30  Feyenoord Rotterdam      1-1 (0-0)  FC Utrecht
-         FC Groningen             1-0 (0-0)  Willem II Tilburg
-  16.45  Heracles Almelo          1-2 (0-2)  AZ Alkmaar
-  20.00  PSV Eindhoven            1-0 (0-0)  Sparta Rotterdam
-
-
-Matchday 11
-[Fri Dec/4]
-  20.00  Sparta Rotterdam         2-1 (1-0)  FC Emmen
-[Sat Dec/5]
-  16.30  RKC Waalwijk             3-2 (1-1)  VVV Venlo
-  18.45  Fortuna Sittard          3-2 (3-0)  Willem II Tilburg
-  20.00  Ajax Amsterdam           1-2 (0-1)  FC Twente
-  21.00  PEC Zwolle               2-1 (0-1)  Vitesse Arnhem
-[Sun Dec/6]
-  12.15  Feyenoord Rotterdam      0-0  Heracles Almelo
-  14.30  AZ Alkmaar               1-2 (1-0)  FC Groningen
-         FC Utrecht               1-1 (0-0)  ADO Den Haag
-  16.45  SC Heerenveen            2-2 (0-1)  PSV Eindhoven
-
-
-Matchday 12
-[Fri Dec/11]
-  20.00  Heracles Almelo          1-2 (0-1)  Fortuna Sittard
-[Sat Dec/12]
-  16.30  FC Groningen             2-0 (0-0)  RKC Waalwijk
-  18.45  FC Emmen                 1-1 (0-1)  ADO Den Haag
-  20.00  Ajax Amsterdam           4-0 (3-0)  PEC Zwolle
-[Sun Dec/13]
-  12.15  Vitesse Arnhem           1-1 (1-0)  SC Heerenveen
-  14.30  Willem II Tilburg        1-3 (0-2)  Sparta Rotterdam
-         VVV Venlo                0-3 (0-0)  Feyenoord Rotterdam
-  16.45  PSV Eindhoven            2-1 (2-0)  FC Utrecht
-  20.00  FC Twente                1-3 (0-2)  AZ Alkmaar
-
-
-Matchday 13
-[Fri Dec/18]
-  20.00  PEC Zwolle               0-0  FC Emmen
-[Sat Dec/19]
-  16.30  Sparta Rotterdam         2-3 (1-1)  FC Groningen
-  18.45  VVV Venlo                1-2 (0-1)  FC Twente
-  20.00  RKC Waalwijk             1-4 (0-2)  PSV Eindhoven
-  21.00  FC Utrecht               1-1 (0-0)  Fortuna Sittard
-[Sun Dec/20]
-  12.15  Vitesse Arnhem           1-0 (1-0)  Feyenoord Rotterdam
-  14.30  ADO Den Haag             2-4 (0-4)  Ajax Amsterdam
-         SC Heerenveen            1-2 (0-1)  Heracles Almelo
-  16.45  AZ Alkmaar               5-3 (2-2)  Willem II Tilburg
-
-
-Matchday 14
-[Tue Dec/22]
-  16.30  Fortuna Sittard          2-1 (1-1)  RKC Waalwijk
-  18.45  FC Emmen                 2-3 (2-1)  FC Utrecht
-  20.00  PSV Eindhoven            4-1 (1-1)  VVV Venlo
-  21.00  FC Twente                0-2 (0-1)  Sparta Rotterdam
-[Wed Dec/23]
-  16.30  AZ Alkmaar               3-1 (2-0)  Vitesse Arnhem
-  18.45  Willem II Tilburg        1-1 (0-1)  Ajax Amsterdam
-  20.00  ADO Den Haag             0-2 (0-0)  PEC Zwolle
-         FC Groningen             0-1 (0-0)  Heracles Almelo
-  21.00  Feyenoord Rotterdam      3-0 (0-0)  SC Heerenveen
-
-
-Matchday 1
-[Sun Dec/27]
-  14.30  FC Utrecht               2-2 (1-0)  AZ Alkmaar
-
-
-Matchday 15
-[Sat Jan/9]
-  16.30  RKC Waalwijk             0-1 (0-1)  ADO Den Haag
-  18.45  FC Emmen                 1-4 (0-3)  FC Twente
-  20.00  PEC Zwolle               1-1 (1-0)  AZ Alkmaar
-         Heracles Almelo          0-2 (0-1)  Vitesse Arnhem
-  21.00  FC Utrecht               2-2 (1-2)  FC Groningen
-[Sun Jan/10]
-  12.15  Sparta Rotterdam         0-2 (0-1)  Feyenoord Rotterdam
-  14.30  VVV Venlo                2-1 (0-1)  Willem II Tilburg
-         SC Heerenveen            1-3 (0-3)  Fortuna Sittard
-  16.45  Ajax Amsterdam           2-2 (1-2)  PSV Eindhoven
-
-
-Matchday 16
-[Tue Jan/12]
-  18.45  Vitesse Arnhem           1-0 (1-0)  FC Utrecht
-  21.00  Heracles Almelo          4-0 (2-0)  FC Emmen
-[Wed Jan/13]
-  18.45  PSV Eindhoven            1-3 (0-2)  AZ Alkmaar
-  20.00  Fortuna Sittard          0-1 (0-0)  Sparta Rotterdam
-  20.05  ADO Den Haag             1-4 (0-1)  VVV Venlo
-  21.00  Feyenoord Rotterdam      1-0 (0-0)  PEC Zwolle
-[Thu Jan/14]
-  18.45  SC Heerenveen            1-1 (1-0)  RKC Waalwijk
-  20.00  FC Twente                1-3 (0-1)  Ajax Amsterdam
-  21.00  Willem II Tilburg        2-3 (0-0)  FC Groningen
-
-
-Matchday 17
-[Sat Jan/16]
-  16.30  FC Emmen                 1-4 (0-2)  Vitesse Arnhem
-  18.45  Sparta Rotterdam         3-5 (1-1)  PSV Eindhoven
-  20.00  PEC Zwolle               0-2 (0-0)  Fortuna Sittard
-         FC Utrecht               2-0 (1-0)  Heracles Almelo
-  21.00  AZ Alkmaar               2-1 (0-0)  ADO Den Haag
-[Sun Jan/17]
-  12.15  RKC Waalwijk             1-1 (1-0)  Willem II Tilburg
-  14.30  VVV Venlo                1-1 (0-0)  SC Heerenveen
-         FC Groningen             2-2 (0-2)  FC Twente
-  16.45  Ajax Amsterdam           1-0 (1-0)  Feyenoord Rotterdam
-
-
-Matchday 18
-[Fri Jan/22]
-  20.00  Willem II Tilburg        1-3 (1-0)  PEC Zwolle
-[Sat Jan/23]
-  16.30  ADO Den Haag             0-0  FC Emmen
-  18.45  Vitesse Arnhem           1-0 (1-0)  FC Groningen
-  20.00  PSV Eindhoven            2-0 (1-0)  RKC Waalwijk
-  21.00  Heracles Almelo          1-0 (0-0)  SC Heerenveen
-[Sun Jan/24]
-  12.15  Fortuna Sittard          1-2 (0-1)  Ajax Amsterdam
-  14.30  FC Utrecht               1-0 (0-0)  Sparta Rotterdam
-         FC Twente                0-1 (0-0)  VVV Venlo
-  16.45  Feyenoord Rotterdam      2-3 (1-1)  AZ Alkmaar
-
-
-Matchday 19
-[Tue Jan/26]
-  18.45  PEC Zwolle               2-2 (0-2)  Heracles Almelo
-  20.00  FC Emmen                 0-2 (0-0)  PSV Eindhoven
-  21.00  FC Groningen             3-0 (2-0)  ADO Den Haag
-[Wed Jan/27]
-  18.45  AZ Alkmaar               0-1 (0-0)  FC Utrecht
-  20.00  VVV Venlo                4-1 (3-0)  Vitesse Arnhem
-         RKC Waalwijk             1-2 (0-0)  Fortuna Sittard
-  21.00  SC Heerenveen            3-0 (2-0)  Feyenoord Rotterdam
-[Thu Jan/28]
-  18.45  Sparta Rotterdam         0-0  FC Twente
-  21.00  Ajax Amsterdam           3-1 (0-0)  Willem II Tilburg
-
-
-Matchday 20
-[Sat Jan/30]
-  16.30  Heracles Almelo          1-0 (1-0)  FC Groningen
-  18.45  FC Utrecht               3-3 (1-2)  PEC Zwolle
-  20.00  Fortuna Sittard          3-2 (1-0)  VVV Venlo
-  21.00  Vitesse Arnhem           1-1 (0-0)  RKC Waalwijk
-[Sun Jan/31]
-  12.15  FC Twente                0-0  SC Heerenveen
-  14.30  Willem II Tilburg        2-0 (1-0)  FC Emmen
-         Feyenoord Rotterdam      3-1 (3-0)  PSV Eindhoven
-  16.45  ADO Den Haag             1-1 (1-0)  Sparta Rotterdam
-         AZ Alkmaar               0-3 (0-1)  Ajax Amsterdam
-
-
-Matchday 21
-[Fri Feb/5]
-  20.00  Fortuna Sittard          0-1 (0-1)  Heracles Almelo
-[Sat Feb/6]
-  14.00  PEC Zwolle               1-1 (0-1)  RKC Waalwijk
-         FC Emmen                 0-1 (0-0)  AZ Alkmaar
-  16.30  SC Heerenveen            1-0 (0-0)  Vitesse Arnhem
-         PSV Eindhoven            3-0 (2-0)  FC Twente
-
-
-Matchday 22
-[Fri Feb/12]
-  18.45  RKC Waalwijk             1-0 (0-0)  FC Emmen
-[Sat Feb/13]
-  12.00  FC Groningen             1-0 (1-0)  PEC Zwolle
-  14.15  Sparta Rotterdam         1-2 (1-1)  Fortuna Sittard
-  16.30  ADO Den Haag             2-2 (1-0)  PSV Eindhoven
-  18.45  Heracles Almelo          0-2 (0-1)  Ajax Amsterdam
-[Sun Feb/14]
-  12.15  AZ Alkmaar               3-1 (1-0)  SC Heerenveen
-  14.30  Feyenoord Rotterdam      5-0 (1-0)  Willem II Tilburg
-         FC Utrecht               3-1 (0-0)  VVV Venlo
-  16.45  Vitesse Arnhem           0-2 (0-1)  FC Twente
-
-
-Matchday 23
-[Fri Feb/19]
-  20.00  Willem II Tilburg        0-6 (0-3)  FC Utrecht
-[Sat Feb/20]
-  18.45  FC Emmen                 3-2 (2-1)  PEC Zwolle
-  20.00  VVV Venlo                1-4 (1-1)  AZ Alkmaar
-  21.00  Fortuna Sittard          2-0 (1-0)  ADO Den Haag
-[Sun Feb/21]
-  12.15  FC Twente                2-2 (2-1)  Feyenoord Rotterdam
-  14.30  RKC Waalwijk             3-0 (2-0)  Heracles Almelo
-         SC Heerenveen            1-1 (1-0)  FC Groningen
-  16.45  PSV Eindhoven            3-1 (0-1)  Vitesse Arnhem
-  20.00  Ajax Amsterdam           4-2 (3-0)  Sparta Rotterdam
-
-
-Matchday 21
-[Wed Feb/24]
-  16.30  Willem II Tilburg        1-1 (0-0)  ADO Den Haag
-  18.45  FC Groningen             0-0  Feyenoord Rotterdam
-
-
-Matchday 24
-[Fri Feb/26]
-  20.00  PEC Zwolle               4-1 (0-1)  SC Heerenveen
-[Sat Feb/27]
-  16.30  FC Utrecht               0-1 (0-1)  FC Emmen
-  18.45  ADO Den Haag             0-0  RKC Waalwijk
-  20.00  Vitesse Arnhem           4-1 (1-1)  VVV Venlo
-  21.00  Heracles Almelo          2-2 (1-1)  FC Twente
-[Sun Feb/28]
-  12.15  Sparta Rotterdam         0-2 (0-0)  Willem II Tilburg
-  14.30  PSV Eindhoven            1-1 (1-0)  Ajax Amsterdam
-         FC Groningen             1-0 (0-0)  Fortuna Sittard
-  16.45  AZ Alkmaar               4-2 (2-2)  Feyenoord Rotterdam
-
-
-Matchday 25
-[Fri Mar/5]
-  20.00  FC Emmen                 1-1 (0-1)  Sparta Rotterdam
-[Sat Mar/6]
-  16.30  Feyenoord Rotterdam      6-0 (3-0)  VVV Venlo
-  18.45  FC Twente                1-1 (0-0)  Willem II Tilburg
-  20.00  SC Heerenveen            3-0 (1-0)  ADO Den Haag
-  21.00  RKC Waalwijk             1-2 (0-1)  FC Utrecht
-[Sun Mar/7]
-  12.15  Ajax Amsterdam           3-1 (1-0)  FC Groningen
-  14.30  Heracles Almelo          2-1 (0-0)  PEC Zwolle
-         Fortuna Sittard          1-3 (0-2)  PSV Eindhoven
-  16.45  Vitesse Arnhem           2-1 (1-0)  AZ Alkmaar
-
-
-Matchday 21
-[Tue Mar/9]
-  18.45  VVV Venlo                0-1 (0-0)  Sparta Rotterdam
-
-
-Matchday 26
-[Sat Mar/13]
-  16.30  Willem II Tilburg        3-1 (1-0)  SC Heerenveen
-  18.45  ADO Den Haag             1-2 (0-0)  Heracles Almelo
-  20.00  FC Groningen             1-1 (0-1)  FC Emmen
-         AZ Alkmaar               4-1 (3-1)  FC Twente
-  21.00  Sparta Rotterdam         2-0 (0-0)  RKC Waalwijk
-[Sun Mar/14]
-  12.15  VVV Venlo                1-3 (0-1)  Fortuna Sittard
-  14.30  PSV Eindhoven            1-1 (1-1)  Feyenoord Rotterdam
-         FC Utrecht               1-3 (1-1)  Vitesse Arnhem
-  16.45  PEC Zwolle               0-2 (0-2)  Ajax Amsterdam
-
-
-Matchday 27
-[Fri Mar/19]
-  20.00  SC Heerenveen            0-0  FC Twente
-[Sat Mar/20]
-  16.30  Fortuna Sittard          0-1 (0-0)  FC Utrecht
-  20.00  Feyenoord Rotterdam      1-1 (1-0)  FC Emmen
-  21.00  RKC Waalwijk             3-1 (2-1)  FC Groningen
-[Sun Mar/21]
-  12.15  PEC Zwolle               2-1 (0-0)  VVV Venlo
-  14.30  Vitesse Arnhem           0-0  Willem II Tilburg
-         AZ Alkmaar               2-0 (1-0)  PSV Eindhoven
-  16.45  Heracles Almelo          1-1 (0-0)  Sparta Rotterdam
-  20.00  Ajax Amsterdam           5-0 (4-0)  ADO Den Haag
-
-
-Matchday 28
-[Sat Apr/3]
-  18.45  VVV Venlo                0-1 (0-0)  FC Groningen
-  20.00  Willem II Tilburg        0-1 (0-0)  AZ Alkmaar
-         FC Twente                1-2 (1-1)  Vitesse Arnhem
-  21.00  Sparta Rotterdam         3-2 (1-0)  PEC Zwolle
-[Sun Apr/4]
-  12.15  Feyenoord Rotterdam      2-0 (0-0)  Fortuna Sittard
-  14.30  ADO Den Haag             1-4 (0-3)  FC Utrecht
-         PSV Eindhoven            3-0 (2-0)  Heracles Almelo
-  16.45  SC Heerenveen            1-2 (1-1)  Ajax Amsterdam
-         FC Emmen                 3-1 (3-0)  RKC Waalwijk
-
-
-Matchday 29
-[Fri Apr/9]
-  20.00  Vitesse Arnhem           0-0  ADO Den Haag
-[Sat Apr/10]
-  18.45  Heracles Almelo          4-0 (2-0)  Willem II Tilburg
-  20.00  Fortuna Sittard          1-3 (0-0)  FC Emmen
-         AZ Alkmaar               2-0 (1-0)  Sparta Rotterdam
-  21.00  PEC Zwolle               1-0 (1-0)  FC Twente
-[Sun Apr/11]
-  12.15  FC Utrecht               1-2 (1-1)  Feyenoord Rotterdam
-  14.30  VVV Venlo                0-2 (0-1)  PSV Eindhoven
-         FC Groningen             0-2 (0-0)  SC Heerenveen
-  16.45  RKC Waalwijk             0-1 (0-1)  Ajax Amsterdam
-
-
-Matchday 21
-[Thu Apr/22]
-  18.45  Ajax Amsterdam           1-1 (0-1)  FC Utrecht
-
-
-Matchday 30
-[Fri Apr/23]
-  18.45  Willem II Tilburg        1-0 (0-0)  RKC Waalwijk
-[Sat Apr/24]
-  16.35  SC Heerenveen            0-2 (0-1)  PEC Zwolle
-  18.45  Sparta Rotterdam         2-0 (1-0)  VVV Venlo
-         PSV Eindhoven            1-0 (0-0)  FC Groningen
-[Sun Apr/25]
-  12.15  FC Emmen                 3-1 (0-0)  Heracles Almelo
-  14.30  ADO Den Haag             0-3 (0-1)  Fortuna Sittard
-         Ajax Amsterdam           2-0 (0-0)  AZ Alkmaar
-  16.45  Feyenoord Rotterdam      0-0  Vitesse Arnhem
-         FC Twente                1-2 (1-0)  FC Utrecht
-
-
-Matchday 31
-[Sat May/1]
-  16.30  Heracles Almelo          4-0 (2-0)  VVV Venlo
-  18.45  Fortuna Sittard          3-0 (1-0)  FC Twente
-  20.00  RKC Waalwijk             1-3 (1-1)  AZ Alkmaar
-         Vitesse Arnhem           2-1 (1-0)  PEC Zwolle
-  21.00  FC Utrecht               3-2 (2-0)  Willem II Tilburg
-[Sun May/2]
-  12.15  ADO Den Haag             3-2 (2-1)  Feyenoord Rotterdam
-  14.30  FC Groningen             1-2 (0-1)  Sparta Rotterdam
-         Ajax Amsterdam           4-0 (1-0)  FC Emmen
-  16.45  PSV Eindhoven            2-2 (0-1)  SC Heerenveen
-
-
-Matchday 32
-[Fri May/7]
-  20.00  Sparta Rotterdam         3-0 (1-0)  Vitesse Arnhem
-[Sat May/8]
-  16.30  FC Twente                1-1 (0-0)  Heracles Almelo
-  18.45  SC Heerenveen            0-0  FC Utrecht
-  20.00  AZ Alkmaar               1-0 (1-0)  Fortuna Sittard
-  21.00  VVV Venlo                3-3 (2-2)  RKC Waalwijk
-[Sun May/9]
-  12.15  FC Emmen                 0-4 (0-1)  FC Groningen
-  14.30  PEC Zwolle               0-1 (0-1)  ADO Den Haag
-         Feyenoord Rotterdam      0-3 (0-1)  Ajax Amsterdam
-  16.45  Willem II Tilburg        0-2 (0-1)  PSV Eindhoven
-
-
-Matchday 33
-[Thu May/13]
-  14.30  PSV Eindhoven            4-2 (3-0)  PEC Zwolle
-         Ajax Amsterdam           3-1 (1-0)  VVV Venlo
-         RKC Waalwijk             2-1 (0-0)  FC Twente
-         Heracles Almelo          1-1 (0-0)  Feyenoord Rotterdam
-         FC Groningen             0-0  AZ Alkmaar
-         ADO Den Haag             1-4 (0-3)  Willem II Tilburg
-         Sparta Rotterdam         0-0  FC Utrecht
-         Fortuna Sittard          3-3 (2-2)  Vitesse Arnhem
-         FC Emmen                 3-1 (1-0)  SC Heerenveen
-
-
-Matchday 34
-[Sun May/16]
-  14.30  Feyenoord Rotterdam      3-0 (2-0)  RKC Waalwijk
-         AZ Alkmaar               5-0 (1-0)  Heracles Almelo
-         SC Heerenveen            1-2 (0-2)  Sparta Rotterdam
-         FC Twente                3-2 (2-2)  ADO Den Haag
-         Vitesse Arnhem           1-3 (1-2)  Ajax Amsterdam
-         FC Utrecht               1-1 (1-0)  PSV Eindhoven
-         VVV Venlo                0-4 (0-1)  FC Emmen
-         PEC Zwolle               1-0 (0-0)  FC Groningen
-         Willem II Tilburg        2-1 (1-0)  Fortuna Sittard
+= Netherlands Eredivisie 2020/21
+
+# Date       Sat Sep/12 2020 - Sun May/16 2021 (246d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Sat Sep/12 2020
+    18.45  sc Heerenveen           v Willem II                2-0 (1-0)
+    20.00  PEC Zwolle              v Feyenoord                0-2 (0-1)
+    21.00  FC Twente               v Fortuna Sittard          2-0 (1-0)
+  Sun Sep/13
+    12.15  FC Emmen                v VVV-Venlo                3-5 (1-0)
+    14.30  Heracles Almelo         v ADO Den Haag             2-0 (0-0)
+           Sparta Rotterdam        v AFC Ajax                 0-1 (0-1)
+    16.45  FC Groningen            v PSV Eindhoven            1-3 (0-1)
+           RKC Waalwijk            v Vitesse                  0-1 (0-1)
+  Sun Dec/27
+    14.30  FC Utrecht              v AZ Alkmaar               2-2 (1-0)
+
+
+» Matchday 2
+  Fri Sep/18
+    20.00  VVV-Venlo               v FC Utrecht               1-1 (1-0)
+  Sat Sep/19
+    16.30  AZ Alkmaar              v PEC Zwolle               1-1 (0-1)
+    18.45  Vitesse                 v Sparta Rotterdam         2-0 (1-0)
+    20.00  PSV Eindhoven           v FC Emmen                 2-1 (1-0)
+    21.00  Fortuna Sittard         v sc Heerenveen            1-3 (0-3)
+  Sun Sep/20
+    12.15  ADO Den Haag            v FC Groningen             0-1 (0-1)
+    14.30  Feyenoord               v FC Twente                1-1 (1-1)
+           Willem II               v Heracles Almelo          4-0 (0-0)
+    16.45  AFC Ajax                v RKC Waalwijk             3-0 (2-0)
+
+
+» Matchday 3
+  Fri Sep/25
+    20.00  FC Twente               v FC Groningen             3-1 (2-0)
+  Sat Sep/26
+    16.30  PEC Zwolle              v Sparta Rotterdam         4-0 (1-0)
+    18.45  Fortuna Sittard         v AZ Alkmaar               3-3 (1-1)
+    20.00  sc Heerenveen           v VVV-Venlo                1-0 (1-0)
+    21.00  AFC Ajax                v Vitesse                  2-1 (1-0)
+  Sun Sep/27
+    12.15  Feyenoord               v ADO Den Haag             4-2 (1-1)
+    14.30  FC Utrecht              v RKC Waalwijk             3-1 (1-0)
+    16.45  Heracles Almelo         v PSV Eindhoven            1-1 (1-0)
+           FC Emmen                v Willem II                1-1 (1-1)
+
+
+» Matchday 4
+  Fri Oct/2
+    20.00  FC Utrecht              v sc Heerenveen            1-1 (1-1)
+  Sat Oct/3
+    16.30  Vitesse                 v Heracles Almelo          3-0 (2-0)
+    20.00  VVV-Venlo               v ADO Den Haag             1-2 (1-1)
+    21.00  FC Twente               v FC Emmen                 1-1 (0-0)
+  Sun Oct/4
+    12.15  FC Groningen            v AFC Ajax                 1-0 (0-0)
+    14.30  Sparta Rotterdam        v AZ Alkmaar               4-4 (0-4)
+           Willem II               v Feyenoord                1-4 (1-1)
+    16.45  PSV Eindhoven           v Fortuna Sittard          2-0 (1-0)
+  Wed Oct/21
+    17.30  RKC Waalwijk            v PEC Zwolle               1-1 (0-0)
+
+
+» Matchday 5
+  Sat Oct/17
+    18.45  Heracles Almelo         v RKC Waalwijk             0-1 (0-1)
+    20.00  AZ Alkmaar              v VVV-Venlo                2-2 (2-0)
+    21.00  Willem II               v FC Twente                0-3 (0-1)
+  Sun Oct/18
+    12.15  Feyenoord               v Sparta Rotterdam         1-1 (1-0)
+    14.30  AFC Ajax                v sc Heerenveen            5-1 (3-0)
+           ADO Den Haag            v Vitesse                  0-2 (0-1)
+    16.45  FC Groningen            v FC Utrecht               0-0
+           PEC Zwolle              v PSV Eindhoven            0-3 (0-3)
+    20.00  FC Emmen                v Fortuna Sittard          2-2 (0-2)
+
+
+» Matchday 6
+  Sat Oct/24
+    16.30  VVV-Venlo               v AFC Ajax                 0-13 (0-4)
+    18.45  FC Utrecht              v FC Twente                2-1 (1-1)
+    20.00  PEC Zwolle              v Willem II                0-0
+    21.00  sc Heerenveen           v FC Emmen                 4-0 (2-0)
+  Sun Oct/25
+    12.15  Fortuna Sittard         v FC Groningen             1-3 (0-2)
+    14.30  Vitesse                 v PSV Eindhoven            2-1 (1-0)
+           Sparta Rotterdam        v Heracles Almelo          1-1 (0-0)
+    16.45  RKC Waalwijk            v Feyenoord                2-2 (0-0)
+    20.00  ADO Den Haag            v AZ Alkmaar               2-2 (0-1)
+
+
+» Matchday 7
+  Sat Oct/31
+    18.45  FC Twente               v PEC Zwolle               5-1 (3-0)
+    20.00  AFC Ajax                v Fortuna Sittard          5-2 (2-1)
+           FC Groningen            v VVV-Venlo                2-1 (1-0)
+    21.00  Willem II               v Vitesse                  1-3 (1-0)
+  Sun Nov/1
+    12.15  Heracles Almelo         v FC Utrecht               4-1 (2-0)
+    14.30  Sparta Rotterdam        v sc Heerenveen            1-4 (0-3)
+           FC Emmen                v Feyenoord                2-3 (2-2)
+    16.45  PSV Eindhoven           v ADO Den Haag             4-0 (1-0)
+    20.00  AZ Alkmaar              v RKC Waalwijk             3-0 (1-0)
+
+
+» Matchday 8
+  Fri Nov/6
+    20.00  Fortuna Sittard         v PEC Zwolle               2-2 (2-1)
+  Sat Nov/7
+    16.30  ADO Den Haag            v FC Twente                2-4 (0-1)
+    18.45  VVV-Venlo               v Heracles Almelo          3-2 (0-1)
+    21.00  RKC Waalwijk            v Sparta Rotterdam         0-2 (0-0)
+  Sun Nov/8
+    12.15  FC Utrecht              v AFC Ajax                 0-3 (0-0)
+    14.30  Vitesse                 v FC Emmen                 3-1 (3-0)
+           Feyenoord               v FC Groningen             2-0 (0-0)
+    16.45  sc Heerenveen           v AZ Alkmaar               0-3 (0-2)
+    20.00  PSV Eindhoven           v Willem II                3-0 (2-0)
+
+
+» Matchday 9
+  Sat Nov/21
+    18.45  Willem II               v VVV-Venlo                2-1 (2-1)
+    20.00  FC Groningen            v Vitesse                  1-1 (1-1)
+    21.00  PEC Zwolle              v FC Utrecht               1-1 (1-0)
+  Sun Nov/22
+    12.15  AFC Ajax                v Heracles Almelo          5-0 (3-0)
+    14.30  Sparta Rotterdam        v ADO Den Haag             6-0 (1-0)
+           Fortuna Sittard         v Feyenoord                1-3 (1-2)
+    16.45  FC Twente               v PSV Eindhoven            1-1 (0-1)
+           RKC Waalwijk            v sc Heerenveen            1-1 (0-1)
+    20.00  AZ Alkmaar              v FC Emmen                 1-0 (1-0)
+
+
+» Matchday 10
+  Fri Nov/27
+    20.00  FC Twente               v RKC Waalwijk             0-2 (0-2)
+  Sat Nov/28
+    18.45  FC Emmen                v AFC Ajax                 0-5 (0-3)
+    20.00  ADO Den Haag            v sc Heerenveen            1-1 (1-1)
+    21.00  VVV-Venlo               v PEC Zwolle               2-2 (1-1)
+  Sun Nov/29
+    12.15  Vitesse                 v Fortuna Sittard          2-0 (0-0)
+    14.30  FC Groningen            v Willem II                1-0 (0-0)
+           Feyenoord               v FC Utrecht               1-1 (0-0)
+    16.45  Heracles Almelo         v AZ Alkmaar               1-2 (0-2)
+    20.00  PSV Eindhoven           v Sparta Rotterdam         1-0 (0-0)
+
+
+» Matchday 11
+  Fri Dec/4
+    20.00  Sparta Rotterdam        v FC Emmen                 2-1 (1-0)
+  Sat Dec/5
+    16.30  RKC Waalwijk            v VVV-Venlo                3-2 (1-1)
+    18.45  Fortuna Sittard         v Willem II                3-2 (3-0)
+    20.00  AFC Ajax                v FC Twente                1-2 (0-1)
+    21.00  PEC Zwolle              v Vitesse                  2-1 (0-1)
+  Sun Dec/6
+    12.15  Feyenoord               v Heracles Almelo          0-0
+    14.30  AZ Alkmaar              v FC Groningen             1-2 (1-0)
+           FC Utrecht              v ADO Den Haag             1-1 (0-0)
+    16.45  sc Heerenveen           v PSV Eindhoven            2-2 (0-1)
+
+
+» Matchday 12
+  Fri Dec/11
+    20.00  Heracles Almelo         v Fortuna Sittard          1-2 (0-1)
+  Sat Dec/12
+    16.30  FC Groningen            v RKC Waalwijk             2-0 (0-0)
+    18.45  FC Emmen                v ADO Den Haag             1-1 (0-1)
+    20.00  AFC Ajax                v PEC Zwolle               4-0 (3-0)
+  Sun Dec/13
+    12.15  Vitesse                 v sc Heerenveen            1-1 (1-0)
+    14.30  VVV-Venlo               v Feyenoord                0-3 (0-0)
+           Willem II               v Sparta Rotterdam         1-3 (0-2)
+    16.45  PSV Eindhoven           v FC Utrecht               2-1 (2-0)
+    20.00  FC Twente               v AZ Alkmaar               1-3 (0-2)
+
+
+» Matchday 13
+  Fri Dec/18
+    20.00  PEC Zwolle              v FC Emmen                 0-0
+  Sat Dec/19
+    16.30  Sparta Rotterdam        v FC Groningen             2-3 (1-1)
+    18.45  VVV-Venlo               v FC Twente                1-2 (0-1)
+    20.00  RKC Waalwijk            v PSV Eindhoven            1-4 (0-2)
+    21.00  FC Utrecht              v Fortuna Sittard          1-1 (0-0)
+  Sun Dec/20
+    12.15  Vitesse                 v Feyenoord                1-0 (1-0)
+    14.30  ADO Den Haag            v AFC Ajax                 2-4 (0-4)
+           sc Heerenveen           v Heracles Almelo          1-2 (0-1)
+    16.45  AZ Alkmaar              v Willem II                5-3 (2-2)
+
+
+» Matchday 14
+  Tue Dec/22
+    16.30  Fortuna Sittard         v RKC Waalwijk             2-1 (1-1)
+    18.45  FC Emmen                v FC Utrecht               2-3 (2-1)
+    20.00  PSV Eindhoven           v VVV-Venlo                4-1 (1-1)
+    21.00  FC Twente               v Sparta Rotterdam         0-2 (0-1)
+  Wed Dec/23
+    16.30  AZ Alkmaar              v Vitesse                  3-1 (2-0)
+    18.45  Willem II               v AFC Ajax                 1-1 (0-1)
+    20.00  FC Groningen            v Heracles Almelo          0-1 (0-0)
+           ADO Den Haag            v PEC Zwolle               0-2 (0-0)
+    21.00  Feyenoord               v sc Heerenveen            3-0 (0-0)
+
+
+» Matchday 15
+  Sat Jan/9 2021
+    16.30  RKC Waalwijk            v ADO Den Haag             0-1 (0-1)
+    18.45  FC Emmen                v FC Twente                1-4 (0-3)
+    20.00  Heracles Almelo         v Vitesse                  0-2 (0-1)
+           PEC Zwolle              v AZ Alkmaar               1-1 (1-0)
+    21.00  FC Utrecht              v FC Groningen             2-2 (1-2)
+  Sun Jan/10
+    12.15  Sparta Rotterdam        v Feyenoord                0-2 (0-1)
+    14.30  sc Heerenveen           v Fortuna Sittard          1-3 (0-3)
+           VVV-Venlo               v Willem II                2-1 (0-1)
+    16.45  AFC Ajax                v PSV Eindhoven            2-2 (1-2)
+
+
+» Matchday 16
+  Tue Jan/12
+    18.45  Vitesse                 v FC Utrecht               1-0 (1-0)
+    21.00  Heracles Almelo         v FC Emmen                 4-0 (2-0)
+  Wed Jan/13
+    18.45  PSV Eindhoven           v AZ Alkmaar               1-3 (0-2)
+    20.00  Fortuna Sittard         v Sparta Rotterdam         0-1 (0-0)
+           ADO Den Haag            v VVV-Venlo                1-4 (0-1)
+    21.00  Feyenoord               v PEC Zwolle               1-0 (0-0)
+  Thu Jan/14
+    18.45  sc Heerenveen           v RKC Waalwijk             1-1 (1-0)
+    20.00  FC Twente               v AFC Ajax                 1-3 (0-1)
+    21.00  Willem II               v FC Groningen             2-3 (0-0)
+
+
+» Matchday 17
+  Sat Jan/16
+    16.30  FC Emmen                v Vitesse                  1-4 (0-2)
+    18.45  Sparta Rotterdam        v PSV Eindhoven            3-5 (1-1)
+    20.00  FC Utrecht              v Heracles Almelo          2-0 (1-0)
+           PEC Zwolle              v Fortuna Sittard          0-2 (0-0)
+    21.00  AZ Alkmaar              v ADO Den Haag             2-1 (0-0)
+  Sun Jan/17
+    12.15  RKC Waalwijk            v Willem II                1-1 (1-0)
+    14.30  FC Groningen            v FC Twente                2-2 (0-2)
+           VVV-Venlo               v sc Heerenveen            1-1 (0-0)
+    16.45  AFC Ajax                v Feyenoord                1-0 (1-0)
+
+
+» Matchday 18
+  Fri Jan/22
+    20.00  Willem II               v PEC Zwolle               1-3 (1-0)
+  Sat Jan/23
+    16.30  ADO Den Haag            v FC Emmen                 0-0
+    18.45  Vitesse                 v FC Groningen             1-0 (1-0)
+    20.00  PSV Eindhoven           v RKC Waalwijk             2-0 (1-0)
+    21.00  Heracles Almelo         v sc Heerenveen            1-0 (0-0)
+  Sun Jan/24
+    12.15  Fortuna Sittard         v AFC Ajax                 1-2 (0-1)
+    14.30  FC Twente               v VVV-Venlo                0-1 (0-0)
+           FC Utrecht              v Sparta Rotterdam         1-0 (0-0)
+    16.45  Feyenoord               v AZ Alkmaar               2-3 (1-1)
+
+
+» Matchday 19
+  Tue Jan/26
+    18.45  PEC Zwolle              v Heracles Almelo          2-2 (0-2)
+    20.00  FC Emmen                v PSV Eindhoven            0-2 (0-0)
+    21.00  FC Groningen            v ADO Den Haag             3-0 (2-0)
+  Wed Jan/27
+    18.45  AZ Alkmaar              v FC Utrecht               0-1 (0-0)
+    20.00  RKC Waalwijk            v Fortuna Sittard          1-2 (0-0)
+           VVV-Venlo               v Vitesse                  4-1 (3-0)
+    21.00  sc Heerenveen           v Feyenoord                3-0 (2-0)
+  Thu Jan/28
+    18.45  Sparta Rotterdam        v FC Twente                0-0
+    21.00  AFC Ajax                v Willem II                3-1 (0-0)
+
+
+» Matchday 20
+  Sat Jan/30
+    16.30  Heracles Almelo         v FC Groningen             1-0 (1-0)
+    18.45  FC Utrecht              v PEC Zwolle               3-3 (1-2)
+    20.00  Fortuna Sittard         v VVV-Venlo                3-2 (1-0)
+    21.00  Vitesse                 v RKC Waalwijk             1-1 (0-0)
+  Sun Jan/31
+    12.15  FC Twente               v sc Heerenveen            0-0
+    14.30  Feyenoord               v PSV Eindhoven            3-1 (3-0)
+           Willem II               v FC Emmen                 2-0 (1-0)
+    16.45  AZ Alkmaar              v AFC Ajax                 0-3 (0-1)
+           ADO Den Haag            v Sparta Rotterdam         1-1 (1-0)
+
+
+» Matchday 21
+  Fri Feb/5
+    20.00  Fortuna Sittard         v Heracles Almelo          0-1 (0-1)
+  Sat Feb/6
+    14.00  PEC Zwolle              v RKC Waalwijk             1-1 (0-1)
+           FC Emmen                v AZ Alkmaar               0-1 (0-0)
+    16.30  PSV Eindhoven           v FC Twente                3-0 (2-0)
+           sc Heerenveen           v Vitesse                  1-0 (0-0)
+  Wed Feb/24
+    16.30  Willem II               v ADO Den Haag             1-1 (0-0)
+    18.45  FC Groningen            v Feyenoord                0-0
+  Tue Mar/9
+    18.45  VVV-Venlo               v Sparta Rotterdam         0-1 (0-0)
+  Thu Apr/22
+    18.45  AFC Ajax                v FC Utrecht               1-1 (0-1)
+
+
+» Matchday 22
+  Fri Feb/12
+    18.45  RKC Waalwijk            v FC Emmen                 1-0 (0-0)
+  Sat Feb/13
+    12.00  FC Groningen            v PEC Zwolle               1-0 (1-0)
+    14.15  Sparta Rotterdam        v Fortuna Sittard          1-2 (1-1)
+    16.30  ADO Den Haag            v PSV Eindhoven            2-2 (1-0)
+    18.45  Heracles Almelo         v AFC Ajax                 0-2 (0-1)
+  Sun Feb/14
+    12.15  AZ Alkmaar              v sc Heerenveen            3-1 (1-0)
+    14.30  FC Utrecht              v VVV-Venlo                3-1 (0-0)
+           Feyenoord               v Willem II                5-0 (1-0)
+    16.45  Vitesse                 v FC Twente                0-2 (0-1)
+
+
+» Matchday 23
+  Fri Feb/19
+    20.00  Willem II               v FC Utrecht               0-6 (0-3)
+  Sat Feb/20
+    18.45  FC Emmen                v PEC Zwolle               3-2 (2-1)
+    20.00  VVV-Venlo               v AZ Alkmaar               1-4 (1-1)
+    21.00  Fortuna Sittard         v ADO Den Haag             2-0 (1-0)
+  Sun Feb/21
+    12.15  FC Twente               v Feyenoord                2-2 (2-1)
+    14.30  RKC Waalwijk            v Heracles Almelo          3-0 (2-0)
+           sc Heerenveen           v FC Groningen             1-1 (1-0)
+    16.45  PSV Eindhoven           v Vitesse                  3-1 (0-1)
+    20.00  AFC Ajax                v Sparta Rotterdam         4-2 (3-0)
+
+
+» Matchday 24
+  Fri Feb/26
+    20.00  PEC Zwolle              v sc Heerenveen            4-1 (0-1)
+  Sat Feb/27
+    16.30  FC Utrecht              v FC Emmen                 0-1 (0-1)
+    18.45  ADO Den Haag            v RKC Waalwijk             0-0
+    20.00  Vitesse                 v VVV-Venlo                4-1 (1-1)
+    21.00  Heracles Almelo         v FC Twente                2-2 (1-1)
+  Sun Feb/28
+    12.15  Sparta Rotterdam        v Willem II                0-2 (0-0)
+    14.30  FC Groningen            v Fortuna Sittard          1-0 (0-0)
+           PSV Eindhoven           v AFC Ajax                 1-1 (1-0)
+    16.45  AZ Alkmaar              v Feyenoord                4-2 (2-2)
+
+
+» Matchday 25
+  Fri Mar/5
+    20.00  FC Emmen                v Sparta Rotterdam         1-1 (0-1)
+  Sat Mar/6
+    16.30  Feyenoord               v VVV-Venlo                6-0 (3-0)
+    18.45  FC Twente               v Willem II                1-1 (0-0)
+    20.00  sc Heerenveen           v ADO Den Haag             3-0 (1-0)
+    21.00  RKC Waalwijk            v FC Utrecht               1-2 (0-1)
+  Sun Mar/7
+    12.15  AFC Ajax                v FC Groningen             3-1 (1-0)
+    14.30  Fortuna Sittard         v PSV Eindhoven            1-3 (0-2)
+           Heracles Almelo         v PEC Zwolle               2-1 (0-0)
+    16.45  Vitesse                 v AZ Alkmaar               2-1 (1-0)
+
+
+» Matchday 26
+  Sat Mar/13
+    16.30  Willem II               v sc Heerenveen            3-1 (1-0)
+    18.45  ADO Den Haag            v Heracles Almelo          1-2 (0-0)
+    20.00  AZ Alkmaar              v FC Twente                4-1 (3-1)
+           FC Groningen            v FC Emmen                 1-1 (0-1)
+    21.00  Sparta Rotterdam        v RKC Waalwijk             2-0 (0-0)
+  Sun Mar/14
+    12.15  VVV-Venlo               v Fortuna Sittard          1-3 (0-1)
+    14.30  FC Utrecht              v Vitesse                  1-3 (1-1)
+           PSV Eindhoven           v Feyenoord                1-1 (1-1)
+    16.45  PEC Zwolle              v AFC Ajax                 0-2 (0-2)
+
+
+» Matchday 27
+  Fri Mar/19
+    20.00  sc Heerenveen           v FC Twente                0-0
+  Sat Mar/20
+    16.30  Fortuna Sittard         v FC Utrecht               0-1 (0-0)
+    20.00  Feyenoord               v FC Emmen                 1-1 (1-0)
+    21.00  RKC Waalwijk            v FC Groningen             3-1 (2-1)
+  Sun Mar/21
+    12.15  PEC Zwolle              v VVV-Venlo                2-1 (0-0)
+    14.30  AZ Alkmaar              v PSV Eindhoven            2-0 (1-0)
+           Vitesse                 v Willem II                0-0
+    16.45  Heracles Almelo         v Sparta Rotterdam         1-1 (0-0)
+    20.00  AFC Ajax                v ADO Den Haag             5-0 (4-0)
+
+
+» Matchday 28
+  Sat Apr/3
+    18.45  VVV-Venlo               v FC Groningen             0-1 (0-0)
+    20.00  FC Twente               v Vitesse                  1-2 (1-1)
+           Willem II               v AZ Alkmaar               0-1 (0-0)
+    21.00  Sparta Rotterdam        v PEC Zwolle               3-2 (1-0)
+  Sun Apr/4
+    12.15  Feyenoord               v Fortuna Sittard          2-0 (0-0)
+    14.30  ADO Den Haag            v FC Utrecht               1-4 (0-3)
+           PSV Eindhoven           v Heracles Almelo          3-0 (2-0)
+    16.45  FC Emmen                v RKC Waalwijk             3-1 (3-0)
+           sc Heerenveen           v AFC Ajax                 1-2 (1-1)
+
+
+» Matchday 29
+  Fri Apr/9
+    20.00  Vitesse                 v ADO Den Haag             0-0
+  Sat Apr/10
+    18.45  Heracles Almelo         v Willem II                4-0 (2-0)
+    20.00  AZ Alkmaar              v Sparta Rotterdam         2-0 (1-0)
+           Fortuna Sittard         v FC Emmen                 1-3 (0-0)
+    21.00  PEC Zwolle              v FC Twente                1-0 (1-0)
+  Sun Apr/11
+    12.15  FC Utrecht              v Feyenoord                1-2 (1-1)
+    14.30  FC Groningen            v sc Heerenveen            0-2 (0-0)
+           VVV-Venlo               v PSV Eindhoven            0-2 (0-1)
+    16.45  RKC Waalwijk            v AFC Ajax                 0-1 (0-1)
+
+
+» Matchday 30
+  Fri Apr/23
+    18.45  Willem II               v RKC Waalwijk             1-0 (0-0)
+  Sat Apr/24
+    16.30  sc Heerenveen           v PEC Zwolle               0-2 (0-1)
+    18.45  PSV Eindhoven           v FC Groningen             1-0 (0-0)
+           Sparta Rotterdam        v VVV-Venlo                2-0 (1-0)
+  Sun Apr/25
+    12.15  FC Emmen                v Heracles Almelo          3-1 (0-0)
+    14.30  ADO Den Haag            v Fortuna Sittard          0-3 (0-1)
+           AFC Ajax                v AZ Alkmaar               2-0 (0-0)
+    16.45  FC Twente               v FC Utrecht               1-2 (1-0)
+           Feyenoord               v Vitesse                  0-0
+
+
+» Matchday 31
+  Sat May/1
+    16.30  Heracles Almelo         v VVV-Venlo                4-0 (2-0)
+    18.45  Fortuna Sittard         v FC Twente                3-0 (1-0)
+    20.00  RKC Waalwijk            v AZ Alkmaar               1-3 (1-1)
+           Vitesse                 v PEC Zwolle               2-1 (1-0)
+    21.00  FC Utrecht              v Willem II                3-2 (2-0)
+  Sun May/2
+    12.15  ADO Den Haag            v Feyenoord                3-2 (2-1)
+    14.30  AFC Ajax                v FC Emmen                 4-0 (1-0)
+           FC Groningen            v Sparta Rotterdam         1-2 (0-1)
+    16.45  PSV Eindhoven           v sc Heerenveen            2-2 (0-1)
+
+
+» Matchday 32
+  Fri May/7
+    20.00  Sparta Rotterdam        v Vitesse                  3-0 (1-0)
+  Sat May/8
+    16.30  FC Twente               v Heracles Almelo          1-1 (0-0)
+    18.45  sc Heerenveen           v FC Utrecht               0-0
+    20.00  AZ Alkmaar              v Fortuna Sittard          1-0 (1-0)
+    21.00  VVV-Venlo               v RKC Waalwijk             3-3 (2-2)
+  Sun May/9
+    12.15  FC Emmen                v FC Groningen             0-4 (0-1)
+    14.30  Feyenoord               v AFC Ajax                 0-3 (0-1)
+           PEC Zwolle              v ADO Den Haag             0-1 (0-1)
+    16.45  Willem II               v PSV Eindhoven            0-2 (0-1)
+
+
+» Matchday 33
+  Thu May/13
+    14.30  ADO Den Haag            v Willem II                1-4 (0-3)
+           AFC Ajax                v VVV-Venlo                3-1 (1-0)
+           FC Emmen                v sc Heerenveen            3-1 (1-0)
+           FC Groningen            v AZ Alkmaar               0-0
+           Fortuna Sittard         v Vitesse                  3-3 (2-2)
+           Heracles Almelo         v Feyenoord                1-1 (0-0)
+           PSV Eindhoven           v PEC Zwolle               4-2 (3-0)
+           RKC Waalwijk            v FC Twente                2-1 (0-0)
+           Sparta Rotterdam        v FC Utrecht               0-0
+
+
+» Matchday 34
+  Sun May/16
+    14.30  AZ Alkmaar              v Heracles Almelo          5-0 (1-0)
+           FC Twente               v ADO Den Haag             3-2 (2-2)
+           FC Utrecht              v PSV Eindhoven            1-1 (1-0)
+           Feyenoord               v RKC Waalwijk             3-0 (2-0)
+           PEC Zwolle              v FC Groningen             1-0 (0-0)
+           sc Heerenveen           v Sparta Rotterdam         1-2 (0-2)
+           Vitesse                 v AFC Ajax                 1-3 (1-2)
+           VVV-Venlo               v FC Emmen                 0-4 (0-1)
+           Willem II               v Fortuna Sittard          2-1 (1-0)

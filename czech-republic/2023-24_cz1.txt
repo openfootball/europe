@@ -1,526 +1,496 @@
-= Czech First League 2023/24
+= Czech Republic First League 2023/24
 
 # Date       Sat Jul/22 2023 - Fri May/31 2024 (314d)
 # Teams      16
 # Matches    277
-# Stages     Regular Season (240)  Playoffs - Relegation (15)  Playoffs - Championship (15)  Platzierung (6)  ECL Playoff (1)
-
-
-# Regular Season
-
-Matchday 1
-[Sat Jul/22]
-  15.00  FK Teplice               1-0 (1-0)  Viktoria Plzeň
-         MFK Karviná              4-1 (3-0)  FC Zlín
-  18.00  Slavia Praha             2-0 (1-0)  FC Hradec Králové
-  15.00  FK Pardubice             0-1 (0-1)  Bohemians Praha 1905
-[Sun Jul/23]
-  15.00  FK Mladá Boleslav        3-1 (1-0)  FK Jablonec
-         Slovan Liberec           3-1 (2-0)  Baník Ostrava
-  18.00  AC Sparta Praha          2-0 (1-0)  Sigma Olomouc
-  15.00  1. FC Slovácko           4-1 (2-0)  Dynamo České Budějovice
-
-
-Matchday 2
-[Sat Jul/29]
-  15.00  FC Zlín                  0-1 (0-0)  AC Sparta Praha
-         FK Pardubice             0-0  FK Jablonec
-         Sigma Olomouc            3-1 (2-1)  MFK Karviná
-  18.00  Baník Ostrava            0-0  1. FC Slovácko
-[Sun Jul/30]
-  15.00  Dynamo České Budějovice  1-3 (0-1)  Slavia Praha
-         FK Mladá Boleslav        2-2 (0-2)  Slovan Liberec
-  18.00  Viktoria Plzeň           1-1 (0-0)  FC Hradec Králové
-  15.00  Bohemians Praha 1905     1-2 (0-1)  FK Teplice
-
-
-Matchday 3
-[Sat Aug/5]
-  15.00  1. FC Slovácko           0-2 (0-1)  Sigma Olomouc
-         MFK Karviná              1-2 (0-2)  FK Mladá Boleslav
-         AC Sparta Praha          5-2 (3-0)  FK Pardubice
-  18.00  FC Hradec Králové        5-1 (3-0)  Dynamo České Budějovice
-[Sun Aug/6]
-  15.00  Slovan Liberec           0-1 (0-0)  Bohemians Praha 1905
-         Viktoria Plzeň           3-1 (2-1)  Baník Ostrava
-  18.00  Slavia Praha             2-1 (0-0)  FC Zlín
-  15.00  FK Teplice               0-0  FK Jablonec
-
-
-Matchday 4
-[Sat Aug/12]
-  15.00  Baník Ostrava            2-0 (0-0)  FC Hradec Králové
-         FC Zlín                  1-1 (1-1)  Slovan Liberec
-  18.00  FK Jablonec              1-5 (0-5)  AC Sparta Praha
-[Sun Aug/13]
-  15.00  FK Mladá Boleslav        0-1 (0-0)  Slavia Praha
-         FK Pardubice             2-1 (1-0)  MFK Karviná
-         Sigma Olomouc            2-1 (0-0)  FK Teplice
-  18.00  Dynamo České Budějovice  2-5 (1-2)  Viktoria Plzeň
-  15.00  Bohemians Praha 1905     0-1 (0-1)  1. FC Slovácko
-
-
-Matchday 5
-[Sat Aug/19]
-  15.00  1. FC Slovácko           2-2 (1-1)  FK Mladá Boleslav
-         MFK Karviná              1-1 (0-0)  FK Jablonec
-         Slovan Liberec           1-0 (1-0)  FK Pardubice
-  18.00  FK Teplice               1-1 (0-1)  AC Sparta Praha
-[Sun Aug/20]
-  15.00  FC Hradec Králové        2-0 (1-0)  FC Zlín
-         Viktoria Plzeň           2-1 (2-1)  Sigma Olomouc
-  18.00  Slavia Praha             1-0 (0-0)  Baník Ostrava
-  15.00  Dynamo České Budějovice  3-0 (1-0)  Bohemians Praha 1905
-
-
-Matchday 6
-[Sat Aug/26]
-  15.00  FC Zlín                  2-1 (0-0)  FK Teplice
-         FK Pardubice             0-1 (0-1)  1. FC Slovácko
-  18.00  Baník Ostrava            2-0 (0-0)  Dynamo České Budějovice
-[Sun Aug/27]
-  15.00  FK Jablonec              1-1 (1-0)  Slavia Praha
-         Sigma Olomouc            2-0 (0-0)  Slovan Liberec
-  18.00  AC Sparta Praha          3-1 (2-0)  MFK Karviná
-  15.00  Bohemians Praha 1905     2-1 (1-0)  FC Hradec Králové
-
-
-Matchday 7
-[Sat Sep/2]
-  18.00  Baník Ostrava            2-0 (0-0)  FK Mladá Boleslav
-  15.00  1. FC Slovácko           1-0 (0-0)  FC Zlín
-         Dynamo České Budějovice  2-1 (1-1)  FK Jablonec
-         FK Teplice               0-1 (0-0)  FK Pardubice
-[Sun Sep/3]
-  15.00  Slovan Liberec           0-2 (0-0)  AC Sparta Praha
-         Viktoria Plzeň           2-0 (2-0)  Bohemians Praha 1905
-  18.00  Slavia Praha             5-1 (3-1)  MFK Karviná
-  20.00  FC Hradec Králové        1-3 (1-1)  Sigma Olomouc
-
-
-Matchday 8
-[Sat Sep/16]
-  15.00  FK Mladá Boleslav        5-1 (3-0)  FC Hradec Králové
-         Bohemians Praha 1905     1-1 (0-0)  Baník Ostrava
-         Sigma Olomouc            2-1 (2-1)  Dynamo České Budějovice
-         MFK Karviná              0-1 (0-0)  FK Teplice
-  18.00  FK Pardubice             0-1 (0-1)  Slavia Praha
-[Sun Sep/17]
-  18.00  AC Sparta Praha          5-0 (3-0)  1. FC Slovácko
-  15.00  FC Zlín                  1-7 (1-4)  Viktoria Plzeň
-         FK Jablonec              1-1 (0-1)  Slovan Liberec
-
-
-Matchday 9
-[Sat Sep/23]
-  18.00  Bohemians Praha 1905     3-2 (1-2)  Sigma Olomouc
-  15.00  1. FC Slovácko           2-0 (2-0)  MFK Karviná
-         Baník Ostrava            5-1 (1-1)  FC Zlín
-         Dynamo České Budějovice  1-2 (0-1)  FK Mladá Boleslav
-         Slovan Liberec           3-3 (3-2)  FK Teplice
-[Sun Sep/24]
-  15.00  FC Hradec Králové        1-0 (1-0)  FK Jablonec
-         Viktoria Plzeň           6-2 (3-1)  FK Pardubice
-  18.00  Slavia Praha             1-1 (0-0)  AC Sparta Praha
-
-
-Matchday 10
-[Sat Sep/30]
-  15.00  MFK Karviná              5-2 (3-1)  Slovan Liberec
-         FC Zlín                  1-1 (0-1)  Dynamo České Budějovice
-         FK Jablonec              2-0 (2-0)  1. FC Slovácko
-         Sigma Olomouc            0-3 (0-2)  Baník Ostrava
-  18.00  AC Sparta Praha          2-1 (2-1)  Viktoria Plzeň
-[Sun Oct/1]
-  18.00  FK Pardubice             1-1 (1-0)  FC Hradec Králové
-  15.00  FK Mladá Boleslav        2-1 (1-0)  Bohemians Praha 1905
-         FK Teplice               0-0  Slavia Praha
-
-
-Matchday 11
-[Sat Oct/7]
-  15.00  Dynamo České Budějovice  1-0 (0-0)  MFK Karviná
-         1. FC Slovácko           2-0 (0-0)  FK Teplice
-         Bohemians Praha 1905     0-0  FC Zlín
-  18.00  Baník Ostrava            1-1 (0-1)  FK Pardubice
-  15.00  Sigma Olomouc            4-0 (1-0)  FK Mladá Boleslav
-[Sun Oct/8]
-  15.00  FC Hradec Králové        1-3 (0-2)  AC Sparta Praha
-  18.00  Slovan Liberec           2-3 (2-1)  Slavia Praha
-         Viktoria Plzeň           3-2 (2-2)  FK Jablonec
-
-
-Matchday 12
-[Sat Oct/21]
-  15.00  FC Zlín                  5-9 (2-1)  FK Mladá Boleslav
-  18.00  Slavia Praha             2-0 (0-0)  1. FC Slovácko
-  15.00  FK Pardubice             1-1 (1-0)  Sigma Olomouc
-         MFK Karviná              1-0 (0-0)  FC Hradec Králové
-         Slovan Liberec           3-0 (1-0)  Viktoria Plzeň
-[Sun Oct/22]
-  18.00  FK Jablonec              0-1 (0-1)  Bohemians Praha 1905
-  15.00  FK Teplice               0-1 (0-0)  Baník Ostrava
-         AC Sparta Praha          4-0 (2-0)  Dynamo České Budějovice
-
-
-Matchday 13
-[Sat Oct/28]
-  15.00  Sigma Olomouc            0-0  FC Zlín
-         1. FC Slovácko           1-1 (1-1)  Slovan Liberec
-         Dynamo České Budějovice  0-1 (0-1)  FK Pardubice
-         FC Hradec Králové        1-0 (1-0)  FK Teplice
-  18.00  Baník Ostrava            0-1 (0-0)  FK Jablonec
-[Sun Oct/29]
-  15.00  FK Mladá Boleslav        3-1 (2-1)  AC Sparta Praha
-         Viktoria Plzeň           0-1 (0-0)  MFK Karviná
-  18.00  Bohemians Praha 1905     0-2 (0-1)  Slavia Praha
-
-
-Matchday 14
-[Sat Nov/4]
-  15.00  FK Pardubice             0-1 (0-1)  FC Zlín
-         1. FC Slovácko           0-0  FC Hradec Králové
-         FK Jablonec              1-1 (1-1)  Sigma Olomouc
-         FK Teplice               1-0 (0-0)  FK Mladá Boleslav
-  18.00  AC Sparta Praha          2-0 (0-0)  Bohemians Praha 1905
-[Sun Nov/5]
-  18.00  Slavia Praha             1-2 (1-0)  Viktoria Plzeň
-  15.00  MFK Karviná              1-3 (1-0)  Baník Ostrava
-         Slovan Liberec           1-0 (0-0)  Dynamo České Budějovice
-
-
-Matchday 15
-[Sat Nov/11]
-  15.00  FC Zlín                  1-1 (1-0)  FK Jablonec
-         Dynamo České Budějovice  0-1 (0-1)  FK Teplice
-         FC Hradec Králové        1-1 (1-1)  Slovan Liberec
-  18.00  Bohemians Praha 1905     1-0 (0-0)  MFK Karviná
-  15.00  FK Mladá Boleslav        1-0 (0-0)  FK Pardubice
-[Sun Nov/12]
-  15.00  Baník Ostrava            0-1 (0-0)  AC Sparta Praha
-         Viktoria Plzeň           1-4 (1-1)  1. FC Slovácko
-  18.00  Sigma Olomouc            1-3 (1-2)  Slavia Praha
-
-
-Matchday 16
-[Sat Nov/25]
-  15.00  FC Hradec Králové        1-1 (1-0)  Viktoria Plzeň
-  18.00  Slavia Praha             2-1 (1-1)  Dynamo České Budějovice
-  15.00  FK Teplice               1-1 (1-0)  Bohemians Praha 1905
-         MFK Karviná              0-2 (0-1)  Sigma Olomouc
-         Slovan Liberec           2-1 (1-1)  FK Mladá Boleslav
-[Sun Nov/26]
-  18.00  AC Sparta Praha          2-0 (2-0)  FC Zlín
-  15.00  1. FC Slovácko           2-0 (1-0)  Baník Ostrava
-         FK Jablonec              2-1 (1-1)  FK Pardubice
-
-
-Matchday 17
-[Sat Dec/2]
-  15.00  Sigma Olomouc            1-1 (1-0)  1. FC Slovácko
-[Sun Dec/3]
-  15.00  FK Pardubice             1-2 (1-1)  AC Sparta Praha
-
-
-Matchday 6
-[Wed Dec/6]
-  17.00  FK Mladá Boleslav        1-3 (1-1)  Viktoria Plzeň
-
-
-Matchday 17
-[Wed Dec/6]
-  17.00  FK Jablonec              3-2 (2-1)  FK Teplice
-
-
-Matchday 18
-[Sat Dec/9]
-  18.00  FC Hradec Králové        2-3 (2-1)  Baník Ostrava
-  15.00  AC Sparta Praha          3-0 (3-0)  FK Jablonec
-         Slovan Liberec           5-3 (2-1)  FC Zlín
-         1. FC Slovácko           5-2 (2-2)  Bohemians Praha 1905
-[Sun Dec/10]
-  15.00  Viktoria Plzeň           5-0 (2-0)  Dynamo České Budějovice
-  18.00  Slavia Praha             2-0 (0-0)  FK Mladá Boleslav
-
-
-Matchday 17
-[Wed Dec/13]
-  17.00  FK Mladá Boleslav        2-2 (1-2)  MFK Karviná
-         Dynamo České Budějovice  0-2 (0-2)  FC Hradec Králové
-  18.00  Bohemians Praha 1905     0-0  Slovan Liberec
-
-
-Matchday 19
-[Sat Dec/16]
-  15.00  FK Jablonec              0-0  MFK Karviná
-         FK Pardubice             2-0 (1-0)  Slovan Liberec
-         FC Zlín                  4-0 (4-0)  FC Hradec Králové
-  18.00  Bohemians Praha 1905     0-0  Dynamo České Budějovice
-  15.00  FK Mladá Boleslav        0-1 (0-0)  1. FC Slovácko
-[Sun Dec/17]
-  15.00  Sigma Olomouc            1-3 (1-2)  Viktoria Plzeň
-         Baník Ostrava            2-3 (2-2)  Slavia Praha
-  18.00  AC Sparta Praha          2-1 (0-1)  FK Teplice
-
-
-Matchday 20
-[Sat Feb/10]
-  15.00  MFK Karviná              0-3 (0-1)  AC Sparta Praha
-  18.00  Viktoria Plzeň           1-1 (0-0)  FK Mladá Boleslav
-  15.00  Slovan Liberec           2-0 (0-0)  Sigma Olomouc
-         1. FC Slovácko           1-2 (0-1)  FK Pardubice
-         Dynamo České Budějovice  3-0 (0-0)  Baník Ostrava
-[Sun Feb/11]
-  18.00  Slavia Praha             4-3 (3-2)  FK Jablonec
-  15.00  FC Hradec Králové        2-2 (1-0)  Bohemians Praha 1905
-         FK Teplice               2-1 (1-0)  FC Zlín
-
-
-Matchday 17
-[Tue Feb/13]
-  18.00  Baník Ostrava            0-1 (0-0)  Viktoria Plzeň
-
-
-Matchday 18
-[Wed Feb/14]
-  17.00  MFK Karviná              0-3 (0-1)  FK Pardubice
-
-
-Matchday 17
-[Wed Feb/14]
-  18.00  FC Zlín                  1-1 (0-1)  Slavia Praha
-
-
-Matchday 21
-[Sat Feb/17]
-  15.00  FK Jablonec              5-2 (1-1)  Dynamo České Budějovice
-         FK Mladá Boleslav        1-3 (1-3)  Baník Ostrava
-         FK Pardubice             1-1 (1-0)  FK Teplice
-  18.00  Bohemians Praha 1905     0-2 (0-2)  Viktoria Plzeň
-  15.00  Sigma Olomouc            0-0  FC Hradec Králové
-[Sun Feb/18]
-  18.00  AC Sparta Praha          2-1 (0-0)  Slovan Liberec
-  15.00  FC Zlín                  2-1 (0-1)  1. FC Slovácko
-         MFK Karviná              0-3 (0-2)  Slavia Praha
-
-
-Matchday 18
-[Wed Feb/21]
-  17.30  FK Teplice               2-0 (1-0)  Sigma Olomouc
-
-
-Matchday 22
-[Sat Feb/24]
-  15.00  Baník Ostrava            1-1 (1-0)  Bohemians Praha 1905
-         FC Hradec Králové        0-0  FK Mladá Boleslav
-         FK Teplice               2-2 (0-1)  MFK Karviná
-         Slovan Liberec           3-3 (0-1)  FK Jablonec
-  18.00  Viktoria Plzeň           3-0 (1-0)  FC Zlín
-[Sun Feb/25]
-  15.00  Slavia Praha             3-0 (0-0)  FK Pardubice
-  18.00  1. FC Slovácko           1-3 (1-1)  AC Sparta Praha
-  15.00  Dynamo České Budějovice  2-1 (0-0)  Sigma Olomouc
-
-
-Matchday 23
-[Sat Mar/2]
-  15.00  FK Jablonec              1-1 (1-1)  FC Hradec Králové
-         FK Mladá Boleslav        3-1 (2-1)  Dynamo České Budějovice
-         MFK Karviná              1-3 (1-1)  1. FC Slovácko
-         Sigma Olomouc            2-2 (2-2)  Bohemians Praha 1905
-  18.00  FK Pardubice             2-3 (0-1)  Viktoria Plzeň
-[Sun Mar/3]
-  15.00  FC Zlín                  0-1 (0-1)  Baník Ostrava
-  18.00  AC Sparta Praha          0-0  Slavia Praha
-  14.00  FK Teplice               2-0 (2-0)  Slovan Liberec
-
-
-Matchday 24
-[Sat Mar/9]
-  15.00  1. FC Slovácko           0-1 (0-0)  FK Jablonec
-         Bohemians Praha 1905     0-0  FK Mladá Boleslav
-         FC Hradec Králové        2-0 (0-0)  FK Pardubice
-         Slovan Liberec           1-0 (0-0)  MFK Karviná
-  18.00  Baník Ostrava            1-2 (0-2)  Sigma Olomouc
-[Sun Mar/10]
-  15.00  Slavia Praha             4-0 (2-0)  FK Teplice
-  18.00  Viktoria Plzeň           4-0 (1-0)  AC Sparta Praha
-  15.00  Dynamo České Budějovice  2-2 (1-1)  FC Zlín
-
-
-Matchday 25
-[Sat Mar/16]
-  15.00  FK Mladá Boleslav        2-1 (1-0)  Sigma Olomouc
-         MFK Karviná              2-1 (1-1)  Dynamo České Budějovice
-  18.00  FK Teplice               1-1 (1-1)  1. FC Slovácko
-  15.00  FC Zlín                  2-2 (0-1)  Bohemians Praha 1905
-[Sun Mar/17]
-  15.00  FK Jablonec              1-2 (0-1)  Viktoria Plzeň
-         FK Pardubice             0-1 (0-0)  Baník Ostrava
-         Slavia Praha             3-0 (1-0)  Slovan Liberec
-  18.00  AC Sparta Praha          2-1 (1-0)  FC Hradec Králové
-
-
-Matchday 26
-[Sat Mar/30]
-  15.00  Sigma Olomouc            0-2 (0-1)  FK Pardubice
-         Viktoria Plzeň           1-3 (0-0)  Slovan Liberec
-  18.00  1. FC Slovácko           1-3 (1-2)  Slavia Praha
-  15.00  Bohemians Praha 1905     2-0 (2-0)  FK Jablonec
-[Sun Mar/31]
-  15.00  Baník Ostrava            4-1 (2-0)  FK Teplice
-         FC Hradec Králové        2-1 (1-1)  MFK Karviná
-         FK Mladá Boleslav        3-2 (2-1)  FC Zlín
-  18.00  Dynamo České Budějovice  0-1 (0-1)  AC Sparta Praha
-
-
-Matchday 27
-[Sat Apr/6]
-  15.00  MFK Karviná              0-0  Viktoria Plzeň
-         Slovan Liberec           4-1 (2-0)  1. FC Slovácko
-  18.00  Slavia Praha             2-1 (0-0)  Bohemians Praha 1905
-  15.00  FC Zlín                  3-2 (1-0)  Sigma Olomouc
-[Sun Apr/7]
-  15.00  FK Pardubice             1-1 (1-0)  Dynamo České Budějovice
-         FK Teplice               0-1 (0-1)  FC Hradec Králové
-  18.00  AC Sparta Praha          1-1 (1-1)  FK Mladá Boleslav
-  15.00  FK Jablonec              2-3 (1-2)  Baník Ostrava
-
-
-Matchday 28
-[Sat Apr/13]
-  15.00  Bohemians Praha 1905     1-3 (1-1)  AC Sparta Praha
-         Dynamo České Budějovice  3-2 (1-1)  Slovan Liberec
-         FK Mladá Boleslav        1-2 (0-0)  FK Teplice
-  18.00  FC Hradec Králové        1-0 (0-0)  1. FC Slovácko
-[Sun Apr/14]
-  15.00  FC Zlín                  1-1 (1-0)  FK Pardubice
-         Sigma Olomouc            1-0 (0-0)  FK Jablonec
-  18.00  Viktoria Plzeň           1-0 (0-0)  Slavia Praha
-  15.00  Baník Ostrava            2-2 (1-0)  MFK Karviná
-
-
-Matchday 29
-[Sat Apr/20]
-  15.00  FK Jablonec              0-0  FC Zlín
-         MFK Karviná              1-1 (0-0)  Bohemians Praha 1905
-         AC Sparta Praha          4-3 (1-0)  Baník Ostrava
-  18.00  FK Teplice               2-2 (2-1)  Dynamo České Budějovice
-[Sun Apr/21]
-  15.00  Slavia Praha             2-2 (0-0)  Sigma Olomouc
-         Slovan Liberec           0-0  FC Hradec Králové
-  18.00  1. FC Slovácko           1-1 (0-1)  Viktoria Plzeň
-  15.00  FK Pardubice             1-2 (0-2)  FK Mladá Boleslav
-
-
-Matchday 30
-[Sun Apr/28]
-  15.00  Baník Ostrava            2-2 (1-0)  Slovan Liberec
-         Bohemians Praha 1905     2-1 (1-0)  FK Pardubice
-         Dynamo České Budějovice  2-2 (1-1)  1. FC Slovácko
-         FC Hradec Králové        1-2 (0-2)  Slavia Praha
-         FC Zlín                  0-1 (0-1)  MFK Karviná
-         FK Jablonec              1-1 (1-0)  FK Mladá Boleslav
-         Sigma Olomouc            1-4 (0-2)  AC Sparta Praha
-         Viktoria Plzeň           3-0 (0-0)  FK Teplice
-
-
-== Playoffs - Relegation
-
-Matchday 1
-[Sat May/4]
-  15.00  Dynamo České Budějovice  2-1 (1-1)  Bohemians Praha 1905
-         FK Jablonec              3-2 (1-1)  MFK Karviná
-         FK Pardubice             2-0 (0-0)  FC Zlín
-
-
-Matchday 2
-[Sun May/12]
-  15.00  Bohemians Praha 1905     1-1 (0-1)  FK Jablonec
-  18.00  MFK Karviná              2-2 (2-0)  FC Zlín
-  15.00  FK Pardubice             3-2 (1-1)  Dynamo České Budějovice
-
-
-Matchday 3
-[Thu May/16]
-  17.00  FC Zlín                  1-1 (0-0)  Dynamo České Budějovice
-         Bohemians Praha 1905     1-3 (1-0)  MFK Karviná
-         FK Jablonec              3-0 (0-0)  FK Pardubice
-
-
-Matchday 4
-[Sun May/19]
-  17.00  FK Pardubice             4-0 (2-0)  MFK Karviná
-         FC Zlín                  1-2 (1-1)  Bohemians Praha 1905
-         Dynamo České Budějovice  2-2 (2-2)  FK Jablonec
-
-
-Matchday 5
-[Sat May/25]
-  18.00  MFK Karviná              1-0 (1-0)  Dynamo České Budějovice
-         FK Jablonec              1-0 (1-0)  FC Zlín
-         Bohemians Praha 1905     0-1 (0-0)  FK Pardubice
-
-
-== Playoffs - Championship
-
-Matchday 1
-[Sat May/4]
-  18.00  Slavia Praha             5-0 (1-0)  Baník Ostrava
-[Sun May/5]
-  18.00  1. FC Slovácko           2-4 (1-2)  AC Sparta Praha
-  15.00  Viktoria Plzeň           3-0 (2-0)  FK Mladá Boleslav
-
-
-Matchday 2
-[Sat May/11]
-  15.00  Baník Ostrava            0-1 (0-1)  FK Mladá Boleslav
-  17.30  AC Sparta Praha          0-0  Slavia Praha
-  15.00  Viktoria Plzeň           4-2 (2-1)  1. FC Slovácko
-
-
-Matchday 3
-[Tue May/14]
-  17.00  FK Mladá Boleslav        0-1 (0-1)  1. FC Slovácko
-  19.30  AC Sparta Praha          2-1 (1-0)  Baník Ostrava
-[Wed May/15]
-  19.30  Slavia Praha             3-0 (2-0)  Viktoria Plzeň
-
-
-Matchday 4
-[Sat May/18]
-  17.00  Viktoria Plzeň           1-1 (0-0)  Baník Ostrava
-         1. FC Slovácko           1-2 (0-0)  Slavia Praha
-         FK Mladá Boleslav        0-5 (0-3)  AC Sparta Praha
-
-
-Matchday 5
-[Sun May/26]
-  16.00  Slavia Praha             4-0 (2-0)  FK Mladá Boleslav
-         AC Sparta Praha          1-1 (1-0)  Viktoria Plzeň
-         Baník Ostrava            6-0 (3-0)  1. FC Slovácko
-
-
-== Platzierung
-
-Semifinals
-[Sun May/5]
-  15.00  FK Teplice               2-0 (0-0)  Slovan Liberec
-         FC Hradec Králové        3-1 (3-1)  Sigma Olomouc
-[Sun May/12]
-  15.00  Sigma Olomouc            1-3 (0-2)  FC Hradec Králové
-         Slovan Liberec           1-2 (0-0)  FK Teplice
-
-
-Final
-[Sun May/19]
-  15.00  FK Teplice               0-1 (0-0)  FC Hradec Králové
-[Sat May/25]
-  18.00  FC Hradec Králové        2-0 (0-0)  FK Teplice
-
-
-== ECL Playoff
-
-Final
-[Fri May/31]
-  18.00  FK Mladá Boleslav        3-1 (2-0)  FC Hradec Králové
+# Stages     Regular Season (240)  Relegation (15)  ECL Playoff (1)  Championship (15)  Platzierung (6)
+
+
+
+» Matchday 1
+  Sat Jul/22 2023
+    15.00  FK Pardubice            v Bohemians Praha 1905     0-1 (0-1)
+           FK Teplice              v Viktoria Plzeň           1-0 (1-0)
+           MFK Karviná             v FC Zlín                  4-1 (3-0)
+    18.00  Slavia Praha            v FC Hradec Králové        2-0 (1-0)
+  Sun Jul/23
+    15.00  1. FC Slovácko          v Dynamo České Budějovice  4-1 (2-0)
+           FK Mladá Boleslav       v FK Jablonec              3-1 (1-0)
+           Slovan Liberec          v Baník Ostrava            3-1 (2-0)
+    18.00  AC Sparta Praha         v Sigma Olomouc            2-0 (1-0)
+
+
+» Matchday 2
+  Sat Jul/29
+    15.00  FC Zlín                 v AC Sparta Praha          0-1 (0-0)
+           FK Pardubice            v FK Jablonec              0-0
+           Sigma Olomouc           v MFK Karviná              3-1 (2-1)
+    18.00  Baník Ostrava           v 1. FC Slovácko           0-0
+  Sun Jul/30
+    15.00  Bohemians Praha 1905    v FK Teplice               1-2 (0-1)
+           Dynamo České Budějovice v Slavia Praha             1-3 (0-1)
+           FK Mladá Boleslav       v Slovan Liberec           2-2 (0-2)
+    18.00  Viktoria Plzeň          v FC Hradec Králové        1-1 (0-0)
+
+
+» Matchday 3
+  Sat Aug/5
+    15.00  1. FC Slovácko          v Sigma Olomouc            0-2 (0-1)
+           MFK Karviná             v FK Mladá Boleslav        1-2 (0-2)
+           AC Sparta Praha         v FK Pardubice             5-2 (3-0)
+    18.00  FC Hradec Králové       v Dynamo České Budějovice  5-1 (3-0)
+  Sun Aug/6
+    15.00  FK Teplice              v FK Jablonec              0-0
+           Slovan Liberec          v Bohemians Praha 1905     0-1 (0-0)
+           Viktoria Plzeň          v Baník Ostrava            3-1 (2-1)
+    18.00  Slavia Praha            v FC Zlín                  2-1 (0-0)
+
+
+» Matchday 4
+  Sat Aug/12
+    15.00  Baník Ostrava           v FC Hradec Králové        2-0 (0-0)
+           FC Zlín                 v Slovan Liberec           1-1 (1-1)
+    18.00  FK Jablonec             v AC Sparta Praha          1-5 (0-5)
+  Sun Aug/13
+    15.00  Bohemians Praha 1905    v 1. FC Slovácko           0-1 (0-1)
+           FK Mladá Boleslav       v Slavia Praha             0-1 (0-0)
+           FK Pardubice            v MFK Karviná              2-1 (1-0)
+           Sigma Olomouc           v FK Teplice               2-1 (0-0)
+    18.00  Dynamo České Budějovice v Viktoria Plzeň           2-5 (1-2)
+
+
+» Matchday 5
+  Sat Aug/19
+    15.00  1. FC Slovácko          v FK Mladá Boleslav        2-2 (1-1)
+           MFK Karviná             v FK Jablonec              1-1 (0-0)
+           Slovan Liberec          v FK Pardubice             1-0 (1-0)
+    18.00  FK Teplice              v AC Sparta Praha          1-1 (0-1)
+  Sun Aug/20
+    15.00  Dynamo České Budějovice v Bohemians Praha 1905     3-0 (1-0)
+           FC Hradec Králové       v FC Zlín                  2-0 (1-0)
+           Viktoria Plzeň          v Sigma Olomouc            2-1 (2-1)
+    18.00  Slavia Praha            v Baník Ostrava            1-0 (0-0)
+
+
+» Matchday 6
+  Sat Aug/26
+    15.00  FC Zlín                 v FK Teplice               2-1 (0-0)
+           FK Pardubice            v 1. FC Slovácko           0-1 (0-1)
+    18.00  Baník Ostrava           v Dynamo České Budějovice  2-0 (0-0)
+  Sun Aug/27
+    15.00  Bohemians Praha 1905    v FC Hradec Králové        2-1 (1-0)
+           FK Jablonec             v Slavia Praha             1-1 (1-0)
+           Sigma Olomouc           v Slovan Liberec           2-0 (0-0)
+    18.00  AC Sparta Praha         v MFK Karviná              3-1 (2-0)
+  Wed Dec/6
+    17.00  FK Mladá Boleslav       v Viktoria Plzeň           1-3 (1-1)
+
+
+» Matchday 7
+  Sat Sep/2
+    15.00  1. FC Slovácko          v FC Zlín                  1-0 (0-0)
+           Dynamo České Budějovice v FK Jablonec              2-1 (1-1)
+           FK Teplice              v FK Pardubice             0-1 (0-0)
+    18.00  Baník Ostrava           v FK Mladá Boleslav        2-0 (0-0)
+  Sun Sep/3
+    15.00  Slovan Liberec          v AC Sparta Praha          0-2 (0-0)
+           Viktoria Plzeň          v Bohemians Praha 1905     2-0 (2-0)
+    18.00  Slavia Praha            v MFK Karviná              5-1 (3-1)
+    20.00  FC Hradec Králové       v Sigma Olomouc            1-3 (1-1)
+
+
+» Matchday 8
+  Sat Sep/16
+    15.00  Bohemians Praha 1905    v Baník Ostrava            1-1 (0-0)
+           FK Mladá Boleslav       v FC Hradec Králové        5-1 (3-0)
+           MFK Karviná             v FK Teplice               0-1 (0-0)
+           Sigma Olomouc           v Dynamo České Budějovice  2-1 (2-1)
+    18.00  FK Pardubice            v Slavia Praha             0-1 (0-1)
+  Sun Sep/17
+    15.00  FC Zlín                 v Viktoria Plzeň           1-7 (1-4)
+           FK Jablonec             v Slovan Liberec           1-1 (0-1)
+    18.00  AC Sparta Praha         v 1. FC Slovácko           5-0 (3-0)
+
+
+» Matchday 9
+  Sat Sep/23
+    15.00  1. FC Slovácko          v MFK Karviná              2-0 (2-0)
+           Baník Ostrava           v FC Zlín                  5-1 (1-1)
+           Dynamo České Budějovice v FK Mladá Boleslav        1-2 (0-1)
+           Slovan Liberec          v FK Teplice               3-3 (3-2)
+    18.00  Bohemians Praha 1905    v Sigma Olomouc            3-2 (1-2)
+  Sun Sep/24
+    15.00  FC Hradec Králové       v FK Jablonec              1-0 (1-0)
+           Viktoria Plzeň          v FK Pardubice             6-2 (3-1)
+    18.00  Slavia Praha            v AC Sparta Praha          1-1 (0-0)
+
+
+» Matchday 10
+  Sat Sep/30
+    15.00  FC Zlín                 v Dynamo České Budějovice  1-1 (0-1)
+           FK Jablonec             v 1. FC Slovácko           2-0 (2-0)
+           MFK Karviná             v Slovan Liberec           5-2 (3-1)
+           Sigma Olomouc           v Baník Ostrava            0-3 (0-2)
+    18.00  AC Sparta Praha         v Viktoria Plzeň           2-1 (2-1)
+  Sun Oct/1
+    15.00  FK Mladá Boleslav       v Bohemians Praha 1905     2-1 (1-0)
+           FK Teplice              v Slavia Praha             0-0
+    18.00  FK Pardubice            v FC Hradec Králové        1-1 (1-0)
+
+
+» Matchday 11
+  Sat Oct/7
+    15.00  1. FC Slovácko          v FK Teplice               2-0 (0-0)
+           Bohemians Praha 1905    v FC Zlín                  0-0
+           Dynamo České Budějovice v MFK Karviná              1-0 (0-0)
+           Sigma Olomouc           v FK Mladá Boleslav        4-0 (1-0)
+    18.00  Baník Ostrava           v FK Pardubice             1-1 (0-1)
+  Sun Oct/8
+    15.00  FC Hradec Králové       v AC Sparta Praha          1-3 (0-2)
+    18.00  Slovan Liberec          v Slavia Praha             2-3 (2-1)
+           Viktoria Plzeň          v FK Jablonec              3-2 (2-2)
+
+
+» Matchday 12
+  Sat Oct/21
+    15.00  FC Zlín                 v FK Mladá Boleslav        5-9 (2-1)
+           FK Pardubice            v Sigma Olomouc            1-1 (1-0)
+           MFK Karviná             v FC Hradec Králové        1-0 (0-0)
+           Slovan Liberec          v Viktoria Plzeň           3-0 (1-0)
+    18.00  Slavia Praha            v 1. FC Slovácko           2-0 (0-0)
+  Sun Oct/22
+    15.00  FK Teplice              v Baník Ostrava            0-1 (0-0)
+           AC Sparta Praha         v Dynamo České Budějovice  4-0 (2-0)
+    18.00  FK Jablonec             v Bohemians Praha 1905     0-1 (0-1)
+
+
+» Matchday 13
+  Sat Oct/28
+    15.00  1. FC Slovácko          v Slovan Liberec           1-1 (1-1)
+           Dynamo České Budějovice v FK Pardubice             0-1 (0-1)
+           FC Hradec Králové       v FK Teplice               1-0 (1-0)
+           Sigma Olomouc           v FC Zlín                  0-0
+    18.00  Baník Ostrava           v FK Jablonec              0-1 (0-0)
+  Sun Oct/29
+    15.00  FK Mladá Boleslav       v AC Sparta Praha          3-1 (2-1)
+           Viktoria Plzeň          v MFK Karviná              0-1 (0-0)
+    18.00  Bohemians Praha 1905    v Slavia Praha             0-2 (0-1)
+
+
+» Matchday 14
+  Sat Nov/4
+    15.00  1. FC Slovácko          v FC Hradec Králové        0-0
+           FK Jablonec             v Sigma Olomouc            1-1 (1-1)
+           FK Pardubice            v FC Zlín                  0-1 (0-1)
+           FK Teplice              v FK Mladá Boleslav        1-0 (0-0)
+    18.00  AC Sparta Praha         v Bohemians Praha 1905     2-0 (0-0)
+  Sun Nov/5
+    15.00  MFK Karviná             v Baník Ostrava            1-3 (1-0)
+           Slovan Liberec          v Dynamo České Budějovice  1-0 (0-0)
+    18.00  Slavia Praha            v Viktoria Plzeň           1-2 (1-0)
+
+
+» Matchday 15
+  Sat Nov/11
+    15.00  Dynamo České Budějovice v FK Teplice               0-1 (0-1)
+           FC Hradec Králové       v Slovan Liberec           1-1 (1-1)
+           FC Zlín                 v FK Jablonec              1-1 (1-0)
+           FK Mladá Boleslav       v FK Pardubice             1-0 (0-0)
+    18.00  Bohemians Praha 1905    v MFK Karviná              1-0 (0-0)
+  Sun Nov/12
+    15.00  Baník Ostrava           v AC Sparta Praha          0-1 (0-0)
+           Viktoria Plzeň          v 1. FC Slovácko           1-4 (1-1)
+    18.00  Sigma Olomouc           v Slavia Praha             1-3 (1-2)
+
+
+» Matchday 16
+  Sat Nov/25
+    15.00  FC Hradec Králové       v Viktoria Plzeň           1-1 (1-0)
+           FK Teplice              v Bohemians Praha 1905     1-1 (1-0)
+           MFK Karviná             v Sigma Olomouc            0-2 (0-1)
+           Slovan Liberec          v FK Mladá Boleslav        2-1 (1-1)
+    18.00  Slavia Praha            v Dynamo České Budějovice  2-1 (1-1)
+  Sun Nov/26
+    15.00  1. FC Slovácko          v Baník Ostrava            2-0 (1-0)
+           FK Jablonec             v FK Pardubice             2-1 (1-1)
+    18.00  AC Sparta Praha         v FC Zlín                  2-0 (2-0)
+
+
+» Matchday 17
+  Sat Dec/2
+    15.00  Sigma Olomouc           v 1. FC Slovácko           1-1 (1-0)
+  Sun Dec/3
+    15.00  FK Pardubice            v AC Sparta Praha          1-2 (1-1)
+  Wed Dec/6
+    17.00  FK Jablonec             v FK Teplice               3-2 (2-1)
+  Wed Dec/13
+    17.00  Dynamo České Budějovice v FC Hradec Králové        0-2 (0-2)
+           FK Mladá Boleslav       v MFK Karviná              2-2 (1-2)
+    18.00  Bohemians Praha 1905    v Slovan Liberec           0-0
+  Tue Feb/13 2024
+    18.00  Baník Ostrava           v Viktoria Plzeň           0-1 (0-0)
+  Wed Feb/14
+    18.00  FC Zlín                 v Slavia Praha             1-1 (0-1)
+
+
+» Matchday 18
+  Sat Dec/9 2023
+    15.00  1. FC Slovácko          v Bohemians Praha 1905     5-2 (2-2)
+           Slovan Liberec          v FC Zlín                  5-3 (2-1)
+           AC Sparta Praha         v FK Jablonec              3-0 (3-0)
+    18.00  FC Hradec Králové       v Baník Ostrava            2-3 (2-1)
+  Sun Dec/10
+    15.00  Viktoria Plzeň          v Dynamo České Budějovice  5-0 (2-0)
+    18.00  Slavia Praha            v FK Mladá Boleslav        2-0 (0-0)
+  Wed Feb/14 2024
+    17.00  MFK Karviná             v FK Pardubice             0-3 (0-1)
+  Wed Feb/21
+    17.30  FK Teplice              v Sigma Olomouc            2-0 (1-0)
+
+
+» Matchday 19
+  Sat Dec/16 2023
+    15.00  FC Zlín                 v FC Hradec Králové        4-0 (4-0)
+           FK Jablonec             v MFK Karviná              0-0
+           FK Mladá Boleslav       v 1. FC Slovácko           0-1 (0-0)
+           FK Pardubice            v Slovan Liberec           2-0 (1-0)
+    18.00  Bohemians Praha 1905    v Dynamo České Budějovice  0-0
+  Sun Dec/17
+    15.00  Baník Ostrava           v Slavia Praha             2-3 (2-2)
+           Sigma Olomouc           v Viktoria Plzeň           1-3 (1-2)
+    18.00  AC Sparta Praha         v FK Teplice               2-1 (0-1)
+
+
+» Matchday 20
+  Sat Feb/10 2024
+    15.00  1. FC Slovácko          v FK Pardubice             1-2 (0-1)
+           Dynamo České Budějovice v Baník Ostrava            3-0 (0-0)
+           MFK Karviná             v AC Sparta Praha          0-3 (0-1)
+           Slovan Liberec          v Sigma Olomouc            2-0 (0-0)
+    18.00  Viktoria Plzeň          v FK Mladá Boleslav        1-1 (0-0)
+  Sun Feb/11
+    15.00  FC Hradec Králové       v Bohemians Praha 1905     2-2 (1-0)
+           FK Teplice              v FC Zlín                  2-1 (1-0)
+    18.00  Slavia Praha            v FK Jablonec              4-3 (3-2)
+
+
+» Matchday 21
+  Sat Feb/17
+    15.00  FK Jablonec             v Dynamo České Budějovice  5-2 (1-1)
+           FK Mladá Boleslav       v Baník Ostrava            1-3 (1-3)
+           FK Pardubice            v FK Teplice               1-1 (1-0)
+           Sigma Olomouc           v FC Hradec Králové        0-0
+    18.00  Bohemians Praha 1905    v Viktoria Plzeň           0-2 (0-2)
+  Sun Feb/18
+    15.00  FC Zlín                 v 1. FC Slovácko           2-1 (0-1)
+           MFK Karviná             v Slavia Praha             0-3 (0-2)
+    18.00  AC Sparta Praha         v Slovan Liberec           2-1 (0-0)
+
+
+» Matchday 22
+  Sat Feb/24
+    15.00  Baník Ostrava           v Bohemians Praha 1905     1-1 (1-0)
+           FC Hradec Králové       v FK Mladá Boleslav        0-0
+           FK Teplice              v MFK Karviná              2-2 (0-1)
+           Slovan Liberec          v FK Jablonec              3-3 (0-1)
+    18.00  Viktoria Plzeň          v FC Zlín                  3-0 (1-0)
+  Sun Feb/25
+    15.00  Dynamo České Budějovice v Sigma Olomouc            2-1 (0-0)
+           Slavia Praha            v FK Pardubice             3-0 (0-0)
+    18.00  1. FC Slovácko          v AC Sparta Praha          1-3 (1-1)
+
+
+» Matchday 23
+  Sat Mar/2
+    15.00  FK Jablonec             v FC Hradec Králové        1-1 (1-1)
+           FK Mladá Boleslav       v Dynamo České Budějovice  3-1 (2-1)
+           MFK Karviná             v 1. FC Slovácko           1-3 (1-1)
+           Sigma Olomouc           v Bohemians Praha 1905     2-2 (2-2)
+    18.00  FK Pardubice            v Viktoria Plzeň           2-3 (0-1)
+  Sun Mar/3
+    14.00  FK Teplice              v Slovan Liberec           2-0 (2-0)
+    15.00  FC Zlín                 v Baník Ostrava            0-1 (0-1)
+    18.00  AC Sparta Praha         v Slavia Praha             0-0
+
+
+» Matchday 24
+  Sat Mar/9
+    15.00  1. FC Slovácko          v FK Jablonec              0-1 (0-0)
+           Bohemians Praha 1905    v FK Mladá Boleslav        0-0
+           FC Hradec Králové       v FK Pardubice             2-0 (0-0)
+           Slovan Liberec          v MFK Karviná              1-0 (0-0)
+    18.00  Baník Ostrava           v Sigma Olomouc            1-2 (0-2)
+  Sun Mar/10
+    15.00  Dynamo České Budějovice v FC Zlín                  2-2 (1-1)
+           Slavia Praha            v FK Teplice               4-0 (2-0)
+    18.00  Viktoria Plzeň          v AC Sparta Praha          4-0 (1-0)
+
+
+» Matchday 25
+  Sat Mar/16
+    15.00  FC Zlín                 v Bohemians Praha 1905     2-2 (0-1)
+           FK Mladá Boleslav       v Sigma Olomouc            2-1 (1-0)
+           MFK Karviná             v Dynamo České Budějovice  2-1 (1-1)
+    18.00  FK Teplice              v 1. FC Slovácko           1-1 (1-1)
+  Sun Mar/17
+    15.00  FK Jablonec             v Viktoria Plzeň           1-2 (0-1)
+           FK Pardubice            v Baník Ostrava            0-1 (0-0)
+           Slavia Praha            v Slovan Liberec           3-0 (1-0)
+    18.00  AC Sparta Praha         v FC Hradec Králové        2-1 (1-0)
+
+
+» Matchday 26
+  Sat Mar/30
+    15.00  Bohemians Praha 1905    v FK Jablonec              2-0 (2-0)
+           Sigma Olomouc           v FK Pardubice             0-2 (0-1)
+           Viktoria Plzeň          v Slovan Liberec           1-3 (0-0)
+    18.00  1. FC Slovácko          v Slavia Praha             1-3 (1-2)
+  Sun Mar/31
+    15.00  Baník Ostrava           v FK Teplice               4-1 (2-0)
+           FC Hradec Králové       v MFK Karviná              2-1 (1-1)
+           FK Mladá Boleslav       v FC Zlín                  3-2 (2-1)
+    18.00  Dynamo České Budějovice v AC Sparta Praha          0-1 (0-1)
+
+
+» Matchday 27
+  Sat Apr/6
+    15.00  FC Zlín                 v Sigma Olomouc            3-2 (1-0)
+           MFK Karviná             v Viktoria Plzeň           0-0
+           Slovan Liberec          v 1. FC Slovácko           4-1 (2-0)
+    18.00  Slavia Praha            v Bohemians Praha 1905     2-1 (0-0)
+  Sun Apr/7
+    15.00  FK Jablonec             v Baník Ostrava            2-3 (1-2)
+           FK Pardubice            v Dynamo České Budějovice  1-1 (1-0)
+           FK Teplice              v FC Hradec Králové        0-1 (0-1)
+    18.00  AC Sparta Praha         v FK Mladá Boleslav        1-1 (1-1)
+
+
+» Matchday 28
+  Sat Apr/13
+    15.00  Bohemians Praha 1905    v AC Sparta Praha          1-3 (1-1)
+           Dynamo České Budějovice v Slovan Liberec           3-2 (1-1)
+           FK Mladá Boleslav       v FK Teplice               1-2 (0-0)
+    18.00  FC Hradec Králové       v 1. FC Slovácko           1-0 (0-0)
+  Sun Apr/14
+    15.00  Baník Ostrava           v MFK Karviná              2-2 (1-0)
+           FC Zlín                 v FK Pardubice             1-1 (1-0)
+           Sigma Olomouc           v FK Jablonec              1-0 (0-0)
+    18.00  Viktoria Plzeň          v Slavia Praha             1-0 (0-0)
+
+
+» Matchday 29
+  Sat Apr/20
+    15.00  FK Jablonec             v FC Zlín                  0-0
+           MFK Karviná             v Bohemians Praha 1905     1-1 (0-0)
+           AC Sparta Praha         v Baník Ostrava            4-3 (1-0)
+    18.00  FK Teplice              v Dynamo České Budějovice  2-2 (2-1)
+  Sun Apr/21
+    15.00  FK Pardubice            v FK Mladá Boleslav        1-2 (0-2)
+           Slavia Praha            v Sigma Olomouc            2-2 (0-0)
+           Slovan Liberec          v FC Hradec Králové        0-0
+    18.00  1. FC Slovácko          v Viktoria Plzeň           1-1 (0-1)
+
+
+» Matchday 30
+  Sun Apr/28
+    15.00  Baník Ostrava           v Slovan Liberec           2-2 (1-0)
+           Bohemians Praha 1905    v FK Pardubice             2-1 (1-0)
+           Dynamo České Budějovice v 1. FC Slovácko           2-2 (1-1)
+           FC Hradec Králové       v Slavia Praha             1-2 (0-2)
+           FC Zlín                 v MFK Karviná              0-1 (0-1)
+           FK Jablonec             v FK Mladá Boleslav        1-1 (1-0)
+           Sigma Olomouc           v AC Sparta Praha          1-4 (0-2)
+           Viktoria Plzeň          v FK Teplice               3-0 (0-0)
+
+
+» Relegation, Matchday 1
+  Sat May/4
+    15.00  Dynamo České Budějovice v Bohemians Praha 1905     2-1 (1-1)
+           FK Jablonec             v MFK Karviná              3-2 (1-1)
+           FK Pardubice            v FC Zlín                  2-0 (0-0)
+
+
+» Relegation, Matchday 2
+  Sun May/12
+    15.00  FK Pardubice            v Dynamo České Budějovice  3-2 (1-1)
+           Bohemians Praha 1905    v FK Jablonec              1-1 (0-1)
+    18.00  MFK Karviná             v FC Zlín                  2-2 (2-0)
+
+
+» Relegation, Matchday 3
+  Thu May/16
+    17.00  Bohemians Praha 1905    v MFK Karviná              1-3 (1-0)
+           FK Jablonec             v FK Pardubice             3-0 (0-0)
+           FC Zlín                 v Dynamo České Budějovice  1-1 (0-0)
+
+
+» Relegation, Matchday 4
+  Sun May/19
+    17.00  FK Pardubice            v MFK Karviná              4-0 (2-0)
+           Dynamo České Budějovice v FK Jablonec              2-2 (2-2)
+           FC Zlín                 v Bohemians Praha 1905     1-2 (1-1)
+
+
+» Relegation, Matchday 5
+  Sat May/25
+    18.00  Bohemians Praha 1905    v FK Pardubice             0-1 (0-0)
+           FK Jablonec             v FC Zlín                  1-0 (1-0)
+           MFK Karviná             v Dynamo České Budějovice  1-0 (1-0)
+
+
+» ECL Playoff, Final
+  Fri May/31
+    18.00  FK Mladá Boleslav       v FC Hradec Králové        3-1 (2-0)
+
+
+» Championship, Matchday 1
+  Sat May/4
+    18.00  Slavia Praha            v Baník Ostrava            5-0 (1-0)
+  Sun May/5
+    15.00  Viktoria Plzeň          v FK Mladá Boleslav        3-0 (2-0)
+    18.00  1. FC Slovácko          v AC Sparta Praha          2-4 (1-2)
+
+
+» Championship, Matchday 2
+  Sat May/11
+    15.00  Baník Ostrava           v FK Mladá Boleslav        0-1 (0-1)
+           Viktoria Plzeň          v 1. FC Slovácko           4-2 (2-1)
+    17.30  AC Sparta Praha         v Slavia Praha             0-0
+
+
+» Championship, Matchday 3
+  Tue May/14
+    17.00  FK Mladá Boleslav       v 1. FC Slovácko           0-1 (0-1)
+    19.30  AC Sparta Praha         v Baník Ostrava            2-1 (1-0)
+  Wed May/15
+    19.30  Slavia Praha            v Viktoria Plzeň           3-0 (2-0)
+
+
+» Championship, Matchday 4
+  Sat May/18
+    17.00  FK Mladá Boleslav       v AC Sparta Praha          0-5 (0-3)
+           1. FC Slovácko          v Slavia Praha             1-2 (0-0)
+           Viktoria Plzeň          v Baník Ostrava            1-1 (0-0)
+
+
+» Championship, Matchday 5
+  Sun May/26
+    16.00  AC Sparta Praha         v Viktoria Plzeň           1-1 (1-0)
+           Slavia Praha            v FK Mladá Boleslav        4-0 (2-0)
+           Baník Ostrava           v 1. FC Slovácko           6-0 (3-0)
+
+
+» Platzierung, Semifinals
+  Sun May/5
+    15.00  FK Teplice              v Slovan Liberec           2-0 (0-0)
+           FC Hradec Králové       v Sigma Olomouc            3-1 (3-1)
+  Sun May/12
+    15.00  Slovan Liberec          v FK Teplice               1-2 (0-0)
+           Sigma Olomouc           v FC Hradec Králové        1-3 (0-2)
+
+
+» Platzierung, Final
+  Sun May/19
+    15.00  FK Teplice              v FC Hradec Králové        0-1 (0-0)
+  Sat May/25
+    18.00  FC Hradec Králové       v FK Teplice               2-0 (0-0)

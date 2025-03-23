@@ -1,599 +1,601 @@
 = French Ligue 1 2022/23
 
-
-Matchday 1
-[Fri Aug/5]
-  21.00  Olympique Lyonnais       2-1 (2-1)  AC Ajaccio
-[Sat Aug/6]
-  17.00  RC Strasbourg            1-2 (0-1)  AS Monaco
-  21.00  Clermont Foot 63         0-5 (0-3)  Paris Saint-Germain
-[Sun Aug/7]
-  13.00  Toulouse FC              1-1 (1-0)  OGC Nice
-  15.00  RC Lens                  3-2 (1-0)  Stade Brestois 29
-         Montpellier HSC          3-2 (2-2)  ES Troyes AC
-         Lille OSC                4-1 (3-0)  AJ Auxerre
-         Angers SCO               0-0  FC Nantes
-  17.05  Stade Rennais FC         0-1 (0-0)  FC Lorient
-  20.45  Olympique de Marseille   4-1 (2-0)  Stade de Reims
-
-
-Matchday 2
-[Fri Aug/12]
-  21.00  FC Nantes                1-1 (1-0)  Lille OSC
-[Sat Aug/13]
-  17.00  AS Monaco                1-1 (0-0)  Stade Rennais FC
-  21.00  Paris Saint-Germain      5-2 (2-0)  Montpellier HSC
-[Sun Aug/14]
-  15.00  Stade de Reims           2-4 (2-0)  Clermont Foot 63
-         AJ Auxerre               2-2 (2-1)  Angers SCO
-         AC Ajaccio               0-0  RC Lens
-         ES Troyes AC             0-3 (0-1)  Toulouse FC
-  17.05  OGC Nice                 1-1 (1-0)  RC Strasbourg
-  20.45  Stade Brestois 29        1-1 (0-1)  Olympique de Marseille
-
-
-Matchday 3
-[Fri Aug/19]
-  21.00  Olympique Lyonnais       4-1 (1-1)  ES Troyes AC
-[Sat Aug/20]
-  17.00  AS Monaco                1-4 (1-2)  RC Lens
-  21.00  Olympique de Marseille   2-1 (0-0)  FC Nantes
-[Sun Aug/21]
-  13.00  RC Strasbourg            1-1 (1-0)  Stade de Reims
-  15.00  Montpellier HSC          1-2 (1-0)  AJ Auxerre
-         Clermont Foot 63         1-0 (1-0)  OGC Nice
-         Angers SCO               1-3 (0-2)  Stade Brestois 29
-         Toulouse FC              2-2 (1-1)  FC Lorient
-  17.05  Stade Rennais FC         2-1 (1-0)  AC Ajaccio
-  20.45  Lille OSC                1-7 (0-4)  Paris Saint-Germain
-
-
-Matchday 4
-[Fri Aug/26]
-  21.00  AC Ajaccio               1-3 (0-2)  Lille OSC
-[Sat Aug/27]
-  17.00  AJ Auxerre               1-0 (1-0)  RC Strasbourg
-  21.00  RC Lens                  2-1 (0-0)  Stade Rennais FC
-[Sun Aug/28]
-  13.00  FC Nantes                3-1 (0-1)  Toulouse FC
-  15.00  ES Troyes AC             3-1 (1-0)  Angers SCO
-         Stade Brestois 29        0-7 (0-5)  Montpellier HSC
-         OGC Nice                 0-3 (0-3)  Olympique de Marseille
-         FC Lorient               2-1 (2-0)  Clermont Foot 63
-  17.05  Stade de Reims           1-1 (1-0)  Olympique Lyonnais
-  20.45  Paris Saint-Germain      1-1 (0-1)  AS Monaco
-
-
-Matchday 5
-[Wed Aug/31]
-  19.00  Olympique Lyonnais       2-1 (1-0)  AJ Auxerre
-         Montpellier HSC          2-0 (1-0)  AC Ajaccio
-         Angers SCO               2-4 (0-2)  Stade de Reims
-         AS Monaco                2-4 (1-2)  ES Troyes AC
-         RC Strasbourg            1-1 (1-0)  FC Nantes
-  21.00  Toulouse FC              0-3 (0-1)  Paris Saint-Germain
-         Stade Rennais FC         3-1 (0-0)  Stade Brestois 29
-         RC Lens                  5-2 (2-1)  FC Lorient
-         Olympique de Marseille   1-0 (0-0)  Clermont Foot 63
-         Lille OSC                1-2 (1-2)  OGC Nice
-
-
-Matchday 6
-[Sat Sep/3]
-  17.00  AJ Auxerre               0-2 (0-1)  Olympique de Marseille
-  19.00  Olympique Lyonnais       5-0 (2-0)  Angers SCO
-  21.00  FC Nantes                0-3 (0-1)  Paris Saint-Germain
-[Sun Sep/4]
-  13.00  Montpellier HSC          1-3 (1-1)  Lille OSC
-  15.00  Stade de Reims           1-1 (0-0)  RC Lens
-         Stade Brestois 29        1-1 (1-1)  RC Strasbourg
-         Clermont Foot 63         2-0 (0-0)  Toulouse FC
-         AC Ajaccio               0-1 (0-0)  FC Lorient
-  17.10  ES Troyes AC             1-1 (1-0)  Stade Rennais FC
-  20.45  OGC Nice                 0-1 (0-0)  AS Monaco
-
-
-Matchday 2
-[Wed Sep/7]
-  19.00  FC Lorient               3-1 (2-1)  Olympique Lyonnais
-
-
-Matchday 7
-[Fri Sep/9]
-  21.00  RC Lens                  1-0 (1-0)  ES Troyes AC
-[Sat Sep/10]
-  17.00  Paris Saint-Germain      1-0 (1-0)  Stade Brestois 29
-  21.00  Olympique de Marseille   2-1 (1-1)  Lille OSC
-[Sun Sep/11]
-  13.00  RC Strasbourg            0-0  Clermont Foot 63
-  15.00  Toulouse FC              1-0 (1-0)  Stade de Reims
-         FC Lorient               3-2 (1-1)  FC Nantes
-         Angers SCO               2-1 (1-1)  Montpellier HSC
-         AC Ajaccio               0-1 (0-0)  OGC Nice
-  17.05  Stade Rennais FC         5-0 (1-0)  AJ Auxerre
-  20.45  AS Monaco                2-1 (0-0)  Olympique Lyonnais
-
-
-Matchday 8
-[Fri Sep/16]
-  21.00  AJ Auxerre               1-3 (0-3)  FC Lorient
-[Sat Sep/17]
-  17.00  Montpellier HSC          2-1 (1-0)  RC Strasbourg
-  21.00  Lille OSC                2-1 (1-0)  Toulouse FC
-[Sun Sep/18]
-  13.00  Stade de Reims           0-3 (0-0)  AS Monaco
-  15.00  Stade Brestois 29        0-1 (0-0)  AC Ajaccio
-         Olympique de Marseille   1-1 (0-1)  Stade Rennais FC
-         OGC Nice                 0-1 (0-1)  Angers SCO
-         Clermont Foot 63         1-3 (1-1)  ES Troyes AC
-  17.05  FC Nantes                0-0  RC Lens
-  20.45  Olympique Lyonnais       0-1 (0-1)  Paris Saint-Germain
-
-
-Matchday 9
-[Fri Sep/30]
-  21.00  Angers SCO               0-3 (0-1)  Olympique de Marseille
-[Sat Oct/1]
-  17.00  RC Strasbourg            1-3 (0-1)  Stade Rennais FC
-  21.00  Paris Saint-Germain      2-1 (1-0)  OGC Nice
-[Sun Oct/2]
-  13.00  FC Lorient               2-1 (1-0)  Lille OSC
-  15.00  Toulouse FC              4-2 (3-1)  Montpellier HSC
-         AJ Auxerre               1-1 (0-0)  Stade Brestois 29
-         AC Ajaccio               1-3 (0-1)  Clermont Foot 63
-         ES Troyes AC             2-2 (0-1)  Stade de Reims
-  17.05  AS Monaco                4-1 (3-0)  FC Nantes
-  20.45  RC Lens                  1-0 (0-0)  Olympique Lyonnais
-
-
-Matchday 10
-[Fri Oct/7]
-  21.00  Olympique Lyonnais       1-1 (1-0)  Toulouse FC
-[Sat Oct/8]
-  17.00  Olympique de Marseille   1-2 (1-1)  AC Ajaccio
-  21.00  Stade de Reims           0-0  Paris Saint-Germain
-[Sun Oct/9]
-  13.00  Montpellier HSC          0-2 (0-1)  AS Monaco
-  15.00  Stade Brestois 29        1-2 (1-1)  FC Lorient
-         OGC Nice                 3-2 (2-0)  ES Troyes AC
-         Clermont Foot 63         2-1 (0-0)  AJ Auxerre
-         Angers SCO               2-3 (1-2)  RC Strasbourg
-  17.05  Stade Rennais FC         3-0 (1-0)  FC Nantes
-  20.45  Lille OSC                1-0 (1-0)  RC Lens
-
-
-Matchday 11
-[Fri Oct/14]
-  21.00  RC Strasbourg            0-3 (0-1)  Lille OSC
-[Sat Oct/15]
-  17.00  FC Lorient               0-0  Stade de Reims
-  21.00  RC Lens                  1-0 (0-0)  Montpellier HSC
-[Sun Oct/16]
-  13.00  Toulouse FC              3-2 (2-1)  Angers SCO
-  15.00  Stade Rennais FC         3-2 (1-1)  Olympique Lyonnais
-         FC Nantes                4-1 (2-1)  Stade Brestois 29
-         AJ Auxerre               1-1 (1-1)  OGC Nice
-         ES Troyes AC             1-1 (0-0)  AC Ajaccio
-  17.05  AS Monaco                1-1 (1-0)  Clermont Foot 63
-  20.45  Paris Saint-Germain      1-0 (1-0)  Olympique de Marseille
-
-
-Matchday 12
-[Fri Oct/21]
-  21.00  AC Ajaccio               0-3 (0-1)  Paris Saint-Germain
-[Sat Oct/22]
-  17.00  Montpellier HSC          1-2 (0-1)  Olympique Lyonnais
-  21.00  Olympique de Marseille   0-1 (0-0)  RC Lens
-[Sun Oct/23]
-  13.00  Angers SCO               1-2 (0-1)  Stade Rennais FC
-  15.00  ES Troyes AC             2-2 (1-0)  FC Lorient
-         Toulouse FC              2-2 (1-0)  RC Strasbourg
-         Stade de Reims           2-1 (1-1)  AJ Auxerre
-         Clermont Foot 63         1-3 (0-1)  Stade Brestois 29
-  17.05  OGC Nice                 1-1 (0-0)  FC Nantes
-  20.45  Lille OSC                4-3 (2-2)  AS Monaco
-
-
-Matchday 13
-[Fri Oct/28]
-  21.00  RC Lens                  3-0 (0-0)  Toulouse FC
-[Sat Oct/29]
-  17.00  Paris Saint-Germain      4-3 (1-1)  ES Troyes AC
-  21.00  RC Strasbourg            2-2 (0-2)  Olympique de Marseille
-[Sun Oct/30]
-  13.00  AJ Auxerre               1-0 (1-0)  AC Ajaccio
-  15.00  Stade Rennais FC         3-0 (2-0)  Montpellier HSC
-         Stade Brestois 29        0-0  Stade de Reims
-         FC Nantes                1-1 (0-0)  Clermont Foot 63
-         AS Monaco                2-0 (0-0)  Angers SCO
-  17.05  FC Lorient               1-2 (1-0)  OGC Nice
-  20.45  Olympique Lyonnais       1-0 (0-0)  Lille OSC
-
-
-Matchday 14
-[Fri Nov/4]
-  21.00  ES Troyes AC             1-1 (1-0)  AJ Auxerre
-[Sat Nov/5]
-  17.00  AC Ajaccio               4-2 (4-2)  RC Strasbourg
-  21.00  Angers SCO               1-2 (0-1)  RC Lens
-[Sun Nov/6]
-  13.00  FC Lorient               1-2 (0-1)  Paris Saint-Germain
-  15.00  Stade de Reims           1-0 (0-0)  FC Nantes
-         OGC Nice                 1-0 (0-0)  Stade Brestois 29
-         Clermont Foot 63         1-1 (0-1)  Montpellier HSC
-         Toulouse FC              0-2 (0-0)  AS Monaco
-  17.05  Lille OSC                1-1 (1-0)  Stade Rennais FC
-  20.45  Olympique de Marseille   1-0 (1-0)  Olympique Lyonnais
-
-
-Matchday 15
-[Fri Nov/11]
-  21.00  Olympique Lyonnais       1-1 (0-1)  OGC Nice
-[Sat Nov/12]
-  17.00  RC Lens                  2-1 (0-1)  Clermont Foot 63
-  21.00  Stade Rennais FC         2-1 (1-0)  Toulouse FC
-[Sun Nov/13]
-  13.00  Paris Saint-Germain      5-0 (1-0)  AJ Auxerre
-  15.00  Stade Brestois 29        2-1 (0-0)  ES Troyes AC
-         Montpellier HSC          1-1 (0-0)  Stade de Reims
-         Lille OSC                1-0 (1-0)  Angers SCO
-         FC Nantes                2-2 (0-0)  AC Ajaccio
-  17.05  RC Strasbourg            1-1 (0-1)  FC Lorient
-  20.45  AS Monaco                2-3 (1-1)  Olympique de Marseille
-
-
-Matchday 16
-[Wed Dec/28]
-  15.00  AC Ajaccio               1-0 (1-0)  Angers SCO
-         ES Troyes AC             0-0  FC Nantes
-  17.00  AJ Auxerre               2-3 (1-1)  AS Monaco
-  19.00  Clermont Foot 63         0-2 (0-0)  Lille OSC
-  21.00  Paris Saint-Germain      2-1 (1-0)  RC Strasbourg
-         Stade Brestois 29        2-4 (1-3)  Olympique Lyonnais
-[Thu Dec/29]
-  17.00  FC Lorient               0-2 (0-2)  Montpellier HSC
-  19.00  Stade de Reims           3-1 (2-1)  Stade Rennais FC
-  21.00  Olympique de Marseille   6-1 (2-0)  Toulouse FC
-         OGC Nice                 0-0  RC Lens
-
-
-Matchday 17
-[Sun Jan/1]
-  15.00  FC Nantes                1-0 (0-0)  AJ Auxerre
-         Angers SCO               1-2 (1-0)  FC Lorient
-         AS Monaco                1-0 (0-0)  Stade Brestois 29
-         Toulouse FC              2-0 (0-0)  AC Ajaccio
-  17.00  Olympique Lyonnais       0-1 (0-0)  Clermont Foot 63
-  20.45  RC Lens                  3-1 (2-1)  Paris Saint-Germain
-[Mon Jan/2]
-  15.00  RC Strasbourg            2-3 (1-2)  ES Troyes AC
-  17.00  Lille OSC                1-1 (1-0)  Stade de Reims
-  19.00  Montpellier HSC          1-2 (0-0)  Olympique de Marseille
-  21.00  Stade Rennais FC         2-1 (1-1)  OGC Nice
-
-
-Matchday 18
-[Wed Jan/11]
-  19.00  FC Nantes                0-0  Olympique Lyonnais
-         Clermont Foot 63         2-1 (1-0)  Stade Rennais FC
-         AJ Auxerre               0-5 (0-3)  Toulouse FC
-         AC Ajaccio               0-1 (0-1)  Stade de Reims
-         Stade Brestois 29        0-0  Lille OSC
-  21.00  ES Troyes AC             0-2 (0-1)  Olympique de Marseille
-         RC Strasbourg            2-2 (2-2)  RC Lens
-         Paris Saint-Germain      2-0 (1-0)  Angers SCO
-         OGC Nice                 6-1 (2-0)  Montpellier HSC
-         FC Lorient               2-2 (0-0)  AS Monaco
-
-
-Matchday 19
-[Sat Jan/14]
-  17.00  RC Lens                  1-0 (0-0)  AJ Auxerre
-  19.00  Olympique de Marseille   3-1 (1-1)  FC Lorient
-  21.00  Olympique Lyonnais       1-2 (1-2)  RC Strasbourg
-[Sun Jan/15]
-  13.00  Lille OSC                5-1 (2-0)  ES Troyes AC
-  15.00  Toulouse FC              1-1 (0-1)  Stade Brestois 29
-         Stade de Reims           0-0  OGC Nice
-         Montpellier HSC          0-3 (0-1)  FC Nantes
-         Angers SCO               1-2 (0-1)  Clermont Foot 63
-  17.05  AS Monaco                7-1 (5-1)  AC Ajaccio
-  20.45  Stade Rennais FC         1-0 (0-0)  Paris Saint-Germain
-
-
-Matchday 20
-[Fri Jan/27]
-  21.00  FC Lorient               2-1 (2-0)  Stade Rennais FC
-[Sat Jan/28]
-  17.00  ES Troyes AC             1-1 (0-0)  RC Lens
-  21.00  Olympique de Marseille   1-1 (0-1)  AS Monaco
-[Sun Jan/29]
-  13.00  OGC Nice                 1-0 (1-0)  Lille OSC
-  15.00  Stade Brestois 29        4-0 (2-0)  Angers SCO
-         RC Strasbourg            1-2 (1-1)  Toulouse FC
-         Clermont Foot 63         0-0  FC Nantes
-         AJ Auxerre               0-2 (0-0)  Montpellier HSC
-  17.05  AC Ajaccio               0-2 (0-1)  Olympique Lyonnais
-  20.45  Paris Saint-Germain      1-1 (0-0)  Stade de Reims
-
-
-Matchday 21
-[Wed Feb/1]
-  19.00  Toulouse FC              4-1 (2-1)  ES Troyes AC
-         Stade de Reims           4-2 (1-2)  FC Lorient
-         Lille OSC                0-0  Clermont Foot 63
-         FC Nantes                0-2 (0-0)  Olympique de Marseille
-         Angers SCO               1-2 (1-0)  AC Ajaccio
-  21.00  RC Lens                  0-1 (0-0)  OGC Nice
-         Olympique Lyonnais       0-0  Stade Brestois 29
-         Montpellier HSC          1-3 (0-0)  Paris Saint-Germain
-         AS Monaco                3-2 (2-0)  AJ Auxerre
-         Stade Rennais FC         3-0 (2-0)  RC Strasbourg
-
-
-Matchday 22
-[Sat Feb/4]
-  17.00  Paris Saint-Germain      2-1 (1-1)  Toulouse FC
-  19.00  ES Troyes AC             1-3 (0-1)  Olympique Lyonnais
-  21.00  Stade Rennais FC         1-3 (1-0)  Lille OSC
-[Sun Feb/5]
-  13.00  Clermont Foot 63         0-2 (0-2)  AS Monaco
-  15.00  FC Lorient               0-0  Angers SCO
-         AJ Auxerre               0-0  Stade de Reims
-         AC Ajaccio               0-2 (0-0)  FC Nantes
-         RC Strasbourg            2-0 (2-0)  Montpellier HSC
-  17.05  Stade Brestois 29        1-1 (0-0)  RC Lens
-  20.45  Olympique de Marseille   1-3 (0-2)  OGC Nice
-
-
-Matchday 23
-[Fri Feb/10]
-  21.00  OGC Nice                 3-0 (1-0)  AC Ajaccio
-[Sat Feb/11]
-  17.00  AS Monaco                3-1 (3-1)  Paris Saint-Germain
-  21.48  Clermont Foot 63         0-2 (0-1)  Olympique de Marseille
-[Sun Feb/12]
-  13.00  Toulouse FC              3-1 (3-0)  Stade Rennais FC
-  15.00  Montpellier HSC          3-0 (2-0)  Stade Brestois 29
-         Lille OSC                2-0 (2-0)  RC Strasbourg
-         Angers SCO               1-1 (1-1)  AJ Auxerre
-         Stade de Reims           4-0 (2-0)  ES Troyes AC
-  17.05  FC Nantes                1-0 (0-0)  FC Lorient
-  20.45  Olympique Lyonnais       2-1 (1-1)  RC Lens
-
-
-Matchday 24
-[Fri Feb/17]
-  21.00  AJ Auxerre               2-1 (0-1)  Olympique Lyonnais
-[Sat Feb/18]
-  17.00  OGC Nice                 0-0  Stade de Reims
-  21.00  RC Strasbourg            2-1 (2-0)  Angers SCO
-[Sun Feb/19]
-  13.00  Paris Saint-Germain      4-3 (2-1)  Lille OSC
-  15.00  ES Troyes AC             0-1 (0-0)  Montpellier HSC
-         Stade Rennais FC         2-0 (1-0)  Clermont Foot 63
-         Stade Brestois 29        1-2 (0-1)  AS Monaco
-         FC Lorient               3-0 (2-0)  AC Ajaccio
-  17.05  RC Lens                  3-1 (2-1)  FC Nantes
-  20.45  Toulouse FC              2-3 (1-0)  Olympique de Marseille
-
-
-Matchday 25
-[Fri Feb/24]
-  21.00  Lille OSC                2-1 (0-1)  Stade Brestois 29
-[Sat Feb/25]
-  17.00  Angers SCO               1-3 (0-1)  Olympique Lyonnais
-  21.00  Montpellier HSC          1-1 (0-1)  RC Lens
-[Sun Feb/26]
-  13.00  FC Lorient               0-1 (0-0)  AJ Auxerre
-  15.00  AC Ajaccio               2-1 (0-1)  ES Troyes AC
-         Stade de Reims           3-0 (2-0)  Toulouse FC
-         FC Nantes                0-1 (0-1)  Stade Rennais FC
-         Clermont Foot 63         1-1 (0-1)  RC Strasbourg
-  17.05  AS Monaco                0-3 (0-3)  OGC Nice
-  20.45  Olympique de Marseille   0-3 (0-2)  Paris Saint-Germain
-
-
-Matchday 26
-[Fri Mar/3]
-  21.00  OGC Nice                 1-1 (1-1)  AJ Auxerre
-[Sat Mar/4]
-  17.00  RC Lens                  1-1 (1-0)  Lille OSC
-  21.00  Paris Saint-Germain      4-2 (2-2)  FC Nantes
-[Sun Mar/5]
-  13.00  ES Troyes AC             2-2 (1-0)  AS Monaco
-  15.00  Toulouse FC              0-1 (0-0)  Clermont Foot 63
-         Stade de Reims           1-0 (0-0)  AC Ajaccio
-         RC Strasbourg            0-1 (0-1)  Stade Brestois 29
-         Montpellier HSC          5-0 (3-0)  Angers SCO
-  17.05  Olympique Lyonnais       0-0  FC Lorient
-  20.45  Stade Rennais FC         0-1 (0-0)  Olympique de Marseille
-
-
-Matchday 27
-[Fri Mar/10]
-  21.00  Lille OSC                3-3 (0-0)  Olympique Lyonnais
-[Sat Mar/11]
-  17.00  AJ Auxerre               0-0  Stade Rennais FC
-  21.00  Stade Brestois 29        1-2 (1-1)  Paris Saint-Germain
-[Sun Mar/12]
-  13.00  Clermont Foot 63         0-4 (0-3)  RC Lens
-  15.00  FC Nantes                2-2 (1-1)  OGC Nice
-         FC Lorient               2-0 (1-0)  ES Troyes AC
-         Angers SCO               0-2 (0-1)  Toulouse FC
-         AC Ajaccio               0-1 (0-0)  Montpellier HSC
-  17.05  AS Monaco                0-1 (0-0)  Stade de Reims
-  20.45  Olympique de Marseille   2-2 (0-0)  RC Strasbourg
-
-
-Matchday 28
-[Fri Mar/17]
-  21.00  Olympique Lyonnais       1-1 (1-1)  FC Nantes
-[Sat Mar/18]
-  17.00  Toulouse FC              0-2 (0-0)  Lille OSC
-  21.00  RC Lens                  3-0 (2-0)  Angers SCO
-[Sun Mar/19]
-  13.00  AC Ajaccio               0-2 (0-1)  AS Monaco
-  15.00  RC Strasbourg            2-0 (1-0)  AJ Auxerre
-         OGC Nice                 1-1 (0-1)  FC Lorient
-         Montpellier HSC          2-1 (0-1)  Clermont Foot 63
-         ES Troyes AC             2-2 (2-1)  Stade Brestois 29
-  17.05  Paris Saint-Germain      0-2 (0-1)  Stade Rennais FC
-  20.45  Stade de Reims           1-2 (1-2)  Olympique de Marseille
-
-
-Matchday 29
-[Fri Mar/31]
-  21.00  Olympique de Marseille   1-1 (1-1)  Montpellier HSC
-[Sat Apr/1]
-  17.00  AJ Auxerre               1-0 (0-0)  ES Troyes AC
-  21.00  Stade Rennais FC         0-1 (0-1)  RC Lens
-[Sun Apr/2]
-  13.00  Lille OSC                3-1 (1-0)  FC Lorient
-  15.00  Stade Brestois 29        3-1 (1-1)  Toulouse FC
-         FC Nantes                0-3 (0-2)  Stade de Reims
-         Clermont Foot 63         2-1 (0-1)  AC Ajaccio
-         Angers SCO               1-1 (1-1)  OGC Nice
-  17.05  AS Monaco                4-3 (1-2)  RC Strasbourg
-  20.55  Paris Saint-Germain      0-1 (0-0)  Olympique Lyonnais
-
-
-Matchday 30
-[Fri Apr/7]
-  21.00  RC Lens                  2-1 (1-0)  RC Strasbourg
-[Sat Apr/8]
-  17.00  Angers SCO               1-0 (0-0)  Lille OSC
-  21.00  OGC Nice                 0-2 (0-1)  Paris Saint-Germain
-[Sun Apr/9]
-  13.00  Olympique Lyonnais       3-1 (0-1)  Stade Rennais FC
-  15.00  Stade de Reims           1-1 (0-1)  Stade Brestois 29
-         Montpellier HSC          1-2 (0-1)  Toulouse FC
-         AC Ajaccio               0-3 (0-3)  AJ Auxerre
-         ES Troyes AC             0-2 (0-2)  Clermont Foot 63
-  17.05  FC Nantes                2-2 (0-2)  AS Monaco
-  20.45  FC Lorient               0-0  Olympique de Marseille
-
-
-Matchday 31
-[Fri Apr/14]
-  21.00  Toulouse FC              1-2 (1-1)  Olympique Lyonnais
-[Sat Apr/15]
-  17.00  Stade Rennais FC         3-0 (2-0)  Stade de Reims
-  21.00  Paris Saint-Germain      3-1 (3-0)  RC Lens
-[Sun Apr/16]
-  13.00  Lille OSC                2-1 (0-1)  Montpellier HSC
-  15.00  Stade Brestois 29        1-0 (1-0)  OGC Nice
-         RC Strasbourg            3-1 (1-0)  AC Ajaccio
-         Clermont Foot 63         2-1 (2-1)  Angers SCO
-         AJ Auxerre               2-1 (2-0)  FC Nantes
-  17.05  AS Monaco                3-1 (2-0)  FC Lorient
-  20.45  Olympique de Marseille   3-1 (2-0)  ES Troyes AC
-
-
-Matchday 32
-[Fri Apr/21]
-  21.00  Angers SCO               1-2 (0-2)  Paris Saint-Germain
-[Sat Apr/22]
-  17.00  AJ Auxerre               1-1 (0-1)  Lille OSC
-  21.00  RC Lens                  3-0 (2-0)  AS Monaco
-[Sun Apr/23]
-  13.00  Stade de Reims           0-2 (0-2)  RC Strasbourg
-  15.00  OGC Nice                 1-2 (1-1)  Clermont Foot 63
-         FC Nantes                2-2 (1-0)  ES Troyes AC
-         FC Lorient               0-1 (0-0)  Toulouse FC
-         AC Ajaccio               0-0  Stade Brestois 29
-  17.05  Montpellier HSC          1-0 (0-0)  Stade Rennais FC
-  20.45  Olympique Lyonnais       1-2 (0-1)  Olympique de Marseille
-
-
-Matchday 33
-[Fri Apr/28]
-  21.00  RC Strasbourg            1-2 (1-2)  Olympique Lyonnais
-[Sat Apr/29]
-  17.00  Lille OSC                3-0 (3-0)  AC Ajaccio
-[Sun Apr/30]
-  13.00  AS Monaco                0-4 (0-1)  Montpellier HSC
-  15.00  ES Troyes AC             0-1 (0-1)  OGC Nice
-         Stade Rennais FC         4-2 (2-2)  Angers SCO
-         Clermont Foot 63         1-0 (1-0)  Stade de Reims
-  17.05  Paris Saint-Germain      1-3 (1-2)  FC Lorient
-  20.45  Olympique de Marseille   2-1 (0-1)  AJ Auxerre
-[Tue May/2]
-  21.00  Toulouse FC              0-1 (0-1)  RC Lens
-[Wed May/3]
-  21.00  Stade Brestois 29        2-0 (2-0)  FC Nantes
-
-
-Matchday 34
-[Sat May/6]
-  17.00  OGC Nice                 2-1 (0-0)  Stade Rennais FC
-  19.00  Stade de Reims           1-0 (1-0)  Lille OSC
-  21.00  RC Lens                  2-1 (1-0)  Olympique de Marseille
-[Sun May/7]
-  13.00  Angers SCO               1-2 (0-1)  AS Monaco
-  15.00  FC Nantes                0-2 (0-1)  RC Strasbourg
-         FC Lorient               2-1 (1-0)  Stade Brestois 29
-         AJ Auxerre               1-1 (1-0)  Clermont Foot 63
-         AC Ajaccio               0-0  Toulouse FC
-  17.05  Olympique Lyonnais       5-4 (1-2)  Montpellier HSC
-  20.45  ES Troyes AC             1-3 (0-1)  Paris Saint-Germain
-
-
-Matchday 35
-[Fri May/12]
-  21.00  RC Lens                  2-1 (1-1)  Stade de Reims
-[Sat May/13]
-  17.00  RC Strasbourg            2-0 (1-0)  OGC Nice
-  21.00  Paris Saint-Germain      5-0 (2-0)  AC Ajaccio
-[Sun May/14]
-  13.00  Clermont Foot 63         2-1 (1-1)  Olympique Lyonnais
-  15.00  Stade Brestois 29        1-0 (0-0)  AJ Auxerre
-         Montpellier HSC          1-1 (0-0)  FC Lorient
-         Stade Rennais FC         4-0 (1-0)  ES Troyes AC
-  16.30  Toulouse FC              0-0  FC Nantes
-  17.05  AS Monaco                0-0  Lille OSC
-  20.45  Olympique de Marseille   3-1 (1-1)  Angers SCO
-
-
-Matchday 36
-[Fri May/19]
-  21.00  Olympique Lyonnais       3-1 (1-1)  AS Monaco
-[Sat May/20]
-  17.00  FC Nantes                0-3 (0-1)  Montpellier HSC
-  21.00  Lille OSC                2-1 (0-1)  Olympique de Marseille
-[Sun May/21]
-  13.00  AC Ajaccio               0-5 (0-4)  Stade Rennais FC
-  15.00  ES Troyes AC             1-1 (0-1)  RC Strasbourg
-         Stade de Reims           2-2 (1-0)  Angers SCO
-         Stade Brestois 29        2-1 (1-1)  Clermont Foot 63
-         OGC Nice                 0-0  Toulouse FC
-  17.05  FC Lorient               1-3 (1-2)  RC Lens
-  20.45  AJ Auxerre               1-2 (0-2)  Paris Saint-Germain
-
-
-Matchday 37
-[Sat May/27]
-  21.00  Toulouse FC              1-1 (1-1)  AJ Auxerre
-         Stade Rennais FC         2-0 (0-0)  AS Monaco
-         RC Strasbourg            1-1 (0-0)  Paris Saint-Germain
-         RC Lens                  3-0 (3-0)  AC Ajaccio
-         Olympique de Marseille   1-2 (0-0)  Stade Brestois 29
-         Olympique Lyonnais       3-0 (2-0)  Stade de Reims
-         Montpellier HSC          2-3 (2-0)  OGC Nice
-         Lille OSC                2-1 (0-1)  FC Nantes
-         Clermont Foot 63         2-0 (1-0)  FC Lorient
-         Angers SCO               2-1 (1-1)  ES Troyes AC
-
-
-Matchday 38
-[Sat Jun/3]
-  21.00  ES Troyes AC             1-1 (0-0)  Lille OSC
-         Stade de Reims           1-3 (1-0)  Montpellier HSC
-         Stade Brestois 29        1-2 (1-2)  Stade Rennais FC
-         Paris Saint-Germain      2-3 (2-2)  Clermont Foot 63
-         OGC Nice                 3-1 (3-1)  Olympique Lyonnais
-         FC Lorient               2-1 (2-0)  RC Strasbourg
-         FC Nantes                1-0 (1-0)  Angers SCO
-         AS Monaco                1-2 (0-0)  Toulouse FC
-         AJ Auxerre               1-3 (0-1)  RC Lens
-         AC Ajaccio               1-0 (0-0)  Olympique de Marseille
+# Date       Fri Aug/5 2022 - Sat Jun/3 2023 (302d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Aug/5 2022
+    21.00  Olympique Lyonnais      v AC Ajaccio               2-1 (2-1)
+  Sat Aug/6
+    17.00  RC Strasbourg           v AS Monaco                1-2 (0-1)
+    21.00  Clermont Foot 63        v Paris Saint-Germain      0-5 (0-3)
+  Sun Aug/7
+    13.00  Toulouse FC             v OGC Nice                 1-1 (1-0)
+    15.00  Montpellier HSC         v ESTAC Troyes             3-2 (2-2)
+           Lille OSC               v AJ Auxerre               4-1 (3-0)
+           RC Lens                 v Stade Brestois 29        3-2 (1-0)
+           Angers SCO              v FC Nantes                0-0
+    17.05  Stade Rennais           v FC Lorient               0-1 (0-0)
+    20.45  Olympique Marseille     v Stade de Reims           4-1 (2-0)
+
+
+» Matchday 2
+  Fri Aug/12
+    21.00  FC Nantes               v Lille OSC                1-1 (1-0)
+  Sat Aug/13
+    17.00  AS Monaco               v Stade Rennais            1-1 (0-0)
+    21.00  Paris Saint-Germain     v Montpellier HSC          5-2 (2-0)
+  Sun Aug/14
+    15.00  AC Ajaccio              v RC Lens                  0-0
+           AJ Auxerre              v Angers SCO               2-2 (2-1)
+           ESTAC Troyes            v Toulouse FC              0-3 (0-1)
+           Stade de Reims          v Clermont Foot 63         2-4 (2-0)
+    17.05  OGC Nice                v RC Strasbourg            1-1 (1-0)
+    20.45  Stade Brestois 29       v Olympique Marseille      1-1 (0-1)
+  Wed Sep/7
+    19.00  FC Lorient              v Olympique Lyonnais       3-1 (2-1)
+
+
+» Matchday 3
+  Fri Aug/19
+    21.00  Olympique Lyonnais      v ESTAC Troyes             4-1 (1-1)
+  Sat Aug/20
+    17.00  AS Monaco               v RC Lens                  1-4 (1-2)
+    21.00  Olympique Marseille     v FC Nantes                2-1 (0-0)
+  Sun Aug/21
+    13.00  RC Strasbourg           v Stade de Reims           1-1 (1-0)
+    15.00  Clermont Foot 63        v OGC Nice                 1-0 (1-0)
+           Toulouse FC             v FC Lorient               2-2 (1-1)
+           Montpellier HSC         v AJ Auxerre               1-2 (1-0)
+           Angers SCO              v Stade Brestois 29        1-3 (0-2)
+    17.05  Stade Rennais           v AC Ajaccio               2-1 (1-0)
+    20.45  Lille OSC               v Paris Saint-Germain      1-7 (0-4)
+
+
+» Matchday 4
+  Fri Aug/26
+    21.00  AC Ajaccio              v Lille OSC                1-3 (0-2)
+  Sat Aug/27
+    17.00  AJ Auxerre              v RC Strasbourg            1-0 (1-0)
+    21.00  RC Lens                 v Stade Rennais            2-1 (0-0)
+  Sun Aug/28
+    13.00  FC Nantes               v Toulouse FC              3-1 (0-1)
+    15.00  ESTAC Troyes            v Angers SCO               3-1 (1-0)
+           FC Lorient              v Clermont Foot 63         2-1 (2-0)
+           OGC Nice                v Olympique Marseille      0-3 (0-3)
+           Stade Brestois 29       v Montpellier HSC          0-7 (0-5)
+    17.05  Stade de Reims          v Olympique Lyonnais       1-1 (1-0)
+    20.45  Paris Saint-Germain     v AS Monaco                1-1 (0-1)
+
+
+» Matchday 5
+  Wed Aug/31
+    19.00  AS Monaco               v ESTAC Troyes             2-4 (1-2)
+           Montpellier HSC         v AC Ajaccio               2-0 (1-0)
+           Olympique Lyonnais      v AJ Auxerre               2-1 (1-0)
+           RC Strasbourg           v FC Nantes                1-1 (1-0)
+           Angers SCO              v Stade de Reims           2-4 (0-2)
+    21.00  Toulouse FC             v Paris Saint-Germain      0-3 (0-1)
+           Olympique Marseille     v Clermont Foot 63         1-0 (0-0)
+           Lille OSC               v OGC Nice                 1-2 (1-2)
+           RC Lens                 v FC Lorient               5-2 (2-1)
+           Stade Rennais           v Stade Brestois 29        3-1 (0-0)
+
+
+» Matchday 6
+  Sat Sep/3
+    17.00  AJ Auxerre              v Olympique Marseille      0-2 (0-1)
+    19.00  Olympique Lyonnais      v Angers SCO               5-0 (2-0)
+    21.00  FC Nantes               v Paris Saint-Germain      0-3 (0-1)
+  Sun Sep/4
+    13.00  Montpellier HSC         v Lille OSC                1-3 (1-1)
+    15.00  AC Ajaccio              v FC Lorient               0-1 (0-0)
+           Clermont Foot 63        v Toulouse FC              2-0 (0-0)
+           Stade Brestois 29       v RC Strasbourg            1-1 (1-1)
+           Stade de Reims          v RC Lens                  1-1 (0-0)
+    17.05  ESTAC Troyes            v Stade Rennais            1-1 (1-0)
+    20.45  OGC Nice                v AS Monaco                0-1 (0-0)
+
+
+» Matchday 7
+  Fri Sep/9
+    21.00  RC Lens                 v ESTAC Troyes             1-0 (1-0)
+  Sat Sep/10
+    17.00  Paris Saint-Germain     v Stade Brestois 29        1-0 (1-0)
+    21.00  Olympique Marseille     v Lille OSC                2-1 (1-1)
+  Sun Sep/11
+    13.00  RC Strasbourg           v Clermont Foot 63         0-0
+    15.00  AC Ajaccio              v OGC Nice                 0-1 (0-0)
+           FC Lorient              v FC Nantes                3-2 (1-1)
+           Toulouse FC             v Stade de Reims           1-0 (1-0)
+           Angers SCO              v Montpellier HSC          2-1 (1-1)
+    17.05  Stade Rennais           v AJ Auxerre               5-0 (1-0)
+    20.45  AS Monaco               v Olympique Lyonnais       2-1 (0-0)
+
+
+» Matchday 8
+  Fri Sep/16
+    21.00  AJ Auxerre              v FC Lorient               1-3 (0-3)
+  Sat Sep/17
+    17.00  Montpellier HSC         v RC Strasbourg            2-1 (1-0)
+    21.00  Lille OSC               v Toulouse FC              2-1 (1-0)
+  Sun Sep/18
+    13.00  Stade de Reims          v AS Monaco                0-3 (0-0)
+    15.00  Clermont Foot 63        v ESTAC Troyes             1-3 (1-1)
+           OGC Nice                v Angers SCO               0-1 (0-1)
+           Olympique Marseille     v Stade Rennais            1-1 (0-1)
+           Stade Brestois 29       v AC Ajaccio               0-1 (0-0)
+    17.05  FC Nantes               v RC Lens                  0-0
+    20.45  Olympique Lyonnais      v Paris Saint-Germain      0-1 (0-1)
+
+
+» Matchday 9
+  Fri Sep/30
+    21.00  Angers SCO              v Olympique Marseille      0-3 (0-1)
+  Sat Oct/1
+    17.00  RC Strasbourg           v Stade Rennais            1-3 (0-1)
+    21.00  Paris Saint-Germain     v OGC Nice                 2-1 (1-0)
+  Sun Oct/2
+    13.00  FC Lorient              v Lille OSC                2-1 (1-0)
+    15.00  AC Ajaccio              v Clermont Foot 63         1-3 (0-1)
+           AJ Auxerre              v Stade Brestois 29        1-1 (0-0)
+           ESTAC Troyes            v Stade de Reims           2-2 (0-1)
+           Toulouse FC             v Montpellier HSC          4-2 (3-1)
+    17.05  AS Monaco               v FC Nantes                4-1 (3-0)
+    20.45  RC Lens                 v Olympique Lyonnais       1-0 (0-0)
+
+
+» Matchday 10
+  Fri Oct/7
+    21.00  Olympique Lyonnais      v Toulouse FC              1-1 (1-0)
+  Sat Oct/8
+    17.00  Olympique Marseille     v AC Ajaccio               1-2 (1-1)
+    21.00  Stade de Reims          v Paris Saint-Germain      0-0
+  Sun Oct/9
+    13.00  Montpellier HSC         v AS Monaco                0-2 (0-1)
+    15.00  Clermont Foot 63        v AJ Auxerre               2-1 (0-0)
+           OGC Nice                v ESTAC Troyes             3-2 (2-0)
+           Angers SCO              v RC Strasbourg            2-3 (1-2)
+           Stade Brestois 29       v FC Lorient               1-2 (1-1)
+    17.05  Stade Rennais           v FC Nantes                3-0 (1-0)
+    20.45  Lille OSC               v RC Lens                  1-0 (1-0)
+
+
+» Matchday 11
+  Fri Oct/14
+    21.00  RC Strasbourg           v Lille OSC                0-3 (0-1)
+  Sat Oct/15
+    17.00  FC Lorient              v Stade de Reims           0-0
+    21.00  RC Lens                 v Montpellier HSC          1-0 (0-0)
+  Sun Oct/16
+    13.00  Toulouse FC             v Angers SCO               3-2 (2-1)
+    15.00  AJ Auxerre              v OGC Nice                 1-1 (1-1)
+           ESTAC Troyes            v AC Ajaccio               1-1 (0-0)
+           FC Nantes               v Stade Brestois 29        4-1 (2-1)
+           Stade Rennais           v Olympique Lyonnais       3-2 (1-1)
+    17.05  AS Monaco               v Clermont Foot 63         1-1 (1-0)
+    20.45  Paris Saint-Germain     v Olympique Marseille      1-0 (1-0)
+
+
+» Matchday 12
+  Fri Oct/21
+    21.00  AC Ajaccio              v Paris Saint-Germain      0-3 (0-1)
+  Sat Oct/22
+    17.00  Montpellier HSC         v Olympique Lyonnais       1-2 (0-1)
+    21.00  Olympique Marseille     v RC Lens                  0-1 (0-0)
+  Sun Oct/23
+    13.00  Angers SCO              v Stade Rennais            1-2 (0-1)
+    15.00  Clermont Foot 63        v Stade Brestois 29        1-3 (0-1)
+           ESTAC Troyes            v FC Lorient               2-2 (1-0)
+           Toulouse FC             v RC Strasbourg            2-2 (1-0)
+           Stade de Reims          v AJ Auxerre               2-1 (1-1)
+    17.05  OGC Nice                v FC Nantes                1-1 (0-0)
+    20.45  Lille OSC               v AS Monaco                4-3 (2-2)
+
+
+» Matchday 13
+  Fri Oct/28
+    21.00  RC Lens                 v Toulouse FC              3-0 (0-0)
+  Sat Oct/29
+    17.00  Paris Saint-Germain     v ESTAC Troyes             4-3 (1-1)
+    21.00  RC Strasbourg           v Olympique Marseille      2-2 (0-2)
+  Sun Oct/30
+    13.00  AJ Auxerre              v AC Ajaccio               1-0 (1-0)
+    15.00  AS Monaco               v Angers SCO               2-0 (0-0)
+           FC Nantes               v Clermont Foot 63         1-1 (0-0)
+           Stade Brestois 29       v Stade de Reims           0-0
+           Stade Rennais           v Montpellier HSC          3-0 (2-0)
+    17.05  FC Lorient              v OGC Nice                 1-2 (1-0)
+    20.45  Olympique Lyonnais      v Lille OSC                1-0 (0-0)
+
+
+» Matchday 14
+  Fri Nov/4
+    21.00  ESTAC Troyes            v AJ Auxerre               1-1 (1-0)
+  Sat Nov/5
+    17.00  AC Ajaccio              v RC Strasbourg            4-2 (4-2)
+    21.00  Angers SCO              v RC Lens                  1-2 (0-1)
+  Sun Nov/6
+    13.00  FC Lorient              v Paris Saint-Germain      1-2 (0-1)
+    15.00  Clermont Foot 63        v Montpellier HSC          1-1 (0-1)
+           Toulouse FC             v AS Monaco                0-2 (0-0)
+           OGC Nice                v Stade Brestois 29        1-0 (0-0)
+           Stade de Reims          v FC Nantes                1-0 (0-0)
+    17.05  Lille OSC               v Stade Rennais            1-1 (1-0)
+    20.45  Olympique Marseille     v Olympique Lyonnais       1-0 (1-0)
+
+
+» Matchday 15
+  Fri Nov/11
+    21.00  Olympique Lyonnais      v OGC Nice                 1-1 (0-1)
+  Sat Nov/12
+    17.00  RC Lens                 v Clermont Foot 63         2-1 (0-1)
+    21.00  Stade Rennais           v Toulouse FC              2-1 (1-0)
+  Sun Nov/13
+    13.00  Paris Saint-Germain     v AJ Auxerre               5-0 (1-0)
+    15.00  FC Nantes               v AC Ajaccio               2-2 (0-0)
+           Montpellier HSC         v Stade de Reims           1-1 (0-0)
+           Lille OSC               v Angers SCO               1-0 (1-0)
+           Stade Brestois 29       v ESTAC Troyes             2-1 (0-0)
+    17.05  RC Strasbourg           v FC Lorient               1-1 (0-1)
+    20.45  AS Monaco               v Olympique Marseille      2-3 (1-1)
+
+
+» Matchday 16
+  Wed Dec/28
+    15.00  AC Ajaccio              v Angers SCO               1-0 (1-0)
+           ESTAC Troyes            v FC Nantes                0-0
+    17.00  AJ Auxerre              v AS Monaco                2-3 (1-1)
+    19.00  Clermont Foot 63        v Lille OSC                0-2 (0-0)
+    21.00  Paris Saint-Germain     v RC Strasbourg            2-1 (1-0)
+           Stade Brestois 29       v Olympique Lyonnais       2-4 (1-3)
+  Thu Dec/29
+    17.00  FC Lorient              v Montpellier HSC          0-2 (0-2)
+    19.00  Stade de Reims          v Stade Rennais            3-1 (2-1)
+    21.00  OGC Nice                v RC Lens                  0-0
+           Olympique Marseille     v Toulouse FC              6-1 (2-0)
+
+
+» Matchday 17
+  Sun Jan/1 2023
+    15.00  AS Monaco               v Stade Brestois 29        1-0 (0-0)
+           FC Nantes               v AJ Auxerre               1-0 (0-0)
+           Toulouse FC             v AC Ajaccio               2-0 (0-0)
+           Angers SCO              v FC Lorient               1-2 (1-0)
+    17.00  Olympique Lyonnais      v Clermont Foot 63         0-1 (0-0)
+    20.45  RC Lens                 v Paris Saint-Germain      3-1 (2-1)
+  Mon Jan/2
+    15.00  RC Strasbourg           v ESTAC Troyes             2-3 (1-2)
+    17.00  Lille OSC               v Stade de Reims           1-1 (1-0)
+    19.00  Montpellier HSC         v Olympique Marseille      1-2 (0-0)
+    21.00  Stade Rennais           v OGC Nice                 2-1 (1-1)
+
+
+» Matchday 18
+  Wed Jan/11
+    19.00  AC Ajaccio              v Stade de Reims           0-1 (0-1)
+           AJ Auxerre              v Toulouse FC              0-5 (0-3)
+           Clermont Foot 63        v Stade Rennais            2-1 (1-0)
+           FC Nantes               v Olympique Lyonnais       0-0
+           Stade Brestois 29       v Lille OSC                0-0
+    21.00  ESTAC Troyes            v Olympique Marseille      0-2 (0-1)
+           FC Lorient              v AS Monaco                2-2 (0-0)
+           OGC Nice                v Montpellier HSC          6-1 (2-0)
+           Paris Saint-Germain     v Angers SCO               2-0 (1-0)
+           RC Strasbourg           v RC Lens                  2-2 (2-2)
+
+
+» Matchday 19
+  Sat Jan/14
+    17.00  RC Lens                 v AJ Auxerre               1-0 (0-0)
+    19.00  Olympique Marseille     v FC Lorient               3-1 (1-1)
+    21.00  Olympique Lyonnais      v RC Strasbourg            1-2 (1-2)
+  Sun Jan/15
+    13.00  Lille OSC               v ESTAC Troyes             5-1 (2-0)
+    15.00  Toulouse FC             v Stade Brestois 29        1-1 (0-1)
+           Montpellier HSC         v FC Nantes                0-3 (0-1)
+           Angers SCO              v Clermont Foot 63         1-2 (0-1)
+           Stade de Reims          v OGC Nice                 0-0
+    17.05  AS Monaco               v AC Ajaccio               7-1 (5-1)
+    20.45  Stade Rennais           v Paris Saint-Germain      1-0 (0-0)
+
+
+» Matchday 20
+  Fri Jan/27
+    21.00  FC Lorient              v Stade Rennais            2-1 (2-0)
+  Sat Jan/28
+    17.00  ESTAC Troyes            v RC Lens                  1-1 (0-0)
+    21.00  Olympique Marseille     v AS Monaco                1-1 (0-1)
+  Sun Jan/29
+    13.00  OGC Nice                v Lille OSC                1-0 (1-0)
+    15.00  AJ Auxerre              v Montpellier HSC          0-2 (0-0)
+           Clermont Foot 63        v FC Nantes                0-0
+           RC Strasbourg           v Toulouse FC              1-2 (1-1)
+           Stade Brestois 29       v Angers SCO               4-0 (2-0)
+    17.05  AC Ajaccio              v Olympique Lyonnais       0-2 (0-1)
+    20.45  Paris Saint-Germain     v Stade de Reims           1-1 (0-0)
+
+
+» Matchday 21
+  Wed Feb/1
+    19.00  FC Nantes               v Olympique Marseille      0-2 (0-0)
+           Toulouse FC             v ESTAC Troyes             4-1 (2-1)
+           Lille OSC               v Clermont Foot 63         0-0
+           Angers SCO              v AC Ajaccio               1-2 (1-0)
+           Stade de Reims          v FC Lorient               4-2 (1-2)
+    21.00  AS Monaco               v AJ Auxerre               3-2 (2-0)
+           Montpellier HSC         v Paris Saint-Germain      1-3 (0-0)
+           Olympique Lyonnais      v Stade Brestois 29        0-0
+           RC Lens                 v OGC Nice                 0-1 (0-0)
+           Stade Rennais           v RC Strasbourg            3-0 (2-0)
+
+
+» Matchday 22
+  Sat Feb/4
+    17.00  Paris Saint-Germain     v Toulouse FC              2-1 (1-1)
+    19.00  ESTAC Troyes            v Olympique Lyonnais       1-3 (0-1)
+    21.00  Stade Rennais           v Lille OSC                1-3 (1-0)
+  Sun Feb/5
+    13.00  Clermont Foot 63        v AS Monaco                0-2 (0-2)
+    15.00  AC Ajaccio              v FC Nantes                0-2 (0-0)
+           AJ Auxerre              v Stade de Reims           0-0
+           FC Lorient              v Angers SCO               0-0
+           RC Strasbourg           v Montpellier HSC          2-0 (2-0)
+    17.05  Stade Brestois 29       v RC Lens                  1-1 (0-0)
+    20.45  Olympique Marseille     v OGC Nice                 1-3 (0-2)
+
+
+» Matchday 23
+  Fri Feb/10
+    21.00  OGC Nice                v AC Ajaccio               3-0 (1-0)
+  Sat Feb/11
+    17.00  AS Monaco               v Paris Saint-Germain      3-1 (3-1)
+    21.45  Clermont Foot 63        v Olympique Marseille      0-2 (0-1)
+  Sun Feb/12
+    13.00  Toulouse FC             v Stade Rennais            3-1 (3-0)
+    15.00  Montpellier HSC         v Stade Brestois 29        3-0 (2-0)
+           Lille OSC               v RC Strasbourg            2-0 (2-0)
+           Angers SCO              v AJ Auxerre               1-1 (1-1)
+           Stade de Reims          v ESTAC Troyes             4-0 (2-0)
+    17.05  FC Nantes               v FC Lorient               1-0 (0-0)
+    20.45  Olympique Lyonnais      v RC Lens                  2-1 (1-1)
+
+
+» Matchday 24
+  Fri Feb/17
+    21.00  AJ Auxerre              v Olympique Lyonnais       2-1 (0-1)
+  Sat Feb/18
+    17.00  OGC Nice                v Stade de Reims           0-0
+    21.00  RC Strasbourg           v Angers SCO               2-1 (2-0)
+  Sun Feb/19
+    13.00  Paris Saint-Germain     v Lille OSC                4-3 (2-1)
+    15.00  ESTAC Troyes            v Montpellier HSC          0-1 (0-0)
+           FC Lorient              v AC Ajaccio               3-0 (2-0)
+           Stade Brestois 29       v AS Monaco                1-2 (0-1)
+           Stade Rennais           v Clermont Foot 63         2-0 (1-0)
+    17.05  RC Lens                 v FC Nantes                3-1 (2-1)
+    20.45  Toulouse FC             v Olympique Marseille      2-3 (1-0)
+
+
+» Matchday 25
+  Fri Feb/24
+    21.00  Lille OSC               v Stade Brestois 29        2-1 (0-1)
+  Sat Feb/25
+    17.00  Angers SCO              v Olympique Lyonnais       1-3 (0-1)
+    21.00  Montpellier HSC         v RC Lens                  1-1 (0-1)
+  Sun Feb/26
+    13.00  FC Lorient              v AJ Auxerre               0-1 (0-0)
+    15.00  AC Ajaccio              v ESTAC Troyes             2-1 (0-1)
+           Clermont Foot 63        v RC Strasbourg            1-1 (0-1)
+           FC Nantes               v Stade Rennais            0-1 (0-1)
+           Stade de Reims          v Toulouse FC              3-0 (2-0)
+    17.05  AS Monaco               v OGC Nice                 0-3 (0-3)
+    20.45  Olympique Marseille     v Paris Saint-Germain      0-3 (0-2)
+
+
+» Matchday 26
+  Fri Mar/3
+    21.00  OGC Nice                v AJ Auxerre               1-1 (1-1)
+  Sat Mar/4
+    17.00  RC Lens                 v Lille OSC                1-1 (1-0)
+    21.00  Paris Saint-Germain     v FC Nantes                4-2 (2-2)
+  Sun Mar/5
+    13.00  ESTAC Troyes            v AS Monaco                2-2 (1-0)
+    15.00  Toulouse FC             v Clermont Foot 63         0-1 (0-0)
+           Montpellier HSC         v Angers SCO               5-0 (3-0)
+           RC Strasbourg           v Stade Brestois 29        0-1 (0-1)
+           Stade de Reims          v AC Ajaccio               1-0 (0-0)
+    17.05  Olympique Lyonnais      v FC Lorient               0-0
+    20.45  Stade Rennais           v Olympique Marseille      0-1 (0-0)
+
+
+» Matchday 27
+  Fri Mar/10
+    21.00  Lille OSC               v Olympique Lyonnais       3-3 (0-0)
+  Sat Mar/11
+    17.00  AJ Auxerre              v Stade Rennais            0-0
+    21.00  Stade Brestois 29       v Paris Saint-Germain      1-2 (1-1)
+  Sun Mar/12
+    13.00  Clermont Foot 63        v RC Lens                  0-4 (0-3)
+    15.00  AC Ajaccio              v Montpellier HSC          0-1 (0-0)
+           FC Lorient              v ESTAC Troyes             2-0 (1-0)
+           FC Nantes               v OGC Nice                 2-2 (1-1)
+           Angers SCO              v Toulouse FC              0-2 (0-1)
+    17.05  AS Monaco               v Stade de Reims           0-1 (0-0)
+    20.45  Olympique Marseille     v RC Strasbourg            2-2 (0-0)
+
+
+» Matchday 28
+  Fri Mar/17
+    21.00  Olympique Lyonnais      v FC Nantes                1-1 (1-1)
+  Sat Mar/18
+    17.00  Toulouse FC             v Lille OSC                0-2 (0-0)
+    21.00  RC Lens                 v Angers SCO               3-0 (2-0)
+  Sun Mar/19
+    13.00  AC Ajaccio              v AS Monaco                0-2 (0-1)
+    15.00  ESTAC Troyes            v Stade Brestois 29        2-2 (2-1)
+           Montpellier HSC         v Clermont Foot 63         2-1 (0-1)
+           OGC Nice                v FC Lorient               1-1 (0-1)
+           RC Strasbourg           v AJ Auxerre               2-0 (1-0)
+    17.05  Paris Saint-Germain     v Stade Rennais            0-2 (0-1)
+    20.45  Stade de Reims          v Olympique Marseille      1-2 (1-2)
+
+
+» Matchday 29
+  Fri Mar/31
+    21.00  Olympique Marseille     v Montpellier HSC          1-1 (1-1)
+  Sat Apr/1
+    17.00  AJ Auxerre              v ESTAC Troyes             1-0 (0-0)
+    21.00  Stade Rennais           v RC Lens                  0-1 (0-1)
+  Sun Apr/2
+    13.00  Lille OSC               v FC Lorient               3-1 (1-0)
+    15.00  Clermont Foot 63        v AC Ajaccio               2-1 (0-1)
+           FC Nantes               v Stade de Reims           0-3 (0-2)
+           Angers SCO              v OGC Nice                 1-1 (1-1)
+           Stade Brestois 29       v Toulouse FC              3-1 (1-1)
+    17.05  AS Monaco               v RC Strasbourg            4-3 (1-2)
+    20.45  Paris Saint-Germain     v Olympique Lyonnais       0-1 (0-0)
+
+
+» Matchday 30
+  Fri Apr/7
+    21.00  RC Lens                 v RC Strasbourg            2-1 (1-0)
+  Sat Apr/8
+    17.00  Angers SCO              v Lille OSC                1-0 (0-0)
+    21.00  OGC Nice                v Paris Saint-Germain      0-2 (0-1)
+  Sun Apr/9
+    13.00  Olympique Lyonnais      v Stade Rennais            3-1 (0-1)
+    15.00  AC Ajaccio              v AJ Auxerre               0-3 (0-3)
+           ESTAC Troyes            v Clermont Foot 63         0-2 (0-2)
+           Montpellier HSC         v Toulouse FC              1-2 (0-1)
+           Stade de Reims          v Stade Brestois 29        1-1 (0-1)
+    17.05  FC Nantes               v AS Monaco                2-2 (0-2)
+    20.45  FC Lorient              v Olympique Marseille      0-0
+
+
+» Matchday 31
+  Fri Apr/14
+    21.00  Toulouse FC             v Olympique Lyonnais       1-2 (1-1)
+  Sat Apr/15
+    17.00  Stade Rennais           v Stade de Reims           3-0 (2-0)
+    21.00  Paris Saint-Germain     v RC Lens                  3-1 (3-0)
+  Sun Apr/16
+    13.00  Lille OSC               v Montpellier HSC          2-1 (0-1)
+    15.00  AJ Auxerre              v FC Nantes                2-1 (2-0)
+           Clermont Foot 63        v Angers SCO               2-1 (2-1)
+           RC Strasbourg           v AC Ajaccio               3-1 (1-0)
+           Stade Brestois 29       v OGC Nice                 1-0 (1-0)
+    17.05  AS Monaco               v FC Lorient               3-1 (2-0)
+    20.45  Olympique Marseille     v ESTAC Troyes             3-1 (2-0)
+
+
+» Matchday 32
+  Fri Apr/21
+    21.00  Angers SCO              v Paris Saint-Germain      1-2 (0-2)
+  Sat Apr/22
+    17.00  AJ Auxerre              v Lille OSC                1-1 (0-1)
+    21.00  RC Lens                 v AS Monaco                3-0 (2-0)
+  Sun Apr/23
+    13.00  Stade de Reims          v RC Strasbourg            0-2 (0-2)
+    15.00  AC Ajaccio              v Stade Brestois 29        0-0
+           FC Lorient              v Toulouse FC              0-1 (0-0)
+           FC Nantes               v ESTAC Troyes             2-2 (1-0)
+           OGC Nice                v Clermont Foot 63         1-2 (1-1)
+    17.05  Montpellier HSC         v Stade Rennais            1-0 (0-0)
+    20.45  Olympique Lyonnais      v Olympique Marseille      1-2 (0-1)
+
+
+» Matchday 33
+  Fri Apr/28
+    21.00  RC Strasbourg           v Olympique Lyonnais       1-2 (1-2)
+  Sat Apr/29
+    17.00  Lille OSC               v AC Ajaccio               3-0 (3-0)
+  Sun Apr/30
+    13.00  AS Monaco               v Montpellier HSC          0-4 (0-1)
+    15.00  Clermont Foot 63        v Stade de Reims           1-0 (1-0)
+           ESTAC Troyes            v OGC Nice                 0-1 (0-1)
+           Stade Rennais           v Angers SCO               4-2 (2-2)
+    17.05  Paris Saint-Germain     v FC Lorient               1-3 (1-2)
+    20.45  Olympique Marseille     v AJ Auxerre               2-1 (0-1)
+  Tue May/2
+    21.00  Toulouse FC             v RC Lens                  0-1 (0-1)
+  Wed May/3
+    21.00  Stade Brestois 29       v FC Nantes                2-0 (2-0)
+
+
+» Matchday 34
+  Sat May/6
+    17.00  OGC Nice                v Stade Rennais            2-1 (0-0)
+    19.00  Stade de Reims          v Lille OSC                1-0 (1-0)
+    21.00  RC Lens                 v Olympique Marseille      2-1 (1-0)
+  Sun May/7
+    13.00  Angers SCO              v AS Monaco                1-2 (0-1)
+    15.00  AC Ajaccio              v Toulouse FC              0-0
+           AJ Auxerre              v Clermont Foot 63         1-1 (1-0)
+           FC Lorient              v Stade Brestois 29        2-1 (1-0)
+           FC Nantes               v RC Strasbourg            0-2 (0-1)
+    17.05  Olympique Lyonnais      v Montpellier HSC          5-4 (1-2)
+    20.45  ESTAC Troyes            v Paris Saint-Germain      1-3 (0-1)
+
+
+» Matchday 35
+  Fri May/12
+    21.00  RC Lens                 v Stade de Reims           2-1 (1-1)
+  Sat May/13
+    17.00  RC Strasbourg           v OGC Nice                 2-0 (1-0)
+    21.00  Paris Saint-Germain     v AC Ajaccio               5-0 (2-0)
+  Sun May/14
+    13.00  Clermont Foot 63        v Olympique Lyonnais       2-1 (1-1)
+    15.00  Montpellier HSC         v FC Lorient               1-1 (0-0)
+           Stade Brestois 29       v AJ Auxerre               1-0 (0-0)
+           Stade Rennais           v ESTAC Troyes             4-0 (1-0)
+    16.30  Toulouse FC             v FC Nantes                0-0
+    17.05  AS Monaco               v Lille OSC                0-0
+    20.45  Olympique Marseille     v Angers SCO               3-1 (1-1)
+
+
+» Matchday 36
+  Fri May/19
+    21.00  Olympique Lyonnais      v AS Monaco                3-1 (1-1)
+  Sat May/20
+    17.00  FC Nantes               v Montpellier HSC          0-3 (0-1)
+    21.00  Lille OSC               v Olympique Marseille      2-1 (0-1)
+  Sun May/21
+    13.00  AC Ajaccio              v Stade Rennais            0-5 (0-4)
+    15.00  ESTAC Troyes            v RC Strasbourg            1-1 (0-1)
+           OGC Nice                v Toulouse FC              0-0
+           Stade Brestois 29       v Clermont Foot 63         2-1 (1-1)
+           Stade de Reims          v Angers SCO               2-2 (1-0)
+    17.05  FC Lorient              v RC Lens                  1-3 (1-2)
+    20.45  AJ Auxerre              v Paris Saint-Germain      1-2 (0-2)
+
+
+» Matchday 37
+  Sat May/27
+    21.00  Clermont Foot 63        v FC Lorient               2-0 (1-0)
+           Toulouse FC             v AJ Auxerre               1-1 (1-1)
+           Montpellier HSC         v OGC Nice                 2-3 (2-0)
+           Olympique Marseille     v Stade Brestois 29        1-2 (0-0)
+           Olympique Lyonnais      v Stade de Reims           3-0 (2-0)
+           Lille OSC               v FC Nantes                2-1 (0-1)
+           RC Strasbourg           v Paris Saint-Germain      1-1 (0-0)
+           RC Lens                 v AC Ajaccio               3-0 (3-0)
+           Angers SCO              v ESTAC Troyes             2-1 (1-1)
+           Stade Rennais           v AS Monaco                2-0 (0-0)
+
+
+» Matchday 38
+  Sat Jun/3
+    21.00  AC Ajaccio              v Olympique Marseille      1-0 (0-0)
+           AJ Auxerre              v RC Lens                  1-3 (0-1)
+           AS Monaco               v Toulouse FC              1-2 (0-0)
+           ESTAC Troyes            v Lille OSC                1-1 (0-0)
+           FC Lorient              v RC Strasbourg            2-1 (2-0)
+           FC Nantes               v Angers SCO               1-0 (1-0)
+           OGC Nice                v Olympique Lyonnais       3-1 (3-1)
+           Paris Saint-Germain     v Clermont Foot 63         2-3 (2-2)
+           Stade Brestois 29       v Stade Rennais            1-2 (1-2)
+           Stade de Reims          v Montpellier HSC          1-3 (1-0)

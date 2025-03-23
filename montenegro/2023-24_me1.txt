@@ -1,4 +1,4 @@
-= Montenegrin First League 2023/24
+= Montenegro First League 2023/24
 
 # Date       Sat Jul/22 2023 - Sat May/25 2024 (308d)
 # Teams      10
@@ -6,349 +6,346 @@
 
 
 
-Matchday 1
-[Sat Jul/22]
-  20.30  FK Dečić Tuzi            2-1 (1-1)  Jedinstvo Bijelo Polje
-         OFK Petrovac             0-0  FK Mornar
-  20.00  OFK Mladost DG           2-1 (0-1)  FK Budućnost Podgorica
-[Sun Jul/23]
-  20.00  FK Jezero                0-1 (0-1)  FK Sutjeska
-         FK Rudar Pljevlja        0-1 (0-1)  FK Arsenal
-
-
-Matchday 2
-[Sat Jul/29]
-  20.30  Jedinstvo Bijelo Polje   1-0 (0-0)  FK Rudar Pljevlja
-  20.00  OFK Petrovac             1-0 (0-0)  OFK Mladost DG
-[Sun Jul/30]
-  20.30  FK Arsenal               2-2 (1-1)  FK Jezero
-  20.00  FK Mornar                1-1 (1-0)  FK Sutjeska
-
-
-Matchday 3
-[Sat Aug/5]
-  20.30  OFK Mladost DG           1-1 (0-0)  FK Mornar
-  19.00  FK Rudar Pljevlja        0-4 (0-2)  FK Budućnost Podgorica
-  20.00  FK Jezero                1-0 (0-0)  Jedinstvo Bijelo Polje
-[Sun Aug/6]
-  20.00  FK Dečić Tuzi            1-2 (0-0)  OFK Petrovac
-         FK Sutjeska              2-2 (0-2)  FK Arsenal
-
-
-Matchday 2
-[Wed Aug/9]
-  20.00  FK Budućnost Podgorica   1-1 (1-1)  FK Dečić Tuzi
-
-
-Matchday 4
-[Sat Aug/12]
-  20.30  OFK Petrovac             2-0 (0-0)  FK Rudar Pljevlja
-         FK Mornar                0-1 (0-0)  FK Arsenal
-[Sun Aug/13]
-  20.00  Jedinstvo Bijelo Polje   0-0  FK Sutjeska
-         OFK Mladost DG           0-2 (0-0)  FK Dečić Tuzi
-         FK Budućnost Podgorica   1-1 (0-0)  FK Jezero
-
-
-Matchday 5
-[Sun Aug/20]
-  17.30  FK Arsenal               2-2 (1-2)  Jedinstvo Bijelo Polje
-  18.00  FK Rudar Pljevlja        0-0  OFK Mladost DG
-  19.30  FK Sutjeska              1-2 (0-0)  FK Budućnost Podgorica
-  20.00  FK Dečić Tuzi            3-1 (1-1)  FK Mornar
-         FK Jezero                2-0 (0-0)  OFK Petrovac
-
-
-Matchday 6
-[Fri Aug/25]
-  19.00  OFK Mladost DG           1-2 (0-2)  FK Jezero
-[Sat Aug/26]
-  20.00  FK Budućnost Podgorica   2-0 (2-0)  FK Arsenal
-         FK Dečić Tuzi            0-1 (0-1)  FK Rudar Pljevlja
-         FK Mornar                4-3 (2-2)  Jedinstvo Bijelo Polje
-  18.30  OFK Petrovac             1-1 (0-1)  FK Sutjeska
-
-
-Matchday 7
-[Sun Sep/3]
-  17.00  FK Arsenal               2-2 (1-1)  OFK Petrovac
-         FK Rudar Pljevlja        0-0  FK Mornar
-  19.00  Jedinstvo Bijelo Polje   1-4 (1-3)  FK Budućnost Podgorica
-  19.30  FK Jezero                0-0  FK Dečić Tuzi
-  20.00  FK Sutjeska              3-3 (0-0)  OFK Mladost DG
-
-
-Matchday 8
-[Sat Sep/16]
-  16.00  FK Rudar Pljevlja        0-1 (0-1)  FK Jezero
-  19.30  OFK Mladost DG           2-1 (0-0)  FK Arsenal
-         OFK Petrovac             1-1 (1-0)  Jedinstvo Bijelo Polje
-  20.30  FK Mornar                0-0  FK Budućnost Podgorica
-[Sun Sep/17]
-  19.30  FK Dečić Tuzi            0-4 (0-2)  FK Sutjeska
-
-
-Matchday 9
-[Sat Sep/23]
-  16.00  FK Sutjeska              1-0 (0-0)  FK Rudar Pljevlja
-  17.00  FK Jezero                0-1 (0-0)  FK Mornar
-  18.00  Jedinstvo Bijelo Polje   2-1 (1-0)  OFK Mladost DG
-  19.00  FK Budućnost Podgorica   2-1 (0-1)  OFK Petrovac
-  16.00  FK Arsenal               0-1 (0-1)  FK Dečić Tuzi
-
-
-Matchday 10
-[Wed Sep/27]
-  15.30  FK Arsenal               2-0 (2-0)  FK Rudar Pljevlja
-  18.00  FK Sutjeska              1-1 (0-0)  FK Jezero
-         Jedinstvo Bijelo Polje   0-1 (0-0)  FK Dečić Tuzi
-  18.30  FK Budućnost Podgorica   2-2 (1-1)  OFK Mladost DG
-  19.00  FK Mornar                0-0  OFK Petrovac
-
-
-Matchday 11
-[Sun Oct/1]
-  18.00  FK Dečić Tuzi            2-0 (1-0)  FK Budućnost Podgorica
-         FK Sutjeska              0-1 (0-0)  FK Mornar
-         FK Jezero                1-1 (0-1)  FK Arsenal
-  19.00  OFK Mladost DG           0-2 (0-2)  OFK Petrovac
-  15.00  FK Rudar Pljevlja        2-2 (2-1)  Jedinstvo Bijelo Polje
-
-
-Matchday 12
-[Sat Oct/7]
-  15.00  FK Arsenal               1-1 (1-1)  FK Sutjeska
-  18.00  Jedinstvo Bijelo Polje   2-3 (0-0)  FK Jezero
-  19.00  FK Mornar                2-1 (1-1)  OFK Mladost DG
-         OFK Petrovac             2-3 (1-2)  FK Dečić Tuzi
-[Sun Oct/8]
-  17.30  FK Budućnost Podgorica   2-0 (1-0)  FK Rudar Pljevlja
-
-
-Matchday 13
-[Sat Oct/21]
-  15.00  FK Arsenal               2-2 (2-2)  FK Mornar
-         FK Sutjeska              2-0 (0-0)  Jedinstvo Bijelo Polje
-         FK Rudar Pljevlja        1-0 (0-0)  OFK Petrovac
-  16.00  FK Dečić Tuzi            4-1 (3-0)  OFK Mladost DG
-[Sun Oct/22]
-  18.00  FK Jezero                1-3 (0-1)  FK Budućnost Podgorica
-
-
-Matchday 14
-[Sat Oct/28]
-  16.00  OFK Petrovac             0-0  FK Jezero
-  17.00  OFK Mladost DG           0-1 (0-0)  FK Rudar Pljevlja
-         FK Mornar                0-1 (0-0)  FK Dečić Tuzi
-  18.30  FK Budućnost Podgorica   1-0 (0-0)  FK Sutjeska
-  15.00  Jedinstvo Bijelo Polje   3-2 (2-2)  FK Arsenal
-
-
-Matchday 15
-[Sat Nov/4]
-  16.00  FK Jezero                2-0 (1-0)  OFK Mladost DG
-[Sun Nov/5]
-  13.30  FK Rudar Pljevlja        0-1 (0-1)  FK Dečić Tuzi
-  14.00  Jedinstvo Bijelo Polje   1-1 (0-1)  FK Mornar
-  15.30  FK Sutjeska              3-2 (3-0)  OFK Petrovac
-  13.30  FK Arsenal               1-1 (0-1)  FK Budućnost Podgorica
-
-
-Matchday 16
-[Sat Nov/11]
-  16.00  FK Budućnost Podgorica   3-2 (1-0)  Jedinstvo Bijelo Polje
-         OFK Mladost DG           1-1 (0-0)  FK Sutjeska
-         OFK Petrovac             1-1 (1-1)  FK Arsenal
-  18.30  FK Dečić Tuzi            0-0  FK Jezero
-[Mon Nov/13]
-  16.00  FK Mornar                2-1 (1-0)  FK Rudar Pljevlja
-
-
-Matchday 17
-[Sun Nov/26]
-  13.00  FK Arsenal               0-2 (0-1)  OFK Mladost DG
-  15.00  FK Budućnost Podgorica   4-3 (2-2)  FK Mornar
-         FK Sutjeska              1-1 (0-1)  FK Dečić Tuzi
-[Mon Nov/27]
-  13.30  FK Jezero                4-1 (2-1)  FK Rudar Pljevlja
-[Tue Nov/28]
-  13.00  Jedinstvo Bijelo Polje   1-1 (1-1)  OFK Petrovac
-
-
-Matchday 18
-[Sat Dec/2]
-  13.00  FK Rudar Pljevlja        1-2 (1-2)  FK Sutjeska
-  15.00  OFK Mladost DG           2-0 (2-0)  Jedinstvo Bijelo Polje
-  15.30  OFK Petrovac             2-2 (1-1)  FK Budućnost Podgorica
-  13.00  FK Dečić Tuzi            0-1 (0-0)  FK Arsenal
-[Mon Dec/4]
-  15.00  FK Mornar                2-1 (1-1)  FK Jezero
-
-
-Matchday 19
-[Sat Dec/9]
-  13.00  FK Rudar Pljevlja        2-0 (2-0)  FK Arsenal
-  15.00  FK Dečić Tuzi            3-1 (1-0)  Jedinstvo Bijelo Polje
-  16.00  OFK Petrovac             0-0  FK Mornar
-[Sun Dec/10]
-  15.00  FK Jezero                0-0  FK Sutjeska
-  13.00  OFK Mladost DG           1-3 (1-2)  FK Budućnost Podgorica
-
-
-Matchday 20
-[Sat Feb/17]
-  15.00  Jedinstvo Bijelo Polje   1-0 (0-0)  FK Rudar Pljevlja
-  17.00  OFK Petrovac             3-2 (1-1)  OFK Mladost DG
-  14.30  FK Arsenal               3-1 (3-0)  FK Jezero
-[Sun Feb/18]
-  17.00  FK Budućnost Podgorica   2-2 (2-0)  FK Dečić Tuzi
-  15.00  FK Mornar                1-0 (0-0)  FK Sutjeska
-
-
-Matchday 21
-[Sat Feb/24]
-  14.00  OFK Mladost DG           1-2 (0-0)  FK Mornar
-         FK Rudar Pljevlja        3-0 (1-0)  FK Budućnost Podgorica
-  14.30  FK Jezero                0-3 (0-1)  Jedinstvo Bijelo Polje
-  15.00  FK Sutjeska              1-1 (0-0)  FK Arsenal
-[Sun Feb/25]
-  17.30  FK Dečić Tuzi            1-1 (0-0)  OFK Petrovac
-
-
-Matchday 22
-[Wed Feb/28]
-  15.00  OFK Mladost DG           0-3 (0-1)  FK Dečić Tuzi
-  17.30  FK Mornar                0-0  FK Arsenal
-         OFK Petrovac             1-1 (1-0)  FK Rudar Pljevlja
-  18.00  FK Budućnost Podgorica   0-1 (0-0)  FK Jezero
-  15.00  Jedinstvo Bijelo Polje   0-1 (0-1)  FK Sutjeska
-
-
-Matchday 23
-[Sun Mar/3]
-  14.00  FK Jezero                0-2 (0-0)  OFK Petrovac
-         FK Rudar Pljevlja        1-2 (0-2)  OFK Mladost DG
-  15.00  FK Arsenal               1-1 (1-1)  Jedinstvo Bijelo Polje
-  15.30  FK Dečić Tuzi            0-1 (0-0)  FK Mornar
-  17.30  FK Sutjeska              1-1 (0-1)  FK Budućnost Podgorica
-
-
-Matchday 24
-[Sat Mar/9]
-  15.00  OFK Mladost DG           0-1 (0-1)  FK Jezero
-  18.00  FK Dečić Tuzi            3-1 (0-0)  FK Rudar Pljevlja
-         FK Mornar                0-0  Jedinstvo Bijelo Polje
-  14.00  OFK Petrovac             1-2 (1-1)  FK Sutjeska
-[Sun Mar/10]
-  17.30  FK Budućnost Podgorica   6-0 (3-0)  FK Arsenal
-
-
-Matchday 25
-[Wed Mar/13]
-  15.00  FK Arsenal               1-1 (1-1)  OFK Petrovac
-         Jedinstvo Bijelo Polje   1-2 (1-0)  FK Budućnost Podgorica
-  16.00  FK Sutjeska              2-1 (1-1)  OFK Mladost DG
-         FK Rudar Pljevlja        0-0  FK Mornar
-  18.00  FK Jezero                1-1 (0-0)  FK Dečić Tuzi
-
-
-Matchday 26
-[Sun Mar/17]
-  14.00  OFK Mladost DG           1-2 (1-1)  FK Arsenal
-  15.00  FK Dečić Tuzi            0-0  FK Sutjeska
-         FK Rudar Pljevlja        0-1 (0-0)  FK Jezero
-  17.00  OFK Petrovac             1-0 (0-0)  Jedinstvo Bijelo Polje
-  17.30  FK Mornar                1-0 (0-0)  FK Budućnost Podgorica
-
-
-Matchday 27
-[Sat Mar/30]
-  15.00  FK Sutjeska              2-1 (1-1)  FK Rudar Pljevlja
-         Jedinstvo Bijelo Polje   0-0  OFK Mladost DG
-         FK Jezero                3-1 (1-0)  FK Mornar
-  18.00  FK Budućnost Podgorica   2-0 (1-0)  OFK Petrovac
-  15.00  FK Arsenal               0-2 (0-0)  FK Dečić Tuzi
-
-
-Matchday 28
-[Wed Apr/3]
-  15.00  FK Arsenal               4-2 (3-1)  FK Rudar Pljevlja
-         Jedinstvo Bijelo Polje   0-2 (0-1)  FK Dečić Tuzi
-  17.00  FK Sutjeska              2-1 (2-0)  FK Jezero
-  18.00  FK Mornar                1-0 (0-0)  OFK Petrovac
-  18.30  FK Budućnost Podgorica   1-2 (1-2)  OFK Mladost DG
-
-
-Matchday 29
-[Sun Apr/7]
-  15.00  FK Jezero                4-0 (4-0)  FK Arsenal
-         FK Rudar Pljevlja        1-1 (0-1)  Jedinstvo Bijelo Polje
-         FK Sutjeska              2-0 (0-0)  FK Mornar
-[Mon Apr/8]
-  16.00  OFK Mladost DG           0-0  OFK Petrovac
-[Tue Apr/9]
-  18.00  FK Dečić Tuzi            1-1 (1-0)  FK Budućnost Podgorica
-
-
-Matchday 30
-[Sat Apr/13]
-  17.00  Jedinstvo Bijelo Polje   2-0 (1-0)  FK Jezero
-  18.00  FK Budućnost Podgorica   3-1 (1-1)  FK Rudar Pljevlja
-         OFK Petrovac             2-1 (1-0)  FK Dečić Tuzi
-  19.00  FK Mornar                5-1 (2-1)  OFK Mladost DG
-[Sun Apr/14]
-  14.00  FK Arsenal               1-0 (0-0)  FK Sutjeska
-
-
-Matchday 31
-[Sun Apr/21]
-  15.00  FK Rudar Pljevlja        1-0 (1-0)  OFK Petrovac
-  16.30  FK Arsenal               1-2 (0-1)  FK Mornar
-  17.00  FK Dečić Tuzi            2-0 (0-0)  OFK Mladost DG
-         FK Sutjeska              3-1 (2-0)  Jedinstvo Bijelo Polje
-         FK Jezero                3-1 (2-1)  FK Budućnost Podgorica
-
-
-Matchday 32
-[Sat Apr/27]
-  18.00  Jedinstvo Bijelo Polje   1-1 (0-1)  FK Arsenal
-         OFK Mladost DG           1-0 (0-0)  FK Rudar Pljevlja
-         OFK Petrovac             2-1 (1-0)  FK Jezero
-  19.00  FK Mornar                1-1 (1-1)  FK Dečić Tuzi
-  18.00  FK Budućnost Podgorica   2-2 (1-1)  FK Sutjeska
-
-
-Matchday 33
-[Sat May/4]
-  17.00  FK Arsenal               0-4 (0-1)  FK Budućnost Podgorica
-         Jedinstvo Bijelo Polje   3-4 (2-3)  FK Mornar
-         FK Jezero                0-1 (0-0)  OFK Mladost DG
-         FK Rudar Pljevlja        0-4 (0-2)  FK Dečić Tuzi
-  18.00  FK Sutjeska              0-1 (0-1)  OFK Petrovac
-
-
-Matchday 34
-[Sun May/12]
-  19.00  FK Dečić Tuzi            2-0 (1-0)  FK Jezero
-         OFK Mladost DG           3-2 (1-0)  FK Sutjeska
-         FK Mornar                3-0 (2-0)  FK Rudar Pljevlja
-         OFK Petrovac             2-2 (1-1)  FK Arsenal
-         FK Budućnost Podgorica   2-0 (0-0)  Jedinstvo Bijelo Polje
-
-
-Matchday 35
-[Sat May/18]
-  19.00  FK Arsenal               3-1 (1-0)  OFK Mladost DG
-         FK Budućnost Podgorica   0-1 (0-0)  FK Mornar
-         FK Sutjeska              0-1 (0-1)  FK Dečić Tuzi
-         Jedinstvo Bijelo Polje   4-2 (2-2)  OFK Petrovac
-         FK Jezero                2-1 (1-0)  FK Rudar Pljevlja
-
-
-Matchday 36
-[Sat May/25]
-  19.00  OFK Mladost DG           1-2 (1-2)  Jedinstvo Bijelo Polje
-         FK Mornar                1-0 (0-0)  FK Jezero
-         OFK Petrovac             3-1 (0-0)  FK Budućnost Podgorica
-         FK Rudar Pljevlja        2-1 (0-0)  FK Sutjeska
-         FK Dečić Tuzi            3-1 (2-0)  FK Arsenal
+» Matchday 1
+  Sat Jul/22 2023
+    20.00  OFK Mladost DG          v FK Budućnost Podgorica   2-1 (0-1)
+    20.30  FK Dečić Tuzi           v Jedinstvo Bijelo Polje   2-1 (1-1)
+           OFK Petrovac            v FK Mornar                0-0
+  Sun Jul/23
+    20.00  FK Jezero               v FK Sutjeska              0-1 (0-1)
+           FK Rudar Pljevlja       v FK Arsenal               0-1 (0-1)
+
+
+» Matchday 2
+  Sat Jul/29
+    20.00  OFK Petrovac            v OFK Mladost DG           1-0 (0-0)
+    20.30  Jedinstvo Bijelo Polje  v FK Rudar Pljevlja        1-0 (0-0)
+  Sun Jul/30
+    20.00  FK Mornar               v FK Sutjeska              1-1 (1-0)
+    20.30  FK Arsenal              v FK Jezero                2-2 (1-1)
+  Wed Aug/9
+    20.00  FK Budućnost Podgorica  v FK Dečić Tuzi            1-1 (1-1)
+
+
+» Matchday 3
+  Sat Aug/5
+    19.00  FK Rudar Pljevlja       v FK Budućnost Podgorica   0-4 (0-2)
+    20.00  FK Jezero               v Jedinstvo Bijelo Polje   1-0 (0-0)
+    20.30  OFK Mladost DG          v FK Mornar                1-1 (0-0)
+  Sun Aug/6
+    20.00  FK Dečić Tuzi           v OFK Petrovac             1-2 (0-0)
+           FK Sutjeska             v FK Arsenal               2-2 (0-2)
+
+
+» Matchday 4
+  Sat Aug/12
+    20.30  FK Mornar               v FK Arsenal               0-1 (0-0)
+           OFK Petrovac            v FK Rudar Pljevlja        2-0 (0-0)
+  Sun Aug/13
+    20.00  FK Budućnost Podgorica  v FK Jezero                1-1 (0-0)
+           Jedinstvo Bijelo Polje  v FK Sutjeska              0-0
+           OFK Mladost DG          v FK Dečić Tuzi            0-2 (0-0)
+
+
+» Matchday 5
+  Sun Aug/20
+    17.30  FK Arsenal              v Jedinstvo Bijelo Polje   2-2 (1-2)
+    18.00  FK Rudar Pljevlja       v OFK Mladost DG           0-0
+    19.30  FK Sutjeska             v FK Budućnost Podgorica   1-2 (0-0)
+    20.00  FK Dečić Tuzi           v FK Mornar                3-1 (1-1)
+           FK Jezero               v OFK Petrovac             2-0 (0-0)
+
+
+» Matchday 6
+  Fri Aug/25
+    19.00  OFK Mladost DG          v FK Jezero                1-2 (0-2)
+  Sat Aug/26
+    18.30  OFK Petrovac            v FK Sutjeska              1-1 (0-1)
+    20.00  FK Budućnost Podgorica  v FK Arsenal               2-0 (2-0)
+           FK Dečić Tuzi           v FK Rudar Pljevlja        0-1 (0-1)
+           FK Mornar               v Jedinstvo Bijelo Polje   4-3 (2-2)
+
+
+» Matchday 7
+  Sun Sep/3
+    17.00  FK Arsenal              v OFK Petrovac             2-2 (1-1)
+           FK Rudar Pljevlja       v FK Mornar                0-0
+    19.00  Jedinstvo Bijelo Polje  v FK Budućnost Podgorica   1-4 (1-3)
+    19.30  FK Jezero               v FK Dečić Tuzi            0-0
+    20.00  FK Sutjeska             v OFK Mladost DG           3-3 (0-0)
+
+
+» Matchday 8
+  Sat Sep/16
+    16.00  FK Rudar Pljevlja       v FK Jezero                0-1 (0-1)
+    19.30  OFK Mladost DG          v FK Arsenal               2-1 (0-0)
+           OFK Petrovac            v Jedinstvo Bijelo Polje   1-1 (1-0)
+    20.30  FK Mornar               v FK Budućnost Podgorica   0-0
+  Sun Sep/17
+    19.30  FK Dečić Tuzi           v FK Sutjeska              0-4 (0-2)
+
+
+» Matchday 9
+  Sat Sep/23
+    16.00  FK Arsenal              v FK Dečić Tuzi            0-1 (0-1)
+           FK Sutjeska             v FK Rudar Pljevlja        1-0 (0-0)
+    17.00  FK Jezero               v FK Mornar                0-1 (0-0)
+    18.00  Jedinstvo Bijelo Polje  v OFK Mladost DG           2-1 (1-0)
+    19.00  FK Budućnost Podgorica  v OFK Petrovac             2-1 (0-1)
+
+
+» Matchday 10
+  Wed Sep/27
+    15.30  FK Arsenal              v FK Rudar Pljevlja        2-0 (2-0)
+    18.00  FK Sutjeska             v FK Jezero                1-1 (0-0)
+           Jedinstvo Bijelo Polje  v FK Dečić Tuzi            0-1 (0-0)
+    18.30  FK Budućnost Podgorica  v OFK Mladost DG           2-2 (1-1)
+    19.00  FK Mornar               v OFK Petrovac             0-0
+
+
+» Matchday 11
+  Sun Oct/1
+    15.00  FK Rudar Pljevlja       v Jedinstvo Bijelo Polje   2-2 (2-1)
+    18.00  FK Dečić Tuzi           v FK Budućnost Podgorica   2-0 (1-0)
+           FK Sutjeska             v FK Mornar                0-1 (0-0)
+           FK Jezero               v FK Arsenal               1-1 (0-1)
+    19.00  OFK Mladost DG          v OFK Petrovac             0-2 (0-2)
+
+
+» Matchday 12
+  Sat Oct/7
+    15.00  FK Arsenal              v FK Sutjeska              1-1 (1-1)
+    18.00  Jedinstvo Bijelo Polje  v FK Jezero                2-3 (0-0)
+    19.00  FK Mornar               v OFK Mladost DG           2-1 (1-1)
+           OFK Petrovac            v FK Dečić Tuzi            2-3 (1-2)
+  Sun Oct/8
+    17.30  FK Budućnost Podgorica  v FK Rudar Pljevlja        2-0 (1-0)
+
+
+» Matchday 13
+  Sat Oct/21
+    15.00  FK Arsenal              v FK Mornar                2-2 (2-2)
+           FK Sutjeska             v Jedinstvo Bijelo Polje   2-0 (0-0)
+           FK Rudar Pljevlja       v OFK Petrovac             1-0 (0-0)
+    16.00  FK Dečić Tuzi           v OFK Mladost DG           4-1 (3-0)
+  Sun Oct/22
+    18.00  FK Jezero               v FK Budućnost Podgorica   1-3 (0-1)
+
+
+» Matchday 14
+  Sat Oct/28
+    15.00  Jedinstvo Bijelo Polje  v FK Arsenal               3-2 (2-2)
+    16.00  OFK Petrovac            v FK Jezero                0-0
+    17.00  OFK Mladost DG          v FK Rudar Pljevlja        0-1 (0-0)
+           FK Mornar               v FK Dečić Tuzi            0-1 (0-0)
+    18.30  FK Budućnost Podgorica  v FK Sutjeska              1-0 (0-0)
+
+
+» Matchday 15
+  Sat Nov/4
+    16.00  FK Jezero               v OFK Mladost DG           2-0 (1-0)
+  Sun Nov/5
+    13.30  FK Arsenal              v FK Budućnost Podgorica   1-1 (0-1)
+           FK Rudar Pljevlja       v FK Dečić Tuzi            0-1 (0-1)
+    14.00  Jedinstvo Bijelo Polje  v FK Mornar                1-1 (0-1)
+    15.30  FK Sutjeska             v OFK Petrovac             3-2 (3-0)
+
+
+» Matchday 16
+  Sat Nov/11
+    16.00  FK Budućnost Podgorica  v Jedinstvo Bijelo Polje   3-2 (1-0)
+           OFK Mladost DG          v FK Sutjeska              1-1 (0-0)
+           OFK Petrovac            v FK Arsenal               1-1 (1-1)
+    18.30  FK Dečić Tuzi           v FK Jezero                0-0
+  Mon Nov/13
+    16.00  FK Mornar               v FK Rudar Pljevlja        2-1 (1-0)
+
+
+» Matchday 17
+  Sun Nov/26
+    13.00  FK Arsenal              v OFK Mladost DG           0-2 (0-1)
+    15.00  FK Budućnost Podgorica  v FK Mornar                4-3 (2-2)
+           FK Sutjeska             v FK Dečić Tuzi            1-1 (0-1)
+  Mon Nov/27
+    13.30  FK Jezero               v FK Rudar Pljevlja        4-1 (2-1)
+  Tue Nov/28
+    13.00  Jedinstvo Bijelo Polje  v OFK Petrovac             1-1 (1-1)
+
+
+» Matchday 18
+  Sat Dec/2
+    13.00  FK Dečić Tuzi           v FK Arsenal               0-1 (0-0)
+           FK Rudar Pljevlja       v FK Sutjeska              1-2 (1-2)
+    15.00  OFK Mladost DG          v Jedinstvo Bijelo Polje   2-0 (2-0)
+    15.30  OFK Petrovac            v FK Budućnost Podgorica   2-2 (1-1)
+  Mon Dec/4
+    15.00  FK Mornar               v FK Jezero                2-1 (1-1)
+
+
+» Matchday 19
+  Sat Dec/9
+    13.00  FK Rudar Pljevlja       v FK Arsenal               2-0 (2-0)
+    15.00  FK Dečić Tuzi           v Jedinstvo Bijelo Polje   3-1 (1-0)
+    16.00  OFK Petrovac            v FK Mornar                0-0
+  Sun Dec/10
+    13.00  OFK Mladost DG          v FK Budućnost Podgorica   1-3 (1-2)
+    15.00  FK Jezero               v FK Sutjeska              0-0
+
+
+» Matchday 20
+  Sat Feb/17 2024
+    14.30  FK Arsenal              v FK Jezero                3-1 (3-0)
+    15.00  Jedinstvo Bijelo Polje  v FK Rudar Pljevlja        1-0 (0-0)
+    17.00  OFK Petrovac            v OFK Mladost DG           3-2 (1-1)
+  Sun Feb/18
+    15.00  FK Mornar               v FK Sutjeska              1-0 (0-0)
+    17.00  FK Budućnost Podgorica  v FK Dečić Tuzi            2-2 (2-0)
+
+
+» Matchday 21
+  Sat Feb/24
+    14.00  OFK Mladost DG          v FK Mornar                1-2 (0-0)
+           FK Rudar Pljevlja       v FK Budućnost Podgorica   3-0 (1-0)
+    14.30  FK Jezero               v Jedinstvo Bijelo Polje   0-3 (0-1)
+    15.00  FK Sutjeska             v FK Arsenal               1-1 (0-0)
+  Sun Feb/25
+    17.30  FK Dečić Tuzi           v OFK Petrovac             1-1 (0-0)
+
+
+» Matchday 22
+  Wed Feb/28
+    15.00  Jedinstvo Bijelo Polje  v FK Sutjeska              0-1 (0-1)
+           OFK Mladost DG          v FK Dečić Tuzi            0-3 (0-1)
+    17.30  FK Mornar               v FK Arsenal               0-0
+           OFK Petrovac            v FK Rudar Pljevlja        1-1 (1-0)
+    18.00  FK Budućnost Podgorica  v FK Jezero                0-1 (0-0)
+
+
+» Matchday 23
+  Sun Mar/3
+    14.00  FK Jezero               v OFK Petrovac             0-2 (0-0)
+           FK Rudar Pljevlja       v OFK Mladost DG           1-2 (0-2)
+    15.00  FK Arsenal              v Jedinstvo Bijelo Polje   1-1 (1-1)
+    15.30  FK Dečić Tuzi           v FK Mornar                0-1 (0-0)
+    17.30  FK Sutjeska             v FK Budućnost Podgorica   1-1 (0-1)
+
+
+» Matchday 24
+  Sat Mar/9
+    14.00  OFK Petrovac            v FK Sutjeska              1-2 (1-1)
+    15.00  OFK Mladost DG          v FK Jezero                0-1 (0-1)
+    18.00  FK Dečić Tuzi           v FK Rudar Pljevlja        3-1 (0-0)
+           FK Mornar               v Jedinstvo Bijelo Polje   0-0
+  Sun Mar/10
+    17.30  FK Budućnost Podgorica  v FK Arsenal               6-0 (3-0)
+
+
+» Matchday 25
+  Wed Mar/13
+    15.00  FK Arsenal              v OFK Petrovac             1-1 (1-1)
+           Jedinstvo Bijelo Polje  v FK Budućnost Podgorica   1-2 (1-0)
+    16.00  FK Sutjeska             v OFK Mladost DG           2-1 (1-1)
+           FK Rudar Pljevlja       v FK Mornar                0-0
+    18.00  FK Jezero               v FK Dečić Tuzi            1-1 (0-0)
+
+
+» Matchday 26
+  Sun Mar/17
+    14.00  OFK Mladost DG          v FK Arsenal               1-2 (1-1)
+    15.00  FK Dečić Tuzi           v FK Sutjeska              0-0
+           FK Rudar Pljevlja       v FK Jezero                0-1 (0-0)
+    17.00  OFK Petrovac            v Jedinstvo Bijelo Polje   1-0 (0-0)
+    17.30  FK Mornar               v FK Budućnost Podgorica   1-0 (0-0)
+
+
+» Matchday 27
+  Sat Mar/30
+    15.00  FK Arsenal              v FK Dečić Tuzi            0-2 (0-0)
+           FK Sutjeska             v FK Rudar Pljevlja        2-1 (1-1)
+           Jedinstvo Bijelo Polje  v OFK Mladost DG           0-0
+           FK Jezero               v FK Mornar                3-1 (1-0)
+    18.00  FK Budućnost Podgorica  v OFK Petrovac             2-0 (1-0)
+
+
+» Matchday 28
+  Wed Apr/3
+    15.00  FK Arsenal              v FK Rudar Pljevlja        4-2 (3-1)
+           Jedinstvo Bijelo Polje  v FK Dečić Tuzi            0-2 (0-1)
+    17.00  FK Sutjeska             v FK Jezero                2-1 (2-0)
+    18.00  FK Mornar               v OFK Petrovac             1-0 (0-0)
+    18.30  FK Budućnost Podgorica  v OFK Mladost DG           1-2 (1-2)
+
+
+» Matchday 29
+  Sun Apr/7
+    15.00  FK Sutjeska             v FK Mornar                2-0 (0-0)
+           FK Jezero               v FK Arsenal               4-0 (4-0)
+           FK Rudar Pljevlja       v Jedinstvo Bijelo Polje   1-1 (0-1)
+  Mon Apr/8
+    16.00  OFK Mladost DG          v OFK Petrovac             0-0
+  Tue Apr/9
+    18.00  FK Dečić Tuzi           v FK Budućnost Podgorica   1-1 (1-0)
+
+
+» Matchday 30
+  Sat Apr/13
+    17.00  Jedinstvo Bijelo Polje  v FK Jezero                2-0 (1-0)
+    18.00  FK Budućnost Podgorica  v FK Rudar Pljevlja        3-1 (1-1)
+           OFK Petrovac            v FK Dečić Tuzi            2-1 (1-0)
+    19.00  FK Mornar               v OFK Mladost DG           5-1 (2-1)
+  Sun Apr/14
+    14.00  FK Arsenal              v FK Sutjeska              1-0 (0-0)
+
+
+» Matchday 31
+  Sun Apr/21
+    15.00  FK Rudar Pljevlja       v OFK Petrovac             1-0 (1-0)
+    16.30  FK Arsenal              v FK Mornar                1-2 (0-1)
+    17.00  FK Dečić Tuzi           v OFK Mladost DG           2-0 (0-0)
+           FK Sutjeska             v Jedinstvo Bijelo Polje   3-1 (2-0)
+           FK Jezero               v FK Budućnost Podgorica   3-1 (2-1)
+
+
+» Matchday 32
+  Sat Apr/27
+    18.00  FK Budućnost Podgorica  v FK Sutjeska              2-2 (1-1)
+           Jedinstvo Bijelo Polje  v FK Arsenal               1-1 (0-1)
+           OFK Mladost DG          v FK Rudar Pljevlja        1-0 (0-0)
+           OFK Petrovac            v FK Jezero                2-1 (1-0)
+    19.00  FK Mornar               v FK Dečić Tuzi            1-1 (1-1)
+
+
+» Matchday 33
+  Sat May/4
+    17.00  FK Arsenal              v FK Budućnost Podgorica   0-4 (0-1)
+           Jedinstvo Bijelo Polje  v FK Mornar                3-4 (2-3)
+           FK Jezero               v OFK Mladost DG           0-1 (0-0)
+           FK Rudar Pljevlja       v FK Dečić Tuzi            0-4 (0-2)
+    18.00  FK Sutjeska             v OFK Petrovac             0-1 (0-1)
+
+
+» Matchday 34
+  Sun May/12
+    19.00  FK Budućnost Podgorica  v Jedinstvo Bijelo Polje   2-0 (0-0)
+           FK Dečić Tuzi           v FK Jezero                2-0 (1-0)
+           OFK Mladost DG          v FK Sutjeska              3-2 (1-0)
+           FK Mornar               v FK Rudar Pljevlja        3-0 (2-0)
+           OFK Petrovac            v FK Arsenal               2-2 (1-1)
+
+
+» Matchday 35
+  Sat May/18
+    19.00  FK Arsenal              v OFK Mladost DG           3-1 (1-0)
+           FK Budućnost Podgorica  v FK Mornar                0-1 (0-0)
+           FK Sutjeska             v FK Dečić Tuzi            0-1 (0-1)
+           Jedinstvo Bijelo Polje  v OFK Petrovac             4-2 (2-2)
+           FK Jezero               v FK Rudar Pljevlja        2-1 (1-0)
+
+
+» Matchday 36
+  Sat May/25
+    19.00  FK Dečić Tuzi           v FK Arsenal               3-1 (2-0)
+           OFK Mladost DG          v Jedinstvo Bijelo Polje   1-2 (1-2)
+           FK Mornar               v FK Jezero                1-0 (0-0)
+           OFK Petrovac            v FK Budućnost Podgorica   3-1 (0-0)
+           FK Rudar Pljevlja       v FK Sutjeska              2-1 (0-0)

@@ -1,0 +1,395 @@
+= Latvia Higher League 2025
+
+# Date       Wed Mar/5 - Sun Nov/9 2025 (249d)
+# Teams      10
+# Matches    180
+
+
+
+» Matchday 1
+  Wed Mar/5 2025
+    18.00  FK Auda                 v FK RFS                   1-2 (0-2)
+  Thu Mar/6
+    18.00  Riga FC                 v SK Super Nova            2-0 (1-0)
+           Grobiņas SC             v FS Jelgava               1-1 (0-1)
+  Fri Mar/7
+    17.30  BFC Daugavpils          v FK Tukums 2000           3-0 (1-0)
+    18.30  FK Liepāja              v FK Metta                 4-0 (3-0)
+
+
+» Matchday 2
+  Mon Mar/10
+    19.00  Riga FC                 v FK Auda                  2-2 (0-0)
+  Tue Mar/11
+    18.00  Grobiņas SC             v BFC Daugavpils           3-2 (0-1)
+    19.00  FK RFS                  v FS Jelgava               1-0 (0-0)
+  Wed Mar/12
+    18.00  FK Liepāja              v FK Tukums 2000           0-0
+    19.00  SK Super Nova           v FK Metta                 4-0 (1-0)
+
+
+» Matchday 3
+  Sat Mar/15
+    14.00  FS Jelgava              v Riga FC                  1-1 (0-0)
+    16.00  BFC Daugavpils          v FK RFS                   1-2 (0-2)
+  Sun Mar/16
+    13.00  FK Metta                v FK Tukums 2000           3-2 (1-2)
+    17.00  FK Auda                 v SK Super Nova            1-0 (0-0)
+    19.00  FK Liepāja              v Grobiņas SC              4-1 (3-1)
+
+
+» Matchday 4
+  Sat Mar/29
+    15.00  Riga FC                 v BFC Daugavpils
+    17.00  FK RFS                  v FK Liepāja
+  Sun Mar/30
+    15.00  Grobiņas SC             v FK Metta
+    17.00  FK Auda                 v FS Jelgava
+  Mon Mar/31
+    17.00  FK Tukums 2000          v SK Super Nova
+
+
+» Matchday 5
+  Thu Apr/3
+    18.00  FK Liepāja              v Riga FC
+  Fri Apr/4
+    17.00  FK Metta                v FK RFS
+    18.00  BFC Daugavpils          v FK Auda
+  Sat Apr/5
+    14.00  FK Tukums 2000          v Grobiņas SC
+    16.00  FS Jelgava              v SK Super Nova
+
+
+» Matchday 6
+  Tue Apr/8
+    19.00  Riga FC                 v FK Metta
+  Wed Apr/9
+    18.00  FK Auda                 v FK Liepāja
+    19.00  FK RFS                  v FK Tukums 2000
+  Thu Apr/10
+    17.30  FS Jelgava              v BFC Daugavpils
+    19.00  SK Super Nova           v Grobiņas SC
+
+
+» Matchday 7
+  Sun Apr/13
+    14.00  FK Metta                v FK Auda
+    16.00  FK Tukums 2000          v Riga FC
+  Mon Apr/14
+    18.00  FK Liepāja              v FS Jelgava
+  Tue Apr/15
+    18.00  Grobiņas SC             v FK RFS
+    19.00  BFC Daugavpils          v SK Super Nova
+
+
+» Matchday 8
+  Fri Apr/18
+    15.00  FK Metta                v FS Jelgava
+    17.00  FK Auda                 v FK Tukums 2000
+  Sat Apr/19
+    14.00  BFC Daugavpils          v FK Liepāja
+    16.00  Riga FC                 v Grobiņas SC
+  Sun Apr/20
+    17.00  SK Super Nova           v FK RFS
+
+
+» Matchday 9
+  Wed Apr/23
+    18.00  FS Jelgava              v FK Tukums 2000
+  Thu Apr/24
+    18.00  FK Auda                 v Grobiņas SC
+  Fri Apr/25
+    18.00  FK Liepāja              v SK Super Nova
+    19.00  BFC Daugavpils          v FK Metta
+  Sat Apr/26
+    18.00  FK RFS                  v Riga FC
+
+
+» Matchday 10
+  Tue Apr/29
+    18.00  FS Jelgava              v Grobiņas SC
+  Wed Apr/30
+    18.00  FK Tukums 2000          v BFC Daugavpils
+  Thu May/1
+    13.00  SK Super Nova           v Riga FC
+    19.00  FK RFS                  v FK Auda
+  Fri May/2
+    15.00  FK Metta                v FK Liepāja
+
+
+» Matchday 11
+  Sun May/4
+    16.00  Grobiņas SC             v BFC Daugavpils
+  Mon May/5
+    14.00  FS Jelgava              v FK RFS
+    16.00  FK Auda                 v Riga FC
+  Tue May/6
+    18.00  FK Metta                v SK Super Nova
+           FK Tukums 2000          v FK Liepāja
+
+
+» Matchday 12
+  Fri May/9
+    19.00  FK RFS                  v BFC Daugavpils
+  Sat May/10
+    16.00  Grobiņas SC             v FK Liepāja
+    18.00  Riga FC                 v FS Jelgava
+  Sun May/11
+    14.00  FK Tukums 2000          v FK Metta
+    19.00  SK Super Nova           v FK Auda
+
+
+» Matchday 13
+  Wed May/14
+    17.30  BFC Daugavpils          v Riga FC
+    18.00  FK Liepāja              v FK RFS
+  Thu May/15
+    18.00  FS Jelgava              v FK Auda
+    18.30  FK Metta                v Grobiņas SC
+  Fri May/16
+    19.00  SK Super Nova           v FK Tukums 2000
+
+
+» Matchday 14
+  Mon May/19
+    19.00  Riga FC                 v FK Liepāja
+  Tue May/20
+    18.00  FK Auda                 v BFC Daugavpils
+    20.00  FK RFS                  v FK Metta
+  Wed May/21
+    18.00  Grobiņas SC             v FK Tukums 2000
+    20.00  SK Super Nova           v FS Jelgava
+
+
+» Matchday 15
+  Sat May/24
+    16.00  FK Metta                v Riga FC
+    18.00  FK Liepāja              v FK Auda
+  Sun May/25
+    16.00  BFC Daugavpils          v FS Jelgava
+    18.00  FK Tukums 2000          v FK RFS
+  Mon May/26
+    18.00  Grobiņas SC             v SK Super Nova
+
+
+» Matchday 16
+  Thu May/29
+    18.00  FK Auda                 v FK Metta
+  Fri May/30
+    18.00  FS Jelgava              v FK Liepāja
+  Sat May/31
+    17.00  Riga FC                 v FK Tukums 2000
+    19.00  FK RFS                  v Grobiņas SC
+  Sun Jun/1
+    15.00  SK Super Nova           v BFC Daugavpils
+
+
+» Matchday 17
+  Fri Jun/13
+    18.00  FK Tukums 2000          v FK Auda
+           FK Liepāja              v BFC Daugavpils
+    19.00  FS Jelgava              v FK Metta
+  Sat Jun/14
+    14.00  Grobiņas SC             v Riga FC
+    20.00  FK RFS                  v SK Super Nova
+
+
+» Matchday 18
+  Tue Jun/17
+    18.00  FK Metta                v BFC Daugavpils
+    19.00  FK Tukums 2000          v FS Jelgava
+    20.00  SK Super Nova           v FK Liepāja
+  Wed Jun/18
+    18.00  Grobiņas SC             v FK Auda
+    20.00  Riga FC                 v FK RFS
+
+
+» Matchday 19
+  Sat Jun/21
+    16.00  BFC Daugavpils          v FK Tukums 2000
+    18.00  FK Liepāja              v FK Metta
+  Sun Jun/22
+    16.00  FS Jelgava              v Grobiņas SC
+    18.00  Riga FC                 v SK Super Nova
+    20.00  FK RFS                  v FK Auda
+
+
+» Matchday 20
+  Wed Jun/25
+    19.00  FK Tukums 2000          v FK Liepāja
+  Thu Jun/26
+    18.00  BFC Daugavpils          v Grobiņas SC
+    19.00  FS Jelgava              v FK RFS
+  Fri Jun/27
+    18.00  FK Auda                 v Riga FC
+    20.00  SK Super Nova           v FK Metta
+
+
+» Matchday 21
+  Mon Jun/30
+    18.00  BFC Daugavpils          v FK RFS
+    20.00  FK Liepāja              v Grobiņas SC
+  Tue Jul/1
+    18.00  SK Super Nova           v FK Auda
+    20.00  Riga FC                 v FS Jelgava
+  Wed Jul/2
+    19.00  FK Metta                v FK Tukums 2000
+
+
+» Matchday 22
+  Fri Jul/4
+    19.00  FK RFS                  v FK Liepāja
+  Sat Jul/5
+    18.00  FK Auda                 v FS Jelgava
+  Sun Jul/6
+    16.00  Grobiņas SC             v FK Metta
+    18.00  SK Super Nova           v FK Tukums 2000
+    19.00  Riga FC                 v BFC Daugavpils
+
+
+» Matchday 23
+  Sat Jul/19
+    16.00  FK Liepāja              v Riga FC
+    18.00  FK Metta                v FK RFS
+  Sun Jul/20
+    15.00  FK Auda                 v BFC Daugavpils
+    17.00  FS Jelgava              v SK Super Nova
+  Mon Jul/21
+    18.00  FK Tukums 2000          v Grobiņas SC
+
+
+» Matchday 24
+  Sat Jul/26
+    17.00  SK Super Nova           v Grobiņas SC
+  Sun Jul/27
+    15.00  BFC Daugavpils          v FS Jelgava
+    17.00  FK Liepāja              v FK Auda
+    18.00  Riga FC                 v FK Metta
+    20.00  FK RFS                  v FK Tukums 2000
+
+
+» Matchday 25
+  Sat Aug/2
+    15.00  FS Jelgava              v FK Liepāja
+    17.00  SK Super Nova           v BFC Daugavpils
+  Sun Aug/3
+    18.00  FK Tukums 2000          v Riga FC
+           Grobiņas SC             v FK RFS
+    20.00  FK Auda                 v FK Metta
+
+
+» Matchday 26
+  Sat Aug/9
+    16.00  FK Liepāja              v BFC Daugavpils
+    18.00  FK Metta                v FS Jelgava
+  Sun Aug/10
+    18.00  Riga FC                 v Grobiņas SC
+           FK Tukums 2000          v FK Auda
+    20.00  FK RFS                  v SK Super Nova
+
+
+» Matchday 27
+  Sat Aug/23
+    15.00  FS Jelgava              v FK Tukums 2000
+    17.00  BFC Daugavpils          v FK Metta
+  Sun Aug/24
+    15.00  FK Auda                 v Grobiņas SC
+    19.00  FK RFS                  v Riga FC
+  Mon Aug/25
+    17.30  FK Liepāja              v SK Super Nova
+
+
+» Matchday 28
+  Fri Aug/29
+    17.30  FK Metta                v FK Liepāja
+    20.00  Grobiņas SC             v FS Jelgava
+  Sat Aug/30
+    16.00  FK Tukums 2000          v BFC Daugavpils
+    19.00  SK Super Nova           v Riga FC
+  Sun Aug/31
+    18.00  FK Auda                 v FK RFS
+
+
+» Matchday 29
+  Sat Sep/13
+    16.00  FK RFS                  v FS Jelgava
+    18.00  Riga FC                 v FK Auda
+  Sun Sep/14
+    16.00  FK Metta                v SK Super Nova
+    19.00  FK Liepāja              v FK Tukums 2000
+  Mon Sep/15
+    17.30  BFC Daugavpils          v Grobiņas SC
+
+
+» Matchday 30
+  Fri Sep/19
+    19.00  Grobiņas SC             v FK Liepāja
+  Sat Sep/20
+    14.00  FK Tukums 2000          v FK Metta
+  Sun Sep/21
+    14.00  FS Jelgava              v Riga FC
+    18.00  FK RFS                  v BFC Daugavpils
+  Mon Sep/22
+    18.00  FK Auda                 v SK Super Nova
+
+
+» Matchday 31
+  Fri Sep/26
+    17.30  BFC Daugavpils          v Riga FC
+  Sat Sep/27
+    14.00  FS Jelgava              v FK Auda
+    16.00  FK Metta                v Grobiņas SC
+  Sun Sep/28
+    14.00  FK Liepāja              v FK RFS
+    16.00  FK Tukums 2000          v SK Super Nova
+
+
+» Matchday 32
+  Fri Oct/3
+    18.00  Riga FC                 v FK Liepāja
+  Sat Oct/4
+    16.00  SK Super Nova           v FS Jelgava
+    19.00  Grobiņas SC             v FK Tukums 2000
+  Sun Oct/5
+    14.00  BFC Daugavpils          v FK Auda
+    16.00  FK RFS                  v FK Metta
+
+
+» Matchday 33
+  Sat Oct/18
+    14.00  FS Jelgava              v BFC Daugavpils
+    15.00  Grobiņas SC             v SK Super Nova
+  Sun Oct/19
+    13.00  FK Tukums 2000          v FK RFS
+    15.00  FK Metta                v Riga FC
+  Mon Oct/20
+    18.00  FK Auda                 v FK Liepāja
+
+
+» Matchday 34
+  Fri Oct/24
+    18.00  Riga FC                 v FK Tukums 2000
+  Sat Oct/25
+    14.00  BFC Daugavpils          v SK Super Nova
+    16.00  FK Liepāja              v FS Jelgava
+  Sun Oct/26
+    13.00  FK Metta                v FK Auda
+    16.00  FK RFS                  v Grobiņas SC
+
+
+» Matchday 35
+  Sun Nov/2
+    13.00  SK Super Nova           v FK RFS
+           Grobiņas SC             v Riga FC
+           FK Auda                 v FK Tukums 2000
+           FS Jelgava              v FK Metta
+           BFC Daugavpils          v FK Liepāja
+
+
+» Matchday 36
+  Sun Nov/9
+    13.00  SK Super Nova           v FK Liepāja
+           FK Metta                v BFC Daugavpils
+           FK Tukums 2000          v FS Jelgava
+           Grobiņas SC             v FK Auda
+           Riga FC                 v FK RFS

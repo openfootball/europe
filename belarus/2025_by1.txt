@@ -1,0 +1,370 @@
+= Belarus Premier League 2025
+
+# Date       Thu Mar/13 - Sat Nov/29 2025 (261d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Thu Mar/13 2025
+    19.00  FK Minsk                v Naftan Novopolotsk       1-2 (1-0)
+  Fri Mar/14
+    19.00  FK Isloch Minsk         v FK Slaviya Mozyr         2-2 (2-0)
+  Sat Mar/15
+    13.00  FK Gomel                v Torpedo-BelAZ Zhodino    1-1 (0-0)
+    15.00  Neman Grodno            v FK Molodechno            3-0 (1-0)
+    17.00  FK Vitebsk              v BATE Borisov             0-1 (0-0)
+  Sun Mar/16
+    13.00  Arsenal Dzerzhinsk      v Dinamo Brest             1-1 (1-1)
+    15.00  FK Slutsk               v FK Maxline Vitebsk       0-1 (0-0)
+    17.00  Dinamo Minsk            v FK Smorgon               1-0 (0-0)
+
+
+» Matchday 2
+  Fri Mar/28
+           Naftan Novopolotsk      v Dinamo Brest
+           Torpedo-BelAZ Zhodino   v Dinamo Minsk
+           Neman Grodno            v FK Gomel
+    18.00  FK Slaviya Mozyr        v FK Molodechno
+    20.00  BATE Borisov            v FK Isloch Minsk
+  Sat Mar/29
+    14.00  FK Maxline Vitebsk      v Arsenal Dzerzhinsk
+    16.00  FK Smorgon              v FK Slutsk
+    18.00  FK Minsk                v FK Vitebsk
+
+
+» Matchday 3
+  Fri Apr/4
+           FK Vitebsk              v Naftan Novopolotsk
+           FK Isloch Minsk         v FK Minsk
+           FK Molodechno           v BATE Borisov
+           FK Gomel                v FK Slaviya Mozyr
+           Dinamo Minsk            v Neman Grodno
+           FK Slutsk               v Torpedo-BelAZ Zhodino
+           Arsenal Dzerzhinsk      v FK Smorgon
+           Dinamo Brest            v FK Maxline Vitebsk
+
+
+» Matchday 4
+  Fri Apr/11
+           Naftan Novopolotsk      v FK Maxline Vitebsk
+           FK Smorgon              v Dinamo Brest
+           Torpedo-BelAZ Zhodino   v Arsenal Dzerzhinsk
+           Neman Grodno            v FK Slutsk
+           FK Slaviya Mozyr        v Dinamo Minsk
+           BATE Borisov            v FK Gomel
+           FK Minsk                v FK Molodechno
+           FK Vitebsk              v FK Isloch Minsk
+
+
+» Matchday 5
+  Fri Apr/18
+           FK Isloch Minsk         v Naftan Novopolotsk
+           FK Molodechno           v FK Vitebsk
+           FK Gomel                v FK Minsk
+           Dinamo Minsk            v BATE Borisov
+           FK Slutsk               v FK Slaviya Mozyr
+           Arsenal Dzerzhinsk      v Neman Grodno
+           Dinamo Brest            v Torpedo-BelAZ Zhodino
+           FK Maxline Vitebsk      v FK Smorgon
+
+
+» Matchday 6
+  Fri Apr/25
+           Naftan Novopolotsk      v FK Smorgon
+           Torpedo-BelAZ Zhodino   v FK Maxline Vitebsk
+           Neman Grodno            v Dinamo Brest
+           FK Slaviya Mozyr        v Arsenal Dzerzhinsk
+           BATE Borisov            v FK Slutsk
+           FK Minsk                v Dinamo Minsk
+           FK Vitebsk              v FK Gomel
+           FK Isloch Minsk         v FK Molodechno
+
+
+» Matchday 7
+  Thu May/1
+           FK Molodechno           v Naftan Novopolotsk
+           FK Gomel                v FK Isloch Minsk
+           Dinamo Minsk            v FK Vitebsk
+           FK Slutsk               v FK Minsk
+           Arsenal Dzerzhinsk      v BATE Borisov
+           Dinamo Brest            v FK Slaviya Mozyr
+           FK Maxline Vitebsk      v Neman Grodno
+           FK Smorgon              v Torpedo-BelAZ Zhodino
+
+
+» Matchday 8
+  Fri May/9
+           Naftan Novopolotsk      v Torpedo-BelAZ Zhodino
+           Neman Grodno            v FK Smorgon
+           FK Slaviya Mozyr        v FK Maxline Vitebsk
+           BATE Borisov            v Dinamo Brest
+           FK Minsk                v Arsenal Dzerzhinsk
+           FK Vitebsk              v FK Slutsk
+           FK Isloch Minsk         v Dinamo Minsk
+           FK Molodechno           v FK Gomel
+
+
+» Matchday 9
+  Fri May/16
+           FK Gomel                v Naftan Novopolotsk
+           Dinamo Minsk            v FK Molodechno
+           FK Slutsk               v FK Isloch Minsk
+           Arsenal Dzerzhinsk      v FK Vitebsk
+           Dinamo Brest            v FK Minsk
+           FK Maxline Vitebsk      v BATE Borisov
+           FK Smorgon              v FK Slaviya Mozyr
+           Torpedo-BelAZ Zhodino   v Neman Grodno
+
+
+» Matchday 10
+  Fri May/23
+           Naftan Novopolotsk      v Neman Grodno
+           FK Slaviya Mozyr        v Torpedo-BelAZ Zhodino
+           BATE Borisov            v FK Smorgon
+           FK Minsk                v FK Maxline Vitebsk
+           FK Vitebsk              v Dinamo Brest
+           FK Isloch Minsk         v Arsenal Dzerzhinsk
+           FK Molodechno           v FK Slutsk
+           FK Gomel                v Dinamo Minsk
+
+
+» Matchday 11
+  Thu May/29
+           Dinamo Minsk            v Naftan Novopolotsk
+           FK Slutsk               v FK Gomel
+           Arsenal Dzerzhinsk      v FK Molodechno
+           Dinamo Brest            v FK Isloch Minsk
+           FK Maxline Vitebsk      v FK Vitebsk
+           FK Smorgon              v FK Minsk
+           Torpedo-BelAZ Zhodino   v BATE Borisov
+           Neman Grodno            v FK Slaviya Mozyr
+
+
+» Matchday 12
+  Fri Jun/13
+           Naftan Novopolotsk      v FK Slaviya Mozyr
+           BATE Borisov            v Neman Grodno
+           FK Minsk                v Torpedo-BelAZ Zhodino
+           FK Vitebsk              v FK Smorgon
+           FK Isloch Minsk         v FK Maxline Vitebsk
+           FK Molodechno           v Dinamo Brest
+           FK Gomel                v Arsenal Dzerzhinsk
+           Dinamo Minsk            v FK Slutsk
+
+
+» Matchday 13
+  Fri Jun/20
+           FK Slutsk               v Naftan Novopolotsk
+           Arsenal Dzerzhinsk      v Dinamo Minsk
+           Dinamo Brest            v FK Gomel
+           FK Maxline Vitebsk      v FK Molodechno
+           FK Smorgon              v FK Isloch Minsk
+           Torpedo-BelAZ Zhodino   v FK Vitebsk
+           Neman Grodno            v FK Minsk
+           FK Slaviya Mozyr        v BATE Borisov
+
+
+» Matchday 14
+  Fri Jun/27
+           Naftan Novopolotsk      v BATE Borisov
+           FK Minsk                v FK Slaviya Mozyr
+           FK Vitebsk              v Neman Grodno
+           FK Isloch Minsk         v Torpedo-BelAZ Zhodino
+           FK Molodechno           v FK Smorgon
+           FK Gomel                v FK Maxline Vitebsk
+           Dinamo Minsk            v Dinamo Brest
+           FK Slutsk               v Arsenal Dzerzhinsk
+
+
+» Matchday 15
+  Thu Jul/3
+           Arsenal Dzerzhinsk      v Naftan Novopolotsk
+           Dinamo Brest            v FK Slutsk
+           FK Maxline Vitebsk      v Dinamo Minsk
+           FK Smorgon              v FK Gomel
+           Torpedo-BelAZ Zhodino   v FK Molodechno
+           Neman Grodno            v FK Isloch Minsk
+           FK Slaviya Mozyr        v FK Vitebsk
+           BATE Borisov            v FK Minsk
+
+
+» Matchday 16
+  Fri Aug/1
+           Naftan Novopolotsk      v FK Minsk
+           BATE Borisov            v FK Vitebsk
+           FK Slaviya Mozyr        v FK Isloch Minsk
+           FK Molodechno           v Neman Grodno
+           Torpedo-BelAZ Zhodino   v FK Gomel
+           FK Smorgon              v Dinamo Minsk
+           FK Maxline Vitebsk      v FK Slutsk
+           Dinamo Brest            v Arsenal Dzerzhinsk
+
+
+» Matchday 17
+  Fri Aug/8
+           Dinamo Brest            v Naftan Novopolotsk
+           Arsenal Dzerzhinsk      v FK Maxline Vitebsk
+           FK Slutsk               v FK Smorgon
+           Dinamo Minsk            v Torpedo-BelAZ Zhodino
+           FK Gomel                v Neman Grodno
+           FK Molodechno           v FK Slaviya Mozyr
+           FK Isloch Minsk         v BATE Borisov
+           FK Vitebsk              v FK Minsk
+
+
+» Matchday 18
+  Fri Aug/15
+           Naftan Novopolotsk      v FK Vitebsk
+           FK Minsk                v FK Isloch Minsk
+           BATE Borisov            v FK Molodechno
+           FK Slaviya Mozyr        v FK Gomel
+           Neman Grodno            v Dinamo Minsk
+           Torpedo-BelAZ Zhodino   v FK Slutsk
+           FK Smorgon              v Arsenal Dzerzhinsk
+           FK Maxline Vitebsk      v Dinamo Brest
+
+
+» Matchday 19
+  Fri Aug/22
+           FK Maxline Vitebsk      v Naftan Novopolotsk
+           Dinamo Brest            v FK Smorgon
+           Arsenal Dzerzhinsk      v Torpedo-BelAZ Zhodino
+           FK Slutsk               v Neman Grodno
+           Dinamo Minsk            v FK Slaviya Mozyr
+           FK Gomel                v BATE Borisov
+           FK Molodechno           v FK Minsk
+           FK Isloch Minsk         v FK Vitebsk
+
+
+» Matchday 20
+  Fri Aug/29
+           Naftan Novopolotsk      v FK Isloch Minsk
+           FK Vitebsk              v FK Molodechno
+           FK Minsk                v FK Gomel
+           BATE Borisov            v Dinamo Minsk
+           FK Slaviya Mozyr        v FK Slutsk
+           Neman Grodno            v Arsenal Dzerzhinsk
+           Torpedo-BelAZ Zhodino   v Dinamo Brest
+           FK Smorgon              v FK Maxline Vitebsk
+
+
+» Matchday 21
+  Fri Sep/12
+           FK Smorgon              v Naftan Novopolotsk
+           FK Maxline Vitebsk      v Torpedo-BelAZ Zhodino
+           Dinamo Brest            v Neman Grodno
+           Arsenal Dzerzhinsk      v FK Slaviya Mozyr
+           FK Slutsk               v BATE Borisov
+           Dinamo Minsk            v FK Minsk
+           FK Gomel                v FK Vitebsk
+           FK Molodechno           v FK Isloch Minsk
+
+
+» Matchday 22
+  Fri Sep/19
+           Naftan Novopolotsk      v FK Molodechno
+           FK Isloch Minsk         v FK Gomel
+           FK Vitebsk              v Dinamo Minsk
+           FK Minsk                v FK Slutsk
+           BATE Borisov            v Arsenal Dzerzhinsk
+           FK Slaviya Mozyr        v Dinamo Brest
+           Neman Grodno            v FK Maxline Vitebsk
+           Torpedo-BelAZ Zhodino   v FK Smorgon
+
+
+» Matchday 23
+  Fri Sep/26
+           Torpedo-BelAZ Zhodino   v Naftan Novopolotsk
+           FK Smorgon              v Neman Grodno
+           FK Maxline Vitebsk      v FK Slaviya Mozyr
+           Dinamo Brest            v BATE Borisov
+           Arsenal Dzerzhinsk      v FK Minsk
+           FK Slutsk               v FK Vitebsk
+           Dinamo Minsk            v FK Isloch Minsk
+           FK Gomel                v FK Molodechno
+
+
+» Matchday 24
+  Fri Oct/3
+           Naftan Novopolotsk      v FK Gomel
+           FK Molodechno           v Dinamo Minsk
+           FK Isloch Minsk         v FK Slutsk
+           FK Vitebsk              v Arsenal Dzerzhinsk
+           FK Minsk                v Dinamo Brest
+           BATE Borisov            v FK Maxline Vitebsk
+           FK Slaviya Mozyr        v FK Smorgon
+           Neman Grodno            v Torpedo-BelAZ Zhodino
+
+
+» Matchday 25
+  Fri Oct/17
+           Neman Grodno            v Naftan Novopolotsk
+           Torpedo-BelAZ Zhodino   v FK Slaviya Mozyr
+           FK Smorgon              v BATE Borisov
+           FK Maxline Vitebsk      v FK Minsk
+           Dinamo Brest            v FK Vitebsk
+           Arsenal Dzerzhinsk      v FK Isloch Minsk
+           FK Slutsk               v FK Molodechno
+           Dinamo Minsk            v FK Gomel
+
+
+» Matchday 26
+  Fri Oct/24
+           Naftan Novopolotsk      v Dinamo Minsk
+           FK Gomel                v FK Slutsk
+           FK Molodechno           v Arsenal Dzerzhinsk
+           FK Isloch Minsk         v Dinamo Brest
+           FK Vitebsk              v FK Maxline Vitebsk
+           FK Minsk                v FK Smorgon
+           BATE Borisov            v Torpedo-BelAZ Zhodino
+           FK Slaviya Mozyr        v Neman Grodno
+
+
+» Matchday 27
+  Fri Oct/31
+           FK Slaviya Mozyr        v Naftan Novopolotsk
+           Neman Grodno            v BATE Borisov
+           Torpedo-BelAZ Zhodino   v FK Minsk
+           FK Smorgon              v FK Vitebsk
+           FK Maxline Vitebsk      v FK Isloch Minsk
+           Dinamo Brest            v FK Molodechno
+           Arsenal Dzerzhinsk      v FK Gomel
+           FK Slutsk               v Dinamo Minsk
+
+
+» Matchday 28
+  Fri Nov/7
+           Naftan Novopolotsk      v FK Slutsk
+           Dinamo Minsk            v Arsenal Dzerzhinsk
+           FK Gomel                v Dinamo Brest
+           FK Molodechno           v FK Maxline Vitebsk
+           FK Isloch Minsk         v FK Smorgon
+           FK Vitebsk              v Torpedo-BelAZ Zhodino
+           FK Minsk                v Neman Grodno
+           BATE Borisov            v FK Slaviya Mozyr
+
+
+» Matchday 29
+  Sat Nov/22
+           BATE Borisov            v Naftan Novopolotsk
+           FK Slaviya Mozyr        v FK Minsk
+           Neman Grodno            v FK Vitebsk
+           Torpedo-BelAZ Zhodino   v FK Isloch Minsk
+           FK Smorgon              v FK Molodechno
+           FK Maxline Vitebsk      v FK Gomel
+           Dinamo Brest            v Dinamo Minsk
+           Arsenal Dzerzhinsk      v FK Slutsk
+
+
+» Matchday 30
+  Sat Nov/29
+           Naftan Novopolotsk      v Arsenal Dzerzhinsk
+           FK Slutsk               v Dinamo Brest
+           Dinamo Minsk            v FK Maxline Vitebsk
+           FK Gomel                v FK Smorgon
+           FK Molodechno           v Torpedo-BelAZ Zhodino
+           FK Isloch Minsk         v Neman Grodno
+           FK Vitebsk              v FK Slaviya Mozyr
+           FK Minsk                v BATE Borisov

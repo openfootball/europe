@@ -1,0 +1,387 @@
+= Sweden Allsvenskan 2025
+
+# Date       Sat Mar/29 - Sun Nov/9 2025 (225d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Sat Mar/29 2025
+    15.00  Djurgårdens IF          v Malmö FF
+    17.30  BK Häcken               v IF Brommapojkarna
+  Sun Mar/30
+    14.00  Hammarby IF             v IFK Göteborg
+           IF Elfsborg             v Mjällby AIF
+    16.30  IFK Norrköping          v Östers IF
+           Halmstads BK            v Degerfors IF
+  Mon Mar/31
+    19.00  IFK Värnamo             v IK Sirius
+    19.10  GAIS Göteborg           v AIK Solna
+
+
+» Matchday 2
+  Sat Apr/5
+    15.00  IFK Göteborg            v Halmstads BK
+    17.30  Östers IF               v BK Häcken
+  Sun Apr/6
+    14.00  AIK Solna               v IFK Norrköping
+           IF Brommapojkarna       v Hammarby IF
+    16.30  Mjällby AIF             v GAIS Göteborg
+           Degerfors IF            v IFK Värnamo
+  Mon Apr/7
+    19.00  IK Sirius               v Djurgårdens IF
+    19.10  Malmö FF                v IF Elfsborg
+
+
+» Matchday 3
+  Sat Apr/12
+    15.00  BK Häcken               v Mjällby AIF
+    17.30  IF Elfsborg             v IFK Norrköping
+  Sun Apr/13
+    14.00  Hammarby IF             v Djurgårdens IF
+           IFK Värnamo             v IFK Göteborg
+    16.30  GAIS Göteborg           v Degerfors IF
+           IK Sirius               v IF Brommapojkarna
+  Mon Apr/14
+    19.00  Halmstads BK            v Östers IF
+    19.10  AIK Solna               v Malmö FF
+
+
+» Matchday 4
+  Fri Apr/18
+    15.00  Malmö FF                v IK Sirius
+           Mjällby AIF             v Hammarby IF
+  Sat Apr/19
+    15.00  IFK Norrköping          v Halmstads BK
+           Degerfors IF            v IF Elfsborg
+  Sun Apr/20
+    14.00  IF Brommapojkarna       v IFK Värnamo
+           Östers IF               v AIK Solna
+    16.30  IFK Göteborg            v BK Häcken
+  Mon Apr/21
+    14.00  Djurgårdens IF          v GAIS Göteborg
+
+
+» Matchday 5
+  Wed Apr/23
+    19.00  Hammarby IF             v Malmö FF
+           IF Elfsborg             v IK Sirius
+           BK Häcken               v Degerfors IF
+           Halmstads BK            v Mjällby AIF
+  Thu Apr/24
+    19.00  Djurgårdens IF          v Östers IF
+           GAIS Göteborg           v IF Brommapojkarna
+           IFK Norrköping          v IFK Göteborg
+           IFK Värnamo             v AIK Solna
+
+
+» Matchday 6
+  Sun Apr/27
+    14.00  BK Häcken               v Hammarby IF
+           Mjällby AIF             v Degerfors IF
+    16.30  AIK Solna               v IF Elfsborg
+           IK Sirius               v Halmstads BK
+           IFK Värnamo             v IFK Norrköping
+  Mon Apr/28
+    19.00  IF Brommapojkarna       v Djurgårdens IF
+    19.10  IFK Göteborg            v GAIS Göteborg
+  Tue Apr/29
+    19.00  Malmö FF                v Östers IF
+
+
+» Matchday 7
+  Sat May/3
+    15.00  Degerfors IF            v IK Sirius
+    17.30  Halmstads BK            v IFK Värnamo
+  Sun May/4
+    14.00  Djurgårdens IF          v AIK Solna
+           IFK Norrköping          v BK Häcken
+    16.30  Östers IF               v Hammarby IF
+           Mjällby AIF             v IFK Göteborg
+  Mon May/5
+    19.00  Malmö FF                v IF Brommapojkarna
+    19.10  IF Elfsborg             v GAIS Göteborg
+
+
+» Matchday 8
+  Sat May/10
+    15.00  IF Brommapojkarna       v Halmstads BK
+    17.30  GAIS Göteborg           v IFK Värnamo
+           IK Sirius               v BK Häcken
+  Sun May/11
+    14.00  AIK Solna               v Mjällby AIF
+           Hammarby IF             v IFK Norrköping
+    16.30  Östers IF               v IF Elfsborg
+           Degerfors IF            v Malmö FF
+  Mon May/12
+    19.10  IFK Göteborg            v Djurgårdens IF
+
+
+» Matchday 9
+  Wed May/14
+    19.00  Hammarby IF             v IK Sirius
+           BK Häcken               v AIK Solna
+           Halmstads BK            v GAIS Göteborg
+  Thu May/15
+    19.00  Djurgårdens IF          v Mjällby AIF
+           IF Elfsborg             v IF Brommapojkarna
+           IFK Göteborg            v Östers IF
+           IFK Norrköping          v Degerfors IF
+           IFK Värnamo             v Malmö FF
+
+
+» Matchday 10
+  Sun May/18
+    14.00  AIK Solna               v Hammarby IF
+           BK Häcken               v IFK Värnamo
+    16.30  Östers IF               v GAIS Göteborg
+           Malmö FF                v Halmstads BK
+  Mon May/19
+    19.00  Mjällby AIF             v IF Brommapojkarna
+           IK Sirius               v IFK Norrköping
+           Degerfors IF            v IFK Göteborg
+    19.10  IF Elfsborg             v Djurgårdens IF
+
+
+» Matchday 11
+  Sat May/24
+    15.00  IFK Värnamo             v Östers IF
+    17.30  GAIS Göteborg           v IK Sirius
+  Sun May/25
+    14.00  IFK Göteborg            v Malmö FF
+           Halmstads BK            v IF Elfsborg
+    16.30  Hammarby IF             v Degerfors IF
+           IF Brommapojkarna       v AIK Solna
+  Mon May/26
+    19.00  IFK Norrköping          v Mjällby AIF
+    19.10  Djurgårdens IF          v BK Häcken
+
+
+» Matchday 12
+  Sat May/31
+    15.00  IF Elfsborg             v Hammarby IF
+           IFK Norrköping          v GAIS Göteborg
+           Degerfors IF            v Östers IF
+  Sun Jun/1
+    14.00  IF Brommapojkarna       v IFK Göteborg
+           Malmö FF                v BK Häcken
+           Halmstads BK            v Djurgårdens IF
+    16.30  Mjällby AIF             v IFK Värnamo
+           IK Sirius               v AIK Solna
+
+
+» Matchday 13
+  Sun Jun/29
+           AIK Solna               v IFK Göteborg
+           Djurgårdens IF          v IFK Norrköping
+           Hammarby IF             v Halmstads BK
+           BK Häcken               v GAIS Göteborg
+           Östers IF               v IK Sirius
+           Mjällby AIF             v Malmö FF
+           Degerfors IF            v IF Brommapojkarna
+           IFK Värnamo             v IF Elfsborg
+
+
+» Matchday 14
+  Sun Jul/6
+           Djurgårdens IF          v Degerfors IF
+           Hammarby IF             v IFK Värnamo
+           IF Elfsborg             v BK Häcken
+           GAIS Göteborg           v Malmö FF
+           IFK Göteborg            v IK Sirius
+           Östers IF               v Mjällby AIF
+           IFK Norrköping          v IF Brommapojkarna
+           Halmstads BK            v AIK Solna
+
+
+» Matchday 15
+  Sun Jul/13
+           AIK Solna               v Degerfors IF
+           IF Brommapojkarna       v Östers IF
+           GAIS Göteborg           v Hammarby IF
+           IFK Göteborg            v IF Elfsborg
+           BK Häcken               v Halmstads BK
+           Malmö FF                v IFK Norrköping
+           IK Sirius               v Mjällby AIF
+           IFK Värnamo             v Djurgårdens IF
+
+
+» Matchday 16
+  Sun Jul/20
+           Djurgårdens IF          v IF Elfsborg
+           Hammarby IF             v IF Brommapojkarna
+           Östers IF               v Malmö FF
+           Mjällby AIF             v AIK Solna
+           IFK Norrköping          v IFK Värnamo
+           IK Sirius               v IFK Göteborg
+           Halmstads BK            v BK Häcken
+           Degerfors IF            v GAIS Göteborg
+
+
+» Matchday 17
+  Sun Jul/27
+           AIK Solna               v Östers IF
+           IF Brommapojkarna       v Malmö FF
+           IF Elfsborg             v IFK Göteborg
+           GAIS Göteborg           v Halmstads BK
+           BK Häcken               v Djurgårdens IF
+           Mjällby AIF             v IK Sirius
+           Degerfors IF            v IFK Norrköping
+           IFK Värnamo             v Hammarby IF
+
+
+» Matchday 18
+  Sun Aug/3
+           Djurgårdens IF          v Halmstads BK
+           Hammarby IF             v Mjällby AIF
+           IF Brommapojkarna       v IFK Norrköping
+           IFK Göteborg            v Degerfors IF
+           BK Häcken               v IF Elfsborg
+           Malmö FF                v AIK Solna
+           IK Sirius               v Östers IF
+           IFK Värnamo             v GAIS Göteborg
+
+
+» Matchday 19
+  Sun Aug/10
+           AIK Solna               v Djurgårdens IF
+           IF Elfsborg             v IFK Värnamo
+           GAIS Göteborg           v IFK Göteborg
+           Östers IF               v IF Brommapojkarna
+           Malmö FF                v Mjällby AIF
+           IFK Norrköping          v Hammarby IF
+           Halmstads BK            v IK Sirius
+           Degerfors IF            v BK Häcken
+
+
+» Matchday 20
+  Sun Aug/17
+           Hammarby IF             v GAIS Göteborg
+           IF Brommapojkarna       v IK Sirius
+           IFK Göteborg            v AIK Solna
+           BK Häcken               v Östers IF
+           Mjällby AIF             v Djurgårdens IF
+           IFK Norrköping          v IF Elfsborg
+           Halmstads BK            v Malmö FF
+           IFK Värnamo             v Degerfors IF
+
+
+» Matchday 21
+  Sun Aug/24
+           Djurgårdens IF          v IF Brommapojkarna
+           IF Elfsborg             v Halmstads BK
+           GAIS Göteborg           v Mjällby AIF
+           Östers IF               v IFK Norrköping
+           Malmö FF                v IFK Göteborg
+           IK Sirius               v Hammarby IF
+           Degerfors IF            v AIK Solna
+           IFK Värnamo             v BK Häcken
+
+
+» Matchday 22
+  Sun Aug/31
+           AIK Solna               v IK Sirius
+           Hammarby IF             v Östers IF
+           IF Brommapojkarna       v IF Elfsborg
+           GAIS Göteborg           v BK Häcken
+           IFK Göteborg            v IFK Värnamo
+           Malmö FF                v Degerfors IF
+           Mjällby AIF             v Halmstads BK
+           IFK Norrköping          v Djurgårdens IF
+
+
+» Matchday 23
+  Sun Sep/14
+           AIK Solna               v IF Brommapojkarna
+           Djurgårdens IF          v Hammarby IF
+           IF Elfsborg             v Malmö FF
+           BK Häcken               v IFK Göteborg
+           Östers IF               v IFK Värnamo
+           IK Sirius               v GAIS Göteborg
+           Halmstads BK            v IFK Norrköping
+           Degerfors IF            v Mjällby AIF
+
+
+» Matchday 24
+  Sun Sep/21
+           Hammarby IF             v BK Häcken
+           GAIS Göteborg           v IF Elfsborg
+           IFK Göteborg            v IF Brommapojkarna
+           Malmö FF                v Djurgårdens IF
+           Mjällby AIF             v Östers IF
+           IFK Norrköping          v AIK Solna
+           IK Sirius               v Degerfors IF
+           IFK Värnamo             v Halmstads BK
+
+
+» Matchday 25
+  Sun Sep/28
+           AIK Solna               v GAIS Göteborg
+           Djurgårdens IF          v IK Sirius
+           IF Brommapojkarna       v Mjällby AIF
+           IF Elfsborg             v Degerfors IF
+           BK Häcken               v IFK Norrköping
+           Östers IF               v IFK Göteborg
+           Malmö FF                v IFK Värnamo
+           Halmstads BK            v Hammarby IF
+
+
+» Matchday 26
+  Sun Oct/5
+           AIK Solna               v IFK Värnamo
+           IF Brommapojkarna       v BK Häcken
+           GAIS Göteborg           v IFK Norrköping
+           IFK Göteborg            v Hammarby IF
+           Östers IF               v Halmstads BK
+           Mjällby AIF             v IF Elfsborg
+           IK Sirius               v Malmö FF
+           Degerfors IF            v Djurgårdens IF
+
+
+» Matchday 27
+  Sun Oct/19
+           Hammarby IF             v AIK Solna
+           IF Elfsborg             v Östers IF
+           GAIS Göteborg           v Djurgårdens IF
+           IFK Göteborg            v Mjällby AIF
+           BK Häcken               v IK Sirius
+           IFK Norrköping          v Malmö FF
+           Degerfors IF            v Halmstads BK
+           IFK Värnamo             v IF Brommapojkarna
+
+
+» Matchday 28
+  Sun Oct/26
+           AIK Solna               v BK Häcken
+           Djurgårdens IF          v IFK Värnamo
+           IF Brommapojkarna       v GAIS Göteborg
+           Östers IF               v Degerfors IF
+           Malmö FF                v Hammarby IF
+           Mjällby AIF             v IFK Norrköping
+           IK Sirius               v IF Elfsborg
+           Halmstads BK            v IFK Göteborg
+
+
+» Matchday 29
+  Sun Nov/2
+           Djurgårdens IF          v IFK Göteborg
+           IF Elfsborg             v AIK Solna
+           GAIS Göteborg           v Östers IF
+           BK Häcken               v Malmö FF
+           IFK Norrköping          v IK Sirius
+           Halmstads BK            v IF Brommapojkarna
+           Degerfors IF            v Hammarby IF
+           IFK Värnamo             v Mjällby AIF
+
+
+» Matchday 30
+  Sun Nov/9
+           AIK Solna               v Halmstads BK
+           Hammarby IF             v IF Elfsborg
+           IF Brommapojkarna       v Degerfors IF
+           IFK Göteborg            v IFK Norrköping
+           Östers IF               v Djurgårdens IF
+           Malmö FF                v GAIS Göteborg
+           Mjällby AIF             v BK Häcken
+           IK Sirius               v IFK Värnamo

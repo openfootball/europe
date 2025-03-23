@@ -1,0 +1,196 @@
+= Lithuania First Division 2025
+
+# Date       Fri Feb/28 - Mon Jun/30 2025 (122d)
+# Teams      10
+# Matches    90
+
+
+
+» Matchday 1
+  Fri Feb/28 2025
+    19.30  DFK Dainava             v Kauno Žalgiris           1-3 (0-1)
+  Sat Mar/1
+    15.30  Banga Gargždai          v FC Hegelmann             2-0 (1-0)
+    17.30  FK Riteriai             v FK Sūduva                3-4 (2-2)
+  Sun Mar/2
+    14.00  FK Panevėžys            v FA Šiauliai              1-3 (1-2)
+    18.25  FK Žalgiris             v FC Džiugas               2-1 (1-1)
+
+
+» Matchday 2
+  Fri Mar/7
+    19.30  FK Riteriai             v FK Žalgiris              3-3 (1-3)
+  Sat Mar/8
+    15.00  FA Šiauliai             v DFK Dainava              2-2 (1-0)
+    17.00  Kauno Žalgiris          v FC Džiugas               1-2 (1-0)
+  Sun Mar/9
+    14.00  FC Hegelmann            v FK Panevėžys             2-1 (1-0)
+    18.25  FK Sūduva               v Banga Gargždai           1-0 (0-0)
+
+
+» Matchday 3
+  Fri Mar/14
+    19.00  DFK Dainava             v FC Džiugas               0-2 (0-1)
+  Sat Mar/15
+    16.00  FC Hegelmann            v FA Šiauliai              1-0 (0-0)
+    17.00  FK Žalgiris             v Banga Gargždai           1-1 (0-0)
+  Sun Mar/16
+    15.00  FK Panevėžys            v FK Sūduva                2-0 (0-0)
+    18.25  FK Riteriai             v Kauno Žalgiris           0-0
+
+
+» Matchday 4
+  Fri Mar/28
+    19.00  FK Sūduva               v FC Džiugas
+  Sat Mar/29
+    15.00  FA Šiauliai             v Kauno Žalgiris
+    17.00  FC Hegelmann            v FK Riteriai
+  Sun Mar/30
+    15.00  FK Panevėžys            v Banga Gargždai
+    18.25  DFK Dainava             v FK Žalgiris
+
+
+» Matchday 5
+  Fri Apr/4
+    19.30  FK Sūduva               v DFK Dainava
+  Sat Apr/5
+    16.00  FK Riteriai             v FK Panevėžys
+    17.00  Banga Gargždai          v FA Šiauliai
+  Sun Apr/6
+    16.00  FC Džiugas              v FC Hegelmann
+    18.25  FK Žalgiris             v Kauno Žalgiris
+
+
+» Matchday 6
+  Sat Apr/12
+    14.00  FK Panevėžys            v FC Džiugas
+    16.00  FA Šiauliai             v FK Žalgiris
+    17.00  Banga Gargždai          v FK Riteriai
+           Kauno Žalgiris          v FK Sūduva
+    18.00  FC Hegelmann            v DFK Dainava
+
+
+» Matchday 7
+  Wed Apr/16
+    18.30  Banga Gargždai          v FC Džiugas
+    19.00  Kauno Žalgiris          v FC Hegelmann
+           FA Šiauliai             v FK Riteriai
+    19.30  FK Žalgiris             v FK Sūduva
+           DFK Dainava             v FK Panevėžys
+
+
+» Matchday 8
+  Fri Apr/18
+    23.00  FK Panevėžys            v Kauno Žalgiris
+  Sat Apr/19
+    16.00  FK Riteriai             v FC Džiugas
+    18.00  FK Sūduva               v FA Šiauliai
+  Sun Apr/20
+    15.00  Banga Gargždai          v DFK Dainava
+    17.25  FC Hegelmann            v FK Žalgiris
+
+
+» Matchday 9
+  Fri Apr/25
+    19.00  FK Žalgiris             v FK Panevėžys
+  Sat Apr/26
+    15.00  FC Džiugas              v FA Šiauliai
+    18.30  DFK Dainava             v FK Riteriai
+  Sun Apr/27
+    15.30  Kauno Žalgiris          v Banga Gargždai
+    17.25  FK Sūduva               v FC Hegelmann
+
+
+» Matchday 10
+  Fri May/2
+    18.00  FA Šiauliai             v FC Hegelmann
+  Sat May/3
+    16.00  Banga Gargždai          v FK Žalgiris
+    17.00  FC Džiugas              v DFK Dainava
+  Sun May/4
+    15.00  FK Sūduva               v FK Panevėžys
+    17.25  Kauno Žalgiris          v FK Riteriai
+
+
+» Matchday 11
+  Fri May/9
+    18.30  FK Žalgiris             v FK Riteriai
+    19.00  FC Džiugas              v Kauno Žalgiris
+  Sat May/10
+    15.00  FK Panevėžys            v FC Hegelmann
+  Sun May/11
+    16.00  Banga Gargždai          v FK Sūduva
+    17.25  DFK Dainava             v FA Šiauliai
+
+
+» Matchday 12
+  Fri May/16
+    18.30  DFK Dainava             v FK Sūduva
+  Sat May/17
+    15.00  FC Hegelmann            v FC Džiugas
+    16.00  FK Panevėžys            v FK Riteriai
+  Sun May/18
+    15.00  FA Šiauliai             v Banga Gargždai
+    17.25  Kauno Žalgiris          v FK Žalgiris
+
+
+» Matchday 13
+  Fri May/23
+    18.30  Kauno Žalgiris          v FA Šiauliai
+           Banga Gargždai          v FK Panevėžys
+  Sat May/24
+    16.00  FK Žalgiris             v DFK Dainava
+  Sun May/25
+    15.00  FK Riteriai             v FC Hegelmann
+    17.25  FC Džiugas              v FK Sūduva
+
+
+» Matchday 14
+  Fri May/30
+    18.00  Kauno Žalgiris          v DFK Dainava
+  Sat May/31
+    15.00  FC Džiugas              v FK Žalgiris
+    17.00  FC Hegelmann            v Banga Gargždai
+  Sun Jun/1
+    15.30  FK Sūduva               v FK Riteriai
+    17.25  FA Šiauliai             v FK Panevėžys
+
+
+» Matchday 15
+  Fri Jun/13
+    18.00  FK Sūduva               v Kauno Žalgiris
+    18.30  FK Žalgiris             v FA Šiauliai
+    19.00  FC Džiugas              v FK Panevėžys
+  Sat Jun/14
+    19.00  DFK Dainava             v FC Hegelmann
+  Sun Jun/15
+    16.00  FK Riteriai             v Banga Gargždai
+
+
+» Matchday 16
+  Thu Jun/19
+    18.00  FC Hegelmann            v Kauno Žalgiris
+           FK Riteriai             v FA Šiauliai
+    18.30  FK Panevėžys            v DFK Dainava
+           FK Sūduva               v FK Žalgiris
+    19.00  FC Džiugas              v Banga Gargždai
+
+
+» Matchday 17
+  Tue Jun/24
+    17.30  FK Žalgiris             v FC Hegelmann
+           DFK Dainava             v Banga Gargždai
+    18.00  Kauno Žalgiris          v FK Panevėžys
+  Wed Jun/25
+    18.00  FA Šiauliai             v FK Sūduva
+           FC Džiugas              v FK Riteriai
+
+
+» Matchday 18
+  Sun Jun/29
+    15.00  FA Šiauliai             v FC Džiugas
+           FK Riteriai             v DFK Dainava
+    17.25  FK Panevėžys            v FK Žalgiris
+  Mon Jun/30
+    18.00  FC Hegelmann            v FK Sūduva
+           Banga Gargždai          v Kauno Žalgiris

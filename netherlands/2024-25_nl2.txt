@@ -1,0 +1,627 @@
+= Netherlands Eerste Divisie 2024/25
+
+# Date       Fri Aug/9 2024 - Fri May/9 2025 (273d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Aug/9 2024
+    20.00  FC Eindhoven            v FC Den Bosch             2-0 (1-0)
+           FC Emmen                v FC Dordrecht             1-2 (0-2)
+           Helmond Sport           v FC Utrecht J             1-1 (1-1)
+           MVV                     v SC Cambuur               0-1 (0-0)
+           TOP Oss                 v SBV Excelsior            3-1 (0-1)
+           Vitesse                 v Telstar                  2-3 (0-1)
+  Sat Aug/10
+    16.30  ADO Den Haag            v VVV-Venlo                1-1 (1-0)
+  Sun Aug/11
+    16.45  De Graafschap           v FC Volendam              4-3 (2-1)
+  Mon Aug/12
+    20.00  AZ Alkmaar J            v Roda JC Kerkrade         6-1 (4-1)
+           Jong PSV                v Jong Ajax                2-2 (0-0)
+
+
+» Matchday 2
+  Fri Aug/16
+    20.00  SBV Excelsior           v De Graafschap            3-1 (1-0)
+           FC Utrecht J            v Jong PSV                 0-2 (0-1)
+           Roda JC Kerkrade        v TOP Oss                  0-0
+           Telstar                 v FC Eindhoven             0-3 (0-1)
+           VVV-Venlo               v Vitesse                  0-1 (0-0)
+    20.15  FC Den Bosch            v AZ Alkmaar J             6-0 (3-0)
+  Sat Aug/17
+    16.30  FC Dordrecht            v ADO Den Haag             1-1 (0-1)
+  Sun Aug/18
+    12.15  SC Cambuur              v Helmond Sport            0-1 (0-1)
+    16.45  FC Volendam             v FC Emmen                 0-1 (0-0)
+  Mon Aug/19
+    20.00  Jong Ajax               v MVV                      0-0
+
+
+» Matchday 3
+  Fri Aug/23
+    20.00  ADO Den Haag            v FC Volendam              2-1 (1-0)
+           De Graafschap           v FC Utrecht J             2-2 (1-0)
+           FC Den Bosch            v MVV                      1-1 (1-0)
+           FC Emmen                v Helmond Sport            0-0
+           TOP Oss                 v SC Cambuur               1-0 (0-0)
+  Sat Aug/24
+    16.30  FC Eindhoven            v Jong Ajax                0-3 (0-1)
+  Sun Aug/25
+    12.15  Vitesse                 v SBV Excelsior            1-1 (0-0)
+    16.45  VVV-Venlo               v Roda JC Kerkrade         1-1 (1-0)
+  Mon Aug/26
+    20.00  AZ Alkmaar J            v FC Dordrecht             3-1 (0-0)
+           Jong PSV                v Telstar                  0-2 (0-1)
+
+
+» Matchday 4
+  Fri Aug/30
+    20.00  ADO Den Haag            v SBV Excelsior            0-5 (0-1)
+           FC Dordrecht            v SC Cambuur               2-0 (2-0)
+           Helmond Sport           v VVV-Venlo                3-0 (1-0)
+           Jong Ajax               v FC Den Bosch             1-2 (1-1)
+           FC Utrecht J            v FC Emmen                 1-2 (1-0)
+           MVV                     v Jong PSV                 3-2 (0-0)
+           Telstar                 v AZ Alkmaar J             0-0
+           Vitesse                 v FC Eindhoven             1-1 (1-0)
+  Sat Aug/31
+    16.30  FC Volendam             v TOP Oss                  4-0 (3-0)
+  Sun Sep/1
+    16.45  Roda JC Kerkrade        v De Graafschap            1-4 (1-1)
+
+
+» Matchday 5
+  Fri Sep/6
+    20.00  De Graafschap           v FC Eindhoven             2-0 (1-0)
+  Sun Sep/8
+    14.30  Telstar                 v MVV                      4-0 (1-0)
+  Mon Sep/16
+    20.00  SBV Excelsior           v VVV-Venlo                4-0 (3-0)
+           FC Emmen                v Vitesse                  3-3 (1-1)
+           Helmond Sport           v TOP Oss                  1-0 (0-0)
+           FC Utrecht J            v FC Den Bosch             0-3 (0-2)
+           Jong PSV                v ADO Den Haag             2-2 (1-0)
+           SC Cambuur              v Roda JC Kerkrade         0-0
+  Tue Sep/17
+    20.00  FC Volendam             v FC Dordrecht             2-0 (2-0)
+           Jong Ajax               v AZ Alkmaar J             1-2 (1-0)
+
+
+» Matchday 6
+  Fri Sep/13
+    20.00  De Graafschap           v Helmond Sport            2-3 (0-2)
+           FC Den Bosch            v ADO Den Haag             2-0 (1-0)
+           FC Eindhoven            v FC Dordrecht             0-0
+           SBV Excelsior           v Telstar                  3-2 (2-0)
+           FC Emmen                v Roda JC Kerkrade         1-3 (0-1)
+           AZ Alkmaar J            v Vitesse                  0-1 (0-0)
+           MVV                     v FC Volendam              2-2 (1-1)
+           TOP Oss                 v Jong PSV                 0-3 (0-2)
+           SC Cambuur              v Jong Ajax                0-1 (0-0)
+           VVV-Venlo               v FC Utrecht J             3-2 (1-1)
+
+
+» Matchday 7
+  Fri Sep/20
+    20.00  ADO Den Haag            v Telstar                  1-1 (1-1)
+           FC Den Bosch            v FC Emmen                 1-0 (1-0)
+           FC Dordrecht            v SBV Excelsior            2-2 (0-0)
+           Helmond Sport           v FC Volendam              2-3 (1-1)
+           VVV-Venlo               v Jong PSV                 0-2 (0-1)
+  Sat Sep/21
+    16.30  Roda JC Kerkrade        v MVV                      1-0 (0-0)
+    18.45  Vitesse                 v Jong Ajax                2-2 (1-2)
+  Sun Sep/22
+    16.45  TOP Oss                 v FC Eindhoven             0-4 (0-1)
+  Mon Sep/23
+    20.00  AZ Alkmaar J            v De Graafschap            2-2 (0-1)
+           FC Utrecht J            v SC Cambuur               0-4 (0-1)
+
+
+» Matchday 8
+  Fri Sep/27
+    20.00  ADO Den Haag            v FC Utrecht J             1-1 (1-1)
+           FC Eindhoven            v Roda JC Kerkrade         0-0
+           SBV Excelsior           v AZ Alkmaar J             4-2 (1-2)
+           FC Volendam             v VVV-Venlo                2-4 (0-2)
+           MVV                     v TOP Oss                  2-2 (0-1)
+  Sat Sep/28
+    16.30  Telstar                 v FC Den Bosch             0-0
+  Sun Sep/29
+    14.30  De Graafschap           v Vitesse                  3-1 (1-0)
+    16.45  SC Cambuur              v FC Emmen                 1-3 (1-3)
+  Mon Sep/30
+    20.00  Jong Ajax               v FC Dordrecht             0-1 (0-1)
+           Jong PSV                v Helmond Sport            1-3 (0-3)
+
+
+» Matchday 9
+  Fri Oct/4
+    20.00  FC Den Bosch            v De Graafschap            2-2 (0-1)
+           FC Dordrecht            v Jong PSV                 2-0 (1-0)
+           FC Emmen                v MVV                      1-1 (0-0)
+           Helmond Sport           v Jong Ajax                1-1 (0-0)
+           AZ Alkmaar J            v FC Eindhoven             2-3 (0-1)
+           FC Utrecht J            v Telstar                  1-1 (0-1)
+           TOP Oss                 v ADO Den Haag             1-5 (0-3)
+           Roda JC Kerkrade        v SBV Excelsior            3-0 (2-0)
+           Vitesse                 v FC Volendam              1-2 (0-2)
+           VVV-Venlo               v SC Cambuur               0-1 (0-1)
+
+
+» Matchday 10
+  Sat Oct/12
+    20.10  Telstar                 v De Graafschap            2-2 (1-2)
+  Sun Oct/13
+    14.30  MVV                     v VVV-Venlo                2-0 (1-0)
+  Mon Oct/21
+    20.00  Helmond Sport           v Roda JC Kerkrade         2-1 (1-0)
+           Jong Ajax               v ADO Den Haag             0-0
+           Jong PSV                v SBV Excelsior            1-3 (0-3)
+           SC Cambuur              v FC Eindhoven             2-0 (1-0)
+  Tue Oct/22
+    20.00  FC Dordrecht            v Vitesse                  2-2 (0-0)
+           FC Emmen                v TOP Oss                  2-0 (1-0)
+           FC Volendam             v FC Den Bosch             3-2 (1-2)
+           FC Utrecht J            v AZ Alkmaar J             0-1 (0-1)
+
+
+» Matchday 11
+  Fri Oct/18
+    20.00  ADO Den Haag            v Roda JC Kerkrade         3-0 (1-0)
+           De Graafschap           v Jong PSV                 3-1 (2-1)
+           FC Den Bosch            v Vitesse                  4-2 (0-1)
+           FC Eindhoven            v FC Emmen                 0-3 (0-1)
+           SBV Excelsior           v MVV                      3-2 (1-2)
+           Jong Ajax               v FC Utrecht J             0-0
+           AZ Alkmaar J            v Helmond Sport            2-3 (1-1)
+           TOP Oss                 v Telstar                  1-1 (0-1)
+           SC Cambuur              v FC Volendam              1-2 (0-1)
+           VVV-Venlo               v FC Dordrecht             2-3 (2-1)
+
+
+» Matchday 12
+  Fri Oct/25
+    20.00  ADO Den Haag            v De Graafschap            1-2 (1-1)
+           FC Dordrecht            v FC Utrecht J             3-1 (1-0)
+           FC Volendam             v FC Eindhoven             4-1 (3-1)
+           TOP Oss                 v AZ Alkmaar J             2-1 (0-1)
+           Roda JC Kerkrade        v Jong Ajax                2-1 (1-0)
+           Vitesse                 v Jong PSV                 1-3 (1-2)
+           VVV-Venlo               v FC Den Bosch             1-2 (0-1)
+  Sat Oct/26
+    16.30  SBV Excelsior           v SC Cambuur               0-1 (0-1)
+  Sun Oct/27
+    12.15  FC Emmen                v Telstar                  0-1 (0-1)
+    16.45  MVV                     v Helmond Sport            1-2 (1-1)
+
+
+» Matchday 13
+  Fri Nov/1
+    20.00  De Graafschap           v FC Dordrecht             4-1 (2-1)
+           FC Eindhoven            v ADO Den Haag             0-4 (0-3)
+           Jong Ajax               v VVV-Venlo                0-1 (0-1)
+           AZ Alkmaar J            v SC Cambuur               2-3 (1-1)
+  Sat Nov/2
+    16.30  Vitesse                 v TOP Oss                  0-0
+           FC Den Bosch            v Roda JC Kerkrade         1-1 (0-0)
+  Sun Nov/3
+    14.30  Telstar                 v FC Volendam              2-2 (1-1)
+    16.45  Helmond Sport           v SBV Excelsior            0-1 (0-0)
+  Mon Nov/4
+    20.00  FC Utrecht J            v MVV                      4-3 (2-0)
+    20.15  Jong PSV                v FC Emmen                 2-3 (0-2)
+
+
+» Matchday 14
+  Fri Nov/8
+    20.00  ADO Den Haag            v Vitesse                  2-0 (1-0)
+           SBV Excelsior           v FC Eindhoven             2-0 (2-0)
+           FC Emmen                v Jong Ajax                4-2 (1-2)
+           FC Volendam             v FC Utrecht J             2-0 (0-0)
+           MVV                     v De Graafschap            0-0
+           TOP Oss                 v FC Den Bosch             1-0 (1-0)
+           SC Cambuur              v Jong PSV                 1-0 (1-0)
+           VVV-Venlo               v AZ Alkmaar J             0-1 (0-0)
+  Sat Nov/9
+    16.30  Roda JC Kerkrade        v Telstar                  1-0 (1-0)
+  Sun Nov/10
+    16.45  FC Dordrecht            v Helmond Sport            4-0 (1-0)
+
+
+» Matchday 15
+  Fri Nov/15
+    20.00  Telstar                 v VVV-Venlo                4-0 (2-0)
+  Sun Nov/17
+    14.30  FC Eindhoven            v MVV                      1-1 (0-0)
+  Mon Nov/25
+    20.00  FC Dordrecht            v TOP Oss                  2-2 (1-0)
+           FC Emmen                v De Graafschap            3-0 (2-0)
+           FC Volendam             v Jong Ajax                3-0 (2-0)
+           Helmond Sport           v ADO Den Haag             2-1 (0-1)
+           Jong PSV                v AZ Alkmaar J             2-1 (1-1)
+  Tue Nov/26
+    20.00  FC Utrecht J            v SBV Excelsior            0-0
+           Roda JC Kerkrade        v Vitesse                  3-0 (1-0)
+           SC Cambuur              v FC Den Bosch             1-2 (0-1)
+
+
+» Matchday 16
+  Fri Nov/22
+    20.00  De Graafschap           v TOP Oss                  4-0 (4-0)
+           FC Den Bosch            v SBV Excelsior            0-3 (0-2)
+           Helmond Sport           v FC Eindhoven             3-4 (0-2)
+           Jong Ajax               v Telstar                  3-0 (1-0)
+           AZ Alkmaar J            v ADO Den Haag             3-3 (0-3)
+           FC Utrecht J            v Roda JC Kerkrade         1-3 (1-0)
+           Jong PSV                v FC Volendam              1-4 (0-4)
+           MVV                     v FC Dordrecht             2-1 (0-1)
+           Vitesse                 v SC Cambuur               0-6 (0-4)
+           VVV-Venlo               v FC Emmen                 0-2 (0-1)
+
+
+» Matchday 17
+  Fri Nov/29
+    20.00  ADO Den Haag            v FC Emmen                 2-1 (2-1)
+           FC Eindhoven            v Jong PSV                 1-0 (1-0)
+           SBV Excelsior           v Jong Ajax                2-0 (2-0)
+           Roda JC Kerkrade        v FC Volendam              1-1 (1-0)
+           Telstar                 v SC Cambuur               2-2 (2-1)
+           Vitesse                 v Helmond Sport            2-1 (0-0)
+  Sat Nov/30
+    16.30  TOP Oss                 v FC Utrecht J             1-1 (1-0)
+  Sun Dec/1
+    12.15  De Graafschap           v VVV-Venlo                3-1 (2-0)
+    16.45  FC Den Bosch            v FC Dordrecht             2-3 (2-0)
+  Mon Dec/2
+    20.00  AZ Alkmaar J            v MVV                      2-3 (1-2)
+
+
+» Matchday 18
+  Fri Dec/6
+    20.00  FC Dordrecht            v Telstar                  3-2 (0-1)
+           FC Volendam             v AZ Alkmaar J             2-0 (1-0)
+           Helmond Sport           v FC Den Bosch             0-0
+           MVV                     v Vitesse                  2-2 (0-1)
+           VVV-Venlo               v TOP Oss                  0-0
+  Sat Dec/7
+    16.30  SC Cambuur              v ADO Den Haag             2-1 (1-0)
+  Sun Dec/8
+    16.45  FC Emmen                v SBV Excelsior            1-1 (1-1)
+  Mon Dec/9
+    20.00  Jong Ajax               v De Graafschap            2-0 (1-0)
+           FC Utrecht J            v FC Eindhoven             0-4 (0-2)
+           Jong PSV                v Roda JC Kerkrade         2-3 (1-0)
+
+
+» Matchday 19
+  Fri Dec/13
+    20.00  De Graafschap           v SC Cambuur               0-2 (0-1)
+           FC Den Bosch            v Jong PSV                 1-1 (1-1)
+           SBV Excelsior           v FC Volendam              0-0
+           AZ Alkmaar J            v FC Emmen                 1-1 (1-0)
+           TOP Oss                 v Jong Ajax                2-1 (0-0)
+           Roda JC Kerkrade        v FC Dordrecht             0-1 (0-1)
+           Vitesse                 v FC Utrecht J             2-1 (0-0)
+    20.05  ADO Den Haag            v MVV                      2-0 (1-0)
+           FC Eindhoven            v VVV-Venlo                1-3 (1-1)
+    20.10  Telstar                 v Helmond Sport            3-0 (2-0)
+
+
+» Matchday 20
+  Fri Dec/20
+    20.00  FC Dordrecht            v FC Eindhoven             3-3 (1-1)
+           FC Emmen                v FC Den Bosch             0-3 (0-2)
+           SC Cambuur              v AZ Alkmaar J             0-2 (0-0)
+           FC Utrecht J            v Helmond Sport            3-1 (1-1)
+           Jong PSV                v Vitesse                  6-4 (3-1)
+  Sat Dec/21
+    16.30  VVV-Venlo               v SBV Excelsior            1-1 (0-0)
+  Sun Dec/22
+    14.30  FC Volendam             v De Graafschap            2-1 (1-1)
+           MVV                     v Telstar                  5-1 (2-1)
+    16.45  ADO Den Haag            v TOP Oss                  1-0 (0-0)
+  Mon Dec/23
+    20.00  Jong Ajax               v Roda JC Kerkrade         3-1 (2-1)
+
+
+» Matchday 21
+  Fri Jan/10 2025
+    20.00  SBV Excelsior           v FC Dordrecht             1-0 (0-0)
+           TOP Oss                 v MVV                      1-0 (1-0)
+           FC Eindhoven            v FC Volendam              1-3 (1-2)
+  Sun Jan/12
+    12.15  Telstar                 v Jong PSV                 1-0 (0-0)
+    16.45  Vitesse                 v VVV-Venlo                1-4 (0-2)
+  Mon Jan/13
+    20.00  AZ Alkmaar J            v Jong Ajax                2-1 (0-1)
+  Mon Jan/20
+    20.00  Roda JC Kerkrade        v SC Cambuur               0-1 (0-0)
+  Mon Jan/27
+    20.00  FC Den Bosch            v FC Utrecht J             2-0 (2-0)
+  Mon Feb/3
+    20.00  De Graafschap           v ADO Den Haag             1-2 (1-2)
+  Mon Feb/24
+    20.00  Helmond Sport           v FC Emmen                 1-2 (1-1)
+
+
+» Matchday 22
+  Fri Jan/17
+    20.00  ADO Den Haag            v Helmond Sport            3-1 (1-0)
+           FC Dordrecht            v AZ Alkmaar J             1-1 (1-0)
+           FC Volendam             v Vitesse                  4-0 (3-0)
+           TOP Oss                 v Roda JC Kerkrade         0-2 (0-1)
+           SC Cambuur              v SBV Excelsior            1-0 (1-0)
+           VVV-Venlo               v Telstar                  1-0 (0-0)
+  Sat Jan/18
+    16.30  MVV                     v FC Den Bosch             5-0 (4-0)
+  Sun Jan/19
+    16.45  FC Emmen                v FC Eindhoven             1-2 (1-0)
+  Mon Jan/20
+    20.00  Jong Ajax               v Jong PSV                 4-0 (2-0)
+           FC Utrecht J            v De Graafschap            1-1 (1-0)
+
+
+» Matchday 23
+  Fri Jan/24
+    20.00  De Graafschap           v FC Emmen                 4-0 (1-0)
+           FC Den Bosch            v TOP Oss                  1-0 (0-0)
+           FC Eindhoven            v SC Cambuur               4-2 (2-2)
+           FC Volendam             v MVV                      3-1 (1-0)
+           Roda JC Kerkrade        v FC Utrecht J             3-0 (1-0)
+           Vitesse                 v FC Dordrecht             0-3 (0-1)
+  Sat Jan/25
+    16.30  Telstar                 v Jong Ajax                3-0 (2-0)
+  Sun Jan/26
+    12.15  SBV Excelsior           v ADO Den Haag             1-0 (0-0)
+    16.45  Helmond Sport           v AZ Alkmaar J             2-1 (2-0)
+  Mon Jan/27
+    20.00  Jong PSV                v VVV-Venlo                1-2 (0-1)
+
+
+» Matchday 24
+  Fri Jan/31
+    20.00  ADO Den Haag            v FC Eindhoven             2-1 (0-1)
+           FC Den Bosch            v FC Volendam              3-0 (1-0)
+           FC Dordrecht            v De Graafschap            1-1 (1-1)
+           FC Emmen                v Jong PSV                 4-2 (0-1)
+           SC Cambuur              v Telstar                  2-1 (0-1)
+  Sat Feb/1
+    16.30  SBV Excelsior           v Vitesse                  1-3 (0-2)
+    18.45  MVV                     v Roda JC Kerkrade         3-2 (1-1)
+  Sun Feb/2
+    16.45  TOP Oss                 v Helmond Sport            1-1 (0-1)
+  Mon Feb/3
+    20.15  AZ Alkmaar J            v VVV-Venlo                3-0 (1-0)
+  Fri Feb/28
+    20.00  FC Utrecht J            v Jong Ajax                1-2 (0-2)
+
+
+» Matchday 25
+  Fri Feb/7
+    20.00  De Graafschap           v FC Den Bosch             1-0 (0-0)
+           FC Eindhoven            v TOP Oss                  3-0 (2-0)
+           Roda JC Kerkrade        v AZ Alkmaar J             3-3 (2-1)
+    20.20  FC Volendam             v ADO Den Haag             1-2 (0-0)
+  Sat Feb/8
+    16.30  Helmond Sport           v FC Dordrecht             0-1 (0-1)
+  Sun Feb/9
+    12.15  VVV-Venlo               v MVV                      0-0
+    16.45  Telstar                 v FC Utrecht J             6-0 (2-0)
+  Mon Feb/10
+    20.00  Jong Ajax               v SBV Excelsior            3-2 (0-1)
+           Jong PSV                v SC Cambuur               1-4 (0-2)
+           Vitesse                 v FC Emmen                 2-0 (1-0)
+
+
+» Matchday 26
+  Fri Feb/14
+    20.00  ADO Den Haag            v Jong Ajax                1-0 (0-0)
+           FC Den Bosch            v Telstar                  0-1 (0-0)
+           MVV                     v FC Eindhoven             2-0 (2-0)
+           SC Cambuur              v TOP Oss                  1-1 (0-0)
+           FC Dordrecht            v Roda JC Kerkrade         2-1 (1-0)
+  Sat Feb/15
+    16.30  FC Emmen                v FC Volendam              1-2 (0-2)
+  Sun Feb/16
+    12.15  Vitesse                 v De Graafschap            2-0 (1-0)
+    16.45  SBV Excelsior           v Helmond Sport            1-1 (0-0)
+  Tue Apr/1
+    20.00  FC Utrecht J            v VVV-Venlo
+  Mon Apr/7
+    20.00  AZ Alkmaar J            v Jong PSV
+
+
+» Matchday 27
+  Fri Feb/21
+    20.00  De Graafschap           v AZ Alkmaar J             5-1 (3-0)
+           Helmond Sport           v Vitesse                  3-0 (2-0)
+           TOP Oss                 v FC Emmen                 0-4 (0-3)
+           Roda JC Kerkrade        v FC Den Bosch             0-0
+           Telstar                 v SBV Excelsior            1-3 (0-1)
+  Sat Feb/22
+    16.30  VVV-Venlo               v FC Volendam              1-3 (0-0)
+  Sun Feb/23
+    12.15  FC Eindhoven            v FC Utrecht J             1-2 (1-0)
+    16.45  MVV                     v ADO Den Haag             1-4 (0-4)
+  Mon Feb/24
+    20.00  Jong Ajax               v SC Cambuur               1-1 (0-0)
+           Jong PSV                v FC Dordrecht             1-2 (1-0)
+
+
+» Matchday 28
+  Fri Feb/28
+    20.00  FC Dordrecht            v FC Emmen                 3-0 (1-0)
+           FC Volendam             v Helmond Sport            3-1 (1-1)
+           Jong PSV                v De Graafschap            1-2 (1-1)
+           SC Cambuur              v VVV-Venlo                5-0 (2-0)
+  Sat Mar/1
+    16.30  Vitesse                 v MVV                      1-0 (1-0)
+  Sun Mar/2
+    12.15  ADO Den Haag            v FC Den Bosch             2-1 (1-0)
+    16.45  SBV Excelsior           v Roda JC Kerkrade         1-1 (0-1)
+  Mon Mar/3
+    20.00  Jong Ajax               v FC Eindhoven             0-2 (0-0)
+           AZ Alkmaar J            v Telstar                  1-2 (0-2)
+           FC Utrecht J            v TOP Oss                  1-1 (0-1)
+
+
+» Matchday 29
+  Fri Mar/7
+    20.00  De Graafschap           v SBV Excelsior            2-1 (1-1)
+           FC Den Bosch            v SC Cambuur               0-2 (0-2)
+           FC Eindhoven            v Vitesse                  3-3 (1-2)
+           FC Emmen                v ADO Den Haag             0-1 (0-1)
+           Helmond Sport           v MVV                      4-0 (3-0)
+           AZ Alkmaar J            v FC Utrecht J             5-1 (1-1)
+           TOP Oss                 v FC Volendam              0-2 (0-1)
+           Roda JC Kerkrade        v Jong PSV                 2-1 (0-1)
+           Telstar                 v FC Dordrecht             5-0 (4-0)
+           VVV-Venlo               v Jong Ajax                1-0 (0-0)
+
+
+» Matchday 30
+  Fri Mar/14
+    20.00  FC Dordrecht            v VVV-Venlo                4-0 (2-0)
+           FC Eindhoven            v SBV Excelsior            1-2 (0-0)
+           FC Emmen                v FC Utrecht J             2-0 (1-0)
+           Helmond Sport           v Jong PSV                 1-1 (1-0)
+           MVV                     v AZ Alkmaar J             0-1 (0-0)
+           Telstar                 v Roda JC Kerkrade         3-1 (1-0)
+           Vitesse                 v ADO Den Haag             0-1 (0-1)
+  Sat Mar/15
+    16.30  FC Volendam             v SC Cambuur               4-1 (2-0)
+  Sun Mar/16
+    12.15  TOP Oss                 v De Graafschap            0-2 (0-1)
+    16.45  FC Den Bosch            v Jong Ajax                3-1 (1-1)
+
+
+» Matchday 31
+  Mon Mar/10
+    20.00  SBV Excelsior           v FC Den Bosch             3-1 (1-1)
+           FC Utrecht J            v Vitesse                  0-2 (0-2)
+           Jong PSV                v TOP Oss                  2-2 (1-0)
+           SC Cambuur              v FC Dordrecht             1-0 (1-0)
+  Tue Mar/11
+    20.00  ADO Den Haag            v AZ Alkmaar J             0-3 (0-3)
+           FC Volendam             v Telstar                  3-0 (0-0)
+           Jong Ajax               v FC Emmen                 0-2 (0-1)
+           Roda JC Kerkrade        v Helmond Sport            3-2 (1-2)
+  Sat Mar/22
+    18.45  De Graafschap           v MVV                      0-0
+    21.00  VVV-Venlo               v FC Eindhoven             2-2 (2-1)
+
+
+» Matchday 32
+  Fri Mar/28
+    20.00  FC Eindhoven            v Helmond Sport
+           SBV Excelsior           v FC Utrecht J
+           MVV                     v FC Emmen
+           SC Cambuur              v De Graafschap
+           Telstar                 v Vitesse
+  Sat Mar/29
+    16.30  Roda JC Kerkrade        v VVV-Venlo
+  Sun Mar/30
+    16.45  ADO Den Haag            v FC Dordrecht
+  Mon Mar/31
+    20.00  Jong Ajax               v FC Volendam
+           AZ Alkmaar J            v TOP Oss
+           Jong PSV                v FC Den Bosch
+
+
+» Matchday 33
+  Fri Apr/4
+    20.00  FC Dordrecht            v Jong Ajax
+           FC Emmen                v SC Cambuur
+           FC Volendam             v Jong PSV
+           MVV                     v SBV Excelsior
+           TOP Oss                 v VVV-Venlo
+           Vitesse                 v AZ Alkmaar J
+  Sat Apr/5
+    16.30  Helmond Sport           v Telstar
+  Sun Apr/6
+    12.15  FC Den Bosch            v FC Eindhoven
+    16.45  De Graafschap           v Roda JC Kerkrade
+  Mon Apr/7
+    20.00  FC Utrecht J            v ADO Den Haag
+
+
+» Matchday 34
+  Fri Apr/11
+    20.00  FC Eindhoven            v De Graafschap
+           SBV Excelsior           v TOP Oss
+           Roda JC Kerkrade        v FC Emmen
+           Telstar                 v ADO Den Haag
+  Sat Apr/12
+    16.30  FC Dordrecht            v FC Den Bosch
+  Sun Apr/13
+    12.15  SC Cambuur              v FC Utrecht J
+    16.45  VVV-Venlo               v Helmond Sport
+  Mon Apr/14
+    20.00  Jong Ajax               v Vitesse
+           AZ Alkmaar J            v FC Volendam
+           Jong PSV                v MVV
+
+
+» Matchday 35
+  Fri Apr/18
+    20.00  FC Den Bosch            v VVV-Venlo
+           FC Eindhoven            v Telstar
+           FC Emmen                v AZ Alkmaar J
+           Helmond Sport           v SC Cambuur
+           MVV                     v FC Utrecht J
+  Sat Apr/19
+    16.30  Vitesse                 v Roda JC Kerkrade
+    18.45  TOP Oss                 v FC Dordrecht
+    21.00  De Graafschap           v Jong Ajax
+  Sun Apr/20
+    14.30  ADO Den Haag            v Jong PSV
+    16.45  FC Volendam             v SBV Excelsior
+
+
+» Matchday 36
+  Thu Apr/24
+    20.00  Roda JC Kerkrade        v ADO Den Haag
+  Fri Apr/25
+    20.00  FC Dordrecht            v MVV
+           SC Cambuur              v Vitesse
+           Telstar                 v TOP Oss
+  Sun Apr/27
+    16.45  SBV Excelsior           v FC Emmen
+  Mon Apr/28
+    20.00  VVV-Venlo               v De Graafschap
+           Jong Ajax               v Helmond Sport
+           AZ Alkmaar J            v FC Den Bosch
+           FC Utrecht J            v FC Volendam
+           Jong PSV                v FC Eindhoven
+
+
+» Matchday 37
+  Fri May/2
+    20.00  ADO Den Haag            v SC Cambuur
+           De Graafschap           v Telstar
+           FC Den Bosch            v Helmond Sport
+           FC Eindhoven            v AZ Alkmaar J
+           SBV Excelsior           v Jong PSV
+           FC Emmen                v VVV-Venlo
+           FC Volendam             v Roda JC Kerkrade
+           FC Utrecht J            v FC Dordrecht
+           MVV                     v Jong Ajax
+           TOP Oss                 v Vitesse
+
+
+» Matchday 38
+  Fri May/9
+    20.00  FC Dordrecht            v FC Volendam
+           Helmond Sport           v De Graafschap
+           Jong Ajax               v TOP Oss
+           AZ Alkmaar J            v SBV Excelsior
+           Jong PSV                v FC Utrecht J
+           Roda JC Kerkrade        v FC Eindhoven
+           SC Cambuur              v MVV
+           Telstar                 v FC Emmen
+           Vitesse                 v FC Den Bosch
+           VVV-Venlo               v ADO Den Haag

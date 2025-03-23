@@ -1,0 +1,267 @@
+= Finland Veikkausliiga 2025
+
+# Date       Sat Apr/5 - Sun Aug/31 2025 (148d)
+# Teams      12
+# Matches    132
+
+
+
+» Matchday 1
+  Sat Apr/5 2025
+    15.00  Ilves Tampere           v HJK Helsinki
+    17.00  Inter Turku             v Kuopion PS
+           IFK Mariehamn           v FF Jaro
+           KTP                     v SJK Seinäjoki
+           Vaasan PS               v AC Oulu
+    19.00  Haka Valkeakoski        v IF Gnistan
+
+
+» Matchday 2
+  Fri Apr/11
+    18.00  Ilves Tampere           v FF Jaro
+           KTP                     v Vaasan PS
+    20.00  SJK Seinäjoki           v HJK Helsinki
+  Sat Apr/12
+    15.00  Haka Valkeakoski        v IFK Mariehamn
+    17.00  Inter Turku             v IF Gnistan
+    19.23  Kuopion PS              v AC Oulu
+
+
+» Matchday 3
+  Sat Apr/19
+    15.00  Vaasan PS               v Inter Turku
+    17.00  Haka Valkeakoski        v AC Oulu
+           IFK Mariehamn           v SJK Seinäjoki
+           KTP                     v Ilves Tampere
+    19.00  Kuopion PS              v FF Jaro
+  Tue Apr/22
+    19.00  HJK Helsinki            v IF Gnistan
+
+
+» Matchday 4
+  Sat Apr/26
+    15.00  AC Oulu                 v Inter Turku
+    17.00  FF Jaro                 v KTP
+    19.00  HJK Helsinki            v Vaasan PS
+  Sun Apr/27
+    16.00  IF Gnistan              v Kuopion PS
+    18.30  IFK Mariehamn           v Ilves Tampere
+  Mon Apr/28
+    19.00  SJK Seinäjoki           v Haka Valkeakoski
+
+
+» Matchday 5
+  Fri May/2
+    18.00  Haka Valkeakoski        v FF Jaro
+           KTP                     v AC Oulu
+           Vaasan PS               v Ilves Tampere
+    20.00  Kuopion PS              v SJK Seinäjoki
+  Sat May/3
+    15.00  IF Gnistan              v IFK Mariehamn
+    17.00  Inter Turku             v HJK Helsinki
+
+
+» Matchday 6
+  Fri May/9
+    19.30  Ilves Tampere           v Haka Valkeakoski
+  Sat May/10
+    15.00  Kuopion PS              v KTP
+    17.00  IFK Mariehamn           v Inter Turku
+    19.00  AC Oulu                 v IF Gnistan
+  Sun May/11
+    16.00  FF Jaro                 v HJK Helsinki
+  Mon May/12
+    19.00  SJK Seinäjoki           v Vaasan PS
+
+
+» Matchday 7
+  Fri May/16
+    18.00  IF Gnistan              v SJK Seinäjoki
+    20.00  Haka Valkeakoski        v Kuopion PS
+  Sat May/17
+    17.00  AC Oulu                 v IFK Mariehamn
+           Inter Turku             v Ilves Tampere
+           HJK Helsinki            v KTP
+    19.00  Vaasan PS               v FF Jaro
+
+
+» Matchday 8
+  Fri May/23
+    18.00  KTP                     v Haka Valkeakoski
+  Sat May/24
+    15.00  FF Jaro                 v IF Gnistan
+    17.00  Ilves Tampere           v AC Oulu
+    19.00  IFK Mariehamn           v HJK Helsinki
+  Sun May/25
+    16.00  Kuopion PS              v Vaasan PS
+    18.30  SJK Seinäjoki           v Inter Turku
+
+
+» Matchday 9
+  Sat May/31
+    15.00  KTP                     v IFK Mariehamn
+    17.00  AC Oulu                 v SJK Seinäjoki
+           Haka Valkeakoski        v Vaasan PS
+    19.00  HJK Helsinki            v Kuopion PS
+  Sun Jun/1
+    16.00  IF Gnistan              v Ilves Tampere
+    18.30  FF Jaro                 v Inter Turku
+
+
+» Matchday 10
+  Sat Jun/14
+    14.00  Inter Turku             v Haka Valkeakoski
+    17.00  AC Oulu                 v HJK Helsinki
+           IFK Mariehamn           v Vaasan PS
+    19.00  IF Gnistan              v KTP
+           Kuopion PS              v Ilves Tampere
+           SJK Seinäjoki           v FF Jaro
+
+
+» Matchday 11
+  Wed Jun/18
+    17.00  Ilves Tampere           v SJK Seinäjoki
+    21.00  HJK Helsinki            v Haka Valkeakoski
+           IFK Mariehamn           v Kuopion PS
+           Vaasan PS               v IF Gnistan
+  Thu Jun/19
+    18.00  Inter Turku             v KTP
+           FF Jaro                 v AC Oulu
+
+
+» Matchday 12
+  Fri Jun/27
+    18.00  IF Gnistan              v Inter Turku
+    20.00  Kuopion PS              v HJK Helsinki
+  Sat Jun/28
+    12.00  SJK Seinäjoki           v IFK Mariehamn
+    18.00  Haka Valkeakoski        v Ilves Tampere
+    20.00  KTP                     v FF Jaro
+    22.00  AC Oulu                 v Vaasan PS
+
+
+» Matchday 13
+  Wed Apr/23
+    19.00  SJK Seinäjoki           v AC Oulu
+  Tue Jul/1
+    18.00  Kuopion PS              v IF Gnistan
+  Wed Jul/2
+    18.00  Inter Turku             v IFK Mariehamn
+           HJK Helsinki            v FF Jaro
+           Ilves Tampere           v KTP
+           Vaasan PS               v Haka Valkeakoski
+
+
+» Matchday 14
+  Fri Jul/4
+    18.00  AC Oulu                 v Kuopion PS
+  Sat Jul/5
+    17.00  SJK Seinäjoki           v Ilves Tampere
+    19.00  Vaasan PS               v HJK Helsinki
+  Sun Jul/6
+    16.00  FF Jaro                 v IFK Mariehamn
+    18.30  Haka Valkeakoski        v Inter Turku
+  Mon Jul/7
+    18.00  KTP                     v IF Gnistan
+
+
+» Matchday 15
+  Wed Apr/23
+    18.00  Kuopion PS              v IFK Mariehamn
+  Tue May/20
+    18.00  HJK Helsinki            v SJK Seinäjoki
+  Sat Jul/12
+    17.00  Inter Turku             v FF Jaro
+           Ilves Tampere           v Vaasan PS
+  Sun Jul/13
+    16.00  IF Gnistan              v Haka Valkeakoski
+    18.30  AC Oulu                 v KTP
+
+
+» Matchday 16
+  Fri Jul/18
+    18.00  KTP                     v Inter Turku
+  Sat Jul/19
+    17.00  Vaasan PS               v Kuopion PS
+    19.00  FF Jaro                 v Ilves Tampere
+  Sun Jul/20
+    16.00  SJK Seinäjoki           v IF Gnistan
+    18.30  HJK Helsinki            v AC Oulu
+  Mon Jul/21
+    18.00  IFK Mariehamn           v Haka Valkeakoski
+
+
+» Matchday 17
+  Wed May/21
+    18.00  Ilves Tampere           v Kuopion PS
+  Fri Jul/25
+    19.00  FF Jaro                 v Vaasan PS
+  Sat Jul/26
+    15.00  Haka Valkeakoski        v KTP
+    16.00  IFK Mariehamn           v AC Oulu
+  Sun Jul/27
+    17.00  Inter Turku             v SJK Seinäjoki
+  Mon Jul/28
+    19.00  IF Gnistan              v HJK Helsinki
+
+
+» Matchday 18
+  Fri Aug/1
+    18.00  Vaasan PS               v IFK Mariehamn
+  Sat Aug/2
+    17.00  Kuopion PS              v Haka Valkeakoski
+    19.00  AC Oulu                 v FF Jaro
+  Sun Aug/3
+    16.00  SJK Seinäjoki           v KTP
+  Mon Aug/4
+    18.00  Ilves Tampere           v IF Gnistan
+    19.00  HJK Helsinki            v Inter Turku
+
+
+» Matchday 19
+  Fri Aug/8
+    18.00  Inter Turku             v AC Oulu
+  Sat Aug/9
+    15.00  FF Jaro                 v Haka Valkeakoski
+    17.00  KTP                     v Kuopion PS
+    19.00  IFK Mariehamn           v IF Gnistan
+  Sun Aug/10
+    18.30  Vaasan PS               v SJK Seinäjoki
+  Mon Aug/11
+    19.00  HJK Helsinki            v Ilves Tampere
+
+
+» Matchday 20
+  Fri Aug/15
+    18.00  IF Gnistan              v Vaasan PS
+  Sat Aug/16
+    17.00  Kuopion PS              v Inter Turku
+    19.00  IFK Mariehamn           v KTP
+  Sun Aug/17
+    15.00  Haka Valkeakoski        v HJK Helsinki
+  Mon Aug/18
+    18.00  AC Oulu                 v Ilves Tampere
+    19.00  FF Jaro                 v SJK Seinäjoki
+
+
+» Matchday 21
+  Fri Aug/22
+    18.00  Vaasan PS               v KTP
+  Sat Aug/23
+    15.00  IF Gnistan              v AC Oulu
+    17.00  FF Jaro                 v Kuopion PS
+           Ilves Tampere           v Inter Turku
+  Sun Aug/24
+    15.00  HJK Helsinki            v IFK Mariehamn
+  Mon Aug/25
+    18.00  Haka Valkeakoski        v SJK Seinäjoki
+
+
+» Matchday 22
+  Sun Aug/31
+    17.00  AC Oulu                 v Haka Valkeakoski
+           Inter Turku             v Vaasan PS
+           IF Gnistan              v FF Jaro
+           Ilves Tampere           v IFK Mariehamn
+           KTP                     v HJK Helsinki
+           SJK Seinäjoki           v Kuopion PS

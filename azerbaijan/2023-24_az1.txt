@@ -1,4 +1,4 @@
-= Azerbaijani Premier League 2023/24
+= Azerbaijan Premier League A 2023/24
 
 # Date       Fri Aug/4 2023 - Sun May/26 2024 (296d)
 # Teams      10
@@ -6,404 +6,398 @@
 
 
 
-Matchday 1
-[Fri Aug/4]
-  20.00  Araz-Naxçıvan PFK        0-3 (0-0)  Turan-T İK
-[Sat Aug/5]
-  21.00  Qarabağ FK               0-1 (0-0)  Zira FK
-  18.30  Səbail FK                1-4 (0-1)  Sumgayit FK
-[Sun Aug/6]
-  17.00  FK Kapaz                 1-0 (1-0)  Neftçi PFK
-  20.00  Sabah FK                 5-0 (3-0)  Gabala FK
-
-
-Matchday 2
-[Sat Aug/12]
-  21.00  Zira FK                  1-0 (0-0)  FK Kapaz
-  18.30  Araz-Naxçıvan PFK        2-0 (1-0)  Gabala FK
-[Sun Aug/13]
-  18.30  Qarabağ FK               3-0 (1-0)  Turan-T İK
-[Mon Aug/14]
-  20.00  Neftçi PFK               1-1 (0-1)  Səbail FK
-
-
-Matchday 3
-[Fri Aug/18]
-  17.00  FK Kapaz                 0-2 (0-2)  Turan-T İK
-[Sat Aug/19]
-  18.00  Gabala FK                1-2 (0-2)  Sumgayit FK
-  20.00  Səbail FK                1-2 (1-1)  Zira FK
-[Sun Aug/20]
-  18.00  Qarabağ FK               2-1 (1-0)  Araz-Naxçıvan PFK
-  20.00  Sabah FK                 1-1 (1-0)  Neftçi PFK
-
-
-Matchday 4
-[Fri Aug/25]
-  20.00  Araz-Naxçıvan PFK        1-1 (0-0)  Sumgayit FK
-[Sat Aug/26]
-  17.00  Turan-T İK               1-3 (0-1)  Səbail FK
-  19.30  Zira FK                  1-0 (1-0)  Sabah FK
-[Sun Aug/27]
-  20.45  Qarabağ FK               1-1 (1-0)  FK Kapaz
-  18.30  Neftçi PFK               2-0 (1-0)  Gabala FK
-
-
-Matchday 5
-[Fri Sep/1]
-  19.00  Sabah FK                 0-3 (0-1)  Turan-T İK
-[Sat Sep/2]
-  20.30  Sumgayit FK              0-1 (0-0)  Neftçi PFK
-  18.00  Gabala FK                1-0 (1-0)  Zira FK
-[Sun Sep/3]
-  17.00  FK Kapaz                 1-2 (0-2)  Araz-Naxçıvan PFK
-  19.30  Səbail FK                2-1 (2-1)  Qarabağ FK
-
-
-Matchday 6
-[Fri Sep/15]
-  17.00  Zira FK                  1-0 (1-0)  Sumgayit FK
-[Sat Sep/16]
-  16.00  FK Kapaz                 0-3 (0-2)  Səbail FK
-  18.00  Araz-Naxçıvan PFK        1-0 (0-0)  Neftçi PFK
-[Sun Sep/17]
-  16.30  Turan-T İK               2-2 (0-0)  Gabala FK
-  19.30  Qarabağ FK               2-0 (0-0)  Sabah FK
-
-
-Matchday 7
-[Sat Sep/23]
-  20.30  Zira FK                  1-1 (1-1)  Neftçi PFK
-  18.00  Sumgayit FK              0-0  Turan-T İK
-[Sun Sep/24]
-  19.30  Səbail FK                1-0 (1-0)  Araz-Naxçıvan PFK
-  17.00  Sabah FK                 2-2 (1-1)  FK Kapaz
-[Mon Sep/25]
-  19.00  Gabala FK                1-2 (0-2)  Qarabağ FK
-
-
-Matchday 8
-[Fri Sep/29]
-  20.00  Qarabağ FK               5-0 (4-0)  Sumgayit FK
-[Sat Sep/30]
-  16.00  Turan-T İK               0-1 (0-0)  Neftçi PFK
-  18.00  Səbail FK                2-2 (1-1)  Sabah FK
-[Sun Oct/1]
-  18.30  Araz-Naxçıvan PFK        1-0 (0-0)  Zira FK
-  16.00  FK Kapaz                 0-1 (0-0)  Gabala FK
-
-
-Matchday 9
-[Fri Oct/6]
-  18.00  Zira FK                  2-1 (1-0)  Turan-T İK
-[Sat Oct/7]
-  18.00  Sabah FK                 1-1 (0-0)  Araz-Naxçıvan PFK
-  16.00  Gabala FK                0-1 (0-0)  Səbail FK
-[Sun Oct/8]
-  19.30  Neftçi PFK               0-2 (0-0)  Qarabağ FK
-  16.30  Sumgayit FK              1-0 (0-0)  FK Kapaz
-
-
-Matchday 10
-[Fri Oct/20]
-  20.30  Səbail FK                2-4 (1-2)  Neftçi PFK
-  18.30  Turan-T İK               2-2 (0-1)  Qarabağ FK
-[Sat Oct/21]
-  15.00  FK Kapaz                 0-0  Zira FK
-  18.00  Sabah FK                 3-1 (0-1)  Sumgayit FK
-[Sun Oct/22]
-  16.30  Gabala FK                1-4 (1-2)  Araz-Naxçıvan PFK
-
-
-Matchday 2
-[Wed Oct/25]
-  18.30  Sumgayit FK              1-0 (1-0)  Sabah FK
-
-
-Matchday 11
-[Sat Oct/28]
-  16.00  Zira FK                  2-2 (1-2)  Səbail FK
-  19.00  Turan-T İK               4-0 (1-0)  FK Kapaz
-[Sun Oct/29]
-  18.30  Neftçi PFK               0-1 (0-0)  Sabah FK
-  16.00  Sumgayit FK              0-0  Gabala FK
-[Mon Oct/30]
-  19.00  Araz-Naxçıvan PFK        2-1 (0-0)  Qarabağ FK
-
-
-Matchday 12
-[Fri Nov/3]
-  19.00  Səbail FK                2-1 (0-1)  Turan-T İK
-[Sat Nov/4]
-  16.00  Qarabağ FK               7-1 (5-1)  FK Kapaz
-  18.00  Sumgayit FK              2-0 (1-0)  Araz-Naxçıvan PFK
-[Sun Nov/5]
-  18.30  Sabah FK                 0-1 (0-0)  Zira FK
-  16.00  Gabala FK                0-2 (0-0)  Neftçi PFK
-
-
-Matchday 13
-[Fri Nov/10]
-  19.00  Araz-Naxçıvan PFK        0-1 (0-0)  FK Kapaz
-[Sat Nov/11]
-  19.00  Turan-T İK               2-3 (2-3)  Sabah FK
-  16.30  Neftçi PFK               1-2 (1-0)  Sumgayit FK
-[Sun Nov/12]
-  16.30  Zira FK                  1-0 (0-0)  Gabala FK
-  19.00  Qarabağ FK               3-1 (2-0)  Səbail FK
-
-
-Matchday 14
-[Fri Nov/24]
-  20.00  Sabah FK                 1-2 (0-0)  Qarabağ FK
-[Sat Nov/25]
-  16.00  Gabala FK                4-0 (1-0)  Turan-T İK
-  14.00  Səbail FK                0-0  FK Kapaz
-[Sun Nov/26]
-  15.30  Neftçi PFK               1-1 (1-0)  Araz-Naxçıvan PFK
-  18.00  Sumgayit FK              0-0  Zira FK
-
-
-Matchday 15
-[Sat Dec/2]
-  18.30  Turan-T İK               2-2 (0-2)  Sumgayit FK
-  16.00  Araz-Naxçıvan PFK        1-1 (1-0)  Səbail FK
-[Sun Dec/3]
-  17.00  Neftçi PFK               1-0 (0-0)  Zira FK
-  15.00  FK Kapaz                 0-2 (0-2)  Sabah FK
-[Mon Dec/4]
-  19.30  Qarabağ FK               3-0 (1-0)  Gabala FK
-
-
-Matchday 16
-[Fri Dec/8]
-  19.30  Sumgayit FK              1-6 (1-3)  Qarabağ FK
-[Sat Dec/9]
-  17.00  Zira FK                  0-0  Araz-Naxçıvan PFK
-  15.00  Gabala FK                0-3 (0-1)  FK Kapaz
-[Sun Dec/10]
-  18.00  Neftçi PFK               3-2 (1-1)  Turan-T İK
-  15.00  Sabah FK                 4-0 (3-0)  Səbail FK
-
-
-Matchday 17
-[Thu Dec/14]
-  15.30  FK Kapaz                 1-1 (1-1)  Sumgayit FK
-[Fri Dec/15]
-  15.00  Araz-Naxçıvan PFK        2-0 (1-0)  Sabah FK
-  13.00  Səbail FK                3-0 (1-0)  Gabala FK
-[Sat Dec/16]
-  18.00  Turan-T İK               1-0 (0-0)  Zira FK
-[Mon Dec/18]
-  20.00  Qarabağ FK               2-0 (0-0)  Neftçi PFK
-
-
-Matchday 18
-[Fri Dec/22]
-  16.00  Gabala FK                1-0 (1-0)  Sabah FK
-[Sat Dec/23]
-  18.30  Sumgayit FK              1-0 (0-0)  Səbail FK
-[Sun Dec/24]
-  16.00  Neftçi PFK               2-0 (1-0)  FK Kapaz
-  18.30  Zira FK                  0-1 (0-1)  Qarabağ FK
-  12.00  Turan-T İK               3-1 (2-0)  Araz-Naxçıvan PFK
-
-
-Matchday 19
-[Sun Jan/21]
-  16.00  Sabah FK                 0-0  Neftçi PFK
-[Mon Jan/22]
-  17.30  FK Kapaz                 2-1 (1-1)  Turan-T İK
-  15.00  Səbail FK                0-0  Zira FK
-[Tue Jan/23]
-  19.00  Qarabağ FK               3-1 (2-0)  Araz-Naxçıvan PFK
-  16.30  Gabala FK                0-1 (0-0)  Sumgayit FK
-
-
-Matchday 20
-[Fri Jan/26]
-  15.00  Turan-T İK               3-1 (1-0)  Səbail FK
-[Sat Jan/27]
-  17.30  Zira FK                  0-1 (0-0)  Sabah FK
-  15.00  FK Kapaz                 1-2 (0-0)  Qarabağ FK
-[Sun Jan/28]
-  17.30  Neftçi PFK               3-1 (0-0)  Gabala FK
-  15.00  Araz-Naxçıvan PFK        1-1 (0-1)  Sumgayit FK
-
-
-Matchday 21
-[Sat Feb/3]
-  15.00  Səbail FK                1-2 (0-1)  Qarabağ FK
-  17.30  Sabah FK                 1-1 (1-1)  Turan-T İK
-[Sun Feb/4]
-  17.30  Gabala FK                1-1 (1-1)  Zira FK
-  15.00  Sumgayit FK              2-1 (2-0)  Neftçi PFK
-[Mon Feb/5]
-  15.00  FK Kapaz                 3-1 (2-1)  Araz-Naxçıvan PFK
-
-
-Matchday 22
-[Sun Feb/11]
-  19.00  Qarabağ FK               3-3 (1-1)  Sabah FK
-[Mon Feb/12]
-  15.00  FK Kapaz                 1-4 (1-1)  Səbail FK
-[Tue Feb/13]
-  15.00  Turan-T İK               2-1 (1-0)  Gabala FK
-  17.15  Zira FK                  0-0  Sumgayit FK
-  19.30  Araz-Naxçıvan PFK        1-0 (0-0)  Neftçi PFK
-
-
-Matchday 23
-[Sat Feb/17]
-  18.30  Səbail FK                2-2 (1-2)  Araz-Naxçıvan PFK
-  16.00  Sabah FK                 3-2 (1-1)  FK Kapaz
-[Sun Feb/18]
-  15.30  Sumgayit FK              0-0  Turan-T İK
-  18.00  Neftçi PFK               1-0 (1-0)  Zira FK
-
-
-Matchday 24
-[Fri Feb/23]
-  17.00  FK Kapaz                 2-1 (1-1)  Gabala FK
-[Sat Feb/24]
-  15.00  Turan-T İK               1-1 (0-0)  Neftçi PFK
-  17.30  Səbail FK                2-0 (0-0)  Sabah FK
-[Sun Feb/25]
-  19.00  Qarabağ FK               2-0 (0-0)  Sumgayit FK
-  16.30  Araz-Naxçıvan PFK        0-3 (0-1)  Zira FK
-
-
-Matchday 23
-[Wed Feb/28]
-  19.00  Gabala FK                0-4 (0-0)  Qarabağ FK
-
-
-Matchday 25
-[Fri Mar/1]
-  19.00  Sumgayit FK              1-3 (0-1)  FK Kapaz
-[Sat Mar/2]
-  18.30  Sabah FK                 2-0 (0-0)  Araz-Naxçıvan PFK
-  16.00  Zira FK                  1-1 (0-1)  Turan-T İK
-[Sun Mar/3]
-  16.00  Gabala FK                2-3 (2-0)  Səbail FK
-  19.00  Neftçi PFK               1-4 (0-0)  Qarabağ FK
-
-
-Matchday 26
-[Fri Mar/8]
-  19.00  Səbail FK                0-1 (0-1)  Sumgayit FK
-[Sat Mar/9]
-  17.30  Sabah FK                 2-1 (2-1)  Gabala FK
-  15.00  FK Kapaz                 3-3 (1-1)  Neftçi PFK
-[Sun Mar/10]
-  18.00  Qarabağ FK               3-1 (1-0)  Zira FK
-  15.30  Turan-T İK               2-0 (0-0)  Araz-Naxçıvan PFK
-
-
-Matchday 27
-[Fri Mar/15]
-  19.00  Neftçi PFK               3-0 (2-0)  Səbail FK
-[Sat Mar/16]
-  18.30  Araz-Naxçıvan PFK        1-1 (1-0)  Gabala FK
-  16.00  Zira FK                  2-1 (0-0)  FK Kapaz
-[Sun Mar/17]
-  19.00  Sumgayit FK              1-2 (0-1)  Sabah FK
-  16.00  Turan-T İK               1-3 (1-0)  Qarabağ FK
-
-
-Matchday 28
-[Fri Mar/29]
-  16.30  Gabala FK                0-1 (0-1)  Neftçi PFK
-  19.00  FK Kapaz                 1-6 (0-1)  Qarabağ FK
-[Sat Mar/30]
-  19.00  Sabah FK                 0-1 (0-1)  Zira FK
-  16.30  Səbail FK                1-1 (1-1)  Turan-T İK
-[Sun Mar/31]
-  18.00  Sumgayit FK              1-0 (1-0)  Araz-Naxçıvan PFK
-
-
-Matchday 29
-[Fri Apr/5]
-  20.00  Araz-Naxçıvan PFK        1-2 (1-0)  FK Kapaz
-[Sat Apr/6]
-  16.00  Turan-T İK               2-0 (1-0)  Sabah FK
-  20.00  Qarabağ FK               4-2 (2-1)  Səbail FK
-[Sun Apr/7]
-  20.00  Neftçi PFK               1-1 (0-1)  Sumgayit FK
-  16.30  Zira FK                  4-0 (3-0)  Gabala FK
-
-
-Matchday 30
-[Fri Apr/12]
-  19.00  Sumgayit FK              0-0  Zira FK
-[Sat Apr/13]
-  16.30  Gabala FK                1-2 (0-0)  Turan-T İK
-  19.00  Neftçi PFK               3-0 (2-0)  Araz-Naxçıvan PFK
-[Sun Apr/14]
-  19.00  Sabah FK                 3-2 (2-1)  Qarabağ FK
-  16.30  Səbail FK                3-3 (0-2)  FK Kapaz
-
-
-Matchday 31
-[Fri Apr/19]
-  16.30  Turan-T İK               1-4 (0-2)  Sumgayit FK
-[Sat Apr/20]
-  19.00  Zira FK                  3-1 (1-1)  Neftçi PFK
-  16.30  Qarabağ FK               2-2 (0-1)  Gabala FK
-[Sun Apr/21]
-  19.00  Araz-Naxçıvan PFK        0-2 (0-1)  Səbail FK
-  16.30  FK Kapaz                 1-2 (0-2)  Sabah FK
-
-
-Matchday 32
-[Sat Apr/27]
-  18.00  Sabah FK                 2-0 (2-0)  Səbail FK
-[Sun Apr/28]
-  15.30  Gabala FK                0-1 (0-1)  FK Kapaz
-  17.45  Neftçi PFK               3-0 (2-0)  Turan-T İK
-  20.00  Sumgayit FK              1-0 (0-0)  Qarabağ FK
-[Mon Apr/29]
-  19.00  Zira FK                  0-1 (0-0)  Araz-Naxçıvan PFK
-
-
-Matchday 33
-[Sat May/4]
-  19.30  Qarabağ FK               5-0 (2-0)  Neftçi PFK
-  16.30  FK Kapaz                 1-1 (0-0)  Sumgayit FK
-[Sun May/5]
-  16.30  Turan-T İK               1-2 (0-1)  Zira FK
-  19.00  Araz-Naxçıvan PFK        0-1 (0-1)  Sabah FK
-[Mon May/6]
-  19.00  Səbail FK                2-3 (2-2)  Gabala FK
-
-
-Matchday 34
-[Fri May/10]
-  19.00  Neftçi PFK               5-1 (2-1)  FK Kapaz
-[Sat May/11]
-  19.30  Zira FK                  0-1 (0-1)  Qarabağ FK
-  17.00  Araz-Naxçıvan PFK        0-1 (0-0)  Turan-T İK
-[Sun May/12]
-  17.00  Gabala FK                2-0 (2-0)  Sabah FK
-  19.30  Sumgayit FK              2-1 (2-0)  Səbail FK
-
-
-Matchday 35
-[Fri May/17]
-  20.30  Qarabağ FK               4-3 (1-0)  Turan-T İK
-[Sat May/18]
-  17.00  Sabah FK                 2-0 (1-0)  Sumgayit FK
-         Səbail FK                0-3 (0-0)  Neftçi PFK
-         FK Kapaz                 0-1 (0-0)  Zira FK
-[Sun May/19]
-  16.00  Gabala FK                2-0 (0-0)  Araz-Naxçıvan PFK
-
-
-Matchday 36
-[Sat May/25]
-  19.00  Neftçi PFK               0-1 (0-0)  Sabah FK
-         Sumgayit FK              1-0 (0-0)  Gabala FK
-         Zira FK                  1-0 (0-0)  Səbail FK
-[Sun May/26]
-  19.30  Araz-Naxçıvan PFK        2-2 (1-2)  Qarabağ FK
-  17.00  Turan-T İK               1-0 (0-0)  FK Kapaz
+» Matchday 1
+  Fri Aug/4 2023
+    20.00  Araz-Naxçıvan PFK       v Turan Tovuz              0-3 (0-0)
+  Sat Aug/5
+    18.30  Səbail FK               v Sumgayit FK              1-4 (0-1)
+    21.00  Qarabağ FK              v Zira FK                  0-1 (0-0)
+  Sun Aug/6
+    17.00  Kapaz PFK               v Neftçi PFK               1-0 (1-0)
+    20.00  Sabah FK                v Gabala FK                5-0 (3-0)
+
+
+» Matchday 2
+  Sat Aug/12
+    18.30  Araz-Naxçıvan PFK       v Gabala FK                2-0 (1-0)
+    21.00  Zira FK                 v Kapaz PFK                1-0 (0-0)
+  Sun Aug/13
+    18.30  Qarabağ FK              v Turan Tovuz              3-0 (1-0)
+  Mon Aug/14
+    20.00  Neftçi PFK              v Səbail FK                1-1 (0-1)
+  Wed Oct/25
+    18.30  Sumgayit FK             v Sabah FK                 1-0 (1-0)
+
+
+» Matchday 3
+  Fri Aug/18
+    17.00  Kapaz PFK               v Turan Tovuz              0-2 (0-2)
+  Sat Aug/19
+    18.00  Gabala FK               v Sumgayit FK              1-2 (0-2)
+    20.00  Səbail FK               v Zira FK                  1-2 (1-1)
+  Sun Aug/20
+    18.00  Qarabağ FK              v Araz-Naxçıvan PFK        2-1 (1-0)
+    20.00  Sabah FK                v Neftçi PFK               1-1 (1-0)
+
+
+» Matchday 4
+  Fri Aug/25
+    20.00  Araz-Naxçıvan PFK       v Sumgayit FK              1-1 (0-0)
+  Sat Aug/26
+    17.00  Turan Tovuz             v Səbail FK                1-3 (0-1)
+    19.30  Zira FK                 v Sabah FK                 1-0 (1-0)
+  Sun Aug/27
+    18.30  Neftçi PFK              v Gabala FK                2-0 (1-0)
+    20.45  Qarabağ FK              v Kapaz PFK                1-1 (1-0)
+
+
+» Matchday 5
+  Fri Sep/1
+    19.00  Sabah FK                v Turan Tovuz              0-3 (0-1)
+  Sat Sep/2
+    18.00  Gabala FK               v Zira FK                  1-0 (1-0)
+    20.30  Sumgayit FK             v Neftçi PFK               0-1 (0-0)
+  Sun Sep/3
+    17.00  Kapaz PFK               v Araz-Naxçıvan PFK        1-2 (0-2)
+    19.30  Səbail FK               v Qarabağ FK               2-1 (2-1)
+
+
+» Matchday 6
+  Fri Sep/15
+    17.00  Zira FK                 v Sumgayit FK              1-0 (1-0)
+  Sat Sep/16
+    16.00  Kapaz PFK               v Səbail FK                0-3 (0-2)
+    18.00  Araz-Naxçıvan PFK       v Neftçi PFK               1-0 (0-0)
+  Sun Sep/17
+    16.30  Turan Tovuz             v Gabala FK                2-2 (0-0)
+    19.30  Qarabağ FK              v Sabah FK                 2-0 (0-0)
+
+
+» Matchday 7
+  Sat Sep/23
+    18.00  Sumgayit FK             v Turan Tovuz              0-0
+    20.30  Zira FK                 v Neftçi PFK               1-1 (1-1)
+  Sun Sep/24
+    17.00  Sabah FK                v Kapaz PFK                2-2 (1-1)
+    19.30  Səbail FK               v Araz-Naxçıvan PFK        1-0 (1-0)
+  Mon Sep/25
+    19.00  Gabala FK               v Qarabağ FK               1-2 (0-2)
+
+
+» Matchday 8
+  Fri Sep/29
+    20.00  Qarabağ FK              v Sumgayit FK              5-0 (4-0)
+  Sat Sep/30
+    16.00  Turan Tovuz             v Neftçi PFK               0-1 (0-0)
+    18.00  Səbail FK               v Sabah FK                 2-2 (1-1)
+  Sun Oct/1
+    16.00  Kapaz PFK               v Gabala FK                0-1 (0-0)
+    18.30  Araz-Naxçıvan PFK       v Zira FK                  1-0 (0-0)
+
+
+» Matchday 9
+  Fri Oct/6
+    18.00  Zira FK                 v Turan Tovuz              2-1 (1-0)
+  Sat Oct/7
+    16.00  Gabala FK               v Səbail FK                0-1 (0-0)
+    18.00  Sabah FK                v Araz-Naxçıvan PFK        1-1 (0-0)
+  Sun Oct/8
+    16.30  Sumgayit FK             v Kapaz PFK                1-0 (0-0)
+    19.30  Neftçi PFK              v Qarabağ FK               0-2 (0-0)
+
+
+» Matchday 10
+  Fri Oct/20
+    18.30  Turan Tovuz             v Qarabağ FK               2-2 (0-1)
+    20.30  Səbail FK               v Neftçi PFK               2-4 (1-2)
+  Sat Oct/21
+    15.00  Kapaz PFK               v Zira FK                  0-0
+    18.00  Sabah FK                v Sumgayit FK              3-1 (0-1)
+  Sun Oct/22
+    16.30  Gabala FK               v Araz-Naxçıvan PFK        1-4 (1-2)
+
+
+» Matchday 11
+  Sat Oct/28
+    16.00  Zira FK                 v Səbail FK                2-2 (1-2)
+    19.00  Turan Tovuz             v Kapaz PFK                4-0 (1-0)
+  Sun Oct/29
+    16.00  Sumgayit FK             v Gabala FK                0-0
+    18.30  Neftçi PFK              v Sabah FK                 0-1 (0-0)
+  Mon Oct/30
+    19.00  Araz-Naxçıvan PFK       v Qarabağ FK               2-1 (0-0)
+
+
+» Matchday 12
+  Fri Nov/3
+    19.00  Səbail FK               v Turan Tovuz              2-1 (0-1)
+  Sat Nov/4
+    16.00  Qarabağ FK              v Kapaz PFK                7-1 (5-1)
+    18.00  Sumgayit FK             v Araz-Naxçıvan PFK        2-0 (1-0)
+  Sun Nov/5
+    16.00  Gabala FK               v Neftçi PFK               0-2 (0-0)
+    18.30  Sabah FK                v Zira FK                  0-1 (0-0)
+
+
+» Matchday 13
+  Fri Nov/10
+    19.00  Araz-Naxçıvan PFK       v Kapaz PFK                0-1 (0-0)
+  Sat Nov/11
+    16.30  Neftçi PFK              v Sumgayit FK              1-2 (1-0)
+    19.00  Turan Tovuz             v Sabah FK                 2-3 (2-3)
+  Sun Nov/12
+    16.30  Zira FK                 v Gabala FK                1-0 (0-0)
+    19.00  Qarabağ FK              v Səbail FK                3-1 (2-0)
+
+
+» Matchday 14
+  Fri Nov/24
+    20.00  Sabah FK                v Qarabağ FK               1-2 (0-0)
+  Sat Nov/25
+    14.00  Səbail FK               v Kapaz PFK                0-0
+    16.00  Gabala FK               v Turan Tovuz              4-0 (1-0)
+  Sun Nov/26
+    15.30  Neftçi PFK              v Araz-Naxçıvan PFK        1-1 (1-0)
+    18.00  Sumgayit FK             v Zira FK                  0-0
+
+
+» Matchday 15
+  Sat Dec/2
+    16.00  Araz-Naxçıvan PFK       v Səbail FK                1-1 (1-0)
+    18.30  Turan Tovuz             v Sumgayit FK              2-2 (0-2)
+  Sun Dec/3
+    15.00  Kapaz PFK               v Sabah FK                 0-2 (0-2)
+    17.00  Neftçi PFK              v Zira FK                  1-0 (0-0)
+  Mon Dec/4
+    19.30  Qarabağ FK              v Gabala FK                3-0 (1-0)
+
+
+» Matchday 16
+  Fri Dec/8
+    19.30  Sumgayit FK             v Qarabağ FK               1-6 (1-3)
+  Sat Dec/9
+    15.00  Gabala FK               v Kapaz PFK                0-3 (0-1)
+    17.00  Zira FK                 v Araz-Naxçıvan PFK        0-0
+  Sun Dec/10
+    15.00  Sabah FK                v Səbail FK                4-0 (3-0)
+    18.00  Neftçi PFK              v Turan Tovuz              3-2 (1-1)
+
+
+» Matchday 17
+  Thu Dec/14
+    15.30  Kapaz PFK               v Sumgayit FK              1-1 (1-1)
+  Fri Dec/15
+    13.00  Səbail FK               v Gabala FK                3-0 (1-0)
+    15.00  Araz-Naxçıvan PFK       v Sabah FK                 2-0 (1-0)
+  Sat Dec/16
+    18.00  Turan Tovuz             v Zira FK                  1-0 (0-0)
+  Mon Dec/18
+    20.00  Qarabağ FK              v Neftçi PFK               2-0 (0-0)
+
+
+» Matchday 18
+  Fri Dec/22
+    16.00  Gabala FK               v Sabah FK                 1-0 (1-0)
+  Sat Dec/23
+    18.30  Sumgayit FK             v Səbail FK                1-0 (0-0)
+  Sun Dec/24
+    12.00  Turan Tovuz             v Araz-Naxçıvan PFK        3-1 (2-0)
+    16.00  Neftçi PFK              v Kapaz PFK                2-0 (1-0)
+    18.30  Zira FK                 v Qarabağ FK               0-1 (0-1)
+
+
+» Matchday 19
+  Sun Jan/21 2024
+    16.00  Sabah FK                v Neftçi PFK               0-0
+  Mon Jan/22
+    15.00  Səbail FK               v Zira FK                  0-0
+    17.30  Kapaz PFK               v Turan Tovuz              2-1 (1-1)
+  Tue Jan/23
+    16.30  Gabala FK               v Sumgayit FK              0-1 (0-0)
+    19.00  Qarabağ FK              v Araz-Naxçıvan PFK        3-1 (2-0)
+
+
+» Matchday 20
+  Fri Jan/26
+    15.00  Turan Tovuz             v Səbail FK                3-1 (1-0)
+  Sat Jan/27
+    15.00  Kapaz PFK               v Qarabağ FK               1-2 (0-0)
+    17.30  Zira FK                 v Sabah FK                 0-1 (0-0)
+  Sun Jan/28
+    15.00  Araz-Naxçıvan PFK       v Sumgayit FK              1-1 (0-1)
+    17.30  Neftçi PFK              v Gabala FK                3-1 (0-0)
+
+
+» Matchday 21
+  Sat Feb/3
+    15.00  Səbail FK               v Qarabağ FK               1-2 (0-1)
+    17.30  Sabah FK                v Turan Tovuz              1-1 (1-1)
+  Sun Feb/4
+    15.00  Sumgayit FK             v Neftçi PFK               2-1 (2-0)
+    17.30  Gabala FK               v Zira FK                  1-1 (1-1)
+  Mon Feb/5
+    15.00  Kapaz PFK               v Araz-Naxçıvan PFK        3-1 (2-1)
+
+
+» Matchday 22
+  Sun Feb/11
+    19.00  Qarabağ FK              v Sabah FK                 3-3 (1-1)
+  Mon Feb/12
+    15.00  Kapaz PFK               v Səbail FK                1-4 (1-1)
+  Tue Feb/13
+    15.00  Turan Tovuz             v Gabala FK                2-1 (1-0)
+    17.15  Zira FK                 v Sumgayit FK              0-0
+    19.30  Araz-Naxçıvan PFK       v Neftçi PFK               1-0 (0-0)
+
+
+» Matchday 23
+  Sat Feb/17
+    16.00  Sabah FK                v Kapaz PFK                3-2 (1-1)
+    18.30  Səbail FK               v Araz-Naxçıvan PFK        2-2 (1-2)
+  Sun Feb/18
+    15.30  Sumgayit FK             v Turan Tovuz              0-0
+    18.00  Neftçi PFK              v Zira FK                  1-0 (1-0)
+  Wed Feb/28
+    19.00  Gabala FK               v Qarabağ FK               0-4 (0-0)
+
+
+» Matchday 24
+  Fri Feb/23
+    17.00  Kapaz PFK               v Gabala FK                2-1 (1-1)
+  Sat Feb/24
+    15.00  Turan Tovuz             v Neftçi PFK               1-1 (0-0)
+    17.30  Səbail FK               v Sabah FK                 2-0 (0-0)
+  Sun Feb/25
+    16.30  Araz-Naxçıvan PFK       v Zira FK                  0-3 (0-1)
+    19.00  Qarabağ FK              v Sumgayit FK              2-0 (0-0)
+
+
+» Matchday 25
+  Fri Mar/1
+    19.00  Sumgayit FK             v Kapaz PFK                1-3 (0-1)
+  Sat Mar/2
+    16.00  Zira FK                 v Turan Tovuz              1-1 (0-1)
+    18.30  Sabah FK                v Araz-Naxçıvan PFK        2-0 (0-0)
+  Sun Mar/3
+    16.00  Gabala FK               v Səbail FK                2-3 (2-0)
+    19.00  Neftçi PFK              v Qarabağ FK               1-4 (0-0)
+
+
+» Matchday 26
+  Fri Mar/8
+    19.00  Səbail FK               v Sumgayit FK              0-1 (0-1)
+  Sat Mar/9
+    15.00  Kapaz PFK               v Neftçi PFK               3-3 (1-1)
+    17.30  Sabah FK                v Gabala FK                2-1 (2-1)
+  Sun Mar/10
+    15.30  Turan Tovuz             v Araz-Naxçıvan PFK        2-0 (0-0)
+    18.00  Qarabağ FK              v Zira FK                  3-1 (1-0)
+
+
+» Matchday 27
+  Fri Mar/15
+    19.00  Neftçi PFK              v Səbail FK                3-0 (2-0)
+  Sat Mar/16
+    16.00  Zira FK                 v Kapaz PFK                2-1 (0-0)
+    18.30  Araz-Naxçıvan PFK       v Gabala FK                1-1 (1-0)
+  Sun Mar/17
+    16.00  Turan Tovuz             v Qarabağ FK               1-3 (1-0)
+    19.00  Sumgayit FK             v Sabah FK                 1-2 (0-1)
+
+
+» Matchday 28
+  Fri Mar/29
+    16.30  Gabala FK               v Neftçi PFK               0-1 (0-1)
+    19.00  Kapaz PFK               v Qarabağ FK               1-6 (0-1)
+  Sat Mar/30
+    16.30  Səbail FK               v Turan Tovuz              1-1 (1-1)
+    19.00  Sabah FK                v Zira FK                  0-1 (0-1)
+  Sun Mar/31
+    18.00  Sumgayit FK             v Araz-Naxçıvan PFK        1-0 (1-0)
+
+
+» Matchday 29
+  Fri Apr/5
+    20.00  Araz-Naxçıvan PFK       v Kapaz PFK                1-2 (1-0)
+  Sat Apr/6
+    16.00  Turan Tovuz             v Sabah FK                 2-0 (1-0)
+    20.00  Qarabağ FK              v Səbail FK                4-2 (2-1)
+  Sun Apr/7
+    16.30  Zira FK                 v Gabala FK                4-0 (3-0)
+    20.00  Neftçi PFK              v Sumgayit FK              1-1 (0-1)
+
+
+» Matchday 30
+  Fri Apr/12
+    19.00  Sumgayit FK             v Zira FK                  0-0
+  Sat Apr/13
+    16.30  Gabala FK               v Turan Tovuz              1-2 (0-0)
+    19.00  Neftçi PFK              v Araz-Naxçıvan PFK        3-0 (2-0)
+  Sun Apr/14
+    16.30  Səbail FK               v Kapaz PFK                3-3 (0-2)
+    19.00  Sabah FK                v Qarabağ FK               3-2 (2-1)
+
+
+» Matchday 31
+  Fri Apr/19
+    16.30  Turan Tovuz             v Sumgayit FK              1-4 (0-2)
+  Sat Apr/20
+    16.30  Qarabağ FK              v Gabala FK                2-2 (0-1)
+    19.00  Zira FK                 v Neftçi PFK               3-1 (1-1)
+  Sun Apr/21
+    16.30  Kapaz PFK               v Sabah FK                 1-2 (0-2)
+    19.00  Araz-Naxçıvan PFK       v Səbail FK                0-2 (0-1)
+
+
+» Matchday 32
+  Sat Apr/27
+    18.00  Sabah FK                v Səbail FK                2-0 (2-0)
+  Sun Apr/28
+    15.30  Gabala FK               v Kapaz PFK                0-1 (0-1)
+    17.45  Neftçi PFK              v Turan Tovuz              3-0 (2-0)
+    20.00  Sumgayit FK             v Qarabağ FK               1-0 (0-0)
+  Mon Apr/29
+    19.00  Zira FK                 v Araz-Naxçıvan PFK        0-1 (0-0)
+
+
+» Matchday 33
+  Sat May/4
+    16.30  Kapaz PFK               v Sumgayit FK              1-1 (0-0)
+    19.30  Qarabağ FK              v Neftçi PFK               5-0 (2-0)
+  Sun May/5
+    16.30  Turan Tovuz             v Zira FK                  1-2 (0-1)
+    19.00  Araz-Naxçıvan PFK       v Sabah FK                 0-1 (0-1)
+  Mon May/6
+    19.00  Səbail FK               v Gabala FK                2-3 (2-2)
+
+
+» Matchday 34
+  Fri May/10
+    19.00  Neftçi PFK              v Kapaz PFK                5-1 (2-1)
+  Sat May/11
+    17.00  Araz-Naxçıvan PFK       v Turan Tovuz              0-1 (0-0)
+    19.30  Zira FK                 v Qarabağ FK               0-1 (0-1)
+  Sun May/12
+    17.00  Gabala FK               v Sabah FK                 2-0 (2-0)
+    19.30  Sumgayit FK             v Səbail FK                2-1 (2-0)
+
+
+» Matchday 35
+  Fri May/17
+    20.30  Qarabağ FK              v Turan Tovuz              4-3 (1-0)
+  Sat May/18
+    17.00  Kapaz PFK               v Zira FK                  0-1 (0-0)
+           Sabah FK                v Sumgayit FK              2-0 (1-0)
+           Səbail FK               v Neftçi PFK               0-3 (0-0)
+  Sun May/19
+    16.00  Gabala FK               v Araz-Naxçıvan PFK        2-0 (0-0)
+
+
+» Matchday 36
+  Sat May/25
+    19.00  Neftçi PFK              v Sabah FK                 0-1 (0-0)
+           Sumgayit FK             v Gabala FK                1-0 (0-0)
+           Zira FK                 v Səbail FK                1-0 (0-0)
+  Sun May/26
+    17.00  Turan Tovuz             v Kapaz PFK                1-0 (0-0)
+    19.30  Araz-Naxçıvan PFK       v Qarabağ FK               2-2 (1-2)

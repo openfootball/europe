@@ -6,470 +6,437 @@
 
 
 
-Matchday 1
-[Fri Jul/28]
-  19.00  NK Veres                 0-2 (0-2)  Polissya Zhytomyr
-  17.00  FK Obolon                0-0  Kolos Kovalivka
-[Sat Jul/29]
-  17.00  Metalist 1925 Kharkiv    1-2 (0-1)  Shakhtar Donetsk
-  15.00  Rukh Lviv                2-1 (0-1)  Zorya Lugansk
-[Sun Jul/30]
-  15.00  FC LNZ Cherkasy          0-2 (0-1)  Chernomorets Odessa
-  17.00  Dinamo Kiev              4-1 (2-1)  FC Mynai
-  19.00  FK Oleksandriya          1-0 (1-0)  Kryvbas Kryvyi Rih
-
-
-Matchday 2
-[Wed Aug/2]
-  17.00  NK Veres                 1-1 (0-1)  Shakhtar Donetsk
-[Fri Aug/4]
-  17.00  FK Obolon                2-4 (1-3)  Dinamo Kiev
-[Sat Aug/5]
-  15.00  FC Mynai                 0-3 (0-1)  FC LNZ Cherkasy
-  20.00  FK Oleksandriya          1-0 (1-0)  Metalist 1925 Kharkiv
-[Sun Aug/6]
-  19.00  Rukh Lviv                4-1 (1-1)  Vorskla Poltava
-  15.00  SK Dnipro-1              2-1 (0-0)  Polissya Zhytomyr
-  17.00  Kolos Kovalivka          2-0 (0-0)  Chernomorets Odessa
-         Zorya Lugansk            1-3 (1-1)  Kryvbas Kryvyi Rih
-
-
-Matchday 3
-[Sat Aug/12]
-  15.00  Chernomorets Odessa      2-0 (1-0)  FK Obolon
-  17.00  Kolos Kovalivka          2-0 (1-0)  NK Veres
-         Polissya Zhytomyr        0-1 (0-0)  Rukh Lviv
-[Sun Aug/13]
-  13.00  FC Mynai                 1-1 (0-0)  SK Dnipro-1
-  17.00  Kryvbas Kryvyi Rih       2-0 (1-0)  FC LNZ Cherkasy
-  15.00  Vorskla Poltava          1-2 (0-1)  Zorya Lugansk
-[Mon Aug/14]
-  17.00  Shakhtar Donetsk         2-1 (2-0)  FK Oleksandriya
-
-
-Matchday 4
-[Fri Aug/18]
-  19.00  Zorya Lugansk            0-0  FK Oleksandriya
-  17.00  FC LNZ Cherkasy          1-2 (0-0)  Polissya Zhytomyr
-[Sat Aug/19]
-  19.00  Rukh Lviv                1-1 (0-1)  Kolos Kovalivka
-  17.00  Metalist 1925 Kharkiv    1-0 (0-0)  FC Mynai
-  15.00  NK Veres                 1-2 (1-2)  Vorskla Poltava
-[Sun Aug/20]
-  17.00  Chernomorets Odessa      3-2 (1-0)  Dinamo Kiev
-  15.00  SK Dnipro-1              1-2 (1-0)  FK Obolon
-  19.00  Kryvbas Kryvyi Rih       3-3 (2-3)  Shakhtar Donetsk
-
-
-Matchday 5
-[Sat Aug/26]
-  15.00  FC LNZ Cherkasy          0-1 (0-1)  Metalist 1925 Kharkiv
-  17.00  FK Oleksandriya          0-3 (0-0)  Polissya Zhytomyr
-[Sun Aug/27]
-  17.00  Vorskla Poltava          2-1 (2-0)  Chernomorets Odessa
-  13.00  FC Mynai                 1-1 (1-1)  Zorya Lugansk
-  15.00  Kolos Kovalivka          0-2 (0-2)  Shakhtar Donetsk
-[Mon Aug/28]
-  19.00  FK Obolon                0-0  Kryvbas Kryvyi Rih
-
-
-Matchday 6
-[Fri Sep/1]
-  17.00  NK Veres                 3-1 (2-1)  Chernomorets Odessa
-[Sat Sep/2]
-  15.00  Polissya Zhytomyr        2-0 (0-0)  FK Obolon
-  17.00  Vorskla Poltava          1-0 (1-0)  FK Oleksandriya
-  13.00  FC Mynai                 1-4 (0-1)  Shakhtar Donetsk
-[Sun Sep/3]
-  17.00  Kolos Kovalivka          0-3 (0-1)  Kryvbas Kryvyi Rih
-  19.00  Rukh Lviv                1-1 (1-1)  Metalist 1925 Kharkiv
-  13.00  SK Dnipro-1              0-0  FC LNZ Cherkasy
-
-
-Matchday 7
-[Fri Sep/15]
-  18.30  Metalist 1925 Kharkiv    2-1 (2-1)  Zorya Lugansk
-[Sat Sep/16]
-  19.00  FK Oleksandriya          1-1 (0-0)  FC Mynai
-  17.00  Shakhtar Donetsk         1-0 (0-0)  FK Obolon
-  15.00  Chernomorets Odessa      1-0 (1-0)  Polissya Zhytomyr
-[Sun Sep/17]
-  17.00  Kryvbas Kryvyi Rih       2-1 (1-1)  NK Veres
-  15.00  SK Dnipro-1              1-1 (0-0)  Kolos Kovalivka
-  13.00  FC LNZ Cherkasy          2-1 (1-0)  Rukh Lviv
-[Mon Sep/18]
-  17.00  Dinamo Kiev              2-0 (1-0)  Vorskla Poltava
-
-
-Matchday 8
-[Fri Sep/22]
-  17.00  FK Obolon                0-0  NK Veres
-  19.00  FK Oleksandriya          1-5 (0-4)  Chernomorets Odessa
-[Sat Sep/23]
-  19.00  Rukh Lviv                1-1 (0-1)  Shakhtar Donetsk
-  17.00  Vorskla Poltava          1-4 (1-2)  Kryvbas Kryvyi Rih
-  15.00  Polissya Zhytomyr        2-1 (0-1)  FC Mynai
-[Sun Sep/24]
-  17.00  Metalist 1925 Kharkiv    0-0  Kolos Kovalivka
-  15.00  Zorya Lugansk            0-1 (0-1)  SK Dnipro-1
-  13.00  FC LNZ Cherkasy          2-4 (0-1)  Dinamo Kiev
-
-
-Matchday 9
-[Sat Sep/30]
-  17.00  Shakhtar Donetsk         1-2 (0-1)  Vorskla Poltava
-  15.00  NK Veres                 0-0  FC LNZ Cherkasy
-  19.00  Chernomorets Odessa      0-0  Zorya Lugansk
-[Sun Oct/1]
-  17.00  Kolos Kovalivka          0-0  Polissya Zhytomyr
-  13.00  FC Mynai                 0-1 (0-0)  FK Obolon
-  19.00  Dinamo Kiev              4-2 (2-1)  FK Oleksandriya
-  15.00  Kryvbas Kryvyi Rih       1-3 (1-0)  Rukh Lviv
-[Mon Oct/2]
-  17.00  SK Dnipro-1              1-0 (0-0)  Metalist 1925 Kharkiv
-
-
-Matchday 10
-[Fri Oct/6]
-  15.00  Polissya Zhytomyr        3-2 (1-1)  Dinamo Kiev
-[Sat Oct/7]
-  15.00  FC LNZ Cherkasy          0-0  FK Oleksandriya
-  17.00  Kolos Kovalivka          0-0  Vorskla Poltava
-  13.00  SK Dnipro-1              2-0 (2-0)  NK Veres
-[Sun Oct/8]
-  13.00  FK Obolon                1-0 (1-0)  Metalist 1925 Kharkiv
-  15.00  Rukh Lviv                0-0  FC Mynai
-  17.00  Kryvbas Kryvyi Rih       1-0 (0-0)  Chernomorets Odessa
-
-
-Matchday 11
-[Fri Oct/20]
-  19.00  Metalist 1925 Kharkiv    1-3 (1-2)  Kryvbas Kryvyi Rih
-  17.00  FK Obolon                2-4 (2-2)  Zorya Lugansk
-[Sat Oct/21]
-  19.00  FK Oleksandriya          0-1 (0-1)  Kolos Kovalivka
-  17.00  Shakhtar Donetsk         3-0 (1-0)  FC LNZ Cherkasy
-  15.00  Chernomorets Odessa      3-0 (1-0)  FC Mynai
-[Sun Oct/22]
-  17.00  Dinamo Kiev              0-1 (0-1)  SK Dnipro-1
-  13.00  NK Veres                 2-5 (0-2)  Rukh Lviv
-  15.00  Vorskla Poltava          0-3 (0-1)  Polissya Zhytomyr
-
-
-Matchday 1
-[Wed Oct/25]
-  16.00  Vorskla Poltava          2-3 (1-2)  SK Dnipro-1
-
-
-Matchday 12
-[Sat Oct/28]
-  15.00  Kolos Kovalivka          1-1 (0-1)  Dinamo Kiev
-  18.00  Rukh Lviv                0-0  FK Oleksandriya
-  13.00  Kryvbas Kryvyi Rih       3-0 (2-0)  SK Dnipro-1
-  16.00  Zorya Lugansk            0-1 (0-1)  Polissya Zhytomyr
-[Sun Oct/29]
-  13.00  FC LNZ Cherkasy          3-0 (1-0)  FK Obolon
-  15.00  Vorskla Poltava          2-2 (0-1)  Metalist 1925 Kharkiv
-  13.00  FC Mynai                 0-0  NK Veres
-
-
-Matchday 5
-[Wed Nov/1]
-  18.00  Rukh Lviv                0-2 (0-2)  SK Dnipro-1
-
-
-Matchday 13
-[Fri Nov/3]
-  17.00  Dinamo Kiev              0-1 (0-0)  Shakhtar Donetsk
-[Sat Nov/4]
-  13.00  FC LNZ Cherkasy          1-1 (1-0)  Kolos Kovalivka
-[Sun Nov/5]
-  15.00  Metalist 1925 Kharkiv    2-1 (0-1)  Chernomorets Odessa
-  17.00  NK Veres                 2-2 (1-1)  Zorya Lugansk
-  13.00  FC Mynai                 0-0  Vorskla Poltava
-[Mon Nov/6]
-  17.00  SK Dnipro-1              1-0 (1-0)  FK Oleksandriya
-  19.00  Rukh Lviv                2-2 (1-1)  FK Obolon
-  15.00  Polissya Zhytomyr        1-1 (0-1)  Kryvbas Kryvyi Rih
-
-
-Matchday 14
-[Fri Nov/10]
-  17.00  Kolos Kovalivka          2-0 (2-0)  FC Mynai
-[Sat Nov/11]
-  17.00  FK Oleksandriya          1-0 (0-0)  NK Veres
-  15.00  Polissya Zhytomyr        2-1 (0-1)  Metalist 1925 Kharkiv
-  13.00  FK Obolon                0-1 (0-0)  Vorskla Poltava
-[Sun Nov/12]
-  13.00  Kryvbas Kryvyi Rih       0-2 (0-2)  Dinamo Kiev
-  19.00  Shakhtar Donetsk         1-3 (1-1)  SK Dnipro-1
-  17.00  Chernomorets Odessa      2-3 (1-1)  Rukh Lviv
-  15.00  Zorya Lugansk            1-2 (0-1)  FC LNZ Cherkasy
-
-
-Matchday 15
-[Fri Nov/24]
-  19.00  Shakhtar Donetsk         0-0  Polissya Zhytomyr
-[Sat Nov/25]
-  13.00  FC Mynai                 0-1 (0-0)  Kryvbas Kryvyi Rih
-  15.00  NK Veres                 4-3 (2-1)  Metalist 1925 Kharkiv
-  17.00  Vorskla Poltava          0-0  FC LNZ Cherkasy
-[Sun Nov/26]
-  17.00  Dinamo Kiev              2-0 (2-0)  Rukh Lviv
-[Mon Nov/27]
-  17.00  SK Dnipro-1              5-2 (1-1)  Chernomorets Odessa
-
-
-Matchday 16
-[Fri Dec/1]
-  17.00  Polissya Zhytomyr        1-1 (0-0)  NK Veres
-[Sat Dec/2]
-  15.00  Kryvbas Kryvyi Rih       2-1 (0-1)  FK Oleksandriya
-  17.00  SK Dnipro-1              1-2 (1-2)  Vorskla Poltava
-  13.00  Kolos Kovalivka          0-0  FK Obolon
-[Sun Dec/3]
-  15.00  Chernomorets Odessa      1-3 (0-0)  FC LNZ Cherkasy
-  17.00  Shakhtar Donetsk         2-0 (0-0)  Metalist 1925 Kharkiv
-[Mon Dec/4]
-  13.00  Zorya Lugansk            0-0  Rukh Lviv
-
-
-Matchday 3
-[Thu Dec/7]
-  15.00  Dinamo Kiev              4-2 (3-1)  Metalist 1925 Kharkiv
-
-
-Matchday 17
-[Fri Dec/8]
-  17.00  Shakhtar Donetsk         2-0 (1-0)  NK Veres
-  15.00  Polissya Zhytomyr        1-1 (0-0)  SK Dnipro-1
-[Sat Dec/9]
-  15.00  Kryvbas Kryvyi Rih       2-2 (2-1)  Zorya Lugansk
-[Sun Dec/10]
-  15.00  Chernomorets Odessa      1-0 (0-0)  Kolos Kovalivka
-  13.00  Vorskla Poltava          1-1 (0-1)  Rukh Lviv
-[Mon Dec/11]
-  17.00  Metalist 1925 Kharkiv    0-3 (0-0)  FK Oleksandriya
-  15.00  Dinamo Kiev              2-0 (0-0)  FK Obolon
-
-
-Matchday 18
-[Fri Feb/23]
-  15.30  FC LNZ Cherkasy          0-3 (0-1)  Kryvbas Kryvyi Rih
-[Sun Feb/25]
-  15.30  Metalist 1925 Kharkiv    2-4 (1-1)  Dinamo Kiev
-  18.00  Rukh Lviv                1-1 (1-1)  Polissya Zhytomyr
-  13.00  NK Veres                 0-2 (0-0)  Kolos Kovalivka
-         SK Dnipro-1              1-1 (0-1)  FC Mynai
-[Mon Feb/26]
-  14.45  FK Oleksandriya          0-3  Shakhtar Donetsk         [awarded]
-  13.00  Zorya Lugansk            1-0 (1-0)  Vorskla Poltava
-  15.30  FK Obolon                1-1 (0-0)  Chernomorets Odessa
-
-
-Matchday 19
-[Fri Mar/1]
-  18.00  Polissya Zhytomyr        0-1 (0-0)  FC LNZ Cherkasy
-[Sat Mar/2]
-  15.30  Dinamo Kiev              1-0 (1-0)  Chernomorets Odessa
-  13.00  FC Mynai                 2-0 (1-0)  Metalist 1925 Kharkiv
-  18.00  Kolos Kovalivka          0-1 (0-1)  Rukh Lviv
-  15.30  Vorskla Poltava          2-1 (0-1)  NK Veres
-[Sun Mar/3]
-  15.30  FK Oleksandriya          0-0  Zorya Lugansk
-  13.00  FK Obolon                0-1 (0-1)  SK Dnipro-1
-  18.00  Shakhtar Donetsk         5-2 (2-1)  Kryvbas Kryvyi Rih
-
-
-Matchday 20
-[Thu Mar/7]
-  18.00  NK Veres                 1-1 (0-1)  Dinamo Kiev
-  15.30  Zorya Lugansk            2-0 (1-0)  FC Mynai
-[Fri Mar/8]
-  15.30  Metalist 1925 Kharkiv    1-1 (0-0)  FC LNZ Cherkasy
-  18.00  Shakhtar Donetsk         3-2 (0-1)  Kolos Kovalivka
-  13.00  SK Dnipro-1              0-1 (0-1)  Rukh Lviv
-[Sat Mar/9]
-  15.30  Polissya Zhytomyr        1-2 (0-1)  FK Oleksandriya
-  18.00  Kryvbas Kryvyi Rih       1-0 (0-0)  FK Obolon
-  13.00  Chernomorets Odessa      0-1 (0-0)  Vorskla Poltava
-
-
-Matchday 21
-[Tue Mar/12]
-  15.30  Dinamo Kiev              2-0 (1-0)  Zorya Lugansk
-  18.00  Shakhtar Donetsk         2-0 (2-0)  FC Mynai
-  13.00  FC LNZ Cherkasy          1-1 (0-0)  SK Dnipro-1
-[Fri Mar/15]
-  18.00  FK Oleksandriya          1-0 (0-0)  Vorskla Poltava
-[Sat Mar/16]
-  18.00  Kryvbas Kryvyi Rih       1-0 (0-0)  Kolos Kovalivka
-  15.30  FK Obolon                1-0 (1-0)  Polissya Zhytomyr
-  13.00  Metalist 1925 Kharkiv    1-4 (0-4)  Rukh Lviv
-[Sun Mar/17]
-  15.30  Chernomorets Odessa      0-1 (0-1)  NK Veres
-
-
-Matchday 17
-[Sat Mar/23]
-  15.30  FC LNZ Cherkasy          1-2 (0-1)  FC Mynai
-
-
-Matchday 22
-[Sat Mar/30]
-  15.30  Polissya Zhytomyr        1-4 (0-0)  Chernomorets Odessa
-  18.00  NK Veres                 0-2 (0-0)  Kryvbas Kryvyi Rih
-  13.00  FK Obolon                0-3 (0-2)  Shakhtar Donetsk
-[Sun Mar/31]
-  13.00  FC Mynai                 2-2 (0-0)  FK Oleksandriya
-  15.30  Zorya Lugansk            2-1 (1-0)  Metalist 1925 Kharkiv
-  18.00  Kolos Kovalivka          0-2 (0-1)  SK Dnipro-1
-  15.30  Vorskla Poltava          1-5 (0-2)  Dinamo Kiev
-[Mon Apr/1]
-  18.00  Rukh Lviv                1-0 (0-0)  FC LNZ Cherkasy
-
-
-Matchday 6
-[Thu Apr/4]
-  15.30  Zorya Lugansk            0-3 (0-2)  Dinamo Kiev
-
-
-Matchday 23
-[Sat Apr/6]
-  15.30  NK Veres                 3-0 (2-0)  FK Obolon
-[Sun Apr/7]
-  18.00  Shakhtar Donetsk         3-1 (2-1)  Rukh Lviv
-  13.00  Chernomorets Odessa      3-2 (3-1)  FK Oleksandriya
-  15.30  Kolos Kovalivka          1-1 (1-0)  Metalist 1925 Kharkiv
-[Mon Apr/8]
-  18.00  Kryvbas Kryvyi Rih       1-1 (1-1)  Vorskla Poltava
-  13.00  FC Mynai                 2-3 (0-2)  Polissya Zhytomyr
-  15.30  Dinamo Kiev              1-1 (1-1)  FC LNZ Cherkasy
-[Tue Apr/9]
-  13.00  SK Dnipro-1              2-2 (0-0)  Zorya Lugansk
-
-
-Matchday 24
-[Sat Apr/13]
-  13.00  FK Obolon                1-1 (0-0)  FC Mynai
-  15.30  FK Oleksandriya          0-1 (0-0)  Dinamo Kiev
-  18.00  Rukh Lviv                1-1 (0-1)  Kryvbas Kryvyi Rih
-[Sun Apr/14]
-  13.00  Vorskla Poltava          0-1 (0-1)  Shakhtar Donetsk
-  15.30  Zorya Lugansk            1-0 (1-0)  Chernomorets Odessa
-  18.00  Polissya Zhytomyr        1-0 (0-0)  Kolos Kovalivka
-[Mon Apr/15]
-  18.00  Metalist 1925 Kharkiv    1-1 (0-1)  SK Dnipro-1
-  15.30  FC LNZ Cherkasy          1-0 (0-0)  NK Veres
-
-
-Matchday 15
-[Wed Apr/17]
-  18.00  FK Oleksandriya          2-2 (0-0)  FK Obolon
-
-
-Matchday 16
-[Wed Apr/17]
-  15.30  FC Mynai                 1-3 (0-2)  Dinamo Kiev
-
-
-Matchday 10
-[Thu Apr/18]
-  15.30  Zorya Lugansk            1-3 (0-1)  Shakhtar Donetsk
-
-
-Matchday 25
-[Sat Apr/20]
-  18.00  Vorskla Poltava          0-2 (0-0)  Kolos Kovalivka
-  15.30  Chernomorets Odessa      1-2 (1-0)  Kryvbas Kryvyi Rih
-[Sun Apr/21]
-  15.30  FK Oleksandriya          1-2 (1-1)  FC LNZ Cherkasy
-  13.00  NK Veres                 1-1 (1-1)  SK Dnipro-1
-  18.00  Dinamo Kiev              3-0 (1-0)  Polissya Zhytomyr
-[Mon Apr/22]
-  18.00  Shakhtar Donetsk         2-1 (0-0)  Zorya Lugansk
-  15.30  Metalist 1925 Kharkiv    1-1 (0-1)  FK Obolon
-  13.00  FC Mynai                 1-1 (0-0)  Rukh Lviv
-
-
-Matchday 26
-[Sat Apr/27]
-  18.00  Rukh Lviv                3-1 (0-1)  NK Veres
-  13.00  SK Dnipro-1              1-2 (1-0)  Dinamo Kiev
-         FC Mynai                 2-0 (1-0)  Chernomorets Odessa
-  15.30  FC LNZ Cherkasy          0-3 (0-1)  Shakhtar Donetsk
-[Sun Apr/28]
-  18.00  Kryvbas Kryvyi Rih       3-0 (3-0)  Metalist 1925 Kharkiv
-  13.00  Zorya Lugansk            0-0  FK Obolon
-  15.30  Kolos Kovalivka          0-0  FK Oleksandriya
-[Mon Apr/29]
-  18.00  Polissya Zhytomyr        1-0 (0-0)  Vorskla Poltava
-
-
-Matchday 12
-[Wed May/1]
-  13.00  Chernomorets Odessa      1-4 (1-3)  Shakhtar Donetsk
-
-
-Matchday 5
-[Wed May/1]
-  15.30  Dinamo Kiev              3-0 (1-0)  NK Veres
-
-
-Matchday 27
-[Sat May/4]
-  13.00  FK Oleksandriya          2-2 (1-1)  Rukh Lviv
-  15.30  FK Obolon                1-0 (1-0)  FC LNZ Cherkasy
-  18.00  Metalist 1925 Kharkiv    3-2 (2-1)  Vorskla Poltava
-[Sun May/5]
-  18.00  Shakhtar Donetsk         3-0 (2-0)  Chernomorets Odessa
-  15.30  Dinamo Kiev              5-0 (0-0)  Kolos Kovalivka
-  13.00  Polissya Zhytomyr        1-1 (1-0)  Zorya Lugansk
-[Mon May/6]
-  13.00  SK Dnipro-1              1-0 (0-0)  Kryvbas Kryvyi Rih
-  18.00  NK Veres                 3-1 (1-1)  FC Mynai
-
-
-Matchday 15
-[Thu May/9]
-  15.30  Kolos Kovalivka          0-1 (0-1)  Zorya Lugansk
-
-
-Matchday 28
-[Sat May/11]
-  15.30  FK Obolon                0-0  Rukh Lviv
-  18.00  Shakhtar Donetsk         1-0 (1-0)  Dinamo Kiev
-  13.00  Vorskla Poltava          2-3 (1-0)  FC Mynai
-[Sun May/12]
-  15.30  Chernomorets Odessa      3-0 (1-0)  Metalist 1925 Kharkiv
-  13.00  FK Oleksandriya          1-0 (1-0)  SK Dnipro-1
-[Mon May/13]
-  13.00  Kryvbas Kryvyi Rih       0-1 (0-1)  Polissya Zhytomyr
-  16.15  Kolos Kovalivka          1-3 (1-1)  FC LNZ Cherkasy
-  18.00  Zorya Lugansk            1-1 (1-0)  NK Veres
-
-
-Matchday 29
-[Sat May/18]
-  15.30  Dinamo Kiev              3-1 (2-1)  Kryvbas Kryvyi Rih
-[Sun May/19]
-  15.30  FC Mynai                 3-2 (1-1)  Kolos Kovalivka
-         Metalist 1925 Kharkiv    3-3 (1-3)  Polissya Zhytomyr
-         NK Veres                 2-2 (2-1)  FK Oleksandriya
-         Rukh Lviv                2-0 (1-0)  Chernomorets Odessa
-         SK Dnipro-1              1-1 (1-1)  Shakhtar Donetsk
-         Vorskla Poltava          3-1 (2-0)  FK Obolon
-  13.00  FC LNZ Cherkasy          2-1 (0-1)  Zorya Lugansk
-
-
-Matchday 30
-[Fri May/24]
-  15.30  FC LNZ Cherkasy          1-0 (1-0)  Vorskla Poltava
-[Sat May/25]
-  15.30  Metalist 1925 Kharkiv    1-2 (0-1)  NK Veres
-         FK Obolon                0-3 (0-1)  FK Oleksandriya
-         Rukh Lviv                1-2 (0-0)  Dinamo Kiev
-         Zorya Lugansk            0-1 (0-0)  Kolos Kovalivka
-         Chernomorets Odessa      0-2 (0-1)  SK Dnipro-1
-         Polissya Zhytomyr        2-0 (2-0)  Shakhtar Donetsk
-         Kryvbas Kryvyi Rih       3-0 (2-0)  FC Mynai
+» Matchday 1
+  Fri Jul/28 2023
+    17.00  FK Obolon               v Kolos Kovalivka          0-0
+    19.00  NK Veres                v Polissya Zhytomyr        0-2 (0-2)
+  Sat Jul/29
+    15.00  Rukh Lviv               v Zorya Lugansk            2-1 (0-1)
+    17.00  Metalist 1925 Kharkiv   v Shakhtar Donetsk         1-2 (0-1)
+  Sun Jul/30
+    15.00  FC LNZ Cherkasy         v Chernomorets Odessa      0-2 (0-1)
+    17.00  Dinamo Kiev             v FC Mynai                 4-1 (2-1)
+    19.00  FK Oleksandriya         v Kryvbas Kryvyi Rih       1-0 (1-0)
+  Wed Oct/25
+    16.00  Vorskla Poltava         v SK Dnipro-1              2-3 (1-2)
+
+
+» Matchday 2
+  Wed Aug/2
+    17.00  NK Veres                v Shakhtar Donetsk         1-1 (0-1)
+  Fri Aug/4
+    17.00  FK Obolon               v Dinamo Kiev              2-4 (1-3)
+  Sat Aug/5
+    15.00  FC Mynai                v FC LNZ Cherkasy          0-3 (0-1)
+    20.00  FK Oleksandriya         v Metalist 1925 Kharkiv    1-0 (1-0)
+  Sun Aug/6
+    15.00  SK Dnipro-1             v Polissya Zhytomyr        2-1 (0-0)
+    17.00  Kolos Kovalivka         v Chernomorets Odessa      2-0 (0-0)
+           Zorya Lugansk           v Kryvbas Kryvyi Rih       1-3 (1-1)
+    19.00  Rukh Lviv               v Vorskla Poltava          4-1 (1-1)
+
+
+» Matchday 3
+  Sat Aug/12
+    15.00  Chernomorets Odessa     v FK Obolon                2-0 (1-0)
+    17.00  Kolos Kovalivka         v NK Veres                 2-0 (1-0)
+           Polissya Zhytomyr       v Rukh Lviv                0-1 (0-0)
+  Sun Aug/13
+    13.00  FC Mynai                v SK Dnipro-1              1-1 (0-0)
+    15.00  Vorskla Poltava         v Zorya Lugansk            1-2 (0-1)
+    17.00  Kryvbas Kryvyi Rih      v FC LNZ Cherkasy          2-0 (1-0)
+  Mon Aug/14
+    17.00  Shakhtar Donetsk        v FK Oleksandriya          2-1 (2-0)
+  Thu Dec/7
+    15.00  Dinamo Kiev             v Metalist 1925 Kharkiv    4-2 (3-1)
+
+
+» Matchday 4
+  Fri Aug/18
+    17.00  FC LNZ Cherkasy         v Polissya Zhytomyr        1-2 (0-0)
+    19.00  Zorya Lugansk           v FK Oleksandriya          0-0
+  Sat Aug/19
+    15.00  NK Veres                v Vorskla Poltava          1-2 (1-2)
+    17.00  Metalist 1925 Kharkiv   v FC Mynai                 1-0 (0-0)
+    19.00  Rukh Lviv               v Kolos Kovalivka          1-1 (0-1)
+  Sun Aug/20
+    15.00  SK Dnipro-1             v FK Obolon                1-2 (1-0)
+    17.00  Chernomorets Odessa     v Dinamo Kiev              3-2 (1-0)
+    19.00  Kryvbas Kryvyi Rih      v Shakhtar Donetsk         3-3 (2-3)
+
+
+» Matchday 5
+  Sat Aug/26
+    15.00  FC LNZ Cherkasy         v Metalist 1925 Kharkiv    0-1 (0-1)
+    17.00  FK Oleksandriya         v Polissya Zhytomyr        0-3 (0-0)
+  Sun Aug/27
+    13.00  FC Mynai                v Zorya Lugansk            1-1 (1-1)
+    15.00  Kolos Kovalivka         v Shakhtar Donetsk         0-2 (0-2)
+    17.00  Vorskla Poltava         v Chernomorets Odessa      2-1 (2-0)
+  Mon Aug/28
+    19.00  FK Obolon               v Kryvbas Kryvyi Rih       0-0
+  Wed Nov/1
+    18.00  Rukh Lviv               v SK Dnipro-1              0-2 (0-2)
+  Wed May/1 2024
+    15.30  Dinamo Kiev             v NK Veres                 3-0 (1-0)
+
+
+» Matchday 6
+  Fri Sep/1 2023
+    17.00  NK Veres                v Chernomorets Odessa      3-1 (2-1)
+  Sat Sep/2
+    13.00  FC Mynai                v Shakhtar Donetsk         1-4 (0-1)
+    15.00  Polissya Zhytomyr       v FK Obolon                2-0 (0-0)
+    17.00  Vorskla Poltava         v FK Oleksandriya          1-0 (1-0)
+  Sun Sep/3
+    13.00  SK Dnipro-1             v FC LNZ Cherkasy          0-0
+    17.00  Kolos Kovalivka         v Kryvbas Kryvyi Rih       0-3 (0-1)
+    19.00  Rukh Lviv               v Metalist 1925 Kharkiv    1-1 (1-1)
+  Thu Apr/4 2024
+    15.30  Zorya Lugansk           v Dinamo Kiev              0-3 (0-2)
+
+
+» Matchday 7
+  Fri Sep/15 2023
+    18.30  Metalist 1925 Kharkiv   v Zorya Lugansk            2-1 (2-1)
+  Sat Sep/16
+    15.00  Chernomorets Odessa     v Polissya Zhytomyr        1-0 (1-0)
+    17.00  Shakhtar Donetsk        v FK Obolon                1-0 (0-0)
+    19.00  FK Oleksandriya         v FC Mynai                 1-1 (0-0)
+  Sun Sep/17
+    13.00  FC LNZ Cherkasy         v Rukh Lviv                2-1 (1-0)
+    15.00  SK Dnipro-1             v Kolos Kovalivka          1-1 (0-0)
+    17.00  Kryvbas Kryvyi Rih      v NK Veres                 2-1 (1-1)
+  Mon Sep/18
+    17.00  Dinamo Kiev             v Vorskla Poltava          2-0 (1-0)
+
+
+» Matchday 8
+  Fri Sep/22
+    17.00  FK Obolon               v NK Veres                 0-0
+    19.00  FK Oleksandriya         v Chernomorets Odessa      1-5 (0-4)
+  Sat Sep/23
+    15.00  Polissya Zhytomyr       v FC Mynai                 2-1 (0-1)
+    17.00  Vorskla Poltava         v Kryvbas Kryvyi Rih       1-4 (1-2)
+    19.00  Rukh Lviv               v Shakhtar Donetsk         1-1 (0-1)
+  Sun Sep/24
+    13.00  FC LNZ Cherkasy         v Dinamo Kiev              2-4 (0-1)
+    15.00  Zorya Lugansk           v SK Dnipro-1              0-1 (0-1)
+    17.00  Metalist 1925 Kharkiv   v Kolos Kovalivka          0-0
+
+
+» Matchday 9
+  Sat Sep/30
+    15.00  NK Veres                v FC LNZ Cherkasy          0-0
+    17.00  Shakhtar Donetsk        v Vorskla Poltava          1-2 (0-1)
+    19.00  Chernomorets Odessa     v Zorya Lugansk            0-0
+  Sun Oct/1
+    13.00  FC Mynai                v FK Obolon                0-1 (0-0)
+    15.00  Kryvbas Kryvyi Rih      v Rukh Lviv                1-3 (1-0)
+    17.00  Kolos Kovalivka         v Polissya Zhytomyr        0-0
+    19.00  Dinamo Kiev             v FK Oleksandriya          4-2 (2-1)
+  Mon Oct/2
+    17.00  SK Dnipro-1             v Metalist 1925 Kharkiv    1-0 (0-0)
+
+
+» Matchday 10
+  Fri Oct/6
+    15.00  Polissya Zhytomyr       v Dinamo Kiev              3-2 (1-1)
+  Sat Oct/7
+    13.00  SK Dnipro-1             v NK Veres                 2-0 (2-0)
+    15.00  FC LNZ Cherkasy         v FK Oleksandriya          0-0
+    17.00  Kolos Kovalivka         v Vorskla Poltava          0-0
+  Sun Oct/8
+    13.00  FK Obolon               v Metalist 1925 Kharkiv    1-0 (1-0)
+    15.00  Rukh Lviv               v FC Mynai                 0-0
+    17.00  Kryvbas Kryvyi Rih      v Chernomorets Odessa      1-0 (0-0)
+  Thu Apr/18 2024
+    15.30  Zorya Lugansk           v Shakhtar Donetsk         1-3 (0-1)
+
+
+» Matchday 11
+  Fri Oct/20 2023
+    17.00  FK Obolon               v Zorya Lugansk            2-4 (2-2)
+    19.00  Metalist 1925 Kharkiv   v Kryvbas Kryvyi Rih       1-3 (1-2)
+  Sat Oct/21
+    15.00  Chernomorets Odessa     v FC Mynai                 3-0 (1-0)
+    17.00  Shakhtar Donetsk        v FC LNZ Cherkasy          3-0 (1-0)
+    19.00  FK Oleksandriya         v Kolos Kovalivka          0-1 (0-1)
+  Sun Oct/22
+    13.00  NK Veres                v Rukh Lviv                2-5 (0-2)
+    15.00  Vorskla Poltava         v Polissya Zhytomyr        0-3 (0-1)
+    17.00  Dinamo Kiev             v SK Dnipro-1              0-1 (0-1)
+
+
+» Matchday 12
+  Sat Oct/28
+    13.00  Kryvbas Kryvyi Rih      v SK Dnipro-1              3-0 (2-0)
+    15.00  Kolos Kovalivka         v Dinamo Kiev              1-1 (0-1)
+    16.00  Zorya Lugansk           v Polissya Zhytomyr        0-1 (0-1)
+    18.00  Rukh Lviv               v FK Oleksandriya          0-0
+  Sun Oct/29
+    13.00  FC Mynai                v NK Veres                 0-0
+           FC LNZ Cherkasy         v FK Obolon                3-0 (1-0)
+    15.00  Vorskla Poltava         v Metalist 1925 Kharkiv    2-2 (0-1)
+  Wed May/1 2024
+    13.00  Chernomorets Odessa     v Shakhtar Donetsk         1-4 (1-3)
+
+
+» Matchday 13
+  Fri Nov/3 2023
+    17.00  Dinamo Kiev             v Shakhtar Donetsk         0-1 (0-0)
+  Sat Nov/4
+    13.00  FC LNZ Cherkasy         v Kolos Kovalivka          1-1 (1-0)
+  Sun Nov/5
+    13.00  FC Mynai                v Vorskla Poltava          0-0
+    15.00  Metalist 1925 Kharkiv   v Chernomorets Odessa      2-1 (0-1)
+    17.00  NK Veres                v Zorya Lugansk            2-2 (1-1)
+  Mon Nov/6
+    15.00  Polissya Zhytomyr       v Kryvbas Kryvyi Rih       1-1 (0-1)
+    17.00  SK Dnipro-1             v FK Oleksandriya          1-0 (1-0)
+    19.00  Rukh Lviv               v FK Obolon                2-2 (1-1)
+
+
+» Matchday 14
+  Fri Nov/10
+    17.00  Kolos Kovalivka         v FC Mynai                 2-0 (2-0)
+  Sat Nov/11
+    13.00  FK Obolon               v Vorskla Poltava          0-1 (0-0)
+    15.00  Polissya Zhytomyr       v Metalist 1925 Kharkiv    2-1 (0-1)
+    17.00  FK Oleksandriya         v NK Veres                 1-0 (0-0)
+  Sun Nov/12
+    13.00  Kryvbas Kryvyi Rih      v Dinamo Kiev              0-2 (0-2)
+    15.00  Zorya Lugansk           v FC LNZ Cherkasy          1-2 (0-1)
+    17.00  Chernomorets Odessa     v Rukh Lviv                2-3 (1-1)
+    19.00  Shakhtar Donetsk        v SK Dnipro-1              1-3 (1-1)
+
+
+» Matchday 15
+  Fri Nov/24
+    19.00  Shakhtar Donetsk        v Polissya Zhytomyr        0-0
+  Sat Nov/25
+    13.00  FC Mynai                v Kryvbas Kryvyi Rih       0-1 (0-0)
+    15.00  NK Veres                v Metalist 1925 Kharkiv    4-3 (2-1)
+    17.00  Vorskla Poltava         v FC LNZ Cherkasy          0-0
+  Sun Nov/26
+    17.00  Dinamo Kiev             v Rukh Lviv                2-0 (2-0)
+  Mon Nov/27
+    17.00  SK Dnipro-1             v Chernomorets Odessa      5-2 (1-1)
+  Wed Apr/17 2024
+    18.00  FK Oleksandriya         v FK Obolon                2-2 (0-0)
+  Thu May/9
+    15.30  Kolos Kovalivka         v Zorya Lugansk            0-1 (0-1)
+
+
+» Matchday 16
+  Fri Dec/1 2023
+    17.00  Polissya Zhytomyr       v NK Veres                 1-1 (0-0)
+  Sat Dec/2
+    13.00  Kolos Kovalivka         v FK Obolon                0-0
+    15.00  Kryvbas Kryvyi Rih      v FK Oleksandriya          2-1 (0-1)
+    17.00  SK Dnipro-1             v Vorskla Poltava          1-2 (1-2)
+  Sun Dec/3
+    15.00  Chernomorets Odessa     v FC LNZ Cherkasy          1-3 (0-0)
+    17.00  Shakhtar Donetsk        v Metalist 1925 Kharkiv    2-0 (0-0)
+  Mon Dec/4
+    13.00  Zorya Lugansk           v Rukh Lviv                0-0
+  Wed Apr/17 2024
+    15.30  FC Mynai                v Dinamo Kiev              1-3 (0-2)
+
+
+» Matchday 17
+  Fri Dec/8 2023
+    15.00  Polissya Zhytomyr       v SK Dnipro-1              1-1 (0-0)
+    17.00  Shakhtar Donetsk        v NK Veres                 2-0 (1-0)
+  Sat Dec/9
+    15.00  Kryvbas Kryvyi Rih      v Zorya Lugansk            2-2 (2-1)
+  Sun Dec/10
+    13.00  Vorskla Poltava         v Rukh Lviv                1-1 (0-1)
+    15.00  Chernomorets Odessa     v Kolos Kovalivka          1-0 (0-0)
+  Mon Dec/11
+    15.00  Dinamo Kiev             v FK Obolon                2-0 (0-0)
+    17.00  Metalist 1925 Kharkiv   v FK Oleksandriya          0-3 (0-0)
+  Sat Mar/23 2024
+    15.30  FC LNZ Cherkasy         v FC Mynai                 1-2 (0-1)
+
+
+» Matchday 18
+  Fri Feb/23
+    15.30  FC LNZ Cherkasy         v Kryvbas Kryvyi Rih       0-3 (0-1)
+  Sun Feb/25
+    13.00  NK Veres                v Kolos Kovalivka          0-2 (0-0)
+           SK Dnipro-1             v FC Mynai                 1-1 (0-1)
+    15.30  Metalist 1925 Kharkiv   v Dinamo Kiev              2-4 (1-1)
+    18.00  Rukh Lviv               v Polissya Zhytomyr        1-1 (1-1)
+  Mon Feb/26
+    13.00  Zorya Lugansk           v Vorskla Poltava          1-0 (1-0)
+    14.45  FK Oleksandriya         v Shakhtar Donetsk         0-3    [awarded]
+    15.30  FK Obolon               v Chernomorets Odessa      1-1 (0-0)
+
+
+» Matchday 19
+  Fri Mar/1
+    18.00  Polissya Zhytomyr       v FC LNZ Cherkasy          0-1 (0-0)
+  Sat Mar/2
+    13.00  FC Mynai                v Metalist 1925 Kharkiv    2-0 (1-0)
+    15.30  Dinamo Kiev             v Chernomorets Odessa      1-0 (1-0)
+           Vorskla Poltava         v NK Veres                 2-1 (0-1)
+    18.00  Kolos Kovalivka         v Rukh Lviv                0-1 (0-1)
+  Sun Mar/3
+    13.00  FK Obolon               v SK Dnipro-1              0-1 (0-1)
+    15.30  FK Oleksandriya         v Zorya Lugansk            0-0
+    18.00  Shakhtar Donetsk        v Kryvbas Kryvyi Rih       5-2 (2-1)
+
+
+» Matchday 20
+  Thu Mar/7
+    15.30  Zorya Lugansk           v FC Mynai                 2-0 (1-0)
+    18.00  NK Veres                v Dinamo Kiev              1-1 (0-1)
+  Fri Mar/8
+    13.00  SK Dnipro-1             v Rukh Lviv                0-1 (0-1)
+    15.30  Metalist 1925 Kharkiv   v FC LNZ Cherkasy          1-1 (0-0)
+    18.00  Shakhtar Donetsk        v Kolos Kovalivka          3-2 (0-1)
+  Sat Mar/9
+    13.00  Chernomorets Odessa     v Vorskla Poltava          0-1 (0-0)
+    15.30  Polissya Zhytomyr       v FK Oleksandriya          1-2 (0-1)
+    18.00  Kryvbas Kryvyi Rih      v FK Obolon                1-0 (0-0)
+
+
+» Matchday 21
+  Tue Mar/12
+    13.00  FC LNZ Cherkasy         v SK Dnipro-1              1-1 (0-0)
+    15.30  Dinamo Kiev             v Zorya Lugansk            2-0 (1-0)
+    18.00  Shakhtar Donetsk        v FC Mynai                 2-0 (2-0)
+  Fri Mar/15
+    18.00  FK Oleksandriya         v Vorskla Poltava          1-0 (0-0)
+  Sat Mar/16
+    13.00  Metalist 1925 Kharkiv   v Rukh Lviv                1-4 (0-4)
+    15.30  FK Obolon               v Polissya Zhytomyr        1-0 (1-0)
+    18.00  Kryvbas Kryvyi Rih      v Kolos Kovalivka          1-0 (0-0)
+  Sun Mar/17
+    15.30  Chernomorets Odessa     v NK Veres                 0-1 (0-1)
+
+
+» Matchday 22
+  Sat Mar/30
+    13.00  FK Obolon               v Shakhtar Donetsk         0-3 (0-2)
+    15.30  Polissya Zhytomyr       v Chernomorets Odessa      1-4 (0-0)
+    18.00  NK Veres                v Kryvbas Kryvyi Rih       0-2 (0-0)
+  Sun Mar/31
+    13.00  FC Mynai                v FK Oleksandriya          2-2 (0-0)
+    15.30  Zorya Lugansk           v Metalist 1925 Kharkiv    2-1 (1-0)
+           Vorskla Poltava         v Dinamo Kiev              1-5 (0-2)
+    18.00  Kolos Kovalivka         v SK Dnipro-1              0-2 (0-1)
+  Mon Apr/1
+    18.00  Rukh Lviv               v FC LNZ Cherkasy          1-0 (0-0)
+
+
+» Matchday 23
+  Sat Apr/6
+    15.30  NK Veres                v FK Obolon                3-0 (2-0)
+  Sun Apr/7
+    13.00  Chernomorets Odessa     v FK Oleksandriya          3-2 (3-1)
+    15.30  Kolos Kovalivka         v Metalist 1925 Kharkiv    1-1 (1-0)
+    18.00  Shakhtar Donetsk        v Rukh Lviv                3-1 (2-1)
+  Mon Apr/8
+    13.00  FC Mynai                v Polissya Zhytomyr        2-3 (0-2)
+    15.30  Dinamo Kiev             v FC LNZ Cherkasy          1-1 (1-1)
+    18.00  Kryvbas Kryvyi Rih      v Vorskla Poltava          1-1 (1-1)
+  Tue Apr/9
+    13.00  SK Dnipro-1             v Zorya Lugansk            2-2 (0-0)
+
+
+» Matchday 24
+  Sat Apr/13
+    13.00  FK Obolon               v FC Mynai                 1-1 (0-0)
+    15.30  FK Oleksandriya         v Dinamo Kiev              0-1 (0-0)
+    18.00  Rukh Lviv               v Kryvbas Kryvyi Rih       1-1 (0-1)
+  Sun Apr/14
+    13.00  Vorskla Poltava         v Shakhtar Donetsk         0-1 (0-1)
+    15.30  Zorya Lugansk           v Chernomorets Odessa      1-0 (1-0)
+    18.00  Polissya Zhytomyr       v Kolos Kovalivka          1-0 (0-0)
+  Mon Apr/15
+    15.30  FC LNZ Cherkasy         v NK Veres                 1-0 (0-0)
+    18.00  Metalist 1925 Kharkiv   v SK Dnipro-1              1-1 (0-1)
+
+
+» Matchday 25
+  Sat Apr/20
+    15.30  Chernomorets Odessa     v Kryvbas Kryvyi Rih       1-2 (1-0)
+    18.00  Vorskla Poltava         v Kolos Kovalivka          0-2 (0-0)
+  Sun Apr/21
+    13.00  NK Veres                v SK Dnipro-1              1-1 (1-1)
+    15.30  FK Oleksandriya         v FC LNZ Cherkasy          1-2 (1-1)
+    18.00  Dinamo Kiev             v Polissya Zhytomyr        3-0 (1-0)
+  Mon Apr/22
+    13.00  FC Mynai                v Rukh Lviv                1-1 (0-0)
+    15.30  Metalist 1925 Kharkiv   v FK Obolon                1-1 (0-1)
+    18.00  Shakhtar Donetsk        v Zorya Lugansk            2-1 (0-0)
+
+
+» Matchday 26
+  Sat Apr/27
+    13.00  FC Mynai                v Chernomorets Odessa      2-0 (1-0)
+           SK Dnipro-1             v Dinamo Kiev              1-2 (1-0)
+    15.30  FC LNZ Cherkasy         v Shakhtar Donetsk         0-3 (0-1)
+    18.00  Rukh Lviv               v NK Veres                 3-1 (0-1)
+  Sun Apr/28
+    13.00  Zorya Lugansk           v FK Obolon                0-0
+    15.30  Kolos Kovalivka         v FK Oleksandriya          0-0
+    18.00  Kryvbas Kryvyi Rih      v Metalist 1925 Kharkiv    3-0 (3-0)
+  Mon Apr/29
+    18.00  Polissya Zhytomyr       v Vorskla Poltava          1-0 (0-0)
+
+
+» Matchday 27
+  Sat May/4
+    13.00  FK Oleksandriya         v Rukh Lviv                2-2 (1-1)
+    15.30  FK Obolon               v FC LNZ Cherkasy          1-0 (1-0)
+    18.00  Metalist 1925 Kharkiv   v Vorskla Poltava          3-2 (2-1)
+  Sun May/5
+    13.00  Polissya Zhytomyr       v Zorya Lugansk            1-1 (1-0)
+    15.30  Dinamo Kiev             v Kolos Kovalivka          5-0 (0-0)
+    18.00  Shakhtar Donetsk        v Chernomorets Odessa      3-0 (2-0)
+  Mon May/6
+    13.00  SK Dnipro-1             v Kryvbas Kryvyi Rih       1-0 (0-0)
+    18.00  NK Veres                v FC Mynai                 3-1 (1-1)
+
+
+» Matchday 28
+  Sat May/11
+    13.00  Vorskla Poltava         v FC Mynai                 2-3 (1-0)
+    15.30  FK Obolon               v Rukh Lviv                0-0
+    18.00  Shakhtar Donetsk        v Dinamo Kiev              1-0 (1-0)
+  Sun May/12
+    13.00  FK Oleksandriya         v SK Dnipro-1              1-0 (1-0)
+    15.30  Chernomorets Odessa     v Metalist 1925 Kharkiv    3-0 (1-0)
+  Mon May/13
+    13.00  Kryvbas Kryvyi Rih      v Polissya Zhytomyr        0-1 (0-1)
+    16.15  Kolos Kovalivka         v FC LNZ Cherkasy          1-3 (1-1)
+    18.00  Zorya Lugansk           v NK Veres                 1-1 (1-0)
+
+
+» Matchday 29
+  Sat May/18
+    15.30  Dinamo Kiev             v Kryvbas Kryvyi Rih       3-1 (2-1)
+  Sun May/19
+    13.00  FC LNZ Cherkasy         v Zorya Lugansk            2-1 (0-1)
+    15.30  FC Mynai                v Kolos Kovalivka          3-2 (1-1)
+           Metalist 1925 Kharkiv   v Polissya Zhytomyr        3-3 (1-3)
+           NK Veres                v FK Oleksandriya          2-2 (2-1)
+           Rukh Lviv               v Chernomorets Odessa      2-0 (1-0)
+           SK Dnipro-1             v Shakhtar Donetsk         1-1 (1-1)
+           Vorskla Poltava         v FK Obolon                3-1 (2-0)
+
+
+» Matchday 30
+  Fri May/24
+    15.30  FC LNZ Cherkasy         v Vorskla Poltava          1-0 (1-0)
+  Sat May/25
+    15.30  Kryvbas Kryvyi Rih      v FC Mynai                 3-0 (2-0)
+           Metalist 1925 Kharkiv   v NK Veres                 1-2 (0-1)
+           FK Obolon               v FK Oleksandriya          0-3 (0-1)
+           Rukh Lviv               v Dinamo Kiev              1-2 (0-0)
+           Zorya Lugansk           v Kolos Kovalivka          0-1 (0-0)
+           Chernomorets Odessa     v SK Dnipro-1              0-2 (0-1)
+           Polissya Zhytomyr       v Shakhtar Donetsk         2-0 (2-0)
