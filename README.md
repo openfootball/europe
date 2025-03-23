@@ -11,7 +11,7 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football datasets include:
+Free open public domain match fixtures & results datasets in the Football.TXT format include:
 
 
 - [**Belgium**](belgium) - First Division A
@@ -29,7 +29,7 @@ Free open public domain football datasets include:
 - [**Turkey**](turkey) - Süper Lig, 1. Lig
 - and others
 
-
+<!--
 todo: add
  europe/croatia/
         europe/denmark/
@@ -39,6 +39,7 @@ todo: add
         europe/slovakia/
         europe/sweden/
         europe/ukraine/
+-->
 
 
 
@@ -69,17 +70,18 @@ That's it.
 Run the `football-to-sqlite` tool against match files in the Football.TXT format like so:
 
 ```
-$ football-to-sqlite belgium.db belgium/2020-21/1-firstdivisiona-i.txt
+$ football-to-sqlite belgium.db belgium/2024-25_be1.txt
 ```
 
 or pass in more than one match file:
 
 ```
-$ football-to-sqlite switzerland.db switzerland/2020-21/1-superleague.txt \
-                                    switzerland/2020-21/2-challengeleague.txt \
-                                    switzerland/2019-20/1-superleague.txt \
-                                    switzerland/2019-20/2-challengeleague.txt
+$ football-to-sqlite switzerland.db switzerland/2024-25_ch1.txt \
+                                    switzerland/2024-25_ch2.txt \
+                                    switzerland/2023-24_ch1.txt \
+                                    switzerland/2023-24_ch2.txt
 ```
+
 
 Note: If the single-file SQLite database (and its tables, views & indices) do not (yet) exist,
 they get auto-created on the first run.
