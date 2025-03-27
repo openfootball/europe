@@ -1,0 +1,544 @@
+= Turkish Süper Lig 2018/19
+
+# Date       Fri Aug/10 2018 - Sun May/26 2019 (289d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/10 2018
+    21.45  MKE Ankaragücü          v Galatasaray              1-3 (1-2)
+  Sat Aug/11
+    19.30  Çaykur Rizespor         v Kasımpaşa SK             2-3 (1-0)
+           Sivasspor               v Alanyaspor               1-0 (0-0)
+    21.45  Fenerbahçe              v Bursaspor                2-1 (2-1)
+  Sun Aug/12
+    19.30  İstanbul Başakşehir     v Trabzonspor              2-0 (1-0)
+           Atiker Konyaspor        v BB Erzurumspor           3-2 (2-1)
+    21.45  Beşiktaş                v Akhisar Belediyespor     2-1 (2-0)
+           Göztepe                 v Yeni Malatyaspor         1-3 (0-1)
+  Mon Aug/13
+    21.45  Kayserispor             v Antalyaspor              2-0 (1-0)
+
+
+» Matchday 2
+  Fri Aug/17
+    21.45  Trabzonspor             v Sivasspor                3-1 (3-1)
+  Sat Aug/18
+    19.15  Bursaspor               v Kayserispor              0-0
+    21.45  Antalyaspor             v Atiker Konyaspor         3-3 (1-2)
+           Yeni Malatyaspor        v Fenerbahçe               1-0 (0-0)
+  Sun Aug/19
+    19.15  BB Erzurumspor          v Beşiktaş                 1-3 (1-0)
+           Akhisar Belediyespor    v Çaykur Rizespor          1-1 (0-1)
+    21.45  Alanyaspor              v MKE Ankaragücü           0-2 (0-0)
+           Galatasaray             v Göztepe                  1-0 (1-0)
+  Mon Aug/20
+    21.45  Kasımpaşa SK            v İstanbul Başakşehir      2-1 (0-0)
+
+
+» Matchday 3
+  Fri Aug/24
+    19.15  Çaykur Rizespor         v BB Erzurumspor           0-0
+  Sat Aug/25
+    19.15  MKE Ankaragücü          v Trabzonspor              2-2 (1-1)
+    21.45  Göztepe                 v Fenerbahçe               1-0 (0-0)
+           Kayserispor             v Yeni Malatyaspor         0-0
+  Sun Aug/26
+    19.15  Sivasspor               v Kasımpaşa SK             0-3 (0-1)
+    21.45  Beşiktaş                v Antalyaspor              2-3 (1-3)
+           Atiker Konyaspor        v Bursaspor                1-1 (1-1)
+  Mon Aug/27
+    19.15  İstanbul Başakşehir     v Akhisar Belediyespor     3-1 (1-1)
+    21.45  Galatasaray             v Alanyaspor               6-0 (1-0)
+
+
+» Matchday 4
+  Fri Aug/31
+    21.45  Yeni Malatyaspor        v Atiker Konyaspor         0-1 (0-1)
+  Sat Sep/1
+    19.15  Fenerbahçe              v Kayserispor              2-3 (1-0)
+           Akhisar Belediyespor    v Sivasspor                1-1 (0-0)
+    21.45  Trabzonspor             v Galatasaray              4-0 (3-0)
+           Alanyaspor              v Göztepe                  1-0 (0-0)
+  Sun Sep/2
+    19.15  BB Erzurumspor          v İstanbul Başakşehir      0-1 (0-1)
+           Kasımpaşa SK            v MKE Ankaragücü           2-1 (1-0)
+    21.45  Antalyaspor             v Çaykur Rizespor          2-1 (0-1)
+           Bursaspor               v Beşiktaş                 1-1 (0-0)
+
+
+» Matchday 5
+  Fri Sep/14
+    21.00  Galatasaray             v Kasımpaşa SK             4-1 (0-0)
+  Sat Sep/15
+    17.00  MKE Ankaragücü          v Akhisar Belediyespor     1-0 (1-0)
+    20.00  Göztepe                 v Kayserispor              2-0 (2-0)
+           Beşiktaş                v Yeni Malatyaspor         2-1 (0-0)
+  Sun Sep/16
+    17.00  Sivasspor               v BB Erzurumspor           2-2 (1-1)
+           İstanbul Başakşehir     v Antalyaspor              4-0 (1-0)
+    20.00  Çaykur Rizespor         v Bursaspor                1-1 (0-1)
+           Atiker Konyaspor        v Fenerbahçe               0-1 (0-0)
+  Mon Sep/17
+    20.00  Alanyaspor              v Trabzonspor              1-0 (1-0)
+
+
+» Matchday 6
+  Fri Sep/21
+    20.00  BB Erzurumspor          v MKE Ankaragücü           0-1 (0-0)
+           Bursaspor               v İstanbul Başakşehir      0-0
+  Sat Sep/22
+    13.30  Yeni Malatyaspor        v Çaykur Rizespor          1-0 (1-0)
+    16.00  Kayserispor             v Atiker Konyaspor         0-2 (0-2)
+    19.00  Trabzonspor             v Göztepe                  1-2 (0-2)
+  Sun Sep/23
+    16.00  Kasımpaşa SK            v Alanyaspor               1-2 (0-1)
+    19.00  Antalyaspor             v Sivasspor                2-1 (2-1)
+           Akhisar Belediyespor    v Galatasaray              3-0 (0-0)
+  Mon Sep/24
+    21.00  Fenerbahçe              v Beşiktaş                 1-1 (0-1)
+
+
+» Matchday 7
+  Fri Sep/28
+    20.00  Galatasaray             v BB Erzurumspor           1-0 (0-0)
+  Sat Sep/29
+    16.00  Trabzonspor             v Kasımpaşa SK             4-2 (1-2)
+           Alanyaspor              v Akhisar Belediyespor     2-1 (1-0)
+    19.00  Beşiktaş                v Kayserispor              2-0 (1-0)
+  Sun Sep/30
+    13.30  Sivasspor               v Bursaspor                2-0 (1-0)
+    16.00  Göztepe                 v Atiker Konyaspor         3-2 (2-0)
+    19.00  Çaykur Rizespor         v Fenerbahçe               3-0 (3-0)
+  Mon Oct/1
+    20.00  MKE Ankaragücü          v Antalyaspor              0-1 (0-1)
+           İstanbul Başakşehir     v Yeni Malatyaspor         1-1 (0-1)
+
+
+» Matchday 8
+  Fri Oct/5
+    20.00  Kasımpaşa SK            v Göztepe                  3-1 (1-0)
+  Sat Oct/6
+    13.30  Kayserispor             v Çaykur Rizespor          2-2 (0-1)
+    16.00  BB Erzurumspor          v Alanyaspor               1-0 (0-0)
+           Bursaspor               v MKE Ankaragücü           1-0 (1-0)
+    19.00  Antalyaspor             v Galatasaray              0-1 (0-0)
+  Sun Oct/7
+    13.30  Yeni Malatyaspor        v Sivasspor                4-4 (1-3)
+    18.00  Fenerbahçe              v İstanbul Başakşehir      0-0
+    19.00  Akhisar Belediyespor    v Trabzonspor              1-3 (0-2)
+    20.30  Atiker Konyaspor        v Beşiktaş                 2-2 (1-0)
+
+
+» Matchday 9
+  Fri Oct/19
+    20.30  Galatasaray             v Bursaspor                1-1 (0-0)
+  Sat Oct/20
+    13.30  Kasımpaşa SK            v Akhisar Belediyespor     5-0 (0-0)
+    16.00  İstanbul Başakşehir     v Kayserispor              1-0 (1-0)
+    19.00  Sivasspor               v Fenerbahçe               0-0
+  Sun Oct/21
+    13.30  Çaykur Rizespor         v Atiker Konyaspor         1-1 (1-0)
+    16.00  MKE Ankaragücü          v Yeni Malatyaspor         1-0 (1-0)
+           Alanyaspor              v Antalyaspor              0-1 (0-1)
+    19.00  Göztepe                 v Beşiktaş                 2-0 (0-0)
+  Mon Oct/22
+    20.00  Trabzonspor             v BB Erzurumspor           0-0
+
+
+» Matchday 10
+  Fri Oct/26
+    20.30  Bursaspor               v Alanyaspor               2-0 (2-0)
+  Sat Oct/27
+    13.30  BB Erzurumspor          v Kasımpaşa SK             1-1 (1-0)
+    16.00  Atiker Konyaspor        v İstanbul Başakşehir      0-1 (0-0)
+    19.00  Antalyaspor             v Trabzonspor              1-1 (1-1)
+  Sun Oct/28
+    13.30  Kayserispor             v Sivasspor                2-0 (0-0)
+    18.00  Yeni Malatyaspor        v Galatasaray              2-0 (1-0)
+    20.30  Fenerbahçe              v MKE Ankaragücü           1-3 (0-1)
+  Mon Oct/29
+    20.00  Akhisar Belediyespor    v Göztepe                  1-0 (1-0)
+           Beşiktaş                v Çaykur Rizespor          4-1 (2-0)
+
+
+» Matchday 11
+  Fri Nov/2
+    21.00  Galatasaray             v Fenerbahçe               2-2 (1-0)
+  Sat Nov/3
+    13.30  Kasımpaşa SK            v Antalyaspor              1-2 (1-1)
+    16.00  Akhisar Belediyespor    v BB Erzurumspor           1-1 (1-1)
+    19.00  İstanbul Başakşehir     v Beşiktaş                 1-0 (1-0)
+  Sun Nov/4
+    13.30  MKE Ankaragücü          v Kayserispor              3-1 (2-0)
+    16.00  Alanyaspor              v Yeni Malatyaspor         0-1 (0-1)
+    19.00  Trabzonspor             v Bursaspor                1-1 (1-0)
+  Mon Nov/5
+    20.00  Göztepe                 v Çaykur Rizespor          2-0 (1-0)
+           Sivasspor               v Atiker Konyaspor         0-0
+
+
+» Matchday 12
+  Fri Nov/9
+    20.00  Yeni Malatyaspor        v Trabzonspor              5-0 (2-0)
+  Sat Nov/10
+    13.30  BB Erzurumspor          v Göztepe                  2-1 (1-0)
+           Atiker Konyaspor        v MKE Ankaragücü           2-0 (0-0)
+    16.00  Çaykur Rizespor         v İstanbul Başakşehir      1-2 (0-0)
+    19.00  Kayserispor             v Galatasaray              0-3 (0-1)
+  Sun Nov/11
+    13.30  Bursaspor               v Kasımpaşa SK             1-2 (1-1)
+    18.00  Fenerbahçe              v Alanyaspor               2-0 (2-0)
+    19.00  Antalyaspor             v Akhisar Belediyespor     1-2 (0-0)
+    20.30  Beşiktaş                v Sivasspor                1-2 (1-1)
+
+
+» Matchday 13
+  Fri Nov/23
+    20.30  Galatasaray             v Atiker Konyaspor         1-1 (0-0)
+  Sat Nov/24
+    13.30  BB Erzurumspor          v Antalyaspor              1-0 (0-0)
+    16.00  Alanyaspor              v Kayserispor              5-0 (1-0)
+    19.00  MKE Ankaragücü          v Beşiktaş                 1-4 (0-3)
+  Sun Nov/25
+    13.30  Sivasspor               v Çaykur Rizespor          1-1 (0-0)
+    16.00  Akhisar Belediyespor    v Bursaspor                2-4 (2-1)
+    19.00  Trabzonspor             v Fenerbahçe               2-1 (0-0)
+           Kasımpaşa SK            v Yeni Malatyaspor         3-0 (1-0)
+  Mon Nov/26
+    20.00  Göztepe                 v İstanbul Başakşehir      0-2 (0-1)
+
+
+» Matchday 14
+  Fri Nov/30
+    20.00  Çaykur Rizespor         v MKE Ankaragücü           1-1 (0-1)
+           Atiker Konyaspor        v Alanyaspor               2-0 (0-0)
+  Sat Dec/1
+    16.00  İstanbul Başakşehir     v Sivasspor                0-1 (0-1)
+           Antalyaspor             v Göztepe                  1-0 (1-0)
+    19.00  Kayserispor             v Trabzonspor              0-2 (0-0)
+  Sun Dec/2
+    16.00  Bursaspor               v BB Erzurumspor           2-1 (1-1)
+    20.00  Beşiktaş                v Galatasaray              1-0 (1-0)
+  Mon Dec/3
+    20.00  Yeni Malatyaspor        v Akhisar Belediyespor     1-1 (1-0)
+           Fenerbahçe              v Kasımpaşa SK             2-2 (2-1)
+
+
+» Matchday 15
+  Fri Dec/7
+    20.00  Alanyaspor              v Beşiktaş                 0-0
+  Sat Dec/8
+    13.30  Sivasspor               v Göztepe                  2-0 (0-0)
+    16.00  Trabzonspor             v Atiker Konyaspor         3-0 (0-0)
+    19.00  Galatasaray             v Çaykur Rizespor          2-2 (1-0)
+  Sun Dec/9
+    13.30  BB Erzurumspor          v Yeni Malatyaspor         1-3 (1-0)
+    16.00  Bursaspor               v Antalyaspor              0-2 (0-2)
+    19.00  Akhisar Belediyespor    v Fenerbahçe               3-0 (1-0)
+  Mon Dec/10
+    20.00  MKE Ankaragücü          v İstanbul Başakşehir      0-1 (0-1)
+           Kasımpaşa SK            v Kayserispor              0-3 (0-1)
+
+
+» Matchday 16
+  Fri Dec/14
+    20.30  Göztepe                 v Bursaspor                0-0
+  Sat Dec/15
+    13.30  Çaykur Rizespor         v Alanyaspor               1-1 (0-1)
+           Sivasspor               v MKE Ankaragücü           4-0 (2-0)
+    16.00  Atiker Konyaspor        v Kasımpaşa SK             3-2 (0-0)
+    19.00  İstanbul Başakşehir     v Galatasaray              1-1 (1-1)
+  Sun Dec/16
+    13.30  Yeni Malatyaspor        v Antalyaspor              2-0 (2-0)
+    16.00  Kayserispor             v Akhisar Belediyespor     1-0 (0-0)
+    19.00  Beşiktaş                v Trabzonspor              2-2 (0-1)
+  Mon Dec/17
+    20.00  Fenerbahçe              v BB Erzurumspor           2-2 (2-0)
+
+
+» Matchday 17
+  Sat Dec/22
+    13.30  MKE Ankaragücü          v Göztepe                  0-3 (0-0)
+    16.00  Alanyaspor              v İstanbul Başakşehir      1-1 (0-1)
+    19.00  Kasımpaşa SK            v Beşiktaş                 4-1 (2-0)
+  Sun Dec/23
+    13.30  BB Erzurumspor          v Kayserispor              1-1 (1-1)
+    16.00  Trabzonspor             v Çaykur Rizespor          4-1 (1-0)
+           Bursaspor               v Yeni Malatyaspor         1-1 (1-0)
+    19.00  Galatasaray             v Sivasspor                4-2 (2-2)
+  Mon Dec/24
+    20.00  Antalyaspor             v Fenerbahçe               0-0
+           Akhisar Belediyespor    v Atiker Konyaspor         0-0
+
+
+» Matchday 18
+  Fri Jan/18 2019
+    20.30  Akhisar Belediyespor    v Beşiktaş                 0-3 (0-1)
+  Sat Jan/19
+    13.30  BB Erzurumspor          v Atiker Konyaspor         1-2 (0-1)
+           Yeni Malatyaspor        v Göztepe                  3-2 (2-2)
+    16.00  Antalyaspor             v Kayserispor              0-0
+    19.00  Galatasaray             v MKE Ankaragücü           6-0 (3-0)
+  Sun Jan/20
+    16.00  Alanyaspor              v Sivasspor                2-0 (2-0)
+    19.00  Trabzonspor             v İstanbul Başakşehir      2-4 (0-2)
+  Mon Jan/21
+    20.00  Kasımpaşa SK            v Çaykur Rizespor          0-1 (0-1)
+           Bursaspor               v Fenerbahçe               1-1 (0-1)
+
+
+» Matchday 19
+  Fri Jan/25
+    20.30  Beşiktaş                v BB Erzurumspor           1-1 (0-0)
+  Sat Jan/26
+    16.00  Kayserispor             v Bursaspor                1-1 (0-1)
+    19.00  Göztepe                 v Galatasaray              0-1 (0-0)
+  Sun Jan/27
+    13.30  Çaykur Rizespor         v Akhisar Belediyespor     3-1 (0-1)
+    16.00  Atiker Konyaspor        v Antalyaspor              2-0 (1-0)
+    19.00  Sivasspor               v Trabzonspor              1-1 (0-0)
+  Mon Jan/28
+    20.00  İstanbul Başakşehir     v Kasımpaşa SK             2-0 (1-0)
+           MKE Ankaragücü          v Alanyaspor               0-2 (0-1)
+           Fenerbahçe              v Yeni Malatyaspor         3-2 (2-2)
+
+
+» Matchday 20
+  Fri Feb/1
+    20.30  Fenerbahçe              v Göztepe                  2-0 (1-0)
+  Sat Feb/2
+    13.30  Yeni Malatyaspor        v Kayserispor              1-1 (1-1)
+    16.00  Kasımpaşa SK            v Sivasspor                1-3 (1-1)
+           Trabzonspor             v MKE Ankaragücü           1-0 (1-0)
+    19.00  Alanyaspor              v Galatasaray              1-1 (1-0)
+  Sun Feb/3
+    13.30  BB Erzurumspor          v Çaykur Rizespor          0-1 (0-0)
+    16.00  Akhisar Belediyespor    v İstanbul Başakşehir      0-3 (0-2)
+    19.00  Antalyaspor             v Beşiktaş                 2-6 (0-3)
+  Mon Feb/4
+    20.00  Bursaspor               v Atiker Konyaspor         0-0
+
+
+» Matchday 21
+  Fri Feb/8
+    20.30  Kayserispor             v Fenerbahçe               1-0 (0-0)
+  Sat Feb/9
+    16.00  İstanbul Başakşehir     v BB Erzurumspor           1-1 (1-0)
+           Çaykur Rizespor         v Antalyaspor              1-1 (1-0)
+    19.00  Beşiktaş                v Bursaspor                2-0 (1-0)
+  Sun Feb/10
+    13.30  Atiker Konyaspor        v Yeni Malatyaspor         1-1 (0-0)
+    16.00  Göztepe                 v Alanyaspor               3-2 (2-1)
+    19.00  Galatasaray             v Trabzonspor              3-1 (2-1)
+  Mon Feb/11
+    20.00  MKE Ankaragücü          v Kasımpaşa SK             3-0 (1-0)
+           Sivasspor               v Akhisar Belediyespor     2-1 (1-0)
+
+
+» Matchday 22
+  Fri Feb/15
+    20.30  Yeni Malatyaspor        v Beşiktaş                 1-2 (0-0)
+  Sat Feb/16
+    13.30  Akhisar Belediyespor    v MKE Ankaragücü           0-0
+    16.00  Bursaspor               v Çaykur Rizespor          0-2 (0-1)
+    19.00  Fenerbahçe              v Atiker Konyaspor         1-1 (1-1)
+  Sun Feb/17
+    13.30  BB Erzurumspor          v Sivasspor                4-2 (2-1)
+    16.00  Trabzonspor             v Alanyaspor               0-2 (0-0)
+           Kayserispor             v Göztepe                  2-1 (1-0)
+    19.00  Kasımpaşa SK            v Galatasaray              1-4 (1-2)
+  Mon Feb/18
+    20.00  Antalyaspor             v İstanbul Başakşehir      0-1 (0-1)
+
+
+» Matchday 23
+  Fri Feb/22
+    20.30  Göztepe                 v Trabzonspor              1-3 (0-1)
+           Çaykur Rizespor         v Yeni Malatyaspor         3-0 (1-0)
+  Sat Feb/23
+    13.30  Sivasspor               v Antalyaspor              1-2 (0-2)
+    16.00  Alanyaspor              v Kasımpaşa SK             3-0 (1-0)
+  Sun Feb/24
+    13.30  MKE Ankaragücü          v BB Erzurumspor           2-1 (1-0)
+    16.00  Atiker Konyaspor        v Kayserispor              0-1 (0-0)
+    19.00  Galatasaray             v Akhisar Belediyespor     1-0 (0-0)
+           İstanbul Başakşehir     v Bursaspor                3-0 (2-0)
+  Mon Feb/25
+    21.00  Beşiktaş                v Fenerbahçe               3-3 (3-0)
+
+
+» Matchday 24
+  Fri Mar/1
+    20.30  Antalyaspor             v MKE Ankaragücü           2-4 (2-3)
+  Sat Mar/2
+    16.00  Bursaspor               v Sivasspor                3-2 (1-1)
+           Kayserispor             v Beşiktaş                 2-2 (0-1)
+    19.00  Fenerbahçe              v Çaykur Rizespor          3-2 (2-1)
+  Sun Mar/3
+    13.30  Atiker Konyaspor        v Göztepe                  1-1 (1-0)
+    16.00  Yeni Malatyaspor        v İstanbul Başakşehir      0-2 (0-1)
+    19.00  BB Erzurumspor          v Galatasaray              1-1 (1-0)
+  Mon Mar/4
+    20.00  Kasımpaşa SK            v Trabzonspor              2-2 (0-2)
+           Akhisar Belediyespor    v Alanyaspor               3-1 (0-0)
+
+
+» Matchday 25
+  Fri Mar/8
+    20.30  Sivasspor               v Yeni Malatyaspor         2-0 (2-0)
+  Sat Mar/9
+    16.00  Trabzonspor             v Akhisar Belediyespor     2-1 (0-0)
+    19.00  İstanbul Başakşehir     v Fenerbahçe               2-1 (1-0)
+           MKE Ankaragücü          v Bursaspor                0-0
+  Sun Mar/10
+    13.30  Alanyaspor              v BB Erzurumspor           2-1 (1-0)
+    16.00  Göztepe                 v Kasımpaşa SK             0-0
+           Çaykur Rizespor         v Kayserispor              3-0 (1-0)
+    19.00  Beşiktaş                v Atiker Konyaspor         3-2 (2-1)
+  Mon Mar/11
+    20.00  Galatasaray             v Antalyaspor              5-0 (1-0)
+
+
+» Matchday 26
+  Fri Mar/15
+    20.30  Fenerbahçe              v Sivasspor                2-1 (0-0)
+  Sat Mar/16
+    13.30  Atiker Konyaspor        v Çaykur Rizespor          0-2 (0-1)
+    16.00  Akhisar Belediyespor    v Kasımpaşa SK             2-3 (1-1)
+           BB Erzurumspor          v Trabzonspor              0-1 (0-0)
+    19.00  Antalyaspor             v Alanyaspor               3-0 (2-0)
+           Beşiktaş                v Göztepe                  1-0 (0-0)
+  Sun Mar/17
+    13.30  Yeni Malatyaspor        v MKE Ankaragücü           3-1 (0-0)
+    16.00  Kayserispor             v İstanbul Başakşehir      1-1 (1-0)
+    19.00  Bursaspor               v Galatasaray              2-3 (2-1)
+
+
+» Matchday 27
+  Fri Apr/5
+    20.30  Trabzonspor             v Antalyaspor              4-1 (1-1)
+  Sat Apr/6
+    16.00  Sivasspor               v Kayserispor              1-3 (0-3)
+           Alanyaspor              v Bursaspor                1-0 (0-0)
+    19.00  Galatasaray             v Yeni Malatyaspor         3-0 (1-0)
+  Sun Apr/7
+    13.30  Kasımpaşa SK            v BB Erzurumspor           2-1 (1-0)
+    16.00  Göztepe                 v Akhisar Belediyespor     0-1 (0-0)
+           MKE Ankaragücü          v Fenerbahçe               1-1 (1-0)
+    19.00  İstanbul Başakşehir     v Atiker Konyaspor         2-0 (0-0)
+  Mon Apr/8
+    20.00  Çaykur Rizespor         v Beşiktaş                 2-7 (1-2)
+
+
+» Matchday 28
+  Fri Apr/12
+    20.30  Bursaspor               v Trabzonspor              0-1 (0-0)
+  Sat Apr/13
+    16.00  Çaykur Rizespor         v Göztepe                  1-0 (0-0)
+           Atiker Konyaspor        v Sivasspor                1-1 (1-1)
+    19.00  Beşiktaş                v İstanbul Başakşehir      2-1 (1-1)
+  Sun Apr/14
+    13.30  Kayserispor             v MKE Ankaragücü           0-2 (0-0)
+    16.00  Antalyaspor             v Kasımpaşa SK             1-0 (1-0)
+           Yeni Malatyaspor        v Alanyaspor               1-1 (1-1)
+    19.00  Fenerbahçe              v Galatasaray              1-1 (0-0)
+  Mon Apr/15
+    20.00  BB Erzurumspor          v Akhisar Belediyespor     2-1 (0-0)
+
+
+» Matchday 29
+  Fri Apr/19
+    20.30  Kasımpaşa SK            v Bursaspor                1-1 (0-0)
+  Sat Apr/20
+    16.00  Trabzonspor             v Yeni Malatyaspor         2-1 (1-1)
+           Akhisar Belediyespor    v Antalyaspor              1-2 (0-2)
+    19.00  Galatasaray             v Kayserispor              3-1 (3-1)
+           Göztepe                 v BB Erzurumspor           0-1 (0-1)
+  Sun Apr/21
+    13.30  MKE Ankaragücü          v Atiker Konyaspor         0-0
+    16.00  İstanbul Başakşehir     v Çaykur Rizespor          1-1 (0-0)
+    19.00  Alanyaspor              v Fenerbahçe               1-0 (0-0)
+  Mon Apr/22
+    20.00  Sivasspor               v Beşiktaş                 1-2 (1-1)
+
+
+» Matchday 30
+  Fri Apr/26
+    20.30  İstanbul Başakşehir     v Göztepe                  0-2 (0-1)
+  Sat Apr/27
+    16.00  Çaykur Rizespor         v Sivasspor                0-0
+           Antalyaspor             v BB Erzurumspor           1-1 (1-0)
+    19.00  Fenerbahçe              v Trabzonspor              1-1 (0-1)
+  Sun Apr/28
+    16.00  Kayserispor             v Alanyaspor               1-1 (1-1)
+           Bursaspor               v Akhisar Belediyespor     0-0
+    19.00  Beşiktaş                v MKE Ankaragücü           4-1 (1-0)
+  Mon Apr/29
+    20.00  Yeni Malatyaspor        v Kasımpaşa SK             2-1 (1-0)
+           Atiker Konyaspor        v Galatasaray              0-0
+
+
+» Matchday 31
+  Fri May/3
+    20.30  Sivasspor               v İstanbul Başakşehir      0-0
+  Sat May/4
+    16.00  MKE Ankaragücü          v Çaykur Rizespor          2-2 (0-1)
+           BB Erzurumspor          v Bursaspor                2-0 (0-0)
+    19.00  Kasımpaşa SK            v Fenerbahçe               1-3 (1-1)
+  Sun May/5
+    16.00  Akhisar Belediyespor    v Yeni Malatyaspor         0-2 (0-0)
+           Göztepe                 v Antalyaspor              4-1 (2-1)
+    19.00  Galatasaray             v Beşiktaş                 2-0 (1-0)
+  Mon May/6
+    20.30  Alanyaspor              v Atiker Konyaspor         2-4 (1-2)
+           Trabzonspor             v Kayserispor              4-2 (2-1)
+
+
+» Matchday 32
+  Fri May/10
+    20.30  Antalyaspor             v Bursaspor                0-1 (0-1)
+  Sat May/11
+    16.00  Çaykur Rizespor         v Galatasaray              2-3 (1-1)
+    19.00  Fenerbahçe              v Akhisar Belediyespor     2-1 (2-1)
+           Göztepe                 v Sivasspor                3-3 (1-2)
+  Sun May/12
+    16.00  Kayserispor             v Kasımpaşa SK             2-1 (0-1)
+           Atiker Konyaspor        v Trabzonspor              2-2 (2-1)
+    19.00  İstanbul Başakşehir     v MKE Ankaragücü           2-1 (0-1)
+           Yeni Malatyaspor        v BB Erzurumspor           3-1 (0-0)
+  Mon May/13
+    20.00  Beşiktaş                v Alanyaspor               2-1 (1-1)
+
+
+» Matchday 33
+  Fri May/17
+    20.30  Kasımpaşa SK            v Atiker Konyaspor         1-1 (0-1)
+  Sat May/18
+    19.00  Antalyaspor             v Yeni Malatyaspor         3-0 (1-0)
+           Trabzonspor             v Beşiktaş                 2-1 (0-0)
+  Sun May/19
+    16.00  Akhisar Belediyespor    v Kayserispor              2-2 (1-0)
+           Bursaspor               v Göztepe                  0-0
+    19.00  Alanyaspor              v Çaykur Rizespor          1-1 (1-0)
+           Galatasaray             v İstanbul Başakşehir      2-1 (0-1)
+  Mon May/20
+    20.00  MKE Ankaragücü          v Sivasspor                3-1 (2-0)
+           BB Erzurumspor          v Fenerbahçe               0-1 (0-0)
+
+
+» Matchday 34
+  Fri May/24
+    18.00  İstanbul Başakşehir     v Alanyaspor               1-1 (1-1)
+    21.00  Beşiktaş                v Kasımpaşa SK             3-2 (3-1)
+           Sivasspor               v Galatasaray              4-3 (2-2)
+           Çaykur Rizespor         v Trabzonspor              2-3 (1-3)
+  Sat May/25
+    19.00  Atiker Konyaspor        v Akhisar Belediyespor     0-0
+  Sun May/26
+    19.00  Göztepe                 v MKE Ankaragücü           2-1 (1-0)
+           Fenerbahçe              v Antalyaspor              3-1 (1-1)
+           Kayserispor             v BB Erzurumspor           0-2 (0-2)
+           Yeni Malatyaspor        v Bursaspor                1-2 (0-2)

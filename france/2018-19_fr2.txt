@@ -1,0 +1,604 @@
+= French Ligue 2 2018/19
+
+# Date       Fri Jul/27 2018 - Fri May/17 2019 (294d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Jul/27 2018
+    20.00  AC Ajaccio              v ESTAC Troyes             0-1 (0-1)
+           Gazélec FC Ajaccio      v Paris FC                 1-1 (0-1)
+           Clermont Foot 63        v LB Châteauroux           0-0
+           Grenoble Foot 38        v FC Sochaux               1-0 (0-0)
+           AS Nancy Lorraine       v AS Béziers               0-2 (0-1)
+           US Orléans              v RC Lens                  0-2 (0-1)
+           Red Star FC             v Chamois Niortais         1-2 (0-0)
+           Valenciennes FC         v AJ Auxerre               3-1 (3-1)
+  Sat Jul/28
+    15.00  FC Lorient              v Havre AC                 0-0
+  Mon Jul/30
+    20.45  Stade Brestois 29       v FC Metz                  0-1 (0-1)
+
+
+» Matchday 2
+  Fri Aug/3
+    20.00  AJ Auxerre              v Gazélec FC Ajaccio       2-3 (1-2)
+           AS Béziers              v AC Ajaccio               0-1 (0-1)
+           Havre AC                v Grenoble Foot 38         1-1 (0-0)
+           FC Metz                 v US Orléans               5-1 (2-0)
+           Chamois Niortais        v Clermont Foot 63         4-2 (1-1)
+           Paris FC                v AS Nancy Lorraine        2-0 (0-0)
+           FC Sochaux              v Valenciennes FC          0-1 (0-1)
+           ESTAC Troyes            v Stade Brestois 29        1-2 (1-2)
+  Sat Aug/4
+    17.00  RC Lens                 v Red Star FC              1-0 (1-0)
+  Mon Aug/6
+    20.45  LB Châteauroux          v FC Lorient               1-2 (0-0)
+
+
+» Matchday 3
+  Fri Aug/10
+    20.00  AC Ajaccio              v FC Sochaux               2-3 (0-1)
+           Gazélec FC Ajaccio      v FC Lorient               1-3 (1-1)
+           Stade Brestois 29       v Paris FC                 1-1 (0-1)
+           Grenoble Foot 38        v Chamois Niortais         1-0 (1-0)
+           AS Nancy Lorraine       v RC Lens                  0-3 (0-2)
+           US Orléans              v AJ Auxerre               0-3 (0-2)
+           Red Star FC             v Havre AC                 0-1 (0-1)
+           ESTAC Troyes            v AS Béziers               0-1 (0-1)
+           Valenciennes FC         v LB Châteauroux           1-1 (1-0)
+  Sat Aug/11
+    15.00  Clermont Foot 63        v FC Metz                  2-3 (1-0)
+
+
+» Matchday 4
+  Fri Aug/17
+    20.00  Gazélec FC Ajaccio      v Grenoble Foot 38         2-0 (1-0)
+           AJ Auxerre              v AS Nancy Lorraine        1-0 (1-0)
+           LB Châteauroux          v Red Star FC              1-1 (0-0)
+           Havre AC                v Clermont Foot 63         0-0
+           FC Lorient              v Valenciennes FC          3-1 (2-1)
+           Chamois Niortais        v US Orléans               1-1 (1-0)
+           Paris FC                v AS Béziers               1-0 (0-0)
+           FC Sochaux              v Stade Brestois 29        2-0 (1-0)
+  Sat Aug/18
+    15.00  RC Lens                 v ESTAC Troyes             2-0 (0-0)
+  Mon Aug/20
+    20.45  FC Metz                 v AC Ajaccio               3-1 (1-0)
+
+
+» Matchday 5
+  Fri Aug/24
+    20.00  AC Ajaccio              v FC Lorient               0-0
+           Stade Brestois 29       v Havre AC                 1-0 (0-0)
+           Clermont Foot 63        v FC Sochaux               1-0 (0-0)
+           Grenoble Foot 38        v LB Châteauroux           0-0
+           AS Nancy Lorraine       v Chamois Niortais         0-1 (0-0)
+           US Orléans              v Paris FC                 4-0 (2-0)
+           Red Star FC             v AJ Auxerre               1-0 (0-0)
+           ESTAC Troyes            v FC Metz                  0-1 (0-1)
+  Mon Aug/27
+    20.45  Valenciennes FC         v Gazélec FC Ajaccio       0-0
+  Tue Oct/2
+    19.00  AS Béziers              v RC Lens                  0-0
+
+
+» Matchday 6
+  Fri Aug/31
+    20.00  Gazélec FC Ajaccio      v Red Star FC              2-1 (1-0)
+           AJ Auxerre              v Stade Brestois 29        0-2 (0-0)
+           LB Châteauroux          v AS Nancy Lorraine        1-0 (1-0)
+           Havre AC                v US Orléans               3-1 (2-0)
+           Chamois Niortais        v AC Ajaccio               2-0 (0-0)
+           Paris FC                v ESTAC Troyes             2-0 (1-0)
+           FC Sochaux              v AS Béziers               1-0 (1-0)
+           Valenciennes FC         v Clermont Foot 63         0-4 (0-3)
+  Sat Sep/1
+    15.00  FC Metz                 v RC Lens                  2-0 (0-0)
+  Mon Sep/3
+    20.45  FC Lorient              v Grenoble Foot 38         1-0 (1-0)
+
+
+» Matchday 7
+  Fri Sep/14
+    20.00  AC Ajaccio              v Paris FC                 0-0
+           Stade Brestois 29       v Gazélec FC Ajaccio       4-1 (2-1)
+           Clermont Foot 63        v AJ Auxerre               2-0 (1-0)
+           Grenoble Foot 38        v Valenciennes FC          4-2 (2-1)
+           AS Nancy Lorraine       v Havre AC                 0-1 (0-1)
+           US Orléans              v LB Châteauroux           2-0 (1-0)
+           Red Star FC             v FC Lorient               0-3 (0-2)
+           ESTAC Troyes            v Chamois Niortais         2-0 (1-0)
+  Sat Sep/15
+    15.00  RC Lens                 v FC Sochaux               2-0 (1-0)
+  Mon Sep/17
+    20.45  AS Béziers              v FC Metz                  1-3 (0-0)
+
+
+» Matchday 8
+  Fri Sep/21
+    20.00  Gazélec FC Ajaccio      v AS Nancy Lorraine        0-1 (0-0)
+           AJ Auxerre              v AC Ajaccio               0-0
+           LB Châteauroux          v AS Béziers               2-0 (1-0)
+           Grenoble Foot 38        v Stade Brestois 29        1-2 (1-1)
+           Havre AC                v ESTAC Troyes             1-1 (1-0)
+           FC Lorient              v Clermont Foot 63         0-0
+           FC Sochaux              v US Orléans               0-1 (0-1)
+           Valenciennes FC         v Red Star FC              4-1 (3-1)
+  Sat Sep/22
+    15.00  Paris FC                v FC Metz                  2-1 (2-0)
+  Mon Sep/24
+    20.45  Chamois Niortais        v RC Lens                  1-2 (1-1)
+
+
+» Matchday 9
+  Fri Sep/28
+    20.00  AC Ajaccio              v Valenciennes FC          3-1 (1-1)
+           AS Béziers              v Chamois Niortais         1-1 (0-1)
+           Stade Brestois 29       v LB Châteauroux           5-1 (2-1)
+           Clermont Foot 63        v Gazélec FC Ajaccio       1-1 (0-1)
+           RC Lens                 v Paris FC                 0-0
+           AS Nancy Lorraine       v FC Sochaux               0-0
+           US Orléans              v FC Lorient               2-0 (0-0)
+           Red Star FC             v Grenoble Foot 38         2-3 (1-0)
+  Sat Sep/29
+    15.00  FC Metz                 v Havre AC                 0-1 (0-0)
+  Mon Oct/1
+    20.45  ESTAC Troyes            v AJ Auxerre               1-0 (1-0)
+
+
+» Matchday 10
+  Fri Oct/5
+    20.00  Gazélec FC Ajaccio      v US Orléans               0-2 (0-1)
+           LB Châteauroux          v ESTAC Troyes             0-3 (0-1)
+           Grenoble Foot 38        v Clermont Foot 63         1-0 (1-0)
+           Havre AC                v AS Béziers               2-3 (1-2)
+           FC Lorient              v AS Nancy Lorraine        4-1 (2-0)
+           Chamois Niortais        v Paris FC                 1-0 (1-0)
+           Red Star FC             v AC Ajaccio               2-0 (1-0)
+           Valenciennes FC         v Stade Brestois 29        1-3 (1-1)
+  Sat Oct/6
+    15.00  AJ Auxerre              v RC Lens                  1-2 (0-1)
+  Mon Oct/8
+    20.45  FC Sochaux              v FC Metz                  1-2 (0-0)
+
+
+» Matchday 11
+  Fri Oct/19
+    20.00  AC Ajaccio              v Havre AC                 3-2 (2-0)
+           AJ Auxerre              v AS Béziers               2-0 (0-0)
+           Clermont Foot 63        v Red Star FC              0-0
+           FC Metz                 v Chamois Niortais         3-0 (1-0)
+           AS Nancy Lorraine       v Grenoble Foot 38         1-2 (0-1)
+           US Orléans              v Valenciennes FC          1-0 (0-0)
+           Paris FC                v LB Châteauroux           0-0
+           ESTAC Troyes            v FC Sochaux               1-2 (1-0)
+  Sat Oct/20
+    15.00  Stade Brestois 29       v FC Lorient               3-2 (1-2)
+  Mon Oct/22
+    20.45  RC Lens                 v Gazélec FC Ajaccio       5-0 (4-0)
+
+
+» Matchday 12
+  Fri Oct/26
+    20.00  Gazélec FC Ajaccio      v AS Béziers               0-1 (0-1)
+           AJ Auxerre              v Paris FC                 0-2 (0-0)
+           LB Châteauroux          v AC Ajaccio               2-2 (1-2)
+           Grenoble Foot 38        v ESTAC Troyes             0-2 (0-0)
+           FC Lorient              v FC Metz                  0-0
+           Red Star FC             v US Orléans               0-4 (0-3)
+           FC Sochaux              v Chamois Niortais         0-3 (0-2)
+           Valenciennes FC         v AS Nancy Lorraine        1-1 (1-1)
+  Sat Oct/27
+    15.00  Havre AC                v RC Lens                  2-1 (1-0)
+  Mon Oct/29
+    20.45  Clermont Foot 63        v Stade Brestois 29        2-2 (1-2)
+
+
+» Matchday 13
+  Fri Nov/2
+    20.00  AC Ajaccio              v Gazélec FC Ajaccio       1-2 (1-1)
+           Stade Brestois 29       v Red Star FC              1-1 (0-1)
+           AS Nancy Lorraine       v Clermont Foot 63         0-1 (0-0)
+           Paris FC                v FC Sochaux               0-0
+  Sat Nov/3
+    15.00  AS Béziers              v FC Lorient               0-1 (0-0)
+           RC Lens                 v LB Châteauroux           0-1 (0-0)
+           Chamois Niortais        v Havre AC                 1-0 (1-0)
+           US Orléans              v Grenoble Foot 38         0-3 (0-1)
+           ESTAC Troyes            v Valenciennes FC          4-2 (0-2)
+  Mon Nov/5
+    20.45  FC Metz                 v AJ Auxerre               0-1 (0-1)
+
+
+» Matchday 14
+  Fri Nov/9
+    20.00  Gazélec FC Ajaccio      v ESTAC Troyes             2-1 (1-0)
+           AJ Auxerre              v Chamois Niortais         0-0
+           LB Châteauroux          v FC Metz                  1-2 (1-1)
+           Clermont Foot 63        v US Orléans               3-0 (1-0)
+           Grenoble Foot 38        v AC Ajaccio               2-0 (0-0)
+           Havre AC                v FC Sochaux               3-2 (0-1)
+           FC Lorient              v Paris FC                 2-1 (1-1)
+           Red Star FC             v AS Béziers               0-3 (0-2)
+  Sat Nov/10
+    15.00  Valenciennes FC         v RC Lens                  4-2 (1-1)
+  Mon Nov/12
+    20.45  Stade Brestois 29       v AS Nancy Lorraine        2-1 (0-1)
+
+
+» Matchday 15
+  Fri Nov/23
+    20.00  AC Ajaccio              v Clermont Foot 63         0-0
+           AS Béziers              v Valenciennes FC          1-1 (1-0)
+           AS Nancy Lorraine       v Red Star FC              1-0 (0-0)
+           Chamois Niortais        v LB Châteauroux           0-1 (0-0)
+           US Orléans              v Stade Brestois 29        0-0
+           Paris FC                v Havre AC                 1-0 (0-0)
+           FC Sochaux              v AJ Auxerre               1-4 (0-1)
+           ESTAC Troyes            v FC Lorient               2-0 (0-0)
+  Sat Nov/24
+    14.45  RC Lens                 v Grenoble Foot 38         0-0
+  Mon Nov/26
+    20.45  FC Metz                 v Gazélec FC Ajaccio       1-0 (1-0)
+
+
+» Matchday 16
+  Fri Nov/30
+    20.00  Gazélec FC Ajaccio      v Chamois Niortais         0-1 (0-0)
+           Stade Brestois 29       v AC Ajaccio               2-0 (1-0)
+           LB Châteauroux          v FC Sochaux               1-0 (0-0)
+           Clermont Foot 63        v AS Béziers               2-0 (1-0)
+           Havre AC                v AJ Auxerre               1-1 (1-1)
+           FC Lorient              v RC Lens                  2-2 (2-0)
+           US Orléans              v AS Nancy Lorraine        1-2 (0-1)
+           Red Star FC             v ESTAC Troyes             0-3 (0-2)
+           Valenciennes FC         v Paris FC                 0-0
+  Sat Dec/1
+    14.00  Grenoble Foot 38        v FC Metz                  1-1 (1-1)
+
+
+» Matchday 17
+  Mon Dec/3
+    21.00  AJ Auxerre              v FC Lorient               0-0
+  Tue Dec/4
+    21.00  AC Ajaccio              v AS Nancy Lorraine        1-1 (0-1)
+           AS Béziers              v Grenoble Foot 38         0-3 (0-0)
+           Havre AC                v LB Châteauroux           2-1 (1-1)
+           RC Lens                 v Stade Brestois 29        2-1 (2-0)
+           FC Metz                 v Red Star FC              2-0 (0-0)
+           Chamois Niortais        v Valenciennes FC          1-0 (0-0)
+           Paris FC                v Clermont Foot 63         3-0 (1-0)
+           FC Sochaux              v Gazélec FC Ajaccio       2-0 (0-0)
+           ESTAC Troyes            v US Orléans               3-2 (1-0)
+
+
+» Matchday 18
+  Fri Dec/14
+    20.00  Gazélec FC Ajaccio      v Havre AC                 1-1 (0-1)
+           Stade Brestois 29       v AS Béziers               3-0 (1-0)
+           LB Châteauroux          v AJ Auxerre               0-0
+           Grenoble Foot 38        v Paris FC                 0-1 (0-1)
+           FC Lorient              v Chamois Niortais         1-1 (0-1)
+           AS Nancy Lorraine       v ESTAC Troyes             1-1 (0-0)
+           US Orléans              v AC Ajaccio               1-3 (1-1)
+           Red Star FC             v FC Sochaux               3-0 (1-0)
+  Sat Dec/15
+    15.00  Clermont Foot 63        v RC Lens                  0-0
+  Mon Dec/17
+    20.45  Valenciennes FC         v FC Metz                  0-2 (0-0)
+
+
+» Matchday 19
+  Fri Dec/21
+    20.30  AJ Auxerre              v Grenoble Foot 38         4-0 (2-0)
+           AS Béziers              v US Orléans               1-2 (0-0)
+           LB Châteauroux          v Gazélec FC Ajaccio       0-1 (0-1)
+           Chamois Niortais        v Stade Brestois 29        1-1 (1-1)
+           Paris FC                v Red Star FC              1-1 (1-0)
+           ESTAC Troyes            v Clermont Foot 63         0-1 (0-0)
+  Sat Dec/22
+    15.00  RC Lens                 v AC Ajaccio               1-2 (1-1)
+           FC Sochaux              v FC Lorient               1-0 (1-0)
+  Tue Jan/15 2019
+    19.00  Havre AC                v Valenciennes FC          4-3 (3-3)
+  Tue Jan/29
+    19.00  FC Metz                 v AS Nancy Lorraine        3-0 (1-0)
+
+
+» Matchday 20
+  Fri Jan/11
+    20.00  AC Ajaccio              v AS Béziers               2-1 (1-1)
+           Gazélec FC Ajaccio      v AJ Auxerre               0-4 (0-1)
+           Clermont Foot 63        v Chamois Niortais         3-2 (2-1)
+           FC Lorient              v LB Châteauroux           2-1 (1-0)
+           AS Nancy Lorraine       v Paris FC                 1-2 (1-1)
+           US Orléans              v FC Metz                  0-1 (0-1)
+           Valenciennes FC         v FC Sochaux               1-0 (0-0)
+  Sat Jan/12
+    15.00  Stade Brestois 29       v ESTAC Troyes             1-1 (1-0)
+           Grenoble Foot 38        v Havre AC                 0-0
+  Mon Jan/14
+    20.45  Red Star FC             v RC Lens                  1-0 (1-0)
+
+
+» Matchday 21
+  Fri Jan/18
+    20.00  AJ Auxerre              v US Orléans               3-0 (1-0)
+           AS Béziers              v ESTAC Troyes             0-0
+           LB Châteauroux          v Valenciennes FC          1-1 (0-1)
+           FC Lorient              v Gazélec FC Ajaccio       0-1 (0-1)
+           FC Metz                 v Clermont Foot 63         1-2 (0-1)
+           FC Sochaux              v AC Ajaccio               0-0
+  Sat Jan/19
+    14.55  RC Lens                 v AS Nancy Lorraine        2-1 (0-1)
+    15.00  Chamois Niortais        v Grenoble Foot 38         1-1 (0-0)
+  Mon Jan/21
+    20.45  Paris FC                v Stade Brestois 29        0-1 (0-1)
+    21.00  Havre AC                v Red Star FC              1-0 (0-0)
+
+
+» Matchday 22
+  Fri Jan/25
+    20.00  AC Ajaccio              v FC Metz                  0-0
+           Grenoble Foot 38        v Gazélec FC Ajaccio       1-1 (0-0)
+           AS Nancy Lorraine       v AJ Auxerre               1-0 (1-0)
+           Red Star FC             v LB Châteauroux           1-3 (0-1)
+           Valenciennes FC         v FC Lorient               1-2 (1-2)
+  Sat Jan/26
+    15.00  Stade Brestois 29       v FC Sochaux               1-0 (1-0)
+           US Orléans              v Chamois Niortais         1-0 (1-0)
+  Mon Jan/28
+    19.00  AS Béziers              v Paris FC                 0-1 (0-0)
+           Clermont Foot 63        v Havre AC                 0-0
+    20.45  ESTAC Troyes            v RC Lens                  1-0 (0-0)
+
+
+» Matchday 23
+  Fri Feb/1
+    20.00  AJ Auxerre              v Red Star FC              0-0
+           LB Châteauroux          v Grenoble Foot 38         2-2 (1-2)
+           Havre AC                v Stade Brestois 29        1-1 (1-0)
+           FC Lorient              v AC Ajaccio               1-0 (0-0)
+           FC Metz                 v ESTAC Troyes             1-1 (1-0)
+           Chamois Niortais        v AS Nancy Lorraine        1-1 (0-0)
+           Paris FC                v US Orléans               0-0
+           FC Sochaux              v Clermont Foot 63         2-1 (1-0)
+  Mon Feb/4
+    19.00  Gazélec FC Ajaccio      v Valenciennes FC          0-0
+    20.45  RC Lens                 v AS Béziers               3-0 (3-0)
+
+
+» Matchday 24
+  Fri Feb/8
+    20.00  AC Ajaccio              v Chamois Niortais         1-0 (1-0)
+           AS Béziers              v FC Sochaux               0-0
+           Clermont Foot 63        v Valenciennes FC          0-1 (0-1)
+           Grenoble Foot 38        v FC Lorient               0-1 (0-1)
+           AS Nancy Lorraine       v LB Châteauroux           0-1 (0-0)
+           US Orléans              v Havre AC                 1-1 (1-1)
+           Red Star FC             v Gazélec FC Ajaccio       1-1 (0-0)
+           ESTAC Troyes            v Paris FC                 0-1 (0-0)
+  Sat Feb/9
+    15.00  RC Lens                 v FC Metz                  0-0
+  Mon Feb/11
+    20.45  Stade Brestois 29       v AJ Auxerre               1-0 (1-0)
+
+
+» Matchday 25
+  Fri Feb/15
+    20.00  Gazélec FC Ajaccio      v Stade Brestois 29        1-1 (1-0)
+           AJ Auxerre              v Clermont Foot 63         1-0 (0-0)
+           LB Châteauroux          v US Orléans               1-2 (0-0)
+           Havre AC                v AS Nancy Lorraine        0-2 (0-1)
+           FC Lorient              v Red Star FC              2-1 (2-0)
+           Chamois Niortais        v ESTAC Troyes             1-1 (1-0)
+           Paris FC                v AC Ajaccio               1-1 (1-0)
+           Valenciennes FC         v Grenoble Foot 38         3-2 (2-1)
+  Sun Feb/17
+    13.00  FC Sochaux              v RC Lens                  0-1 (0-1)
+  Mon Feb/18
+    20.45  FC Metz                 v AS Béziers               1-0 (0-0)
+
+
+» Matchday 26
+  Fri Feb/22
+    20.00  AC Ajaccio              v AJ Auxerre               2-1 (1-1)
+           AS Béziers              v LB Châteauroux           1-1 (0-0)
+           Stade Brestois 29       v Grenoble Foot 38         3-1 (1-1)
+           Clermont Foot 63        v FC Lorient               0-1 (0-0)
+           FC Metz                 v Paris FC                 2-0 (1-0)
+           AS Nancy Lorraine       v Gazélec FC Ajaccio       3-1 (3-1)
+           US Orléans              v FC Sochaux               2-0 (0-0)
+           Red Star FC             v Valenciennes FC          1-0 (0-0)
+           ESTAC Troyes            v Havre AC                 2-1 (1-0)
+  Mon Feb/25
+    20.45  RC Lens                 v Chamois Niortais         4-1 (2-1)
+
+
+» Matchday 27
+  Fri Mar/1
+    20.00  Gazélec FC Ajaccio      v Clermont Foot 63         0-3 (0-2)
+           AJ Auxerre              v ESTAC Troyes             0-2 (0-2)
+           LB Châteauroux          v Stade Brestois 29        2-2 (1-1)
+           Grenoble Foot 38        v Red Star FC              2-0 (1-0)
+           Chamois Niortais        v AS Béziers               0-0
+           FC Sochaux              v AS Nancy Lorraine        0-4 (0-0)
+           Valenciennes FC         v AC Ajaccio               4-0 (1-0)
+  Sat Mar/2
+    14.45  FC Lorient              v US Orléans               1-3 (0-2)
+  Sun Mar/3
+    15.00  Paris FC                v RC Lens                  2-0 (1-0)
+  Mon Mar/4
+    20.45  Havre AC                v FC Metz                  2-2 (1-0)
+
+
+» Matchday 28
+  Fri Mar/8
+    20.00  AC Ajaccio              v Red Star FC              0-0
+           AS Béziers              v Havre AC                 1-1 (0-0)
+           Stade Brestois 29       v Valenciennes FC          2-5 (0-2)
+           Clermont Foot 63        v Grenoble Foot 38         1-1 (0-0)
+           AS Nancy Lorraine       v FC Lorient               3-2 (2-2)
+           US Orléans              v Gazélec FC Ajaccio       2-2 (0-0)
+           Paris FC                v Chamois Niortais         0-0
+           ESTAC Troyes            v LB Châteauroux           1-0 (0-0)
+  Sat Mar/9
+    15.00  RC Lens                 v AJ Auxerre               2-0 (1-0)
+  Mon Mar/11
+    20.45  FC Metz                 v FC Sochaux               1-1 (0-0)
+
+
+» Matchday 29
+  Fri Mar/15
+    20.00  AS Béziers              v AJ Auxerre               1-0 (0-0)
+           LB Châteauroux          v Paris FC                 0-1 (0-0)
+           Grenoble Foot 38        v AS Nancy Lorraine        1-0 (0-0)
+           Havre AC                v AC Ajaccio               3-1 (2-0)
+           Chamois Niortais        v FC Metz                  0-3 (0-1)
+           Red Star FC             v Clermont Foot 63         0-4 (0-1)
+           FC Sochaux              v ESTAC Troyes             0-0
+           Valenciennes FC         v US Orléans               1-4 (0-2)
+  Sat Mar/16
+    15.00  FC Lorient              v Stade Brestois 29        1-1 (0-0)
+  Mon Mar/18
+    20.45  Gazélec FC Ajaccio      v RC Lens                  1-0 (1-0)
+
+
+» Matchday 30
+  Fri Mar/29
+    20.00  AC Ajaccio              v LB Châteauroux           1-1 (0-0)
+           AS Béziers              v Gazélec FC Ajaccio       0-0
+           Stade Brestois 29       v Clermont Foot 63         0-0
+           AS Nancy Lorraine       v Valenciennes FC          0-2 (0-1)
+           Chamois Niortais        v FC Sochaux               0-1 (0-0)
+           US Orléans              v Red Star FC              2-2 (2-2)
+           Paris FC                v AJ Auxerre               3-0 (1-0)
+           ESTAC Troyes            v Grenoble Foot 38         2-1 (1-0)
+  Sun Mar/31
+    13.00  FC Metz                 v FC Lorient               2-1 (1-0)
+  Mon Apr/1
+    20.45  RC Lens                 v Havre AC                 0-0
+
+
+» Matchday 31
+  Fri Apr/5
+    20.00  Gazélec FC Ajaccio      v AC Ajaccio               1-0 (0-0)
+           Clermont Foot 63        v AS Nancy Lorraine        2-3 (1-1)
+           Grenoble Foot 38        v US Orléans               0-4 (0-1)
+           Havre AC                v Chamois Niortais         0-0
+           FC Lorient              v AS Béziers               3-1 (1-0)
+           Red Star FC             v Stade Brestois 29        0-2 (0-1)
+           FC Sochaux              v Paris FC                 1-0 (1-0)
+           Valenciennes FC         v ESTAC Troyes             0-1 (0-0)
+  Sat Apr/6
+    14.55  AJ Auxerre              v FC Metz                  0-0
+  Mon Apr/8
+    20.45  LB Châteauroux          v RC Lens                  0-0
+
+
+» Matchday 32
+  Fri Apr/12
+    20.00  AC Ajaccio              v Grenoble Foot 38         1-2 (0-0)
+           AS Béziers              v Red Star FC              1-3 (0-1)
+           RC Lens                 v Valenciennes FC          0-0
+           FC Metz                 v LB Châteauroux           2-1 (2-0)
+           AS Nancy Lorraine       v Stade Brestois 29        2-3 (1-1)
+           Chamois Niortais        v AJ Auxerre               0-0
+           US Orléans              v Clermont Foot 63         2-1 (0-1)
+           FC Sochaux              v Havre AC                 1-3 (0-2)
+           ESTAC Troyes            v Gazélec FC Ajaccio       1-0 (1-0)
+  Mon Apr/15
+    20.45  Paris FC                v FC Lorient               2-2 (0-1)
+
+
+» Matchday 33
+  Fri Apr/19
+    20.00  Gazélec FC Ajaccio      v FC Metz                  0-2 (0-0)
+           AJ Auxerre              v FC Sochaux               1-0 (1-0)
+           Stade Brestois 29       v US Orléans               3-1 (1-0)
+           LB Châteauroux          v Chamois Niortais         2-1 (0-1)
+           Clermont Foot 63        v AC Ajaccio               0-0
+           Havre AC                v Paris FC                 2-1 (1-1)
+           FC Lorient              v ESTAC Troyes             0-3 (0-2)
+           Red Star FC             v AS Nancy Lorraine        1-1 (1-0)
+           Valenciennes FC         v AS Béziers               5-6 (3-2)
+  Sat Apr/20
+    15.00  Grenoble Foot 38        v RC Lens                  0-2 (0-1)
+
+
+» Matchday 34
+  Mon Apr/22
+    20.45  Paris FC                v Valenciennes FC          0-0
+  Tue Apr/23
+    20.00  AC Ajaccio              v Stade Brestois 29        0-2 (0-1)
+           AJ Auxerre              v Havre AC                 0-1 (0-0)
+           AS Béziers              v Clermont Foot 63         1-1 (0-0)
+           RC Lens                 v FC Lorient               0-1 (0-1)
+           FC Metz                 v Grenoble Foot 38         1-1 (1-1)
+           AS Nancy Lorraine       v US Orléans               1-0 (0-0)
+           Chamois Niortais        v Gazélec FC Ajaccio       1-1 (0-1)
+           FC Sochaux              v LB Châteauroux           0-0
+           ESTAC Troyes            v Red Star FC              2-0 (1-0)
+
+
+» Matchday 35
+  Fri Apr/26
+    20.00  Gazélec FC Ajaccio      v FC Sochaux               0-2 (0-1)
+           LB Châteauroux          v Havre AC                 1-0 (0-0)
+           Clermont Foot 63        v Paris FC                 1-1 (0-0)
+           Grenoble Foot 38        v AS Béziers               4-2 (1-2)
+           AS Nancy Lorraine       v AC Ajaccio               1-0 (0-0)
+           US Orléans              v ESTAC Troyes             0-1 (0-0)
+           Red Star FC             v FC Metz                  1-2 (1-1)
+           Valenciennes FC         v Chamois Niortais         1-2 (1-0)
+  Sat Apr/27
+    15.00  Stade Brestois 29       v RC Lens                  2-0 (2-0)
+  Mon Apr/29
+    20.45  FC Lorient              v AJ Auxerre               2-2 (0-1)
+
+
+» Matchday 36
+  Fri May/3
+    20.00  AC Ajaccio              v US Orléans               1-0 (1-0)
+           AJ Auxerre              v LB Châteauroux           1-2 (0-1)
+           AS Béziers              v Stade Brestois 29        1-0 (0-0)
+           Havre AC                v Gazélec FC Ajaccio       2-2 (1-2)
+           FC Metz                 v Valenciennes FC          3-0 (3-0)
+           Paris FC                v Grenoble Foot 38         1-0 (0-0)
+           FC Sochaux              v Red Star FC              1-2 (0-1)
+           ESTAC Troyes            v AS Nancy Lorraine        2-1 (1-1)
+  Sat May/4
+    15.00  RC Lens                 v Clermont Foot 63         1-0 (0-0)
+  Mon May/6
+    20.45  Chamois Niortais        v FC Lorient               2-2 (1-1)
+
+
+» Matchday 37
+  Fri May/10
+    20.45  AC Ajaccio              v RC Lens                  0-2 (0-1)
+           Gazélec FC Ajaccio      v LB Châteauroux           1-2 (0-1)
+           Stade Brestois 29       v Chamois Niortais         3-0 (2-0)
+           Clermont Foot 63        v ESTAC Troyes             2-4 (2-2)
+           Grenoble Foot 38        v AJ Auxerre               0-0
+           FC Lorient              v FC Sochaux               0-0
+           AS Nancy Lorraine       v FC Metz                  1-0 (1-0)
+           US Orléans              v AS Béziers               0-0
+           Red Star FC             v Paris FC                 0-1 (0-1)
+           Valenciennes FC         v Havre AC                 1-0 (0-0)
+
+
+» Matchday 38
+  Fri May/17
+    20.45  AJ Auxerre              v Valenciennes FC          1-1 (1-0)
+           AS Béziers              v AS Nancy Lorraine        3-0 (3-0)
+           LB Châteauroux          v Clermont Foot 63         2-2 (1-1)
+           Havre AC                v FC Lorient               2-3 (1-2)
+           RC Lens                 v US Orléans               5-2 (3-1)
+           FC Metz                 v Stade Brestois 29        1-0 (1-0)
+           Chamois Niortais        v Red Star FC              1-0 (1-0)
+           Paris FC                v Gazélec FC Ajaccio       1-0 (1-0)
+           FC Sochaux              v Grenoble Foot 38         3-1 (1-0)
+           ESTAC Troyes            v AC Ajaccio               0-0

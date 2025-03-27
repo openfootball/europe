@@ -1,0 +1,541 @@
+= Portuguese Primeira Liga 2019/20
+
+# Date       Fri Aug/9 2019 - Sun Jul/26 2020 (352d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/9 2019
+    20.30  Portimonense SC         v Belenenses SAD           0-0
+  Sat Aug/10
+    16.30  CD Santa Clara          v FC Famalicão             0-2 (0-1)
+    19.00  Gil Vicente             v FC Porto                 2-1 (0-0)
+    21.30  SL Benfica              v Paços de Ferreira        5-0 (2-0)
+  Sun Aug/11
+    16.00  Boavista                v CD Aves                  2-1 (1-1)
+    18.30  CS Marítimo             v Sporting CP              1-1 (1-1)
+    21.00  Sporting Braga          v Moreirense FC            3-1 (1-0)
+  Mon Aug/12
+    20.15  Vitória Setúbal         v CD Tondela               0-0
+  Sun Sep/8
+    15.00  Rio Ave FC              v Vitória Guimarães        1-1 (1-1)
+
+
+» Matchday 2
+  Fri Aug/16
+    20.30  FC Famalicão            v Rio Ave FC               1-0 (0-0)
+  Sat Aug/17
+    16.30  Moreirense FC           v Gil Vicente              3-0 (2-0)
+    19.00  Belenenses SAD          v SL Benfica               0-2 (0-0)
+    21.30  FC Porto                v Vitória Setúbal          4-0 (2-0)
+  Sun Aug/18
+    16.00  Paços de Ferreira       v CD Santa Clara           0-1 (0-1)
+           CD Aves                 v CS Marítimo              3-1 (2-1)
+    18.30  Vitória Guimarães       v Boavista                 1-1 (1-0)
+    21.00  Sporting CP             v Sporting Braga           2-1 (2-0)
+  Mon Aug/19
+    20.15  CD Tondela              v Portimonense SC          1-2 (0-2)
+
+
+» Matchday 3
+  Fri Aug/23
+    19.00  Vitória Setúbal         v Moreirense FC            0-0
+    21.15  Rio Ave FC              v CD Aves                  5-1 (2-0)
+  Sat Aug/24
+    19.00  SL Benfica              v FC Porto                 0-2 (0-1)
+    21.30  Boavista                v Paços de Ferreira        1-1 (1-1)
+  Sun Aug/25
+    16.00  CS Marítimo             v CD Tondela               2-3 (0-1)
+           CD Santa Clara          v Belenenses SAD           0-0
+    18.30  Portimonense SC         v Sporting CP              1-3 (1-2)
+    20.30  Gil Vicente             v Sporting Braga           1-1 (0-1)
+    21.00  Vitória Guimarães       v FC Famalicão             1-1 (0-0)
+
+
+» Matchday 4
+  Fri Aug/30
+    19.00  Moreirense FC           v Portimonense SC          1-0 (1-0)
+    21.15  Belenenses SAD          v Boavista                 0-1 (0-0)
+  Sat Aug/31
+    16.30  Paços de Ferreira       v CS Marítimo              0-1 (0-0)
+           CD Aves                 v FC Famalicão             2-3 (1-1)
+    19.00  Sporting CP             v Rio Ave FC               2-3 (1-1)
+    21.30  Gil Vicente             v Vitória Setúbal          0-0
+  Sun Sep/1
+    16.00  CD Tondela              v CD Santa Clara           0-0
+    18.30  FC Porto                v Vitória Guimarães        3-0 (1-0)
+    21.00  Sporting Braga          v SL Benfica               0-4 (0-1)
+
+
+» Matchday 5
+  Fri Sep/13
+    20.30  Vitória Setúbal         v Sporting Braga           1-0 (0-0)
+  Sat Sep/14
+    16.30  FC Famalicão            v Paços de Ferreira        4-2 (1-0)
+    19.00  SL Benfica              v Gil Vicente              2-0 (1-0)
+    21.30  Vitória Guimarães       v CD Aves                  5-1 (2-1)
+  Sun Sep/15
+    16.00  CD Santa Clara          v Moreirense FC            2-0 (1-0)
+           Rio Ave FC              v CD Tondela               2-4 (1-2)
+           CS Marítimo             v Belenenses SAD           1-3 (0-2)
+    18.00  Portimonense SC         v FC Porto                 2-3 (0-2)
+    20.00  Boavista                v Sporting CP              1-1 (1-0)
+
+
+» Matchday 6
+  Fri Sep/20
+    20.30  Paços de Ferreira       v CD Aves                  2-1 (0-1)
+  Sat Sep/21
+    18.00  Belenenses SAD          v Rio Ave FC               0-2 (0-1)
+    20.30  Moreirense FC           v SL Benfica               1-2 (0-0)
+  Sun Sep/22
+    15.30  Gil Vicente             v Boavista                 0-0
+    18.00  CD Tondela              v Vitória Guimarães        1-3 (1-3)
+           Vitória Setúbal         v Portimonense SC          0-0
+    20.30  FC Porto                v CD Santa Clara           2-0 (2-0)
+  Mon Sep/23
+    19.00  Sporting Braga          v CS Marítimo              2-2 (0-1)
+    21.00  Sporting CP             v FC Famalicão             1-2 (1-0)
+
+
+» Matchday 7
+  Fri Sep/27
+    20.30  Boavista                v CD Tondela               0-0
+  Sat Sep/28
+    16.30  CS Marítimo             v Moreirense FC            2-1 (0-0)
+    19.00  SL Benfica              v Vitória Setúbal          1-0 (0-0)
+    21.30  FC Famalicão            v Belenenses SAD           3-1 (0-1)
+  Sun Sep/29
+    16.00  CD Santa Clara          v Gil Vicente              1-0 (0-0)
+           Vitória Guimarães       v Paços de Ferreira        1-0 (0-0)
+    18.00  Portimonense SC         v Sporting Braga           0-1 (0-1)
+    20.00  Rio Ave FC              v FC Porto                 0-1 (0-1)
+  Mon Sep/30
+    20.15  CD Aves                 v Sporting CP              0-1 (0-0)
+
+
+» Matchday 8
+  Fri Oct/25
+    20.30  Paços de Ferreira       v Rio Ave FC               0-0
+  Sat Oct/26
+    15.30  Gil Vicente             v Portimonense SC          1-1 (1-1)
+           Belenenses SAD          v CD Aves                  3-2 (2-2)
+    18.00  Vitória Setúbal         v CS Marítimo              0-0
+    20.30  Moreirense FC           v Boavista                 1-1 (1-0)
+  Sun Oct/27
+    15.00  CD Tondela              v SL Benfica               0-1 (0-1)
+    17.30  FC Porto                v FC Famalicão             3-0 (1-0)
+    20.00  Sporting CP             v Vitória Guimarães        3-1 (2-0)
+  Mon Oct/28
+    20.15  Sporting Braga          v CD Santa Clara           2-0 (1-0)
+
+
+» Matchday 9
+  Sat Oct/5
+    15.30  CD Aves                 v CD Tondela               0-1 (0-0)
+  Wed Oct/30
+    17.00  Rio Ave FC              v Moreirense FC            1-1 (0-1)
+    18.45  CS Marítimo             v FC Porto                 1-1 (1-0)
+    20.00  Vitória Guimarães       v Belenenses SAD           5-0 (2-0)
+    20.15  SL Benfica              v Portimonense SC          4-0 (1-0)
+    21.00  FC Famalicão            v Gil Vicente              2-1 (1-0)
+  Thu Oct/31
+    19.45  Paços de Ferreira       v Sporting CP              1-2 (0-1)
+    20.15  Boavista                v Sporting Braga           2-0 (1-0)
+           CD Santa Clara          v Vitória Setúbal          1-1 (1-1)
+
+
+» Matchday 10
+  Sat Nov/2
+    18.00  SL Benfica              v Rio Ave FC               2-0 (1-0)
+    20.30  Moreirense FC           v Vitória Guimarães        1-1 (0-0)
+  Sun Nov/3
+    15.00  Gil Vicente             v CS Marítimo              2-0 (0-0)
+    17.30  CD Tondela              v Sporting CP              1-0 (0-0)
+    20.00  FC Porto                v CD Aves                  1-0 (1-0)
+    20.15  Sporting Braga          v FC Famalicão             2-2 (0-0)
+  Mon Nov/4
+    19.00  Belenenses SAD          v Paços de Ferreira        1-0 (0-0)
+    21.00  Vitória Setúbal         v Boavista                 1-0 (0-0)
+           Portimonense SC         v CD Santa Clara           1-1 (1-0)
+
+
+» Matchday 11
+  Fri Nov/8
+    20.30  CD Aves                 v Gil Vicente              1-2 (1-2)
+  Sat Nov/9
+    15.30  Rio Ave FC              v Vitória Setúbal          1-0 (1-0)
+    18.00  CD Santa Clara          v SL Benfica               1-2 (1-0)
+    20.30  FC Famalicão            v Moreirense FC            3-3 (2-0)
+  Sun Nov/10
+    15.00  Paços de Ferreira       v CD Tondela               1-0 (1-0)
+           CS Marítimo             v Portimonense SC          1-1 (0-1)
+    18.30  Sporting CP             v Belenenses SAD           2-0 (0-0)
+    20.00  Vitória Guimarães       v Sporting Braga           0-2 (0-1)
+    21.00  Boavista                v FC Porto                 0-1 (0-1)
+
+
+» Matchday 12
+  Fri Nov/29
+    20.30  CD Santa Clara          v Boavista                 1-2 (0-2)
+  Sat Nov/30
+    15.30  Moreirense FC           v CD Aves                  3-2 (2-1)
+    18.00  SL Benfica              v CS Marítimo              4-0 (3-0)
+    20.30  Portimonense SC         v FC Famalicão             2-1 (1-0)
+  Sun Dec/1
+    15.00  CD Tondela              v Belenenses SAD           0-1 (0-0)
+    17.30  Vitória Setúbal         v Vitória Guimarães        1-1 (0-0)
+    20.00  Gil Vicente             v Sporting CP              3-1 (1-1)
+  Mon Dec/2
+    18.45  Sporting Braga          v Rio Ave FC               2-0 (1-0)
+    20.45  FC Porto                v Paços de Ferreira        2-0 (1-0)
+
+
+» Matchday 13
+  Fri Dec/6
+    20.30  Boavista                v SL Benfica               1-4 (1-1)
+  Sat Dec/7
+    15.00  CS Marítimo             v CD Santa Clara           2-2 (1-1)
+    18.00  FC Famalicão            v CD Tondela               2-3 (1-2)
+    20.30  CD Aves                 v Sporting Braga           1-0 (1-0)
+  Sun Dec/8
+    15.00  Paços de Ferreira       v Vitória Setúbal          2-3 (0-1)
+           Vitória Guimarães       v Portimonense SC          2-0 (1-0)
+    17.30  Sporting CP             v Moreirense FC            1-0 (0-0)
+    20.00  Belenenses SAD          v FC Porto                 1-1 (1-1)
+  Mon Dec/9
+    20.15  Rio Ave FC              v Gil Vicente              1-0 (0-0)
+
+
+» Matchday 14
+  Fri Dec/13
+    20.30  Portimonense SC         v Rio Ave FC               1-1 (0-1)
+  Sat Dec/14
+    15.30  CS Marítimo             v Boavista                 1-0 (1-0)
+    18.00  SL Benfica              v FC Famalicão             4-0 (1-0)
+    20.30  Vitória Setúbal         v CD Aves                  1-0 (0-0)
+  Sun Dec/15
+    15.00  Moreirense FC           v Belenenses SAD           2-1 (0-1)
+    17.30  Gil Vicente             v Vitória Guimarães        2-2 (2-0)
+    20.00  Sporting Braga          v Paços de Ferreira        0-1 (0-1)
+  Mon Dec/16
+    19.00  CD Santa Clara          v Sporting CP              0-4 (0-1)
+    20.15  FC Porto                v CD Tondela               3-0 (2-0)
+
+
+» Matchday 15
+  Sat Jan/4 2020
+    15.30  CD Aves                 v CD Santa Clara           0-1 (0-0)
+           Boavista                v Portimonense SC          1-1 (0-0)
+    18.00  Belenenses SAD          v Sporting Braga           1-7 (1-4)
+    20.30  Vitória Guimarães       v SL Benfica               0-1 (0-1)
+  Sun Jan/5
+    15.00  Paços de Ferreira       v Moreirense FC            1-0 (1-0)
+           CD Tondela              v Gil Vicente              1-1 (1-1)
+           Rio Ave FC              v CS Marítimo              0-1 (0-0)
+    17.30  Sporting CP             v FC Porto                 1-2 (1-1)
+    20.00  FC Famalicão            v Vitória Setúbal          3-0 (1-0)
+
+
+» Matchday 16
+  Fri Jan/10
+    19.00  CD Santa Clara          v Rio Ave FC               0-1 (0-0)
+           SL Benfica              v CD Aves                  2-1 (0-1)
+    21.15  Moreirense FC           v FC Porto                 2-4 (2-2)
+  Sat Jan/11
+    15.30  Portimonense SC         v Paços de Ferreira        0-0
+    18.00  Boavista                v FC Famalicão             0-1 (0-0)
+    20.30  Vitória Setúbal         v Sporting CP              1-3 (0-2)
+  Sun Jan/12
+    15.00  Gil Vicente             v Belenenses SAD           2-0 (0-0)
+    17.30  CS Marítimo             v Vitória Guimarães        0-0
+    20.00  Sporting Braga          v CD Tondela               2-1 (0-1)
+
+
+» Matchday 17
+  Fri Jan/17
+    19.00  FC Porto                v Sporting Braga           1-2 (0-1)
+    21.15  Sporting CP             v SL Benfica               0-2 (0-0)
+  Sat Jan/18
+    15.30  CD Aves                 v Portimonense SC          3-0 (0-0)
+           Vitória Guimarães       v CD Santa Clara           1-0 (0-0)
+    18.00  CD Tondela              v Moreirense FC            1-1 (0-0)
+    20.30  Belenenses SAD          v Vitória Setúbal          0-1 (0-1)
+  Sun Jan/19
+    15.00  Paços de Ferreira       v Gil Vicente              0-0
+    17.30  FC Famalicão            v CS Marítimo              1-1 (0-1)
+    20.00  Rio Ave FC              v Boavista                 2-0 (2-0)
+
+
+» Matchday 18
+  Sun Jan/26
+    15.00  CD Tondela              v Vitória Setúbal          0-3 (0-2)
+           FC Famalicão            v CD Santa Clara           0-1 (0-1)
+           Belenenses SAD          v Portimonense SC          2-1 (1-0)
+    17.30  Paços de Ferreira       v SL Benfica               0-2 (0-1)
+    20.00  CD Aves                 v Boavista                 0-1 (0-1)
+  Mon Jan/27
+    18.45  Vitória Guimarães       v Rio Ave FC               1-2 (0-2)
+    21.00  Sporting CP             v CS Marítimo              1-0 (0-0)
+  Tue Jan/28
+    20.15  FC Porto                v Gil Vicente              2-1 (1-1)
+  Wed Jan/29
+    20.15  Moreirense FC           v Sporting Braga           1-2 (0-2)
+
+
+» Matchday 19
+  Fri Jan/31
+    19.00  SL Benfica              v Belenenses SAD           3-2 (2-0)
+    21.15  Rio Ave FC              v FC Famalicão             2-2 (0-2)
+  Sat Feb/1
+    15.30  Portimonense SC         v CD Tondela               0-1 (0-1)
+    18.00  Vitória Setúbal         v FC Porto                 0-4 (0-2)
+  Sun Feb/2
+    15.00  CS Marítimo             v CD Aves                  1-2 (1-1)
+           Gil Vicente             v Moreirense FC            1-5 (0-2)
+    17.30  CD Santa Clara          v Paços de Ferreira        2-1 (0-0)
+           Sporting Braga          v Sporting CP              1-0 (0-0)
+    20.00  Boavista                v Vitória Guimarães        2-0 (1-0)
+
+
+» Matchday 20
+  Fri Feb/7
+    20.30  Paços de Ferreira       v Boavista                 0-1 (0-1)
+  Sat Feb/8
+    15.30  FC Famalicão            v Vitória Guimarães        0-7 (0-2)
+           Belenenses SAD          v CD Santa Clara           0-2 (0-2)
+    18.00  Sporting Braga          v Gil Vicente              2-2 (2-0)
+    20.30  FC Porto                v SL Benfica               3-2 (3-1)
+  Sun Feb/9
+    15.00  CD Tondela              v CS Marítimo              0-0
+           Moreirense FC           v Vitória Setúbal          1-1 (0-1)
+    17.30  Sporting CP             v Portimonense SC          2-1 (1-1)
+    20.00  CD Aves                 v Rio Ave FC               0-4 (0-1)
+
+
+» Matchday 21
+  Fri Feb/14
+    20.30  Vitória Setúbal         v Gil Vicente              1-2 (0-1)
+  Sat Feb/15
+    15.30  Portimonense SC         v Moreirense FC            1-1 (1-1)
+           CD Santa Clara          v CD Tondela               1-0 (0-0)
+    18.00  SL Benfica              v Sporting Braga           0-1 (0-1)
+    20.30  Rio Ave FC              v Sporting CP              1-1 (1-0)
+  Sun Feb/16
+    15.00  CS Marítimo             v Paços de Ferreira        3-0 (1-0)
+           Boavista                v Belenenses SAD           1-2 (0-1)
+    17.30  Vitória Guimarães       v FC Porto                 1-2 (0-1)
+    20.00  FC Famalicão            v CD Aves                  1-1 (0-0)
+
+
+» Matchday 22
+  Fri Feb/21
+    20.30  CD Aves                 v Vitória Guimarães        0-2 (0-0)
+  Sat Feb/22
+    18.00  CD Tondela              v Rio Ave FC               1-2 (0-0)
+    20.30  Belenenses SAD          v CS Marítimo              1-0 (1-0)
+  Sun Feb/23
+    15.00  Paços de Ferreira       v FC Famalicão             2-1 (0-0)
+           Moreirense FC           v CD Santa Clara           2-1 (1-1)
+    17.30  Sporting CP             v Boavista                 2-0 (2-0)
+    20.00  Sporting Braga          v Vitória Setúbal          3-1 (0-0)
+    20.30  FC Porto                v Portimonense SC          1-0 (0-0)
+  Mon Feb/24
+    19.30  Gil Vicente             v SL Benfica               0-1 (0-1)
+
+
+» Matchday 23
+  Fri Feb/28
+    20.30  Portimonense SC         v Vitória Setúbal          0-0
+  Sat Feb/29
+    18.00  Rio Ave FC              v Belenenses SAD           0-0
+    20.30  Boavista                v Gil Vicente              0-1 (0-0)
+  Sun Mar/1
+    15.00  CD Aves                 v Paços de Ferreira        1-3 (1-1)
+    17.30  CS Marítimo             v Sporting Braga           1-2 (0-1)
+    20.00  Vitória Guimarães       v CD Tondela               2-0 (2-0)
+  Mon Mar/2
+    19.30  CD Santa Clara          v FC Porto                 0-2 (0-1)
+    20.45  SL Benfica              v Moreirense FC            1-1 (0-0)
+  Tue Mar/3
+    20.00  FC Famalicão            v Sporting CP              3-1 (2-1)
+
+
+» Matchday 24
+  Fri Mar/6
+    20.30  Sporting Braga          v Portimonense SC          3-1 (2-0)
+  Sat Mar/7
+    15.30  CD Tondela              v Boavista                 1-1 (1-1)
+    18.00  Vitória Setúbal         v SL Benfica               1-1 (0-0)
+    20.30  FC Porto                v Rio Ave FC               1-1 (1-1)
+  Sun Mar/8
+    15.00  Belenenses SAD          v FC Famalicão             0-0
+           Moreirense FC           v CS Marítimo              2-0 (1-0)
+    17.00  Gil Vicente             v CD Santa Clara           1-1 (0-0)
+    17.30  Sporting CP             v CD Aves                  2-0 (0-0)
+    20.00  Paços de Ferreira       v Vitória Guimarães        1-2 (1-0)
+
+
+» Matchday 25
+  Wed Jun/3
+    19.00  Portimonense SC         v Gil Vicente              1-0 (0-0)
+    21.15  FC Famalicão            v FC Porto                 2-1 (0-0)
+  Thu Jun/4
+    18.00  CS Marítimo             v Vitória Setúbal          1-1 (1-0)
+    19.15  SL Benfica              v CD Tondela               0-0
+    21.15  Vitória Guimarães       v Sporting CP              2-2 (1-1)
+  Fri Jun/5
+    19.00  CD Santa Clara          v Sporting Braga           3-2 (1-1)
+    21.15  CD Aves                 v Belenenses SAD           0-2 (0-2)
+  Sat Jun/6
+    21.15  Boavista                v Moreirense FC            0-1 (0-0)
+  Sun Jun/7
+    21.00  Rio Ave FC              v Paços de Ferreira        2-3 (1-2)
+
+
+» Matchday 26
+  Tue Jun/9
+    21.00  Gil Vicente             v FC Famalicão             1-3 (0-2)
+  Wed Jun/10
+    17.00  Vitória Setúbal         v CD Santa Clara           2-2 (1-1)
+    19.15  Portimonense SC         v SL Benfica               2-2 (0-2)
+    21.30  FC Porto                v CS Marítimo              1-0 (1-0)
+  Thu Jun/11
+    19.00  Belenenses SAD          v Vitória Guimarães        1-1 (1-1)
+    21.15  CD Tondela              v CD Aves                  2-0 (1-0)
+  Fri Jun/12
+    19.00  Moreirense FC           v Rio Ave FC               0-1 (0-1)
+    21.15  Sporting CP             v Paços de Ferreira        1-0 (0-0)
+  Sat Jun/13
+    21.00  Sporting Braga          v Boavista                 0-1 (0-0)
+
+
+» Matchday 27
+  Mon Jun/15
+    19.00  CS Marítimo             v Gil Vicente              2-1 (2-1)
+  Tue Jun/16
+    19.00  CD Santa Clara          v Portimonense SC          1-1 (0-0)
+    21.15  CD Aves                 v FC Porto                 0-0
+  Wed Jun/17
+    19.00  Paços de Ferreira       v Belenenses SAD           2-1 (0-1)
+    21.15  Rio Ave FC              v SL Benfica               1-2 (1-0)
+  Thu Jun/18
+    19.00  Boavista                v Vitória Setúbal          3-1 (2-0)
+    21.15  Sporting CP             v CD Tondela               2-0 (2-0)
+  Fri Jun/19
+    19.00  Vitória Guimarães       v Moreirense FC            1-1 (1-0)
+    21.15  FC Famalicão            v Sporting Braga           0-0
+
+
+» Matchday 28
+  Sun Jun/21
+    21.00  Gil Vicente             v CD Aves                  3-0 (2-0)
+  Mon Jun/22
+    21.00  Portimonense SC         v CS Marítimo              3-2 (2-0)
+  Tue Jun/23
+    19.00  Vitória Setúbal         v Rio Ave FC               1-2 (1-1)
+    19.15  SL Benfica              v CD Santa Clara           3-4 (0-1)
+    21.15  FC Porto                v Boavista                 4-0 (0-0)
+  Wed Jun/24
+    19.00  CD Tondela              v Paços de Ferreira        1-3 (0-2)
+    21.15  Moreirense FC           v FC Famalicão             1-1 (0-0)
+  Thu Jun/25
+    21.00  Sporting Braga          v Vitória Guimarães        3-2 (2-2)
+  Fri Jun/26
+    19.15  Belenenses SAD          v Sporting CP              1-3 (1-3)
+
+
+» Matchday 29
+  Sun Jun/28
+    21.00  Boavista                v CD Santa Clara           1-0 (1-0)
+  Mon Jun/29
+    17.00  CD Aves                 v Moreirense FC            0-1 (0-0)
+    18.00  CS Marítimo             v SL Benfica               2-0 (0-0)
+    21.15  Paços de Ferreira       v FC Porto                 0-1 (0-1)
+  Tue Jun/30
+    17.00  FC Famalicão            v Portimonense SC          0-1 (0-1)
+    19.15  Vitória Guimarães       v Vitória Setúbal          2-0 (1-0)
+    21.30  Rio Ave FC              v Sporting Braga           4-3 (3-2)
+  Wed Jul/1
+    19.00  Belenenses SAD          v CD Tondela               1-1 (1-1)
+    21.15  Sporting CP             v Gil Vicente              2-1 (1-0)
+
+
+» Matchday 30
+  Fri Jul/3
+    19.15  CD Santa Clara          v CS Marítimo              0-1 (0-0)
+  Sat Jul/4
+    17.00  Vitória Setúbal         v Paços de Ferreira        2-3 (2-0)
+    19.15  Portimonense SC         v Vitória Guimarães        0-1 (0-0)
+    21.15  SL Benfica              v Boavista                 3-1 (3-0)
+    21.30  Sporting Braga          v CD Aves                  4-0 (0-0)
+  Sun Jul/5
+    17.00  Gil Vicente             v Rio Ave FC               1-0 (1-0)
+    19.15  CD Tondela              v FC Famalicão             0-1 (0-0)
+    21.30  FC Porto                v Belenenses SAD           5-0 (1-0)
+  Mon Jul/6
+    21.00  Moreirense FC           v Sporting CP              0-0
+
+
+» Matchday 31
+  Wed Jul/8
+    19.00  Boavista                v CS Marítimo              0-1 (0-1)
+    21.15  CD Aves                 v Vitória Setúbal          1-0 (1-0)
+  Thu Jul/9
+    17.00  Rio Ave FC              v Portimonense SC          2-1 (1-1)
+    19.15  CD Tondela              v FC Porto                 1-3 (0-0)
+    21.30  FC Famalicão            v SL Benfica               1-1 (0-1)
+  Fri Jul/10
+    17.00  Vitória Guimarães       v Gil Vicente              1-2 (0-0)
+    19.15  Sporting CP             v CD Santa Clara           1-0 (0-0)
+    21.30  Paços de Ferreira       v Sporting Braga           1-5 (0-3)
+  Sat Jul/11
+    19.15  Belenenses SAD          v Moreirense FC            0-1 (0-0)
+
+
+» Matchday 32
+  Mon Jul/13
+    19.00  CS Marítimo             v Rio Ave FC               0-0
+    21.15  Vitória Setúbal         v FC Famalicão             1-2 (1-1)
+  Tue Jul/14
+    17.00  CD Santa Clara          v CD Aves                  3-0 (2-0)
+    19.15  Portimonense SC         v Boavista                 2-1 (2-0)
+    21.30  Gil Vicente             v CD Tondela               3-2 (1-0)
+           SL Benfica              v Vitória Guimarães        2-0 (1-0)
+  Wed Jul/15
+    17.00  Moreirense FC           v Paços de Ferreira        1-1 (1-0)
+    19.15  Sporting Braga          v Belenenses SAD           1-1 (1-0)
+    21.30  FC Porto                v Sporting CP              2-0 (0-0)
+
+
+» Matchday 33
+  Sat Jul/18
+    19.00  Rio Ave FC              v CD Santa Clara           2-2 (1-1)
+    21.15  FC Famalicão            v Boavista                 2-2 (2-0)
+  Sun Jul/19
+    19.00  Belenenses SAD          v Gil Vicente              1-0 (0-0)
+    21.15  Vitória Guimarães       v CS Marítimo              1-0 (1-0)
+  Mon Jul/20
+    17.00  Paços de Ferreira       v Portimonense SC          2-1 (2-1)
+    19.15  CD Tondela              v Sporting Braga           1-0 (0-0)
+    21.15  FC Porto                v Moreirense FC            6-1 (1-1)
+  Tue Jul/21
+    19.00  Sporting CP             v Vitória Setúbal          0-0
+    21.15  CD Aves                 v SL Benfica               0-4 (0-1)
+
+
+» Matchday 34
+  Fri Jul/24
+    19.00  CD Santa Clara          v Vitória Guimarães        2-2 (2-1)
+    21.15  Gil Vicente             v Paços de Ferreira        3-3 (2-2)
+  Sat Jul/25
+    19.00  CS Marítimo             v FC Famalicão             3-3 (1-1)
+           Boavista                v Rio Ave FC               0-2 (0-1)
+    21.15  SL Benfica              v Sporting CP              2-1 (1-0)
+           Sporting Braga          v FC Porto                 2-1 (0-1)
+  Sun Jul/26
+    19.30  Portimonense SC         v CD Aves                  2-0 (0-0)
+           Vitória Setúbal         v Belenenses SAD           2-0 (1-0)
+           Moreirense FC           v CD Tondela               1-2 (0-1)

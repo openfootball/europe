@@ -1,0 +1,592 @@
+= French Ligue 2 2019/20
+
+# Date       Fri Jul/26 2019 - Fri May/15 2020 (294d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Jul/26 2019
+    20.00  AC Ajaccio              v Havre AC                 2-2 (1-0)
+           AS Nancy Lorraine       v US Orléans               0-0
+           Clermont Foot 63        v LB Châteauroux           3-0 (1-0)
+           EA Guingamp             v Grenoble Foot 38         3-3 (2-0)
+           FC Chambly              v Valenciennes FC          1-0 (0-0)
+           Chamois Niortais        v ESTAC Troyes             0-2 (0-1)
+           FC Sochaux              v SM Caen                  0-0
+           Rodez AF                v AJ Auxerre               2-0 (2-0)
+  Sat Jul/27
+    15.00  Le Mans FC              v RC Lens                  1-2 (1-0)
+  Mon Jul/29
+    20.45  FC Lorient              v Paris FC                 3-0 (1-0)
+
+
+» Matchday 2
+  Fri Aug/2
+    20.00  Havre AC                v Chamois Niortais         1-1 (0-1)
+           AJ Auxerre              v Le Mans FC               2-0 (0-0)
+           ESTAC Troyes            v Clermont Foot 63         1-2 (1-0)
+           Paris FC                v FC Sochaux               1-1 (1-0)
+           Valenciennes FC         v AS Nancy Lorraine        1-1 (1-0)
+           Grenoble Foot 38        v AC Ajaccio               0-1 (0-0)
+           LB Châteauroux          v Rodez AF                 0-0
+           US Orléans              v FC Chambly               0-1 (0-1)
+  Sat Aug/3
+    16.30  RC Lens                 v EA Guingamp              2-0 (0-0)
+  Mon Aug/5
+    20.45  SM Caen                 v FC Lorient               1-2 (0-2)
+
+
+» Matchday 3
+  Fri Aug/9
+    20.00  AC Ajaccio              v SM Caen                  1-2 (0-2)
+           AS Nancy Lorraine       v FC Lorient               1-1 (0-0)
+           EA Guingamp             v US Orléans               1-0 (1-0)
+           ESTAC Troyes            v Havre AC                 1-2 (0-1)
+           FC Chambly              v Grenoble Foot 38         0-0
+           Chamois Niortais        v LB Châteauroux           3-0 (1-0)
+           FC Sochaux              v AJ Auxerre               1-0 (0-0)
+           Le Mans FC              v Valenciennes FC          1-2 (0-0)
+           Rodez AF                v Paris FC                 2-1 (1-1)
+  Sat Aug/10
+    15.00  Clermont Foot 63        v RC Lens                  1-1 (0-0)
+
+
+» Matchday 4
+  Fri Aug/16
+    20.00  AS Nancy Lorraine       v Le Mans FC               2-1 (1-0)
+           FC Lorient              v FC Sochaux               1-0 (0-0)
+           Paris FC                v Chamois Niortais         0-1 (0-0)
+           Valenciennes FC         v Rodez AF                 1-0 (0-0)
+           Grenoble Foot 38        v ESTAC Troyes             1-1 (0-0)
+           LB Châteauroux          v AC Ajaccio               0-1 (0-1)
+           SM Caen                 v FC Chambly               0-0
+           US Orléans              v Clermont Foot 63         0-1 (0-1)
+  Sat Aug/17
+    15.00  RC Lens                 v Havre AC                 1-3 (0-0)
+  Mon Aug/19
+    20.45  AJ Auxerre              v EA Guingamp              2-2 (0-2)
+
+
+» Matchday 5
+  Fri Aug/23
+    20.00  AC Ajaccio              v Paris FC                 1-0 (0-0)
+           Havre AC                v Grenoble Foot 38         3-1 (2-1)
+           Clermont Foot 63        v AJ Auxerre               1-1 (1-0)
+           FC Chambly              v LB Châteauroux           0-0
+           Chamois Niortais        v SM Caen                  1-1 (0-1)
+           FC Sochaux              v AS Nancy Lorraine        3-0 (1-0)
+           Le Mans FC              v FC Lorient               1-2 (0-2)
+           Rodez AF                v US Orléans               3-3 (1-1)
+  Sat Aug/24
+    15.00  ESTAC Troyes            v RC Lens                  2-0 (1-0)
+  Mon Aug/26
+    20.45  EA Guingamp             v Valenciennes FC          0-1 (0-1)
+
+
+» Matchday 6
+  Fri Aug/30
+    20.00  AJ Auxerre              v AC Ajaccio               3-1 (0-0)
+           AS Nancy Lorraine       v Rodez AF                 1-1 (0-1)
+           Valenciennes FC         v Clermont Foot 63         1-0 (0-0)
+           LB Châteauroux          v ESTAC Troyes             0-1 (0-1)
+           Le Mans FC              v FC Sochaux               2-0 (1-0)
+           SM Caen                 v Havre AC                 0-3 (0-1)
+           US Orléans              v Chamois Niortais         0-1 (0-0)
+  Sat Aug/31
+    15.00  FC Lorient              v EA Guingamp              0-1 (0-0)
+  Mon Sep/2
+    19.00  Paris FC                v FC Chambly               0-3 (0-2)
+    20.45  Grenoble Foot 38        v RC Lens                  2-2 (1-1)
+
+
+» Matchday 7
+  Fri Sep/13
+    20.00  AC Ajaccio              v US Orléans               0-0
+           Havre AC                v Paris FC                 0-0
+           EA Guingamp             v AS Nancy Lorraine        1-1 (1-1)
+           ESTAC Troyes            v SM Caen                  2-1 (1-0)
+           FC Chambly              v AJ Auxerre               1-4 (0-0)
+           Chamois Niortais        v Grenoble Foot 38         0-1 (0-0)
+           FC Sochaux              v Valenciennes FC          0-0
+           Rodez AF                v Le Mans FC               4-1 (2-0)
+  Sat Sep/14
+    14.45  Clermont Foot 63        v FC Lorient               0-2 (0-2)
+  Mon Sep/16
+    20.45  RC Lens                 v LB Châteauroux           1-0 (0-0)
+
+
+» Matchday 8
+  Fri Sep/20
+    20.00  AJ Auxerre              v ESTAC Troyes             1-2 (1-1)
+           AS Nancy Lorraine       v FC Chambly               3-0 (1-0)
+           Paris FC                v Clermont Foot 63         0-2 (0-2)
+           FC Sochaux              v EA Guingamp              3-1 (2-1)
+           Valenciennes FC         v Chamois Niortais         1-1 (1-1)
+           LB Châteauroux          v Grenoble Foot 38         1-1 (1-0)
+           Le Mans FC              v AC Ajaccio               2-4 (0-0)
+           US Orléans              v Havre AC                 2-2 (1-1)
+  Sat Sep/21
+    15.00  SM Caen                 v RC Lens                  0-2 (0-1)
+  Mon Sep/23
+    20.45  FC Lorient              v Rodez AF                 2-1 (0-0)
+
+
+» Matchday 9
+  Fri Sep/27
+    20.00  AC Ajaccio              v Valenciennes FC          2-0 (2-0)
+           Havre AC                v LB Châteauroux           0-1 (0-0)
+           Clermont Foot 63        v AS Nancy Lorraine        2-2 (2-2)
+           ESTAC Troyes            v US Orléans               1-2 (1-1)
+           FC Chambly              v FC Lorient               0-1 (0-0)
+           Chamois Niortais        v AJ Auxerre               2-2 (1-0)
+           Grenoble Foot 38        v SM Caen                  1-0 (1-0)
+           Rodez AF                v FC Sochaux               0-2 (0-1)
+  Sat Sep/28
+    14.45  RC Lens                 v Paris FC                 2-1 (2-0)
+  Mon Sep/30
+    20.45  EA Guingamp             v Le Mans FC               3-0 (1-0)
+
+
+» Matchday 10
+  Fri Oct/4
+    20.00  AS Nancy Lorraine       v Chamois Niortais         2-1 (0-1)
+           EA Guingamp             v Rodez AF                 4-1 (2-1)
+           FC Lorient              v AC Ajaccio               0-0
+           Paris FC                v ESTAC Troyes             1-0 (1-0)
+           FC Sochaux              v Clermont Foot 63         4-0 (1-0)
+           Valenciennes FC         v Grenoble Foot 38         0-2 (0-1)
+           Le Mans FC              v FC Chambly               1-0 (0-0)
+           SM Caen                 v LB Châteauroux           1-1 (0-0)
+  Sat Oct/5
+    14.45  AJ Auxerre              v Havre AC                 2-0 (2-0)
+  Mon Oct/7
+    20.45  US Orléans              v RC Lens                  1-4 (1-0)
+
+
+» Matchday 11
+  Fri Oct/18
+    20.00  AC Ajaccio              v AS Nancy Lorraine        0-0
+           Clermont Foot 63        v Rodez AF                 0-1 (0-0)
+           ESTAC Troyes            v Le Mans FC               2-1 (1-1)
+           FC Chambly              v FC Sochaux               0-0
+           Chamois Niortais        v EA Guingamp              0-0
+           Grenoble Foot 38        v US Orléans               0-0
+           LB Châteauroux          v Paris FC                 0-1 (0-1)
+           SM Caen                 v Valenciennes FC          0-0
+  Sat Oct/19
+    15.00  Havre AC                v FC Lorient               2-2 (1-2)
+  Mon Oct/21
+    20.45  RC Lens                 v AJ Auxerre               0-0
+
+
+» Matchday 12
+  Fri Oct/25
+    20.00  AJ Auxerre              v Grenoble Foot 38         0-1 (0-1)
+           AS Nancy Lorraine       v RC Lens                  0-0
+           EA Guingamp             v Clermont Foot 63         1-2 (0-2)
+           Paris FC                v SM Caen                  2-4 (0-1)
+           FC Sochaux              v AC Ajaccio               0-2 (0-1)
+           Le Mans FC              v Chamois Niortais         1-0 (0-0)
+           US Orléans              v LB Châteauroux           1-1 (1-0)
+    20.30  Rodez AF                v FC Chambly               2-0 (1-0)
+  Sat Oct/26
+    15.00  FC Lorient              v ESTAC Troyes             0-1 (0-0)
+  Mon Oct/28
+    20.45  Valenciennes FC         v Havre AC                 0-0
+
+
+» Matchday 13
+  Fri Nov/1
+    20.00  AC Ajaccio              v Rodez AF                 1-0 (0-0)
+           ESTAC Troyes            v Valenciennes FC          1-0 (0-0)
+           FC Chambly              v EA Guingamp              1-5 (1-2)
+           LB Châteauroux          v AJ Auxerre               1-0 (0-0)
+           SM Caen                 v US Orléans               2-1 (1-0)
+  Sat Nov/2
+    15.00  Clermont Foot 63        v Le Mans FC               0-1 (0-1)
+           Chamois Niortais        v FC Sochaux               0-2 (0-0)
+           Grenoble Foot 38        v Paris FC                 0-0
+           RC Lens                 v FC Lorient               1-0 (0-0)
+  Mon Nov/4
+    20.45  Havre AC                v AS Nancy Lorraine        1-1 (1-0)
+
+
+» Matchday 14
+  Fri Nov/8
+    20.00  AJ Auxerre              v SM Caen                  1-1 (0-0)
+           AS Nancy Lorraine       v ESTAC Troyes             0-0
+           FC Chambly              v Clermont Foot 63         0-1 (0-0)
+           FC Lorient              v Chamois Niortais         4-1 (4-1)
+           FC Sochaux              v Havre AC                 2-0 (1-0)
+           Valenciennes FC         v LB Châteauroux           0-1 (0-0)
+           Le Mans FC              v Grenoble Foot 38         0-0
+           US Orléans              v Paris FC                 0-1 (0-1)
+  Sat Nov/9
+    14.45  EA Guingamp             v AC Ajaccio               1-1 (0-1)
+  Mon Nov/11
+    20.45  Rodez AF                v RC Lens                  1-2 (1-1)
+
+
+» Matchday 15
+  Fri Nov/22
+    20.00  AC Ajaccio              v Clermont Foot 63         1-1 (1-0)
+           ESTAC Troyes            v FC Chambly               0-4 (0-2)
+           Chamois Niortais        v Rodez AF                 2-1 (0-0)
+           Paris FC                v AJ Auxerre               2-0 (0-0)
+           Grenoble Foot 38        v AS Nancy Lorraine        1-1 (0-0)
+           LB Châteauroux          v FC Lorient               1-3 (1-0)
+           SM Caen                 v Le Mans FC               3-3 (2-1)
+           US Orléans              v Valenciennes FC          0-1 (0-1)
+  Sat Nov/23
+    15.00  RC Lens                 v FC Sochaux               4-0 (2-0)
+  Mon Nov/25
+    20.45  Havre AC                v EA Guingamp              4-0 (0-0)
+
+
+» Matchday 16
+  Fri Nov/29
+    20.00  AJ Auxerre              v US Orléans               2-2 (1-1)
+           AS Nancy Lorraine       v Paris FC                 2-0 (1-0)
+           Clermont Foot 63        v Chamois Niortais         1-0 (1-0)
+           EA Guingamp             v SM Caen                  1-1 (1-0)
+           FC Chambly              v AC Ajaccio               0-2 (0-1)
+           FC Lorient              v Grenoble Foot 38         2-1 (2-0)
+           Valenciennes FC         v RC Lens                  2-0 (1-0)
+           Le Mans FC              v LB Châteauroux           1-2 (1-0)
+           Rodez AF                v Havre AC                 1-2 (1-0)
+  Sat Nov/30
+    14.30  FC Sochaux              v ESTAC Troyes             0-1 (0-0)
+
+
+» Matchday 17
+  Mon Dec/2
+    20.45  SM Caen                 v AS Nancy Lorraine        1-0 (0-0)
+  Tue Dec/3
+    21.05  Havre AC                v Le Mans FC               2-0 (1-0)
+           AJ Auxerre              v Valenciennes FC          1-1 (1-0)
+           ESTAC Troyes            v Rodez AF                 1-0 (1-0)
+           Chamois Niortais        v AC Ajaccio               0-1 (0-1)
+           Paris FC                v EA Guingamp              0-3 (0-1)
+           Grenoble Foot 38        v Clermont Foot 63         1-1 (1-0)
+           LB Châteauroux          v FC Sochaux               1-1 (0-1)
+           RC Lens                 v FC Chambly               3-0 (1-0)
+           US Orléans              v FC Lorient               0-4 (0-2)
+
+
+» Matchday 18
+  Fri Dec/13
+    20.00  AS Nancy Lorraine       v LB Châteauroux           2-1 (0-1)
+           Clermont Foot 63        v Havre AC                 2-1 (1-1)
+           FC Chambly              v Chamois Niortais         3-2 (2-2)
+           FC Lorient              v AJ Auxerre               1-0 (0-0)
+           FC Sochaux              v Grenoble Foot 38         1-1 (0-0)
+           Valenciennes FC         v Paris FC                 1-0 (0-0)
+           Le Mans FC              v US Orléans               3-2 (1-2)
+           Rodez AF                v SM Caen                  2-1 (0-0)
+  Sat Dec/14
+    16.00  AC Ajaccio              v RC Lens                  1-2 (1-0)
+  Mon Dec/16
+    20.45  EA Guingamp             v ESTAC Troyes             0-1 (0-0)
+
+
+» Matchday 19
+  Fri Dec/20
+    20.00  Havre AC                v FC Chambly               1-1 (1-1)
+           AJ Auxerre              v AS Nancy Lorraine        0-0
+           Valenciennes FC         v FC Lorient               3-0 (1-0)
+           Grenoble Foot 38        v Rodez AF                 2-1 (1-0)
+           LB Châteauroux          v EA Guingamp              1-5 (0-2)
+           SM Caen                 v Clermont Foot 63         0-0
+           US Orléans              v FC Sochaux               1-0 (0-0)
+  Sat Dec/21
+    15.00  Paris FC                v Le Mans FC               0-3 (0-0)
+           RC Lens                 v Chamois Niortais         1-0 (0-0)
+    16.00  ESTAC Troyes            v AC Ajaccio               2-1 (1-0)
+
+
+» Matchday 20
+  Fri Jan/10 2020
+    20.00  AC Ajaccio              v Grenoble Foot 38         3-1 (1-1)
+           AS Nancy Lorraine       v Valenciennes FC          1-0 (1-0)
+           Clermont Foot 63        v ESTAC Troyes             3-2 (2-1)
+           FC Chambly              v US Orléans               1-0 (1-0)
+           Chamois Niortais        v Havre AC                 0-1 (0-1)
+           FC Sochaux              v Paris FC                 1-1 (0-1)
+           Le Mans FC              v AJ Auxerre               0-1 (0-1)
+           Rodez AF                v LB Châteauroux           1-2 (0-1)
+  Mon Jan/13
+    20.45  FC Lorient              v SM Caen                  2-1 (1-1)
+  Sat Jan/18
+    18.30  EA Guingamp             v RC Lens                  1-1 (0-0)
+
+
+» Matchday 21
+  Fri Jan/24
+    20.00  AJ Auxerre              v FC Sochaux               2-1 (1-1)
+           FC Lorient              v AS Nancy Lorraine        2-1 (1-0)
+           Paris FC                v Rodez AF                 0-0
+           Valenciennes FC         v Le Mans FC               1-0 (1-0)
+           Grenoble Foot 38        v FC Chambly               0-0
+           LB Châteauroux          v Chamois Niortais         1-1 (1-1)
+           SM Caen                 v AC Ajaccio               0-1 (0-0)
+           US Orléans              v EA Guingamp              2-0 (2-0)
+  Sat Jan/25
+    15.00  RC Lens                 v Clermont Foot 63         1-1 (0-0)
+  Mon Jan/27
+    20.45  Havre AC                v ESTAC Troyes             1-0 (1-0)
+
+
+» Matchday 22
+  Fri Jan/31
+    20.00  AC Ajaccio              v LB Châteauroux           0-1 (0-1)
+           Havre AC                v RC Lens                  0-0
+           Clermont Foot 63        v US Orléans               3-1 (0-0)
+           EA Guingamp             v AJ Auxerre               1-0 (0-0)
+           ESTAC Troyes            v Grenoble Foot 38         1-2 (0-1)
+           FC Chambly              v SM Caen                  0-1 (0-0)
+           Chamois Niortais        v Paris FC                 4-4 (3-2)
+           Le Mans FC              v AS Nancy Lorraine        1-1 (0-0)
+           Rodez AF                v Valenciennes FC          1-1 (1-0)
+  Sat Feb/1
+    15.30  FC Sochaux              v FC Lorient               0-4 (0-2)
+
+
+» Matchday 23
+  Mon Feb/3
+    20.45  Grenoble Foot 38        v Havre AC                 1-1 (0-0)
+  Tue Feb/4
+    21.05  AJ Auxerre              v Clermont Foot 63         0-0
+           AS Nancy Lorraine       v FC Sochaux               1-1 (1-0)
+           FC Lorient              v Le Mans FC               4-2 (1-1)
+           Paris FC                v AC Ajaccio               2-3 (2-2)
+           Valenciennes FC         v EA Guingamp              0-0
+           LB Châteauroux          v FC Chambly               0-3 (0-1)
+           RC Lens                 v ESTAC Troyes             1-0 (0-0)
+           SM Caen                 v Chamois Niortais         4-3 (0-1)
+           US Orléans              v Rodez AF                 1-2 (0-0)
+
+
+» Matchday 24
+  Fri Feb/7
+    20.00  AC Ajaccio              v AJ Auxerre               2-3 (2-3)
+           Havre AC                v SM Caen                  1-1 (1-0)
+           Clermont Foot 63        v Valenciennes FC          3-1 (2-1)
+           ESTAC Troyes            v LB Châteauroux           2-0 (2-0)
+           FC Chambly              v Paris FC                 1-2 (0-1)
+           Chamois Niortais        v US Orléans               2-0 (0-0)
+           FC Sochaux              v Le Mans FC               1-0 (1-0)
+           Rodez AF                v AS Nancy Lorraine        1-1 (0-1)
+  Sat Feb/8
+    15.00  EA Guingamp             v FC Lorient               2-1 (1-1)
+  Mon Feb/10
+    20.45  RC Lens                 v Grenoble Foot 38         0-0
+
+
+» Matchday 25
+  Fri Feb/14
+    20.00  AJ Auxerre              v FC Chambly               0-0
+           Paris FC                v Havre AC                 1-0 (1-0)
+           Valenciennes FC         v FC Sochaux               3-2 (0-2)
+           Grenoble Foot 38        v Chamois Niortais         3-1 (1-0)
+           Le Mans FC              v Rodez AF                 0-0
+           SM Caen                 v ESTAC Troyes             0-1 (0-0)
+           US Orléans              v AC Ajaccio               0-3 (0-1)
+  Sat Feb/15
+    15.00  AS Nancy Lorraine       v EA Guingamp              0-1 (0-0)
+           FC Lorient              v Clermont Foot 63         0-1 (0-0)
+  Mon Feb/17
+    20.45  LB Châteauroux          v RC Lens                  3-2 (1-0)
+
+
+» Matchday 26
+  Fri Feb/21
+    20.00  AC Ajaccio              v Le Mans FC               2-0 (1-0)
+           Havre AC                v US Orléans               1-2 (1-1)
+           Clermont Foot 63        v Paris FC                 0-1 (0-0)
+           EA Guingamp             v FC Sochaux               1-1 (0-1)
+           FC Chambly              v AS Nancy Lorraine        2-1 (0-1)
+           Chamois Niortais        v Valenciennes FC          1-0 (0-0)
+           Grenoble Foot 38        v LB Châteauroux           0-1 (0-0)
+           Rodez AF                v FC Lorient               0-1 (0-1)
+  Sat Feb/22
+    15.00  RC Lens                 v SM Caen                  1-4 (1-2)
+  Mon Feb/24
+    20.45  ESTAC Troyes            v AJ Auxerre               3-1 (2-1)
+
+
+» Matchday 27
+  Fri Feb/28
+    20.00  AJ Auxerre              v Chamois Niortais         3-1 (1-0)
+           AS Nancy Lorraine       v Clermont Foot 63         1-2 (0-0)
+           FC Sochaux              v Rodez AF                 1-1 (0-0)
+           Valenciennes FC         v AC Ajaccio               0-0
+           LB Châteauroux          v Havre AC                 0-3 (0-2)
+           Le Mans FC              v EA Guingamp              2-1 (1-0)
+           SM Caen                 v Grenoble Foot 38         2-0 (2-0)
+           US Orléans              v ESTAC Troyes             0-2 (0-1)
+  Sat Feb/29
+    15.00  FC Lorient              v FC Chambly               1-2 (1-2)
+  Mon Mar/2
+    20.45  Paris FC                v RC Lens                  0-2 (0-1)
+
+
+» Matchday 28
+  Fri Mar/6
+    20.00  Havre AC                v AJ Auxerre               1-0 (0-0)
+           Clermont Foot 63        v FC Sochaux               2-0 (1-0)
+           ESTAC Troyes            v Paris FC                 1-1 (1-1)
+           FC Chambly              v Le Mans FC               2-2 (0-1)
+           Chamois Niortais        v AS Nancy Lorraine        1-1 (1-0)
+           Grenoble Foot 38        v Valenciennes FC          1-3 (0-2)
+           LB Châteauroux          v SM Caen                  2-1 (1-1)
+           Rodez AF                v EA Guingamp              2-1 (1-0)
+  Sat Mar/7
+    15.00  AC Ajaccio              v FC Lorient               1-0 (0-0)
+  Mon Mar/9
+    20.45  RC Lens                 v US Orléans               1-0 (0-0)
+
+
+» Matchday 29
+  Fri Mar/13
+           AS Nancy Lorraine       v AC Ajaccio               [cancelled]
+           EA Guingamp             v Chamois Niortais         [cancelled]
+           Paris FC                v LB Châteauroux           [cancelled]
+           FC Sochaux              v FC Chambly               [cancelled]
+           Valenciennes FC         v SM Caen                  [cancelled]
+           Le Mans FC              v ESTAC Troyes             [cancelled]
+           Rodez AF                v Clermont Foot 63         [cancelled]
+           US Orléans              v Grenoble Foot 38         [cancelled]
+  Sat Mar/14
+           AJ Auxerre              v RC Lens                  [cancelled]
+  Mon Mar/16
+           FC Lorient              v Havre AC                 [cancelled]
+
+
+» Matchday 30
+  Fri Mar/20
+           AC Ajaccio              v FC Sochaux               [cancelled]
+           Havre AC                v Valenciennes FC          [cancelled]
+           Clermont Foot 63        v EA Guingamp              [cancelled]
+           FC Chambly              v Rodez AF                 [cancelled]
+           Chamois Niortais        v Le Mans FC               [cancelled]
+           Grenoble Foot 38        v AJ Auxerre               [cancelled]
+           LB Châteauroux          v US Orléans               [cancelled]
+           SM Caen                 v Paris FC                 [cancelled]
+  Sat Mar/21
+           ESTAC Troyes            v FC Lorient               [cancelled]
+  Mon Mar/23
+           RC Lens                 v AS Nancy Lorraine        [cancelled]
+
+
+» Matchday 31
+  Fri Apr/3
+           AJ Auxerre              v LB Châteauroux           [cancelled]
+           AS Nancy Lorraine       v Havre AC                 [cancelled]
+           EA Guingamp             v FC Chambly               [cancelled]
+           FC Lorient              v RC Lens                  [cancelled]
+           Paris FC                v Grenoble Foot 38         [cancelled]
+           FC Sochaux              v Chamois Niortais         [cancelled]
+           Valenciennes FC         v ESTAC Troyes             [cancelled]
+           Le Mans FC              v Clermont Foot 63         [cancelled]
+           Rodez AF                v AC Ajaccio               [cancelled]
+           US Orléans              v SM Caen                  [cancelled]
+
+
+» Matchday 32
+  Fri Apr/10
+           AC Ajaccio              v EA Guingamp              [cancelled]
+           Havre AC                v FC Sochaux               [cancelled]
+           Clermont Foot 63        v FC Chambly               [cancelled]
+           ESTAC Troyes            v AS Nancy Lorraine        [cancelled]
+           Chamois Niortais        v FC Lorient               [cancelled]
+           Paris FC                v US Orléans               [cancelled]
+           Grenoble Foot 38        v Le Mans FC               [cancelled]
+           LB Châteauroux          v Valenciennes FC          [cancelled]
+           RC Lens                 v Rodez AF                 [cancelled]
+           SM Caen                 v AJ Auxerre               [cancelled]
+
+
+» Matchday 33
+  Fri Apr/17
+           AJ Auxerre              v Paris FC                 [cancelled]
+           AS Nancy Lorraine       v Grenoble Foot 38         [cancelled]
+           Clermont Foot 63        v AC Ajaccio               [cancelled]
+           EA Guingamp             v Havre AC                 [cancelled]
+           FC Chambly              v ESTAC Troyes             [cancelled]
+           FC Lorient              v LB Châteauroux           [cancelled]
+           FC Sochaux              v RC Lens                  [cancelled]
+           Valenciennes FC         v US Orléans               [cancelled]
+           Le Mans FC              v SM Caen                  [cancelled]
+           Rodez AF                v Chamois Niortais         [cancelled]
+
+
+» Matchday 34
+  Tue Apr/21
+           AC Ajaccio              v FC Chambly               [cancelled]
+           Havre AC                v Rodez AF                 [cancelled]
+           ESTAC Troyes            v FC Sochaux               [cancelled]
+           Chamois Niortais        v Clermont Foot 63         [cancelled]
+           Paris FC                v AS Nancy Lorraine        [cancelled]
+           Grenoble Foot 38        v FC Lorient               [cancelled]
+           LB Châteauroux          v Le Mans FC               [cancelled]
+           RC Lens                 v Valenciennes FC          [cancelled]
+           SM Caen                 v EA Guingamp              [cancelled]
+           US Orléans              v AJ Auxerre               [cancelled]
+
+
+» Matchday 35
+  Fri Apr/24
+           AC Ajaccio              v Chamois Niortais         [cancelled]
+           AS Nancy Lorraine       v SM Caen                  [cancelled]
+           Clermont Foot 63        v Grenoble Foot 38         [cancelled]
+           EA Guingamp             v Paris FC                 [cancelled]
+           FC Chambly              v RC Lens                  [cancelled]
+           FC Lorient              v US Orléans               [cancelled]
+           FC Sochaux              v LB Châteauroux           [cancelled]
+           Valenciennes FC         v AJ Auxerre               [cancelled]
+           Le Mans FC              v Havre AC                 [cancelled]
+           Rodez AF                v ESTAC Troyes             [cancelled]
+
+
+» Matchday 36
+  Fri May/1
+           Havre AC                v Clermont Foot 63         [cancelled]
+           AJ Auxerre              v FC Lorient               [cancelled]
+           ESTAC Troyes            v EA Guingamp              [cancelled]
+           Chamois Niortais        v FC Chambly               [cancelled]
+           Paris FC                v Valenciennes FC          [cancelled]
+           Grenoble Foot 38        v FC Sochaux               [cancelled]
+           LB Châteauroux          v AS Nancy Lorraine        [cancelled]
+           RC Lens                 v AC Ajaccio               [cancelled]
+           SM Caen                 v Rodez AF                 [cancelled]
+           US Orléans              v Le Mans FC               [cancelled]
+
+
+» Matchday 37
+  Fri May/8
+           AC Ajaccio              v ESTAC Troyes             [cancelled]
+           AS Nancy Lorraine       v AJ Auxerre               [cancelled]
+           Clermont Foot 63        v SM Caen                  [cancelled]
+           EA Guingamp             v LB Châteauroux           [cancelled]
+           FC Chambly              v Havre AC                 [cancelled]
+           Chamois Niortais        v RC Lens                  [cancelled]
+           FC Lorient              v Valenciennes FC          [cancelled]
+           FC Sochaux              v US Orléans               [cancelled]
+           Le Mans FC              v Paris FC                 [cancelled]
+           Rodez AF                v Grenoble Foot 38         [cancelled]
+
+
+» Matchday 38
+  Fri May/15
+           Havre AC                v AC Ajaccio               [cancelled]
+           AJ Auxerre              v Rodez AF                 [cancelled]
+           ESTAC Troyes            v Chamois Niortais         [cancelled]
+           Paris FC                v FC Lorient               [cancelled]
+           Valenciennes FC         v FC Chambly               [cancelled]
+           Grenoble Foot 38        v EA Guingamp              [cancelled]
+           LB Châteauroux          v Clermont Foot 63         [cancelled]
+           RC Lens                 v Le Mans FC               [cancelled]
+           SM Caen                 v FC Sochaux               [cancelled]
+           US Orléans              v AS Nancy Lorraine        [cancelled]

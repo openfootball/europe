@@ -1,0 +1,372 @@
+= Swiss Challenge League 2020/21
+
+# Date       Fri Sep/18 2020 - Thu May/20 2021 (244d)
+# Teams      10
+# Matches    180
+
+
+
+» Matchday 1
+  Fri Sep/18 2020
+    19.00  FC Thun                 v Stade Lausanne-Ouchy     2-2 (2-0)
+    20.00  Grasshopper Club Zürich v FC Winterthur            3-2 (2-1)
+  Sat Sep/19
+    17.00  FC Schaffhausen         v FC Chiasso               5-2 (3-0)
+    17.30  SC Kriens               v Neuchâtel Xamax FCS      3-1 (2-0)
+    18.30  FC Aarau                v FC Wil 1900              1-3 (1-0)
+
+
+» Matchday 2
+  Fri Sep/25
+    19.00  Neuchâtel Xamax FCS     v FC Schaffhausen          0-3 (0-2)
+    20.00  FC Winterthur           v FC Aarau                 5-2 (3-1)
+  Sat Sep/26
+    17.30  FC Wil 1900             v FC Thun                  3-1 (0-1)
+    18.00  Stade Lausanne-Ouchy    v SC Kriens                2-1 (0-0)
+  Sun Sep/27
+    16.00  FC Chiasso              v Grasshopper Club Zürich  0-2 (0-0)
+
+
+» Matchday 3
+  Fri Oct/2
+    20.00  FC Thun                 v Neuchâtel Xamax FCS      1-3 (0-1)
+  Sat Oct/3
+    17.30  SC Kriens               v FC Winterthur            0-2 (0-2)
+    18.30  FC Aarau                v FC Chiasso               2-1 (2-0)
+    19.00  Grasshopper Club Zürich v FC Wil 1900              3-0 (1-0)
+  Sun Oct/4
+    14.45  FC Schaffhausen         v Stade Lausanne-Ouchy     1-3 (0-0)
+
+
+» Matchday 4
+  Fri Oct/16
+    19.00  Stade Lausanne-Ouchy    v FC Aarau                 1-1 (1-0)
+    19.30  FC Chiasso              v FC Thun                  0-2 (0-0)
+    20.00  FC Wil 1900             v SC Kriens                0-1 (0-0)
+           FC Winterthur           v FC Schaffhausen          2-2 (2-1)
+           Neuchâtel Xamax FCS     v Grasshopper Club Zürich  1-0 (1-0)
+
+
+» Matchday 5
+  Mon Oct/19
+    20.00  FC Schaffhausen         v FC Aarau                 1-2 (0-0)
+  Tue Oct/20
+    19.00  FC Thun                 v FC Winterthur            0-1 (0-0)
+           Stade Lausanne-Ouchy    v FC Chiasso               4-1 (3-0)
+           Neuchâtel Xamax FCS     v FC Wil 1900              2-1 (2-0)
+    19.30  SC Kriens               v Grasshopper Club Zürich  5-2 (1-1)
+
+
+» Matchday 6
+  Fri Oct/23
+    20.00  SC Kriens               v FC Thun                  1-2 (0-1)
+  Sat Oct/24
+    17.30  FC Wil 1900             v Stade Lausanne-Ouchy     0-0
+    18.30  FC Aarau                v Neuchâtel Xamax FCS      3-1 (2-0)
+    19.00  Grasshopper Club Zürich v FC Schaffhausen          2-1 (1-0)
+  Wed Dec/2
+    19.00  FC Winterthur           v FC Chiasso               2-0 (1-0)
+
+
+» Matchday 7
+  Thu Oct/29
+    20.00  Stade Lausanne-Ouchy    v Grasshopper Club Zürich  1-2 (0-0)
+  Fri Oct/30
+    20.00  FC Thun                 v FC Aarau                 1-0 (0-0)
+  Sat Oct/31
+    17.30  FC Chiasso              v FC Wil 1900              1-1 (0-0)
+    19.00  FC Schaffhausen         v SC Kriens                3-1 (1-0)
+  Tue Dec/22
+    19.00  Neuchâtel Xamax FCS     v FC Winterthur            2-0 (1-0)
+
+
+» Matchday 8
+  Mon Nov/2
+    20.00  Grasshopper Club Zürich v FC Thun                  1-1 (0-0)
+  Tue Nov/3
+    19.30  FC Aarau                v SC Kriens                2-2 (1-1)
+    20.00  FC Wil 1900             v FC Schaffhausen          1-1 (0-0)
+  Tue Nov/24
+    19.00  FC Chiasso              v Neuchâtel Xamax FCS      3-2 (1-0)
+           FC Winterthur           v Stade Lausanne-Ouchy     2-1 (1-0)
+
+
+» Matchday 9
+  Sat Nov/7
+    17.30  SC Kriens               v FC Chiasso               0-0
+  Sun Nov/8
+    14.45  FC Schaffhausen         v FC Thun                  1-1 (0-0)
+  Mon Nov/23
+    20.00  FC Aarau                v Grasshopper Club Zürich  0-1 (0-1)
+  Tue Dec/1
+    19.00  Neuchâtel Xamax FCS     v Stade Lausanne-Ouchy     0-1 (0-0)
+  Tue Dec/8
+    20.00  FC Wil 1900             v FC Winterthur            1-0 (0-0)
+
+
+» Matchday 10
+  Fri Nov/20
+    19.00  Stade Lausanne-Ouchy    v FC Schaffhausen          2-2 (0-0)
+    20.00  FC Winterthur           v SC Kriens                1-1 (1-1)
+  Sat Nov/21
+    18.15  FC Thun                 v FC Wil 1900              3-0 (1-0)
+  Mon Dec/7
+    20.00  Grasshopper Club Zürich v Neuchâtel Xamax FCS      3-0 (1-0)
+  Tue Dec/8
+    19.00  FC Chiasso              v FC Aarau                 0-2 (0-0)
+
+
+» Matchday 11
+  Fri Nov/27
+    19.00  FC Aarau                v FC Winterthur            3-1 (1-1)
+           SC Kriens               v Stade Lausanne-Ouchy     0-2 (0-2)
+    20.00  FC Schaffhausen         v Neuchâtel Xamax FCS      2-0 (2-0)
+           FC Wil 1900             v Grasshopper Club Zürich  1-1 (1-0)
+  Sat Nov/28
+    18.15  FC Thun                 v FC Chiasso               3-0 (0-0)
+
+
+» Matchday 12
+  Fri Dec/4
+    20.00  Grasshopper Club Zürich v SC Kriens                2-0 (1-0)
+           Neuchâtel Xamax FCS     v FC Aarau                 2-4 (1-2)
+  Sat Dec/5
+    18.15  FC Thun                 v FC Winterthur            0-0
+  Tue Dec/22
+    18.15  FC Chiasso              v FC Schaffhausen          0-2 (0-1)
+           Stade Lausanne-Ouchy    v FC Wil 1900              1-0 (1-0)
+
+
+» Matchday 13
+  Fri Dec/11
+    19.00  FC Aarau                v Stade Lausanne-Ouchy     3-3 (0-1)
+           SC Kriens               v FC Schaffhausen          1-1 (1-0)
+    20.00  FC Thun                 v Grasshopper Club Zürich  3-1 (1-0)
+           FC Wil 1900             v FC Chiasso               0-3 (0-1)
+           FC Winterthur           v Neuchâtel Xamax FCS      4-0 (0-0)
+
+
+» Matchday 14
+  Tue Dec/15
+    20.00  FC Schaffhausen         v FC Wil 1900              1-0 (0-0)
+           Grasshopper Club Zürich v FC Chiasso               2-1 (1-0)
+           Stade Lausanne-Ouchy    v FC Winterthur            1-1 (0-0)
+           Neuchâtel Xamax FCS     v FC Thun                  1-2 (0-1)
+           SC Kriens               v FC Aarau                 1-3 (0-1)
+
+
+» Matchday 15
+  Fri Dec/18
+    19.00  FC Chiasso              v SC Kriens                3-2 (1-1)
+           Stade Lausanne-Ouchy    v Neuchâtel Xamax FCS      1-0 (0-0)
+    20.00  FC Schaffhausen         v Grasshopper Club Zürich  2-1 (1-1)
+           FC Winterthur           v FC Wil 1900              3-2 (2-1)
+  Sat Dec/19
+    18.15  FC Aarau                v FC Thun                  3-1 (1-0)
+
+
+» Matchday 16
+  Fri Jan/22 2021
+    19.00  Neuchâtel Xamax FCS     v SC Kriens                0-1 (0-0)
+    20.00  Grasshopper Club Zürich v Stade Lausanne-Ouchy     2-0 (0-0)
+  Sat Jan/23
+    17.00  FC Chiasso              v FC Winterthur            0-3 (0-2)
+    18.15  FC Thun                 v FC Schaffhausen          3-1 (2-0)
+           FC Wil 1900             v FC Aarau                 3-1 (1-0)
+
+
+» Matchday 17
+  Fri Jan/29
+    19.00  Stade Lausanne-Ouchy    v FC Thun                  1-3 (0-2)
+           Neuchâtel Xamax FCS     v FC Chiasso               2-0 (0-0)
+           SC Kriens               v FC Wil 1900              1-2 (0-0)
+    20.00  FC Schaffhausen         v FC Winterthur            1-0 (0-0)
+  Tue Feb/16
+    18.00  Grasshopper Club Zürich v FC Aarau                 2-1 (0-1)
+
+
+» Matchday 18
+  Tue Feb/2
+    19.00  FC Aarau                v FC Schaffhausen          1-2 (1-0)
+           FC Chiasso              v Stade Lausanne-Ouchy     0-0
+           FC Thun                 v SC Kriens                2-0 (1-0)
+    20.00  FC Wil 1900             v Neuchâtel Xamax FCS      1-0 (0-0)
+  Tue Feb/9
+    20.00  FC Winterthur           v Grasshopper Club Zürich  2-3 (2-1)
+
+
+» Matchday 19
+  Fri Feb/5
+    19.00  SC Kriens               v FC Aarau                 0-0
+           Stade Lausanne-Ouchy    v FC Winterthur            4-1 (0-0)
+    20.00  Neuchâtel Xamax FCS     v FC Thun                  0-3 (0-2)
+           FC Schaffhausen         v FC Wil 1900              1-1 (1-0)
+  Sat Feb/6
+    18.15  Grasshopper Club Zürich v FC Chiasso               1-1 (0-0)
+
+
+» Matchday 20
+  Fri Feb/12
+    20.00  FC Wil 1900             v Stade Lausanne-Ouchy     2-0 (1-0)
+           FC Thun                 v Grasshopper Club Zürich  0-2 (0-1)
+  Sat Feb/13
+    18.15  FC Chiasso              v FC Schaffhausen          1-1 (0-0)
+  Tue Feb/23
+    18.15  FC Aarau                v Neuchâtel Xamax FCS      4-0 (2-0)
+           FC Winterthur           v SC Kriens                0-0
+
+
+» Matchday 21
+  Fri Feb/19
+    19.00  Stade Lausanne-Ouchy    v FC Aarau                 1-1 (1-0)
+    20.00  FC Schaffhausen         v FC Thun                  4-0 (3-0)
+           FC Wil 1900             v Grasshopper Club Zürich  1-1 (0-0)
+  Sat Feb/20
+    18.15  Neuchâtel Xamax FCS     v FC Winterthur            3-1 (0-0)
+           SC Kriens               v FC Chiasso               2-0 (0-0)
+
+
+» Matchday 22
+  Fri Feb/26
+    19.00  FC Chiasso              v FC Wil 1900              1-0 (1-0)
+           SC Kriens               v Neuchâtel Xamax FCS      1-1 (0-0)
+    20.00  FC Thun                 v Stade Lausanne-Ouchy     0-2 (0-0)
+           FC Aarau                v FC Winterthur            0-0
+  Sat Feb/27
+    18.15  Grasshopper Club Zürich v FC Schaffhausen          1-1 (0-0)
+
+
+» Matchday 23
+  Tue Mar/2
+    19.00  FC Aarau                v FC Thun                  4-2 (2-0)
+           Neuchâtel Xamax FCS     v FC Chiasso               2-1 (0-1)
+    20.00  FC Schaffhausen         v SC Kriens                2-0 (2-0)
+           Stade Lausanne-Ouchy    v Grasshopper Club Zürich  1-1 (1-1)
+           FC Wil 1900             v FC Winterthur            1-1 (0-0)
+
+
+» Matchday 24
+  Fri Mar/5
+    19.00  FC Chiasso              v FC Aarau                 2-0 (1-0)
+           FC Schaffhausen         v Stade Lausanne-Ouchy     1-3 (0-1)
+    20.00  Grasshopper Club Zürich v FC Winterthur            0-1 (0-0)
+           FC Wil 1900             v Neuchâtel Xamax FCS      1-0 (0-0)
+  Sat Mar/6
+    18.15  FC Thun                 v SC Kriens                1-0 (0-0)
+
+
+» Matchday 25
+  Fri Mar/12
+    19.00  Neuchâtel Xamax FCS     v FC Schaffhausen          3-0 (1-0)
+    20.00  SC Kriens               v Grasshopper Club Zürich  1-2 (0-1)
+           FC Winterthur           v FC Thun                  2-3 (0-2)
+  Sat Mar/13
+    18.15  Stade Lausanne-Ouchy    v FC Chiasso               3-0 (1-0)
+           FC Aarau                v FC Wil 1900              3-0 (1-0)
+
+
+» Matchday 26
+  Fri Mar/19
+    19.00  FC Chiasso              v FC Thun                  1-1 (1-1)
+           FC Schaffhausen         v FC Winterthur            3-3 (2-2)
+    20.00  Grasshopper Club Zürich v FC Aarau                 4-1 (3-0)
+           Neuchâtel Xamax FCS     v Stade Lausanne-Ouchy     0-0
+  Sat Mar/20
+    18.15  FC Wil 1900             v SC Kriens                0-2 (0-1)
+
+
+» Matchday 27
+  Sat Apr/3
+    16.00  FC Aarau                v FC Schaffhausen          1-0 (1-0)
+    18.15  Grasshopper Club Zürich v Neuchâtel Xamax FCS      1-4 (0-2)
+           SC Kriens               v Stade Lausanne-Ouchy     1-1 (0-1)
+           FC Thun                 v FC Wil 1900              3-1 (0-0)
+           FC Winterthur           v FC Chiasso               0-1 (0-1)
+
+
+» Matchday 28
+  Fri Apr/9
+    19.00  FC Chiasso              v SC Kriens                0-0
+    20.00  FC Schaffhausen         v Grasshopper Club Zürich  0-2 (0-2)
+           Stade Lausanne-Ouchy    v FC Thun                  2-3 (0-2)
+  Sat Apr/10
+    18.15  Neuchâtel Xamax FCS     v FC Aarau                 0-1 (0-0)
+           FC Winterthur           v FC Wil 1900              1-0 (1-0)
+
+
+» Matchday 29
+  Fri Apr/16
+    19.00  FC Aarau                v FC Chiasso               3-1 (1-0)
+    20.00  FC Thun                 v Neuchâtel Xamax FCS      0-0
+           FC Winterthur           v Stade Lausanne-Ouchy     1-1 (1-1)
+  Sat Apr/17
+    18.15  Grasshopper Club Zürich v FC Wil 1900              1-0 (0-0)
+           SC Kriens               v FC Schaffhausen          0-1 (0-0)
+
+
+» Matchday 30
+  Mon Apr/19
+    20.00  FC Winterthur           v FC Thun                  1-2 (0-2)
+  Tue Apr/20
+    19.00  FC Chiasso              v Grasshopper Club Zürich  2-2 (1-1)
+           Neuchâtel Xamax FCS     v SC Kriens                0-3 (0-2)
+    20.00  Stade Lausanne-Ouchy    v FC Schaffhausen          2-1 (1-0)
+           FC Wil 1900             v FC Aarau                 7-0 (5-0)
+
+
+» Matchday 31
+  Fri Apr/23
+    19.00  FC Chiasso              v Stade Lausanne-Ouchy     2-1 (2-1)
+           FC Schaffhausen         v Neuchâtel Xamax FCS      3-0 (0-0)
+    20.00  FC Winterthur           v FC Aarau                 3-3 (2-1)
+           Grasshopper Club Zürich v FC Thun                  3-1 (1-1)
+  Sat Apr/24
+    18.15  SC Kriens               v FC Wil 1900              2-2 (2-1)
+
+
+» Matchday 32
+  Fri Apr/30
+    19.00  Stade Lausanne-Ouchy    v SC Kriens                1-2 (0-1)
+           FC Thun                 v FC Chiasso               2-0 (1-0)
+    20.00  FC Aarau                v Grasshopper Club Zürich  2-1 (0-0)
+           FC Winterthur           v Neuchâtel Xamax FCS      0-1 (0-0)
+  Sat May/1
+    18.15  FC Wil 1900             v FC Schaffhausen          2-3 (1-2)
+
+
+» Matchday 33
+  Fri May/7
+    19.00  FC Chiasso              v FC Winterthur            2-1 (0-0)
+           SC Kriens               v FC Thun                  1-1 (1-0)
+    20.00  Grasshopper Club Zürich v Stade Lausanne-Ouchy     1-2 (1-0)
+           Neuchâtel Xamax FCS     v FC Wil 1900              2-2 (0-1)
+  Sat May/8
+    18.15  FC Schaffhausen         v FC Aarau                 3-2 (0-1)
+
+
+» Matchday 34
+  Mon May/10
+    20.00  Stade Lausanne-Ouchy    v Neuchâtel Xamax FCS      1-1 (1-1)
+           FC Winterthur           v Grasshopper Club Zürich  2-1 (0-0)
+  Tue May/11
+    19.00  FC Aarau                v SC Kriens                4-0 (0-0)
+    20.00  FC Thun                 v FC Schaffhausen          1-0 (0-0)
+           FC Wil 1900             v FC Chiasso               3-2 (1-1)
+
+
+» Matchday 35
+  Fri May/14
+    20.00  SC Kriens               v FC Winterthur            3-0 (0-0)
+           Neuchâtel Xamax FCS     v Grasshopper Club Zürich  1-1 (1-1)
+           FC Schaffhausen         v FC Chiasso               1-1 (1-0)
+           Stade Lausanne-Ouchy    v FC Wil 1900              3-0 (2-0)
+           FC Thun                 v FC Aarau                 1-3 (0-1)
+
+
+» Matchday 36
+  Thu May/20
+    20.00  FC Aarau                v Stade Lausanne-Ouchy     0-3 (0-1)
+           FC Chiasso              v Neuchâtel Xamax FCS      2-1 (2-1)
+           Grasshopper Club Zürich v SC Kriens                2-1 (2-0)
+           FC Wil 1900             v FC Thun                  1-2 (0-1)
+           FC Winterthur           v FC Schaffhausen          1-2 (0-1)

@@ -1,0 +1,621 @@
+= French Ligue 1 2018/19
+
+# Date       Fri Aug/10 2018 - Fri May/24 2019 (287d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Aug/10 2018
+    20.45  Olympique Marseille     v Toulouse FC              4-0 (1-0)
+  Sat Aug/11
+    17.00  FC Nantes               v AS Monaco                1-3 (0-0)
+    20.00  Angers SCO              v Nîmes Olympique          3-4 (1-1)
+           Lille OSC               v Stade Rennais            3-1 (1-1)
+           Montpellier HSC         v Dijon FCO                1-2 (1-0)
+           OGC Nice                v Stade de Reims           0-1 (0-1)
+           AS Saint-Étienne        v EA Guingamp              2-1 (1-0)
+  Sun Aug/12
+    15.00  Olympique Lyonnais      v Amiens SC                2-0 (1-0)
+    17.00  Girondins Bordeaux      v RC Strasbourg            0-2 (0-0)
+    21.00  Paris Saint-Germain     v SM Caen                  3-0 (2-0)
+
+
+» Matchday 2
+  Fri Aug/17
+    20.45  Stade de Reims          v Olympique Lyonnais       1-0 (1-0)
+  Sat Aug/18
+    17.00  EA Guingamp             v Paris Saint-Germain      1-3 (1-0)
+    20.00  Amiens SC               v Montpellier HSC          1-2 (0-0)
+           SM Caen                 v OGC Nice                 1-1 (0-0)
+           Dijon FCO               v FC Nantes                2-0 (1-0)
+           AS Monaco               v Lille OSC                0-0
+           Stade Rennais           v Angers SCO               1-0 (0-0)
+  Sun Aug/19
+    15.00  RC Strasbourg           v AS Saint-Étienne         1-1 (0-0)
+    17.00  Toulouse FC             v Girondins Bordeaux       2-1 (1-0)
+    21.00  Nîmes Olympique         v Olympique Marseille      3-1 (1-0)
+
+
+» Matchday 3
+  Fri Aug/24
+    20.45  Olympique Lyonnais      v RC Strasbourg            2-0 (1-0)
+  Sat Aug/25
+    17.00  Paris Saint-Germain     v Angers SCO               3-1 (1-1)
+    20.00  Amiens SC               v Stade de Reims           4-1 (1-0)
+           Montpellier HSC         v AS Saint-Étienne         0-0
+           FC Nantes               v SM Caen                  1-1 (0-1)
+           OGC Nice                v Dijon FCO                0-4 (0-0)
+           Toulouse FC             v Nîmes Olympique          1-0 (0-0)
+  Sun Aug/26
+    15.00  Lille OSC               v EA Guingamp              3-0 (2-0)
+    17.00  Girondins Bordeaux      v AS Monaco                2-1 (0-0)
+    21.00  Olympique Marseille     v Stade Rennais            2-2 (0-2)
+
+
+» Matchday 4
+  Fri Aug/31
+    20.45  Olympique Lyonnais      v OGC Nice                 0-1 (0-0)
+  Sat Sep/1
+    17.00  Nîmes Olympique         v Paris Saint-Germain      2-4 (0-2)
+    20.00  Angers SCO              v Lille OSC                1-0 (0-0)
+           Dijon FCO               v SM Caen                  0-2 (0-1)
+           EA Guingamp             v Toulouse FC              1-2 (1-2)
+           Stade de Reims          v Montpellier HSC          0-1 (0-0)
+           RC Strasbourg           v FC Nantes                2-3 (1-2)
+  Sun Sep/2
+    15.00  AS Saint-Étienne        v Amiens SC                0-0
+    17.00  Stade Rennais           v Girondins Bordeaux       2-0 (2-0)
+    21.00  AS Monaco               v Olympique Marseille      2-3 (0-1)
+
+
+» Matchday 5
+  Fri Sep/14
+    19.00  OGC Nice                v Stade Rennais            2-1 (0-0)
+    20.45  Paris Saint-Germain     v AS Saint-Étienne         4-0 (1-0)
+  Sat Sep/15
+    17.00  SM Caen                 v Olympique Lyonnais       2-2 (0-1)
+    20.00  Amiens SC               v Lille OSC                2-3 (0-1)
+           Dijon FCO               v Angers SCO               1-3 (1-3)
+           Montpellier HSC         v RC Strasbourg            1-1 (0-0)
+           Toulouse FC             v AS Monaco                1-1 (0-0)
+  Sun Sep/16
+    15.00  FC Nantes               v Stade de Reims           0-0
+    17.00  Girondins Bordeaux      v Nîmes Olympique          3-3 (1-2)
+    21.00  Olympique Marseille     v EA Guingamp              4-0 (0-0)
+
+
+» Matchday 6
+  Fri Sep/21
+    20.45  AS Monaco               v Nîmes Olympique          1-1 (1-1)
+  Sat Sep/22
+    17.00  Lille OSC               v FC Nantes                2-1 (1-0)
+    20.00  Angers SCO              v Toulouse FC              0-0
+           Montpellier HSC         v OGC Nice                 1-0 (1-0)
+           Stade de Reims          v Dijon FCO                0-0
+           AS Saint-Étienne        v SM Caen                  2-1 (0-1)
+           RC Strasbourg           v Amiens SC                3-1 (0-1)
+  Sun Sep/23
+    15.00  Stade Rennais           v Paris Saint-Germain      1-3 (1-1)
+    17.00  EA Guingamp             v Girondins Bordeaux       1-3 (0-0)
+    21.00  Olympique Lyonnais      v Olympique Marseille      4-2 (1-1)
+
+
+» Matchday 7
+  Tue Sep/25
+    19.00  AS Monaco               v Angers SCO               0-1 (0-1)
+           FC Nantes               v OGC Nice                 1-2 (0-1)
+    21.00  Toulouse FC             v AS Saint-Étienne         2-3 (0-1)
+  Wed Sep/26
+    19.00  Amiens SC               v Stade Rennais            2-1 (0-0)
+           Girondins Bordeaux      v Lille OSC                1-0 (1-0)
+           SM Caen                 v Montpellier HSC          2-2 (1-1)
+           Dijon FCO               v Olympique Lyonnais       0-3 (0-3)
+           Olympique Marseille     v RC Strasbourg            3-2 (2-1)
+           Nîmes Olympique         v EA Guingamp              0-0
+    21.00  Paris Saint-Germain     v Stade de Reims           4-1 (3-1)
+
+
+» Matchday 8
+  Fri Sep/28
+    20.45  AS Saint-Étienne        v AS Monaco                2-0 (1-0)
+  Sat Sep/29
+    17.15  OGC Nice                v Paris Saint-Germain      0-3 (0-1)
+    20.00  Angers SCO              v EA Guingamp              0-1 (0-1)
+           SM Caen                 v Amiens SC                1-0 (1-0)
+           Olympique Lyonnais      v FC Nantes                1-1 (1-0)
+           Stade de Reims          v Girondins Bordeaux       0-0
+           RC Strasbourg           v Dijon FCO                3-0 (1-0)
+  Sun Sep/30
+    15.00  Stade Rennais           v Toulouse FC              1-1 (0-0)
+    17.00  Montpellier HSC         v Nîmes Olympique          3-0 (2-0)
+    21.00  Lille OSC               v Olympique Marseille      3-0 (0-0)
+
+
+» Matchday 9
+  Fri Oct/5
+    20.45  Toulouse FC             v OGC Nice                 1-1 (0-1)
+  Sat Oct/6
+    17.00  Lille OSC               v AS Saint-Étienne         3-1 (1-1)
+    20.00  Amiens SC               v Dijon FCO                1-0 (1-0)
+           Angers SCO              v RC Strasbourg            2-2 (0-2)
+           EA Guingamp             v Montpellier HSC          1-1 (0-1)
+           Nîmes Olympique         v Stade de Reims           0-0
+  Sun Oct/7
+    15.00  Girondins Bordeaux      v FC Nantes                3-0 (3-0)
+    17.00  Olympique Marseille     v SM Caen                  2-0 (2-0)
+           AS Monaco               v Stade Rennais            1-2 (0-1)
+    21.00  Paris Saint-Germain     v Olympique Lyonnais       5-0 (1-0)
+
+
+» Matchday 10
+  Fri Oct/19
+    20.45  Olympique Lyonnais      v Nîmes Olympique          2-0 (1-0)
+  Sat Oct/20
+    17.00  Paris Saint-Germain     v Amiens SC                5-0 (2-0)
+    20.00  SM Caen                 v EA Guingamp              0-0
+           Dijon FCO               v Lille OSC                1-2 (0-2)
+           FC Nantes               v Toulouse FC              4-0 (2-0)
+           Stade de Reims          v Angers SCO               1-1 (0-1)
+           RC Strasbourg           v AS Monaco                2-1 (1-0)
+  Sun Oct/21
+    15.00  Montpellier HSC         v Girondins Bordeaux       2-0 (1-0)
+    17.00  AS Saint-Étienne        v Stade Rennais            1-1 (1-1)
+    21.00  OGC Nice                v Olympique Marseille      0-1 (0-1)
+
+
+» Matchday 11
+  Fri Oct/26
+    20.45  Nîmes Olympique         v AS Saint-Étienne         1-1 (0-1)
+  Sat Oct/27
+    17.00  Angers SCO              v Olympique Lyonnais       1-2 (0-0)
+    20.00  Amiens SC               v FC Nantes                1-2 (0-1)
+           EA Guingamp             v RC Strasbourg            1-1 (1-0)
+           Lille OSC               v SM Caen                  1-0 (0-0)
+           AS Monaco               v Dijon FCO                2-2 (1-1)
+           Toulouse FC             v Montpellier HSC          0-3 (0-2)
+  Sun Oct/28
+    15.00  Stade Rennais           v Stade de Reims           0-2 (0-1)
+    17.00  Girondins Bordeaux      v OGC Nice                 0-1 (0-0)
+    21.00  Olympique Marseille     v Paris Saint-Germain      0-2 (0-0)
+
+
+» Matchday 12
+  Fri Nov/2
+    20.45  Paris Saint-Germain     v Lille OSC                2-1 (0-0)
+  Sat Nov/3
+    17.00  Olympique Lyonnais      v Girondins Bordeaux       1-1 (1-0)
+    20.00  SM Caen                 v Stade Rennais            1-2 (0-0)
+           Dijon FCO               v Nîmes Olympique          0-4 (0-2)
+           OGC Nice                v Amiens SC                1-0 (1-0)
+           Stade de Reims          v AS Monaco                1-0 (1-0)
+           RC Strasbourg           v Toulouse FC              1-1 (0-0)
+  Sun Nov/4
+    15.00  FC Nantes               v EA Guingamp              5-0 (1-0)
+    17.00  AS Saint-Étienne        v Angers SCO               4-3 (2-2)
+    21.00  Montpellier HSC         v Olympique Marseille      3-0 (0-0)
+
+
+» Matchday 13
+  Fri Nov/9
+    20.45  Lille OSC               v RC Strasbourg            0-0
+  Sat Nov/10
+    17.00  EA Guingamp             v Olympique Lyonnais       2-4 (1-0)
+    20.00  Angers SCO              v Montpellier HSC          1-0 (0-0)
+           Nîmes Olympique         v OGC Nice                 0-1 (0-0)
+           AS Saint-Étienne        v Stade de Reims           2-0 (2-0)
+           Toulouse FC             v Amiens SC                0-1 (0-1)
+  Sun Nov/11
+    15.00  Girondins Bordeaux      v SM Caen                  0-0
+    17.00  Olympique Marseille     v Dijon FCO                2-0 (1-0)
+           Stade Rennais           v FC Nantes                1-1 (1-1)
+    21.00  AS Monaco               v Paris Saint-Germain      0-4 (0-2)
+
+
+» Matchday 14
+  Fri Nov/23
+    21.00  Olympique Lyonnais      v AS Saint-Étienne         1-0 (0-0)
+  Sat Nov/24
+    17.00  Paris Saint-Germain     v Toulouse FC              1-0 (1-0)
+    20.00  SM Caen                 v AS Monaco                0-1 (0-0)
+           Dijon FCO               v Girondins Bordeaux       0-0
+           FC Nantes               v Angers SCO               1-1 (0-1)
+           Stade de Reims          v EA Guingamp              2-1 (1-0)
+           RC Strasbourg           v Nîmes Olympique          0-1 (0-0)
+  Sun Nov/25
+    15.00  Montpellier HSC         v Stade Rennais            2-2 (1-1)
+    17.00  OGC Nice                v Lille OSC                2-0 (1-0)
+    21.00  Amiens SC               v Olympique Marseille      1-3 (1-1)
+
+
+» Matchday 15
+  Fri Nov/30
+    20.45  AS Saint-Étienne        v FC Nantes                3-0 (0-0)
+  Sat Dec/1
+    17.00  Lille OSC               v Olympique Lyonnais       2-2 (2-0)
+    20.00  Angers SCO              v SM Caen                  1-1 (0-0)
+           EA Guingamp             v OGC Nice                 0-0
+           AS Monaco               v Montpellier HSC          1-2 (1-0)
+           Nîmes Olympique         v Amiens SC                3-0 (1-0)
+  Sun Dec/2
+    15.00  Toulouse FC             v Dijon FCO                2-2 (0-1)
+    17.00  Olympique Marseille     v Stade de Reims           0-0
+           Stade Rennais           v RC Strasbourg            1-4 (1-2)
+    21.00  Girondins Bordeaux      v Paris Saint-Germain      2-2 (0-1)
+
+
+» Matchday 16
+  Tue Dec/4
+    19.00  Amiens SC               v AS Monaco                0-2 (0-1)
+           OGC Nice                v Angers SCO               0-0
+    21.00  Montpellier HSC         v Lille OSC                0-1 (0-1)
+  Wed Dec/5
+    19.00  Girondins Bordeaux      v AS Saint-Étienne         3-2 (1-1)
+           SM Caen                 v Nîmes Olympique          1-2 (0-1)
+           Dijon FCO               v EA Guingamp              2-1 (1-0)
+           Olympique Lyonnais      v Stade Rennais            0-2 (0-2)
+           FC Nantes               v Olympique Marseille      3-2 (2-2)
+           Stade de Reims          v Toulouse FC              0-1 (0-1)
+    21.00  RC Strasbourg           v Paris Saint-Germain      1-1 (1-0)
+
+
+» Matchday 17
+  Sat Dec/8
+    20.00  EA Guingamp             v Amiens SC                1-2 (0-0)
+           Stade Rennais           v Dijon FCO                2-0 (0-0)
+  Sun Dec/9
+    15.00  RC Strasbourg           v SM Caen                  2-2 (2-1)
+    17.00  Lille OSC               v Stade de Reims           1-1 (0-0)
+  Tue Jan/15 2019
+    19.00  Angers SCO              v Girondins Bordeaux       1-2 (0-1)
+  Wed Jan/16
+    19.00  AS Monaco               v OGC Nice                 1-1 (0-1)
+           Nîmes Olympique         v FC Nantes                1-0 (0-0)
+           Toulouse FC             v Olympique Lyonnais       2-2 (1-0)
+    21.00  AS Saint-Étienne        v Olympique Marseille      2-1 (0-1)
+  Wed Feb/20
+    21.00  Paris Saint-Germain     v Montpellier HSC          5-1 (2-1)
+
+
+» Matchday 18
+  Sat Dec/15 2018
+    20.00  Stade de Reims          v RC Strasbourg            2-1 (1-0)
+  Sun Dec/16
+    15.00  Nîmes Olympique         v Lille OSC                2-3 (0-2)
+    17.00  OGC Nice                v AS Saint-Étienne         1-1 (0-0)
+    21.00  Olympique Lyonnais      v AS Monaco                3-0 (2-0)
+  Tue Dec/18
+    19.30  SM Caen                 v Toulouse FC              2-1 (1-1)
+  Tue Jan/8 2019
+    19.00  Amiens SC               v Angers SCO               0-0
+           FC Nantes               v Montpellier HSC          2-0 (0-0)
+  Wed Jan/16
+    19.00  EA Guingamp             v Stade Rennais            2-1 (1-0)
+  Tue Feb/5
+    19.00  Olympique Marseille     v Girondins Bordeaux       1-0 (1-0)
+  Tue Mar/12
+    19.00  Dijon FCO               v Paris Saint-Germain      0-4 (0-2)
+
+
+» Matchday 19
+  Sat Dec/22 2018
+    21.00  Angers SCO              v Olympique Marseille      1-1 (1-0)
+           Lille OSC               v Toulouse FC              1-2 (1-0)
+           AS Monaco               v EA Guingamp              0-2 (0-0)
+           Montpellier HSC         v Olympique Lyonnais       1-1 (0-0)
+           Paris Saint-Germain     v FC Nantes                1-0 (0-0)
+           Stade de Reims          v SM Caen                  2-2 (1-2)
+           Stade Rennais           v Nîmes Olympique          4-0 (2-0)
+           AS Saint-Étienne        v Dijon FCO                3-0 (1-0)
+           RC Strasbourg           v OGC Nice                 2-0 (2-0)
+  Sun Dec/23
+    17.00  Girondins Bordeaux      v Amiens SC                1-1 (1-0)
+
+
+» Matchday 20
+  Fri Jan/11 2019
+    19.00  SM Caen                 v Lille OSC                1-3 (0-2)
+    20.45  Olympique Lyonnais      v Stade de Reims           1-1 (0-1)
+  Sat Jan/12
+    17.00  Amiens SC               v Paris Saint-Germain      0-3 (0-0)
+    20.00  EA Guingamp             v AS Saint-Étienne         0-1 (0-1)
+           OGC Nice                v Girondins Bordeaux       1-0 (1-0)
+  Sun Jan/13
+    15.00  FC Nantes               v Stade Rennais            0-1 (0-1)
+    17.00  Dijon FCO               v Montpellier HSC          1-1 (0-0)
+           Toulouse FC             v RC Strasbourg            1-2 (1-1)
+    21.00  Olympique Marseille     v AS Monaco                1-1 (1-1)
+  Wed Jan/23
+    19.00  Nîmes Olympique         v Angers SCO               3-1 (2-0)
+
+
+» Matchday 21
+  Fri Jan/18
+    20.45  Lille OSC               v Amiens SC                2-1 (1-1)
+  Sat Jan/19
+    17.00  Paris Saint-Germain     v EA Guingamp              9-0 (3-0)
+    20.00  AS Monaco               v RC Strasbourg            1-5 (1-2)
+           Nîmes Olympique         v Toulouse FC              0-1 (0-1)
+           Stade de Reims          v OGC Nice                 1-1 (1-0)
+  Sun Jan/20
+    15.00  Stade Rennais           v Montpellier HSC          0-0
+    17.00  Angers SCO              v FC Nantes                1-0 (0-0)
+           SM Caen                 v Olympique Marseille      0-1 (0-0)
+    19.00  Girondins Bordeaux      v Dijon FCO                1-0 (0-0)
+    21.00  AS Saint-Étienne        v Olympique Lyonnais       1-2 (1-0)
+
+
+» Matchday 22
+  Fri Jan/25
+    20.45  Olympique Marseille     v Lille OSC                1-2 (0-1)
+  Sat Jan/26
+    20.00  Dijon FCO               v AS Monaco                2-0 (1-0)
+           EA Guingamp             v Stade de Reims           0-1 (0-1)
+           OGC Nice                v Nîmes Olympique          2-0 (1-0)
+           RC Strasbourg           v Girondins Bordeaux       1-0 (0-0)
+  Sun Jan/27
+    15.00  Montpellier HSC         v SM Caen                  2-0 (0-0)
+    17.00  Amiens SC               v Olympique Lyonnais       0-1 (0-0)
+    20.00  Toulouse FC             v Angers SCO               0-0
+    21.00  Paris Saint-Germain     v Stade Rennais            4-1 (1-1)
+  Wed Jan/30
+    21.00  FC Nantes               v AS Saint-Étienne         1-1 (0-0)
+
+
+» Matchday 23
+  Fri Feb/1
+    20.45  Lille OSC               v OGC Nice                 4-0 (2-0)
+  Sat Feb/2
+    20.00  Angers SCO              v Dijon FCO                1-0 (1-0)
+           AS Monaco               v Toulouse FC              2-1 (1-1)
+           Stade Rennais           v Amiens SC                1-0 (0-0)
+    21.00  Stade de Reims          v Olympique Marseille      2-1 (1-0)
+  Sun Feb/3
+    15.00  Nîmes Olympique         v Montpellier HSC          1-1 (1-0)
+    21.00  Olympique Lyonnais      v Paris Saint-Germain      2-1 (1-1)
+  Wed Feb/13
+    19.00  AS Saint-Étienne        v RC Strasbourg            2-1 (2-0)
+    19.30  SM Caen                 v FC Nantes                0-1 (0-0)
+  Wed Feb/20
+    19.00  Girondins Bordeaux      v EA Guingamp              0-0
+
+
+» Matchday 24
+  Fri Feb/8
+    20.45  Dijon FCO               v Olympique Marseille      1-2 (1-0)
+  Sat Feb/9
+    17.00  Paris Saint-Germain     v Girondins Bordeaux       1-0 (1-0)
+    20.00  Amiens SC               v SM Caen                  1-0 (0-0)
+           RC Strasbourg           v Angers SCO               1-2 (0-1)
+  Sun Feb/10
+    15.00  Montpellier HSC         v AS Monaco                2-2 (0-1)
+           FC Nantes               v Nîmes Olympique          2-4 (2-0)
+           Toulouse FC             v Stade de Reims           1-1 (0-0)
+    17.00  EA Guingamp             v Lille OSC                0-2 (0-0)
+           Stade Rennais           v AS Saint-Étienne         3-0 (1-0)
+    21.00  OGC Nice                v Olympique Lyonnais       1-0 (0-0)
+
+
+» Matchday 25
+  Fri Feb/15
+    19.00  Nîmes Olympique         v Dijon FCO                2-0 (1-0)
+    20.45  Olympique Lyonnais      v EA Guingamp              2-1 (2-1)
+  Sat Feb/16
+    17.00  Olympique Marseille     v Amiens SC                2-0 (2-0)
+    20.00  Angers SCO              v OGC Nice                 3-0 (1-0)
+           AS Monaco               v FC Nantes                1-0 (1-0)
+  Sun Feb/17
+    15.00  Girondins Bordeaux      v Toulouse FC              2-1 (1-0)
+           SM Caen                 v RC Strasbourg            0-0
+           Lille OSC               v Montpellier HSC          0-0
+    17.00  Stade de Reims          v Stade Rennais            2-0 (1-0)
+    21.00  AS Saint-Étienne        v Paris Saint-Germain      0-1 (0-0)
+
+
+» Matchday 26
+  Fri Feb/22
+    19.00  Dijon FCO               v AS Saint-Étienne         0-1 (0-0)
+    20.45  RC Strasbourg           v Lille OSC                1-1 (0-1)
+  Sat Feb/23
+    17.00  Paris Saint-Germain     v Nîmes Olympique          3-0 (1-0)
+    20.00  Amiens SC               v OGC Nice                 1-0 (1-0)
+           EA Guingamp             v Angers SCO               1-0 (0-0)
+  Sun Feb/24
+    15.00  Montpellier HSC         v Stade de Reims           2-4 (1-1)
+           FC Nantes               v Girondins Bordeaux       1-0 (0-0)
+           Toulouse FC             v SM Caen                  1-1 (0-1)
+    17.00  Stade Rennais           v Olympique Marseille      1-1 (1-0)
+    21.00  AS Monaco               v Olympique Lyonnais       2-0 (2-0)
+
+
+» Matchday 27
+  Sat Mar/2
+    17.00  SM Caen                 v Paris Saint-Germain      1-2 (0-0)
+    20.00  Angers SCO              v AS Monaco                2-2 (2-0)
+           Stade de Reims          v Amiens SC                2-2 (0-2)
+  Sun Mar/3
+    15.00  EA Guingamp             v FC Nantes                0-0
+           Lille OSC               v Dijon FCO                1-0 (0-0)
+           OGC Nice                v RC Strasbourg            1-0 (1-0)
+    17.00  Olympique Lyonnais      v Toulouse FC              5-1 (3-1)
+    21.00  Olympique Marseille     v AS Saint-Étienne         2-0 (2-0)
+  Tue Mar/5
+    19.00  Girondins Bordeaux      v Montpellier HSC          1-2 (1-1)
+  Tue Apr/9
+    19.00  Nîmes Olympique         v Stade Rennais            3-1 (1-1)
+
+
+» Matchday 28
+  Sat Mar/9
+    17.00  RC Strasbourg           v Olympique Lyonnais       2-2 (0-1)
+    20.00  Amiens SC               v Nîmes Olympique          2-1 (0-0)
+           Dijon FCO               v Stade de Reims           1-1 (1-1)
+           AS Monaco               v Girondins Bordeaux       1-1 (0-0)
+  Sun Mar/10
+    15.00  Montpellier HSC         v Angers SCO               2-2 (2-0)
+           AS Saint-Étienne        v Lille OSC                0-1 (0-0)
+           Toulouse FC             v EA Guingamp              1-0 (1-0)
+    17.00  Stade Rennais           v SM Caen                  3-1 (1-1)
+    21.00  Olympique Marseille     v OGC Nice                 1-0 (0-0)
+  Wed Apr/17
+    19.00  FC Nantes               v Paris Saint-Germain      3-2 (2-1)
+
+
+» Matchday 29
+  Fri Mar/15
+    19.00  OGC Nice                v Toulouse FC              1-1 (1-0)
+    20.45  Lille OSC               v AS Monaco                0-1 (0-0)
+  Sat Mar/16
+    20.00  Angers SCO              v Amiens SC                0-0
+           SM Caen                 v AS Saint-Étienne         0-5 (0-3)
+           EA Guingamp             v Dijon FCO                1-0 (0-0)
+           Nîmes Olympique         v RC Strasbourg            2-2 (0-1)
+  Sun Mar/17
+    14.30  Olympique Lyonnais      v Montpellier HSC          3-2 (1-1)
+    15.00  Stade de Reims          v FC Nantes                1-0 (0-0)
+    17.00  Girondins Bordeaux      v Stade Rennais            1-1 (0-0)
+    21.00  Paris Saint-Germain     v Olympique Marseille      3-1 (1-0)
+
+
+» Matchday 30
+  Fri Mar/29
+    20.45  Stade Rennais           v Olympique Lyonnais       0-1 (0-0)
+  Sat Mar/30
+    17.00  Olympique Marseille     v Angers SCO               2-2 (2-1)
+  Sun Mar/31
+    15.00  Amiens SC               v Girondins Bordeaux       0-0
+           Dijon FCO               v OGC Nice                 0-1 (0-0)
+           AS Monaco               v SM Caen                  0-1 (0-1)
+    17.00  FC Nantes               v Lille OSC                2-3 (0-0)
+    21.00  Toulouse FC             v Paris Saint-Germain      0-1 (0-0)
+  Mon Apr/1
+    20.30  AS Saint-Étienne        v Nîmes Olympique          2-1 (1-1)
+  Wed Apr/3
+    19.00  Montpellier HSC         v EA Guingamp              2-0 (1-0)
+           RC Strasbourg           v Stade de Reims           4-0 (1-0)
+
+
+» Matchday 31
+  Fri Apr/5
+    20.45  Girondins Bordeaux      v Olympique Marseille      2-0 (1-0)
+  Sat Apr/6
+    17.00  Olympique Lyonnais      v Dijon FCO                1-3 (1-2)
+    20.00  Amiens SC               v AS Saint-Étienne         2-2 (1-1)
+           Angers SCO              v Stade Rennais            3-3 (0-1)
+           EA Guingamp             v AS Monaco                1-1 (1-0)
+           Nîmes Olympique         v SM Caen                  2-0 (0-0)
+  Sun Apr/7
+    15.00  Stade de Reims          v Lille OSC                1-1 (0-0)
+           Toulouse FC             v FC Nantes                1-0 (0-0)
+    17.00  OGC Nice                v Montpellier HSC          1-0 (1-0)
+    21.00  Paris Saint-Germain     v RC Strasbourg            2-2 (1-2)
+
+
+» Matchday 32
+  Fri Apr/12
+    19.00  Dijon FCO               v Amiens SC                0-0
+    20.45  FC Nantes               v Olympique Lyonnais       2-1 (1-1)
+  Sat Apr/13
+    17.00  Olympique Marseille     v Nîmes Olympique          2-1 (0-0)
+    20.00  SM Caen                 v Angers SCO               0-1 (0-0)
+           AS Monaco               v Stade de Reims           0-0
+           RC Strasbourg           v EA Guingamp              3-3 (1-1)
+  Sun Apr/14
+    15.00  Montpellier HSC         v Toulouse FC              2-1 (0-0)
+           Stade Rennais           v OGC Nice                 0-0
+    17.00  AS Saint-Étienne        v Girondins Bordeaux       3-0 (0-0)
+    21.00  Lille OSC               v Paris Saint-Germain      5-1 (1-1)
+
+
+» Matchday 33
+  Fri Apr/19
+    19.00  Dijon FCO               v Stade Rennais            3-2 (1-0)
+    20.45  Olympique Lyonnais      v Angers SCO               2-1 (2-0)
+  Sat Apr/20
+    17.00  EA Guingamp             v Olympique Marseille      1-3 (0-2)
+    20.00  OGC Nice                v SM Caen                  0-1 (0-0)
+           Nîmes Olympique         v Girondins Bordeaux       2-1 (1-1)
+           RC Strasbourg           v Montpellier HSC          1-3 (1-2)
+  Sun Apr/21
+    15.00  FC Nantes               v Amiens SC                3-2 (0-0)
+           Toulouse FC             v Lille OSC                0-0
+    17.00  Stade de Reims          v AS Saint-Étienne         0-2 (0-1)
+    21.00  Paris Saint-Germain     v AS Monaco                3-1 (2-0)
+
+
+» Matchday 34
+  Fri Apr/26
+    20.45  Girondins Bordeaux      v Olympique Lyonnais       2-3 (2-1)
+  Sun Apr/28
+    15.00  Amiens SC               v RC Strasbourg            0-0
+           Angers SCO              v Stade de Reims           1-1 (0-0)
+           SM Caen                 v Dijon FCO                1-0 (0-0)
+           Lille OSC               v Nîmes Olympique          5-0 (0-0)
+           OGC Nice                v EA Guingamp              3-0 (1-0)
+    17.00  AS Saint-Étienne        v Toulouse FC              2-0 (2-0)
+    21.00  Olympique Marseille     v FC Nantes                1-2 (1-1)
+  Tue Apr/30
+    19.00  Montpellier HSC         v Paris Saint-Germain      3-2 (1-1)
+  Wed May/1
+    19.00  Stade Rennais           v AS Monaco                2-2 (2-0)
+
+
+» Matchday 35
+  Fri May/3
+    20.45  RC Strasbourg           v Olympique Marseille      1-1 (0-0)
+  Sat May/4
+    17.00  Paris Saint-Germain     v OGC Nice                 1-1 (0-0)
+    20.00  Girondins Bordeaux      v Angers SCO               0-1 (0-1)
+           EA Guingamp             v SM Caen                  0-0
+           Stade de Reims          v Nîmes Olympique          0-3 (0-2)
+  Sun May/5
+    15.00  Montpellier HSC         v Amiens SC                1-1 (0-0)
+           FC Nantes               v Dijon FCO                3-0 (0-0)
+           Toulouse FC             v Stade Rennais            2-2 (1-1)
+    17.00  AS Monaco               v AS Saint-Étienne         2-3 (1-0)
+    21.00  Olympique Lyonnais      v Lille OSC                2-2 (1-0)
+
+
+» Matchday 36
+  Fri May/10
+    20.45  AS Saint-Étienne        v Montpellier HSC          0-1 (0-0)
+  Sat May/11
+    17.00  Angers SCO              v Paris Saint-Germain      1-2 (0-1)
+    20.00  Amiens SC               v Toulouse FC              0-0
+           SM Caen                 v Stade de Reims           3-2 (3-1)
+           Dijon FCO               v RC Strasbourg            2-1 (1-0)
+           OGC Nice                v FC Nantes                1-1 (0-1)
+           Nîmes Olympique         v AS Monaco                1-0 (1-0)
+  Sun May/12
+    15.00  Stade Rennais           v EA Guingamp              1-1 (1-0)
+    17.00  Lille OSC               v Girondins Bordeaux       1-0 (1-0)
+    21.00  Olympique Marseille     v Olympique Lyonnais       0-3 (0-1)
+
+
+» Matchday 37
+  Sat May/18
+    21.00  Girondins Bordeaux      v Stade de Reims           0-1 (0-1)
+           EA Guingamp             v Nîmes Olympique          2-2 (2-0)
+           Lille OSC               v Angers SCO               5-0 (2-0)
+           Olympique Lyonnais      v SM Caen                  4-0 (0-0)
+           AS Monaco               v Amiens SC                2-0 (1-0)
+           Montpellier HSC         v FC Nantes                1-1 (0-1)
+           Paris Saint-Germain     v Dijon FCO                4-0 (3-0)
+           AS Saint-Étienne        v OGC Nice                 3-0 (1-0)
+           RC Strasbourg           v Stade Rennais            0-2 (0-1)
+           Toulouse FC             v Olympique Marseille      2-5 (1-1)
+
+
+» Matchday 38
+  Fri May/24
+    21.05  Amiens SC               v EA Guingamp              2-1 (1-0)
+           Angers SCO              v AS Saint-Étienne         1-1 (0-0)
+           SM Caen                 v Girondins Bordeaux       0-1 (0-1)
+           Dijon FCO               v Toulouse FC              2-1 (0-1)
+           Olympique Marseille     v Montpellier HSC          1-0 (0-0)
+           FC Nantes               v RC Strasbourg            0-1 (0-0)
+           OGC Nice                v AS Monaco                2-0 (1-0)
+           Nîmes Olympique         v Olympique Lyonnais       2-3 (2-1)
+           Stade de Reims          v Paris Saint-Germain      3-1 (1-0)
+           Stade Rennais           v Lille OSC                3-1 (1-1)

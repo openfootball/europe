@@ -1,0 +1,369 @@
+= Swiss Super League 2018/19
+
+# Date       Sat Jul/21 2018 - Sat May/25 2019 (308d)
+# Teams      10
+# Matches    180
+
+
+
+» Matchday 1
+  Sat Jul/21 2018
+    19.00  FC Basel 1893           v FC St. Gallen            1-2 (0-0)
+           FC Luzern               v Neuchâtel Xamax FCS      0-2 (0-1)
+  Sun Jul/22
+    16.00  BSC Young Boys          v Grasshopper Club Zürich  2-0 (0-0)
+           FC Sion                 v FC Lugano                1-2 (0-2)
+           FC Zürich               v FC Thun                  2-1 (1-0)
+
+
+» Matchday 2
+  Sat Jul/28
+    19.00  Grasshopper Club Zürich v FC Zürich                0-2 (0-0)
+           Neuchâtel Xamax FCS     v FC Basel 1893            1-1 (0-0)
+  Sun Jul/29
+    16.00  FC Lugano               v BSC Young Boys           0-2 (0-1)
+           FC St. Gallen           v FC Sion                  2-4 (0-2)
+           FC Thun                 v FC Luzern                2-1 (0-1)
+
+
+» Matchday 3
+  Sat Aug/4
+    19.00  FC Basel 1893           v Grasshopper Club Zürich  4-2 (2-0)
+           FC Luzern               v FC Lugano                4-2 (2-1)
+  Sun Aug/5
+    16.00  BSC Young Boys          v FC Zürich                4-0 (3-0)
+           FC Sion                 v Neuchâtel Xamax FCS      3-0 (2-0)
+           FC St. Gallen           v FC Thun                  3-2 (3-0)
+
+
+» Matchday 4
+  Sat Aug/11
+    19.00  FC Lugano               v Grasshopper Club Zürich  2-2 (1-0)
+           Neuchâtel Xamax FCS     v FC Thun                  1-5 (1-3)
+  Sun Aug/12
+    16.00  FC Basel 1893           v FC Sion                  3-2 (2-1)
+           FC Luzern               v BSC Young Boys           2-3 (0-1)
+           FC Zürich               v FC St. Gallen            0-0
+
+
+» Matchday 5
+  Sat Aug/25
+    19.00  BSC Young Boys          v Neuchâtel Xamax FCS      5-2 (2-1)
+           Grasshopper Club Zürich v FC Sion                  2-1 (0-0)
+  Sun Aug/26
+    16.00  FC Zürich               v FC Basel 1893            1-1 (0-1)
+           FC St. Gallen           v FC Luzern                0-1 (0-0)
+           FC Thun                 v FC Lugano                1-1 (0-0)
+
+
+» Matchday 6
+  Sat Sep/1
+    19.00  FC Lugano               v FC Zürich                1-0 (1-0)
+           FC Sion                 v BSC Young Boys           0-3 (0-1)
+  Sun Sep/2
+    16.00  FC Basel 1893           v FC Thun                  1-1 (1-1)
+           FC Luzern               v Grasshopper Club Zürich  2-1 (0-1)
+           Neuchâtel Xamax FCS     v FC St. Gallen            2-3 (1-0)
+
+
+» Matchday 7
+  Sat Sep/22
+    19.00  Grasshopper Club Zürich v Neuchâtel Xamax FCS      3-1 (1-0)
+           FC Thun                 v FC Sion                  4-1 (0-0)
+  Sun Sep/23
+    16.00  BSC Young Boys          v FC Basel 1893            7-1 (2-0)
+           FC St. Gallen           v FC Lugano                2-2 (2-0)
+           FC Zürich               v FC Luzern                1-0 (0-0)
+
+
+» Matchday 8
+  Tue Sep/25
+    20.00  Grasshopper Club Zürich v FC Thun                  0-2 (0-0)
+  Wed Sep/26
+    20.00  BSC Young Boys          v FC St. Gallen            2-0 (2-0)
+           FC Basel 1893           v FC Luzern                2-1 (1-0)
+           Neuchâtel Xamax FCS     v FC Lugano                2-1 (1-0)
+  Thu Sep/27
+    20.00  FC Sion                 v FC Zürich                1-2 (0-1)
+
+
+» Matchday 9
+  Sat Sep/29
+    19.00  FC St. Gallen           v Grasshopper Club Zürich  2-1 (0-1)
+           FC Thun                 v BSC Young Boys           1-4 (1-2)
+  Sun Sep/30
+    16.00  FC Lugano               v FC Basel 1893            2-2 (0-1)
+           FC Luzern               v FC Sion                  1-3 (0-1)
+           FC Zürich               v Neuchâtel Xamax FCS      0-0
+
+
+» Matchday 10
+  Sat Oct/6
+    19.00  FC St. Gallen           v FC Basel 1893            1-3 (1-1)
+           BSC Young Boys          v FC Luzern                2-3 (0-1)
+  Sun Oct/7
+    16.00  Grasshopper Club Zürich v FC Lugano                2-1 (2-1)
+           Neuchâtel Xamax FCS     v FC Sion                  1-1 (1-1)
+           FC Thun                 v FC Zürich                2-2 (0-1)
+
+
+» Matchday 11
+  Sat Oct/20
+    19.00  FC Luzern               v FC Thun                  0-2 (0-0)
+           FC Zürich               v BSC Young Boys           3-3 (2-0)
+  Sun Oct/21
+    16.00  FC Basel 1893           v Neuchâtel Xamax FCS      1-1 (1-0)
+           FC Lugano               v FC St. Gallen            3-1 (2-0)
+           FC Sion                 v Grasshopper Club Zürich  0-0
+
+
+» Matchday 12
+  Sat Oct/27
+    19.00  Grasshopper Club Zürich v FC Basel 1893            1-3 (0-3)
+           BSC Young Boys          v FC Sion                  3-2 (0-2)
+  Sun Oct/28
+    16.00  Neuchâtel Xamax FCS     v FC Luzern                1-2 (1-1)
+           FC Lugano               v FC Thun                  2-1 (2-1)
+           FC St. Gallen           v FC Zürich                3-2 (1-0)
+
+
+» Matchday 13
+  Sat Nov/3
+    19.00  Grasshopper Club Zürich v BSC Young Boys           0-3 (0-0)
+           FC Thun                 v Neuchâtel Xamax FCS      2-2 (1-0)
+  Sun Nov/4
+    16.00  FC Basel 1893           v FC Lugano                3-2 (2-0)
+           FC Luzern               v FC Zürich                2-5 (1-2)
+           FC Sion                 v FC St. Gallen            0-1 (0-1)
+
+
+» Matchday 14
+  Sat Nov/10
+    19.00  FC Lugano               v FC Luzern                1-4 (0-1)
+           FC Thun                 v FC Basel 1893            4-2 (1-2)
+  Sun Nov/11
+    16.00  Neuchâtel Xamax FCS     v Grasshopper Club Zürich  2-3 (0-1)
+           FC St. Gallen           v BSC Young Boys           2-3 (1-3)
+           FC Zürich               v FC Sion                  1-2 (0-0)
+
+
+» Matchday 15
+  Sat Nov/24
+    19.00  Neuchâtel Xamax FCS     v FC Zürich                3-3 (1-0)
+           BSC Young Boys          v FC Lugano                1-0 (0-0)
+  Sun Nov/25
+    16.00  Grasshopper Club Zürich v FC St. Gallen            2-1 (2-0)
+           FC Luzern               v FC Basel 1893            1-1 (1-0)
+           FC Sion                 v FC Thun                  2-1 (1-0)
+
+
+» Matchday 16
+  Sat Dec/1
+    19.00  FC Sion                 v FC Luzern                2-0 (0-0)
+           FC Thun                 v FC St. Gallen            2-0 (0-0)
+  Sun Dec/2
+    16.00  FC Basel 1893           v BSC Young Boys           1-3 (1-0)
+           FC Lugano               v Neuchâtel Xamax FCS      2-2 (1-0)
+           FC Zürich               v Grasshopper Club Zürich  2-0 (0-0)
+
+
+» Matchday 17
+  Sat Dec/8
+    19.00  FC St. Gallen           v Neuchâtel Xamax FCS      3-2 (2-1)
+           BSC Young Boys          v FC Thun                  3-2 (0-1)
+  Sun Dec/9
+    16.00  FC Basel 1893           v FC Zürich                2-0 (1-0)
+           Grasshopper Club Zürich v FC Luzern                2-3 (2-2)
+           FC Lugano               v FC Sion                  2-2 (1-1)
+
+
+» Matchday 18
+  Sat Dec/15
+    19.00  FC Sion                 v FC Basel 1893            1-2 (1-0)
+           FC Thun                 v Grasshopper Club Zürich  1-0 (0-0)
+  Sun Dec/16
+    16.00  Neuchâtel Xamax FCS     v BSC Young Boys           1-4 (0-2)
+           FC Luzern               v FC St. Gallen            2-1 (2-0)
+           FC Zürich               v FC Lugano                0-0
+
+
+» Matchday 19
+  Sat Feb/2 2019
+    19.00  BSC Young Boys          v Neuchâtel Xamax FCS      2-0 (1-0)
+  Sun Feb/3
+    16.00  Grasshopper Club Zürich v FC Basel 1893            0-4 (0-2)
+  Wed Feb/6
+    20.00  FC Lugano               v FC Thun                  1-3 (0-1)
+           FC St. Gallen           v FC Zürich                3-1 (1-0)
+  Wed Feb/13
+    18.45  FC Luzern               v FC Sion                  1-3 (1-1)
+
+
+» Matchday 20
+  Sat Feb/9
+    19.00  FC Basel 1893           v FC St. Gallen            1-1 (0-0)
+           FC Zürich               v Grasshopper Club Zürich  3-1 (1-1)
+  Sun Feb/10
+    16.00  Neuchâtel Xamax FCS     v FC Luzern                2-1 (2-0)
+           FC Sion                 v FC Lugano                2-2 (1-1)
+           FC Thun                 v BSC Young Boys           1-1 (0-1)
+
+
+» Matchday 21
+  Sat Feb/16
+    19.00  FC Luzern               v FC Lugano                0-3 (0-1)
+           FC St. Gallen           v FC Thun                  1-3 (0-1)
+  Sun Feb/17
+    16.00  FC Basel 1893           v FC Sion                  1-0 (1-0)
+           Grasshopper Club Zürich v Neuchâtel Xamax FCS      0-1 (0-1)
+           BSC Young Boys          v FC Zürich                2-0 (0-0)
+
+
+» Matchday 22
+  Sat Feb/23
+    19.00  Neuchâtel Xamax FCS     v FC Basel 1893            0-2 (0-1)
+           FC Sion                 v FC St. Gallen            2-2 (1-1)
+  Sun Feb/24
+    16.00  FC Lugano               v BSC Young Boys           0-1 (0-0)
+           FC Thun                 v Grasshopper Club Zürich  1-1 (1-1)
+           FC Zürich               v FC Luzern                1-1 (1-0)
+
+
+» Matchday 23
+  Sat Mar/2
+    19.00  Grasshopper Club Zürich v FC Luzern                1-3 (0-2)
+           BSC Young Boys          v FC Sion                  1-0 (0-0)
+  Sun Mar/3
+    16.00  FC Basel 1893           v FC Thun                  3-1 (2-0)
+           FC St. Gallen           v Neuchâtel Xamax FCS      3-0 (1-0)
+           FC Zürich               v FC Lugano                0-1 (0-1)
+
+
+» Matchday 24
+  Sat Mar/9
+    19.00  Grasshopper Club Zürich v BSC Young Boys           0-1 (0-0)
+           Neuchâtel Xamax FCS     v FC Sion                  3-1 (2-0)
+  Sun Mar/10
+    16.00  FC Lugano               v FC Basel 1893            1-1 (1-1)
+           FC Luzern               v FC St. Gallen            3-0 (1-0)
+           FC Thun                 v FC Zürich                2-2 (2-1)
+
+
+» Matchday 25
+  Sat Mar/16
+           FC Sion                 v Grasshopper Club Zürich  3-0    [awarded]
+    19.00  FC St. Gallen           v FC Lugano                0-2 (0-1)
+  Sun Mar/17
+    16.00  FC Basel 1893           v BSC Young Boys           2-2 (1-2)
+           FC Thun                 v FC Luzern                1-1 (0-0)
+           FC Zürich               v Neuchâtel Xamax FCS      2-1 (0-0)
+
+
+» Matchday 26
+  Sat Mar/30
+    19.00  FC Luzern               v FC Basel 1893            0-1 (0-0)
+           FC Sion                 v FC Zürich                1-0 (1-0)
+  Sun Mar/31
+    16.00  Grasshopper Club Zürich v FC Lugano                1-1 (1-1)
+           Neuchâtel Xamax FCS     v FC Thun                  3-2 (0-1)
+           BSC Young Boys          v FC St. Gallen            3-2 (1-1)
+
+
+» Matchday 27
+  Wed Apr/3
+    20.00  FC Lugano               v Neuchâtel Xamax FCS      0-0
+           FC St. Gallen           v Grasshopper Club Zürich  0-0
+           FC Zürich               v FC Basel 1893            0-2 (0-0)
+  Thu Apr/4
+    20.00  FC Thun                 v FC Sion                  1-2 (1-2)
+  Wed Apr/10
+    18.45  FC Luzern               v BSC Young Boys           1-3 (0-0)
+
+
+» Matchday 28
+  Sat Apr/6
+    19.00  Grasshopper Club Zürich v FC Zürich                1-1 (0-1)
+           Neuchâtel Xamax FCS     v FC St. Gallen            0-1 (0-0)
+  Sun Apr/7
+    16.00  FC Basel 1893           v FC Lugano                1-1 (0-0)
+           FC Sion                 v FC Luzern                2-2 (1-1)
+           BSC Young Boys          v FC Thun                  5-1 (4-0)
+
+
+» Matchday 29
+  Sat Apr/13
+    19.00  FC Basel 1893           v Grasshopper Club Zürich  0-0
+           FC Luzern               v Neuchâtel Xamax FCS      0-1 (0-0)
+  Sun Apr/14
+    16.00  FC Lugano               v FC Sion                  1-1 (0-0)
+           FC Thun                 v FC St. Gallen            0-0
+           FC Zürich               v BSC Young Boys           0-1 (0-0)
+
+
+» Matchday 30
+  Fri Apr/19
+    20.00  FC Lugano               v FC Zürich                3-0 (1-0)
+           FC Sion                 v FC Basel 1893            0-3 (0-1)
+  Sat Apr/20
+    19.00  Grasshopper Club Zürich v FC Thun                  1-1 (0-0)
+           FC St. Gallen           v FC Luzern                1-2 (0-1)
+  Mon Apr/22
+    16.00  Neuchâtel Xamax FCS     v BSC Young Boys           1-0 (0-0)
+
+
+» Matchday 31
+  Sat Apr/27
+    19.00  Neuchâtel Xamax FCS     v Grasshopper Club Zürich  1-1 (0-1)
+           FC Luzern               v FC Thun                  3-1 (2-0)
+  Sun Apr/28
+    16.00  FC St. Gallen           v FC Basel 1893            0-3 (0-1)
+           BSC Young Boys          v FC Lugano                2-2 (2-1)
+           FC Zürich               v FC Sion                  1-0 (0-0)
+
+
+» Matchday 32
+  Sat May/4
+    19.00  FC Basel 1893           v FC Zürich                3-0 (0-0)
+           Grasshopper Club Zürich v FC St. Gallen            0-1 (0-0)
+  Sun May/5
+    16.00  FC Lugano               v FC Luzern                1-0 (1-0)
+           FC Thun                 v Neuchâtel Xamax FCS      0-2 (0-0)
+           FC Sion                 v BSC Young Boys           0-4 (0-2)
+
+
+» Matchday 33
+  Sat May/11
+    19.00  Neuchâtel Xamax FCS     v FC Zürich                1-2 (0-0)
+           FC Thun                 v FC Lugano                1-0 (1-0)
+  Sun May/12
+    16.00  FC Luzern               v Grasshopper Club Zürich  4-0    [awarded]
+           FC St. Gallen           v FC Sion                  2-1 (1-0)
+           BSC Young Boys          v FC Basel 1893            3-1 (0-1)
+
+
+» Matchday 34
+  Wed May/15
+    20.00  FC Basel 1893           v FC Luzern                3-2 (2-0)
+           FC Sion                 v Neuchâtel Xamax FCS      1-0 (0-0)
+           FC Zürich               v FC Thun                  3-0 (3-0)
+  Thu May/16
+    20.00  FC Lugano               v FC St. Gallen            1-0 (1-0)
+           BSC Young Boys          v Grasshopper Club Zürich  6-1 (3-0)
+
+
+» Matchday 35
+  Wed May/22
+    20.00  Grasshopper Club Zürich v FC Sion                  0-3 (0-2)
+           Neuchâtel Xamax FCS     v FC Lugano                1-1 (0-1)
+           FC Luzern               v FC Zürich                3-0 (2-0)
+           FC St. Gallen           v BSC Young Boys           4-1 (2-0)
+           FC Thun                 v FC Basel 1893            1-2 (0-0)
+
+
+» Matchday 36
+  Sat May/25
+    19.00  FC Basel 1893           v Neuchâtel Xamax FCS      4-1 (1-0)
+           FC Lugano               v Grasshopper Club Zürich  3-3 (1-1)
+           FC Sion                 v FC Thun                  0-1 (0-0)
+           BSC Young Boys          v FC Luzern                4-0 (1-0)
+           FC Zürich               v FC St. Gallen            1-1 (0-1)

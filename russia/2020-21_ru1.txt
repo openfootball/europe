@@ -1,0 +1,415 @@
+= Russia Premier League 2020/21
+
+# Date       Sat Aug/8 2020 - Sun May/16 2021 (281d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Sat Aug/8 2020
+    16.00  FK Khimki               v CSKA Moskva              0-2 (0-2)
+    18.30  FK Tambov               v FK Rostov                0-1 (0-1)
+  Sun Aug/9
+    17.00  FK Ufa                  v FK Krasnodar             0-3 (0-0)
+    19.00  Arsenal Tula            v Akhmat Grozny            0-0
+    20.00  Spartak Moskva          v FK Sochi                 2-2 (2-1)
+  Mon Aug/10
+    17.00  FK Ural                 v Dinamo Moskva            0-2 (0-1)
+  Tue Aug/11
+    18.00  Rotor Volgograd         v Zenit St. Petersburg     0-2 (0-1)
+    20.00  Rubin Kazan             v Lokomotiv Moskva         0-2 (0-2)
+
+
+» Matchday 2
+  Fri Aug/14
+    18.00  Arsenal Tula            v FK Ufa                   2-3 (1-1)
+    19.00  FK Sochi                v FK Khimki                1-1 (0-1)
+    20.00  Spartak Moskva          v Akhmat Grozny            2-0 (0-0)
+  Sat Aug/15
+    15.30  Dinamo Moskva           v Rotor Volgograd          0-0
+           Rubin Kazan             v FK Ural                  1-1 (1-1)
+    18.00  CSKA Moskva             v FK Tambov                2-1 (1-1)
+    19.00  Lokomotiv Moskva        v FK Krasnodar             1-0 (1-0)
+    20.00  FK Rostov               v Zenit St. Petersburg     0-2 (0-1)
+
+
+» Matchday 3
+  Tue Aug/18
+    18.00  FK Sochi                v Rubin Kazan              3-2 (1-0)
+    19.00  FK Tambov               v FK Khimki                1-0 (1-0)
+    20.00  FK Krasnodar            v Arsenal Tula             2-0 (1-0)
+  Wed Aug/19
+    16.00  FK Ufa                  v Spartak Moskva           1-1 (1-1)
+           FK Ural                 v Lokomotiv Moskva         1-1 (0-0)
+    18.00  Akhmat Grozny           v Rotor Volgograd          3-1 (0-0)
+    19.00  Dinamo Moskva           v FK Rostov                2-0 (2-0)
+    20.00  Zenit St. Petersburg    v CSKA Moskva              2-1 (1-1)
+
+
+» Matchday 4
+  Sat Aug/22
+    14.00  FK Ural                 v FK Krasnodar             1-0 (1-0)
+    16.00  FK Khimki               v Akhmat Grozny            1-2 (1-0)
+    17.30  Arsenal Tula            v Dinamo Moskva            2-0 (1-0)
+    18.00  Zenit St. Petersburg    v FK Tambov                4-1 (1-0)
+    20.00  Rotor Volgograd         v FK Sochi                 1-2 (0-1)
+           CSKA Moskva             v Rubin Kazan              1-2 (1-1)
+  Sun Aug/23
+    16.30  FK Ufa                  v FK Rostov                0-1 (0-0)
+    19.00  Spartak Moskva          v Lokomotiv Moskva         2-1 (0-1)
+
+
+» Matchday 5
+  Tue Aug/25
+    18.30  FK Tambov               v FK Sochi                 0-1 (0-0)
+    20.30  Arsenal Tula            v FK Khimki                1-1 (0-1)
+  Wed Aug/26
+    18.30  Lokomotiv Moskva        v Akhmat Grozny            2-3 (0-2)
+           Rotor Volgograd         v Spartak Moskva           0-1 (0-0)
+           Rubin Kazan             v FK Ufa                   3-0 (0-0)
+    20.30  FK Krasnodar            v CSKA Moskva              1-1 (0-1)
+           FK Rostov               v FK Ural                  1-0 (0-0)
+    20.45  Dinamo Moskva           v Zenit St. Petersburg     1-0 (1-0)
+
+
+» Matchday 6
+  Sat Aug/29
+    18.00  Spartak Moskva          v Arsenal Tula             2-1 (2-1)
+    20.00  FK Khimki               v Rotor Volgograd          1-1 (0-1)
+  Sun Aug/30
+    14.00  FK Ufa                  v Dinamo Moskva            1-1 (0-1)
+    16.00  Lokomotiv Moskva        v Zenit St. Petersburg     0-0
+    18.00  Akhmat Grozny           v CSKA Moskva              0-3 (0-1)
+           Rubin Kazan             v FK Tambov                2-2 (1-1)
+    20.00  FK Krasnodar            v FK Rostov                1-1 (0-0)
+           FK Sochi                v FK Ural                  0-0
+
+
+» Matchday 7
+  Sat Sep/12
+    13.45  FK Tambov               v FK Ufa                   2-0 (1-0)
+    16.30  FK Ural                 v FK Khimki                3-1 (2-0)
+    19.00  Akhmat Grozny           v FK Sochi                 0-1 (0-1)
+  Sun Sep/13
+           Rotor Volgograd         v FK Krasnodar             0-3    [awarded]
+    16.30  Dinamo Moskva           v Rubin Kazan              0-1 (0-1)
+    19.00  CSKA Moskva             v Spartak Moskva           3-1 (2-1)
+  Mon Sep/14
+    18.30  Zenit St. Petersburg    v Arsenal Tula             3-1 (2-0)
+    20.30  FK Rostov               v Lokomotiv Moskva         0-0
+
+
+» Matchday 8
+  Fri Sep/18
+    20.00  FK Krasnodar            v FK Khimki                7-2 (3-2)
+  Sat Sep/19
+           FK Rostov               v Rotor Volgograd          3-0    [awarded]
+    16.30  FK Ural                 v Zenit St. Petersburg     1-1 (0-1)
+  Sun Sep/20
+    14.00  Arsenal Tula            v FK Sochi                 3-2 (2-1)
+           FK Ufa                  v CSKA Moskva              0-1 (0-0)
+    16.30  Rubin Kazan             v Spartak Moskva           0-2 (0-2)
+    19.00  Lokomotiv Moskva        v FK Tambov                1-0 (1-0)
+  Mon Sep/21
+    19.00  Dinamo Moskva           v Akhmat Grozny            1-0 (0-0)
+
+
+» Matchday 9
+  Sat Sep/26
+    14.00  FK Tambov               v Spartak Moskva           0-2 (0-0)
+    16.30  Zenit St. Petersburg    v FK Ufa                   6-0 (2-0)
+    20.00  FK Sochi                v FK Krasnodar             1-1 (1-0)
+  Sun Sep/27
+    14.00  Arsenal Tula            v FK Rostov                2-3 (1-3)
+    16.30  Akhmat Grozny           v FK Ural                  2-0 (1-0)
+    19.00  Rotor Volgograd         v Rubin Kazan              1-3 (0-1)
+           CSKA Moskva             v Lokomotiv Moskva         0-1 (0-1)
+  Mon Sep/28
+    19.00  FK Khimki               v Dinamo Moskva            1-0 (1-0)
+
+
+» Matchday 10
+  Sat Oct/3
+    14.00  FK Ufa                  v Rotor Volgograd          0-0
+    16.30  FK Tambov               v Arsenal Tula             1-1 (0-1)
+           FK Ural                 v CSKA Moskva              0-2 (0-0)
+    19.00  Spartak Moskva          v Zenit St. Petersburg     1-1 (0-0)
+  Sun Oct/4
+    14.00  Lokomotiv Moskva        v FK Khimki                2-1 (1-0)
+    16.30  Rubin Kazan             v Akhmat Grozny            1-1 (0-0)
+           FK Sochi                v FK Rostov                4-2 (1-0)
+    20.00  Dinamo Moskva           v FK Krasnodar             2-0 (1-0)
+
+
+» Matchday 11
+  Sat Oct/17
+    14.00  Zenit St. Petersburg    v FK Sochi                 3-1 (2-0)
+    16.30  FK Krasnodar            v Rubin Kazan              3-1 (1-0)
+           Lokomotiv Moskva        v FK Ufa                   1-0 (0-0)
+    19.00  FK Khimki               v Spartak Moskva           2-3 (0-0)
+  Sun Oct/18
+    14.00  Arsenal Tula            v FK Ural                  1-0 (1-0)
+           Rotor Volgograd         v FK Tambov                0-2 (0-0)
+    16.30  CSKA Moskva             v Dinamo Moskva            3-1 (0-0)
+    19.00  FK Rostov               v Akhmat Grozny            3-0 (1-0)
+
+
+» Matchday 12
+  Sat Oct/24
+    14.00  Dinamo Moskva           v FK Sochi                 3-1 (2-1)
+    16.30  Zenit St. Petersburg    v Rubin Kazan              1-2 (1-1)
+    19.00  FK Krasnodar            v Spartak Moskva           1-3 (0-2)
+           Lokomotiv Moskva        v Rotor Volgograd          1-2 (1-1)
+  Sun Oct/25
+    14.00  FK Ural                 v FK Tambov                0-0
+    16.30  FK Rostov               v FK Khimki                0-2 (0-0)
+    19.00  Akhmat Grozny           v FK Ufa                   3-1 (1-0)
+  Mon Oct/26
+    19.00  CSKA Moskva             v Arsenal Tula             5-1 (1-0)
+
+
+» Matchday 13
+  Sat Oct/31
+    14.00  Rubin Kazan             v Arsenal Tula             3-1 (2-0)
+    16.30  Akhmat Grozny           v FK Krasnodar             2-0 (0-0)
+           Spartak Moskva          v FK Rostov                0-1 (0-1)
+    19.00  FK Sochi                v Lokomotiv Moskva         2-1 (2-0)
+  Sun Nov/1
+    12.00  FK Ufa                  v FK Ural                  1-2 (0-2)
+    14.00  FK Khimki               v Zenit St. Petersburg     0-2 (0-1)
+    16.30  Rotor Volgograd         v CSKA Moskva              0-1 (0-1)
+    19.00  FK Tambov               v Dinamo Moskva            1-2 (0-1)
+
+
+» Matchday 14
+  Fri Nov/6
+    19.00  FK Sochi                v FK Ufa                   1-1 (0-0)
+  Sat Nov/7
+    14.00  FK Ural                 v Spartak Moskva           2-2 (1-2)
+    16.30  Arsenal Tula            v Rotor Volgograd          1-1 (1-0)
+    19.00  FK Tambov               v Akhmat Grozny            0-1 (0-0)
+  Sun Nov/8
+    14.00  FK Khimki               v Rubin Kazan              2-0 (0-0)
+    16.30  CSKA Moskva             v FK Rostov                2-0 (1-0)
+    19.00  Dinamo Moskva           v Lokomotiv Moskva         5-1 (2-1)
+           Zenit St. Petersburg    v FK Krasnodar             3-1 (0-1)
+
+
+» Matchday 15
+  Sat Nov/21
+    14.00  FK Krasnodar            v FK Tambov                1-0 (1-0)
+    16.30  Akhmat Grozny           v Zenit St. Petersburg     2-2 (1-1)
+    19.00  Lokomotiv Moskva        v Arsenal Tula             1-0 (0-0)
+           Spartak Moskva          v Dinamo Moskva            1-1 (0-0)
+  Sun Nov/22
+    14.00  CSKA Moskva             v FK Sochi                 1-1 (1-1)
+    16.30  Rotor Volgograd         v FK Ural                  0-0
+    19.00  Rubin Kazan             v FK Rostov                0-2 (0-0)
+  Mon Nov/23
+    17.00  FK Ufa                  v FK Khimki                1-2 (0-2)
+
+
+» Matchday 16
+  Sat Nov/28
+    14.00  Arsenal Tula            v Zenit St. Petersburg     0-0
+    16.30  FK Khimki               v FK Krasnodar             1-0 (0-0)
+    19.00  Akhmat Grozny           v Lokomotiv Moskva         0-0
+           FK Rostov               v Dinamo Moskva            4-1 (1-0)
+  Sun Nov/29
+    12.00  FK Ural                 v FK Sochi                 1-0 (0-0)
+    14.00  FK Ufa                  v FK Tambov                4-0 (2-0)
+    16.30  Rubin Kazan             v CSKA Moskva              1-0 (0-0)
+    19.00  Spartak Moskva          v Rotor Volgograd          2-0 (1-0)
+
+
+» Matchday 17
+  Sat Dec/5
+    14.00  Lokomotiv Moskva        v Rubin Kazan              3-1 (1-1)
+    16.30  Spartak Moskva          v FK Tambov                5-1 (1-0)
+    19.00  FK Krasnodar            v Rotor Volgograd          5-0 (3-0)
+           Zenit St. Petersburg    v FK Ural                  5-1 (4-0)
+  Sun Dec/6
+    14.00  FK Rostov               v FK Ufa                   0-1 (0-0)
+    16.30  Dinamo Moskva           v Arsenal Tula             1-0 (1-0)
+    19.00  CSKA Moskva             v FK Khimki                2-2 (1-0)
+  Mon Dec/7
+    19.00  FK Sochi                v Akhmat Grozny            2-0 (2-0)
+
+
+» Matchday 18
+  Fri Dec/11
+    19.00  FK Khimki               v Arsenal Tula             1-0 (1-0)
+  Sat Dec/12
+    14.00  Rotor Volgograd         v FK Ufa                   1-0 (0-0)
+    16.30  FK Sochi                v Spartak Moskva           1-0 (0-0)
+    19.00  Zenit St. Petersburg    v Dinamo Moskva            3-1 (2-0)
+  Sun Dec/13
+    14.00  FK Tambov               v Rubin Kazan              0-1 (0-1)
+    16.30  FK Krasnodar            v Lokomotiv Moskva         5-0 (2-0)
+    19.00  Akhmat Grozny           v FK Rostov                0-1 (0-0)
+           CSKA Moskva             v FK Ural                  2-2 (1-1)
+
+
+» Matchday 19
+  Wed Dec/16
+    18.00  Rotor Volgograd         v Arsenal Tula             1-0 (0-0)
+           FK Sochi                v Dinamo Moskva            2-0 (0-0)
+    20.00  Zenit St. Petersburg    v Spartak Moskva           3-1 (1-1)
+  Thu Dec/17
+    18.00  FK Krasnodar            v FK Ufa                   1-0 (1-0)
+           FK Khimki               v Lokomotiv Moskva         3-2 (1-2)
+    20.00  Akhmat Grozny           v Rubin Kazan              0-0
+           FK Rostov               v CSKA Moskva              1-3 (0-1)
+  Fri Dec/18
+    18.00  FK Tambov               v FK Ural                  1-1 (1-1)
+
+
+» Matchday 20
+  Fri Feb/26 2021
+    19.00  FK Tambov               v Rotor Volgograd          1-3 (1-0)
+  Sat Feb/27
+    14.00  FK Khimki               v FK Ufa                   2-1 (0-0)
+    16.30  Zenit St. Petersburg    v FK Rostov                2-2 (0-1)
+    19.00  Lokomotiv Moskva        v CSKA Moskva              2-0 (2-0)
+           FK Sochi                v Arsenal Tula             4-0 (0-0)
+  Sun Feb/28
+    14.00  Spartak Moskva          v Rubin Kazan              0-2 (0-0)
+    16.30  Akhmat Grozny           v Dinamo Moskva            1-2 (0-2)
+    19.00  FK Krasnodar            v FK Ural                  2-2 (1-0)
+
+
+» Matchday 21
+  Sat Mar/6
+    14.00  CSKA Moskva             v Akhmat Grozny            2-0 (1-0)
+    16.30  Rotor Volgograd         v FK Khimki                0-0
+    19.00  FK Rostov               v FK Sochi                 0-0
+  Sun Mar/7
+    14.00  FK Ural                 v FK Ufa                   0-0
+    16.30  Dinamo Moskva           v FK Tambov                2-0 (1-0)
+    19.00  Spartak Moskva          v FK Krasnodar             6-1 (2-0)
+  Mon Mar/8
+    14.00  Arsenal Tula            v Lokomotiv Moskva         0-3 (0-0)
+    16.30  Rubin Kazan             v Zenit St. Petersburg     2-1 (1-0)
+
+
+» Matchday 22
+  Fri Mar/12
+    19.00  FK Khimki               v FK Rostov                1-0 (0-0)
+  Sat Mar/13
+    12.00  FK Ural                 v Rotor Volgograd          1-0 (0-0)
+    14.00  Arsenal Tula            v CSKA Moskva              2-1 (2-0)
+    16.30  Zenit St. Petersburg    v Akhmat Grozny            4-0 (0-0)
+    19.00  Dinamo Moskva           v Spartak Moskva           1-2 (1-1)
+  Sun Mar/14
+    14.00  FK Ufa                  v Rubin Kazan              0-3 (0-2)
+    16.30  FK Tambov               v FK Krasnodar             0-4 (0-1)
+    19.00  Lokomotiv Moskva        v FK Sochi                 3-1 (1-0)
+
+
+» Matchday 23
+  Wed Mar/17
+    18.00  Rotor Volgograd         v FK Rostov                0-4 (0-1)
+    20.00  Akhmat Grozny           v Arsenal Tula             2-0 (1-0)
+           CSKA Moskva             v Zenit St. Petersburg     2-3 (1-1)
+  Thu Mar/18
+    17.00  FK Ufa                  v Lokomotiv Moskva         0-1 (0-0)
+    19.00  FK Krasnodar            v Dinamo Moskva            2-3 (1-0)
+           Spartak Moskva          v FK Ural                  5-1 (3-0)
+  Fri Mar/19
+    19.00  Rubin Kazan             v FK Khimki                1-3 (1-2)
+           FK Sochi                v FK Tambov                5-0 (1-0)
+
+
+» Matchday 24
+  Sat Apr/3
+    14.00  Rotor Volgograd         v Lokomotiv Moskva         0-2 (0-1)
+    16.30  FK Krasnodar            v Akhmat Grozny            0-5 (0-1)
+           Rubin Kazan             v FK Sochi                 1-0 (0-0)
+    19.00  Dinamo Moskva           v FK Ufa                   4-0 (2-0)
+  Sun Apr/4
+    14.00  FK Ural                 v Arsenal Tula             2-0 (1-0)
+    16.30  FK Tambov               v CSKA Moskva              1-2 (1-1)
+    19.00  FK Rostov               v Spartak Moskva           2-3 (2-2)
+  Mon Apr/5
+    19.00  Zenit St. Petersburg    v FK Khimki                2-0 (1-0)
+
+
+» Matchday 25
+  Sat Apr/10
+    14.00  FK Khimki               v FK Tambov                1-0 (0-0)
+    16.30  FK Ufa                  v Akhmat Grozny            3-0 (2-0)
+    19.00  FK Rostov               v Rubin Kazan              0-1 (0-0)
+  Sun Apr/11
+    14.00  Arsenal Tula            v FK Krasnodar             1-0 (0-0)
+    16.30  Dinamo Moskva           v FK Ural                  2-2 (0-1)
+           FK Sochi                v Zenit St. Petersburg     1-2 (0-0)
+    19.00  Lokomotiv Moskva        v Spartak Moskva           2-0 (2-0)
+  Mon Apr/12
+    19.00  CSKA Moskva             v Rotor Volgograd          2-0 (1-0)
+
+
+» Matchday 26
+  Sat Apr/17
+    14.00  Akhmat Grozny           v FK Khimki                3-1 (2-0)
+    16.30  Lokomotiv Moskva        v FK Rostov                4-1 (2-1)
+           Rotor Volgograd         v Dinamo Moskva            0-3 (0-0)
+    19.00  FK Krasnodar            v Zenit St. Petersburg     2-2 (1-0)
+  Sun Apr/18
+    12.00  FK Ural                 v Rubin Kazan              0-1 (0-1)
+    14.00  Arsenal Tula            v FK Tambov                4-0 (2-0)
+    16.30  FK Sochi                v CSKA Moskva              2-1 (1-0)
+    19.00  Spartak Moskva          v FK Ufa                   0-3 (0-1)
+
+
+» Matchday 27
+  Sat Apr/24
+    14.00  FK Ural                 v Akhmat Grozny            1-1 (0-1)
+    16.30  Zenit St. Petersburg    v Rotor Volgograd          6-0 (1-0)
+    19.00  Dinamo Moskva           v FK Khimki                0-1 (0-0)
+           FK Tambov               v Lokomotiv Moskva         2-5 (1-1)
+  Sun Apr/25
+    14.00  FK Ufa                  v FK Sochi                 2-3 (1-2)
+    16.30  FK Rostov               v Arsenal Tula             1-0 (0-0)
+           Spartak Moskva          v CSKA Moskva              1-0 (0-0)
+    19.00  Rubin Kazan             v FK Krasnodar             0-1 (0-1)
+
+
+» Matchday 28
+  Sat May/1
+    14.00  Rotor Volgograd         v Akhmat Grozny            1-0 (1-0)
+           Rubin Kazan             v Dinamo Moskva            2-0 (1-0)
+    16.30  CSKA Moskva             v FK Ufa                   1-1 (0-0)
+    19.00  FK Krasnodar            v FK Sochi                 1-3 (0-1)
+  Sun May/2
+    14.00  FK Khimki               v FK Ural                  1-0 (1-0)
+    16.30  FK Rostov               v FK Tambov                2-0 (0-0)
+    19.00  Zenit St. Petersburg    v Lokomotiv Moskva         6-1 (3-0)
+  Mon May/3
+    16.30  Arsenal Tula            v Spartak Moskva           1-2 (1-1)
+
+
+» Matchday 29
+  Fri May/7
+    18.00  Akhmat Grozny           v FK Tambov                3-1 (2-0)
+    20.00  FK Sochi                v Rotor Volgograd          2-1 (1-1)
+  Sat May/8
+    14.00  FK Ufa                  v Zenit St. Petersburg     0-0
+    16.30  Arsenal Tula            v Rubin Kazan              2-4 (2-0)
+           Lokomotiv Moskva        v Dinamo Moskva            0-0
+    19.30  CSKA Moskva             v FK Krasnodar             3-1 (1-1)
+  Mon May/10
+    16.30  FK Ural                 v FK Rostov                1-0 (1-0)
+    19.00  Spartak Moskva          v FK Khimki                2-1 (0-1)
+
+
+» Matchday 30
+  Sun May/16
+    14.00  Akhmat Grozny           v Spartak Moskva           2-2 (2-0)
+           Dinamo Moskva           v CSKA Moskva              3-2 (0-1)
+           FK Rostov               v FK Krasnodar             1-3 (0-1)
+           FK Tambov               v Zenit St. Petersburg     1-5 (1-1)
+           FK Khimki               v FK Sochi                 0-0
+           Lokomotiv Moskva        v FK Ural                  1-0 (0-0)
+           Rubin Kazan             v Rotor Volgograd          1-1 (0-0)
+    16.00  FK Ufa                  v Arsenal Tula             2-1 (2-1)

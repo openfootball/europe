@@ -1,0 +1,398 @@
+= Hungarian Nemzeti Bajnokság I 2020/21
+
+# Date       Fri Aug/14 2020 - Sun May/9 2021 (268d)
+# Teams      12
+# Matches    198
+
+
+
+» Matchday 1
+  Fri Aug/14 2020
+    18.15  MTK Budapest            v Ferencvárosi TC          1-1 (1-0)
+  Sat Aug/15
+    16.30  Paksi SE                v Újpest FC                1-2 (0-1)
+    18.35  Zalaegerszegi TE        v Fehérvár FC              3-3 (2-2)
+  Sun Aug/16
+    16.55  Diósgyöri VTK           v Mezőkövesdi SE           2-1 (2-1)
+  Mon Aug/17
+    19.00  Budafoki MTE            v Kisvárda FC              2-1 (1-1)
+  Wed Nov/4
+    15.30  Puskás FC               v Budapest Honvéd          1-0 (0-0)
+
+
+» Matchday 2
+  Fri Aug/21
+    16.30  Mezőkövesdi SE          v Zalaegerszegi TE         1-1 (0-1)
+    19.00  MTK Budapest            v Budapest Honvéd          3-1 (1-1)
+  Sat Aug/22
+    21.00  Fehérvár FC             v Paksi SE                 1-1 (0-0)
+  Sun Aug/23
+    17.45  Újpest FC               v Budafoki MTE             1-1 (1-0)
+  Fri Sep/4
+    20.00  Kisvárda FC             v Puskás FC                0-3 (0-1)
+  Wed Jan/20 2021
+    20.00  Ferencvárosi TC         v Diósgyöri VTK            0-1 (0-0)
+
+
+» Matchday 3
+  Fri Aug/28 2020
+    20.00  Diósgyöri VTK           v MTK Budapest             1-1 (1-0)
+  Sat Aug/29
+    20.30  Paksi SE                v Mezőkövesdi SE           1-2 (0-2)
+  Sun Aug/30
+    17.45  Budafoki MTE            v Fehérvár FC              1-4 (0-1)
+           Zalaegerszegi TE        v Ferencvárosi TC          1-2 (0-1)
+    20.00  Puskás FC               v Újpest FC                3-2 (1-1)
+           Budapest Honvéd         v Kisvárda FC              1-2 (1-2)
+
+
+» Matchday 4
+  Fri Sep/11
+    20.00  Ferencvárosi TC         v Paksi SE                 5-0 (3-0)
+  Sat Sep/12
+    14.45  Mezőkövesdi SE          v Budafoki MTE             1-0 (0-0)
+    17.00  Diósgyöri VTK           v Budapest Honvéd          2-4 (2-2)
+    19.30  Fehérvár FC             v Puskás FC                3-1 (1-0)
+  Sun Sep/13
+    15.00  Újpest FC               v Kisvárda FC              2-4 (2-2)
+    17.30  MTK Budapest            v Zalaegerszegi TE         0-3 (0-1)
+
+
+» Matchday 5
+  Fri Sep/25
+    20.00  Puskás FC               v Mezőkövesdi SE           1-0 (0-0)
+  Sat Sep/26
+    14.45  Paksi SE                v MTK Budapest             4-0 (1-0)
+    19.30  Zalaegerszegi TE        v Diósgyöri VTK            3-1 (2-1)
+  Sun Sep/27
+    18.00  Budapest Honvéd         v Újpest FC                1-2 (1-0)
+  Wed Jan/27 2021
+    17.45  Kisvárda FC             v Fehérvár FC              2-1 (1-1)
+    20.00  Budafoki MTE            v Ferencvárosi TC          0-3 (0-1)
+
+
+» Matchday 6
+  Fri Oct/2 2020
+    20.00  MTK Budapest            v Budafoki MTE             1-2 (0-1)
+  Sat Oct/3
+    17.00  Mezőkövesdi SE          v Kisvárda FC              1-2 (0-2)
+    19.30  Diósgyöri VTK           v Paksi SE                 1-2 (0-1)
+  Sun Oct/4
+    15.00  Zalaegerszegi TE        v Budapest Honvéd          2-4 (0-2)
+    17.30  Ferencvárosi TC         v Puskás FC                2-1 (1-1)
+    20.00  Fehérvár FC             v Újpest FC                5-1 (0-0)
+
+
+» Matchday 7
+  Fri Oct/16
+    20.00  Kisvárda FC             v Ferencvárosi TC          0-2 (0-0)
+  Sat Oct/17
+    14.45  Budafoki MTE            v Diósgyöri VTK            2-1 (1-0)
+    17.00  Újpest FC               v Mezőkövesdi SE           1-0 (0-0)
+    19.30  Puskás FC               v MTK Budapest             0-3 (0-2)
+  Sun Oct/18
+    14.30  Paksi SE                v Zalaegerszegi TE         3-1 (1-1)
+    17.00  Budapest Honvéd         v Fehérvár FC              2-2 (1-0)
+
+
+» Matchday 8
+  Sat Oct/24
+    14.45  MTK Budapest            v Kisvárda FC              1-1 (1-0)
+    17.00  Paksi SE                v Budapest Honvéd          0-0
+    19.30  Ferencvárosi TC         v Újpest FC                2-0 (1-0)
+  Sun Oct/25
+    14.30  Zalaegerszegi TE        v Budafoki MTE             1-3 (1-2)
+    17.00  Mezőkövesdi SE          v Fehérvár FC              1-2 (0-1)
+    19.30  Diósgyöri VTK           v Puskás FC                3-0 (3-0)
+
+
+» Matchday 9
+  Sat Oct/31
+    14.45  Puskás FC               v Zalaegerszegi TE         1-2 (1-1)
+    17.00  Budapest Honvéd         v Mezőkövesdi SE           1-1 (0-0)
+    19.30  Fehérvár FC             v Ferencvárosi TC          1-1 (0-1)
+  Sun Nov/1
+    14.05  Budafoki MTE            v Paksi SE                 2-3 (2-3)
+    16.00  Újpest FC               v MTK Budapest             0-4 (0-3)
+    18.30  Kisvárda FC             v Diósgyöri VTK            1-0 (0-0)
+
+
+» Matchday 10
+  Fri Nov/6
+    20.00  Diósgyöri VTK           v Újpest FC                3-0    [awarded]
+  Sat Nov/7
+    14.45  Paksi SE                v Puskás FC                6-2 (3-1)
+    19.45  MTK Budapest            v Fehérvár FC              3-1 (1-0)
+  Sun Nov/8
+    14.30  Zalaegerszegi TE        v Kisvárda FC              1-2 (0-1)
+    17.00  Ferencvárosi TC         v Mezőkövesdi SE           3-0 (3-0)
+  Wed Dec/23
+    20.15  Budafoki MTE            v Budapest Honvéd          1-2 (1-1)
+
+
+» Matchday 11
+  Fri Nov/20
+    20.00  Kisvárda FC             v Paksi SE                 3-1 (2-1)
+  Sat Nov/21
+    14.45  Puskás FC               v Budafoki MTE             3-0 (1-0)
+    17.00  Mezőkövesdi SE          v MTK Budapest             0-1 (0-1)
+    19.30  Budapest Honvéd         v Ferencvárosi TC          0-1 (0-1)
+  Sun Nov/22
+    17.00  Fehérvár FC             v Diósgyöri VTK            3-0 (1-0)
+  Wed Dec/23
+    18.00  Újpest FC               v Zalaegerszegi TE         3-2 (1-1)
+
+
+» Matchday 12
+  Fri Nov/27
+    20.00  Újpest FC               v Paksi SE                 1-1 (0-0)
+  Sat Nov/28
+    14.45  Kisvárda FC             v Budafoki MTE             0-0
+    17.00  Fehérvár FC             v Zalaegerszegi TE         2-0 (2-0)
+    19.30  Ferencvárosi TC         v MTK Budapest             2-0 (1-0)
+  Sun Nov/29
+    14.05  Mezőkövesdi SE          v Diósgyöri VTK            2-1 (1-0)
+    18.45  Budapest Honvéd         v Puskás FC                0-1 (0-0)
+
+
+» Matchday 13
+  Fri Dec/4
+    20.15  Budafoki MTE            v Újpest FC                1-1 (0-0)
+  Sat Dec/5
+    14.45  Zalaegerszegi TE        v Mezőkövesdi SE           3-0 (2-0)
+    17.00  Diósgyöri VTK           v Ferencvárosi TC          1-3 (1-2)
+    19.30  Puskás FC               v Kisvárda FC              0-0
+  Sun Dec/6
+    15.15  Budapest Honvéd         v MTK Budapest             2-2 (2-0)
+    17.30  Paksi SE                v Fehérvár FC              1-0 (0-0)
+
+
+» Matchday 14
+  Fri Dec/11
+    20.00  Újpest FC               v Puskás FC                1-2 (0-0)
+  Sat Dec/12
+    14.45  Kisvárda FC             v Budapest Honvéd          0-0
+    17.00  Ferencvárosi TC         v Zalaegerszegi TE         2-0 (0-0)
+    19.30  Fehérvár FC             v Budafoki MTE             4-1 (3-0)
+  Sun Dec/13
+    14.30  Mezőkövesdi SE          v Paksi SE                 4-3 (2-1)
+    17.00  MTK Budapest            v Diósgyöri VTK            1-0 (0-0)
+
+
+» Matchday 15
+  Tue Dec/15
+    18.00  Kisvárda FC             v Újpest FC                1-1 (0-0)
+    20.15  Fehérvár FC             v Puskás FC                1-1 (0-1)
+  Wed Dec/16
+    18.00  Budapest Honvéd         v Diósgyöri VTK            5-1 (2-0)
+           Zalaegerszegi TE        v MTK Budapest             2-0 (2-0)
+    20.15  Paksi SE                v Ferencvárosi TC          1-3 (1-1)
+           Budafoki MTE            v Mezőkövesdi SE           0-1 (0-0)
+
+
+» Matchday 16
+  Fri Dec/18
+    20.00  Fehérvár FC             v Kisvárda FC              3-0 (1-0)
+  Sat Dec/19
+    14.45  MTK Budapest            v Paksi SE                 3-1 (0-0)
+    17.00  Diósgyöri VTK           v Zalaegerszegi TE         1-3 (0-2)
+    19.30  Ferencvárosi TC         v Budafoki MTE             2-1 (0-0)
+  Sun Dec/20
+    14.30  Mezőkövesdi SE          v Puskás FC                1-0 (1-0)
+    17.00  Újpest FC               v Budapest Honvéd          2-1 (0-0)
+
+
+» Matchday 17
+  Sat Jan/23 2021
+    14.30  Kisvárda FC             v Mezőkövesdi SE           0-0
+    17.00  Puskás FC               v Ferencvárosi TC          1-1 (1-0)
+    19.30  Újpest FC               v Fehérvár FC              0-5 (0-2)
+  Sun Jan/24
+    13.30  Budafoki MTE            v MTK Budapest             2-2 (1-2)
+    15.45  Paksi SE                v Diósgyöri VTK            2-1 (2-0)
+    18.00  Budapest Honvéd         v Zalaegerszegi TE         2-2 (1-0)
+
+
+» Matchday 18
+  Sat Jan/30
+    12.30  MTK Budapest            v Puskás FC                0-1 (0-0)
+    14.45  Mezőkövesdi SE          v Újpest FC                3-2 (1-0)
+    17.00  Ferencvárosi TC         v Kisvárda FC              1-1 (0-1)
+    19.30  Fehérvár FC             v Budapest Honvéd          1-2 (1-1)
+  Sun Jan/31
+    14.10  Zalaegerszegi TE        v Paksi SE                 4-4 (1-2)
+    16.15  Diósgyöri VTK           v Budafoki MTE             1-1 (1-0)
+
+
+» Matchday 19
+  Tue Feb/2
+    17.30  Kisvárda FC             v MTK Budapest             0-2 (0-1)
+    20.00  Fehérvár FC             v Mezőkövesdi SE           0-0
+  Wed Feb/3
+    16.00  Puskás FC               v Diósgyöri VTK            2-0 (1-0)
+    17.30  Budapest Honvéd         v Paksi SE                 1-1 (0-0)
+    20.00  Budafoki MTE            v Zalaegerszegi TE         3-1 (1-0)
+           Újpest FC               v Ferencvárosi TC          0-4 (0-1)
+
+
+» Matchday 20
+  Sat Feb/6
+    14.45  Diósgyöri VTK           v Kisvárda FC              2-0 (2-0)
+    17.00  Mezőkövesdi SE          v Budapest Honvéd          2-1 (2-0)
+    19.30  MTK Budapest            v Újpest FC                1-3 (1-3)
+  Sun Feb/7
+    14.10  Paksi SE                v Budafoki MTE             4-1 (2-0)
+    16.15  Zalaegerszegi TE        v Puskás FC                1-2 (0-0)
+    18.30  Ferencvárosi TC         v Fehérvár FC              2-0 (1-0)
+
+
+» Matchday 21
+  Fri Feb/12
+    20.00  Újpest FC               v Diósgyöri VTK            1-0 (0-0)
+  Sat Feb/13
+    14.45  Puskás FC               v Paksi SE                 3-2 (2-0)
+    17.00  Kisvárda FC             v Zalaegerszegi TE         2-1 (1-0)
+    19.30  Budapest Honvéd         v Budafoki MTE             2-3 (2-1)
+  Sun Feb/14
+    14.30  Mezőkövesdi SE          v Ferencvárosi TC          2-2 (0-1)
+    17.00  Fehérvár FC             v MTK Budapest             1-2 (1-0)
+
+
+» Matchday 22
+  Fri Feb/19
+    20.00  MTK Budapest            v Mezőkövesdi SE           0-0
+  Sat Feb/20
+    14.45  Zalaegerszegi TE        v Újpest FC                3-0 (1-0)
+    17.00  Fehérvár FC             v Diósgyöri VTK            1-3 (1-0)
+    19.30  Ferencvárosi TC         v Budapest Honvéd          1-0 (0-0)
+  Sun Feb/21
+    14.30  Budafoki MTE            v Puskás FC                0-3 (0-1)
+    17.00  Paksi SE                v Kisvárda FC              3-0 (2-0)
+
+
+» Matchday 23
+  Fri Feb/26
+    20.00  Diósgyöri VTK           v Mezőkövesdi SE           2-2 (1-1)
+  Sat Feb/27
+    14.45  Budafoki MTE            v Kisvárda FC              2-0 (0-0)
+    17.00  Puskás FC               v Budapest Honvéd          1-2 (1-1)
+    19.30  MTK Budapest            v Ferencvárosi TC          2-2 (0-2)
+  Sun Feb/28
+    14.30  Paksi SE                v Újpest FC                1-3 (1-0)
+    17.00  Zalaegerszegi TE        v Fehérvár FC              0-2 (0-0)
+
+
+» Matchday 24
+  Tue Mar/2
+    15.15  Kisvárda FC             v Puskás FC                0-1 (0-1)
+    17.30  Budapest Honvéd         v MTK Budapest             3-2 (1-2)
+    20.00  Ferencvárosi TC         v Diósgyöri VTK            1-0 (0-0)
+  Wed Mar/3
+    15.15  Mezőkövesdi SE          v Zalaegerszegi TE         2-0 (2-0)
+    17.30  Újpest FC               v Budafoki MTE             2-0 (0-0)
+    20.00  Fehérvár FC             v Paksi SE                 2-2 (1-0)
+
+
+» Matchday 25
+  Fri Mar/5
+    20.00  Diósgyöri VTK           v MTK Budapest             0-0
+  Sat Mar/6
+    17.00  Paksi SE                v Mezőkövesdi SE           2-2 (0-1)
+    19.30  Puskás FC               v Újpest FC                2-1 (1-1)
+  Sun Mar/7
+    16.00  Budapest Honvéd         v Kisvárda FC              0-1 (0-0)
+    18.00  Zalaegerszegi TE        v Ferencvárosi TC          2-2 (1-0)
+    20.00  Budafoki MTE            v Fehérvár FC              1-2 (1-1)
+
+
+» Matchday 26
+  Sat Mar/13
+    14.45  Újpest FC               v Kisvárda FC              3-0 (3-0)
+    17.00  MTK Budapest            v Zalaegerszegi TE         3-0 (0-0)
+    19.30  Diósgyöri VTK           v Budapest Honvéd          0-0
+  Sun Mar/14
+    14.05  Mezőkövesdi SE          v Budafoki MTE             2-1 (1-1)
+    17.00  Ferencvárosi TC         v Paksi SE                 5-2 (1-1)
+    19.15  Puskás FC               v Fehérvár FC              1-0 (0-0)
+
+
+» Matchday 27
+  Sat Apr/3
+    14.45  Paksi SE                v MTK Budapest             3-1 (2-0)
+    17.00  Zalaegerszegi TE        v Diósgyöri VTK            2-0 (1-0)
+    19.30  Budapest Honvéd         v Újpest FC                2-2 (2-2)
+  Sun Apr/4
+    14.30  Kisvárda FC             v Fehérvár FC              0-0
+    17.00  Budafoki MTE            v Ferencvárosi TC          0-4 (0-0)
+    19.15  Puskás FC               v Mezőkövesdi SE           2-0 (1-0)
+
+
+» Matchday 28
+  Fri Apr/9
+    20.00  Mezőkövesdi SE          v Kisvárda FC              0-1 (0-1)
+  Sat Apr/10
+    14.45  MTK Budapest            v Budafoki MTE             0-0
+    17.00  Fehérvár FC             v Újpest FC                4-0 (2-0)
+    19.30  Ferencvárosi TC         v Puskás FC                1-1 (0-1)
+  Sun Apr/11
+    14.30  Diósgyöri VTK           v Paksi SE                 1-4 (0-2)
+    17.00  Zalaegerszegi TE        v Budapest Honvéd          0-1 (0-0)
+
+
+» Matchday 29
+  Fri Apr/16
+    18.00  Budafoki MTE            v Diósgyöri VTK            1-2 (0-1)
+  Sat Apr/17
+    14.45  Újpest FC               v Mezőkövesdi SE           3-0 (2-0)
+    17.00  Kisvárda FC             v Ferencvárosi TC          0-0
+    19.30  Paksi SE                v Zalaegerszegi TE         1-1 (0-1)
+  Sun Apr/18
+    15.15  Puskás FC               v MTK Budapest             3-0 (2-0)
+    17.30  Budapest Honvéd         v Fehérvár FC              2-3 (2-1)
+
+
+» Matchday 30
+  Tue Apr/20
+    17.30  Zalaegerszegi TE        v Budafoki MTE             5-0 (2-0)
+    20.00  Ferencvárosi TC         v Újpest FC                3-0 (2-0)
+  Wed Apr/21
+    15.15  MTK Budapest            v Kisvárda FC              0-1 (0-1)
+    17.30  Diósgyöri VTK           v Puskás FC                2-1 (1-0)
+    20.00  Mezőkövesdi SE          v Fehérvár FC              1-3 (1-0)
+    20.15  Paksi SE                v Budapest Honvéd          2-0 (2-0)
+
+
+» Matchday 31
+  Sat Apr/24
+    14.45  Puskás FC               v Zalaegerszegi TE         1-4 (1-1)
+    17.00  Kisvárda FC             v Diósgyöri VTK            0-1 (0-0)
+    19.30  Újpest FC               v MTK Budapest             1-3 (1-1)
+  Sun Apr/25
+    14.30  Budafoki MTE            v Paksi SE                 2-9 (2-4)
+    17.00  Fehérvár FC             v Ferencvárosi TC          1-2 (0-1)
+    19.30  Budapest Honvéd         v Mezőkövesdi SE           2-2 (0-1)
+
+
+» Matchday 32
+  Thu Apr/29
+    17.30  Diósgyöri VTK           v Újpest FC                0-0
+    20.00  MTK Budapest            v Fehérvár FC              1-3 (0-1)
+  Fri Apr/30
+    20.00  Paksi SE                v Puskás FC                4-2 (0-1)
+  Sat May/1
+    17.00  Zalaegerszegi TE        v Kisvárda FC              0-0
+    19.30  Ferencvárosi TC         v Mezőkövesdi SE           2-1 (1-0)
+  Sun May/2
+    17.00  Budafoki MTE            v Budapest Honvéd          0-1 (0-0)
+
+
+» Matchday 33
+  Fri May/7
+    20.00  Mezőkövesdi SE          v MTK Budapest             5-1 (2-0)
+  Sat May/8
+    17.00  Budapest Honvéd         v Ferencvárosi TC          1-2 (1-0)
+    19.30  Újpest FC               v Zalaegerszegi TE         5-4 (3-1)
+  Sun May/9
+    17.30  Puskás FC               v Budafoki MTE             5-0 (4-0)
+           Diósgyöri VTK           v Fehérvár FC              0-4 (0-1)
+           Kisvárda FC             v Paksi SE                 5-1 (4-0)
