@@ -421,98 +421,114 @@
 
 » Matchday 24
   Fri Mar/28
-    20.15  Gil Vicente FC          v Sport Lisboa e Benfica
+    20.15  Gil Vicente FC          v Sport Lisboa e Benfica   0-3 (0-1)
 
 
 » Matchday 27
+  Sat Mar/29
+    15.30  Casa Pia AC             v Rio Ave FC               2-1 (1-1)
+    18.00  CF Estrela da Amadora   v Sporting Clube de Portugal  0-3 (0-0)
+    20.30  Sporting Clube de Braga v FC Arouca                2-1 (2-0)
   Sun Mar/30
-    00.00  Sport Lisboa e Benfica  v SC Farense
-           Moreirense FC           v Vitória Guimarães
-           FC Famalicão            v AVS
-           Sporting Clube de Braga v FC Arouca
-           Boavista FC             v Gil Vicente FC
-           Casa Pia AC             v Rio Ave FC
-           CD Santa Clara          v CD Nacional
-           CF Estrela da Amadora   v Sporting Clube de Portugal
-           GD Estoril Praia        v FC Porto
+    15.30  FC Famalicão            v AVS                      4-1 (0-0)
+           CD Santa Clara          v CD Nacional              1-0 (1-0)
+    18.00  GD Estoril Praia        v FC Porto                 1-2 (1-1)
+    20.30  Moreirense FC           v Vitória Guimarães        2-2 (1-1)
+  Tue Apr/1
+    20.15  Boavista FC             v Gil Vicente FC
+  Wed Apr/2
+    20.15  Sport Lisboa e Benfica  v SC Farense
 
 
 » Matchday 28
+  Fri Apr/4
+    20.15  AVS                     v GD Estoril Praia
+  Sat Apr/5
+    18.00  FC Arouca               v FC Famalicão
+    20.30  Vitória Guimarães       v CD Santa Clara
   Sun Apr/6
-    01.00  SC Farense              v Casa Pia AC
-           Sporting Clube de Portugal v Sporting Clube de Braga
-           Rio Ave FC              v Boavista FC
-           FC Porto                v Sport Lisboa e Benfica
-           CD Nacional             v CF Estrela da Amadora
-           Vitória Guimarães       v CD Santa Clara
-           AVS                     v GD Estoril Praia
+    15.30  CD Nacional             v CF Estrela da Amadora
            Gil Vicente FC          v Moreirense FC
-           FC Arouca               v FC Famalicão
+    20.30  FC Porto                v Sport Lisboa e Benfica
+  Mon Apr/7
+    18.45  SC Farense              v Casa Pia AC
+    20.15  Rio Ave FC              v Boavista FC
+    20.45  Sporting Clube de Portugal v Sporting Clube de Braga
 
 
 » Matchday 29
-  Sun Apr/13
-           Sporting Clube de Braga v AVS
-           Gil Vicente FC          v Vitória Guimarães
-           FC Famalicão            v GD Estoril Praia
-           Sport Lisboa e Benfica  v FC Arouca
+  Fri Apr/11
+    20.15  Gil Vicente FC          v Vitória Guimarães
+  Sat Apr/12
+    15.30  FC Famalicão            v GD Estoril Praia
            Boavista FC             v CD Nacional
-           Casa Pia AC             v FC Porto
-           CD Santa Clara          v Sporting Clube de Portugal
-           Moreirense FC           v Rio Ave FC
-           CF Estrela da Amadora   v SC Farense
+    18.00  CD Santa Clara          v Sporting Clube de Portugal
+    20.30  Casa Pia AC             v FC Porto
+  Sun Apr/13
+    15.30  CF Estrela da Amadora   v SC Farense
+    18.00  Sporting Clube de Braga v AVS
+           Sport Lisboa e Benfica  v FC Arouca
+    20.30  Moreirense FC           v Rio Ave FC
 
 
 » Matchday 30
-  Sat Apr/19
-           SC Farense              v Boavista FC
-           Vitória Guimarães       v Sport Lisboa e Benfica
-           GD Estoril Praia        v Sporting Clube de Braga
-           CD Nacional             v Gil Vicente FC
+  Fri Apr/18
+    15.30  SC Farense              v Boavista FC
            Rio Ave FC              v CD Santa Clara
-           Sporting Clube de Portugal v Moreirense FC
+    18.00  FC Porto                v FC Famalicão
+    20.30  Sporting Clube de Portugal v Moreirense FC
+  Sat Apr/19
+    15.30  CD Nacional             v Gil Vicente FC
            AVS                     v Casa Pia AC
+    18.00  GD Estoril Praia        v Sporting Clube de Braga
            FC Arouca               v CF Estrela da Amadora
-           FC Porto                v FC Famalicão
+    20.30  Vitória Guimarães       v Sport Lisboa e Benfica
 
 
 » Matchday 31
+  Fri Apr/25
+    20.30  FC Famalicão            v Sporting Clube de Braga
+  Sat Apr/26
+    15.30  CD Santa Clara          v FC Arouca
+    18.00  Gil Vicente FC          v SC Farense
+    20.30  CF Estrela da Amadora   v FC Porto
   Sun Apr/27
-           Sport Lisboa e Benfica  v AVS
-           CD Santa Clara          v FC Arouca
-           Gil Vicente FC          v SC Farense
-           FC Famalicão            v Sporting Clube de Braga
+    15.30  Moreirense FC           v CD Nacional
+    18.00  Sport Lisboa e Benfica  v AVS
            Vitória Guimarães       v Rio Ave FC
-           Boavista FC             v Sporting Clube de Portugal
-           Moreirense FC           v CD Nacional
-           CF Estrela da Amadora   v FC Porto
-           Casa Pia AC             v GD Estoril Praia
+    20.30  Boavista FC             v Sporting Clube de Portugal
+  Mon Apr/28
+    20.15  Casa Pia AC             v GD Estoril Praia
 
 
 » Matchday 32
-  Sun May/4
-           Sporting Clube de Portugal v Gil Vicente FC
-           GD Estoril Praia        v Sport Lisboa e Benfica
-           CD Nacional             v Vitória Guimarães
-           Rio Ave FC              v CF Estrela da Amadora
-           Sporting Clube de Braga v CD Santa Clara
-           FC Porto                v Moreirense FC
-           AVS                     v Boavista FC
-           FC Arouca               v Casa Pia AC
+  Fri May/2
+    20.15  FC Porto                v Moreirense FC
+  Sat May/3
+    15.30  CD Nacional             v Vitória Guimarães
            SC Farense              v FC Famalicão
+    18.00  Sporting Clube de Braga v CD Santa Clara
+    20.30  GD Estoril Praia        v Sport Lisboa e Benfica
+  Sun May/4
+    15.30  Rio Ave FC              v CF Estrela da Amadora
+    18.00  FC Arouca               v Casa Pia AC
+    20.30  Sporting Clube de Portugal v Gil Vicente FC
+  Mon May/5
+    20.15  AVS                     v Boavista FC
 
 
 » Matchday 33
-  Sun May/11
-           Moreirense FC           v GD Estoril Praia
-           Casa Pia AC             v Sporting Clube de Braga
-           Gil Vicente FC          v FC Arouca
-           Vitória Guimarães       v SC Farense
-           Boavista FC             v FC Porto
-           CF Estrela da Amadora   v AVS
-           CD Santa Clara          v FC Famalicão
+  Sat May/10
+    15.30  CD Santa Clara          v FC Famalicão
            CD Nacional             v Rio Ave FC
-           Sport Lisboa e Benfica  v Sporting Clube de Portugal
+    18.00  Sport Lisboa e Benfica  v Sporting Clube de Portugal
+    20.30  Casa Pia AC             v Sporting Clube de Braga
+           Gil Vicente FC          v FC Arouca
+  Sun May/11
+    15.30  CF Estrela da Amadora   v AVS
+    18.00  Moreirense FC           v GD Estoril Praia
+           Vitória Guimarães       v SC Farense
+    20.30  Boavista FC             v FC Porto
 
 
 » Matchday 34

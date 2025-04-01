@@ -415,16 +415,16 @@
 
 » Matchday 27
   Sat Mar/29
-    16.30  NAC Breda               v FC Groningen
-    18.45  Fortuna Sittard         v Sparta Rotterdam
-           Willem II Tilburg       v Almere City FC
-    21.00  NEC                     v AZ
-           PEC Zwolle              v RKC Waalwijk
+    16.30  NAC Breda               v FC Groningen             1-1 (0-0)
+    18.45  Fortuna Sittard         v Sparta Rotterdam         0-3 (0-2)
+           Willem II Tilburg       v Almere City FC           0-2 (0-1)
+    21.00  NEC                     v AZ                       3-3 (1-2)
+           PEC Zwolle              v RKC Waalwijk             2-0 (0-0)
   Sun Mar/30
-    12.15  FC Utrecht              v SC Heerenveen
-    14.30  Heracles Almelo         v FC Twente '65
-           PSV                     v AFC Ajax
-    16.45  Feyenoord Rotterdam     v Go Ahead Eagles
+    12.15  FC Utrecht              v SC Heerenveen            2-0 (1-0)
+    14.30  Heracles Almelo         v FC Twente '65            2-1 (1-0)
+           PSV                     v AFC Ajax                 0-2 (0-1)
+    16.45  Feyenoord Rotterdam     v Go Ahead Eagles          3-2 (1-1)
 
 
 » Matchday 25
@@ -467,6 +467,8 @@
 » Matchday 31
   Sat Apr/19
     20.00  SC Heerenveen           v Almere City FC
+  Sun Apr/20
+    12.15  FC Utrecht              v AFC Ajax
 
 
 » Matchday 30
@@ -492,7 +494,6 @@
     20.00  FC Groningen            v RKC Waalwijk
     21.00  PSV                     v Fortuna Sittard
   Sun May/4
-           FC Utrecht              v AFC Ajax                 [postponed]
     12.15  NAC Breda               v PEC Zwolle
     14.30  Go Ahead Eagles         v AZ
            Sparta Rotterdam        v FC Twente '65
