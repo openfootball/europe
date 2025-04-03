@@ -462,16 +462,18 @@
 
 
 » Matchday 31
+  Fri Apr/25
+    20.45  Paris Saint-Germain FC  v OGC Nice
+  Sat Apr/26
+    17.00  RC Strasbourg Alsace    v AS Saint-Étienne
+    19.00  Le Havre AC             v AS Monaco FC
+    21.05  Olympique Lyonnais      v Stade Rennais FC 1901
   Sun Apr/27
-           Le Havre AC             v AS Monaco FC
-           RC Strasbourg Alsace    v AS Saint-Étienne
-           FC Nantes               v Toulouse FC
+    15.00  Angers SCO              v Lille OSC
+    17.15  FC Nantes               v Toulouse FC
            Montpellier HSC         v Stade de Reims
            Racing Club de Lens     v AJ Auxerre
-           Angers SCO              v Lille OSC
-           Paris Saint-Germain FC  v OGC Nice
-           Olympique de Marseille  v Stade Brestois 29
-           Olympique Lyonnais      v Stade Rennais FC 1901
+    20.45  Olympique de Marseille  v Stade Brestois 29
 
 
 » Matchday 32
