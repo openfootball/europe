@@ -391,7 +391,7 @@
     21.05  Racing Club de Lens     v Stade Rennais FC 1901    1-0 (0-0)
   Sun Mar/16
     15.00  Olympique Lyonnais      v Le Havre AC              4-2 (1-2)
-    17.15  Montpellier HSC         v AS Saint-Étienne         [cancelled]
+    17.15  Montpellier HSC         v AS Saint-Étienne         0-2 (0-1)
            Stade Brestois 29       v Stade de Reims           0-0
            RC Strasbourg Alsace    v Toulouse FC              2-1 (0-1)
     20.45  Paris Saint-Germain FC  v Olympique de Marseille   3-1 (2-0)
@@ -414,17 +414,17 @@
 
 » Matchday 28
   Fri Apr/4
-    20.45  OGC Nice                v FC Nantes
+    20.45  OGC Nice                v FC Nantes                1-2 (1-2)
   Sat Apr/5
-    17.00  Paris Saint-Germain FC  v Angers SCO
-    19.00  Stade Brestois 29       v AS Monaco FC
-    21.05  Olympique Lyonnais      v Lille OSC
+    17.00  Paris Saint-Germain FC  v Angers SCO               1-0 (0-0)
+    19.00  Stade Brestois 29       v AS Monaco FC             2-1 (1-0)
+    21.05  Olympique Lyonnais      v Lille OSC                2-1 (1-1)
   Sun Apr/6
-    15.00  Racing Club de Lens     v AS Saint-Étienne
-    17.15  Montpellier HSC         v Le Havre AC
-           Stade de Reims          v RC Strasbourg Alsace
-           Stade Rennais FC 1901   v AJ Auxerre
-    20.45  Olympique de Marseille  v Toulouse FC
+    15.00  Racing Club de Lens     v AS Saint-Étienne         1-0 (0-0)
+    17.15  Montpellier HSC         v Le Havre AC              0-2 (0-2)
+           Stade de Reims          v RC Strasbourg Alsace     0-1 (0-1)
+           Stade Rennais FC 1901   v AJ Auxerre               0-1 (0-0)
+    20.45  Olympique de Marseille  v Toulouse FC              3-2 (1-1)
 
 
 » Matchday 29
