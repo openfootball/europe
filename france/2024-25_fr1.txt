@@ -1,6 +1,6 @@
 = French Ligue 1 2024/25
 
-# Date       Fri Aug/16 2024 - Sun May/18 2025 (275d)
+# Date       Fri Aug/16 2024 - Sat May/17 2025 (274d)
 # Teams      18
 # Matches    306
 
@@ -429,27 +429,27 @@
 
 » Matchday 29
   Fri Apr/11
-    20.45  Racing Club de Lens     v Stade de Reims
+    20.45  Racing Club de Lens     v Stade de Reims           0-2 (0-1)
   Sat Apr/12
-    17.00  AS Monaco FC            v Olympique de Marseille
-    19.00  Toulouse FC             v Lille OSC
-    21.05  RC Strasbourg Alsace    v OGC Nice
+    17.00  AS Monaco FC            v Olympique de Marseille   3-0 (1-0)
+    19.00  Toulouse FC             v Lille OSC                1-2 (1-2)
+    21.05  RC Strasbourg Alsace    v OGC Nice                 2-2 (0-1)
   Sun Apr/13
-    15.00  AS Saint-Étienne        v Stade Brestois 29
-    17.15  Le Havre AC             v Stade Rennais FC 1901
-           Angers SCO              v Montpellier HSC
-    20.45  AJ Auxerre              v Olympique Lyonnais
+    15.00  AS Saint-Étienne        v Stade Brestois 29        3-3 (2-3)
+    17.15  Le Havre AC             v Stade Rennais FC 1901    1-5 (1-3)
+           Angers SCO              v Montpellier HSC          2-0 (2-0)
+    20.45  AJ Auxerre              v Olympique Lyonnais       1-3 (0-0)
 
 
 » Matchday 30
   Fri Apr/18
-    20.45  Stade Rennais FC 1901   v FC Nantes
+    20.45  Stade Rennais FC 1901   v FC Nantes                2-1 (1-0)
   Sat Apr/19
-    17.00  Paris Saint-Germain FC  v Le Havre AC
-    19.00  AS Monaco FC            v RC Strasbourg Alsace
-    21.05  Olympique de Marseille  v Montpellier HSC
+    17.00  Paris Saint-Germain FC  v Le Havre AC              2-1 (1-0)
+    19.00  AS Monaco FC            v RC Strasbourg Alsace     0-0
+    21.05  Olympique de Marseille  v Montpellier HSC          5-1 (1-0)
   Sun Apr/20
-    15.00  Lille OSC               v AJ Auxerre
+    15.00  Lille OSC               v AJ Auxerre               3-1 (2-0)
     17.15  OGC Nice                v Angers SCO
            Stade Brestois 29       v Racing Club de Lens
            Stade de Reims          v Toulouse FC
@@ -490,8 +490,8 @@
 
 
 » Matchday 33
-  Sun May/11
-           Stade de Reims          v AS Saint-Étienne
+  Sat May/10
+    21.00  Stade de Reims          v AS Saint-Étienne
            AJ Auxerre              v FC Nantes
            Angers SCO              v RC Strasbourg Alsace
            Le Havre AC             v Olympique de Marseille
@@ -503,8 +503,8 @@
 
 
 » Matchday 34
-  Sun May/18
-           Olympique de Marseille  v Stade Rennais FC 1901
+  Sat May/17
+    21.00  Olympique de Marseille  v Stade Rennais FC 1901
            Olympique Lyonnais      v Angers SCO
            OGC Nice                v Stade Brestois 29
            AS Saint-Étienne        v Toulouse FC
