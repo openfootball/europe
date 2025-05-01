@@ -1,8 +1,9 @@
 = Swiss Super League 2024/25
 
-# Date       Sat Jul/20 2024 - Mon Apr/21 2025 (275d)
+# Date       Sat Jul/20 2024 - Sat May/24 2025 (308d)
 # Teams      12
-# Matches    198
+# Matches    228
+# Stages     Regular Season (198)  Championship (15)  Relegation (15)
 
 
 
@@ -321,55 +322,130 @@
 
 » Matchday 29
   Sat Mar/29
-    18.00  FC Sion                 v Yverdon Sport FC
-           BSC Young Boys          v FC St. Gallen
-    20.30  FC Lugano               v Servette FC
+    18.00  FC Sion                 v Yverdon Sport FC         1-1 (0-1)
+           BSC Young Boys          v FC St. Gallen            1-0 (0-0)
+    20.30  FC Lugano               v Servette FC              0-2 (0-1)
   Sun Mar/30
-    14.15  FC Winterthur           v FC Basel 1893
-    16.30  Grasshopper Club Zürich v FC Zürich
-           FC Lausanne-Sport       v FC Luzern
+    14.15  FC Winterthur           v FC Basel 1893            0-2 (0-0)
+    16.30  Grasshopper Club Zürich v FC Zürich                1-2 (0-1)
+           FC Lausanne-Sport       v FC Luzern                1-4 (0-3)
 
 
 » Matchday 30
   Tue Apr/1
-    20.30  Servette FC             v BSC Young Boys
-           Yverdon Sport FC        v FC Lugano
+    20.30  Servette FC             v BSC Young Boys           0-1 (0-1)
+           Yverdon Sport FC        v FC Lugano                0-2 (0-1)
   Wed Apr/2
-    20.30  FC Sion                 v FC Winterthur
-           FC Zürich               v FC Lausanne-Sport
+    20.30  FC Sion                 v FC Winterthur            1-2 (1-0)
+           FC Zürich               v FC Lausanne-Sport        2-2 (0-1)
   Thu Apr/3
-    20.30  FC Basel 1893           v Grasshopper Club Zürich
-           FC Luzern               v FC St. Gallen
+    20.30  FC Basel 1893           v Grasshopper Club Zürich  2-1 (2-0)
+           FC Luzern               v FC St. Gallen            1-1 (1-1)
 
 
 » Matchday 31
   Sat Apr/5
-    18.00  FC Lausanne-Sport       v FC Sion
-           FC Winterthur           v FC Zürich
-    20.30  BSC Young Boys          v Yverdon Sport FC
+    18.00  FC Lausanne-Sport       v FC Sion                  2-0 (0-0)
+           FC Winterthur           v FC Zürich                0-0
+    20.30  BSC Young Boys          v Yverdon Sport FC         1-1 (0-1)
   Sun Apr/6
-    14.15  FC St. Gallen           v Servette FC
-    16.30  FC Basel 1893           v FC Lugano
-           Grasshopper Club Zürich v FC Luzern
+    14.15  FC St. Gallen           v Servette FC              1-0 (0-0)
+    16.30  FC Basel 1893           v FC Lugano                2-0 (0-0)
+           Grasshopper Club Zürich v FC Luzern                3-1 (1-0)
 
 
 » Matchday 32
   Sat Apr/12
-    18.00  FC Winterthur           v FC Lausanne-Sport
-           Yverdon Sport FC        v Grasshopper Club Zürich
-    20.30  FC Zürich               v FC Basel 1893
+    18.00  FC Winterthur           v FC Lausanne-Sport        1-0 (0-0)
+           Yverdon Sport FC        v Grasshopper Club Zürich  1-2 (1-1)
+    20.30  FC Zürich               v FC Basel 1893            0-4 (0-2)
   Sun Apr/13
-    14.15  FC Lugano               v FC St. Gallen
-    16.30  FC Luzern               v BSC Young Boys
-           FC Sion                 v Servette FC
+    14.15  FC Lugano               v FC St. Gallen            1-1 (0-0)
+    16.30  FC Luzern               v BSC Young Boys           5-0 (2-0)
+           FC Sion                 v Servette FC              1-1 (0-0)
 
 
 » Matchday 33
   Sat Apr/19
-    18.00  Grasshopper Club Zürich v FC Winterthur
+    18.00  Grasshopper Club Zürich v FC Winterthur            0-1 (0-0)
   Mon Apr/21
-    16.30  FC Basel 1893           v Yverdon Sport FC
-           FC Lausanne-Sport       v FC Lugano
-           Servette FC             v FC Luzern
-           FC St. Gallen           v FC Sion
-           BSC Young Boys          v FC Zürich
+    16.30  FC Basel 1893           v Yverdon Sport FC         5-0 (4-0)
+           FC Lausanne-Sport       v FC Lugano                2-0 (2-0)
+           Servette FC             v FC Luzern                2-1 (1-0)
+           FC St. Gallen           v FC Sion                  1-0 (0-0)
+           BSC Young Boys          v FC Zürich                2-1 (2-0)
+
+
+» Championship, Matchday 34
+  Sat May/3
+    20.30  FC Lausanne-Sport       v BSC Young Boys
+  Sun May/4
+    16.30  FC Basel 1893           v Servette FC
+           FC Luzern               v FC Lugano
+
+
+» Championship, Matchday 35
+  Sat May/10
+    20.30  FC Lugano               v FC Basel 1893
+  Sun May/11
+    14.15  FC Luzern               v FC Lausanne-Sport
+    16.30  Servette FC             v BSC Young Boys
+
+
+» Championship, Matchday 36
+  Wed May/14
+    20.30  FC Lausanne-Sport       v FC Basel 1893
+  Thu May/15
+    20.30  Servette FC             v FC Lugano
+           BSC Young Boys          v FC Luzern
+
+
+» Championship, Matchday 37
+  Sun May/18
+    14.15  BSC Young Boys          v FC Basel 1893
+    16.30  FC Lausanne-Sport       v FC Lugano
+           FC Luzern               v Servette FC
+
+
+» Championship, Matchday 38
+  Sat May/24
+    18.00  FC Basel 1893           v FC Luzern
+           FC Lugano               v BSC Young Boys
+           Servette FC             v FC Lausanne-Sport
+
+
+» Relegation, Matchday 34
+  Sat May/3
+    18.00  FC Winterthur           v Grasshopper Club Zürich
+  Sun May/4
+    14.15  FC Sion                 v FC Zürich
+    16.30  Yverdon Sport FC        v FC St. Gallen
+
+
+» Relegation, Matchday 35
+  Sat May/10
+    18.00  FC St. Gallen           v FC Winterthur
+           Yverdon Sport FC        v FC Sion
+           FC Zürich               v Grasshopper Club Zürich
+
+
+» Relegation, Matchday 36
+  Tue May/13
+    20.30  FC Sion                 v FC St. Gallen
+           FC Zürich               v FC Winterthur
+  Wed May/14
+    20.30  Grasshopper Club Zürich v Yverdon Sport FC
+
+
+» Relegation, Matchday 37
+  Sat May/17
+    18.00  FC St. Gallen           v FC Zürich
+           FC Winterthur           v Yverdon Sport FC
+    20.30  FC Sion                 v Grasshopper Club Zürich
+
+
+» Relegation, Matchday 38
+  Thu May/22
+    20.30  Grasshopper Club Zürich v FC St. Gallen
+           FC Winterthur           v FC Sion
+           Yverdon Sport FC        v FC Zürich

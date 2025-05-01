@@ -1,8 +1,9 @@
 = Scottish Premiership 2024/25
 
-# Date       Sat Aug/3 2024 - Sun Apr/13 2025 (253d)
+# Date       Sat Aug/3 2024 - Sun May/18 2025 (288d)
 # Teams      12
-# Matches    198
+# Matches    228
+# Stages     Regular Season (198)  Championship (15)  Relegation (15)
 
 
 
@@ -341,32 +342,104 @@
 
 » Matchday 31
   Sat Mar/29
-    15.00  Aberdeen FC             v Motherwell FC
-           Celtic FC               v Heart of Midlothian
-           Hibernian FC            v St. Johnstone FC
-           St. Mirren FC           v Kilmarnock FC
-    17.30  Dundee FC               v Rangers FC
+    15.00  Aberdeen FC             v Motherwell FC            4-1 (2-1)
+           Celtic FC               v Heart of Midlothian      3-0 (3-0)
+           Hibernian FC            v St. Johnstone FC         3-0 (2-0)
+           St. Mirren FC           v Kilmarnock FC            5-1 (2-0)
+    17.30  Dundee FC               v Rangers FC               3-4 (2-1)
   Sun Mar/30
-    14.30  Ross County FC          v Dundee United
+    14.30  Ross County FC          v Dundee United            0-1 (0-0)
 
 
 » Matchday 32
   Sat Apr/5
-    15.00  Dundee FC               v St. Mirren FC
-           Kilmarnock FC           v Motherwell FC
-           Rangers FC              v Hibernian FC
-           Ross County FC          v Aberdeen FC
+    15.00  Dundee FC               v St. Mirren FC            2-0 (1-0)
+           Kilmarnock FC           v Motherwell FC            2-0 (1-0)
+           Rangers FC              v Hibernian FC             0-2 (0-1)
+           Ross County FC          v Aberdeen FC              0-1 (0-1)
   Sun Apr/6
-    12.00  St. Johnstone FC        v Celtic FC
-    14.30  Heart of Midlothian     v Dundee United
+    12.00  St. Johnstone FC        v Celtic FC                1-0 (1-0)
+    14.30  Heart of Midlothian     v Dundee United            0-1 (0-0)
 
 
 » Matchday 33
   Sat Apr/12
-    12.30  Celtic FC               v Kilmarnock FC
-    15.00  Dundee United           v St. Johnstone FC
-           Motherwell FC           v Heart of Midlothian
-           St. Mirren FC           v Ross County FC
+    12.30  Celtic FC               v Kilmarnock FC            5-1 (4-1)
+    15.00  Dundee United           v St. Johnstone FC         1-0 (1-0)
+           Motherwell FC           v Heart of Midlothian      0-0
+           St. Mirren FC           v Ross County FC           3-2 (1-1)
   Sun Apr/13
-    12.00  Aberdeen FC             v Rangers FC
-    14.30  Hibernian FC            v Dundee FC
+    12.00  Aberdeen FC             v Rangers FC               2-2 (2-0)
+    14.30  Hibernian FC            v Dundee FC                4-0 (1-0)
+
+
+» Championship, Matchday 34
+  Sat Apr/26
+    12.30  Dundee United           v Celtic FC                0-5 (0-3)
+    15.00  Aberdeen FC             v Hibernian FC             1-0 (0-0)
+           St. Mirren FC           v Rangers FC               2-2 (1-1)
+
+
+» Championship, Matchday 35
+  Sat May/3
+    15.00  Hibernian FC            v Dundee United
+           St. Mirren FC           v Aberdeen FC
+  Sun May/4
+    12.00  Rangers FC              v Celtic FC
+
+
+» Championship, Matchday 36
+  Sat May/10
+    15.00  Celtic FC               v Hibernian FC
+           Dundee United           v St. Mirren FC
+  Sun May/11
+    12.00  Rangers FC              v Aberdeen FC
+
+
+» Championship, Matchday 37
+  Wed May/14
+    19.45  Aberdeen FC             v Celtic FC
+           Rangers FC              v Dundee United
+           St. Mirren FC           v Hibernian FC
+
+
+» Championship, Matchday 38
+  Sat May/17
+    12.30  Celtic FC               v St. Mirren FC
+           Dundee United           v Aberdeen FC
+           Hibernian FC            v Rangers FC
+
+
+» Relegation, Matchday 34
+  Sat Apr/26
+    15.00  Heart of Midlothian     v Dundee FC                0-1 (0-1)
+           Kilmarnock FC           v Ross County FC           2-0 (1-0)
+           Motherwell FC           v St. Johnstone FC         3-2 (2-1)
+
+
+» Relegation, Matchday 35
+  Sat May/3
+    15.00  Dundee FC               v Motherwell FC
+           Ross County FC          v Heart of Midlothian
+           St. Johnstone FC        v Kilmarnock FC
+
+
+» Relegation, Matchday 36
+  Sat May/10
+    15.00  Heart of Midlothian     v Motherwell FC
+           Kilmarnock FC           v Dundee FC
+           St. Johnstone FC        v Ross County FC
+
+
+» Relegation, Matchday 37
+  Wed May/14
+    19.45  Dundee FC               v Ross County FC
+           Heart of Midlothian     v St. Johnstone FC
+           Motherwell FC           v Kilmarnock FC
+
+
+» Relegation, Matchday 38
+  Sun May/18
+    15.00  Kilmarnock FC           v Heart of Midlothian
+           Ross County FC          v Motherwell FC
+           St. Johnstone FC        v Dundee FC

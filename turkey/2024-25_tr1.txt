@@ -448,98 +448,112 @@
 
 » Matchday 29
   Fri Mar/28
-    16.00  Antalyaspor             v Alanyaspor
-           Kayserispor             v Hatayspor
-    20.30  Konyaspor               v Gaziantep FK
-           Bodrum FK               v Fenerbahçe
+    16.00  Antalyaspor             v Alanyaspor               2-1 (1-1)
+           Kayserispor             v Hatayspor                5-0 (2-0)
+    20.30  Konyaspor               v Gaziantep FK             1-0 (0-0)
+           Bodrum FK               v Fenerbahçe               2-4 (1-4)
   Sat Mar/29
-    13.30  Sivasspor               v Adana Demirspor
-    16.00  Trabzonspor             v Göztepe
-           Samsunspor              v Kasımpaşa SK
-    20.30  Beşiktaş                v Galatasaray
+    13.30  Sivasspor               v Adana Demirspor          5-1 (2-1)
+    16.00  Trabzonspor             v Göztepe                  1-1 (1-1)
+           Samsunspor              v Kasımpaşa SK             0-2 (0-0)
+    20.30  Beşiktaş                v Galatasaray              2-1 (1-1)
   Mon Mar/31
-    20.00  Eyüpspor                v İstanbul Başakşehir
+    20.00  Eyüpspor                v İstanbul Başakşehir      1-3 (1-1)
 
 
 » Matchday 30
   Fri Apr/4
-    20.00  Adana Demirspor         v Kayserispor
+    20.00  Adana Demirspor         v Kayserispor              0-2 (0-1)
   Sat Apr/5
-    13.30  Çaykur Rizespor         v Sivasspor
-    16.00  İstanbul Başakşehir     v Konyaspor
-    19.00  Antalyaspor             v Samsunspor
+    13.30  Çaykur Rizespor         v Sivasspor                1-1 (0-0)
+    16.00  İstanbul Başakşehir     v Konyaspor                1-0 (0-0)
+    19.00  Antalyaspor             v Samsunspor               2-1 (1-0)
   Sun Apr/6
-    13.30  Alanyaspor              v Bodrum FK
-    16.00  Hatayspor               v Eyüpspor
-    19.00  Fenerbahçe              v Trabzonspor
+    13.30  Alanyaspor              v Bodrum FK                0-1 (0-0)
+    16.00  Hatayspor               v Eyüpspor                 0-1 (0-1)
+    19.00  Fenerbahçe              v Trabzonspor              4-1 (0-1)
   Mon Apr/7
-    20.00  Göztepe                 v Gaziantep FK
-           Kasımpaşa SK            v Beşiktaş
+    20.00  Göztepe                 v Gaziantep FK             1-1 (0-0)
+           Kasımpaşa SK            v Beşiktaş                 1-1 (1-0)
 
 
 » Matchday 31
+  Fri Apr/11
+    20.00  Samsunspor              v Galatasaray              0-2 (0-1)
+  Sat Apr/12
+    16.00  Konyaspor               v Göztepe                  1-0 (1-0)
+    19.00  Beşiktaş                v İstanbul Başakşehir      0-2 (0-0)
+           Bodrum FK               v Antalyaspor              0-0
   Sun Apr/13
-           Sivasspor               v Fenerbahçe
-           Beşiktaş                v İstanbul Başakşehir
-           Kayserispor             v Kasımpaşa SK
-           Konyaspor               v Göztepe
-           Samsunspor              v Galatasaray
-           Trabzonspor             v Çaykur Rizespor
-           Eyüpspor                v Adana Demirspor
-           Gaziantep FK            v Hatayspor
-           Bodrum FK               v Antalyaspor
+    16.00  Kayserispor             v Kasımpaşa SK             1-0 (0-0)
+           Gaziantep FK            v Hatayspor                2-1 (1-1)
+    19.00  Sivasspor               v Fenerbahçe               1-3 (0-1)
+           Trabzonspor             v Çaykur Rizespor          2-0 (2-0)
+  Mon Apr/14
+    20.00  Eyüpspor                v Adana Demirspor          6-0 (3-0)
 
 
 » Matchday 32
+  Fri Apr/18
+    20.00  Galatasaray             v Bodrum FK                2-0 (1-0)
+           Hatayspor               v Konyaspor                2-3 (2-1)
+  Sat Apr/19
+    13.30  Kasımpaşa SK            v Sivasspor                3-1 (2-0)
+    16.00  Adana Demirspor         v Trabzonspor              0-1 (0-1)
+    19.00  Göztepe                 v Beşiktaş                 1-1 (0-1)
   Sun Apr/20
-           Göztepe                 v Beşiktaş
-           Çaykur Rizespor         v Eyüpspor
-           İstanbul Başakşehir     v Gaziantep FK
-           Galatasaray             v Bodrum FK
-           Adana Demirspor         v Trabzonspor
-           Kasımpaşa SK            v Sivasspor
-           Alanyaspor              v Samsunspor
-           Fenerbahçe              v Kayserispor
-           Hatayspor               v Konyaspor
+    13.30  İstanbul Başakşehir     v Gaziantep FK             2-1 (2-1)
+    16.00  Çaykur Rizespor         v Eyüpspor                 1-0 (0-0)
+    19.00  Fenerbahçe              v Kayserispor              3-3 (1-1)
+  Mon Apr/21
+    20.00  Alanyaspor              v Samsunspor               1-0 (1-0)
 
 
 » Matchday 33
+  Fri Apr/25
+    20.00  Beşiktaş                v Hatayspor                5-1 (1-1)
+  Sat Apr/26
+    16.00  Sivasspor               v Antalyaspor              2-0 (0-0)
+    19.00  Bodrum FK               v Samsunspor               1-2 (1-2)
+           Gaziantep FK            v Fenerbahçe               1-3 (1-0)
   Sun Apr/27
-           Sivasspor               v Antalyaspor
-           Beşiktaş                v Hatayspor
-           Kayserispor             v Çaykur Rizespor
-           Konyaspor               v Adana Demirspor
-           Trabzonspor             v Alanyaspor
-           Eyüpspor                v Galatasaray
-           Bodrum FK               v Samsunspor
-           Göztepe                 v İstanbul Başakşehir
-           Gaziantep FK            v Fenerbahçe
+    16.00  Konyaspor               v Adana Demirspor          3-1 (0-1)
+           Trabzonspor             v Alanyaspor               4-3 (4-2)
+    19.00  Kayserispor             v Çaykur Rizespor          1-0 (1-0)
+           Eyüpspor                v Galatasaray              1-5 (0-1)
+  Mon Apr/28
+    20.00  Göztepe                 v İstanbul Başakşehir      4-1 (2-0)
 
 
 » Matchday 34
-  Sun May/4
-           Galatasaray             v Sivasspor
-           Çaykur Rizespor         v Gaziantep FK
-           Samsunspor              v Eyüpspor
-           Adana Demirspor         v Göztepe
-           Antalyaspor             v Konyaspor
-           Kasımpaşa SK            v Trabzonspor
+  Fri May/2
+    20.00  Antalyaspor             v Konyaspor
+  Sat May/3
+    16.00  Çaykur Rizespor         v Gaziantep FK
            Alanyaspor              v Kayserispor
-           Fenerbahçe              v Beşiktaş
+    19.00  Galatasaray             v Sivasspor
            Hatayspor               v İstanbul Başakşehir
+  Sun May/4
+    16.00  Samsunspor              v Eyüpspor
+    19.00  Adana Demirspor         v Göztepe
+           Fenerbahçe              v Beşiktaş
+  Mon May/5
+    20.00  Kasımpaşa SK            v Trabzonspor
 
 
 » Matchday 35
-  Sun May/11
-           Sivasspor               v Bodrum FK
-           Beşiktaş                v Adana Demirspor
-           Kayserispor             v Antalyaspor
-           Konyaspor               v Çaykur Rizespor
-           Trabzonspor             v Galatasaray
-           İstanbul Başakşehir     v Fenerbahçe
+  Sat May/10
+    16.00  Konyaspor               v Çaykur Rizespor
            Eyüpspor                v Kasımpaşa SK
-           Göztepe                 v Hatayspor
+    19.00  Trabzonspor             v Galatasaray
+  Sun May/11
+           İstanbul Başakşehir     v Fenerbahçe
            Gaziantep FK            v Alanyaspor
+    16.00  Sivasspor               v Bodrum FK
+    19.00  Beşiktaş                v Adana Demirspor
+           Göztepe                 v Hatayspor
+  Mon May/12
+    20.00  Kayserispor             v Antalyaspor
 
 
 » Matchday 36

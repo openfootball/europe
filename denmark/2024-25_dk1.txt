@@ -274,49 +274,50 @@
 
 » Championship, Matchday 1
   Sun Mar/30
-    16.00  Aarhus GF               v FC Nordsjælland
-    18.00  FC Midtjylland          v Brøndby IF
+    16.00  Aarhus GF               v FC Nordsjælland          2-0 (1-0)
+    18.00  FC Midtjylland          v Brøndby IF               0-2 (0-1)
   Mon Mar/31
-    19.00  FC København            v Randers FC
+    19.00  FC København            v Randers FC               1-0 (1-0)
 
 
 » Championship, Matchday 2
   Fri Apr/4
-    19.00  Randers FC              v FC Midtjylland
+    19.00  Randers FC              v FC Midtjylland           2-1 (1-1)
   Sun Apr/6
-    18.00  FC Nordsjælland         v FC København
+    18.00  FC Nordsjælland         v FC København             0-1 (0-0)
   Mon Apr/7
-    19.00  Brøndby IF              v Aarhus GF
+    19.00  Brøndby IF              v Aarhus GF                2-1 (1-0)
 
 
 » Championship, Matchday 3
   Sun Apr/13
-    14.00  FC København            v Brøndby IF
-    16.00  Aarhus GF               v FC Midtjylland
-    18.00  FC Nordsjælland         v Randers FC
+    14.00  FC København            v Brøndby IF               1-2 (0-1)
+    16.00  Aarhus GF               v FC Midtjylland           1-1 (0-0)
+    18.00  FC Nordsjælland         v Randers FC               5-2 (3-1)
 
 
 » Championship, Matchday 4
   Thu Apr/17
-    16.00  Randers FC              v Aarhus GF
-    18.00  FC Midtjylland          v FC København
+    16.00  Randers FC              v Aarhus GF                3-1 (1-0)
+    18.00  FC Midtjylland          v FC København             4-2 (2-0)
   Fri Apr/18
-    19.00  Brøndby IF              v FC Nordsjælland
+    19.00  Brøndby IF              v FC Nordsjælland          0-0
 
 
 » Championship, Matchday 5
   Mon Apr/21
-    16.00  Brøndby IF              v Randers FC
-    18.00  FC København            v Aarhus GF
-    19.00  FC Nordsjælland         v FC Midtjylland
+    16.00  Brøndby IF              v Randers FC               4-3 (2-2)
+    18.00  FC København            v Aarhus GF                3-1 (1-0)
+  Tue Apr/22
+    19.00  FC Nordsjælland         v FC Midtjylland           3-2 (1-1)
 
 
 » Championship, Matchday 6
   Fri Apr/25
-    19.00  Randers FC              v Brøndby IF
+    19.00  Randers FC              v Brøndby IF               0-0
   Sun Apr/27
-    16.00  Aarhus GF               v FC København
-    18.00  FC Midtjylland          v FC Nordsjælland
+    16.00  Aarhus GF               v FC København             1-3 (0-1)
+    18.00  FC Midtjylland          v FC Nordsjælland          5-0 (4-0)
 
 
 » Championship, Matchday 7
@@ -352,50 +353,50 @@
 
 » Relegation, Matchday 1
   Fri Mar/28
-    19.00  Aalborg BK              v Viborg FF
+    19.00  Aalborg BK              v Viborg FF                0-4 (0-2)
   Sun Mar/30
-    14.00  SønderjyskE             v Silkeborg IF
-           Lyngby BK               v Vejle BK
+    14.00  SønderjyskE             v Silkeborg IF             2-1 (2-1)
+           Lyngby BK               v Vejle BK                 1-2 (1-2)
 
 
 » Relegation, Matchday 2
   Sun Apr/6
-    14.00  Viborg FF               v SønderjyskE
-           Silkeborg IF            v Lyngby BK
-    16.00  Vejle BK                v Aalborg BK
+    14.00  Viborg FF               v SønderjyskE              2-1 (1-1)
+           Silkeborg IF            v Lyngby BK                2-1 (2-1)
+    16.00  Vejle BK                v Aalborg BK               1-1 (1-1)
 
 
 » Relegation, Matchday 3
   Fri Apr/11
-    19.00  Aalborg BK              v Lyngby BK
+    19.00  Aalborg BK              v Lyngby BK                2-2 (2-1)
   Sun Apr/13
-    14.00  Viborg FF               v Silkeborg IF
+    14.00  Viborg FF               v Silkeborg IF             2-1 (0-1)
   Mon Apr/14
-    19.00  SønderjyskE             v Vejle BK
+    19.00  SønderjyskE             v Vejle BK                 1-0 (1-0)
 
 
 » Relegation, Matchday 4
   Wed Apr/16
-    19.00  Silkeborg IF            v Aalborg BK
+    19.00  Silkeborg IF            v Aalborg BK               4-0 (4-0)
   Thu Apr/17
-    14.00  Lyngby BK               v SønderjyskE
-           Vejle BK                v Viborg FF
+    14.00  Lyngby BK               v SønderjyskE              0-2 (0-1)
+           Vejle BK                v Viborg FF                3-3 (1-2)
 
 
 » Relegation, Matchday 5
   Sun Apr/20
-    17.00  Aalborg BK              v SønderjyskE
+    17.00  Aalborg BK              v SønderjyskE              2-3 (0-2)
   Mon Apr/21
-    14.00  Vejle BK                v Silkeborg IF
-           Viborg FF               v Lyngby BK
+    14.00  Vejle BK                v Silkeborg IF             0-4 (0-1)
+           Viborg FF               v Lyngby BK                1-1 (1-0)
 
 
 » Relegation, Matchday 6
   Sun Apr/27
-    14.00  SønderjyskE             v Viborg FF
-           Lyngby BK               v Silkeborg IF
+    14.00  SønderjyskE             v Viborg FF                2-2 (2-0)
+           Lyngby BK               v Silkeborg IF             2-0 (1-0)
   Mon Apr/28
-    19.00  Aalborg BK              v Vejle BK
+    19.00  Aalborg BK              v Vejle BK                 0-1 (0-0)
 
 
 » Relegation, Matchday 7

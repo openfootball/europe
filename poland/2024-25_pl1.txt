@@ -403,120 +403,135 @@
 
 » Matchday 26
   Fri Mar/28
-    18.00  Piast Gliwice           v Widzew Łódź
-    20.30  Legia Warszawa          v Pogoń Szczecin
+    18.00  Piast Gliwice           v Widzew Łódź              0-2 (0-2)
+    20.30  Legia Warszawa          v Pogoń Szczecin           0-0
   Sat Mar/29
-    14.45  KS Cracovia             v Puszcza Niepołomice
-    17.30  Lechia Gdańsk           v Jagiellonia Białystok
-    20.15  Śląsk Wrocław           v Lech Poznań
+    14.45  KS Cracovia             v Puszcza Niepołomice      3-1 (2-1)
+    17.30  Lechia Gdańsk           v Jagiellonia Białystok    1-0 (0-0)
+    20.15  Śląsk Wrocław           v Lech Poznań              3-1 (1-1)
   Sun Mar/30
-    12.15  Korona Kielce           v Radomiak Radom
-    14.45  Motor Lublin            v FKS Stal Mielec
-    17.30  GKS Katowice            v Górnik Zabrze
+    12.15  Korona Kielce           v Radomiak Radom           1-3 (1-1)
+    14.45  Motor Lublin            v FKS Stal Mielec          4-1 (1-0)
+    17.30  GKS Katowice            v Górnik Zabrze            2-1 (1-0)
   Mon Mar/31
-    19.00  Zagłębie Lubin          v Raków Częstochowa
+    19.00  Zagłębie Lubin          v Raków Częstochowa        0-2 (0-0)
 
 
 » Matchday 27
   Fri Apr/4
-    18.00  FKS Stal Mielec         v KS Cracovia
-    20.30  Widzew Łódź             v Lechia Gdańsk
+    18.00  FKS Stal Mielec         v KS Cracovia              1-1 (1-0)
+    20.30  Widzew Łódź             v Lechia Gdańsk            2-0 (2-0)
   Sat Apr/5
-    14.45  Radomiak Radom          v Zagłębie Lubin
-    17.30  Śląsk Wrocław           v Motor Lublin
-    20.15  Lech Poznań             v Korona Kielce
+    14.45  Radomiak Radom          v Zagłębie Lubin           0-1 (0-1)
+    17.30  Śląsk Wrocław           v Motor Lublin             1-1 (1-0)
+    20.15  Lech Poznań             v Korona Kielce            2-0 (1-0)
   Sun Apr/6
-    12.15  Jagiellonia Białystok   v Piast Gliwice
-    14.45  Górnik Zabrze           v Legia Warszawa
-    17.30  Pogoń Szczecin          v GKS Katowice
+    12.15  Jagiellonia Białystok   v Piast Gliwice            1-1 (1-0)
+    14.45  Górnik Zabrze           v Legia Warszawa           1-2 (1-0)
+    17.30  Pogoń Szczecin          v GKS Katowice             4-0 (1-0)
   Mon Apr/7
-    19.00  Puszcza Niepołomice     v Raków Częstochowa
+    19.00  Puszcza Niepołomice     v Raków Częstochowa        1-1 (0-1)
 
 
 » Matchday 28
   Fri Apr/11
-    18.00  Zagłębie Lubin          v Górnik Zabrze
-    20.30  Korona Kielce           v Widzew Łódź
+    18.00  Zagłębie Lubin          v Górnik Zabrze            2-1 (0-1)
+    20.30  Korona Kielce           v Widzew Łódź              2-1 (0-0)
   Sat Apr/12
-    14.45  GKS Katowice            v Puszcza Niepołomice
-    17.30  KS Cracovia             v Śląsk Wrocław
-    21.15  Raków Częstochowa       v Radomiak Radom
+    14.45  GKS Katowice            v Puszcza Niepołomice      3-1 (0-1)
+    17.30  KS Cracovia             v Śląsk Wrocław            2-4 (1-1)
+    20.15  Raków Częstochowa       v Radomiak Radom           2-1 (0-0)
   Sun Apr/13
-    14.45  Piast Gliwice           v Pogoń Szczecin
-    17.30  Motor Lublin            v Lech Poznań
-    20.15  Legia Warszawa          v Jagiellonia Białystok
+    14.45  Piast Gliwice           v Pogoń Szczecin           2-1 (1-0)
+    17.30  Motor Lublin            v Lech Poznań              1-2 (0-2)
+    20.15  Legia Warszawa          v Jagiellonia Białystok    0-1 (0-1)
   Mon Apr/14
-    19.00  Lechia Gdańsk           v FKS Stal Mielec
+    19.00  Lechia Gdańsk           v FKS Stal Mielec          3-2 (0-2)
 
 
 » Matchday 29
   Sat Apr/19
-           Jagiellonia Białystok   v Zagłębie Lubin
-           Lech Poznań             v KS Cracovia
-           Legia Warszawa          v Lechia Gdańsk
-           Piast Gliwice           v Korona Kielce
-           Pogoń Szczecin          v Raków Częstochowa
-           Puszcza Niepołomice     v Radomiak Radom
-           FKS Stal Mielec         v Górnik Zabrze
-           Widzew Łódź             v Motor Lublin
-           Śląsk Wrocław           v GKS Katowice
+    12.15  Piast Gliwice           v Korona Kielce            1-1 (0-1)
+    14.45  Śląsk Wrocław           v GKS Katowice             0-2 (0-2)
+    17.30  Widzew Łódź             v Motor Lublin             1-2 (0-1)
+    20.15  Pogoń Szczecin          v Raków Częstochowa        1-0 (1-0)
+  Mon Apr/21
+    12.15  Puszcza Niepołomice     v Radomiak Radom           2-2 (0-0)
+    14.45  Jagiellonia Białystok   v Zagłębie Lubin           1-3 (1-1)
+    17.30  Legia Warszawa          v Lechia Gdańsk            2-1 (1-1)
+    20.15  Lech Poznań             v KS Cracovia              2-1 (1-0)
+  Tue Apr/22
+    19.00  FKS Stal Mielec         v Górnik Zabrze            0-0
 
 
 » Matchday 30
+  Fri Apr/25
+    18.00  Puszcza Niepołomice     v Pogoń Szczecin           4-5 (1-2)
+    20.30  Raków Częstochowa       v Śląsk Wrocław            3-0 (2-0)
   Sat Apr/26
-           GKS Katowice            v Legia Warszawa
-           Górnik Zabrze           v Widzew Łódź
-           Zagłębie Lubin          v FKS Stal Mielec
-           Korona Kielce           v Jagiellonia Białystok
-           Lechia Gdańsk           v Piast Gliwice
-           Motor Lublin            v KS Cracovia
-           Puszcza Niepołomice     v Pogoń Szczecin
-           Radomiak Radom          v Lech Poznań
-           Raków Częstochowa       v Śląsk Wrocław
+    14.45  Lechia Gdańsk           v Piast Gliwice            3-1 (2-0)
+    17.30  Motor Lublin            v KS Cracovia              0-1 (0-0)
+    20.15  GKS Katowice            v Legia Warszawa           1-3 (0-2)
+  Sun Apr/27
+    12.15  Korona Kielce           v Jagiellonia Białystok    3-1 (1-1)
+    14.45  Górnik Zabrze           v Widzew Łódź              0-0
+    17.30  Radomiak Radom          v Lech Poznań              2-2 (0-2)
+  Mon Apr/28
+    19.00  Zagłębie Lubin          v FKS Stal Mielec          2-2 (1-0)
 
 
 » Matchday 31
   Sat May/3
-           KS Cracovia             v Lechia Gdańsk
-           Jagiellonia Białystok   v Górnik Zabrze
-           Korona Kielce           v GKS Katowice
-           Lech Poznań             v Puszcza Niepołomice
-           Piast Gliwice           v Radomiak Radom
-           Pogoń Szczecin          v Motor Lublin
-           FKS Stal Mielec         v Raków Częstochowa
-           Widzew Łódź             v Legia Warszawa
-           Śląsk Wrocław           v Zagłębie Lubin
+    14.45  FKS Stal Mielec         v Raków Częstochowa
+    17.30  Śląsk Wrocław           v Zagłębie Lubin
+    20.15  Lech Poznań             v Puszcza Niepołomice
+  Sun May/4
+    12.15  Piast Gliwice           v Radomiak Radom
+    14.45  KS Cracovia             v Lechia Gdańsk
+    17.30  Jagiellonia Białystok   v Górnik Zabrze
+  Mon May/5
+    19.00  Korona Kielce           v GKS Katowice
+  Wed May/14
+    20.30  Pogoń Szczecin          v Motor Lublin
+  Thu May/15
+    20.30  Widzew Łódź             v Legia Warszawa
 
 
 » Matchday 32
+  Fri May/9
+    18.00  Motor Lublin            v Piast Gliwice
+    20.30  Górnik Zabrze           v Śląsk Wrocław
   Sat May/10
-           GKS Katowice            v KS Cracovia
-           Górnik Zabrze           v Śląsk Wrocław
-           Zagłębie Lubin          v Widzew Łódź
-           Lechia Gdańsk           v Korona Kielce
-           Legia Warszawa          v Lech Poznań
-           Motor Lublin            v Piast Gliwice
-           Puszcza Niepołomice     v FKS Stal Mielec
-           Radomiak Radom          v Pogoń Szczecin
-           Raków Częstochowa       v Jagiellonia Białystok
+    14.45  Radomiak Radom          v Pogoń Szczecin
+    17.30  Zagłębie Lubin          v Widzew Łódź
+    20.15  Raków Częstochowa       v Jagiellonia Białystok
+  Sun May/11
+    12.15  Lechia Gdańsk           v Korona Kielce
+    14.45  GKS Katowice            v KS Cracovia
+    17.30  Legia Warszawa          v Lech Poznań
+  Mon May/12
+    19.00  Puszcza Niepołomice     v FKS Stal Mielec
 
 
 » Matchday 33
+  Fri May/16
+    18.00  FKS Stal Mielec         v Radomiak Radom
+    20.30  Śląsk Wrocław           v Jagiellonia Białystok
   Sat May/17
-           KS Cracovia             v Legia Warszawa
-           GKS Katowice            v Lech Poznań
-           Korona Kielce           v Raków Częstochowa
-           Motor Lublin            v Zagłębie Lubin
-           Piast Gliwice           v Górnik Zabrze
-           Pogoń Szczecin          v Lechia Gdańsk
-           FKS Stal Mielec         v Radomiak Radom
-           Widzew Łódź             v Puszcza Niepołomice
-           Śląsk Wrocław           v Jagiellonia Białystok
+    14.45  Pogoń Szczecin          v Lechia Gdańsk
+    17.30  Piast Gliwice           v Górnik Zabrze
+    20.15  Korona Kielce           v Raków Częstochowa
+  Sun May/18
+    12.15  Motor Lublin            v Zagłębie Lubin
+    14.45  KS Cracovia             v Legia Warszawa
+    17.30  GKS Katowice            v Lech Poznań
+  Mon May/19
+    19.00  Widzew Łódź             v Puszcza Niepołomice
 
 
 » Matchday 34
   Sat May/24
-           Górnik Zabrze           v Korona Kielce
+    17.30  Górnik Zabrze           v Korona Kielce
            Jagiellonia Białystok   v Pogoń Szczecin
            Zagłębie Lubin          v KS Cracovia
            Lech Poznań             v Piast Gliwice

@@ -24,7 +24,7 @@
            Galway United           v St Patrick's Athletic    2-1 (2-1)
            Waterford FC            v Shelbourne FC            0-1 (0-1)
   Mon Apr/14
-    20.00  Shamrock Rovers         v Cork City
+    20.00  Shamrock Rovers         v Cork City                4-1 (2-0)
 
 
 » Matchday 3
@@ -66,58 +66,59 @@
 
 » Matchday 7
   Fri Mar/28
-    19.45  Bohemian FC             v Galway United
-           Cork City               v Drogheda United
-           Waterford FC            v St Patrick's Athletic
-           Sligo Rovers            v Shelbourne FC
-    20.00  Shamrock Rovers         v Derry City
+    19.45  Bohemian FC             v Galway United            0-2 (0-1)
+           Cork City               v Drogheda United          1-1 (1-0)
+           Waterford FC            v St Patrick's Athletic    1-2 (1-0)
+           Sligo Rovers            v Shelbourne FC            1-2 (1-2)
+    20.00  Shamrock Rovers         v Derry City               0-0
 
 
 » Matchday 8
   Fri Apr/4
-    19.45  Bohemian FC             v Sligo Rovers
-           Derry City              v Cork City
-           Drogheda United         v Waterford FC
-           Galway United           v Shamrock Rovers
-           St Patrick's Athletic   v Shelbourne FC
+    19.45  Bohemian FC             v Sligo Rovers             4-2 (2-2)
+           Derry City              v Cork City                2-1 (0-1)
+           Drogheda United         v Waterford FC             2-0 (1-0)
+           Galway United           v Shamrock Rovers          0-1 (0-0)
+           St Patrick's Athletic   v Shelbourne FC            0-0
 
 
 » Matchday 9
   Fri Apr/11
-    19.45  Cork City               v St Patrick's Athletic
-           Derry City              v Drogheda United
-           Shelbourne FC           v Bohemian FC
-    20.00  Shamrock Rovers         v Waterford FC
+    19.45  Cork City               v St Patrick's Athletic    0-2 (0-2)
+           Derry City              v Drogheda United          1-3 (0-0)
+           Shelbourne FC           v Bohemian FC              1-0 (0-0)
+    20.00  Shamrock Rovers         v Waterford FC             2-0 (1-0)
   Sat Apr/12
-    19.45  Sligo Rovers            v Galway United
+    19.45  Sligo Rovers            v Galway United            1-2 (0-1)
 
 
 » Matchday 10
   Fri Apr/18
-    19.45  Bohemian FC             v Cork City
-           Drogheda United         v Shelbourne FC
-           Galway United           v Derry City
-           St Patrick's Athletic   v Shamrock Rovers
-           Waterford FC            v Sligo Rovers
+    19.45  Bohemian FC             v Cork City                1-0 (0-0)
+           Drogheda United         v Shelbourne FC            2-2 (2-1)
+           Galway United           v Derry City               2-3 (1-1)
+           St Patrick's Athletic   v Shamrock Rovers          2-2 (1-1)
+           Waterford FC            v Sligo Rovers             0-4 (0-2)
 
 
 » Matchday 11
   Mon Apr/21
-    17.00  Cork City               v Waterford FC
-           Derry City              v Sligo Rovers
-           Drogheda United         v St Patrick's Athletic
-           Shamrock Rovers         v Bohemian FC
-           Shelbourne FC           v Galway United
+    14.00  Shamrock Rovers         v Bohemian FC              2-3 (2-0)
+    17.00  Cork City               v Waterford FC             2-1 (0-0)
+           Drogheda United         v St Patrick's Athletic    0-0
+           Shelbourne FC           v Galway United            2-2 (1-1)
+  Tue Apr/22
+    19.45  Derry City              v Sligo Rovers             3-0 (2-0)
 
 
 » Matchday 12
   Fri Apr/25
-    19.45  Bohemian FC             v St Patrick's Athletic
-           Galway United           v Drogheda United
-           Waterford FC            v Derry City
-    20.00  Shamrock Rovers         v Shelbourne FC
+    19.45  Bohemian FC             v St Patrick's Athletic    2-1 (0-1)
+           Galway United           v Drogheda United          2-1 (0-1)
+           Waterford FC            v Derry City               2-1 (1-0)
+           Shamrock Rovers         v Shelbourne FC            2-2 (1-0)
   Sat Apr/26
-    19.45  Sligo Rovers            v Cork City
+    19.45  Sligo Rovers            v Cork City                1-1 (0-0)
 
 
 » Matchday 13
@@ -131,11 +132,11 @@
 
 » Matchday 14
   Mon May/5
-    17.00  Derry City              v St Patrick's Athletic
-           Drogheda United         v Cork City
+    17.00  Drogheda United         v Cork City
            Galway United           v Bohemian FC
-           Shamrock Rovers         v Sligo Rovers
            Shelbourne FC           v Waterford FC
+    19.00  Shamrock Rovers         v Sligo Rovers
+    19.45  Derry City              v St Patrick's Athletic
 
 
 » Matchday 15

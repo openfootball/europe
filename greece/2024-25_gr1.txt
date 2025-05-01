@@ -336,31 +336,31 @@
 
 » Championship, Matchday 1
   Sun Mar/30
-    19.00  AEK Athen               v PAOK Saloniki
-    21.00  Olympiakos Piraeus      v Panathinaikos
+    19.00  AEK Athen               v PAOK Saloniki            2-3 (1-0)
+    21.00  Olympiakos Piraeus      v Panathinaikos            4-2 (2-1)
 
 
 » Championship, Matchday 2
   Sun Apr/6
-    19.30  PAOK Saloniki           v Olympiakos Piraeus
-    21.30  Panathinaikos           v AEK Athen
+    19.30  PAOK Saloniki           v Olympiakos Piraeus       2-1 (2-0)
+    21.30  Panathinaikos           v AEK Athen                3-1 (1-0)
 
 
 » Championship, Matchday 3
   Sun Apr/13
-    19.00  Panathinaikos           v PAOK Saloniki
-    21.00  Olympiakos Piraeus      v AEK Athen
+    19.00  Panathinaikos           v PAOK Saloniki            3-1 (2-0)
+    21.00  Olympiakos Piraeus      v AEK Athen                1-0 (0-0)
 
 
 » Championship, Matchday 4
   Sun Apr/27
-           AEK Athen               v Olympiakos Piraeus
-           PAOK Saloniki           v Panathinaikos
+    20.00  AEK Athen               v Olympiakos Piraeus       0-2 (0-1)
+           PAOK Saloniki           v Panathinaikos            2-1 (1-1)
 
 
 » Championship, Matchday 5
   Sun May/4
-           AEK Athen               v Panathinaikos
+    20.00  AEK Athen               v Panathinaikos
            Olympiakos Piraeus      v PAOK Saloniki
 
 
@@ -372,32 +372,32 @@
 
 » ECL Playoffs, Matchday 1
   Sat Mar/29
-    16.30  OFI Heraklion           v Atromitos
-    19.30  Asteras Tripolis        v Aris Saloniki
+    16.30  OFI Heraklion           v Atromitos                1-2 (1-1)
+    19.30  Asteras Tripolis        v Aris Saloniki            0-2 (0-1)
 
 
 » ECL Playoffs, Matchday 2
   Sat Apr/5
-    19.30  Aris Saloniki           v OFI Heraklion
+    19.30  Aris Saloniki           v OFI Heraklion            2-0 (0-0)
   Mon Apr/7
-    18.00  Atromitos               v Asteras Tripolis
+    18.00  Atromitos               v Asteras Tripolis         0-1 (0-0)
 
 
 » ECL Playoffs, Matchday 3
   Sun Apr/13
-    16.30  Asteras Tripolis        v OFI Heraklion
-    19.30  Aris Saloniki           v Atromitos
+    16.30  Asteras Tripolis        v OFI Heraklion            2-1 (1-1)
+    19.30  Aris Saloniki           v Atromitos                1-0 (0-0)
 
 
 » ECL Playoffs, Matchday 4
   Sat Apr/26
-           Atromitos               v Aris Saloniki
-           OFI Heraklion           v Asteras Tripolis
+    20.00  Atromitos               v Aris Saloniki            1-1 (0-1)
+           OFI Heraklion           v Asteras Tripolis         0-2 (0-0)
 
 
 » ECL Playoffs, Matchday 5
   Sat May/3
-           OFI Heraklion           v Aris Saloniki
+    20.00  OFI Heraklion           v Aris Saloniki
            Asteras Tripolis        v Atromitos
 
 
@@ -409,46 +409,45 @@
 
 » Relegation, Matchday 1
   Sat Mar/29
-    18.30  GS Kallithea            v Volos NFC
-    20.30  Panetolikos             v Levadiakos
+    18.30  GS Kallithea            v Volos NFC                1-1 (0-0)
+    20.30  Panetolikos             v Levadiakos               1-2 (1-0)
   Sun Mar/30
-    17.00  Panserraikos            v Lamia
+    17.00  Panserraikos            v Lamia                    1-1 (0-0)
 
 
 » Relegation, Matchday 2
   Sat Apr/5
-    17.00  Levadiakos              v Panserraikos
-    20.00  Lamia                   v GS Kallithea
+    17.00  Levadiakos              v Panserraikos             3-0 (2-0)
+    20.00  Lamia                   v GS Kallithea             0-2 (0-1)
   Sun Apr/6
-    17.00  Volos NFC               v Panetolikos
+    17.00  Volos NFC               v Panetolikos              0-0
 
 
 » Relegation, Matchday 3
   Sat Apr/12
-    17.00  Panetolikos             v Lamia
-    19.30  Panserraikos            v GS Kallithea
-    20.00  Volos NFC               v Levadiakos
+    17.00  Panetolikos             v Lamia                    1-0 (1-0)
+    19.30  Panserraikos            v GS Kallithea             3-1 (1-1)
+    20.00  Volos NFC               v Levadiakos               1-0 (1-0)
 
 
 » Relegation, Matchday 4
   Wed Apr/23
-    18.00  Panserraikos            v Panetolikos
-           Lamia                   v Volos NFC
-    20.30  GS Kallithea            v Levadiakos
+    18.00  Panserraikos            v Panetolikos              1-1 (1-0)
+           Lamia                   v Volos NFC                1-3 (1-2)
+    20.30  GS Kallithea            v Levadiakos               0-3 (0-1)
 
 
 » Relegation, Matchday 5
   Mon Apr/28
-    18.00  Levadiakos              v Lamia
-           Panetolikos             v GS Kallithea
-    20.00  Volos NFC               v Panserraikos
+    18.00  Levadiakos              v Lamia                    0-0
+           Panetolikos             v GS Kallithea             0-1 (0-1)
+    20.00  Volos NFC               v Panserraikos             3-0 (2-0)
 
 
 » Relegation, Matchday 6
-  Sun May/4
-    17.00  Panserraikos            v Volos NFC
   Mon May/5
-    18.00  GS Kallithea            v Panetolikos
+    18.00  Panserraikos            v Volos NFC
+           GS Kallithea            v Panetolikos
     20.00  Lamia                   v Levadiakos
 
 
