@@ -268,11 +268,12 @@
   Tue Mar/11
     17.30  NK Radomlje             v NK Bravo                 2-0 (1-0)
   Wed Mar/12
-           FC Koper                v NK Celje                 [postponed]
     15.00  ND Primorje             v NK Maribor               2-1 (1-0)
     17.30  Olimpija Ljubljana      v NŠ Mura                  2-1 (1-0)
   Thu Mar/13
     15.30  NK Nafta                v NK Domžale               3-2 (2-1)
+  Wed Apr/30
+    18.45  FC Koper                v NK Celje                 1-1 (0-0)
 
 
 » Matchday 26
@@ -287,76 +288,88 @@
 
 » Matchday 27
   Sat Mar/29
-    15.00  NK Nafta                v NK Maribor
-    17.30  FC Koper                v NŠ Mura
-    20.15  NK Domžale              v NK Celje
+    17.30  FC Koper                v NŠ Mura                  1-0 (1-0)
+    20.15  NK Domžale              v NK Celje                 0-1 (0-1)
   Sun Mar/30
-    15.00  ND Primorje             v NK Radomlje
-    17.30  Olimpija Ljubljana      v NK Bravo
+    15.00  ND Primorje             v NK Radomlje              1-1 (0-1)
+    17.30  Olimpija Ljubljana      v NK Bravo                 3-0 (2-0)
+  Wed Apr/16
+    17.30  NK Nafta                v NK Maribor               1-1 (0-1)
 
 
 » Matchday 28
   Sat Apr/5
-    16.00  NK Domžale              v NK Maribor
-    17.30  NK Nafta                v NŠ Mura
-    20.15  FC Koper                v NK Radomlje
+    17.30  NK Nafta                v NŠ Mura                  4-2 (1-1)
+    20.15  FC Koper                v NK Radomlje              3-1 (1-0)
   Sun Apr/6
-    15.00  ND Primorje             v Olimpija Ljubljana
-    17.30  NK Bravo                v NK Celje
+    15.00  ND Primorje             v Olimpija Ljubljana       0-2 (0-1)
+    17.30  NK Bravo                v NK Celje                 1-2 (1-2)
+    20.15  NK Domžale              v NK Maribor               1-0 (0-0)
 
 
 » Matchday 29
+  Tue Apr/8
+    18.00  NK Radomlje             v NK Nafta                 4-1 (2-0)
   Wed Apr/9
-           ND Primorje             v NK Bravo
-           Olimpija Ljubljana      v FC Koper
-           NK Radomlje             v NK Nafta
-           NŠ Mura                 v NK Domžale
-           NK Maribor              v NK Celje
+    17.00  Olimpija Ljubljana      v FC Koper                 1-1 (0-0)
+  Thu Apr/10
+    16.00  ND Primorje             v NK Bravo                 3-0 (1-0)
+    18.15  NŠ Mura                 v NK Domžale               0-2 (0-1)
+  Wed May/7
+    18.45  NK Maribor              v NK Celje
 
 
 » Matchday 30
   Sat Apr/12
-           NK Bravo                v NK Maribor
-           NK Celje                v NŠ Mura
-           NK Domžale              v NK Radomlje
-           NK Nafta                v Olimpija Ljubljana
-           FC Koper                v ND Primorje
+    17.30  NK Nafta                v Olimpija Ljubljana       1-1 (0-0)
+  Sun Apr/13
+    15.00  FC Koper                v ND Primorje              1-1 (1-0)
+    17.30  NK Celje                v NŠ Mura                  2-1 (0-1)
+    20.15  NK Bravo                v NK Maribor               1-1 (0-0)
+  Mon Apr/14
+    17.30  NK Domžale              v NK Radomlje              1-2 (0-0)
 
 
 » Matchday 31
   Sat Apr/19
-           FC Koper                v NK Bravo
-           ND Primorje             v NK Nafta
-           Olimpija Ljubljana      v NK Domžale
-           NK Radomlje             v NK Celje
-           NŠ Mura                 v NK Maribor
+    15.00  ND Primorje             v NK Nafta                 2-2 (0-1)
+    17.30  FC Koper                v NK Bravo                 1-0 (0-0)
+    20.15  Olimpija Ljubljana      v NK Domžale               2-0 (0-0)
+  Mon Apr/21
+    15.00  NK Radomlje             v NK Celje                 1-3 (1-0)
+    17.30  NŠ Mura                 v NK Maribor               1-2 (0-0)
 
 
 » Matchday 32
   Sat Apr/26
-           NK Bravo                v NŠ Mura
-           NK Maribor              v NK Radomlje
-           NK Celje                v Olimpija Ljubljana
-           NK Domžale              v ND Primorje
-           NK Nafta                v FC Koper
+    15.00  NK Domžale              v ND Primorje              1-1 (1-1)
+    17.30  NK Maribor              v NK Radomlje              4-0 (0-0)
+  Sun Apr/27
+    15.00  NK Nafta                v FC Koper                 1-5 (0-1)
+    17.30  NK Celje                v Olimpija Ljubljana       3-3 (1-1)
+  Mon Apr/28
+    17.30  NK Bravo                v NŠ Mura                  1-1 (0-1)
 
 
 » Matchday 33
+  Fri May/2
+    20.15  NK Nafta                v NK Bravo                 0-1 (0-1)
   Sat May/3
-           NK Nafta                v NK Bravo
-           FC Koper                v NK Domžale
-           ND Primorje             v NK Celje
-           Olimpija Ljubljana      v NK Maribor
-           NK Radomlje             v NŠ Mura
+    17.30  NK Radomlje             v NŠ Mura                  2-0 (0-0)
+    20.15  Olimpija Ljubljana      v NK Maribor               1-2 (1-1)
+  Sun May/4
+    17.30  ND Primorje             v NK Celje                 0-5 (0-4)
+    20.15  FC Koper                v NK Domžale               3-0 (0-0)
 
 
 » Matchday 34
   Sat May/10
-           NK Bravo                v NK Radomlje
-           NŠ Mura                 v Olimpija Ljubljana
-           NK Maribor              v ND Primorje
-           NK Celje                v FC Koper
-           NK Domžale              v NK Nafta
+    15.00  NK Bravo                v NK Radomlje
+    17.30  NK Celje                v FC Koper
+    20.15  NŠ Mura                 v Olimpija Ljubljana
+  Sun May/11
+    15.00  NK Domžale              v NK Nafta
+    17.30  NK Maribor              v ND Primorje
 
 
 » Matchday 35
