@@ -468,56 +468,65 @@
 
 » Championship, Matchday 2
   Sat Mar/29
-    20.00  Rapid Bucureşti         v CS Universitatea Craiova
+    20.00  Rapid Bucureşti         v CS Universitatea Craiova  1-2 (0-1)
   Sun Mar/30
-    20.30  Dinamo Bucureşti        v FCSB
+    20.30  Dinamo Bucureşti        v FCSB                     1-2 (1-1)
   Mon Mar/31
-    20.30  Universitatea Cluj      v CFR Cluj
+    20.30  Universitatea Cluj      v CFR Cluj                 1-0 (1-0)
 
 
 » Championship, Matchday 3
   Sat Apr/5
-    21.15  FCSB                    v Universitatea Cluj
+    21.15  FCSB                    v Universitatea Cluj       1-0 (0-0)
   Sun Apr/6
-    21.00  Rapid Bucureşti         v Dinamo Bucureşti
+    21.00  Rapid Bucureşti         v Dinamo Bucureşti         1-0 (1-0)
   Mon Apr/7
-    20.30  CFR Cluj                v CS Universitatea Craiova
+    20.30  CFR Cluj                v CS Universitatea Craiova  2-0 (2-0)
 
 
 » Championship, Matchday 4
   Sat Apr/12
-           CS Universitatea Craiova v FCSB
-           Universitatea Cluj      v Dinamo Bucureşti
+    20.00  Universitatea Cluj      v Dinamo Bucureşti         2-4 (2-3)
+  Sun Apr/13
+    21.00  CS Universitatea Craiova v FCSB                     0-0
   Mon Apr/14
-    20.30  CFR Cluj                v Rapid Bucureşti
+    20.30  CFR Cluj                v Rapid Bucureşti          1-1 (1-0)
 
 
 » Championship, Matchday 5
   Sat Apr/19
-           FCSB                    v CFR Cluj
-           Dinamo Bucureşti        v CS Universitatea Craiova
-           Rapid Bucureşti         v Universitatea Cluj
+    20.00  Rapid Bucureşti         v Universitatea Cluj       0-2 (0-1)
+  Sun Apr/20
+    20.00  FCSB                    v CFR Cluj                 3-2 (1-0)
+  Mon Apr/21
+    21.00  Dinamo Bucureşti        v CS Universitatea Craiova  0-2 (0-0)
 
 
 » Championship, Matchday 6
   Sat Apr/26
-           Rapid Bucureşti         v FCSB
-           Dinamo Bucureşti        v CFR Cluj
-           Universitatea Cluj      v CS Universitatea Craiova
+    20.00  Universitatea Cluj      v CS Universitatea Craiova  2-1 (0-1)
+  Sun Apr/27
+    21.00  Rapid Bucureşti         v FCSB                     1-2 (0-2)
+  Mon Apr/28
+    21.00  Dinamo Bucureşti        v CFR Cluj                 1-1 (0-0)
 
 
 » Championship, Matchday 7
+  Fri May/2
+    20.30  CS Universitatea Craiova v Rapid Bucureşti          1-2 (0-0)
   Sat May/3
-           FCSB                    v Dinamo Bucureşti
-           CFR Cluj                v Universitatea Cluj
-           CS Universitatea Craiova v Rapid Bucureşti
+    21.00  CFR Cluj                v Universitatea Cluj       1-0 (1-0)
+  Mon May/5
+    20.30  FCSB                    v Dinamo Bucureşti
 
 
 » Championship, Matchday 8
   Sat May/10
-           Universitatea Cluj      v FCSB
-           CS Universitatea Craiova v CFR Cluj
-           Dinamo Bucureşti        v Rapid Bucureşti
+    20.30  CS Universitatea Craiova v CFR Cluj
+  Sun May/11
+    20.30  Universitatea Cluj      v FCSB
+  Mon May/12
+    21.00  Dinamo Bucureşti        v Rapid Bucureşti
 
 
 » Championship, Matchday 9
@@ -548,72 +557,85 @@
 
 » Relegation, Matchday 2
   Fri Mar/28
-    17.30  Unirea Slobozia         v Petrolul Ploieşti
-    20.30  Sepsi OSK               v FC Hermannstadt
+    17.30  Unirea Slobozia         v Petrolul Ploieşti        0-0
+    20.30  Sepsi OSK               v FC Hermannstadt          0-2 (0-2)
   Sat Mar/29
-    14.30  FC Botoşani             v Farul Constanța
+    14.30  FC Botoşani             v Farul Constanța          4-3 (2-0)
   Sun Mar/30
-    15.00  FC Politehnica Iași     v UTA Arad
+    15.00  FC Politehnica Iași     v UTA Arad                 4-0 (3-0)
   Mon Mar/31
-    17.30  Gloria Buzău            v Oţelul Galaţi
+    17.30  Gloria Buzău            v Oţelul Galaţi            0-2 (0-2)
 
 
 » Relegation, Matchday 3
   Fri Apr/4
-    17.30  Oţelul Galaţi           v FC Politehnica Iași
-    20.30  Petrolul Ploieşti       v Sepsi OSK
+    17.30  Oţelul Galaţi           v FC Politehnica Iași      1-0 (1-0)
+    20.30  Petrolul Ploieşti       v Sepsi OSK                2-1 (2-1)
   Sat Apr/5
-    16.45  UTA Arad                v FC Botoşani
+    16.45  UTA Arad                v FC Botoşani              1-0 (0-0)
   Sun Apr/6
-    13.30  FC Hermannstadt         v Gloria Buzău
+    13.30  FC Hermannstadt         v Gloria Buzău             0-2 (0-2)
   Mon Apr/7
-    17.30  Farul Constanța         v Unirea Slobozia
+    17.30  Farul Constanța         v Unirea Slobozia          1-1 (1-0)
 
 
 » Relegation, Matchday 4
+  Fri Apr/11
+    17.30  Gloria Buzău            v FC Politehnica Iași      0-1 (0-1)
+    20.30  FC Hermannstadt         v Petrolul Ploieşti        1-1 (0-1)
   Sat Apr/12
-           Gloria Buzău            v FC Politehnica Iași
-           Unirea Slobozia         v UTA Arad
-           Sepsi OSK               v Farul Constanța
-           FC Hermannstadt         v Petrolul Ploieşti
+    17.00  Sepsi OSK               v Farul Constanța          1-4 (1-0)
+  Sun Apr/13
+    18.15  Unirea Slobozia         v UTA Arad                 2-1 (0-0)
   Mon Apr/14
-    17.30  FC Botoşani             v Oţelul Galaţi
+    17.30  FC Botoşani             v Oţelul Galaţi            0-1 (0-1)
 
 
 » Relegation, Matchday 5
+  Fri Apr/18
+    17.00  Oţelul Galaţi           v Unirea Slobozia          2-0 (1-0)
+    20.00  UTA Arad                v Sepsi OSK                1-1 (1-1)
   Sat Apr/19
-           Petrolul Ploieşti       v Gloria Buzău
-           Farul Constanța         v FC Hermannstadt
-           UTA Arad                v Sepsi OSK
-           Oţelul Galaţi           v Unirea Slobozia
-           FC Politehnica Iași     v FC Botoşani
+    15.00  Farul Constanța         v FC Hermannstadt          1-1 (0-1)
+  Sun Apr/20
+    17.00  FC Politehnica Iași     v FC Botoşani              3-0 (2-0)
+  Mon Apr/21
+    18.00  Petrolul Ploieşti       v Gloria Buzău             4-0 (2-0)
 
 
 » Relegation, Matchday 6
+  Fri Apr/25
+    18.45  Unirea Slobozia         v FC Politehnica Iași      1-1 (1-0)
+    21.00  Sepsi OSK               v Oţelul Galaţi            0-3 (0-2)
   Sat Apr/26
-           Gloria Buzău            v FC Botoşani
-           Unirea Slobozia         v FC Politehnica Iași
-           Sepsi OSK               v Oţelul Galaţi
-           FC Hermannstadt         v UTA Arad
-           Petrolul Ploieşti       v Farul Constanța
+    17.00  FC Hermannstadt         v UTA Arad                 3-0 (2-0)
+  Sun Apr/27
+    14.30  Gloria Buzău            v FC Botoşani              0-2 (0-1)
+  Mon Apr/28
+    18.00  Petrolul Ploieşti       v Farul Constanța          0-1 (0-0)
 
 
 » Relegation, Matchday 7
+  Fri May/2
+    17.30  FC Politehnica Iași     v Sepsi OSK                0-0
   Sat May/3
-           Farul Constanța         v Gloria Buzău
-           UTA Arad                v Petrolul Ploieşti
-           Oţelul Galaţi           v FC Hermannstadt
-           FC Politehnica Iași     v Sepsi OSK
-           FC Botoşani             v Unirea Slobozia
+    13.45  FC Botoşani             v Unirea Slobozia          1-1 (0-0)
+    18.15  Farul Constanța         v Gloria Buzău             1-0 (1-0)
+  Sun May/4
+    20.45  Oţelul Galaţi           v FC Hermannstadt          1-2 (1-0)
+  Mon May/5
+    17.30  UTA Arad                v Petrolul Ploieşti
 
 
 » Relegation, Matchday 8
+  Fri May/9
+    18.00  Gloria Buzău            v Unirea Slobozia
+    21.00  Sepsi OSK               v FC Botoşani
   Sat May/10
-           Gloria Buzău            v Unirea Slobozia
-           Sepsi OSK               v FC Botoşani
-           FC Hermannstadt         v FC Politehnica Iași
-           Petrolul Ploieşti       v Oţelul Galaţi
-           Farul Constanța         v UTA Arad
+    15.00  Farul Constanța         v UTA Arad
+    17.30  FC Hermannstadt         v FC Politehnica Iași
+  Mon May/12
+    18.00  Petrolul Ploieşti       v Oţelul Galaţi
 
 
 » Relegation, Matchday 9

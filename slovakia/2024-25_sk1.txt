@@ -275,53 +275,58 @@
 
 » Championship, Matchday 3
   Sat Mar/29
-    15.30  Slovan Bratislava       v FK Železiarne Podbrezová
-    18.00  FC Košice               v FC DAC 1904
+    15.30  Slovan Bratislava       v FK Železiarne Podbrezová  3-1 (0-0)
+    18.00  FC Košice               v FC DAC 1904              2-2 (1-1)
   Sun Mar/30
-    15.30  Spartak Trnava          v MŠK Žilina
+    15.30  Spartak Trnava          v MŠK Žilina               2-4 (2-2)
 
 
 » Championship, Matchday 4
   Sat Apr/5
-    15.30  FC DAC 1904             v FK Železiarne Podbrezová
-    18.00  MŠK Žilina              v Slovan Bratislava
+    15.30  FC DAC 1904             v FK Železiarne Podbrezová  1-1 (1-1)
+    18.00  MŠK Žilina              v Slovan Bratislava        0-5 (0-2)
   Sun Apr/6
-    15.30  FC Košice               v Spartak Trnava
+    15.30  FC Košice               v Spartak Trnava           2-1 (1-0)
 
 
 » Championship, Matchday 5
   Sat Apr/12
-    15.30  Slovan Bratislava       v FC DAC 1904
-           MŠK Žilina              v FC Košice
-           FK Železiarne Podbrezová v Spartak Trnava
+    15.30  FK Železiarne Podbrezová v Spartak Trnava           1-2 (1-1)
+    18.00  Slovan Bratislava       v FC DAC 1904              2-2 (0-0)
+  Wed Apr/23
+    18.00  MŠK Žilina              v FC Košice                0-0
 
 
 » Championship, Matchday 6
   Sat Apr/19
-    18.00  FC DAC 1904             v FC Košice
-           Spartak Trnava          v Slovan Bratislava
-           FK Železiarne Podbrezová v MŠK Žilina
+    18.00  FK Železiarne Podbrezová v MŠK Žilina               1-1 (1-1)
+    20.30  Spartak Trnava          v Slovan Bratislava        2-3 (1-2)
+  Sun Apr/20
+    18.00  FC DAC 1904             v FC Košice                3-2 (3-0)
 
 
 » Championship, Matchday 7
   Sat Apr/26
-    18.00  FC DAC 1904             v Slovan Bratislava
-           FC Košice               v FK Železiarne Podbrezová
-           MŠK Žilina              v Spartak Trnava
+    18.00  FC Košice               v FK Železiarne Podbrezová  1-1 (1-1)
+    20.30  FC DAC 1904             v Slovan Bratislava        2-1 (1-0)
+  Sun Apr/27
+    18.00  MŠK Žilina              v Spartak Trnava           2-1 (1-1)
 
 
 » Championship, Matchday 8
   Sat May/3
-    18.00  FK Železiarne Podbrezová v FC DAC 1904
-           Spartak Trnava          v FC Košice
-           Slovan Bratislava       v MŠK Žilina
+    18.00  FK Železiarne Podbrezová v FC DAC 1904              2-0 (0-0)
+    20.30  Slovan Bratislava       v MŠK Žilina               4-3 (2-3)
+  Sun May/4
+    18.00  Spartak Trnava          v FC Košice                0-1 (0-1)
 
 
 » Championship, Matchday 9
   Sat May/10
-    18.00  FC Košice               v MŠK Žilina
-           FC DAC 1904             v Spartak Trnava
-           FK Železiarne Podbrezová v Slovan Bratislava
+    18.00  FK Železiarne Podbrezová v Slovan Bratislava
+    20.30  FC Košice               v MŠK Žilina
+  Sun May/11
+    18.00  FC DAC 1904             v Spartak Trnava
 
 
 » Championship, Matchday 10
@@ -349,53 +354,59 @@
 
 » Relegation, Matchday 3
   Sat Mar/29
-    15.30  Dukla Banská Bystrica   v AS Trenčín
-           MFK Ružomberok          v MFK Skalica
+    15.30  Dukla Banská Bystrica   v AS Trenčín               2-3 (2-0)
+           MFK Ružomberok          v MFK Skalica              3-2 (2-1)
   Sun Mar/30
-    15.30  KFC Komárno             v MFK Zemplín Michalovce
+    15.30  KFC Komárno             v MFK Zemplín Michalovce   0-1 (0-1)
 
 
 » Relegation, Matchday 4
   Sat Apr/5
-    15.30  AS Trenčín              v KFC Komárno
-           MFK Skalica             v MFK Zemplín Michalovce
+    15.30  AS Trenčín              v KFC Komárno              1-0 (0-0)
+           MFK Skalica             v MFK Zemplín Michalovce   1-0 (0-0)
   Sun Apr/6
-    15.30  MFK Ružomberok          v Dukla Banská Bystrica
+    15.30  MFK Ružomberok          v Dukla Banská Bystrica    1-2 (0-0)
 
 
 » Relegation, Matchday 5
   Sat Apr/12
-    15.30  KFC Komárno             v MFK Skalica
-           AS Trenčín              v MFK Ružomberok
-           MFK Zemplín Michalovce  v Dukla Banská Bystrica
+    15.30  AS Trenčín              v MFK Ružomberok           2-2 (1-1)
+           MFK Zemplín Michalovce  v Dukla Banská Bystrica    3-3 (0-2)
+  Sun Apr/13
+    15.30  KFC Komárno             v MFK Skalica              1-1 (0-0)
 
 
 » Relegation, Matchday 6
   Sat Apr/19
-    18.00  MFK Skalica             v MFK Ružomberok
-           Dukla Banská Bystrica   v KFC Komárno
-           MFK Zemplín Michalovce  v AS Trenčín
+    18.00  MFK Skalica             v MFK Ružomberok           1-0 (0-0)
+           MFK Zemplín Michalovce  v AS Trenčín               3-2 (3-0)
+  Sun Apr/20
+    18.00  Dukla Banská Bystrica   v KFC Komárno              0-1 (0-0)
 
 
 » Relegation, Matchday 7
+  Fri Apr/25
+    18.00  AS Trenčín              v Dukla Banská Bystrica    2-2 (0-2)
   Sat Apr/26
-    18.00  MFK Skalica             v KFC Komárno
-           MFK Ružomberok          v MFK Zemplín Michalovce
-           AS Trenčín              v Dukla Banská Bystrica
+    18.00  MFK Ružomberok          v MFK Zemplín Michalovce   1-0 (0-0)
+  Sun Apr/27
+    18.00  MFK Skalica             v KFC Komárno              0-1 (0-1)
 
 
 » Relegation, Matchday 8
   Sat May/3
-    18.00  MFK Zemplín Michalovce  v MFK Skalica
-           KFC Komárno             v AS Trenčín
-           Dukla Banská Bystrica   v MFK Ružomberok
+    18.00  MFK Zemplín Michalovce  v MFK Skalica              2-4 (1-2)
+           KFC Komárno             v AS Trenčín               0-0
+  Sun May/4
+    18.00  Dukla Banská Bystrica   v MFK Ružomberok           0-2 (0-1)
 
 
 » Relegation, Matchday 9
   Sat May/10
-    18.00  MFK Zemplín Michalovce  v KFC Komárno
-           MFK Ružomberok          v AS Trenčín
+    18.00  MFK Ružomberok          v AS Trenčín
            MFK Skalica             v Dukla Banská Bystrica
+  Sun May/11
+    18.00  MFK Zemplín Michalovce  v KFC Komárno
 
 
 » Relegation, Matchday 10

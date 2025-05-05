@@ -1,8 +1,8 @@
 = Swiss Cup 2024/25
 
-# Date       Fri Aug/16 2024 - Sun Apr/27 2025 (254d)
+# Date       Fri Aug/16 2024 - Sun Jun/1 2025 (289d)
 # Teams      64
-# Matches    62
+# Matches    63
 
 
 
@@ -92,6 +92,11 @@
 
 » Semifinals
   Sat Apr/26
-    20.30  FC Biel/Bienne          v BSC Young Boys
+    20.30  FC Biel/Bienne          v BSC Young Boys           1-0 a.e.t. (0-0)
   Sun Apr/27
-    15.30  FC Basel 1893           v FC Lausanne-Sport
+    15.30  FC Basel 1893           v FC Lausanne-Sport        3-2 a.e.t. (2-2, 0-1)
+
+
+» Final
+  Sun Jun/1
+    14.00  FC Biel/Bienne          v FC Basel 1893

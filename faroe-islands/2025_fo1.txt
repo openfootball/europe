@@ -28,88 +28,89 @@
 
 » Matchday 3
   Sun Mar/30
-    14.45  TB Tvøroyri             v B36 Tórshavn
-    15.00  KÍ Klaksvík             v EB/Streymur
-           Víkingur                v 07 Vestur
-    17.00  HB Tórshavn             v FC Suðuroy
-    19.00  NSÍ Runavík             v B68 Toftir
+    14.45  TB Tvøroyri             v B36 Tórshavn             0-1 (0-1)
+    15.00  KÍ Klaksvík             v EB/Streymur              2-1 (2-1)
+           Víkingur                v 07 Vestur                0-0
+    17.00  HB Tórshavn             v FC Suðuroy               4-0 (1-0)
+    19.00  NSÍ Runavík             v B68 Toftir               11-0 (4-0)
 
 
 » Matchday 4
   Thu Apr/3
-    15.30  FC Suðuroy              v TB Tvøroyri
-    18.30  B68 Toftir              v KÍ Klaksvík
-           NSÍ Runavík             v 07 Vestur
-           EB/Streymur             v HB Tórshavn
-           B36 Tórshavn            v Víkingur
+    16.30  FC Suðuroy              v TB Tvøroyri              1-0 (0-0)
+    18.30  B68 Toftir              v KÍ Klaksvík              0-2 (0-0)
+           NSÍ Runavík             v 07 Vestur                4-1 (2-1)
+           EB/Streymur             v HB Tórshavn              0-3 (0-2)
+           B36 Tórshavn            v Víkingur                 1-0 (1-0)
 
 
 » Matchday 5
+  Sat Apr/12
+    19.00  KÍ Klaksvík             v Víkingur                 2-0 (1-0)
   Sun Apr/13
-    14.45  TB Tvøroyri             v NSÍ Runavík
-    15.00  KÍ Klaksvík             v Víkingur
-           EB/Streymur             v B68 Toftir
-           07 Vestur               v FC Suðuroy
-    17.00  HB Tórshavn             v B36 Tórshavn
+    14.45  TB Tvøroyri             v NSÍ Runavík              1-5 (0-3)
+    15.00  HB Tórshavn             v B36 Tórshavn             2-3 (1-1)
+           EB/Streymur             v B68 Toftir               1-0 (0-0)
+           07 Vestur               v FC Suðuroy               1-2 (1-1)
 
 
 » Matchday 6
   Thu Apr/17
-           KÍ Klaksvík             v HB Tórshavn
-           B36 Tórshavn            v B68 Toftir
-           Víkingur                v EB/Streymur
-           NSÍ Runavík             v FC Suðuroy
-           TB Tvøroyri             v 07 Vestur
+    14.45  TB Tvøroyri             v 07 Vestur                2-1 (1-1)
+    15.00  KÍ Klaksvík             v HB Tórshavn              4-0 (1-0)
+           B36 Tórshavn            v B68 Toftir               1-1 (0-1)
+           Víkingur                v EB/Streymur              4-1 (0-0)
+    17.00  NSÍ Runavík             v FC Suðuroy               1-0 (0-0)
 
 
 » Matchday 7
-  Fri Apr/25
-           07 Vestur               v B36 Tórshavn
   Sat Apr/26
-           HB Tórshavn             v TB Tvøroyri
-           FC Suðuroy              v KÍ Klaksvík
-           EB/Streymur             v NSÍ Runavík
-           B68 Toftir              v Víkingur
+    15.00  FC Suðuroy              v KÍ Klaksvík              0-4 (0-3)
+    17.00  B68 Toftir              v Víkingur                 0-1 (0-1)
+    18.00  HB Tórshavn             v TB Tvøroyri              3-2 (1-2)
+    18.30  07 Vestur               v B36 Tórshavn             1-3 (1-3)
+           EB/Streymur             v NSÍ Runavík              0-5 (0-2)
 
 
 » Matchday 8
   Thu May/1
-           KÍ Klaksvík             v TB Tvøroyri
+    17.30  KÍ Klaksvík             v TB Tvøroyri              10-0 (5-0)
   Sat May/3
-           B68 Toftir              v 07 Vestur
-           HB Tórshavn             v NSÍ Runavík
-           B36 Tórshavn            v EB/Streymur
+    16.30  B36 Tórshavn            v EB/Streymur              1-2 (0-1)
+    17.00  B68 Toftir              v 07 Vestur                2-1 (0-0)
+    19.30  HB Tórshavn             v NSÍ Runavík              1-7 (0-2)
   Sun May/4
-           FC Suðuroy              v Víkingur
+    14.30  FC Suðuroy              v Víkingur                 0-2 (0-1)
 
 
 » Matchday 9
   Fri May/9
-           NSÍ Runavík             v KÍ Klaksvík
-           B36 Tórshavn            v FC Suðuroy
-           Víkingur                v HB Tórshavn
+    18.00  Víkingur                v HB Tórshavn
+    18.30  B36 Tórshavn            v FC Suðuroy
            07 Vestur               v EB/Streymur
+    20.00  NSÍ Runavík             v KÍ Klaksvík
   Sat May/10
-           TB Tvøroyri             v B68 Toftir
+    14.45  TB Tvøroyri             v B68 Toftir
 
 
 » Matchday 10
   Fri May/16
            EB/Streymur             v Víkingur
            07 Vestur               v TB Tvøroyri
-           FC Suðuroy              v NSÍ Runavík
-           B68 Toftir              v B36 Tórshavn
-           HB Tórshavn             v KÍ Klaksvík
+    16.00  B68 Toftir              v B36 Tórshavn
+    17.15  HB Tórshavn             v KÍ Klaksvík
+  Sat May/17
+    15.00  FC Suðuroy              v NSÍ Runavík
 
 
 » Matchday 11
   Sat May/24
-           B36 Tórshavn            v EB/Streymur
+    17.15  B36 Tórshavn            v EB/Streymur
   Sun May/25
            Víkingur                v FC Suðuroy
-           NSÍ Runavík             v HB Tórshavn
            07 Vestur               v B68 Toftir
-           TB Tvøroyri             v KÍ Klaksvík
+    14.45  TB Tvøroyri             v KÍ Klaksvík
+    17.15  NSÍ Runavík             v HB Tórshavn
 
 
 » Matchday 12

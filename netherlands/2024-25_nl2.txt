@@ -430,9 +430,9 @@
     12.15  Vitesse                 v De Graafschap            2-0 (1-0)
     16.45  SBV Excelsior           v Helmond Sport            1-1 (0-0)
   Tue Apr/1
-    20.00  FC Utrecht J            v VVV-Venlo
+    20.00  FC Utrecht J            v VVV-Venlo                0-0
   Mon Apr/7
-    20.00  AZ Alkmaar J            v Jong PSV
+    20.00  AZ Alkmaar J            v Jong PSV                 2-2 (0-1)
 
 
 » Matchday 27
@@ -517,100 +517,100 @@
 
 » Matchday 32
   Fri Mar/28
-    20.00  FC Eindhoven            v Helmond Sport
-           SBV Excelsior           v FC Utrecht J
-           MVV                     v FC Emmen
-           SC Cambuur              v De Graafschap
-           Telstar                 v Vitesse
+    20.00  FC Eindhoven            v Helmond Sport            2-2 (1-1)
+           SBV Excelsior           v FC Utrecht J             3-0 (1-0)
+           MVV                     v FC Emmen                 1-2 (0-0)
+           SC Cambuur              v De Graafschap            3-2 (1-1)
+           Telstar                 v Vitesse                  1-0 (0-0)
   Sat Mar/29
-    16.30  Roda JC Kerkrade        v VVV-Venlo
+    16.30  Roda JC Kerkrade        v VVV-Venlo                1-4 (0-2)
   Sun Mar/30
-    16.45  ADO Den Haag            v FC Dordrecht
+    16.45  ADO Den Haag            v FC Dordrecht             2-1 (1-0)
   Mon Mar/31
-    20.00  Jong Ajax               v FC Volendam
-           AZ Alkmaar J            v TOP Oss
-           Jong PSV                v FC Den Bosch
+    20.00  Jong Ajax               v FC Volendam              0-2 (0-1)
+           AZ Alkmaar J            v TOP Oss                  1-1 (1-0)
+           Jong PSV                v FC Den Bosch             2-4 (1-3)
 
 
 » Matchday 33
   Fri Apr/4
-    20.00  FC Dordrecht            v Jong Ajax
-           FC Emmen                v SC Cambuur
-           FC Volendam             v Jong PSV
-           MVV                     v SBV Excelsior
-           TOP Oss                 v VVV-Venlo
-           Vitesse                 v AZ Alkmaar J
+    20.00  FC Dordrecht            v Jong Ajax                3-0 (1-0)
+           FC Emmen                v SC Cambuur               3-0 (1-0)
+           FC Volendam             v Jong PSV                 4-0 (0-0)
+           MVV                     v SBV Excelsior            1-2 (1-0)
+           TOP Oss                 v VVV-Venlo                2-1 (1-0)
+           Vitesse                 v AZ Alkmaar J             2-2 (2-0)
   Sat Apr/5
-    16.30  Helmond Sport           v Telstar
+    16.30  Helmond Sport           v Telstar                  2-2 (2-1)
   Sun Apr/6
-    12.15  FC Den Bosch            v FC Eindhoven
-    16.45  De Graafschap           v Roda JC Kerkrade
+    12.15  FC Den Bosch            v FC Eindhoven             2-2 (1-1)
+    16.45  De Graafschap           v Roda JC Kerkrade         2-0 (1-0)
   Mon Apr/7
-    20.00  FC Utrecht J            v ADO Den Haag
+    20.00  FC Utrecht J            v ADO Den Haag             1-1 (1-0)
 
 
 » Matchday 34
   Fri Apr/11
-    20.00  FC Eindhoven            v De Graafschap
-           SBV Excelsior           v TOP Oss
-           Roda JC Kerkrade        v FC Emmen
-           Telstar                 v ADO Den Haag
+    20.00  FC Eindhoven            v De Graafschap            1-0 (0-0)
+           SBV Excelsior           v TOP Oss                  2-0 (1-0)
+           Roda JC Kerkrade        v FC Emmen                 1-0 (0-0)
+           Telstar                 v ADO Den Haag             1-1 (1-0)
   Sat Apr/12
-    16.30  FC Dordrecht            v FC Den Bosch
+    16.30  FC Dordrecht            v FC Den Bosch             4-0 (3-0)
   Sun Apr/13
-    12.15  SC Cambuur              v FC Utrecht J
-    16.45  VVV-Venlo               v Helmond Sport
+    12.15  SC Cambuur              v FC Utrecht J             3-1 (1-1)
+    16.45  VVV-Venlo               v Helmond Sport            4-1 (1-0)
   Mon Apr/14
-    20.00  Jong Ajax               v Vitesse
-           AZ Alkmaar J            v FC Volendam
-           Jong PSV                v MVV
+    20.00  Jong Ajax               v Vitesse                  1-1 (1-0)
+           AZ Alkmaar J            v FC Volendam              0-1 (0-0)
+           Jong PSV                v MVV                      3-2 (1-1)
 
 
 » Matchday 35
   Fri Apr/18
-    20.00  FC Den Bosch            v VVV-Venlo
-           FC Eindhoven            v Telstar
-           FC Emmen                v AZ Alkmaar J
-           Helmond Sport           v SC Cambuur
-           MVV                     v FC Utrecht J
+    20.00  FC Den Bosch            v VVV-Venlo                0-0
+           FC Eindhoven            v Telstar                  0-4 (0-3)
+           FC Emmen                v AZ Alkmaar J             1-4 (0-1)
+           Helmond Sport           v SC Cambuur               1-1 (1-1)
+           MVV                     v FC Utrecht J             5-0 (3-0)
   Sat Apr/19
-    16.30  Vitesse                 v Roda JC Kerkrade
-    18.45  TOP Oss                 v FC Dordrecht
-    21.00  De Graafschap           v Jong Ajax
+    16.30  Vitesse                 v Roda JC Kerkrade         3-0 (1-0)
+    18.45  TOP Oss                 v FC Dordrecht             2-0 (2-0)
+    21.00  De Graafschap           v Jong Ajax                2-0 (2-0)
   Sun Apr/20
-    14.30  ADO Den Haag            v Jong PSV
-    16.45  FC Volendam             v SBV Excelsior
+    14.30  ADO Den Haag            v Jong PSV                 3-2 (2-0)
+    16.45  FC Volendam             v SBV Excelsior            1-4 (0-2)
 
 
 » Matchday 36
   Thu Apr/24
-    20.00  Roda JC Kerkrade        v ADO Den Haag
+    20.00  Roda JC Kerkrade        v ADO Den Haag             1-1 (0-1)
   Fri Apr/25
-    20.00  FC Dordrecht            v MVV
-           SC Cambuur              v Vitesse
-           Telstar                 v TOP Oss
+    20.00  FC Dordrecht            v MVV                      3-0 (3-0)
+           SC Cambuur              v Vitesse                  2-1 (2-1)
+           Telstar                 v TOP Oss                  3-2 (0-1)
   Sun Apr/27
-    16.45  SBV Excelsior           v FC Emmen
+    16.45  SBV Excelsior           v FC Emmen                 2-0 (2-0)
   Mon Apr/28
-    20.00  VVV-Venlo               v De Graafschap
-           Jong Ajax               v Helmond Sport
-           AZ Alkmaar J            v FC Den Bosch
-           FC Utrecht J            v FC Volendam
-           Jong PSV                v FC Eindhoven
+    20.00  VVV-Venlo               v De Graafschap            3-1 (0-0)
+           Jong Ajax               v Helmond Sport            1-0 (0-0)
+           AZ Alkmaar J            v FC Den Bosch             0-0
+           FC Utrecht J            v FC Volendam              2-3 (2-1)
+           Jong PSV                v FC Eindhoven             0-2 (0-1)
 
 
 » Matchday 37
   Fri May/2
-    20.00  ADO Den Haag            v SC Cambuur
-           De Graafschap           v Telstar
-           FC Den Bosch            v Helmond Sport
-           FC Eindhoven            v AZ Alkmaar J
-           SBV Excelsior           v Jong PSV
-           FC Emmen                v VVV-Venlo
-           FC Volendam             v Roda JC Kerkrade
-           FC Utrecht J            v FC Dordrecht
-           MVV                     v Jong Ajax
-           TOP Oss                 v Vitesse
+    20.00  ADO Den Haag            v SC Cambuur               3-4 (2-2)
+           De Graafschap           v Telstar                  2-1 (1-1)
+           FC Den Bosch            v Helmond Sport            1-0 (0-0)
+           FC Eindhoven            v AZ Alkmaar J             2-4 (1-2)
+           SBV Excelsior           v Jong PSV                 5-0 (2-0)
+           FC Emmen                v VVV-Venlo                2-1 (1-0)
+           FC Volendam             v Roda JC Kerkrade         3-2 (1-1)
+           FC Utrecht J            v FC Dordrecht             1-0 (0-0)
+           MVV                     v Jong Ajax                1-0 (0-0)
+           TOP Oss                 v Vitesse                  2-2 (1-2)
 
 
 » Matchday 38

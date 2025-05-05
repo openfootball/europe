@@ -1,0 +1,544 @@
+= Poland I Liga 2024/25
+
+# Date       Fri Jul/19 2024 - Sun May/25 2025 (310d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Jul/19 2024
+    18.00  Polonia Warszawa        v Znicz Pruszków           0-1 (0-0)
+    20.30  Odra Opole              v Ruch Chorzów             0-2 (0-1)
+  Sat Jul/20
+    14.30  Bruk-Bet Termalica Nieciecza v Warta Poznań             3-0 (0-0)
+    17.00  Pogoń Siedlce           v Chrobry Głogów           1-2 (0-2)
+    19.35  Stal Stalowa Wola       v Górnik Łęczna            0-1 (0-0)
+  Sun Jul/21
+    12.00  Wisła Płock             v Kotwica Kołobrzeg        1-1 (0-1)
+    14.30  GKS Tychy '71           v Miedź Legnica            2-2 (0-1)
+  Mon Jul/22
+    19.00  Stal Rzeszow            v Arka Gdynia              1-0 (0-0)
+  Tue Sep/17
+    19.30  ŁKS Łódź                v Wisła Kraków             3-1 (2-0)
+
+
+» Matchday 2
+  Fri Jul/26
+    18.00  Miedź Legnica           v Stal Stalowa Wola        4-2 (3-0)
+    20.00  Kotwica Kołobrzeg       v GKS Tychy '71            0-0
+  Sat Jul/27
+    14.30  Chrobry Głogów          v Bruk-Bet Termalica Nieciecza  0-4 (0-0)
+    17.00  Górnik Łęczna           v Stal Rzeszow             2-1 (1-0)
+    19.35  Warta Poznań            v Wisła Płock              1-2 (1-0)
+  Sun Jul/28
+    12.00  Odra Opole              v Pogoń Siedlce            4-1 (2-0)
+    14.30  Wisła Kraków            v Polonia Warszawa         0-0
+    17.00  Ruch Chorzów            v Znicz Pruszków           0-0
+  Mon Jul/29
+    20.30  Arka Gdynia             v ŁKS Łódź                 2-1 (1-1)
+
+
+» Matchday 3
+  Fri Aug/2
+    18.00  GKS Tychy '71           v Warta Poznań             1-1 (1-0)
+    20.00  Ruch Chorzów            v Pogoń Siedlce            1-1 (0-0)
+  Sat Aug/3
+    14.30  Stal Stalowa Wola       v Kotwica Kołobrzeg        0-2 (0-1)
+    17.00  Wisła Płock             v Chrobry Głogów           2-1 (1-0)
+    19.35  Polonia Warszawa        v Arka Gdynia              0-3 (0-1)
+  Sun Aug/4
+    12.00  Stal Rzeszow            v Miedź Legnica            1-0 (0-0)
+    14.30  Znicz Pruszków          v Wisła Kraków             2-1 (0-1)
+    17.00  Bruk-Bet Termalica Nieciecza v Odra Opole               3-0 (1-0)
+  Mon Aug/5
+    20.30  ŁKS Łódź                v Górnik Łęczna            1-1 (0-0)
+
+
+» Matchday 4
+  Fri Aug/9
+    18.00  Chrobry Głogów          v GKS Tychy '71            0-0
+    20.30  Arka Gdynia             v Znicz Pruszków           1-1 (1-1)
+  Sat Aug/10
+    14.30  Górnik Łęczna           v Polonia Warszawa         3-1 (1-0)
+    17.00  Warta Poznań            v Stal Stalowa Wola        1-0 (1-0)
+    19.35  Miedź Legnica           v ŁKS Łódź                 1-0 (0-0)
+  Sun Aug/11
+    12.00  Pogoń Siedlce           v Bruk-Bet Termalica Nieciecza  1-2 (1-2)
+    14.30  Odra Opole              v Wisła Płock              1-2 (1-2)
+    17.00  Kotwica Kołobrzeg       v Stal Rzeszow             1-3 (0-2)
+  Mon Aug/12
+    19.00  Wisła Kraków            v Ruch Chorzów             3-1 (1-0)
+
+
+» Matchday 5
+  Fri Aug/16
+    18.00  Stal Stalowa Wola       v Chrobry Głogów           1-1 (1-1)
+    20.30  ŁKS Łódź                v Kotwica Kołobrzeg        0-2 (0-1)
+  Sat Aug/17
+    14.30  Polonia Warszawa        v Miedź Legnica            0-1 (0-0)
+    17.30  Stal Rzeszow            v Warta Poznań             4-0 (2-0)
+    19.35  GKS Tychy '71           v Odra Opole               0-0
+  Sun Aug/18
+    12.00  Znicz Pruszków          v Górnik Łęczna            2-3 (1-1)
+    14.30  Bruk-Bet Termalica Nieciecza v Ruch Chorzów             1-1 (1-0)
+    17.00  Wisła Płock             v Pogoń Siedlce            1-0 (0-0)
+  Mon Aug/19
+    19.00  Wisła Kraków            v Arka Gdynia              2-2 (1-0)
+
+
+» Matchday 6
+  Tue Aug/20
+    18.00  Kotwica Kołobrzeg       v Polonia Warszawa         1-0 (1-0)
+    20.30  Warta Poznań            v ŁKS Łódź                 2-4 (0-2)
+           Chrobry Głogów          v Stal Rzeszow             1-3 (0-1)
+  Wed Aug/21
+    18.00  Bruk-Bet Termalica Nieciecza v Wisła Płock              4-2 (0-1)
+    20.30  Odra Opole              v Stal Stalowa Wola        2-1 (0-1)
+           Pogoń Siedlce           v GKS Tychy '71            0-1 (0-1)
+  Thu Aug/22
+    17.30  Miedź Legnica           v Znicz Pruszków           4-0 (3-0)
+    19.00  Arka Gdynia             v Ruch Chorzów             1-1 (0-1)
+  Tue Oct/22
+    18.00  Górnik Łęczna           v Wisła Kraków             1-0 (0-0)
+
+
+» Matchday 7
+  Fri Aug/23
+    20.30  Polonia Warszawa        v Warta Poznań             2-0 (2-0)
+  Sat Aug/24
+    14.30  Stal Stalowa Wola       v Pogoń Siedlce            1-3 (1-0)
+    17.00  Stal Rzeszow            v Odra Opole               2-2 (1-1)
+    19.35  GKS Tychy '71           v Bruk-Bet Termalica Nieciecza  0-2 (0-1)
+  Sun Aug/25
+    12.00  Znicz Pruszków          v Kotwica Kołobrzeg        4-0 (1-0)
+    14.30  ŁKS Łódź                v Chrobry Głogów           3-0 (2-0)
+    17.00  Arka Gdynia             v Górnik Łęczna            1-2 (1-1)
+  Mon Aug/26
+    19.00  Wisła Płock             v Ruch Chorzów             3-2 (1-1)
+  Thu Dec/12
+    21.00  Wisła Kraków            v Miedź Legnica            1-1 (0-0)
+
+
+» Matchday 8
+  Fri Aug/30
+    18.00  Odra Opole              v ŁKS Łódź                 0-1 (0-1)
+    20.30  Miedź Legnica           v Arka Gdynia              1-2 (1-1)
+           Chrobry Głogów          v Polonia Warszawa         1-2 (0-1)
+  Sat Aug/31
+    14.30  Warta Poznań            v Znicz Pruszków           1-1 (1-1)
+    17.00  Wisła Płock             v GKS Tychy '71            0-0
+    19.35  Ruch Chorzów            v Górnik Łęczna            3-2 (1-1)
+  Sun Sep/1
+    12.00  Bruk-Bet Termalica Nieciecza v Stal Stalowa Wola        3-0 (1-0)
+    14.30  Kotwica Kołobrzeg       v Wisła Kraków             1-1 (1-0)
+    17.00  Pogoń Siedlce           v Stal Rzeszow             1-1 (1-1)
+
+
+» Matchday 9
+  Fri Sep/13
+    18.00  ŁKS Łódź                v Pogoń Siedlce            2-0 (1-0)
+    20.30  Wisła Kraków            v Warta Poznań             0-1 (0-1)
+  Sat Sep/14
+    14.30  Stal Stalowa Wola       v Wisła Płock              1-3 (0-2)
+    17.00  Polonia Warszawa        v Odra Opole               3-0 (2-0)
+    19.35  Stal Rzeszow            v Bruk-Bet Termalica Nieciecza  1-2 (0-2)
+  Sun Sep/15
+    14.30  Arka Gdynia             v Kotwica Kołobrzeg        5-0 (3-0)
+    17.00  Górnik Łęczna           v Miedź Legnica            1-2 (0-2)
+  Mon Sep/16
+    19.00  GKS Tychy '71           v Ruch Chorzów             0-1 (0-1)
+           Znicz Pruszków          v Chrobry Głogów           2-3 (1-2)
+
+
+» Matchday 10
+  Fri Sep/20
+    20.30  Wisła Płock             v Stal Rzeszow             1-1 (0-1)
+  Sat Sep/21
+    14.30  Warta Poznań            v Arka Gdynia              0-1 (0-0)
+    17.30  Bruk-Bet Termalica Nieciecza v ŁKS Łódź                 2-2 (2-1)
+    19.35  Kotwica Kołobrzeg       v Górnik Łęczna            1-1 (1-0)
+  Sun Sep/22
+    12.30  Miedź Legnica           v Ruch Chorzów             3-0 (0-0)
+    17.00  GKS Tychy '71           v Stal Stalowa Wola        0-0
+    20.00  Pogoń Siedlce           v Polonia Warszawa         2-4 (0-1)
+  Wed Oct/2
+    18.00  Odra Opole              v Znicz Pruszków           1-1 (1-0)
+  Sat Nov/16
+    17.30  Chrobry Głogów          v Wisła Kraków             0-3 (0-2)
+
+
+» Matchday 11
+  Fri Sep/27
+    20.30  Wisła Kraków            v Odra Opole               5-0 (0-0)
+  Sat Sep/28
+    17.30  Znicz Pruszków          v Pogoń Siedlce            1-0 (0-0)
+    19.35  Górnik Łęczna           v Warta Poznań             1-1 (0-0)
+  Sun Sep/29
+    12.00  Arka Gdynia             v Chrobry Głogów           2-0 (0-0)
+    14.30  Polonia Warszawa        v Bruk-Bet Termalica Nieciecza  0-1 (0-0)
+    17.00  Miedź Legnica           v Kotwica Kołobrzeg        1-1 (0-0)
+    19.30  Stal Stalowa Wola       v Ruch Chorzów             2-0 (1-0)
+  Mon Sep/30
+    18.00  Stal Rzeszow            v GKS Tychy '71            5-1 (3-1)
+    19.00  ŁKS Łódź                v Wisła Płock              0-1 (0-0)
+
+
+» Matchday 12
+  Fri Oct/4
+    18.00  Warta Poznań            v Miedź Legnica            1-4 (0-4)
+    20.30  Ruch Chorzów            v Kotwica Kołobrzeg        1-0 (0-0)
+  Sat Oct/5
+    14.30  Stal Stalowa Wola       v Stal Rzeszow             2-2 (1-1)
+    17.30  Wisła Płock             v Polonia Warszawa         4-1 (1-1)
+    19.35  Pogoń Siedlce           v Wisła Kraków             1-3 (1-1)
+  Sun Oct/6
+    12.00  Chrobry Głogów          v Górnik Łęczna            1-1 (1-0)
+    14.30  Odra Opole              v Arka Gdynia              0-6 (0-3)
+    17.00  GKS Tychy '71           v ŁKS Łódź                 0-3 (0-2)
+    19.00  Bruk-Bet Termalica Nieciecza v Znicz Pruszków           1-2 (1-2)
+
+
+» Matchday 13
+  Fri Oct/18
+    18.00  Górnik Łęczna           v Odra Opole               2-2 (0-2)
+    20.30  Wisła Kraków            v Bruk-Bet Termalica Nieciecza  2-0 (0-0)
+  Sat Oct/19
+    14.30  Kotwica Kołobrzeg       v Warta Poznań             0-1 (0-0)
+    17.30  Miedź Legnica           v Chrobry Głogów           1-0 (1-0)
+    19.35  Znicz Pruszków          v Wisła Płock              2-2 (1-0)
+  Sun Oct/20
+    12.00  Polonia Warszawa        v GKS Tychy '71            2-1 (1-1)
+    14.30  Arka Gdynia             v Pogoń Siedlce            2-1 (2-0)
+    17.00  ŁKS Łódź                v Stal Stalowa Wola        0-0
+  Mon Oct/21
+    19.00  Stal Rzeszow            v Ruch Chorzów             0-2 (0-2)
+
+
+» Matchday 14
+  Fri Oct/25
+    18.00  Chrobry Głogów          v Kotwica Kołobrzeg        3-2 (0-1)
+    20.30  Ruch Chorzów            v Warta Poznań             2-1 (1-0)
+  Sat Oct/26
+    14.30  Odra Opole              v Miedź Legnica            0-2 (0-1)
+    17.30  Stal Rzeszow            v ŁKS Łódź                 2-4 (0-1)
+    19.35  Bruk-Bet Termalica Nieciecza v Arka Gdynia              2-1 (1-0)
+    20.00  Pogoń Siedlce           v Górnik Łęczna            1-1 (0-0)
+  Sun Oct/27
+    14.30  Wisła Płock             v Wisła Kraków             1-3 (0-1)
+    17.00  Stal Stalowa Wola       v Polonia Warszawa         1-1 (0-0)
+  Mon Oct/28
+    19.00  GKS Tychy '71           v Znicz Pruszków           1-1 (0-1)
+
+
+» Matchday 15
+  Sat Nov/2
+    12.00  Znicz Pruszków          v Stal Stalowa Wola        0-1 (0-0)
+    14.30  Kotwica Kołobrzeg       v Odra Opole               0-1 (0-1)
+    17.00  Górnik Łęczna           v Bruk-Bet Termalica Nieciecza  0-2 (0-0)
+    19.35  Arka Gdynia             v Wisła Płock              2-0 (0-0)
+  Sun Nov/3
+    12.00  Miedź Legnica           v Pogoń Siedlce            4-1 (3-0)
+    14.30  ŁKS Łódź                v Ruch Chorzów             0-1 (0-0)
+    17.00  Warta Poznań            v Chrobry Głogów           1-0 (1-0)
+  Mon Nov/4
+    17.00  Polonia Warszawa        v Stal Rzeszow             1-0 (0-0)
+    19.00  Wisła Kraków            v GKS Tychy '71            0-0
+
+
+» Matchday 16
+  Thu Nov/7
+    19.00  Ruch Chorzów            v Chrobry Głogów           5-0 (4-0)
+  Fri Nov/8
+    18.00  Pogoń Siedlce           v Kotwica Kołobrzeg        2-1 (0-1)
+    20.30  ŁKS Łódź                v Polonia Warszawa         0-0
+  Sat Nov/9
+    14.30  GKS Tychy '71           v Arka Gdynia              1-1 (1-1)
+    17.30  Odra Opole              v Warta Poznań             0-0
+    19.35  Bruk-Bet Termalica Nieciecza v Miedź Legnica            1-1 (0-0)
+  Sun Nov/10
+    12.45  Stal Stalowa Wola       v Wisła Kraków             1-5 (1-3)
+    14.30  Wisła Płock             v Górnik Łęczna            2-2 (1-0)
+    17.00  Stal Rzeszow            v Znicz Pruszków           2-1 (1-1)
+
+
+» Matchday 17
+  Fri Nov/22
+    18.00  Kotwica Kołobrzeg       v Bruk-Bet Termalica Nieciecza  0-5 (0-2)
+    20.30  Wisła Kraków            v Stal Rzeszow             1-1 (1-1)
+  Sat Nov/23
+    14.30  Chrobry Głogów          v Odra Opole               1-1 (1-1)
+    17.30  Górnik Łęczna           v GKS Tychy '71            2-2 (1-1)
+    19.35  Znicz Pruszków          v ŁKS Łódź                 2-2 (0-1)
+  Sun Nov/24
+    12.00  Warta Poznań            v Pogoń Siedlce            2-1 (0-1)
+    14.30  Polonia Warszawa        v Ruch Chorzów             1-0 (1-0)
+    17.00  Arka Gdynia             v Stal Stalowa Wola        5-1 (2-1)
+  Mon Nov/25
+    19.00  Miedź Legnica           v Wisła Płock              2-2 (1-1)
+
+
+» Matchday 18
+  Fri Nov/29
+    18.00  Znicz Pruszków          v Polonia Warszawa         2-1 (2-1)
+    20.30  Ruch Chorzów            v Odra Opole               6-0 (3-0)
+  Sat Nov/30
+    14.30  Miedź Legnica           v GKS Tychy '71            1-3 (0-1)
+    17.30  Kotwica Kołobrzeg       v Wisła Płock              2-0 (1-0)
+    19.35  Wisła Kraków            v ŁKS Łódź                 2-1 (0-1)
+  Sun Dec/1
+    12.00  Chrobry Głogów          v Pogoń Siedlce            1-0 (1-0)
+    14.30  Warta Poznań            v Bruk-Bet Termalica Nieciecza  0-1 (0-0)
+    17.00  Górnik Łęczna           v Stal Stalowa Wola        2-0 (0-0)
+  Mon Dec/2
+    19.00  Arka Gdynia             v Stal Rzeszow             2-1 (2-0)
+
+
+» Matchday 19
+  Fri Dec/6
+    18.00  Stal Stalowa Wola       v Miedź Legnica            0-2 (0-0)
+    20.30  Polonia Warszawa        v Wisła Kraków             2-0 (2-0)
+  Sat Dec/7
+    14.30  GKS Tychy '71           v Kotwica Kołobrzeg        4-0 (2-0)
+    17.30  Bruk-Bet Termalica Nieciecza v Chrobry Głogów           3-2 (1-2)
+    19.35  Stal Rzeszow            v Górnik Łęczna            0-3 (0-1)
+  Sun Dec/8
+    12.00  Pogoń Siedlce           v Odra Opole               0-1 (0-0)
+    14.30  Znicz Pruszków          v Ruch Chorzów             2-3 (2-1)
+    17.00  Wisła Płock             v Warta Poznań             4-0 (2-0)
+  Mon Dec/9
+    19.00  ŁKS Łódź                v Arka Gdynia              0-2 (0-0)
+
+
+» Matchday 20
+  Fri Feb/14 2025
+    18.00  Odra Opole              v Bruk-Bet Termalica Nieciecza  2-2 (2-0)
+    20.45  Arka Gdynia             v Polonia Warszawa         0-0
+  Sat Feb/15
+    14.30  Kotwica Kołobrzeg       v Stal Stalowa Wola        1-1 (0-1)
+    17.00  Wisła Kraków            v Znicz Pruszków           0-1 (0-1)
+    19.30  Miedź Legnica           v Stal Rzeszow             3-3 (1-0)
+  Sun Feb/16
+    12.00  Warta Poznań            v GKS Tychy '71            1-3 (0-1)
+    14.30  Górnik Łęczna           v ŁKS Łódź                 2-2 (2-1)
+    17.00  Chrobry Głogów          v Wisła Płock              0-0
+  Mon Feb/17
+    19.00  Pogoń Siedlce           v Ruch Chorzów             1-1 (1-1)
+
+
+» Matchday 21
+  Fri Feb/21
+    18.00  Polonia Warszawa        v Górnik Łęczna            2-1 (2-1)
+    20.30  Stal Rzeszow            v Kotwica Kołobrzeg        1-0 (0-0)
+  Sat Feb/22
+    14.30  Ruch Chorzów            v Wisła Kraków             0-5 (0-3)
+    17.00  Bruk-Bet Termalica Nieciecza v Pogoń Siedlce            1-1 (0-0)
+    19.30  Znicz Pruszków          v Arka Gdynia              0-1 (0-1)
+  Sun Feb/23
+    12.00  GKS Tychy '71           v Chrobry Głogów           3-1 (2-1)
+    14.30  ŁKS Łódź                v Miedź Legnica            0-1 (0-0)
+    17.00  Wisła Płock             v Odra Opole               2-1 (1-0)
+  Mon Feb/24
+    19.00  Stal Stalowa Wola       v Warta Poznań             0-0
+
+
+» Matchday 22
+  Fri Feb/28
+    18.00  Pogoń Siedlce           v Wisła Płock              1-3 (0-1)
+    20.30  Arka Gdynia             v Wisła Kraków             2-2 (1-1)
+  Sat Mar/1
+    14.30  Warta Poznań            v Stal Rzeszow             0-1 (0-1)
+    17.00  Odra Opole              v GKS Tychy '71            1-5 (1-3)
+    19.30  Górnik Łęczna           v Znicz Pruszków           1-2 (1-0)
+  Sun Mar/2
+    12.00  Chrobry Głogów          v Stal Stalowa Wola        2-0 (0-0)
+    14.30  Miedź Legnica           v Polonia Warszawa         2-3 (1-0)
+    17.00  Kotwica Kołobrzeg       v ŁKS Łódź                 0-0
+  Mon Mar/3
+    19.00  Ruch Chorzów            v Bruk-Bet Termalica Nieciecza  2-2 (1-1)
+
+
+» Matchday 23
+  Fri Mar/7
+    18.00  ŁKS Łódź                v Warta Poznań             3-1 (2-0)
+    20.30  GKS Tychy '71           v Pogoń Siedlce            2-0 (0-0)
+  Sat Mar/8
+    14.30  Znicz Pruszków          v Miedź Legnica            2-1 (1-1)
+    17.30  Stal Stalowa Wola       v Odra Opole               0-0
+    19.30  Ruch Chorzów            v Arka Gdynia              0-1 (0-0)
+  Sun Mar/9
+    12.00  Polonia Warszawa        v Kotwica Kołobrzeg        2-2 (2-0)
+    14.30  Wisła Kraków            v Górnik Łęczna            1-0 (0-0)
+    17.00  Stal Rzeszow            v Chrobry Głogów           0-0
+  Mon Mar/10
+    19.00  Wisła Płock             v Bruk-Bet Termalica Nieciecza  3-0 (2-0)
+
+
+» Matchday 24
+  Fri Mar/14
+    18.00  Miedź Legnica           v Wisła Kraków             2-1 (1-1)
+    20.30  Chrobry Głogów          v ŁKS Łódź                 1-2 (1-0)
+  Sat Mar/15
+    14.30  Bruk-Bet Termalica Nieciecza v GKS Tychy '71            2-1 (1-1)
+    17.00  Ruch Chorzów            v Wisła Płock              0-0
+    19.30  Warta Poznań            v Polonia Warszawa         1-2 (0-1)
+  Sun Mar/16
+    12.00  Pogoń Siedlce           v Stal Stalowa Wola        0-0
+    14.30  Górnik Łęczna           v Arka Gdynia              0-1 (0-1)
+    17.00  Kotwica Kołobrzeg       v Znicz Pruszków           0-0
+  Wed Apr/23
+    18.00  Odra Opole              v Stal Rzeszow             3-0 (1-0)
+
+
+» Matchday 25
+  Fri Mar/28
+    18.00  Znicz Pruszków          v Warta Poznań             0-0
+    20.30  Wisła Kraków            v Kotwica Kołobrzeg        2-1 (0-0)
+  Sat Mar/29
+    15.00  Górnik Łęczna           v Ruch Chorzów             2-0 (0-0)
+    17.30  Polonia Warszawa        v Chrobry Głogów           4-2 (1-2)
+    19.30  ŁKS Łódź                v Odra Opole               1-2 (1-1)
+  Sun Mar/30
+    12.00  Stal Stalowa Wola       v Bruk-Bet Termalica Nieciecza  3-3 (2-1)
+    14.30  Arka Gdynia             v Miedź Legnica            2-0 (0-0)
+    17.00  Stal Rzeszow            v Pogoń Siedlce            2-4 (1-2)
+  Mon Mar/31
+    19.00  GKS Tychy '71           v Wisła Płock              2-1 (2-1)
+
+
+» Matchday 26
+  Fri Apr/4
+    18.00  Chrobry Głogów          v Znicz Pruszków           3-2 (2-1)
+           Miedź Legnica           v Górnik Łęczna            0-2 (0-1)
+    20.30  Kotwica Kołobrzeg       v Arka Gdynia              0-1 (0-0)
+  Sat Apr/5
+    14.30  Wisła Płock             v Stal Stalowa Wola        2-1 (0-0)
+    17.30  Odra Opole              v Polonia Warszawa         0-1 (0-0)
+    19.30  Warta Poznań            v Wisła Kraków             0-1 (0-0)
+  Sun Apr/6
+    12.00  Bruk-Bet Termalica Nieciecza v Stal Rzeszow             3-1 (1-0)
+    14.30  Ruch Chorzów            v GKS Tychy '71            0-1 (0-0)
+    17.00  Pogoń Siedlce           v ŁKS Łódź                 1-1 (0-0)
+
+
+» Matchday 27
+  Tue Apr/8
+    18.00  Znicz Pruszków          v Odra Opole               2-1 (2-1)
+    19.30  Górnik Łęczna           v Kotwica Kołobrzeg        3-0    [awarded]
+    20.30  Arka Gdynia             v Warta Poznań             3-0 (3-0)
+  Wed Apr/9
+    18.00  Wisła Kraków            v Chrobry Głogów           2-1 (1-1)
+    20.30  Polonia Warszawa        v Pogoń Siedlce            2-1 (2-0)
+           Stal Stalowa Wola       v GKS Tychy '71            0-1 (0-0)
+  Thu Apr/10
+    18.00  ŁKS Łódź                v Bruk-Bet Termalica Nieciecza  1-2 (1-1)
+           Stal Rzeszow            v Wisła Płock              0-1 (0-0)
+    20.45  Ruch Chorzów            v Miedź Legnica            1-2 (1-2)
+
+
+» Matchday 28
+  Fri Apr/11
+    20.30  Warta Poznań            v Górnik Łęczna            0-2 (0-1)
+  Sat Apr/12
+    17.30  Pogoń Siedlce           v Znicz Pruszków           2-1 (1-0)
+    19.30  Chrobry Głogów          v Arka Gdynia              2-2 (0-1)
+  Sun Apr/13
+    12.00  Wisła Płock             v ŁKS Łódź                 3-0 (3-0)
+    14.30  Odra Opole              v Wisła Kraków             1-2 (0-2)
+    17.00  Ruch Chorzów            v Stal Stalowa Wola        1-3 (1-1)
+    19.00  Kotwica Kołobrzeg       v Miedź Legnica            0-0
+  Mon Apr/14
+    19.00  GKS Tychy '71           v Stal Rzeszow             1-0 (0-0)
+           Bruk-Bet Termalica Nieciecza v Polonia Warszawa         0-3 (0-1)
+
+
+» Matchday 29
+  Sat Apr/19
+    13.00  Stal Rzeszow            v Stal Stalowa Wola        2-2 (2-1)
+    15.00  Arka Gdynia             v Odra Opole               1-0 (1-0)
+    17.15  Wisła Kraków            v Pogoń Siedlce            1-0 (1-0)
+    19.30  Polonia Warszawa        v Wisła Płock              0-0
+  Mon Apr/21
+    12.00  Górnik Łęczna           v Chrobry Głogów           1-0 (0-0)
+    14.30  Znicz Pruszków          v Bruk-Bet Termalica Nieciecza  0-1 (0-0)
+    17.00  ŁKS Łódź                v GKS Tychy '71            1-3 (0-3)
+    19.30  Miedź Legnica           v Warta Poznań             3-2 (2-1)
+  Tue Apr/22
+    19.00  Kotwica Kołobrzeg       v Ruch Chorzów             3-4 (1-1)
+
+
+» Matchday 30
+  Fri Apr/25
+    18.00  Stal Stalowa Wola       v ŁKS Łódź                 0-1 (0-0)
+    20.30  Bruk-Bet Termalica Nieciecza v Wisła Kraków             2-2 (1-1)
+  Sat Apr/26
+    15.00  Warta Poznań            v Kotwica Kołobrzeg        0-1 (0-0)
+    17.30  GKS Tychy '71           v Polonia Warszawa         1-1 (1-1)
+    19.30  Pogoń Siedlce           v Arka Gdynia              1-1 (0-1)
+  Sun Apr/27
+    12.00  Odra Opole              v Górnik Łęczna            0-0
+    14.30  Ruch Chorzów            v Stal Rzeszow             3-0 (1-0)
+    17.00  Chrobry Głogów          v Miedź Legnica            1-1 (1-0)
+  Mon Apr/28
+    19.00  Wisła Płock             v Znicz Pruszków           2-3 (1-2)
+
+
+» Matchday 31
+  Fri May/2
+    19.00  Górnik Łęczna           v Pogoń Siedlce            1-3 (1-0)
+    20.30  Wisła Kraków            v Wisła Płock              1-3 (1-2)
+  Sat May/3
+    15.15  Warta Poznań            v Ruch Chorzów             0-2 (0-2)
+    17.30  Polonia Warszawa        v Stal Stalowa Wola        2-3 (1-3)
+    19.30  Znicz Pruszków          v GKS Tychy '71            2-2 (1-2)
+  Sun May/4
+    12.00  Miedź Legnica           v Odra Opole               2-1 (1-1)
+    14.30  Arka Gdynia             v Bruk-Bet Termalica Nieciecza  2-1 (2-1)
+    17.00  ŁKS Łódź                v Stal Rzeszow             5-0 (2-0)
+  Mon May/5
+    19.00  Kotwica Kołobrzeg       v Chrobry Głogów
+
+
+» Matchday 32
+  Fri May/9
+    18.00  Stal Stalowa Wola       v Znicz Pruszków
+    20.30  GKS Tychy '71           v Wisła Kraków
+  Sat May/10
+    14.30  Stal Rzeszow            v Polonia Warszawa
+    17.30  Pogoń Siedlce           v Miedź Legnica
+    19.30  Ruch Chorzów            v ŁKS Łódź
+  Sun May/11
+    12.00  Chrobry Głogów          v Warta Poznań
+    14.30  Bruk-Bet Termalica Nieciecza v Górnik Łęczna
+    17.00  Odra Opole              v Kotwica Kołobrzeg
+  Mon May/12
+           Wisła Płock             v Arka Gdynia
+
+
+» Matchday 33
+  Fri May/16
+    20.30  Wisła Kraków            v Stal Stalowa Wola
+  Sat May/17
+    14.30  Kotwica Kołobrzeg       v Pogoń Siedlce
+    17.30  Polonia Warszawa        v ŁKS Łódź
+    19.30  Górnik Łęczna           v Wisła Płock
+  Sun May/18
+    12.00  Warta Poznań            v Odra Opole
+    14.30  Arka Gdynia             v GKS Tychy '71
+    17.00  Znicz Pruszków          v Stal Rzeszow
+  Mon May/19
+    19.00  Chrobry Głogów          v Ruch Chorzów
+           Miedź Legnica           v Bruk-Bet Termalica Nieciecza
+
+
+» Matchday 34
+  Sun May/25
+    17.30  Ruch Chorzów            v Polonia Warszawa
+           ŁKS Łódź                v Znicz Pruszków
+           Stal Rzeszow            v Wisła Kraków
+           Stal Stalowa Wola       v Arka Gdynia
+           GKS Tychy '71           v Górnik Łęczna
+           Wisła Płock             v Miedź Legnica
+           Bruk-Bet Termalica Nieciecza v Kotwica Kołobrzeg
+           Pogoń Siedlce           v Warta Poznań
+           Odra Opole              v Chrobry Głogów

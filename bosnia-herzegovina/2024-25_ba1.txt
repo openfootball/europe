@@ -229,7 +229,7 @@
     13.00  Sloga Doboj             v Velež Mostar             0-0
     15.15  Zrinjski Mostar         v Željezničar Sarajevo     1-0 (1-0)
   Wed Mar/26
-    21.00  FK Sarajevo             v Borac Banja Luka
+    21.00  FK Sarajevo             v Borac Banja Luka         0-2 (0-1)
 
 
 » Matchday 19
@@ -281,78 +281,90 @@
 
 
 » Matchday 23
+  Fri Mar/28
+    16.30  Zrinjski Mostar         v Sloboda Tuzla            5-0 (1-0)
+    18.30  Široki Brijeg           v Velež Mostar             2-5 (0-2)
+    20.45  Željezničar Sarajevo    v HŠK Posušje              3-2 (2-0)
   Sat Mar/29
-           Široki Brijeg           v Velež Mostar
-           Sloga Doboj             v Radnik Bijeljina
-           Borac Banja Luka        v NK GOŠK Gabela
-           Zrinjski Mostar         v Sloboda Tuzla
-           FK Sarajevo             v Igman Konjic
-           Željezničar Sarajevo    v HŠK Posušje
+    13.30  Sloga Doboj             v Radnik Bijeljina         2-1 (1-0)
+    16.00  FK Sarajevo             v Igman Konjic             3-0 (0-0)
+    20.45  Borac Banja Luka        v NK GOŠK Gabela           1-0 (0-0)
 
 
 » Matchday 24
+  Fri Apr/4
+    18.00  Sloboda Tuzla           v Velež Mostar             1-1 (0-1)
   Sat Apr/5
-           HŠK Posušje             v Sloga Doboj
-           Zrinjski Mostar         v Borac Banja Luka
-           Igman Konjic            v Željezničar Sarajevo
-           NK GOŠK Gabela          v FK Sarajevo
-           Sloboda Tuzla           v Velež Mostar
-           Radnik Bijeljina        v Široki Brijeg
+    15.00  Igman Konjic            v Željezničar Sarajevo     0-1 (0-0)
+    16.00  Radnik Bijeljina        v Široki Brijeg            1-1 (1-0)
+    20.45  NK GOŠK Gabela          v FK Sarajevo              0-2 (0-0)
+  Sun Apr/6
+    13.00  HŠK Posušje             v Sloga Doboj              0-0
+    19.45  Zrinjski Mostar         v Borac Banja Luka         0-1 (0-1)
 
 
 » Matchday 25
+  Fri Apr/11
+    18.00  FK Sarajevo             v Zrinjski Mostar          0-0
+    20.15  Borac Banja Luka        v Sloboda Tuzla            2-0 (1-0)
   Sat Apr/12
-           Velež Mostar            v Radnik Bijeljina
-           FK Sarajevo             v Zrinjski Mostar
-           Sloga Doboj             v Igman Konjic
-           Široki Brijeg           v HŠK Posušje
-           Željezničar Sarajevo    v NK GOŠK Gabela
-           Borac Banja Luka        v Sloboda Tuzla
+    16.00  Široki Brijeg           v HŠK Posušje              0-0
+    17.00  Željezničar Sarajevo    v NK GOŠK Gabela           3-2 (2-0)
+  Sun Apr/13
+    13.00  Sloga Doboj             v Igman Konjic             0-1 (0-0)
+    19.45  Velež Mostar            v Radnik Bijeljina         3-2 (2-1)
 
 
 » Matchday 26
+  Thu Apr/17
+    18.45  HŠK Posušje             v Velež Mostar             2-0 (2-0)
+  Fri Apr/18
+    16.00  Sloboda Tuzla           v Radnik Bijeljina         2-3 (2-2)
+    18.00  NK GOŠK Gabela          v Sloga Doboj              1-2 (0-0)
   Sat Apr/19
-           Sloboda Tuzla           v Radnik Bijeljina
-           Borac Banja Luka        v FK Sarajevo
-           HŠK Posušje             v Velež Mostar
-           Zrinjski Mostar         v Željezničar Sarajevo
-           Igman Konjic            v Široki Brijeg
-           NK GOŠK Gabela          v Sloga Doboj
+    13.30  Igman Konjic            v Široki Brijeg            2-1 (1-0)
+    17.30  Zrinjski Mostar         v Željezničar Sarajevo     5-0 (5-0)
+    20.45  Borac Banja Luka        v FK Sarajevo              2-0 (2-0)
 
 
 » Matchday 27
+  Tue Apr/22
+    18.00  Radnik Bijeljina        v HŠK Posušje              2-1 (1-0)
+    21.00  Velež Mostar            v Igman Konjic             2-2 (0-1)
+           FK Sarajevo             v Sloboda Tuzla            0-0
   Wed Apr/23
-           Široki Brijeg           v NK GOŠK Gabela
-           Velež Mostar            v Igman Konjic
-           Sloga Doboj             v Zrinjski Mostar
-           Radnik Bijeljina        v HŠK Posušje
-           Željezničar Sarajevo    v Borac Banja Luka
-           FK Sarajevo             v Sloboda Tuzla
+    16.00  Sloga Doboj             v Zrinjski Mostar          0-4 (0-2)
+    18.00  Široki Brijeg           v NK GOŠK Gabela           2-0 (1-0)
+    20.45  Željezničar Sarajevo    v Borac Banja Luka         2-1 (0-0)
 
 
 » Matchday 28
   Sat Apr/26
-           Borac Banja Luka        v Sloga Doboj
-           FK Sarajevo             v Željezničar Sarajevo
-           Zrinjski Mostar         v Široki Brijeg
-           Igman Konjic            v Radnik Bijeljina
-           Sloboda Tuzla           v HŠK Posušje
-           NK GOŠK Gabela          v Velež Mostar
+    16.00  Igman Konjic            v Radnik Bijeljina         1-1 (1-0)
+    20.45  Sloboda Tuzla           v HŠK Posušje              0-3 (0-1)
+  Sun Apr/27
+    15.00  FK Sarajevo             v Željezničar Sarajevo     2-1 (1-0)
+    17.30  NK GOŠK Gabela          v Velež Mostar             0-1 (0-1)
+    19.45  Zrinjski Mostar         v Široki Brijeg            2-1 (1-0)
+  Mon Apr/28
+    21.00  Borac Banja Luka        v Sloga Doboj              3-1 (0-1)
 
 
 » Matchday 29
+  Fri May/2
+    20.15  HŠK Posušje             v Igman Konjic             2-1 (2-0)
   Sat May/3
-           HŠK Posušje             v Igman Konjic
-           Radnik Bijeljina        v NK GOŠK Gabela
-           Široki Brijeg           v Borac Banja Luka
-           Velež Mostar            v Zrinjski Mostar
-           Sloga Doboj             v FK Sarajevo
-           Željezničar Sarajevo    v Sloboda Tuzla
+    13.30  Sloga Doboj             v FK Sarajevo              0-4 (0-2)
+    16.00  Velež Mostar            v Zrinjski Mostar          0-1 (0-0)
+    20.45  Široki Brijeg           v Borac Banja Luka         0-1 (0-1)
+  Sun May/4
+    15.00  Željezničar Sarajevo    v Sloboda Tuzla            3-2 (1-1)
+    19.45  Radnik Bijeljina        v NK GOŠK Gabela           5-0 (2-0)
 
 
 » Matchday 30
   Sat May/10
-           Borac Banja Luka        v Velež Mostar
+    15.00  Borac Banja Luka        v Velež Mostar
            NK GOŠK Gabela          v HŠK Posušje
            FK Sarajevo             v Široki Brijeg
            Željezničar Sarajevo    v Sloga Doboj
@@ -362,7 +374,7 @@
 
 » Matchday 31
   Sat May/17
-           Radnik Bijeljina        v Borac Banja Luka
+    15.00  Radnik Bijeljina        v Borac Banja Luka
            HŠK Posušje             v Zrinjski Mostar
            Igman Konjic            v NK GOŠK Gabela
            Sloga Doboj             v Sloboda Tuzla
@@ -372,7 +384,7 @@
 
 » Matchday 32
   Sun May/25
-           Sloga Doboj             v Široki Brijeg
+    15.00  Sloga Doboj             v Široki Brijeg
            Borac Banja Luka        v HŠK Posušje
            Željezničar Sarajevo    v Velež Mostar
            FK Sarajevo             v Radnik Bijeljina

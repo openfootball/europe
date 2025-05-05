@@ -1,0 +1,404 @@
+= Sweden Superettan 2025
+
+# Date       Sat Mar/29 - Sat Nov/8 2025 (224d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Sat Mar/29 2025
+    15.00  GIF Sundsvall           v Helsingborgs IF          2-0 (0-0)
+           Sandvikens IF           v Kalmar FF                0-0
+           Örgryte IS              v Utsiktens BK             2-1 (0-0)
+    17.00  Falkenbergs FF          v Varbergs BoIS            2-2 (1-1)
+  Sun Mar/30
+    13.00  Landskrona BoIS         v IK Brage                 2-2 (1-0)
+    15.00  Trelleborgs FF          v Östersunds FK            0-1 (0-0)
+  Mon Mar/31
+    19.00  IK Oddevold             v Umeå FC                  1-0 (1-0)
+  Tue Apr/1
+    19.00  Örebro SK               v Västerås SK              0-2 (0-1)
+
+
+» Matchday 2
+  Sat Apr/5
+    13.00  Utsiktens BK            v IK Oddevold              0-2 (0-0)
+    15.00  Helsingborgs IF         v Sandvikens IF            1-2 (1-1)
+           Kalmar FF               v GIF Sundsvall            1-0 (1-0)
+           Östersunds FK           v Landskrona BoIS          3-3 (2-0)
+  Sun Apr/6
+    13.00  Umeå FC                 v Trelleborgs FF           0-1 (0-1)
+  Mon Apr/7
+    19.00  IK Brage                v Falkenbergs FF           0-2 (0-1)
+           Varbergs BoIS           v Örebro SK                2-1 (1-1)
+  Tue Apr/8
+    19.00  Västerås SK             v Örgryte IS               1-1 (1-1)
+
+
+» Matchday 3
+  Fri Apr/11
+    19.00  IK Oddevold             v Kalmar FF                1-3 (0-1)
+  Sat Apr/12
+    13.00  Sandvikens IF           v Trelleborgs FF           2-0 (1-0)
+    15.00  Landskrona BoIS         v Utsiktens BK             2-1 (0-1)
+           Örgryte IS              v GIF Sundsvall            0-0
+    17.00  Umeå FC                 v Östersunds FK            2-2 (1-1)
+  Sun Apr/13
+    15.00  IK Brage                v Varbergs BoIS            1-1 (0-1)
+  Mon Apr/14
+    19.00  Västerås SK             v Falkenbergs FF           1-0 (1-0)
+  Tue Apr/15
+    19.00  Örebro SK               v Helsingborgs IF          0-2 (0-0)
+
+
+» Matchday 4
+  Sat Apr/19
+    15.00  Falkenbergs FF          v IK Oddevold              2-2 (1-1)
+           Örgryte IS              v Örebro SK                3-0 (2-0)
+  Sun Apr/20
+    13.00  Utsiktens BK            v Sandvikens IF            4-1 (1-1)
+    15.00  GIF Sundsvall           v Landskrona BoIS          1-2 (0-0)
+           Trelleborgs FF          v IK Brage                 0-1 (0-0)
+    17.00  Kalmar FF               v Östersunds FK            2-0 (0-0)
+  Mon Apr/21
+    13.00  Varbergs BoIS           v Umeå FC                  4-0 (2-0)
+  Tue Apr/22
+    19.00  Helsingborgs IF         v Västerås SK              2-0 (1-0)
+
+
+» Matchday 5
+  Sat Apr/26
+    15.00  IK Oddevold             v GIF Sundsvall            1-2 (0-2)
+           Landskrona BoIS         v Sandvikens IF            1-0 (0-0)
+           Östersunds FK           v Örgryte IS               2-1 (1-1)
+  Sun Apr/27
+    13.00  Helsingborgs IF         v Kalmar FF                1-5 (1-5)
+           Trelleborgs FF          v Varbergs BoIS            0-4 (0-3)
+           Umeå FC                 v IK Brage                 0-1 (0-0)
+  Mon Apr/28
+    19.00  Utsiktens BK            v Västerås SK              2-2 (1-1)
+  Tue Apr/29
+    19.00  Falkenbergs FF          v Örebro SK                2-1 (1-1)
+
+
+» Matchday 6
+  Sat May/3
+    13.00  GIF Sundsvall           v Utsiktens BK             2-2 (0-0)
+           Sandvikens IF           v IK Oddevold              0-2 (0-2)
+    15.00  Umeå FC                 v Landskrona BoIS          0-2 (0-1)
+           Varbergs BoIS           v Helsingborgs IF          1-0 (0-0)
+  Sun May/4
+    15.00  Örgryte IS              v Falkenbergs FF           4-2 (0-2)
+  Mon May/5
+    19.00  IK Brage                v Östersunds FK
+           Örebro SK               v Trelleborgs FF
+  Tue May/6
+    19.00  Västerås SK             v Kalmar FF
+
+
+» Matchday 7
+  Sat May/10
+    13.00  Sandvikens IF           v Umeå FC
+    15.00  GIF Sundsvall           v Västerås SK
+           IK Oddevold             v Örebro SK
+           Utsiktens BK            v Falkenbergs FF
+  Sun May/11
+    13.00  Östersunds FK           v Varbergs BoIS
+    15.00  Kalmar FF               v Trelleborgs FF
+  Mon May/12
+    19.00  Landskrona BoIS         v Örgryte IS
+  Tue May/13
+    19.00  Helsingborgs IF         v IK Brage
+
+
+» Matchday 8
+  Fri May/16
+    19.00  Falkenbergs FF          v Kalmar FF
+           Örgryte IS              v Varbergs BoIS
+  Sat May/17
+    13.00  Trelleborgs FF          v Västerås SK
+    15.00  Umeå FC                 v Utsiktens BK
+           Örebro SK               v GIF Sundsvall
+           Östersunds FK           v Sandvikens IF
+  Sun May/18
+    15.00  IK Brage                v IK Oddevold
+  Mon May/19
+    19.00  Landskrona BoIS         v Helsingborgs IF
+
+
+» Matchday 9
+  Wed May/21
+    19.00  Falkenbergs FF          v Trelleborgs FF
+           Utsiktens BK            v Örebro SK
+           Västerås SK             v Östersunds FK
+           Örgryte IS              v Sandvikens IF
+  Thu May/22
+    19.00  GIF Sundsvall           v IK Brage
+           Helsingborgs IF         v IK Oddevold
+           Kalmar FF               v Umeå FC
+           Varbergs BoIS           v Landskrona BoIS
+
+
+» Matchday 10
+  Sat May/24
+    15.00  Östersunds FK           v Örebro SK
+  Sun May/25
+    15.00  Varbergs BoIS           v Kalmar FF
+  Mon May/26
+    19.00  IK Brage                v Utsiktens BK
+           IK Oddevold             v Västerås SK
+           Landskrona BoIS         v Falkenbergs FF
+           Umeå FC                 v Örgryte IS
+  Tue May/27
+    19.00  Sandvikens IF           v GIF Sundsvall
+           Trelleborgs FF          v Helsingborgs IF
+
+
+» Matchday 11
+  Fri May/30
+    19.00  Örebro SK               v IK Brage
+  Sat May/31
+    13.00  Utsiktens BK            v Kalmar FF
+           Västerås SK             v Umeå FC
+    15.00  Sandvikens IF           v Varbergs BoIS
+           Örgryte IS              v Trelleborgs FF
+  Sun Jun/1
+    15.00  GIF Sundsvall           v Falkenbergs FF
+           Helsingborgs IF         v Östersunds FK
+    17.00  IK Oddevold             v Landskrona BoIS
+
+
+» Matchday 12
+  Fri Jun/13
+    19.00  Örebro SK               v Sandvikens IF
+  Sat Jun/14
+    15.00  Falkenbergs FF          v Helsingborgs IF
+           Kalmar FF               v Landskrona BoIS
+           Östersunds FK           v IK Oddevold
+    17.00  Umeå FC                 v GIF Sundsvall
+  Sun Jun/15
+    15.00  IK Brage                v Örgryte IS
+           Trelleborgs FF          v Utsiktens BK
+    17.00  Varbergs BoIS           v Västerås SK
+
+
+» Matchday 13
+  Sun Jun/22
+    15.00  Sandvikens IF           v Falkenbergs FF
+           Utsiktens BK            v Östersunds FK
+           Västerås SK             v IK Brage
+    17.00  IK Oddevold             v Varbergs BoIS
+           Kalmar FF               v Örgryte IS
+           Landskrona BoIS         v Örebro SK
+  Mon Jun/23
+    19.00  GIF Sundsvall           v Trelleborgs FF
+           Helsingborgs IF         v Umeå FC
+
+
+» Matchday 14
+  Fri Jun/27
+    19.00  IK Brage                v Sandvikens IF
+           Varbergs BoIS           v Utsiktens BK
+  Sat Jun/28
+    13.00  Västerås SK             v Landskrona BoIS
+           Örgryte IS              v Helsingborgs IF
+    15.00  GIF Sundsvall           v Östersunds FK
+           Trelleborgs FF          v IK Oddevold
+  Sun Jun/29
+    13.00  Örebro SK               v Kalmar FF
+    15.00  Falkenbergs FF          v Umeå FC
+
+
+» Matchday 15
+  Sat Jul/19
+    15.00  IK Oddevold             v Örgryte IS
+           Umeå FC                 v Örebro SK
+           Östersunds FK           v Falkenbergs FF
+    17.00  Sandvikens IF           v Västerås SK
+  Sun Jul/20
+    13.00  Varbergs BoIS           v GIF Sundsvall
+    15.00  Kalmar FF               v IK Brage
+  Mon Jul/21
+    19.00  Landskrona BoIS         v Trelleborgs FF
+           Utsiktens BK            v Helsingborgs IF
+
+
+» Matchday 16
+  Sun Jul/27
+           Falkenbergs FF          v Landskrona BoIS
+           GIF Sundsvall           v Örebro SK
+           Helsingborgs IF         v Varbergs BoIS
+           IK Brage                v Umeå FC
+           IK Oddevold             v Sandvikens IF
+           Kalmar FF               v Utsiktens BK
+           Västerås SK             v Trelleborgs FF
+           Örgryte IS              v Östersunds FK
+
+
+» Matchday 17
+  Sun Aug/3
+           Landskrona BoIS         v Västerås SK
+           Sandvikens IF           v IK Brage
+           Trelleborgs FF          v Kalmar FF
+           Umeå FC                 v Falkenbergs FF
+           Utsiktens BK            v GIF Sundsvall
+           Varbergs BoIS           v Örgryte IS
+           Örebro SK               v IK Oddevold
+           Östersunds FK           v Helsingborgs IF
+
+
+» Matchday 18
+  Sun Aug/10
+           Falkenbergs FF          v IK Brage
+           GIF Sundsvall           v Sandvikens IF
+           Helsingborgs IF         v Utsiktens BK
+           Kalmar FF               v Varbergs BoIS
+           Landskrona BoIS         v Östersunds FK
+           Trelleborgs FF          v Umeå FC
+           Västerås SK             v Örebro SK
+           Örgryte IS              v IK Oddevold
+
+
+» Matchday 19
+  Sun Aug/17
+           Helsingborgs IF         v Falkenbergs FF
+           IK Brage                v Västerås SK
+           IK Oddevold             v Trelleborgs FF
+           Sandvikens IF           v Landskrona BoIS
+           Umeå FC                 v Kalmar FF
+           Utsiktens BK            v Varbergs BoIS
+           Örebro SK               v Örgryte IS
+           Östersunds FK           v GIF Sundsvall
+
+
+» Matchday 20
+  Sun Aug/24
+           Falkenbergs FF          v Sandvikens IF
+           GIF Sundsvall           v IK Oddevold
+           Kalmar FF               v Helsingborgs IF
+           Trelleborgs FF          v Landskrona BoIS
+           Varbergs BoIS           v Östersunds FK
+           Västerås SK             v Utsiktens BK
+           Örebro SK               v Umeå FC
+           Örgryte IS              v IK Brage
+
+
+» Matchday 21
+  Sun Aug/31
+           IK Brage                v Trelleborgs FF
+           Landskrona BoIS         v GIF Sundsvall
+           Sandvikens IF           v Örebro SK
+           Umeå FC                 v IK Oddevold
+           Utsiktens BK            v Örgryte IS
+           Varbergs BoIS           v Falkenbergs FF
+           Västerås SK             v Helsingborgs IF
+           Östersunds FK           v Kalmar FF
+
+
+» Matchday 22
+  Sun Sep/14
+           Falkenbergs FF          v Utsiktens BK
+           GIF Sundsvall           v Varbergs BoIS
+           Helsingborgs IF         v Landskrona BoIS
+           IK Oddevold             v IK Brage
+           Kalmar FF               v Västerås SK
+           Trelleborgs FF          v Sandvikens IF
+           Örebro SK               v Östersunds FK
+           Örgryte IS              v Umeå FC
+
+
+» Matchday 23
+  Sun Sep/21
+           Falkenbergs FF          v GIF Sundsvall
+           Helsingborgs IF         v Örgryte IS
+           IK Brage                v Örebro SK
+           Kalmar FF               v Sandvikens IF
+           Utsiktens BK            v Landskrona BoIS
+           Varbergs BoIS           v Trelleborgs FF
+           Västerås SK             v IK Oddevold
+           Östersunds FK           v Umeå FC
+
+
+» Matchday 24
+  Wed Sep/24
+           IK Brage                v GIF Sundsvall
+           IK Oddevold             v Falkenbergs FF
+           Landskrona BoIS         v Kalmar FF
+           Sandvikens IF           v Helsingborgs IF
+           Trelleborgs FF          v Örgryte IS
+           Umeå FC                 v Västerås SK
+           Örebro SK               v Varbergs BoIS
+           Östersunds FK           v Utsiktens BK
+
+
+» Matchday 25
+  Sun Sep/28
+           Falkenbergs FF          v Östersunds FK
+           GIF Sundsvall           v Umeå FC
+           Helsingborgs IF         v Trelleborgs FF
+           Kalmar FF               v Örebro SK
+           Utsiktens BK            v IK Brage
+           Varbergs BoIS           v IK Oddevold
+           Västerås SK             v Sandvikens IF
+           Örgryte IS              v Landskrona BoIS
+
+
+» Matchday 26
+  Sun Oct/5
+           IK Brage                v Kalmar FF
+           IK Oddevold             v Utsiktens BK
+           Landskrona BoIS         v Varbergs BoIS
+           Sandvikens IF           v Örgryte IS
+           Trelleborgs FF          v GIF Sundsvall
+           Umeå FC                 v Helsingborgs IF
+           Örebro SK               v Falkenbergs FF
+           Östersunds FK           v Västerås SK
+
+
+» Matchday 27
+  Sun Oct/19
+           Falkenbergs FF          v Örgryte IS
+           Helsingborgs IF         v Örebro SK
+           Kalmar FF               v IK Oddevold
+           Landskrona BoIS         v Umeå FC
+           Utsiktens BK            v Trelleborgs FF
+           Varbergs BoIS           v Sandvikens IF
+           Västerås SK             v GIF Sundsvall
+           Östersunds FK           v IK Brage
+
+
+» Matchday 28
+  Sun Oct/26
+           GIF Sundsvall           v Kalmar FF
+           IK Brage                v Helsingborgs IF
+           IK Oddevold             v Östersunds FK
+           Sandvikens IF           v Utsiktens BK
+           Trelleborgs FF          v Falkenbergs FF
+           Umeå FC                 v Varbergs BoIS
+           Örebro SK               v Landskrona BoIS
+           Örgryte IS              v Västerås SK
+
+
+» Matchday 29
+  Sun Nov/2
+           Falkenbergs FF          v Västerås SK
+           Helsingborgs IF         v GIF Sundsvall
+           Landskrona BoIS         v IK Oddevold
+           Umeå FC                 v Sandvikens IF
+           Varbergs BoIS           v IK Brage
+           Örebro SK               v Utsiktens BK
+           Örgryte IS              v Kalmar FF
+           Östersunds FK           v Trelleborgs FF
+
+
+» Matchday 30
+  Sat Nov/8
+           GIF Sundsvall           v Örgryte IS
+           IK Brage                v Landskrona BoIS
+           IK Oddevold             v Helsingborgs IF
+           Kalmar FF               v Falkenbergs FF
+           Sandvikens IF           v Östersunds FK
+           Trelleborgs FF          v Örebro SK
+           Utsiktens BK            v Umeå FC
+           Västerås SK             v Varbergs BoIS
