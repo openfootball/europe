@@ -1,6 +1,6 @@
 = Serbia Super League 2024/25
 
-# Date       Fri Jul/19 2024 - Sat May/24 2025 (309d)
+# Date       Fri Jul/19 2024 - Sun May/25 2025 (310d)
 # Teams      16
 # Matches    296
 # Stages     Regular Season (240)  Championship (28)  Relegation (28)
@@ -476,27 +476,28 @@
 
 » Championship, Matchday 35
   Sat May/10
-    20.00  FK Radnički 1923        v FK Novi Pazar
+    20.00  FK Radnički 1923        v FK Novi Pazar            2-3 (1-2)
   Sun May/11
-    16.30  OFK Beograd             v Mladost Lučani
-    19.00  Crvena Zvezda           v Vojvodina
-    19.30  Partizan                v TSC Bačka Topola
+    16.30  OFK Beograd             v Mladost Lučani           1-0 (0-0)
+    19.00  Crvena Zvezda           v Vojvodina                1-1 (1-0)
+    20.00  Partizan                v TSC Bačka Topola         1-2 (0-0)
 
 
 » Championship, Matchday 36
   Sat May/17
-           FK Novi Pazar           v Crvena Zvezda
-           TSC Bačka Topola        v OFK Beograd
-           Mladost Lučani          v Partizan
-           Vojvodina               v FK Radnički 1923
+    18.30  FK Novi Pazar           v Crvena Zvezda            3-3 (1-1)
+           TSC Bačka Topola        v OFK Beograd              3-2 (2-2)
+           Mladost Lučani          v Partizan                 0-4 (0-2)
+           Vojvodina               v FK Radnički 1923         0-0
 
 
 » Championship, Matchday 37
   Sat May/24
-           FK Radnički 1923        v TSC Bačka Topola
-           Crvena Zvezda           v Mladost Lučani
-           Partizan                v Vojvodina
-           OFK Beograd             v FK Novi Pazar
+    19.00  Crvena Zvezda           v Mladost Lučani           3-1 (2-0)
+  Sun May/25
+    19.00  FK Radnički 1923        v TSC Bačka Topola         5-2 (2-0)
+           Partizan                v Vojvodina                3-2 (2-0)
+           OFK Beograd             v FK Novi Pazar            2-3 (1-1)
 
 
 » Relegation, Matchday 31
@@ -537,25 +538,26 @@
 
 » Relegation, Matchday 35
   Sat May/10
-    18.00  Tekstilac Odžaci        v Jedinstvo Ub
+    18.00  Tekstilac Odžaci        v Jedinstvo Ub             2-3 (1-1)
   Sun May/11
-    17.00  Spartak Subotica        v Radnički Niš
+    17.00  Spartak Subotica        v Radnički Niš             1-0 (1-0)
   Mon May/12
-    18.00  FK Čukarički            v IMT Beograd
-    20.00  Železničar Pančevo      v FK Napredak
+    18.00  FK Čukarički            v IMT Beograd              1-1 (0-1)
+    20.00  Železničar Pančevo      v FK Napredak              1-1 (0-0)
 
 
 » Relegation, Matchday 36
-  Sat May/17
-           Železničar Pančevo      v Spartak Subotica
-           Tekstilac Odžaci        v FK Čukarički
-           Jedinstvo Ub            v IMT Beograd
-           FK Napredak             v Radnički Niš
+  Sun May/18
+    17.00  Železničar Pančevo      v Spartak Subotica         3-0 (1-0)
+           Tekstilac Odžaci        v FK Čukarički             0-3 (0-2)
+           Jedinstvo Ub            v IMT Beograd              0-3 (0-2)
+           FK Napredak             v Radnički Niš             2-1 (1-1)
 
 
 » Relegation, Matchday 37
+  Fri May/23
+    19.00  FK Čukarički            v Železničar Pančevo       2-2 (1-2)
   Sat May/24
-           FK Čukarički            v Železničar Pančevo
-           Spartak Subotica        v Tekstilac Odžaci
-           IMT Beograd             v FK Napredak
-           Radnički Niš            v Jedinstvo Ub
+    17.00  Spartak Subotica        v Tekstilac Odžaci         2-4 (1-3)
+           IMT Beograd             v FK Napredak              2-1 (0-1)
+           Radnički Niš            v Jedinstvo Ub             3-1 (2-0)

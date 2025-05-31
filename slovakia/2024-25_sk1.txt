@@ -1,9 +1,9 @@
 = Slovakia First League 2024/25
 
-# Date       Sat Jul/27 2024 - Sat May/17 2025 (294d)
+# Date       Sat Jul/27 2024 - Fri May/23 2025 (300d)
 # Teams      12
-# Matches    192
-# Stages     Regular Season (132)  Championship (30)  Relegation (30)
+# Matches    195
+# Stages     Regular Season (132)  Championship (30)  ECL Playoffs (3)  Relegation (30)
 
 
 
@@ -323,17 +323,28 @@
 
 » Championship, Matchday 9
   Sat May/10
-    18.00  FK Železiarne Podbrezová v Slovan Bratislava
-    20.30  FC Košice               v MŠK Žilina
+    18.00  FK Železiarne Podbrezová v Slovan Bratislava        1-3 (0-0)
+    20.30  FC Košice               v MŠK Žilina               3-2 (1-2)
   Sun May/11
-    18.00  FC DAC 1904             v Spartak Trnava
+    18.00  FC DAC 1904             v Spartak Trnava           1-0 (1-0)
 
 
 » Championship, Matchday 10
   Sat May/17
-    18.00  Spartak Trnava          v FK Železiarne Podbrezová
-           Slovan Bratislava       v FC Košice
-           MŠK Žilina              v FC DAC 1904
+    17.00  Spartak Trnava          v FK Železiarne Podbrezová  2-1 (0-1)
+           Slovan Bratislava       v FC Košice                1-0 (1-0)
+           MŠK Žilina              v FC DAC 1904              0-1 (0-0)
+
+
+» ECL Playoffs, Semifinals
+  Tue May/20
+    20.00  FC DAC 1904             v MFK Zemplín Michalovce   2-1 (1-1)
+           FC Košice               v FK Železiarne Podbrezová  4-5 pen. 2-2 a.e.t. (2-2, 2-1)
+
+
+» ECL Playoffs, Final
+  Fri May/23
+    18.00  FC DAC 1904             v FK Železiarne Podbrezová  3-2 (2-1)
 
 
 » Relegation, Matchday 1
@@ -403,14 +414,14 @@
 
 » Relegation, Matchday 9
   Sat May/10
-    18.00  MFK Ružomberok          v AS Trenčín
-           MFK Skalica             v Dukla Banská Bystrica
+    18.00  MFK Ružomberok          v AS Trenčín               1-0 (0-0)
+           MFK Skalica             v Dukla Banská Bystrica    3-1 (0-0)
   Sun May/11
-    18.00  MFK Zemplín Michalovce  v KFC Komárno
+    18.00  MFK Zemplín Michalovce  v KFC Komárno              4-5 (2-3)
 
 
 » Relegation, Matchday 10
   Sat May/17
-    18.00  Dukla Banská Bystrica   v MFK Zemplín Michalovce
-           KFC Komárno             v MFK Ružomberok
-           AS Trenčín              v MFK Skalica
+    17.00  Dukla Banská Bystrica   v MFK Zemplín Michalovce   2-3 (1-2)
+           KFC Komárno             v MFK Ružomberok           1-2 (1-0)
+           AS Trenčín              v MFK Skalica              2-0 (2-0)

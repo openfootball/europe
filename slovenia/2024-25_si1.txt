@@ -1,6 +1,6 @@
 = Slovenia First League 2024/25
 
-# Date       Fri Jul/19 2024 - Sat May/24 2025 (309d)
+# Date       Fri Jul/19 2024 - Sun May/25 2025 (310d)
 # Teams      10
 # Matches    180
 
@@ -316,7 +316,7 @@
     16.00  ND Primorje             v NK Bravo                 3-0 (1-0)
     18.15  NŠ Mura                 v NK Domžale               0-2 (0-1)
   Wed May/7
-    18.45  NK Maribor              v NK Celje
+    18.45  NK Maribor              v NK Celje                 1-1 (1-1)
 
 
 » Matchday 30
@@ -364,27 +364,30 @@
 
 » Matchday 34
   Sat May/10
-    15.00  NK Bravo                v NK Radomlje
-    17.30  NK Celje                v FC Koper
-    20.15  NŠ Mura                 v Olimpija Ljubljana
+    15.00  NK Bravo                v NK Radomlje              4-0 (4-0)
+    17.30  NK Celje                v FC Koper                 2-3 (2-1)
+    20.15  NŠ Mura                 v Olimpija Ljubljana       1-1 (1-1)
   Sun May/11
-    15.00  NK Domžale              v NK Nafta
-    17.30  NK Maribor              v ND Primorje
+    15.00  NK Domžale              v NK Nafta                 2-0 (1-0)
+    17.30  NK Maribor              v ND Primorje              3-1 (2-0)
 
 
 » Matchday 35
   Sat May/17
-           NK Domžale              v NK Bravo
-           NK Nafta                v NK Celje
-           FC Koper                v NK Maribor
-           ND Primorje             v NŠ Mura
-           Olimpija Ljubljana      v NK Radomlje
+    15.00  Olimpija Ljubljana      v NK Radomlje              5-0 (2-0)
+    17.30  ND Primorje             v NŠ Mura                  2-0 (1-0)
+  Sun May/18
+    15.00  NK Domžale              v NK Bravo                 2-2 (0-1)
+    17.30  NK Nafta                v NK Celje                 1-6 (0-4)
+    20.15  FC Koper                v NK Maribor               1-1 (1-0)
 
 
 » Matchday 36
+  Fri May/23
+    17.30  NK Radomlje             v ND Primorje              0-1 (0-0)
   Sat May/24
-           NK Bravo                v Olimpija Ljubljana
-           NK Radomlje             v ND Primorje
-           NŠ Mura                 v FC Koper
-           NK Maribor              v NK Nafta
-           NK Celje                v NK Domžale
+    15.00  NK Bravo                v Olimpija Ljubljana       0-0
+  Sun May/25
+    15.00  NK Maribor              v NK Nafta                 0-1 (0-1)
+           NK Celje                v NK Domžale               1-1 (0-1)
+    17.30  NŠ Mura                 v FC Koper                 1-3 (1-2)

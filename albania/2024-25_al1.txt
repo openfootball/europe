@@ -1,8 +1,9 @@
 = Albania Super League 2024/25
 
-# Date       Sun Aug/18 2024 - Sun Apr/27 2025 (252d)
+# Date       Sun Aug/18 2024 - Mon May/12 2025 (267d)
 # Teams      10
-# Matches    180
+# Matches    184
+# Stages     Regular Season (180)  Playoffs (4)
 
 
 
@@ -312,56 +313,73 @@
 
 » Matchday 31
   Wed Mar/26
-    15.00  KF Laçi                 v AF Elbasani
-    18.00  KF Tiranë               v KF Bylis Ballsh
+    15.00  KF Laçi                 v AF Elbasani              0-1 (0-1)
+    18.00  KF Tiranë               v KF Bylis Ballsh          2-2 (1-1)
   Thu Mar/27
-    17.00  FC Dinamo City          v FK Partizani
-           KF Teuta Durrës         v KF Skënderbeu
-    20.00  Egnatia Rrogozhine      v FK Vllaznia
+    17.00  FC Dinamo City          v FK Partizani             1-0 (0-0)
+           KF Teuta Durrës         v KF Skënderbeu            1-0 (1-0)
+    20.00  Egnatia Rrogozhine      v FK Vllaznia              2-2 (1-0)
 
 
 » Matchday 32
   Sun Mar/30
-    17.00  KF Skënderbeu           v FC Dinamo City
-    20.00  FK Vllaznia             v KF Teuta Durrës
-           FK Partizani            v KF Laçi
+    17.00  KF Skënderbeu           v FC Dinamo City           4-1 (0-1)
+           FK Partizani            v KF Laçi                  1-0 (1-0)
+    20.00  FK Vllaznia             v KF Teuta Durrës          0-0
   Mon Mar/31
-    15.00  KF Bylis Ballsh         v Egnatia Rrogozhine
-    18.00  AF Elbasani             v KF Tiranë
+    15.00  KF Bylis Ballsh         v Egnatia Rrogozhine       0-2 (0-0)
+    18.00  AF Elbasani             v KF Tiranë                2-1 (0-1)
 
 
 » Matchday 33
   Sun Apr/6
-    15.00  KF Laçi                 v KF Skënderbeu
-           KF Bylis Ballsh         v FK Vllaznia
-    18.00  FC Dinamo City          v KF Teuta Durrës
+    15.00  KF Laçi                 v KF Skënderbeu            1-2 (1-1)
+           KF Bylis Ballsh         v FK Vllaznia              1-0 (0-0)
+    18.00  FC Dinamo City          v KF Teuta Durrës          1-1 (0-1)
   Mon Apr/7
-    17.00  Egnatia Rrogozhine      v AF Elbasani
-    20.00  KF Tiranë               v FK Partizani
+    17.00  Egnatia Rrogozhine      v AF Elbasani              1-2 (0-2)
+    20.00  KF Tiranë               v FK Partizani             3-0 (2-0)
 
 
 » Matchday 34
   Sat Apr/12
-           FK Vllaznia             v FC Dinamo City
-           KF Teuta Durrës         v KF Laçi
-           KF Skënderbeu           v KF Tiranë
-           FK Partizani            v Egnatia Rrogozhine
-           AF Elbasani             v KF Bylis Ballsh
+    15.30  FK Vllaznia             v FC Dinamo City           3-0 (1-0)
+           KF Teuta Durrës         v KF Laçi                  1-0 (0-0)
+           KF Skënderbeu           v KF Tiranë                1-1 (1-0)
+           FK Partizani            v Egnatia Rrogozhine       1-0 (0-0)
+           AF Elbasani             v KF Bylis Ballsh          1-0 (1-0)
 
 
 » Matchday 35
   Sat Apr/19
-           KF Bylis Ballsh         v FK Partizani
-           Egnatia Rrogozhine      v KF Skënderbeu
-           KF Tiranë               v KF Teuta Durrës
-           KF Laçi                 v FC Dinamo City
-           AF Elbasani             v FK Vllaznia
+    15.30  KF Bylis Ballsh         v FK Partizani             1-0 (0-0)
+           Egnatia Rrogozhine      v KF Skënderbeu            0-0
+           KF Tiranë               v KF Teuta Durrës          0-1 (0-0)
+           KF Laçi                 v FC Dinamo City           1-0 (0-0)
+           AF Elbasani             v FK Vllaznia              1-1 (0-0)
 
 
 » Matchday 36
   Sun Apr/27
-           FK Vllaznia             v KF Laçi
-           FC Dinamo City          v KF Tiranë
-           KF Teuta Durrës         v Egnatia Rrogozhine
-           KF Skënderbeu           v KF Bylis Ballsh
-           FK Partizani            v AF Elbasani
+    15.30  FK Vllaznia             v KF Laçi                  1-1 (1-1)
+           FC Dinamo City          v KF Tiranë                0-2 (0-1)
+           KF Teuta Durrës         v Egnatia Rrogozhine       2-1 (1-1)
+           KF Skënderbeu           v KF Bylis Ballsh          1-2 (1-1)
+           FK Partizani            v AF Elbasani              2-0 (1-0)
+
+
+» Playoffs, Semifinals
+  Sun May/4
+    20.00  FK Vllaznia             v FC Dinamo City           2-1 (2-0)
+  Mon May/5
+    20.00  Egnatia Rrogozhine      v FK Partizani             0-0
+
+
+» Playoffs, Match 3rd place
+  Sat May/10
+    19.00  FC Dinamo City          v FK Partizani             1-2 (1-1)
+
+
+» Playoffs, Final
+  Mon May/12
+    20.00  FK Vllaznia             v Egnatia Rrogozhine       0-4 (0-1)

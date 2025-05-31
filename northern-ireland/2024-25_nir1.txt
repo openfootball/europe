@@ -1,8 +1,9 @@
 = Northern Irish Premiership 2024/25
 
-# Date       Fri Aug/9 2024 - Mon Mar/24 2025 (227d)
+# Date       Fri Aug/9 2024 - Sun May/11 2025 (275d)
 # Teams      12
-# Matches    198
+# Matches    231
+# Stages     Regular Season (198)  Championship (15)  ECL Playoffs (3)  Relegation (15)
 
 
 
@@ -385,4 +386,86 @@
            Glentoran FC            v Crusaders FC             0-1 (0-0)
            Loughgall FC            v Ballymena United         2-1 (1-1)
   Mon Mar/24
-    20.00  Dungannon Swifts        v Linfield FC
+    20.00  Dungannon Swifts        v Linfield FC              0-3 (0-2)
+
+
+» Championship, Matchday 1
+  Tue Apr/1
+    19.45  Dungannon Swifts        v Larne FC                 1-1 (1-1)
+           Glentoran FC            v Coleraine FC             2-1 (1-0)
+           Linfield FC             v Crusaders FC             3-1 (1-0)
+
+
+» Championship, Matchday 2
+  Sat Apr/5
+    13.00  Linfield FC             v Glentoran FC             2-1 (2-1)
+    15.00  Coleraine FC            v Dungannon Swifts         3-2 (2-1)
+           Crusaders FC            v Larne FC                 2-2 (0-1)
+
+
+» Championship, Matchday 3
+  Sat Apr/12
+    15.00  Coleraine FC            v Larne FC                 1-2 (1-1)
+           Crusaders FC            v Glentoran FC             0-4 (0-2)
+           Linfield FC             v Dungannon Swifts         2-0 (1-0)
+
+
+» Championship, Matchday 4
+  Fri Apr/18
+    19.45  Larne FC                v Linfield FC              2-1 (0-1)
+  Sat Apr/19
+    15.00  Crusaders FC            v Coleraine FC             3-0 (1-0)
+           Dungannon Swifts        v Glentoran FC             3-2 (2-1)
+
+
+» Championship, Matchday 5
+  Sat Apr/26
+    17.30  Coleraine FC            v Linfield FC              1-0 (1-0)
+           Dungannon Swifts        v Crusaders FC             1-0 (0-0)
+           Larne FC                v Glentoran FC             0-0
+
+
+» ECL Playoffs, Semifinals
+  Wed May/7
+    19.45  Glentoran FC            v Cliftonville FC          0-2 (0-0)
+           Coleraine FC            v Crusaders FC             1-0 (1-0)
+
+
+» ECL Playoffs, Final
+  Sun May/11
+    14.00  Coleraine FC            v Cliftonville FC          0-2 (0-1)
+
+
+» Relegation, Matchday 1
+  Tue Apr/1
+    19.45  Ballymena United        v Loughgall FC             5-2 (3-0)
+           Carrick Rangers         v Cliftonville FC          1-3 (1-1)
+           Portadown FC            v Glenavon FC              1-1 (1-1)
+
+
+» Relegation, Matchday 2
+  Sat Apr/5
+    15.00  Carrick Rangers         v Portadown FC             4-1 (3-1)
+           Cliftonville FC         v Ballymena United         5-0 (1-0)
+           Glenavon FC             v Loughgall FC             0-1 (0-0)
+
+
+» Relegation, Matchday 3
+  Sat Apr/12
+    15.00  Ballymena United        v Carrick Rangers          1-1 (0-0)
+           Portadown FC            v Loughgall FC             3-1 (1-0)
+           Cliftonville FC         v Glenavon FC              2-0 (0-0)
+
+
+» Relegation, Matchday 4
+  Sat Apr/19
+    15.00  Glenavon FC             v Ballymena United         2-0 (0-0)
+           Loughgall FC            v Carrick Rangers          2-2 (1-1)
+           Portadown FC            v Cliftonville FC          2-0 (1-0)
+
+
+» Relegation, Matchday 5
+  Sat Apr/26
+    15.00  Carrick Rangers         v Glenavon FC              0-4 (0-1)
+    17.30  Loughgall FC            v Cliftonville FC          1-4 (0-1)
+           Portadown FC            v Ballymena United         2-1 (2-1)

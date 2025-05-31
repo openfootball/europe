@@ -1,8 +1,9 @@
 = Gibraltar Premier League A 2024/25
 
-# Date       Fri Aug/16 2024 - Sun Mar/16 2025 (212d)
+# Date       Fri Aug/16 2024 - Sun May/4 2025 (261d)
 # Teams      11
-# Matches    110
+# Matches    125
+# Stages     Regular Season (110)  Championship (15)
 
 
 
@@ -252,3 +253,46 @@
   Sun Mar/16
     16.30  Lynx FC                 v College 1975 FC          3-1
     19.30  Manchester 62 FC        v Europa Point FC          7-0
+
+
+» Championship, Matchday 1
+  Sat Apr/5
+    16.30  St. Joseph's FC         v Lincoln Red Imps         0-1 (0-1)
+    19.30  Lions Gibraltar         v FCB Magpies              1-2 (0-1)
+  Sun Apr/6
+    16.30  Manchester 62 FC        v Europa FC                1-2 (1-1)
+
+
+» Championship, Matchday 2
+  Fri Apr/11
+    21.00  FCB Magpies             v St. Joseph's FC          0-2 (0-1)
+  Sat Apr/12
+    16.30  Europa FC               v Lincoln Red Imps         0-4
+  Sun Apr/13
+    16.30  Manchester 62 FC        v Lions Gibraltar          1-0
+
+
+» Championship, Matchday 3
+  Sat Apr/19
+    16.30  St. Joseph's FC         v Europa FC                2-1
+    19.30  FCB Magpies             v Manchester 62 FC         0-2
+  Sun Apr/20
+    16.30  Lincoln Red Imps        v Lions Gibraltar          3-0
+
+
+» Championship, Matchday 4
+  Fri Apr/25
+    21.00  Lions Gibraltar         v Europa FC                1-4
+  Sat Apr/26
+    16.30  Manchester 62 FC        v St. Joseph's FC          0-2
+  Sun Apr/27
+    16.30  Lincoln Red Imps        v FCB Magpies              1-0
+
+
+» Championship, Matchday 5
+  Fri May/2
+    21.00  Manchester 62 FC        v Lincoln Red Imps         0-2 (0-1)
+  Sat May/3
+    16.30  St. Joseph's FC         v Lions Gibraltar          6-0
+  Sun May/4
+    16.30  Europa FC               v FCB Magpies              4-2

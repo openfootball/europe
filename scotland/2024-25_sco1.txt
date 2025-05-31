@@ -390,24 +390,24 @@
 
 » Championship, Matchday 36
   Sat May/10
-    15.00  Celtic FC               v Hibernian FC
-           Dundee United           v St. Mirren FC
+    15.00  Celtic FC               v Hibernian FC             3-1 (2-1)
+           Dundee United           v St. Mirren FC            0-2 (0-1)
   Sun May/11
-    12.00  Rangers FC              v Aberdeen FC
+    12.00  Rangers FC              v Aberdeen FC              4-0 (0-0)
 
 
 » Championship, Matchday 37
   Wed May/14
-    19.45  Aberdeen FC             v Celtic FC
-           Rangers FC              v Dundee United
-           St. Mirren FC           v Hibernian FC
+    19.45  Rangers FC              v Dundee United            3-1 (1-1)
+           St. Mirren FC           v Hibernian FC             2-2 (1-2)
+    20.00  Aberdeen FC             v Celtic FC                1-5 (1-2)
 
 
 » Championship, Matchday 38
   Sat May/17
-    12.30  Celtic FC               v St. Mirren FC
-           Dundee United           v Aberdeen FC
-           Hibernian FC            v Rangers FC
+    12.30  Celtic FC               v St. Mirren FC            1-1 (0-0)
+           Dundee United           v Aberdeen FC              2-1 (0-1)
+           Hibernian FC            v Rangers FC               2-2 (1-1)
 
 
 » Relegation, Matchday 34
@@ -426,20 +426,20 @@
 
 » Relegation, Matchday 36
   Sat May/10
-    15.00  Heart of Midlothian     v Motherwell FC
-           Kilmarnock FC           v Dundee FC
-           St. Johnstone FC        v Ross County FC
+    15.00  Heart of Midlothian     v Motherwell FC            3-0 (1-0)
+           Kilmarnock FC           v Dundee FC                3-2 (1-0)
+           St. Johnstone FC        v Ross County FC           2-1 (1-1)
 
 
 » Relegation, Matchday 37
   Wed May/14
-    19.45  Dundee FC               v Ross County FC
-           Heart of Midlothian     v St. Johnstone FC
-           Motherwell FC           v Kilmarnock FC
+    19.45  Dundee FC               v Ross County FC           1-1 (0-0)
+           Heart of Midlothian     v St. Johnstone FC         2-1 (2-0)
+           Motherwell FC           v Kilmarnock FC            3-0 (0-0)
 
 
 » Relegation, Matchday 38
   Sun May/18
-    15.00  Kilmarnock FC           v Heart of Midlothian
-           Ross County FC          v Motherwell FC
-           St. Johnstone FC        v Dundee FC
+    15.00  Kilmarnock FC           v Heart of Midlothian      0-1 (0-0)
+           Ross County FC          v Motherwell FC            1-1 (1-0)
+           St. Johnstone FC        v Dundee FC                0-2 (0-1)

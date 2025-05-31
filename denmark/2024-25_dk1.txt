@@ -1,9 +1,9 @@
 = Denmark Superligaen 2024/25
 
-# Date       Fri Jul/19 2024 - Sun May/25 2025 (310d)
+# Date       Fri Jul/19 2024 - Sun Jun/1 2025 (317d)
 # Teams      12
-# Matches    192
-# Stages     Regular Season (132)  Championship (30)  Relegation (30)
+# Matches    193
+# Stages     Regular Season (132)  Championship (30)  ECL Playoff (1)  Relegation (30)
 
 
 
@@ -330,25 +330,30 @@
 
 » Championship, Matchday 8
   Sun May/11
-    14.00  FC Nordsjælland         v Brøndby IF
-    16.00  Aarhus GF               v Randers FC
-    20.00  FC København            v FC Midtjylland
+    14.00  FC Nordsjælland         v Brøndby IF               2-2 (1-1)
+    16.00  Aarhus GF               v Randers FC               1-3 (1-1)
+    20.00  FC København            v FC Midtjylland           1-1 (0-1)
 
 
 » Championship, Matchday 9
   Fri May/16
-    19.00  FC Nordsjælland         v Aarhus GF
+    19.00  FC Nordsjælland         v Aarhus GF                2-0 (1-0)
   Sun May/18
-    18.00  Randers FC              v FC København
+    18.00  Randers FC              v FC København             0-4 (0-2)
   Mon May/19
-    19.00  Brøndby IF              v FC Midtjylland
+    19.00  Brøndby IF              v FC Midtjylland           1-2 (0-0)
 
 
 » Championship, Matchday 10
   Sun May/25
-    17.00  FC Midtjylland          v Randers FC
-           FC København            v FC Nordsjælland
-           Aarhus GF               v Brøndby IF
+    17.00  FC Midtjylland          v Randers FC               3-2 (1-1)
+           FC København            v FC Nordsjælland          3-0 (1-0)
+           Aarhus GF               v Brøndby IF               2-3 (2-2)
+
+
+» ECL Playoff, Final
+  Sun Jun/1
+    18.30  Randers FC              v Silkeborg IF
 
 
 » Relegation, Matchday 1
@@ -404,26 +409,26 @@
     14.00  Silkeborg IF            v Vejle BK                 1-1 (1-1)
            Lyngby BK               v Viborg FF                0-0
   Mon May/5
-    19.00  SønderjyskE             v Aalborg BK
+    19.00  SønderjyskE             v Aalborg BK               2-2 (1-0)
 
 
 » Relegation, Matchday 8
   Sun May/11
-    14.00  Silkeborg IF            v SønderjyskE
-    18.00  Viborg FF               v Aalborg BK
+    14.00  Silkeborg IF            v SønderjyskE              1-0 (0-0)
+    18.00  Viborg FF               v Aalborg BK               3-1 (0-0)
   Mon May/12
-    19.00  Vejle BK                v Lyngby BK
+    19.00  Vejle BK                v Lyngby BK                2-0 (1-0)
 
 
 » Relegation, Matchday 9
   Sun May/18
-    14.00  Aalborg BK              v Silkeborg IF
-           Viborg FF               v Vejle BK
-    16.00  SønderjyskE             v Lyngby BK
+    14.00  Aalborg BK              v Silkeborg IF             2-3 (1-1)
+           Viborg FF               v Vejle BK                 0-1 (0-1)
+    16.00  SønderjyskE             v Lyngby BK                5-1 (3-0)
 
 
 » Relegation, Matchday 10
   Sat May/24
-    15.00  Silkeborg IF            v Viborg FF
-           Lyngby BK               v Aalborg BK
-           Vejle BK                v SønderjyskE
+    15.00  Silkeborg IF            v Viborg FF                1-2 (1-2)
+           Lyngby BK               v Aalborg BK               3-1 (1-0)
+           Vejle BK                v SønderjyskE              2-3 (0-0)

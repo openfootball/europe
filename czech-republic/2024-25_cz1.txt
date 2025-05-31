@@ -2,8 +2,8 @@
 
 # Date       Fri Jul/19 2024 - Sun May/25 2025 (310d)
 # Teams      16
-# Matches    274
-# Stages     Regular Season (240)  Championship (15)  Middle Playoffs (4)  Relegation (15)
+# Matches    276
+# Stages     Regular Season (240)  Championship (15)  Middle Playoffs (6)  Relegation (15)
 
 
 
@@ -424,24 +424,24 @@
 
 » Championship, Matchday 3
   Sat May/10
-    16.00  FK Jablonec             v Sigma Olomouc
-    19.00  Slavia Praha            v AC Sparta Praha
+    16.00  FK Jablonec             v Sigma Olomouc            4-0 (2-0)
+    19.00  Slavia Praha            v AC Sparta Praha          2-1 (1-0)
   Sun May/11
-    17.30  Viktoria Plzeň          v Baník Ostrava
+    17.30  Viktoria Plzeň          v Baník Ostrava            1-2 (0-0)
 
 
 » Championship, Matchday 4
   Sun May/18
-    17.00  FK Jablonec             v Slavia Praha
-           Sigma Olomouc           v Viktoria Plzeň
-           Baník Ostrava           v AC Sparta Praha
+    17.00  FK Jablonec             v Slavia Praha             3-2 (0-1)
+           Sigma Olomouc           v Viktoria Plzeň           1-2 (1-0)
+           Baník Ostrava           v AC Sparta Praha          3-2 (3-0)
 
 
 » Championship, Matchday 5
   Sat May/24
-    16.00  Slavia Praha            v Baník Ostrava
-           Viktoria Plzeň          v FK Jablonec
-           AC Sparta Praha         v Sigma Olomouc
+    16.00  Slavia Praha            v Baník Ostrava            3-0 (2-0)
+           Viktoria Plzeň          v FK Jablonec              4-1 (3-0)
+           AC Sparta Praha         v Sigma Olomouc            1-1 (0-0)
 
 
 » Middle Playoffs, Semifinals
@@ -450,9 +450,16 @@
   Sun May/4
     15.30  Bohemians Praha 1905    v Slovan Liberec           4-1 (3-0)
   Sat May/10
-    16.00  MFK Karviná             v FC Hradec Králové
+    16.00  MFK Karviná             v FC Hradec Králové        0-4 (0-3)
   Sun May/11
-    15.00  Slovan Liberec          v Bohemians Praha 1905
+    15.00  Slovan Liberec          v Bohemians Praha 1905     1-0 (0-0)
+
+
+» Middle Playoffs, Final
+  Sun May/18
+    14.30  Bohemians Praha 1905    v FC Hradec Králové        1-0 (1-0)
+  Sun May/25
+    13.30  FC Hradec Králové       v Bohemians Praha 1905     2-0 (1-0)
 
 
 » Relegation, Matchday 1
@@ -473,21 +480,21 @@
 
 » Relegation, Matchday 3
   Sat May/10
-    13.30  FK Pardubice            v Dynamo České Budějovice
+    13.30  FK Pardubice            v Dynamo České Budějovice  1-0 (0-0)
   Sun May/11
-    13.00  FK Teplice              v 1. FC Slovácko
-    15.00  FK Mladá Boleslav       v FK Dukla Praha
+    13.00  FK Teplice              v 1. FC Slovácko           1-0 (0-0)
+    15.00  FK Mladá Boleslav       v FK Dukla Praha           2-3 (1-1)
 
 
 » Relegation, Matchday 4
   Sat May/17
-    17.00  FK Pardubice            v FK Mladá Boleslav
-           Dynamo České Budějovice v FK Teplice
-           1. FC Slovácko          v FK Dukla Praha
+    17.00  FK Pardubice            v FK Mladá Boleslav        2-1 (1-1)
+           Dynamo České Budějovice v FK Teplice               0-3 (0-1)
+           1. FC Slovácko          v FK Dukla Praha           3-2 (0-1)
 
 
 » Relegation, Matchday 5
   Sun May/25
-    16.00  FK Mladá Boleslav       v 1. FC Slovácko
-           FK Teplice              v FK Pardubice
-           FK Dukla Praha          v Dynamo České Budějovice
+    16.00  FK Mladá Boleslav       v 1. FC Slovácko           2-2 (0-0)
+           FK Teplice              v FK Pardubice             3-0 (1-0)
+           FK Dukla Praha          v Dynamo České Budějovice  2-1 (2-1)

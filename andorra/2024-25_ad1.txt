@@ -10,7 +10,7 @@
   Sat Sep/14 2024
     20.30  FC Pas de la Casa       v FC Ordino                1-2 (1-0)
   Sun Sep/15
-           Penya Encarnada         v Atlétic Escaldes         [cancelled]
+           Penya Encarnada         v Atlétic Escaldes         0-0
     11.00  UE Santa Coloma         v FC Santa Coloma          0-1 (0-0)
     13.30  Inter Club d'Escaldes   v FS La Massana            6-1 (5-0)
     16.00  FC Rànger's             v CF Esperança d'Andorra   4-0 (3-0)
@@ -209,67 +209,68 @@
 
 » Matchday 21
   Sat Mar/29
-    20.30  UE Santa Coloma         v Inter Club d'Escaldes
+    20.30  UE Santa Coloma         v Inter Club d'Escaldes    0-0
   Sun Mar/30
-    11.00  FC Rànger's             v FS La Massana
-    13.30  CF Esperança d'Andorra  v FC Pas de la Casa
-    16.00  Atlétic Escaldes        v Penya Encarnada
-    18.30  FC Santa Coloma         v FC Ordino
+    11.00  FC Rànger's             v FS La Massana            5-0
+    13.30  CF Esperança d'Andorra  v FC Pas de la Casa        0-1
+    16.00  Atlétic Escaldes        v Penya Encarnada          1-0
+    18.30  FC Santa Coloma         v FC Ordino                0-1
 
 
 » Matchday 22
   Sat Apr/5
-    20.30  Inter Club d'Escaldes   v FC Santa Coloma
+    20.30  Inter Club d'Escaldes   v FC Santa Coloma          1-0
   Sun Apr/6
-    11.00  FS La Massana           v Atlétic Escaldes
-    13.30  FC Ordino               v CF Esperança d'Andorra
-    16.00  FC Pas de la Casa       v FC Rànger's
-    18.30  Penya Encarnada         v UE Santa Coloma
+    11.00  FS La Massana           v Atlétic Escaldes         0-4
+    13.30  FC Ordino               v CF Esperança d'Andorra   1-1
+    16.00  FC Pas de la Casa       v FC Rànger's              0-0
+    18.30  Penya Encarnada         v UE Santa Coloma          2-2
 
 
 » Matchday 23
   Sat Apr/12
-    20.30  FC Rànger's             v Atlétic Escaldes
+    20.30  FC Rànger's             v Atlétic Escaldes         1-1
   Sun Apr/13
-    11.00  FC Pas de la Casa       v FC Ordino
-    13.30  UE Santa Coloma         v FS La Massana
-    16.00  CF Esperança d'Andorra  v Inter Club d'Escaldes
-    18.30  FC Santa Coloma         v Penya Encarnada
+    11.00  FC Pas de la Casa       v FC Ordino                1-2
+    13.30  UE Santa Coloma         v FS La Massana            6-0
+    16.00  CF Esperança d'Andorra  v Inter Club d'Escaldes    0-7
+    18.30  FC Santa Coloma         v Penya Encarnada          1-0 (0-0)
 
 
 » Matchday 24
   Sat Apr/26
-    20.30  FS La Massana           v FC Santa Coloma
+    19.00  FS La Massana           v FC Santa Coloma          1-4
   Sun Apr/27
-    11.00  Atlétic Escaldes        v UE Santa Coloma
-    13.30  FC Ordino               v FC Rànger's
-    16.00  Penya Encarnada         v CF Esperança d'Andorra
-    18.30  Inter Club d'Escaldes   v FC Pas de la Casa
+    11.00  Atlétic Escaldes        v UE Santa Coloma          2-0
+    13.30  FC Ordino               v FC Rànger's              0-2 (0-1)
+    16.00  Penya Encarnada         v CF Esperança d'Andorra   4-1
+    18.30  Inter Club d'Escaldes   v FC Pas de la Casa        3-0
 
 
 » Matchday 25
   Sat May/3
-    20.30  FC Pas de la Casa       v Penya Encarnada
+    19.00  FC Pas de la Casa       v Penya Encarnada          0-2 (0-0)
   Sun May/4
-    11.00  FC Ordino               v Inter Club d'Escaldes
-    13.30  FC Santa Coloma         v Atlétic Escaldes
-    16.00  FC Rànger's             v UE Santa Coloma
-    18.30  CF Esperança d'Andorra  v FS La Massana
+    11.00  FC Ordino               v Inter Club d'Escaldes    0-4 (0-3)
+    13.30  FC Santa Coloma         v Atlétic Escaldes         3-1 (2-1)
+    16.00  FC Rànger's             v UE Santa Coloma          0-1 (0-0)
+    18.30  CF Esperança d'Andorra  v FS La Massana            1-0 (1-0)
 
 
 » Matchday 26
   Sun May/11
-           FC Rànger's             v Inter Club d'Escaldes
-           Penya Encarnada         v FC Ordino
-           FS La Massana           v FC Pas de la Casa
-           Atlétic Escaldes        v CF Esperança d'Andorra
-           UE Santa Coloma         v FC Santa Coloma
+    11.00  FC Rànger's             v Inter Club d'Escaldes    2-3
+           FS La Massana           v FC Pas de la Casa        0-5
+           Atlétic Escaldes        v CF Esperança d'Andorra   5-1
+           UE Santa Coloma         v FC Santa Coloma          1-2
+    13.30  Penya Encarnada         v FC Ordino                1-1
 
 
 » Matchday 27
+  Fri May/16
+    10.30  Inter Club d'Escaldes   v Penya Encarnada          3-2
   Sun May/18
-           Inter Club d'Escaldes   v Penya Encarnada
-           FC Ordino               v FS La Massana
-           FC Pas de la Casa       v Atlétic Escaldes
-           CF Esperança d'Andorra  v UE Santa Coloma
-           FC Santa Coloma         v FC Rànger's
+    11.00  FC Ordino               v FS La Massana            5-1
+           CF Esperança d'Andorra  v UE Santa Coloma          0-4
+    13.30  FC Pas de la Casa       v Atlétic Escaldes         1-5
+    16.00  FC Santa Coloma         v FC Rànger's              0-5

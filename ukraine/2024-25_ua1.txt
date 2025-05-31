@@ -1,6 +1,6 @@
 = Ukraine Premier League 2024/25
 
-# Date       Sat Aug/3 2024 - Sat May/24 2025 (294d)
+# Date       Sat Aug/3 2024 - Sun May/25 2025 (295d)
 # Teams      16
 # Matches    240
 
@@ -57,9 +57,9 @@
     15.30  Rukh Lviv               v Zorya Lugansk            3-0 (1-0)
     18.00  Kryvbas Kryvyi Rih      v Inhulets Petrove         1-1 (1-1)
   Mon Aug/26
-    16.30  Livyi Bereh             v Chernomorets Odessa      1-0 (1-0)
-    19.00  Kolos Kovalivka         v NK Veres                 0-1 (0-0)
-    20.00  FC LNZ Cherkasy         v Karpaty Lviv             2-1 (0-1)
+    15.30  Livyi Bereh             v Chernomorets Odessa      1-0 (1-0)
+    18.00  Kolos Kovalivka         v NK Veres                 0-1 (0-0)
+    19.00  FC LNZ Cherkasy         v Karpaty Lviv             2-1 (0-1)
   Wed Sep/18
     18.00  Dinamo Kiev             v Vorskla Poltava          3-1 (2-0)
 
@@ -76,7 +76,7 @@
     13.00  NK Veres                v Livyi Bereh              1-3 (1-0)
     15.30  Dinamo Kiev             v FC LNZ Cherkasy          1-0 (1-0)
   Wed Apr/16 2025
-    15.30  Kryvbas Kryvyi Rih      v Shakhtar Donetsk
+    14.45  Kryvbas Kryvyi Rih      v Shakhtar Donetsk         1-2 (0-1)
 
 
 » Matchday 6
@@ -237,7 +237,7 @@
   Mon Dec/9
     18.00  Polissya Zhytomyr       v Rukh Lviv                0-1 (0-1)
   Wed Apr/30 2025
-    15.30  Inhulets Petrove        v Zorya Lugansk
+    13.00  Inhulets Petrove        v Zorya Lugansk            1-0 (1-0)
 
 
 » Matchday 17
@@ -279,7 +279,7 @@
     15.30  Chernomorets Odessa     v Livyi Bereh              0-1 (0-1)
     18.00  Shakhtar Donetsk        v FK Oleksandriya          3-0 (0-0)
   Sun Mar/2
-    14.00  Inhulets Petrove        v Kryvbas Kryvyi Rih       2-0 (2-0)
+    13.00  Inhulets Petrove        v Kryvbas Kryvyi Rih       2-0 (2-0)
     15.30  Zorya Lugansk           v Rukh Lviv                2-0 (1-0)
     18.00  NK Veres                v Kolos Kovalivka          2-1 (1-1)
 
@@ -305,121 +305,137 @@
            NK Veres                v Polissya Zhytomyr        5-1 (2-1)
     18.00  Karpaty Lviv            v Shakhtar Donetsk         0-0
   Sat Mar/15
-    15.30  Kryvbas Kryvyi Rih      v Livyi Bereh              [abandoned]
     18.00  Rukh Lviv               v Vorskla Poltava          0-1 (0-0)
   Sun Mar/16
     13.00  Inhulets Petrove        v Chernomorets Odessa      1-0 (1-0)
     15.30  FC LNZ Cherkasy         v Kolos Kovalivka          2-0 (1-0)
+  Wed May/7
+    13.00  Kryvbas Kryvyi Rih      v Livyi Bereh              4-0 (1-0)
 
 
 » Matchday 22
   Fri Mar/28
-    15.30  FC LNZ Cherkasy         v Polissya Zhytomyr
-    18.00  Inhulets Petrove        v NK Veres
+    13.00  Inhulets Petrove        v NK Veres                 0-0
+    15.30  FC LNZ Cherkasy         v Polissya Zhytomyr        0-1 (0-0)
   Sat Mar/29
-    13.00  Livyi Bereh             v FK Oleksandriya
-    15.30  FK Obolon               v Shakhtar Donetsk
-    18.00  Rukh Lviv               v Dinamo Kiev
+    13.00  Livyi Bereh             v FK Oleksandriya          0-1 (0-1)
+    15.30  FK Obolon               v Shakhtar Donetsk         0-2 (0-1)
+    18.00  Rukh Lviv               v Dinamo Kiev              0-2 (0-2)
   Sun Mar/30
-    13.00  Vorskla Poltava         v Kryvbas Kryvyi Rih
-    15.30  Karpaty Lviv            v Chernomorets Odessa
-    18.00  Zorya Lugansk           v Kolos Kovalivka
+    13.00  Vorskla Poltava         v Kryvbas Kryvyi Rih       0-1 (0-1)
+    15.30  Karpaty Lviv            v Chernomorets Odessa      4-0 (2-0)
+    18.00  Zorya Lugansk           v Kolos Kovalivka          0-3 (0-1)
 
 
 » Matchday 23
   Fri Apr/4
-    15.30  Inhulets Petrove        v FK Obolon
+    15.30  Inhulets Petrove        v FK Obolon                0-1 (0-1)
   Sat Apr/5
-    13.00  Vorskla Poltava         v Zorya Lugansk
-    15.30  Chernomorets Odessa     v FC LNZ Cherkasy
+    13.00  Vorskla Poltava         v Zorya Lugansk            1-2 (0-0)
+    15.30  Chernomorets Odessa     v FC LNZ Cherkasy          1-0 (1-0)
   Sun Apr/6
-    13.00  FK Oleksandriya         v Kryvbas Kryvyi Rih
-    15.30  Dinamo Kiev             v Livyi Bereh
-    18.00  Shakhtar Donetsk        v NK Veres
+    13.00  FK Oleksandriya         v Kryvbas Kryvyi Rih       1-0 (0-0)
+    15.30  Dinamo Kiev             v Livyi Bereh              2-0 (1-0)
+    18.00  Shakhtar Donetsk        v NK Veres                 3-0 (0-0)
   Mon Apr/7
-    15.30  Kolos Kovalivka         v Rukh Lviv
-    18.00  Polissya Zhytomyr       v Karpaty Lviv
+    15.30  Kolos Kovalivka         v Rukh Lviv                0-1 (0-1)
+    18.00  Polissya Zhytomyr       v Karpaty Lviv             1-1 (0-0)
 
 
 » Matchday 24
+  Fri Apr/11
+    15.30  FC LNZ Cherkasy         v Shakhtar Donetsk         1-4 (0-3)
   Sat Apr/12
-           Vorskla Poltava         v Polissya Zhytomyr
-           Rukh Lviv               v FK Oleksandriya
-           Inhulets Petrove        v Karpaty Lviv
-           Kryvbas Kryvyi Rih      v Dinamo Kiev
-           Livyi Bereh             v Kolos Kovalivka
-           FC LNZ Cherkasy         v Shakhtar Donetsk
-           Zorya Lugansk           v NK Veres
-           FK Obolon               v Chernomorets Odessa
+    13.00  Kryvbas Kryvyi Rih      v Dinamo Kiev              0-2 (0-1)
+    15.30  Rukh Lviv               v FK Oleksandriya          1-1 (0-1)
+    18.00  FK Obolon               v Chernomorets Odessa      1-0 (1-0)
+  Sun Apr/13
+    13.00  Vorskla Poltava         v Polissya Zhytomyr        0-2 (0-1)
+    15.30  Livyi Bereh             v Kolos Kovalivka          0-2 (0-2)
+    18.00  Zorya Lugansk           v NK Veres                 1-2 (0-2)
+  Mon Apr/14
+    15.30  Inhulets Petrove        v Karpaty Lviv             1-2 (0-1)
 
 
 » Matchday 25
+  Fri Apr/18
+    13.00  Vorskla Poltava         v FK Oleksandriya          1-3 (0-3)
+    18.00  Dinamo Kiev             v FK Obolon                3-0 (1-0)
   Sat Apr/19
-           Karpaty Lviv            v Rukh Lviv
-           NK Veres                v Chernomorets Odessa
-           Shakhtar Donetsk        v Kolos Kovalivka
-           Vorskla Poltava         v FK Oleksandriya
-           Dinamo Kiev             v FK Obolon
-           Kryvbas Kryvyi Rih      v Zorya Lugansk
-           Livyi Bereh             v Polissya Zhytomyr
-           Inhulets Petrove        v FC LNZ Cherkasy
+    13.00  Karpaty Lviv            v Rukh Lviv                3-1 (2-0)
+    15.30  Livyi Bereh             v Polissya Zhytomyr        1-1 (1-0)
+    18.00  Shakhtar Donetsk        v Kolos Kovalivka          2-4 (1-2)
+  Sun Apr/20
+    13.00  Kryvbas Kryvyi Rih      v Zorya Lugansk            3-0 (1-0)
+    15.30  Inhulets Petrove        v FC LNZ Cherkasy          0-0
+    18.00  NK Veres                v Chernomorets Odessa      2-1 (0-1)
 
 
 » Matchday 26
+  Fri Apr/25
+    15.30  Inhulets Petrove        v FK Oleksandriya          0-1 (0-1)
+    18.00  Zorya Lugansk           v Livyi Bereh              2-1 (1-0)
   Sat Apr/26
-           FK Obolon               v Karpaty Lviv
-           Shakhtar Donetsk        v Dinamo Kiev
-           Chernomorets Odessa     v Rukh Lviv
-           FC LNZ Cherkasy         v Kryvbas Kryvyi Rih
-           Zorya Lugansk           v Livyi Bereh
-           FK Oleksandriya         v Inhulets Petrove
-           Kolos Kovalivka         v Polissya Zhytomyr
-           Vorskla Poltava         v NK Veres
+    13.00  Chernomorets Odessa     v Rukh Lviv                1-2 (0-1)
+    15.30  FC LNZ Cherkasy         v Kryvbas Kryvyi Rih       0-0
+    18.00  FK Obolon               v Karpaty Lviv             2-2 (1-1)
+  Sun Apr/27
+    13.00  Vorskla Poltava         v NK Veres                 3-0 (1-0)
+    15.30  Kolos Kovalivka         v Polissya Zhytomyr        1-1 (0-0)
+    18.00  Shakhtar Donetsk        v Dinamo Kiev              2-2 (2-0)
 
 
 » Matchday 27
+  Fri May/2
+    15.30  Livyi Bereh             v Karpaty Lviv             2-3 (1-1)
+    18.00  Rukh Lviv               v Kryvbas Kryvyi Rih       0-0
   Sat May/3
-           Kolos Kovalivka         v Vorskla Poltava
-           Rukh Lviv               v Kryvbas Kryvyi Rih
-           Dinamo Kiev             v Inhulets Petrove
-           Livyi Bereh             v Karpaty Lviv
-           FC LNZ Cherkasy         v Zorya Lugansk
-           Polissya Zhytomyr       v FK Oleksandriya
-           NK Veres                v FK Obolon
-           Chernomorets Odessa     v Shakhtar Donetsk
+    13.00  Chernomorets Odessa     v Shakhtar Donetsk         0-3 (0-0)
+    15.30  Inhulets Petrove        v Dinamo Kiev              0-4 (0-2)
+    18.00  NK Veres                v FK Obolon                0-2 (0-2)
+  Sun May/4
+    13.00  FC LNZ Cherkasy         v Zorya Lugansk            1-1 (0-0)
+    15.30  Kolos Kovalivka         v Vorskla Poltava          0-0
+    18.00  Polissya Zhytomyr       v FK Oleksandriya          1-2 (1-1)
 
 
 » Matchday 28
+  Fri May/9
+    15.30  Zorya Lugansk           v Shakhtar Donetsk         0-0
+    18.00  Polissya Zhytomyr       v Dinamo Kiev              0-0
   Sat May/10
-           Polissya Zhytomyr       v Dinamo Kiev
-           Karpaty Lviv            v FK Oleksandriya
-           Rukh Lviv               v NK Veres
-           Kryvbas Kryvyi Rih      v Kolos Kovalivka
-           Inhulets Petrove        v Livyi Bereh
-           Zorya Lugansk           v Shakhtar Donetsk
-           FK Obolon               v FC LNZ Cherkasy
-           Vorskla Poltava         v Chernomorets Odessa
+    13.00  Vorskla Poltava         v Chernomorets Odessa      1-2 (1-0)
+    15.30  FK Obolon               v FC LNZ Cherkasy          0-0
+    18.00  Rukh Lviv               v NK Veres                 2-0 (1-0)
+  Sun May/11
+    13.00  Kryvbas Kryvyi Rih      v Kolos Kovalivka          0-1 (0-1)
+    18.00  Karpaty Lviv            v FK Oleksandriya          2-1 (0-1)
+  Mon May/12
+    15.30  Inhulets Petrove        v Livyi Bereh              2-1 (1-0)
 
 
 » Matchday 29
   Sat May/17
-           Zorya Lugansk           v Polissya Zhytomyr
-           FK Oleksandriya         v NK Veres
-           Shakhtar Donetsk        v Inhulets Petrove
-           Livyi Bereh             v Rukh Lviv
-           Chernomorets Odessa     v Dinamo Kiev
-           Kryvbas Kryvyi Rih      v FK Obolon
-           Kolos Kovalivka         v Karpaty Lviv
-           FC LNZ Cherkasy         v Vorskla Poltava
+    13.00  Zorya Lugansk           v Polissya Zhytomyr        0-1 (0-1)
+           Kryvbas Kryvyi Rih      v FK Obolon                1-0 (0-0)
+           Kolos Kovalivka         v Karpaty Lviv             2-1 (0-1)
+  Sun May/18
+    15.30  FK Oleksandriya         v NK Veres                 3-1 (3-0)
+           Inhulets Petrove        v Shakhtar Donetsk         1-4 (1-1)
+           Livyi Bereh             v Rukh Lviv                1-0 (1-0)
+           Chernomorets Odessa     v Dinamo Kiev              1-1 (0-0)
+           FC LNZ Cherkasy         v Vorskla Poltava          0-0
 
 
 » Matchday 30
+  Fri May/23
+    15.30  Inhulets Petrove        v Vorskla Poltava          1-1 (0-1)
+           FK Obolon               v Livyi Bereh              1-0 (0-0)
   Sat May/24
-           NK Veres                v FC LNZ Cherkasy
-           Inhulets Petrove        v Vorskla Poltava
-           Rukh Lviv               v Shakhtar Donetsk
-           Dinamo Kiev             v Kolos Kovalivka
-           Polissya Zhytomyr       v Kryvbas Kryvyi Rih
-           FK Obolon               v Livyi Bereh
-           Chernomorets Odessa     v FK Oleksandriya
-           Karpaty Lviv            v Zorya Lugansk
+    13.00  Chernomorets Odessa     v FK Oleksandriya          0-0
+    15.30  Rukh Lviv               v Shakhtar Donetsk         1-1 (0-0)
+    18.00  Dinamo Kiev             v Kolos Kovalivka          1-1 (1-0)
+  Sun May/25
+    15.30  NK Veres                v FC LNZ Cherkasy          1-1 (0-0)
+    18.00  Polissya Zhytomyr       v Kryvbas Kryvyi Rih       1-1 (0-1)
+           Karpaty Lviv            v Zorya Lugansk            1-3 (1-1)

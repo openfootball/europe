@@ -1,6 +1,6 @@
 = Croatia HNL 2024/25
 
-# Date       Fri Aug/2 2024 - Sat May/24 2025 (295d)
+# Date       Fri Aug/2 2024 - Sun May/25 2025 (296d)
 # Teams      10
 # Matches    180
 
@@ -371,30 +371,31 @@
 
 » Matchday 34
   Fri May/9
-    18.00  NK Osijek               v Lokomotiva Zagreb
+    18.00  NK Osijek               v Lokomotiva Zagreb        1-1 (1-0)
   Sat May/10
-    17.00  HNK Šibenik             v HNK Rijeka
-    19.45  Dinamo Zagreb           v Slaven Belupo
+    17.00  HNK Šibenik             v HNK Rijeka               0-1 (0-0)
+    19.45  Dinamo Zagreb           v Slaven Belupo            5-0 (3-0)
   Sun May/11
-    16.00  HNK Gorica              v Hajduk Split
-    18.15  NK Istra 1961           v NK Varaždin
+    16.00  HNK Gorica              v Hajduk Split             1-1 (0-0)
+    18.15  NK Istra 1961           v NK Varaždin              0-0
 
 
 » Matchday 35
   Fri May/16
-    18.00  NK Istra 1961           v HNK Šibenik
+    18.00  NK Istra 1961           v HNK Šibenik              3-0 (2-0)
   Sat May/17
-    17.00  NK Varaždin             v NK Osijek
-    19.15  Lokomotiva Zagreb       v Dinamo Zagreb
+    17.00  NK Varaždin             v NK Osijek                2-1 (2-1)
+    19.15  Lokomotiva Zagreb       v Dinamo Zagreb            1-1 (0-1)
   Sun May/18
-    16.00  Slaven Belupo           v HNK Gorica
-    18.45  Hajduk Split            v HNK Rijeka
+    16.00  Slaven Belupo           v HNK Gorica               4-0 (2-0)
+    18.45  Hajduk Split            v HNK Rijeka               2-1 (1-0)
 
 
 » Matchday 36
   Sat May/24
-    19.00  Dinamo Zagreb           v NK Varaždin
-           HNK Gorica              v Lokomotiva Zagreb
-           HNK Rijeka              v Slaven Belupo
-           NK Osijek               v NK Istra 1961
-           HNK Šibenik             v Hajduk Split
+    19.15  HNK Gorica              v Lokomotiva Zagreb        0-3 (0-1)
+  Sun May/25
+    17.00  Dinamo Zagreb           v NK Varaždin              1-0 (1-0)
+           HNK Rijeka              v Slaven Belupo            2-0 (1-0)
+           NK Osijek               v NK Istra 1961            1-1 (0-1)
+           HNK Šibenik             v Hajduk Split             0-1 (0-0)

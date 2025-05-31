@@ -1,9 +1,9 @@
 = Malta Premier League 2024/25
 
-# Date       Fri Aug/16 2024 - Mon Mar/31 2025 (227d)
+# Date       Fri Aug/16 2024 - Sat May/10 2025 (267d)
 # Teams      12
-# Matches    162
-# Stages     Closing (66)  Opening (66)  Opening Bottom 6 (15)  Opening Top 6 (15)
+# Matches    197
+# Stages     Closing (66)  Closing Bottom 6 (15)  Closing Top 6 (15)  Opening (66)  Opening Bottom 6 (15)  Opening Top 6 (15)  Playoffs (4)  Relegation (1)
 
 
 
@@ -125,15 +125,95 @@
 
 » Closing, Matchday 11
   Fri Mar/28
-    20.00  Gżira United            v Balzan FC
+    20.00  Gżira United            v Balzan FC                0-0
   Sat Mar/29
-    14.00  Floriana FC             v Hibernians FC
-    17.00  St. Patrick FC          v Mosta FC
+    14.00  Floriana FC             v Hibernians FC            1-1 (1-0)
+    17.00  St. Patrick FC          v Mosta FC                 1-2 (0-0)
   Sun Mar/30
-    14.00  Sliema Wanderers        v Birkirkara FC
-    17.00  Melita FC               v Marsaxlokk FC
+    14.00  Sliema Wanderers        v Birkirkara FC            2-1 (1-0)
+    17.00  Melita FC               v Marsaxlokk FC            0-5 (0-1)
   Mon Mar/31
-    15.00  Hamrun Spartans         v Naxxar Lions FC
+    15.00  Hamrun Spartans         v Naxxar Lions FC          4-0 (3-0)
+
+
+» Closing Bottom 6, Matchday 1
+  Fri Apr/4
+    18.00  Gżira United            v Balzan FC                0-0
+  Sat Apr/5
+    13.45  St. Patrick FC          v Naxxar Lions FC          2-0 (1-0)
+  Sun Apr/6
+    16.00  Hibernians FC           v Melita FC                3-0 (2-0)
+
+
+» Closing Bottom 6, Matchday 2
+  Fri Apr/11
+    18.00  Hibernians FC           v Naxxar Lions FC          0-1 (0-1)
+    20.15  St. Patrick FC          v Gżira United             1-2 (1-2)
+  Sun Apr/13
+    16.00  Balzan FC               v Melita FC                3-1 (0-0)
+
+
+» Closing Bottom 6, Matchday 3
+  Sat Apr/19
+    16.00  Hibernians FC           v Gżira United             1-2 (1-0)
+           St. Patrick FC          v Balzan FC                2-2 (1-0)
+  Mon Apr/21
+    19.00  Naxxar Lions FC         v Melita FC                2-0 (1-0)
+
+
+» Closing Bottom 6, Matchday 4
+  Sun Apr/27
+    17.30  Hibernians FC           v Balzan FC                1-1 (1-0)
+  Mon Apr/28
+    18.00  St. Patrick FC          v Melita FC                2-0 (1-0)
+    20.15  Gżira United            v Naxxar Lions FC          0-2 (0-1)
+
+
+» Closing Bottom 6, Matchday 5
+  Thu May/1
+    13.00  St. Patrick FC          v Hibernians FC            2-2 (2-0)
+  Sat May/3
+    17.00  Balzan FC               v Naxxar Lions FC          1-1 (0-0)
+           Gżira United            v Melita FC                2-2 (1-2)
+
+
+» Closing Top 6, Matchday 1
+  Fri Apr/4
+    20.15  Mosta FC                v Marsaxlokk FC            0-4 (0-2)
+  Sat Apr/5
+    16.00  Birkirkara FC           v Hamrun Spartans          0-1 (0-0)
+  Sun Apr/6
+    13.45  Floriana FC             v Sliema Wanderers         0-2 (0-0)
+
+
+» Closing Top 6, Matchday 2
+  Sat Apr/12
+    13.45  Floriana FC             v Marsaxlokk FC            2-1 (0-0)
+    16.00  Mosta FC                v Hamrun Spartans          0-2 (0-2)
+  Sun Apr/13
+    13.45  Birkirkara FC           v Sliema Wanderers         0-1 (0-1)
+
+
+» Closing Top 6, Matchday 3
+  Sat Apr/19
+    13.45  Marsaxlokk FC           v Sliema Wanderers         2-1 (0-1)
+           Birkirkara FC           v Mosta FC                 1-0 (1-0)
+  Mon Apr/21
+    19.00  Floriana FC             v Hamrun Spartans          0-0
+
+
+» Closing Top 6, Matchday 4
+  Sun Apr/27
+    14.30  Sliema Wanderers        v Hamrun Spartans          1-1 (0-0)
+    15.15  Birkirkara FC           v Marsaxlokk FC            1-1 (1-0)
+    17.45  Floriana FC             v Mosta FC                 3-0 (1-0)
+
+
+» Closing Top 6, Matchday 5
+  Wed Apr/30
+    18.30  Birkirkara FC           v Floriana FC              1-1 (1-1)
+           Mosta FC                v Sliema Wanderers         1-4 (0-2)
+           Marsaxlokk FC           v Hamrun Spartans          0-1 (0-1)
 
 
 » Opening, Matchday 1
@@ -338,3 +418,25 @@
     14.00  Birkirkara FC           v Floriana FC              0-1 (0-0)
     16.00  Sliema Wanderers        v Mosta FC                 3-1 (1-1)
            Hibernians FC           v Hamrun Spartans          0-3 (0-1)
+
+
+» Playoffs, Semifinals
+  Sun May/4 2025
+    18.00  Sliema Wanderers        v Birkirkara FC            0-1 a.e.t. (0-0)
+  Mon May/5
+    19.15  Floriana FC             v Hamrun Spartans          2-4 pen. 0-0 a.e.t. (0-0)
+
+
+» Playoffs, Match 3rd place
+  Fri May/9
+    20.30  Sliema Wanderers        v Floriana FC              0-4 (0-1)
+
+
+» Playoffs, Final
+  Sat May/10
+    18.00  Hamrun Spartans         v Birkirkara FC            1-0 (0-0)
+
+
+» Relegation, Abstieg
+  Fri May/9
+    18.15  Melita FC               v Naxxar Lions FC          0-1

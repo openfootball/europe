@@ -1,6 +1,6 @@
 = Armenia Premier League 2024/25
 
-# Date       Fri Aug/2 2024 - Sat May/31 2025 (302d)
+# Date       Fri Aug/2 2024 - Wed May/28 2025 (299d)
 # Teams      11
 # Matches    165
 
@@ -215,36 +215,37 @@
 
 
 » Matchday 19
-  Sun Dec/1
-           FC Noah                 v BKMA Yerevan             [postponed]
   Mon Dec/2
     14.00  FK Van                  v Shirak FC                1-0 (0-0)
     18.00  Pyunik FC               v Gandzasar Kapan          1-0 (0-0)
   Tue Dec/3
     15.00  FC Ararat               v FC West Armenia          2-3 (2-1)
     18.00  FC Urartu               v FC Alashkert             1-0 (0-0)
+  Wed Apr/9 2025
+    16.00  FC Noah                 v BKMA Yerevan             3-0 (2-0)
 
 
 » Matchday 20
-  Sun Feb/23 2025
-           Gandzasar Kapan         v FK Van                   [postponed]
-           Shirak FC               v FC Ararat                [postponed]
   Mon Feb/24
     16.00  FC West Armenia         v FC Noah                  0-4 (0-2)
   Tue Feb/25
     14.00  FC Alashkert            v Pyunik FC                0-2 (0-1)
     16.00  FC Ararat-Armenia       v FC Urartu                1-2 (0-0)
+  Tue Apr/8
+    18.30  Shirak FC               v FC Ararat                1-3 (0-2)
+  Mon May/12
+    16.00  Gandzasar Kapan         v FK Van                   1-2 (1-2)
 
 
 » Matchday 21
-  Fri Feb/28
-    17.00  FC Ararat               v Gandzasar Kapan          [abandoned]
   Sat Mar/1
     15.00  FK Van                  v FC Alashkert             1-1 (1-0)
     19.00  Pyunik FC               v FC Ararat-Armenia        1-2 (0-1)
   Sun Mar/2
     13.00  BKMA Yerevan            v FC West Armenia          0-1 (0-1)
     18.30  FC Noah                 v Shirak FC                4-0 (2-0)
+  Mon Apr/28
+           Gandzasar Kapan         v FC Ararat                0-3    [awarded]
 
 
 » Matchday 22
@@ -272,93 +273,112 @@
 
 » Matchday 24
   Thu Mar/27
-    16.00  BKMA Yerevan            v FC West Armenia
-    18.00  FC Ararat               v Gandzasar Kapan
+    16.00  BKMA Yerevan            v FC West Armenia          3-0 (1-0)
+    18.00  FC Ararat               v Gandzasar Kapan          1-1 (0-1)
   Fri Mar/28
-    19.00  FC Ararat-Armenia       v Pyunik FC
+    19.00  FC Ararat-Armenia       v Pyunik FC                3-2 (1-2)
   Sat Mar/29
-    16.00  FC Alashkert            v FK Van
-    19.00  Shirak FC               v FC Noah
+    14.00  FC Alashkert            v FK Van                   2-2 (0-1)
+    19.00  Shirak FC               v FC Noah                  1-2 (1-0)
 
 
 » Matchday 25
   Fri Apr/4
-    18.00  FC Ararat               v Shirak FC
+    18.00  FC Ararat               v Shirak FC                1-2 (1-0)
   Sat Apr/5
-    16.00  Pyunik FC               v FC Alashkert
-    19.00  FC Urartu               v FC Ararat-Armenia
+    16.00  Pyunik FC               v FC Alashkert             1-1 (1-1)
+    19.00  FC Urartu               v FC Ararat-Armenia        0-3 (0-2)
   Sun Apr/6
-    16.00  FK Van                  v Gandzasar Kapan
-    19.00  FC Noah                 v FC West Armenia
+    16.00  FK Van                  v Gandzasar Kapan          2-0 (1-0)
+    19.00  FC Noah                 v FC West Armenia          5-1 (1-0)
 
 
 » Matchday 26
-  Sun Apr/20
-           FC Alashkert            v FC Urartu
-           BKMA Yerevan            v FC Noah
-           Gandzasar Kapan         v Pyunik FC
-           Shirak FC               v FK Van
-           FC West Armenia         v FC Ararat
+  Fri Apr/11
+    16.00  FC Alashkert            v FC Urartu                1-1 (0-0)
+  Sat Apr/12
+    16.00  Gandzasar Kapan         v Pyunik FC                1-3 (1-0)
+    19.00  Shirak FC               v FK Van                   0-1 (0-0)
+  Sun Apr/13
+    18.30  BKMA Yerevan            v FC Noah                  1-5 (0-2)
+  Mon Apr/14
+    16.00  FC West Armenia         v FC Ararat                2-1 (0-0)
 
 
 » Matchday 27
-  Sat Mar/29
-           FC Ararat               v FC Alashkert
-           BKMA Yerevan            v Shirak FC
-           FC Noah                 v Gandzasar Kapan
-           Pyunik FC               v FC Urartu
-           FK Van                  v FC Ararat-Armenia
+  Fri Apr/18
+    16.00  FC Ararat               v FC Alashkert             3-2 (1-2)
+    18.30  BKMA Yerevan            v Shirak FC                3-2 (0-0)
+  Sat Apr/19
+    16.00  Pyunik FC               v FC Urartu                1-4 (1-0)
+  Sun Apr/20
+    16.00  FK Van                  v FC Ararat-Armenia        2-3 (2-2)
+    19.00  FC Noah                 v Gandzasar Kapan          1-0 (0-0)
 
 
 » Matchday 28
-  Sat May/3
-           BKMA Yerevan            v FK Van
-           Gandzasar Kapan         v FC Ararat-Armenia
-           FC Noah                 v FC Ararat
-           Shirak FC               v FC Urartu
-           FC West Armenia         v Pyunik FC
+  Wed Apr/23
+    16.00  FC West Armenia         v Pyunik FC                0-1 (0-1)
+  Fri Apr/25
+    16.00  Gandzasar Kapan         v FC Ararat-Armenia        0-4 (0-1)
+  Sat Apr/26
+    16.00  BKMA Yerevan            v FK Van                   1-1 (1-0)
+    19.00  FC Noah                 v FC Ararat                3-0 (0-0)
+  Sun Apr/27
+    19.00  Shirak FC               v FC Urartu                1-1 (0-0)
 
 
 » Matchday 29
-  Wed May/7
-           FC Alashkert            v Gandzasar Kapan
-           FC Ararat-Armenia       v Shirak FC
-           FC Urartu               v FC West Armenia
-           Pyunik FC               v BKMA Yerevan
-           FK Van                  v FC Noah
+  Fri May/2
+    16.00  FC Alashkert            v Gandzasar Kapan          1-0 (0-0)
+  Sat May/3
+    16.00  FC Ararat-Armenia       v Shirak FC                5-1 (2-1)
+    19.00  FC Urartu               v FC West Armenia          8-0 (6-0)
+  Sun May/4
+    16.00  FK Van                  v FC Noah                  2-2 (1-0)
+    19.00  Pyunik FC               v BKMA Yerevan             1-2 (0-0)
 
 
 » Matchday 30
-  Tue May/13
-           FC Ararat               v FK Van
-           BKMA Yerevan            v FC Urartu
-           FC Noah                 v Pyunik FC
-           Shirak FC               v FC Alashkert
-           FC West Armenia         v FC Ararat-Armenia
+  Thu May/8
+    16.00  FC Ararat               v FK Van                   2-1 (1-1)
+  Fri May/9
+           FC West Armenia         v FC Ararat-Armenia        0-3    [awarded]
+    18.30  FC Noah                 v Pyunik FC                2-1 (2-1)
+  Sat May/10
+    18.30  Shirak FC               v FC Alashkert             4-0 (2-0)
+  Sun May/11
+    15.30  BKMA Yerevan            v FC Urartu                0-1 (0-0)
 
 
 » Matchday 31
+  Fri May/16
+    16.00  FC Alashkert            v FC West Armenia          3-0    [awarded]
+  Sat May/17
+    16.00  Gandzasar Kapan         v Shirak FC                1-0 (0-0)
+    18.30  Pyunik FC               v FC Ararat                5-2 (2-1)
   Sun May/18
-           FC Alashkert            v FC West Armenia
-           FC Ararat-Armenia       v BKMA Yerevan
-           Gandzasar Kapan         v Shirak FC
-           FC Urartu               v FC Noah
-           Pyunik FC               v FC Ararat
+    15.00  FC Ararat-Armenia       v BKMA Yerevan             4-0 (2-0)
+    17.00  FC Urartu               v FC Noah                  3-3 (3-2)
 
 
 » Matchday 32
+  Thu May/22
+    16.00  FC West Armenia         v Gandzasar Kapan          0-3    [awarded]
+    19.00  BKMA Yerevan            v FC Alashkert             2-0 (1-0)
+  Fri May/23
+    16.00  FK Van                  v Pyunik FC                3-2 (2-1)
   Sat May/24
-           FC Ararat               v FC Urartu
-           BKMA Yerevan            v FC Alashkert
-           FC Noah                 v FC Ararat-Armenia
-           FK Van                  v Pyunik FC
-           FC West Armenia         v Gandzasar Kapan
+    16.00  FC Ararat               v FC Urartu                2-4 (1-1)
+    19.00  FC Noah                 v FC Ararat-Armenia        2-0 (1-0)
 
 
 » Matchday 33
-  Sat May/31
-           FC Alashkert            v FC Noah
-           FC Ararat-Armenia       v FC Ararat
-           Gandzasar Kapan         v BKMA Yerevan
-           FC Urartu               v FK Van
-           Shirak FC               v FC West Armenia
+  Mon May/26
+    16.00  Gandzasar Kapan         v BKMA Yerevan             2-2 (0-0)
+  Tue May/27
+    16.00  FC Alashkert            v FC Noah                  1-0 (1-0)
+    18.30  Shirak FC               v FC West Armenia          3-0    [awarded]
+  Wed May/28
+    19.00  FC Ararat-Armenia       v FC Ararat                6-0 (2-0)
+           FC Urartu               v FK Van                   0-2 (0-1)
