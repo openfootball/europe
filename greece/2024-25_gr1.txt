@@ -366,8 +366,8 @@
 
 » Championship, Matchday 6
   Sun May/11
-    20.00  PAOK Saloniki           v AEK Athen
-           Panathinaikos           v Olympiakos Piraeus
+    20.00  PAOK Saloniki           v AEK Athen                1-0 (1-0)
+           Panathinaikos           v Olympiakos Piraeus       0-1 (0-0)
 
 
 » ECL Playoffs, Matchday 1
@@ -403,8 +403,8 @@
 
 » ECL Playoffs, Matchday 6
   Sat May/10
-    20.00  Aris Saloniki           v Asteras Tripolis
-           Atromitos               v OFI Heraklion
+    18.30  Aris Saloniki           v Asteras Tripolis         4-2 (2-0)
+    19.15  Atromitos               v OFI Heraklion            0-0
 
 
 » Relegation, Matchday 1
@@ -446,34 +446,34 @@
 
 » Relegation, Matchday 6
   Mon May/5
-    18.00  Panserraikos            v Volos NFC
-           GS Kallithea            v Panetolikos
-    20.00  Lamia                   v Levadiakos
+    18.00  Panserraikos            v Volos NFC                3-0 (1-0)
+           GS Kallithea            v Panetolikos              0-0
+    20.00  Lamia                   v Levadiakos               2-3 (1-3)
 
 
 » Relegation, Matchday 7
   Sat May/10
-    17.00  Levadiakos              v GS Kallithea
-           Lamia                   v Panserraikos
-    20.00  Panetolikos             v Volos NFC
+    17.00  Levadiakos              v GS Kallithea             4-1 (1-0)
+           Lamia                   v Panserraikos             2-1 (0-1)
+    20.00  Panetolikos             v Volos NFC                0-3 (0-2)
 
 
 » Relegation, Matchday 8
   Wed May/14
-           GS Kallithea            v Panserraikos
-           Volos NFC               v Lamia
-           Levadiakos              v Panetolikos
+    18.00  Levadiakos              v Panetolikos              1-2 (1-2)
+    20.00  GS Kallithea            v Panserraikos             1-1 (1-0)
+           Volos NFC               v Lamia                    3-0 (3-0)
 
 
 » Relegation, Matchday 9
   Sun May/18
-           Volos NFC               v GS Kallithea
-           Panserraikos            v Levadiakos
-           Lamia                   v Panetolikos
+    15.00  Panserraikos            v Levadiakos               0-1 (0-1)
+    18.00  Lamia                   v Panetolikos              1-3 (1-1)
+    20.00  Volos NFC               v GS Kallithea             0-2 (0-1)
 
 
 » Relegation, Matchday 10
   Thu May/22
-           GS Kallithea            v Lamia
-           Levadiakos              v Volos NFC
-           Panetolikos             v Panserraikos
+    18.00  Levadiakos              v Volos NFC                3-2 (1-1)
+           Panetolikos             v Panserraikos             1-0 (1-0)
+    20.00  GS Kallithea            v Lamia                    3-0 (1-0)
