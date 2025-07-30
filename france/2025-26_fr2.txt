@@ -1,0 +1,454 @@
+= French Ligue 2 2025/26
+
+# Date       Sat Aug/9 2025 - Fri May/8 2026 (272d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Sat Aug/9 2025
+    14.00  EA Guingamp             v Le Mans FC
+    20.00  US Boulogne             v SC Bastia
+           ESTAC Troyes            v Grenoble Foot 38
+           Pau FC                  v FC Annecy
+           Montpellier HSC         v Red Star FC
+           Rodez AF                v AS Nancy Lorraine
+           Stade Lavallois         v AS Saint-Étienne
+           USL Dunkerque           v Clermont Foot 63
+  Mon Aug/11
+    20.45  Amiens SC               v Stade de Reims
+
+
+» Matchday 2
+  Fri Aug/15
+    20.00  AS Nancy Lorraine       v US Boulogne
+           Clermont Foot 63        v ESTAC Troyes
+           Red Star FC             v Amiens SC
+           Grenoble Foot 38        v Stade Lavallois
+           SC Bastia               v Pau FC
+  Sat Aug/16
+    14.00  FC Annecy               v USL Dunkerque
+           Stade de Reims          v EA Guingamp
+    20.00  AS Saint-Étienne        v Rodez AF
+  Mon Aug/18
+    20.45  Le Mans FC              v Montpellier HSC
+
+
+» Matchday 3
+  Fri Aug/22
+    20.00  Clermont Foot 63        v Grenoble Foot 38
+           Le Mans FC              v SC Bastia
+           Rodez AF                v Stade Lavallois
+           Amiens SC               v FC Annecy
+           USL Dunkerque           v AS Nancy Lorraine
+  Sat Aug/23
+    14.00  EA Guingamp             v Red Star FC
+           ESTAC Troyes            v Montpellier HSC
+    20.00  US Boulogne             v AS Saint-Étienne
+  Mon Aug/25
+    20.45  Pau FC                  v Stade de Reims
+
+
+» Matchday 4
+  Fri Aug/29
+    20.00  AS Nancy Lorraine       v Pau FC
+           Red Star FC             v FC Annecy
+           Montpellier HSC         v Amiens SC
+           Rodez AF                v US Boulogne
+           Stade Lavallois         v Clermont Foot 63
+           USL Dunkerque           v ESTAC Troyes
+  Sat Aug/30
+    14.00  SC Bastia               v EA Guingamp
+           Stade de Reims          v Le Mans FC
+    20.00  AS Saint-Étienne        v Grenoble Foot 38
+
+
+» Matchday 5
+  Fri Sep/12
+           US Boulogne             v Stade Lavallois
+           Clermont Foot 63        v AS Saint-Étienne
+           EA Guingamp             v Montpellier HSC
+           ESTAC Troyes            v AS Nancy Lorraine
+           FC Annecy               v Stade de Reims
+           Pau FC                  v Red Star FC
+           Grenoble Foot 38        v USL Dunkerque
+           Le Mans FC              v Rodez AF
+           Amiens SC               v SC Bastia
+
+
+» Matchday 6
+  Fri Sep/19
+           US Boulogne             v Pau FC
+           AS Nancy Lorraine       v Red Star FC
+           AS Saint-Étienne        v Stade de Reims
+           ESTAC Troyes            v EA Guingamp
+           Grenoble Foot 38        v FC Annecy
+           Montpellier HSC         v SC Bastia
+           Rodez AF                v Clermont Foot 63
+           Stade Lavallois         v Amiens SC
+           USL Dunkerque           v Le Mans FC
+
+
+» Matchday 7
+  Tue Sep/23
+           EA Guingamp             v USL Dunkerque
+           FC Annecy               v AS Nancy Lorraine
+           Pau FC                  v Stade Lavallois
+           Red Star FC             v ESTAC Troyes
+           Montpellier HSC         v US Boulogne
+           Le Mans FC              v Grenoble Foot 38
+           Amiens SC               v AS Saint-Étienne
+           SC Bastia               v Rodez AF
+           Stade de Reims          v Clermont Foot 63
+
+
+» Matchday 8
+  Fri Sep/26
+           US Boulogne             v Red Star FC
+           AS Nancy Lorraine       v Stade de Reims
+           AS Saint-Étienne        v EA Guingamp
+           Clermont Foot 63        v Le Mans FC
+           ESTAC Troyes            v FC Annecy
+           Grenoble Foot 38        v SC Bastia
+           Rodez AF                v Pau FC
+           Stade Lavallois         v Montpellier HSC
+           USL Dunkerque           v Amiens SC
+
+
+» Matchday 9
+  Fri Oct/3
+           EA Guingamp             v AS Nancy Lorraine
+           FC Annecy               v Stade Lavallois
+           Pau FC                  v Clermont Foot 63
+           Red Star FC             v Rodez AF
+           Montpellier HSC         v AS Saint-Étienne
+           Le Mans FC              v ESTAC Troyes
+           Amiens SC               v US Boulogne
+           SC Bastia               v USL Dunkerque
+           Stade de Reims          v Grenoble Foot 38
+
+
+» Matchday 10
+  Fri Oct/17
+           US Boulogne             v EA Guingamp
+           AS Nancy Lorraine       v Amiens SC
+           AS Saint-Étienne        v Le Mans FC
+           Clermont Foot 63        v FC Annecy
+           ESTAC Troyes            v SC Bastia
+           Grenoble Foot 38        v Pau FC
+           Rodez AF                v Stade de Reims
+           Stade Lavallois         v Red Star FC
+           USL Dunkerque           v Montpellier HSC
+
+
+» Matchday 11
+  Fri Oct/24
+           EA Guingamp             v Clermont Foot 63
+           FC Annecy               v AS Saint-Étienne
+           Pau FC                  v USL Dunkerque
+           Red Star FC             v Grenoble Foot 38
+           Montpellier HSC         v AS Nancy Lorraine
+           Le Mans FC              v US Boulogne
+           Amiens SC               v Rodez AF
+           SC Bastia               v Stade Lavallois
+           Stade de Reims          v ESTAC Troyes
+
+
+» Matchday 12
+  Tue Oct/28
+           US Boulogne             v Stade de Reims
+           AS Nancy Lorraine       v SC Bastia
+           AS Saint-Étienne        v Pau FC
+           Clermont Foot 63        v Montpellier HSC
+           ESTAC Troyes            v Amiens SC
+           Grenoble Foot 38        v EA Guingamp
+           Rodez AF                v FC Annecy
+           Stade Lavallois         v Le Mans FC
+           USL Dunkerque           v Red Star FC
+
+
+» Matchday 13
+  Fri Oct/31
+           EA Guingamp             v Stade Lavallois
+           FC Annecy               v US Boulogne
+           Pau FC                  v ESTAC Troyes
+           Red Star FC             v AS Saint-Étienne
+           Montpellier HSC         v Rodez AF
+           Le Mans FC              v AS Nancy Lorraine
+           Amiens SC               v Grenoble Foot 38
+           SC Bastia               v Clermont Foot 63
+           Stade de Reims          v USL Dunkerque
+
+
+» Matchday 14
+  Fri Nov/7
+           AS Nancy Lorraine       v Stade Lavallois
+           Clermont Foot 63        v Amiens SC
+           EA Guingamp             v Pau FC
+           ESTAC Troyes            v AS Saint-Étienne
+           Grenoble Foot 38        v Rodez AF
+           Montpellier HSC         v FC Annecy
+           Le Mans FC              v Red Star FC
+           SC Bastia               v Stade de Reims
+           USL Dunkerque           v US Boulogne
+
+
+» Matchday 15
+  Fri Nov/21
+           US Boulogne             v Grenoble Foot 38
+           AS Saint-Étienne        v AS Nancy Lorraine
+           FC Annecy               v SC Bastia
+           Pau FC                  v Le Mans FC
+           Red Star FC             v Clermont Foot 63
+           Rodez AF                v USL Dunkerque
+           Amiens SC               v EA Guingamp
+           Stade Lavallois         v ESTAC Troyes
+           Stade de Reims          v Montpellier HSC
+
+
+» Matchday 16
+  Fri Dec/5
+           Clermont Foot 63        v US Boulogne
+           EA Guingamp             v FC Annecy
+           ESTAC Troyes            v Rodez AF
+           Grenoble Foot 38        v AS Nancy Lorraine
+           Montpellier HSC         v Pau FC
+           Le Mans FC              v Amiens SC
+           SC Bastia               v Red Star FC
+           Stade de Reims          v Stade Lavallois
+           USL Dunkerque           v AS Saint-Étienne
+
+
+» Matchday 17
+  Fri Dec/12
+           US Boulogne             v ESTAC Troyes
+           AS Nancy Lorraine       v Clermont Foot 63
+           AS Saint-Étienne        v SC Bastia
+           FC Annecy               v Le Mans FC
+           Pau FC                  v Amiens SC
+           Red Star FC             v Stade de Reims
+           Grenoble Foot 38        v Montpellier HSC
+           Rodez AF                v EA Guingamp
+           Stade Lavallois         v USL Dunkerque
+
+
+» Matchday 18
+  Fri Jan/2 2026
+           Clermont Foot 63        v Stade Lavallois
+           EA Guingamp             v US Boulogne
+           ESTAC Troyes            v Red Star FC
+           Pau FC                  v Rodez AF
+           Montpellier HSC         v USL Dunkerque
+           Le Mans FC              v AS Saint-Étienne
+           Amiens SC               v AS Nancy Lorraine
+           SC Bastia               v Grenoble Foot 38
+           Stade de Reims          v FC Annecy
+
+
+» Matchday 19
+  Fri Jan/16
+           US Boulogne             v Montpellier HSC
+           AS Nancy Lorraine       v EA Guingamp
+           AS Saint-Étienne        v Clermont Foot 63
+           ESTAC Troyes            v Stade de Reims
+           FC Annecy               v Amiens SC
+           Grenoble Foot 38        v Red Star FC
+           Rodez AF                v Le Mans FC
+           Stade Lavallois         v SC Bastia
+           USL Dunkerque           v Pau FC
+
+
+» Matchday 20
+  Fri Jan/23
+           AS Nancy Lorraine       v Rodez AF
+           EA Guingamp             v ESTAC Troyes
+           FC Annecy               v Clermont Foot 63
+           Pau FC                  v Grenoble Foot 38
+           Red Star FC             v US Boulogne
+           Le Mans FC              v USL Dunkerque
+           Amiens SC               v Stade Lavallois
+           SC Bastia               v Montpellier HSC
+           Stade de Reims          v AS Saint-Étienne
+
+
+» Matchday 21
+  Fri Jan/30
+           AS Saint-Étienne        v US Boulogne
+           Clermont Foot 63        v Stade de Reims
+           ESTAC Troyes            v Le Mans FC
+           Grenoble Foot 38        v Amiens SC
+           Montpellier HSC         v EA Guingamp
+           Rodez AF                v Red Star FC
+           SC Bastia               v AS Nancy Lorraine
+           Stade Lavallois         v Pau FC
+           USL Dunkerque           v FC Annecy
+
+
+» Matchday 22
+  Fri Feb/6
+           US Boulogne             v Rodez AF
+           AS Nancy Lorraine       v ESTAC Troyes
+           AS Saint-Étienne        v Montpellier HSC
+           FC Annecy               v Grenoble Foot 38
+           Red Star FC             v Pau FC
+           Le Mans FC              v Stade Lavallois
+           Amiens SC               v Clermont Foot 63
+           Stade de Reims          v SC Bastia
+           USL Dunkerque           v EA Guingamp
+
+
+» Matchday 23
+  Fri Feb/13
+           Clermont Foot 63        v Rodez AF
+           EA Guingamp             v AS Saint-Étienne
+           Pau FC                  v US Boulogne
+           Red Star FC             v AS Nancy Lorraine
+           Grenoble Foot 38        v Stade de Reims
+           Montpellier HSC         v Le Mans FC
+           Amiens SC               v USL Dunkerque
+           SC Bastia               v ESTAC Troyes
+           Stade Lavallois         v FC Annecy
+
+
+» Matchday 24
+  Fri Feb/20
+           US Boulogne             v Clermont Foot 63
+           AS Nancy Lorraine       v Grenoble Foot 38
+           AS Saint-Étienne        v Stade Lavallois
+           ESTAC Troyes            v Pau FC
+           FC Annecy               v Red Star FC
+           Le Mans FC              v EA Guingamp
+           Rodez AF                v Montpellier HSC
+           Stade de Reims          v Amiens SC
+           USL Dunkerque           v SC Bastia
+
+
+» Matchday 25
+  Fri Feb/27
+           Clermont Foot 63        v USL Dunkerque
+           EA Guingamp             v Rodez AF
+           Pau FC                  v AS Saint-Étienne
+           Red Star FC             v Le Mans FC
+           Grenoble Foot 38        v US Boulogne
+           Montpellier HSC         v Stade de Reims
+           Amiens SC               v ESTAC Troyes
+           SC Bastia               v FC Annecy
+           Stade Lavallois         v AS Nancy Lorraine
+
+
+» Matchday 26
+  Fri Mar/6
+           US Boulogne             v Amiens SC
+           AS Nancy Lorraine       v Montpellier HSC
+           AS Saint-Étienne        v Red Star FC
+           ESTAC Troyes            v Clermont Foot 63
+           Pau FC                  v SC Bastia
+           Le Mans FC              v FC Annecy
+           Rodez AF                v Grenoble Foot 38
+           Stade Lavallois         v EA Guingamp
+           USL Dunkerque           v Stade de Reims
+
+
+» Matchday 27
+  Fri Mar/13
+           AS Nancy Lorraine       v Le Mans FC
+           Clermont Foot 63        v Pau FC
+           EA Guingamp             v Amiens SC
+           FC Annecy               v ESTAC Troyes
+           Red Star FC             v USL Dunkerque
+           Grenoble Foot 38        v AS Saint-Étienne
+           Montpellier HSC         v Stade Lavallois
+           SC Bastia               v US Boulogne
+           Stade de Reims          v Rodez AF
+
+
+» Matchday 28
+  Fri Mar/20
+           US Boulogne             v AS Nancy Lorraine
+           AS Saint-Étienne        v FC Annecy
+           Clermont Foot 63        v Red Star FC
+           EA Guingamp             v Stade de Reims
+           ESTAC Troyes            v USL Dunkerque
+           Pau FC                  v Montpellier HSC
+           Rodez AF                v SC Bastia
+           Amiens SC               v Le Mans FC
+           Stade Lavallois         v Grenoble Foot 38
+
+
+» Matchday 29
+  Fri Apr/3
+           AS Nancy Lorraine       v AS Saint-Étienne
+           FC Annecy               v EA Guingamp
+           Red Star FC             v Stade Lavallois
+           Grenoble Foot 38        v Clermont Foot 63
+           Montpellier HSC         v ESTAC Troyes
+           Le Mans FC              v Pau FC
+           SC Bastia               v Amiens SC
+           Stade de Reims          v US Boulogne
+           USL Dunkerque           v Rodez AF
+
+
+» Matchday 30
+  Fri Apr/10
+           US Boulogne             v Le Mans FC
+           AS Saint-Étienne        v USL Dunkerque
+           Clermont Foot 63        v AS Nancy Lorraine
+           EA Guingamp             v Grenoble Foot 38
+           FC Annecy               v Montpellier HSC
+           Red Star FC             v SC Bastia
+           Rodez AF                v ESTAC Troyes
+           Amiens SC               v Pau FC
+           Stade Lavallois         v Stade de Reims
+
+
+» Matchday 31
+  Fri Apr/17
+           AS Nancy Lorraine       v FC Annecy
+           ESTAC Troyes            v US Boulogne
+           Pau FC                  v EA Guingamp
+           Montpellier HSC         v Grenoble Foot 38
+           Le Mans FC              v Clermont Foot 63
+           Rodez AF                v Amiens SC
+           SC Bastia               v AS Saint-Étienne
+           Stade de Reims          v Red Star FC
+           USL Dunkerque           v Stade Lavallois
+
+
+» Matchday 32
+  Fri Apr/24
+           US Boulogne             v USL Dunkerque
+           AS Saint-Étienne        v ESTAC Troyes
+           Clermont Foot 63        v SC Bastia
+           FC Annecy               v Pau FC
+           Red Star FC             v EA Guingamp
+           Grenoble Foot 38        v Le Mans FC
+           Amiens SC               v Montpellier HSC
+           Stade Lavallois         v Rodez AF
+           Stade de Reims          v AS Nancy Lorraine
+
+
+» Matchday 33
+  Fri May/1
+           US Boulogne             v FC Annecy
+           EA Guingamp             v SC Bastia
+           ESTAC Troyes            v Stade Lavallois
+           Pau FC                  v AS Nancy Lorraine
+           Montpellier HSC         v Clermont Foot 63
+           Le Mans FC              v Stade de Reims
+           Rodez AF                v AS Saint-Étienne
+           Amiens SC               v Red Star FC
+           USL Dunkerque           v Grenoble Foot 38
+
+
+» Matchday 34
+  Fri May/8
+           AS Nancy Lorraine       v USL Dunkerque
+           AS Saint-Étienne        v Amiens SC
+           Clermont Foot 63        v EA Guingamp
+           FC Annecy               v Rodez AF
+           Red Star FC             v Montpellier HSC
+           Grenoble Foot 38        v ESTAC Troyes
+           SC Bastia               v Le Mans FC
+           Stade Lavallois         v US Boulogne
+           Stade de Reims          v Pau FC

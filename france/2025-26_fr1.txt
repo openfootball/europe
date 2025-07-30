@@ -1,0 +1,454 @@
+= French Ligue 1 2025/26
+
+# Date       Fri Aug/15 2025 - Sat May/16 2026 (274d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/15 2025
+    20.45  Stade Rennais           v Olympique Marseille
+  Sat Aug/16
+    17.00  RC Lens                 v Olympique Lyonnais
+    19.00  AS Monaco               v Havre AC
+    21.05  OGC Nice                v Toulouse FC
+  Sun Aug/17
+    15.00  Stade Brestois 29       v Lille OSC
+    17.15  AJ Auxerre              v FC Lorient
+           FC Metz                 v RC Strasbourg
+           Angers SCO              v Paris FC
+    20.45  FC Nantes               v Paris Saint-Germain
+
+
+» Matchday 2
+  Fri Aug/22
+    20.45  Paris Saint-Germain     v Angers SCO
+  Sat Aug/23
+    17.00  Olympique Marseille     v Paris FC
+    19.00  OGC Nice                v AJ Auxerre
+    21.05  Olympique Lyonnais      v FC Metz
+  Sun Aug/24
+    15.00  FC Lorient              v Stade Rennais
+    17.00  Lille OSC               v AS Monaco
+    17.15  Havre AC                v RC Lens
+           Toulouse FC             v Stade Brestois 29
+           RC Strasbourg           v FC Nantes
+
+
+» Matchday 3
+  Fri Aug/29
+    20.45  RC Lens                 v Stade Brestois 29
+  Sat Aug/30
+    17.00  FC Lorient              v Lille OSC
+    19.00  FC Nantes               v AJ Auxerre
+    21.05  Toulouse FC             v Paris Saint-Germain
+  Sun Aug/31
+    15.00  Angers SCO              v Stade Rennais
+    17.15  Havre AC                v OGC Nice
+           AS Monaco               v RC Strasbourg
+           Paris FC                v FC Metz
+    20.45  Olympique Lyonnais      v Olympique Marseille
+
+
+» Matchday 4
+  Sun Sep/14
+           AJ Auxerre              v AS Monaco
+           FC Metz                 v Angers SCO
+           OGC Nice                v FC Nantes
+           Olympique Marseille     v FC Lorient
+           Lille OSC               v Toulouse FC
+           Paris Saint-Germain     v RC Lens
+           RC Strasbourg           v Havre AC
+           Stade Brestois 29       v Paris FC
+           Stade Rennais           v Olympique Lyonnais
+
+
+» Matchday 5
+  Sun Sep/21
+           Havre AC                v FC Lorient
+           AJ Auxerre              v Toulouse FC
+           AS Monaco               v FC Metz
+           FC Nantes               v Stade Rennais
+           Paris FC                v RC Strasbourg
+           Olympique Marseille     v Paris Saint-Germain
+           Olympique Lyonnais      v Angers SCO
+           RC Lens                 v Lille OSC
+           Stade Brestois 29       v OGC Nice
+
+
+» Matchday 6
+  Sun Sep/28
+           FC Lorient              v AS Monaco
+           FC Metz                 v Havre AC
+           Toulouse FC             v FC Nantes
+           OGC Nice                v Paris FC
+           Lille OSC               v Olympique Lyonnais
+           Paris Saint-Germain     v AJ Auxerre
+           RC Strasbourg           v Olympique Marseille
+           Angers SCO              v Stade Brestois 29
+           Stade Rennais           v RC Lens
+
+
+» Matchday 7
+  Sun Oct/5
+           Havre AC                v Stade Rennais
+           AJ Auxerre              v RC Lens
+           AS Monaco               v OGC Nice
+           FC Metz                 v Olympique Marseille
+           Paris FC                v FC Lorient
+           Olympique Lyonnais      v Toulouse FC
+           Lille OSC               v Paris Saint-Germain
+           RC Strasbourg           v Angers SCO
+           Stade Brestois 29       v FC Nantes
+
+
+» Matchday 8
+  Sun Oct/19
+           FC Lorient              v Stade Brestois 29
+           FC Nantes               v Lille OSC
+           Toulouse FC             v FC Metz
+           OGC Nice                v Olympique Lyonnais
+           Olympique Marseille     v Havre AC
+           Paris Saint-Germain     v RC Strasbourg
+           RC Lens                 v Paris FC
+           Angers SCO              v AS Monaco
+           Stade Rennais           v AJ Auxerre
+
+
+» Matchday 9
+  Sun Oct/26
+           AJ Auxerre              v Havre AC
+           AS Monaco               v Toulouse FC
+           Paris FC                v FC Nantes
+           Olympique Lyonnais      v RC Strasbourg
+           Lille OSC               v FC Metz
+           RC Lens                 v Olympique Marseille
+           Angers SCO              v FC Lorient
+           Stade Brestois 29       v Paris Saint-Germain
+           Stade Rennais           v OGC Nice
+
+
+» Matchday 10
+  Wed Oct/29
+           Havre AC                v Stade Brestois 29
+           FC Lorient              v Paris Saint-Germain
+           FC Metz                 v RC Lens
+           FC Nantes               v AS Monaco
+           Paris FC                v Olympique Lyonnais
+           Toulouse FC             v Stade Rennais
+           OGC Nice                v Lille OSC
+           Olympique Marseille     v Angers SCO
+           RC Strasbourg           v AJ Auxerre
+
+
+» Matchday 11
+  Sun Nov/2
+           AJ Auxerre              v Olympique Marseille
+           AS Monaco               v Paris FC
+           FC Nantes               v FC Metz
+           Toulouse FC             v Havre AC
+           Lille OSC               v Angers SCO
+           Paris Saint-Germain     v OGC Nice
+           RC Lens                 v FC Lorient
+           Stade Brestois 29       v Olympique Lyonnais
+           Stade Rennais           v RC Strasbourg
+
+
+» Matchday 12
+  Sun Nov/9
+           Havre AC                v FC Nantes
+           AS Monaco               v RC Lens
+           FC Lorient              v Toulouse FC
+           FC Metz                 v OGC Nice
+           Paris FC                v Stade Rennais
+           Olympique Lyonnais      v Paris Saint-Germain
+           Olympique Marseille     v Stade Brestois 29
+           RC Strasbourg           v Lille OSC
+           Angers SCO              v AJ Auxerre
+
+
+» Matchday 13
+  Sun Nov/23
+           AJ Auxerre              v Olympique Lyonnais
+           FC Nantes               v FC Lorient
+           Toulouse FC             v Angers SCO
+           OGC Nice                v Olympique Marseille
+           Lille OSC               v Paris FC
+           Paris Saint-Germain     v Havre AC
+           RC Lens                 v RC Strasbourg
+           Stade Brestois 29       v FC Metz
+           Stade Rennais           v AS Monaco
+
+
+» Matchday 14
+  Sun Nov/30
+           Havre AC                v Lille OSC
+           AS Monaco               v Paris Saint-Germain
+           FC Lorient              v OGC Nice
+           FC Metz                 v Stade Rennais
+           Paris FC                v AJ Auxerre
+           Olympique Lyonnais      v FC Nantes
+           Olympique Marseille     v Toulouse FC
+           RC Strasbourg           v Stade Brestois 29
+           Angers SCO              v RC Lens
+
+
+» Matchday 15
+  Sun Dec/7
+           Havre AC                v Paris FC
+           AJ Auxerre              v FC Metz
+           FC Lorient              v Olympique Lyonnais
+           FC Nantes               v RC Lens
+           Toulouse FC             v RC Strasbourg
+           OGC Nice                v Angers SCO
+           Lille OSC               v Olympique Marseille
+           Paris Saint-Germain     v Stade Rennais
+           Stade Brestois 29       v AS Monaco
+
+
+» Matchday 16
+  Sun Dec/14
+           AJ Auxerre              v Lille OSC
+           FC Metz                 v Paris Saint-Germain
+           Paris FC                v Toulouse FC
+           Olympique Lyonnais      v Havre AC
+           Olympique Marseille     v AS Monaco
+           RC Strasbourg           v FC Lorient
+           RC Lens                 v OGC Nice
+           Angers SCO              v FC Nantes
+           Stade Rennais           v Stade Brestois 29
+
+
+» Matchday 17
+  Sun Jan/4 2026
+           Havre AC                v Angers SCO
+           AS Monaco               v Olympique Lyonnais
+           FC Lorient              v FC Metz
+           Toulouse FC             v RC Lens
+           OGC Nice                v RC Strasbourg
+           Olympique Marseille     v FC Nantes
+           Lille OSC               v Stade Rennais
+           Paris Saint-Germain     v Paris FC
+           Stade Brestois 29       v AJ Auxerre
+
+
+» Matchday 18
+  Sun Jan/18
+           AS Monaco               v FC Lorient
+           FC Nantes               v Paris FC
+           Toulouse FC             v OGC Nice
+           Olympique Lyonnais      v Stade Brestois 29
+           Paris Saint-Germain     v Lille OSC
+           RC Strasbourg           v FC Metz
+           RC Lens                 v AJ Auxerre
+           Angers SCO              v Olympique Marseille
+           Stade Rennais           v Havre AC
+
+
+» Matchday 19
+  Sun Jan/25
+           Havre AC                v AS Monaco
+           AJ Auxerre              v Paris Saint-Germain
+           FC Metz                 v Olympique Lyonnais
+           FC Nantes               v OGC Nice
+           Paris FC                v Angers SCO
+           Olympique Marseille     v RC Lens
+           Lille OSC               v RC Strasbourg
+           Stade Brestois 29       v Toulouse FC
+           Stade Rennais           v FC Lorient
+
+
+» Matchday 20
+  Sun Feb/1
+           AS Monaco               v Stade Rennais
+           FC Lorient              v FC Nantes
+           Paris FC                v Olympique Marseille
+           Toulouse FC             v AJ Auxerre
+           OGC Nice                v Stade Brestois 29
+           Olympique Lyonnais      v Lille OSC
+           RC Strasbourg           v Paris Saint-Germain
+           RC Lens                 v Havre AC
+           Angers SCO              v FC Metz
+
+
+» Matchday 21
+  Sun Feb/8
+           Havre AC                v RC Strasbourg
+           AJ Auxerre              v Paris FC
+           FC Metz                 v Lille OSC
+           FC Nantes               v Olympique Lyonnais
+           OGC Nice                v AS Monaco
+           Paris Saint-Germain     v Olympique Marseille
+           RC Lens                 v Stade Rennais
+           Angers SCO              v Toulouse FC
+           Stade Brestois 29       v FC Lorient
+
+
+» Matchday 22
+  Sun Feb/15
+           Havre AC                v Toulouse FC
+           AS Monaco               v FC Nantes
+           FC Lorient              v Angers SCO
+           FC Metz                 v AJ Auxerre
+           Paris FC                v RC Lens
+           Olympique Lyonnais      v OGC Nice
+           Olympique Marseille     v RC Strasbourg
+           Lille OSC               v Stade Brestois 29
+           Stade Rennais           v Paris Saint-Germain
+
+
+» Matchday 23
+  Sun Feb/22
+           AJ Auxerre              v Stade Rennais
+           FC Nantes               v Havre AC
+           Toulouse FC             v Paris FC
+           OGC Nice                v FC Lorient
+           Paris Saint-Germain     v FC Metz
+           RC Strasbourg           v Olympique Lyonnais
+           RC Lens                 v AS Monaco
+           Angers SCO              v Lille OSC
+           Stade Brestois 29       v Olympique Marseille
+
+
+» Matchday 24
+  Sun Mar/1
+           Havre AC                v Paris Saint-Germain
+           AS Monaco               v Angers SCO
+           FC Lorient              v AJ Auxerre
+           FC Metz                 v Stade Brestois 29
+           Paris FC                v OGC Nice
+           Olympique Marseille     v Olympique Lyonnais
+           Lille OSC               v FC Nantes
+           RC Strasbourg           v RC Lens
+           Stade Rennais           v Toulouse FC
+
+
+» Matchday 25
+  Sun Mar/8
+           AJ Auxerre              v RC Strasbourg
+           FC Nantes               v Angers SCO
+           Toulouse FC             v Olympique Marseille
+           OGC Nice                v Stade Rennais
+           Olympique Lyonnais      v Paris FC
+           Lille OSC               v FC Lorient
+           Paris Saint-Germain     v AS Monaco
+           RC Lens                 v FC Metz
+           Stade Brestois 29       v Havre AC
+
+
+» Matchday 26
+  Sun Mar/15
+           Havre AC                v Olympique Lyonnais
+           AS Monaco               v Stade Brestois 29
+           FC Lorient              v RC Lens
+           FC Metz                 v Toulouse FC
+           Olympique Marseille     v AJ Auxerre
+           Paris Saint-Germain     v FC Nantes
+           RC Strasbourg           v Paris FC
+           Angers SCO              v OGC Nice
+           Stade Rennais           v Lille OSC
+
+
+» Matchday 27
+  Sun Mar/22
+           AJ Auxerre              v Stade Brestois 29
+           FC Nantes               v RC Strasbourg
+           Paris FC                v Havre AC
+           Toulouse FC             v FC Lorient
+           OGC Nice                v Paris Saint-Germain
+           Olympique Lyonnais      v AS Monaco
+           Olympique Marseille     v Lille OSC
+           RC Lens                 v Angers SCO
+           Stade Rennais           v FC Metz
+
+
+» Matchday 28
+  Sun Apr/5
+           Havre AC                v AJ Auxerre
+           AS Monaco               v Olympique Marseille
+           FC Lorient              v Paris FC
+           FC Metz                 v FC Nantes
+           Lille OSC               v RC Lens
+           Paris Saint-Germain     v Toulouse FC
+           RC Strasbourg           v OGC Nice
+           Angers SCO              v Olympique Lyonnais
+           Stade Brestois 29       v Stade Rennais
+
+
+» Matchday 29
+  Sun Apr/12
+           AJ Auxerre              v FC Nantes
+           Paris FC                v AS Monaco
+           Toulouse FC             v Lille OSC
+           OGC Nice                v Havre AC
+           Olympique Lyonnais      v FC Lorient
+           Olympique Marseille     v FC Metz
+           RC Lens                 v Paris Saint-Germain
+           Stade Brestois 29       v RC Strasbourg
+           Stade Rennais           v Angers SCO
+
+
+» Matchday 30
+  Sun Apr/19
+           AS Monaco               v AJ Auxerre
+           FC Lorient              v Olympique Marseille
+           FC Metz                 v Paris FC
+           FC Nantes               v Stade Brestois 29
+           Lille OSC               v OGC Nice
+           Paris Saint-Germain     v Olympique Lyonnais
+           RC Strasbourg           v Stade Rennais
+           RC Lens                 v Toulouse FC
+           Angers SCO              v Havre AC
+
+
+» Matchday 31
+  Sun Apr/26
+           Havre AC                v FC Metz
+           FC Lorient              v RC Strasbourg
+           Paris FC                v Lille OSC
+           Toulouse FC             v AS Monaco
+           Olympique Lyonnais      v AJ Auxerre
+           Olympique Marseille     v OGC Nice
+           Angers SCO              v Paris Saint-Germain
+           Stade Brestois 29       v RC Lens
+           Stade Rennais           v FC Nantes
+
+
+» Matchday 32
+  Sun May/3
+           AJ Auxerre              v Angers SCO
+           FC Metz                 v AS Monaco
+           FC Nantes               v Olympique Marseille
+           Paris FC                v Stade Brestois 29
+           OGC Nice                v RC Lens
+           Olympique Lyonnais      v Stade Rennais
+           Lille OSC               v Havre AC
+           Paris Saint-Germain     v FC Lorient
+           RC Strasbourg           v Toulouse FC
+
+
+» Matchday 33
+  Sat May/9
+           Havre AC                v Olympique Marseille
+           AJ Auxerre              v OGC Nice
+           AS Monaco               v Lille OSC
+           FC Metz                 v FC Lorient
+           Toulouse FC             v Olympique Lyonnais
+           Paris Saint-Germain     v Stade Brestois 29
+           RC Lens                 v FC Nantes
+           Angers SCO              v RC Strasbourg
+           Stade Rennais           v Paris FC
+
+
+» Matchday 34
+  Sat May/16
+           FC Lorient              v Havre AC
+           FC Nantes               v Toulouse FC
+           Paris FC                v Paris Saint-Germain
+           OGC Nice                v FC Metz
+           Olympique Lyonnais      v RC Lens
+           Olympique Marseille     v Stade Rennais
+           Lille OSC               v AJ Auxerre
+           RC Strasbourg           v AS Monaco
+           Stade Brestois 29       v Angers SCO
