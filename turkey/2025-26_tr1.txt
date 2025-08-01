@@ -1,0 +1,454 @@
+= Turkish Süper Lig 2025/26
+
+# Date       Fri Aug/8 2025 - Sun May/17 2026 (282d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/8 2025
+    21.30  Gaziantep FK            v Galatasaray
+  Sat Aug/9
+    19.00  Samsunspor              v Gençlerbirliği
+    21.30  Antalyaspor             v Kasımpaşa SK
+           Fenerbahçe              v Alanyaspor
+  Sun Aug/10
+    19.00  Eyüpspor                v Konyaspor
+           Çaykur Rizespor         v Göztepe
+    21.30  Fatih Karagümrük        v İstanbul Başakşehir
+           Kayserispor             v Beşiktaş
+  Mon Aug/11
+    21.30  Trabzonspor             v Kocaelispor
+
+
+» Matchday 2
+  Fri Aug/15
+    21.30  Galatasaray             v Fatih Karagümrük
+  Sat Aug/16
+    19.00  Kocaelispor             v Samsunspor
+    21.30  Alanyaspor              v Çaykur Rizespor
+           Göztepe                 v Fenerbahçe
+  Sun Aug/17
+    19.00  Konyaspor               v Gaziantep FK
+           Gençlerbirliği          v Antalyaspor
+    21.30  Beşiktaş                v Eyüpspor
+           İstanbul Başakşehir     v Kayserispor
+  Mon Aug/18
+    21.30  Kasımpaşa SK            v Trabzonspor
+
+
+» Matchday 3
+  Sun Aug/24
+           Eyüpspor                v Alanyaspor
+           Konyaspor               v Beşiktaş
+           Trabzonspor             v Antalyaspor
+           Samsunspor              v Kasımpaşa SK
+           Fatih Karagümrük        v Göztepe
+           Gaziantep FK            v Gençlerbirliği
+           Fenerbahçe              v Kocaelispor
+           Çaykur Rizespor         v İstanbul Başakşehir
+           Kayserispor             v Galatasaray
+
+
+» Matchday 4
+  Sun Aug/31
+           Kasımpaşa SK            v Gaziantep FK
+           Antalyaspor             v Fatih Karagümrük
+           Trabzonspor             v Samsunspor
+           Alanyaspor              v Beşiktaş
+           İstanbul Başakşehir     v Eyüpspor
+           Göztepe                 v Konyaspor
+           Galatasaray             v Çaykur Rizespor
+           Gençlerbirliği          v Fenerbahçe
+           Kocaelispor             v Kayserispor
+
+
+» Matchday 5
+  Sun Sep/14
+           Eyüpspor                v Galatasaray
+           Konyaspor               v Alanyaspor
+           Beşiktaş                v İstanbul Başakşehir
+           Samsunspor              v Antalyaspor
+           Fatih Karagümrük        v Kasımpaşa SK
+           Gaziantep FK            v Kocaelispor
+           Fenerbahçe              v Trabzonspor
+           Çaykur Rizespor         v Gençlerbirliği
+           Kayserispor             v Göztepe
+
+
+» Matchday 6
+  Sun Sep/21
+           Kasımpaşa SK            v Fenerbahçe
+           Antalyaspor             v Kayserispor
+           Trabzonspor             v Gaziantep FK
+           Samsunspor              v Fatih Karagümrük
+           İstanbul Başakşehir     v Alanyaspor
+           Göztepe                 v Beşiktaş
+           Galatasaray             v Konyaspor
+           Gençlerbirliği          v Eyüpspor
+           Kocaelispor             v Çaykur Rizespor
+
+
+» Matchday 7
+  Sun Sep/28
+           Eyüpspor                v Göztepe
+           Konyaspor               v İstanbul Başakşehir
+           Beşiktaş                v Kocaelispor
+           Alanyaspor              v Galatasaray
+           Fatih Karagümrük        v Trabzonspor
+           Gaziantep FK            v Samsunspor
+           Fenerbahçe              v Antalyaspor
+           Çaykur Rizespor         v Kasımpaşa SK
+           Kayserispor             v Gençlerbirliği
+
+
+» Matchday 8
+  Sun Oct/5
+           Kasımpaşa SK            v Konyaspor
+           Antalyaspor             v Çaykur Rizespor
+           Trabzonspor             v Kayserispor
+           Samsunspor              v Fenerbahçe
+           Fatih Karagümrük        v Gaziantep FK
+           Göztepe                 v İstanbul Başakşehir
+           Galatasaray             v Beşiktaş
+           Gençlerbirliği          v Alanyaspor
+           Kocaelispor             v Eyüpspor
+
+
+» Matchday 9
+  Sun Oct/19
+           Eyüpspor                v Kasımpaşa SK
+           Konyaspor               v Kocaelispor
+           Beşiktaş                v Gençlerbirliği
+           Alanyaspor              v Göztepe
+           İstanbul Başakşehir     v Galatasaray
+           Gaziantep FK            v Antalyaspor
+           Fenerbahçe              v Fatih Karagümrük
+           Çaykur Rizespor         v Trabzonspor
+           Kayserispor             v Samsunspor
+
+
+» Matchday 10
+  Sun Oct/26
+           Kasımpaşa SK            v Beşiktaş
+           Antalyaspor             v İstanbul Başakşehir
+           Trabzonspor             v Eyüpspor
+           Samsunspor              v Çaykur Rizespor
+           Fatih Karagümrük        v Kayserispor
+           Gaziantep FK            v Fenerbahçe
+           Galatasaray             v Göztepe
+           Gençlerbirliği          v Konyaspor
+           Kocaelispor             v Alanyaspor
+
+
+» Matchday 11
+  Sun Nov/2
+           Eyüpspor                v Antalyaspor
+           Konyaspor               v Samsunspor
+           Beşiktaş                v Fenerbahçe
+           Alanyaspor              v Gaziantep FK
+           İstanbul Başakşehir     v Kocaelispor
+           Göztepe                 v Gençlerbirliği
+           Galatasaray             v Trabzonspor
+           Çaykur Rizespor         v Fatih Karagümrük
+           Kayserispor             v Kasımpaşa SK
+
+
+» Matchday 12
+  Sun Nov/9
+           Kasımpaşa SK            v Göztepe
+           Antalyaspor             v Beşiktaş
+           Trabzonspor             v Alanyaspor
+           Samsunspor              v Eyüpspor
+           Fatih Karagümrük        v Konyaspor
+           Gaziantep FK            v Çaykur Rizespor
+           Fenerbahçe              v Kayserispor
+           Gençlerbirliği          v İstanbul Başakşehir
+           Kocaelispor             v Galatasaray
+
+
+» Matchday 13
+  Sun Nov/23
+           Eyüpspor                v Fatih Karagümrük
+           Konyaspor               v Antalyaspor
+           Beşiktaş                v Samsunspor
+           Alanyaspor              v Kasımpaşa SK
+           İstanbul Başakşehir     v Trabzonspor
+           Göztepe                 v Kocaelispor
+           Galatasaray             v Gençlerbirliği
+           Çaykur Rizespor         v Fenerbahçe
+           Kayserispor             v Gaziantep FK
+
+
+» Matchday 14
+  Sun Nov/30
+           Kasımpaşa SK            v İstanbul Başakşehir
+           Antalyaspor             v Göztepe
+           Trabzonspor             v Konyaspor
+           Samsunspor              v Alanyaspor
+           Fatih Karagümrük        v Beşiktaş
+           Gaziantep FK            v Eyüpspor
+           Fenerbahçe              v Galatasaray
+           Çaykur Rizespor         v Kayserispor
+           Kocaelispor             v Gençlerbirliği
+
+
+» Matchday 15
+  Sun Dec/7
+           Eyüpspor                v Kayserispor
+           Konyaspor               v Çaykur Rizespor
+           Beşiktaş                v Gaziantep FK
+           Alanyaspor              v Antalyaspor
+           İstanbul Başakşehir     v Fenerbahçe
+           Göztepe                 v Trabzonspor
+           Galatasaray             v Samsunspor
+           Gençlerbirliği          v Fatih Karagümrük
+           Kocaelispor             v Kasımpaşa SK
+
+
+» Matchday 16
+  Sun Dec/14
+           Kasımpaşa SK            v Gençlerbirliği
+           Antalyaspor             v Galatasaray
+           Trabzonspor             v Beşiktaş
+           Samsunspor              v İstanbul Başakşehir
+           Fatih Karagümrük        v Kocaelispor
+           Gaziantep FK            v Göztepe
+           Fenerbahçe              v Konyaspor
+           Çaykur Rizespor         v Eyüpspor
+           Kayserispor             v Alanyaspor
+
+
+» Matchday 17
+  Sun Dec/21
+           Eyüpspor                v Fenerbahçe
+           Konyaspor               v Kayserispor
+           Beşiktaş                v Çaykur Rizespor
+           Alanyaspor              v Fatih Karagümrük
+           İstanbul Başakşehir     v Gaziantep FK
+           Göztepe                 v Samsunspor
+           Galatasaray             v Kasımpaşa SK
+           Gençlerbirliği          v Trabzonspor
+           Kocaelispor             v Antalyaspor
+
+
+» Matchday 18
+  Sun Jan/18 2026
+           Konyaspor               v Eyüpspor
+           Kasımpaşa SK            v Antalyaspor
+           Kocaelispor             v Trabzonspor
+           Gençlerbirliği          v Samsunspor
+           İstanbul Başakşehir     v Fatih Karagümrük
+           Galatasaray             v Gaziantep FK
+           Alanyaspor              v Fenerbahçe
+           Göztepe                 v Çaykur Rizespor
+           Beşiktaş                v Kayserispor
+
+
+» Matchday 19
+  Sun Jan/25
+           Trabzonspor             v Kasımpaşa SK
+           Gaziantep FK            v Konyaspor
+           Eyüpspor                v Beşiktaş
+           Çaykur Rizespor         v Alanyaspor
+           Kayserispor             v İstanbul Başakşehir
+           Fenerbahçe              v Göztepe
+           Fatih Karagümrük        v Galatasaray
+           Antalyaspor             v Gençlerbirliği
+           Samsunspor              v Kocaelispor
+
+
+» Matchday 20
+  Sun Feb/1
+           Alanyaspor              v Eyüpspor
+           Beşiktaş                v Konyaspor
+           Antalyaspor             v Trabzonspor
+           Kasımpaşa SK            v Samsunspor
+           Göztepe                 v Fatih Karagümrük
+           Gençlerbirliği          v Gaziantep FK
+           Kocaelispor             v Fenerbahçe
+           İstanbul Başakşehir     v Çaykur Rizespor
+           Galatasaray             v Kayserispor
+
+
+» Matchday 21
+  Sun Feb/8
+           Gaziantep FK            v Kasımpaşa SK
+           Fatih Karagümrük        v Antalyaspor
+           Samsunspor              v Trabzonspor
+           Beşiktaş                v Alanyaspor
+           Eyüpspor                v İstanbul Başakşehir
+           Konyaspor               v Göztepe
+           Çaykur Rizespor         v Galatasaray
+           Fenerbahçe              v Gençlerbirliği
+           Kayserispor             v Kocaelispor
+
+
+» Matchday 22
+  Sun Feb/15
+           Galatasaray             v Eyüpspor
+           Alanyaspor              v Konyaspor
+           İstanbul Başakşehir     v Beşiktaş
+           Antalyaspor             v Samsunspor
+           Kasımpaşa SK            v Fatih Karagümrük
+           Kocaelispor             v Gaziantep FK
+           Trabzonspor             v Fenerbahçe
+           Gençlerbirliği          v Çaykur Rizespor
+           Göztepe                 v Kayserispor
+
+
+» Matchday 23
+  Sun Feb/22
+           Fenerbahçe              v Kasımpaşa SK
+           Kayserispor             v Antalyaspor
+           Gaziantep FK            v Trabzonspor
+           Fatih Karagümrük        v Samsunspor
+           Alanyaspor              v İstanbul Başakşehir
+           Beşiktaş                v Göztepe
+           Konyaspor               v Galatasaray
+           Eyüpspor                v Gençlerbirliği
+           Çaykur Rizespor         v Kocaelispor
+
+
+» Matchday 24
+  Sun Mar/1
+           Göztepe                 v Eyüpspor
+           İstanbul Başakşehir     v Konyaspor
+           Kocaelispor             v Beşiktaş
+           Galatasaray             v Alanyaspor
+           Trabzonspor             v Fatih Karagümrük
+           Samsunspor              v Gaziantep FK
+           Antalyaspor             v Fenerbahçe
+           Kasımpaşa SK            v Çaykur Rizespor
+           Gençlerbirliği          v Kayserispor
+
+
+» Matchday 25
+  Sun Mar/8
+           Konyaspor               v Kasımpaşa SK
+           Çaykur Rizespor         v Antalyaspor
+           Kayserispor             v Trabzonspor
+           Fenerbahçe              v Samsunspor
+           Gaziantep FK            v Fatih Karagümrük
+           İstanbul Başakşehir     v Göztepe
+           Beşiktaş                v Galatasaray
+           Alanyaspor              v Gençlerbirliği
+           Eyüpspor                v Kocaelispor
+
+
+» Matchday 26
+  Sun Mar/15
+           Kasımpaşa SK            v Eyüpspor
+           Kocaelispor             v Konyaspor
+           Gençlerbirliği          v Beşiktaş
+           Göztepe                 v Alanyaspor
+           Galatasaray             v İstanbul Başakşehir
+           Antalyaspor             v Gaziantep FK
+           Fatih Karagümrük        v Fenerbahçe
+           Trabzonspor             v Çaykur Rizespor
+           Samsunspor              v Kayserispor
+
+
+» Matchday 27
+  Sun Mar/22
+           Beşiktaş                v Kasımpaşa SK
+           İstanbul Başakşehir     v Antalyaspor
+           Eyüpspor                v Trabzonspor
+           Çaykur Rizespor         v Samsunspor
+           Kayserispor             v Fatih Karagümrük
+           Fenerbahçe              v Gaziantep FK
+           Göztepe                 v Galatasaray
+           Konyaspor               v Gençlerbirliği
+           Alanyaspor              v Kocaelispor
+
+
+» Matchday 28
+  Sun Apr/5
+           Antalyaspor             v Eyüpspor
+           Samsunspor              v Konyaspor
+           Fenerbahçe              v Beşiktaş
+           Gaziantep FK            v Alanyaspor
+           Kocaelispor             v İstanbul Başakşehir
+           Gençlerbirliği          v Göztepe
+           Trabzonspor             v Galatasaray
+           Fatih Karagümrük        v Çaykur Rizespor
+           Kasımpaşa SK            v Kayserispor
+
+
+» Matchday 29
+  Sun Apr/12
+           Göztepe                 v Kasımpaşa SK
+           Beşiktaş                v Antalyaspor
+           Alanyaspor              v Trabzonspor
+           Eyüpspor                v Samsunspor
+           Konyaspor               v Fatih Karagümrük
+           Çaykur Rizespor         v Gaziantep FK
+           Kayserispor             v Fenerbahçe
+           İstanbul Başakşehir     v Gençlerbirliği
+           Galatasaray             v Kocaelispor
+
+
+» Matchday 30
+  Sun Apr/19
+           Fatih Karagümrük        v Eyüpspor
+           Antalyaspor             v Konyaspor
+           Samsunspor              v Beşiktaş
+           Kasımpaşa SK            v Alanyaspor
+           Trabzonspor             v İstanbul Başakşehir
+           Kocaelispor             v Göztepe
+           Gençlerbirliği          v Galatasaray
+           Fenerbahçe              v Çaykur Rizespor
+           Gaziantep FK            v Kayserispor
+
+
+» Matchday 31
+  Sun Apr/26
+           İstanbul Başakşehir     v Kasımpaşa SK
+           Göztepe                 v Antalyaspor
+           Konyaspor               v Trabzonspor
+           Alanyaspor              v Samsunspor
+           Beşiktaş                v Fatih Karagümrük
+           Eyüpspor                v Gaziantep FK
+           Galatasaray             v Fenerbahçe
+           Kayserispor             v Çaykur Rizespor
+           Gençlerbirliği          v Kocaelispor
+
+
+» Matchday 32
+  Sun May/3
+           Kayserispor             v Eyüpspor
+           Çaykur Rizespor         v Konyaspor
+           Gaziantep FK            v Beşiktaş
+           Antalyaspor             v Alanyaspor
+           Fenerbahçe              v İstanbul Başakşehir
+           Trabzonspor             v Göztepe
+           Samsunspor              v Galatasaray
+           Fatih Karagümrük        v Gençlerbirliği
+           Kasımpaşa SK            v Kocaelispor
+
+
+» Matchday 33
+  Sun May/10
+           Gençlerbirliği          v Kasımpaşa SK
+           Galatasaray             v Antalyaspor
+           Beşiktaş                v Trabzonspor
+           İstanbul Başakşehir     v Samsunspor
+           Kocaelispor             v Fatih Karagümrük
+           Göztepe                 v Gaziantep FK
+           Konyaspor               v Fenerbahçe
+           Eyüpspor                v Çaykur Rizespor
+           Alanyaspor              v Kayserispor
+
+
+» Matchday 34
+  Sun May/17
+           Fenerbahçe              v Eyüpspor
+           Kayserispor             v Konyaspor
+           Çaykur Rizespor         v Beşiktaş
+           Fatih Karagümrük        v Alanyaspor
+           Gaziantep FK            v İstanbul Başakşehir
+           Samsunspor              v Göztepe
+           Kasımpaşa SK            v Galatasaray
+           Trabzonspor             v Gençlerbirliği
+           Antalyaspor             v Kocaelispor

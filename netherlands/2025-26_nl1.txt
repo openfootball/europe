@@ -1,0 +1,469 @@
+= Netherlands Eredivisie 2025/26
+
+# Date       Fri Aug/8 2025 - Sun May/17 2026 (282d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/8 2025
+    20.00  Fortuna Sittard         v Go Ahead Eagles
+  Sat Aug/9
+    16.30  NEC Nijmegen            v SBV Excelsior
+    18.45  Feyenoord               v NAC Breda
+    20.00  sc Heerenveen           v FC Volendam
+    21.00  PSV Eindhoven           v Sparta Rotterdam
+  Sun Aug/10
+    12.15  PEC Zwolle              v FC Twente
+    14.30  AFC Ajax                v Telstar
+           AZ Alkmaar              v FC Groningen
+    16.45  FC Utrecht              v Heracles Almelo
+
+
+» Matchday 2
+  Fri Aug/15
+    20.00  Telstar                 v PEC Zwolle
+  Sat Aug/16
+    18.45  SBV Excelsior           v Feyenoord
+    20.00  Heracles Almelo         v NEC Nijmegen
+    21.00  FC Groningen            v sc Heerenveen
+  Sun Aug/17
+    12.15  Go Ahead Eagles         v AFC Ajax
+    14.30  Sparta Rotterdam        v FC Utrecht
+           FC Twente               v PSV Eindhoven
+    16.45  FC Volendam             v AZ Alkmaar
+    20.00  NAC Breda               v Fortuna Sittard
+
+
+» Matchday 3
+  Sat Aug/23
+    16.30  Go Ahead Eagles         v Sparta Rotterdam
+    18.45  PSV Eindhoven           v FC Groningen
+    21.00  Telstar                 v FC Volendam
+  Sun Aug/24
+    12.15  AZ Alkmaar              v PEC Zwolle
+           sc Heerenveen           v FC Twente
+    14.30  FC Utrecht              v SBV Excelsior
+           NEC Nijmegen            v NAC Breda
+    16.45  AFC Ajax                v Heracles Almelo
+  Wed Sep/17
+    20.00  Feyenoord               v Fortuna Sittard
+
+
+» Matchday 4
+  Fri Aug/29
+    20.00  FC Groningen            v Heracles Almelo
+  Sat Aug/30
+    16.30  FC Volendam             v AFC Ajax
+    18.45  sc Heerenveen           v Go Ahead Eagles
+    20.00  PSV Eindhoven           v Telstar
+    21.00  SBV Excelsior           v FC Twente
+  Sun Aug/31
+    12.15  Fortuna Sittard         v NEC Nijmegen
+    14.30  PEC Zwolle              v FC Utrecht
+           Sparta Rotterdam        v Feyenoord
+    16.45  NAC Breda               v AZ Alkmaar
+
+
+» Matchday 5
+  Sat Sep/13
+    16.30  AFC Ajax                v PEC Zwolle
+    18.45  Go Ahead Eagles         v FC Volendam
+           NEC Nijmegen            v PSV Eindhoven
+    21.00  Feyenoord               v sc Heerenveen
+           FC Twente               v NAC Breda
+  Sun Sep/14
+    12.15  SBV Excelsior           v Sparta Rotterdam
+    14.30  FC Utrecht              v FC Groningen
+           Heracles Almelo         v AZ Alkmaar
+    16.45  Telstar                 v Fortuna Sittard
+
+
+» Matchday 6
+  Fri Sep/19
+    20.00  Sparta Rotterdam        v FC Twente
+  Sat Sep/20
+    16.30  FC Volendam             v SBV Excelsior
+    18.45  FC Groningen            v Telstar
+    20.00  Fortuna Sittard         v FC Utrecht
+    21.00  NAC Breda               v Heracles Almelo
+  Sun Sep/21
+    12.15  PEC Zwolle              v Go Ahead Eagles
+    14.30  PSV Eindhoven           v AFC Ajax
+           sc Heerenveen           v NEC Nijmegen
+    16.45  AZ Alkmaar              v Feyenoord
+
+
+» Matchday 7
+  Fri Sep/26
+    20.00  FC Twente               v Fortuna Sittard
+  Sat Sep/27
+    16.30  FC Groningen            v Feyenoord
+    18.45  AFC Ajax                v NAC Breda
+    20.00  FC Volendam             v PEC Zwolle
+    21.00  SBV Excelsior           v PSV Eindhoven
+  Sun Sep/28
+    12.15  NEC Nijmegen            v AZ Alkmaar
+    14.30  FC Utrecht              v sc Heerenveen
+           Heracles Almelo         v Sparta Rotterdam
+    16.45  Telstar                 v Go Ahead Eagles
+
+
+» Matchday 8
+  Fri Oct/3
+    20.00  NAC Breda               v FC Groningen
+  Sat Oct/4
+    16.30  Sparta Rotterdam        v AFC Ajax
+    18.45  Fortuna Sittard         v FC Volendam
+    20.00  PEC Zwolle              v PSV Eindhoven
+    21.00  sc Heerenveen           v SBV Excelsior
+  Sun Oct/5
+    12.15  FC Twente               v Heracles Almelo
+    14.30  AZ Alkmaar              v Telstar
+           Feyenoord               v FC Utrecht
+    16.45  Go Ahead Eagles         v NEC Nijmegen
+
+
+» Matchday 9
+  Sat Oct/18
+    16.30  Heracles Almelo         v Feyenoord
+    18.45  FC Utrecht              v FC Volendam
+           PSV Eindhoven           v Go Ahead Eagles
+    21.00  AFC Ajax                v AZ Alkmaar
+           NAC Breda               v PEC Zwolle
+  Sun Oct/19
+    12.15  Telstar                 v sc Heerenveen
+    14.30  FC Groningen            v Sparta Rotterdam
+           SBV Excelsior           v Fortuna Sittard
+    16.45  NEC Nijmegen            v FC Twente
+
+
+» Matchday 10
+  Fri Oct/24
+    20.00  sc Heerenveen           v NAC Breda
+  Sat Oct/25
+    16.30  Fortuna Sittard         v FC Groningen
+    18.45  FC Volendam             v Heracles Almelo
+    20.00  Sparta Rotterdam        v Telstar
+    21.00  PEC Zwolle              v NEC Nijmegen
+  Sun Oct/26
+    12.15  FC Twente               v AFC Ajax
+    14.30  Feyenoord               v PSV Eindhoven
+           Go Ahead Eagles         v SBV Excelsior
+    16.45  AZ Alkmaar              v FC Utrecht
+
+
+» Matchday 11
+  Sat Nov/1
+    16.30  PSV Eindhoven           v Fortuna Sittard
+    18.45  Feyenoord               v FC Volendam
+           NAC Breda               v Go Ahead Eagles
+    21.00  AFC Ajax                v sc Heerenveen
+           Telstar                 v SBV Excelsior
+  Sun Nov/2
+    12.15  Heracles Almelo         v PEC Zwolle
+    14.30  FC Groningen            v FC Twente
+           Sparta Rotterdam        v AZ Alkmaar
+    16.45  FC Utrecht              v NEC Nijmegen
+
+
+» Matchday 12
+  Fri Nov/7
+    20.00  FC Twente               v Telstar
+  Sat Nov/8
+    16.30  SBV Excelsior           v Heracles Almelo
+    18.45  FC Volendam             v NAC Breda
+    20.00  Fortuna Sittard         v sc Heerenveen
+    21.00  PEC Zwolle              v Sparta Rotterdam
+  Sun Nov/9
+    12.15  FC Utrecht              v AFC Ajax
+    14.30  AZ Alkmaar              v PSV Eindhoven
+           NEC Nijmegen            v FC Groningen
+    16.45  Go Ahead Eagles         v Feyenoord
+
+
+» Matchday 13
+  Sat Nov/22
+           AFC Ajax                v SBV Excelsior
+           FC Groningen            v PEC Zwolle
+           FC Volendam             v FC Twente
+           Feyenoord               v NEC Nijmegen
+           Heracles Almelo         v Go Ahead Eagles
+           NAC Breda               v PSV Eindhoven
+           sc Heerenveen           v AZ Alkmaar
+           Sparta Rotterdam        v Fortuna Sittard
+           Telstar                 v FC Utrecht
+
+
+» Matchday 14
+  Sat Nov/29
+           AFC Ajax                v FC Groningen
+           SBV Excelsior           v NAC Breda
+           Fortuna Sittard         v Heracles Almelo
+           Go Ahead Eagles         v FC Utrecht
+           NEC Nijmegen            v Sparta Rotterdam
+           PEC Zwolle              v sc Heerenveen
+           PSV Eindhoven           v FC Volendam
+           Telstar                 v Feyenoord
+           FC Twente               v AZ Alkmaar
+
+
+» Matchday 15
+  Sat Dec/6
+           AZ Alkmaar              v Go Ahead Eagles
+           SBV Excelsior           v FC Groningen
+           FC Utrecht              v FC Twente
+           FC Volendam             v NEC Nijmegen
+           Feyenoord               v PEC Zwolle
+           Fortuna Sittard         v AFC Ajax
+           Heracles Almelo         v Telstar
+           sc Heerenveen           v PSV Eindhoven
+           Sparta Rotterdam        v NAC Breda
+
+
+» Matchday 16
+  Sat Dec/13
+           AFC Ajax                v Feyenoord
+           AZ Alkmaar              v SBV Excelsior
+           FC Groningen            v FC Volendam
+           NAC Breda               v FC Utrecht
+           PEC Zwolle              v Fortuna Sittard
+           PSV Eindhoven           v Heracles Almelo
+           Sparta Rotterdam        v sc Heerenveen
+           Telstar                 v NEC Nijmegen
+           FC Twente               v Go Ahead Eagles
+
+
+» Matchday 17
+  Sat Dec/20
+           SBV Excelsior           v PEC Zwolle
+           FC Utrecht              v PSV Eindhoven
+           FC Volendam             v Sparta Rotterdam
+           Feyenoord               v FC Twente
+           Fortuna Sittard         v AZ Alkmaar
+           Go Ahead Eagles         v FC Groningen
+           Heracles Almelo         v sc Heerenveen
+           NAC Breda               v Telstar
+           NEC Nijmegen            v AFC Ajax
+
+
+» Matchday 18
+  Sat Jan/10 2026
+           AZ Alkmaar              v FC Volendam
+           FC Groningen            v NAC Breda
+           Go Ahead Eagles         v Fortuna Sittard
+           NEC Nijmegen            v FC Utrecht
+           PSV Eindhoven           v SBV Excelsior
+           sc Heerenveen           v Feyenoord
+           Sparta Rotterdam        v Heracles Almelo
+           Telstar                 v AFC Ajax
+           FC Twente               v PEC Zwolle
+
+
+» Matchday 19
+  Sat Jan/17
+           AFC Ajax                v Go Ahead Eagles
+           SBV Excelsior           v Telstar
+           FC Volendam             v FC Utrecht
+           Feyenoord               v Sparta Rotterdam
+           Fortuna Sittard         v PSV Eindhoven
+           Heracles Almelo         v FC Twente
+           NAC Breda               v NEC Nijmegen
+           PEC Zwolle              v AZ Alkmaar
+           sc Heerenveen           v FC Groningen
+
+
+» Matchday 20
+  Sat Jan/24
+           AFC Ajax                v FC Volendam
+           FC Groningen            v Fortuna Sittard
+           FC Utrecht              v Sparta Rotterdam
+           Feyenoord               v Heracles Almelo
+           Go Ahead Eagles         v sc Heerenveen
+           NEC Nijmegen            v PEC Zwolle
+           PSV Eindhoven           v NAC Breda
+           Telstar                 v AZ Alkmaar
+           FC Twente               v SBV Excelsior
+
+
+» Matchday 21
+  Sat Jan/31
+           AZ Alkmaar              v NEC Nijmegen
+           SBV Excelsior           v AFC Ajax
+           FC Volendam             v Go Ahead Eagles
+           Heracles Almelo         v Fortuna Sittard
+           NAC Breda               v FC Twente
+           PEC Zwolle              v Telstar
+           PSV Eindhoven           v Feyenoord
+           sc Heerenveen           v FC Utrecht
+           Sparta Rotterdam        v FC Groningen
+
+
+» Matchday 22
+  Sat Feb/7
+           AZ Alkmaar              v AFC Ajax
+           FC Groningen            v PSV Eindhoven
+           FC Utrecht              v Feyenoord
+           Fortuna Sittard         v Sparta Rotterdam
+           Go Ahead Eagles         v Telstar
+           NAC Breda               v SBV Excelsior
+           NEC Nijmegen            v Heracles Almelo
+           PEC Zwolle              v FC Volendam
+           FC Twente               v sc Heerenveen
+
+
+» Matchday 23
+  Sat Feb/14
+           AFC Ajax                v Fortuna Sittard
+           SBV Excelsior           v AZ Alkmaar
+           FC Groningen            v FC Utrecht
+           FC Volendam             v PSV Eindhoven
+           Feyenoord               v Go Ahead Eagles
+           Heracles Almelo         v NAC Breda
+           sc Heerenveen           v PEC Zwolle
+           Sparta Rotterdam        v NEC Nijmegen
+           Telstar                 v FC Twente
+
+
+» Matchday 24
+  Sat Feb/21
+           AFC Ajax                v NEC Nijmegen
+           AZ Alkmaar              v Sparta Rotterdam
+           FC Utrecht              v PEC Zwolle
+           Feyenoord               v Telstar
+           Fortuna Sittard         v SBV Excelsior
+           Go Ahead Eagles         v Heracles Almelo
+           NAC Breda               v FC Volendam
+           PSV Eindhoven           v sc Heerenveen
+           FC Twente               v FC Groningen
+
+
+» Matchday 25
+  Sat Feb/28
+           SBV Excelsior           v Go Ahead Eagles
+           FC Utrecht              v AZ Alkmaar
+           FC Volendam             v FC Groningen
+           Heracles Almelo         v PSV Eindhoven
+           NEC Nijmegen            v Fortuna Sittard
+           PEC Zwolle              v AFC Ajax
+           sc Heerenveen           v Sparta Rotterdam
+           Telstar                 v NAC Breda
+           FC Twente               v Feyenoord
+
+
+» Matchday 26
+  Sat Mar/7
+           SBV Excelsior           v sc Heerenveen
+           FC Groningen            v AFC Ajax
+           Fortuna Sittard         v Telstar
+           Go Ahead Eagles         v FC Twente
+           Heracles Almelo         v FC Utrecht
+           NAC Breda               v Feyenoord
+           NEC Nijmegen            v FC Volendam
+           PSV Eindhoven           v AZ Alkmaar
+           Sparta Rotterdam        v PEC Zwolle
+
+
+» Matchday 27
+  Sat Mar/14
+           AFC Ajax                v Sparta Rotterdam
+           AZ Alkmaar              v Heracles Almelo
+           FC Volendam             v Fortuna Sittard
+           Feyenoord               v SBV Excelsior
+           Go Ahead Eagles         v NAC Breda
+           PEC Zwolle              v FC Groningen
+           PSV Eindhoven           v NEC Nijmegen
+           sc Heerenveen           v Telstar
+           FC Twente               v FC Utrecht
+
+
+» Matchday 28
+  Sat Mar/21
+           FC Groningen            v AZ Alkmaar
+           FC Utrecht              v Go Ahead Eagles
+           Feyenoord               v AFC Ajax
+           Fortuna Sittard         v FC Twente
+           Heracles Almelo         v SBV Excelsior
+           NEC Nijmegen            v sc Heerenveen
+           PEC Zwolle              v NAC Breda
+           Sparta Rotterdam        v FC Volendam
+           Telstar                 v PSV Eindhoven
+
+
+» Matchday 29
+  Sat Apr/4
+           AFC Ajax                v FC Twente
+           AZ Alkmaar              v Fortuna Sittard
+           SBV Excelsior           v NEC Nijmegen
+           FC Volendam             v Feyenoord
+           Go Ahead Eagles         v PEC Zwolle
+           NAC Breda               v Sparta Rotterdam
+           PSV Eindhoven           v FC Utrecht
+           sc Heerenveen           v Heracles Almelo
+           Telstar                 v FC Groningen
+
+
+» Matchday 30
+  Sat Apr/11
+           AZ Alkmaar              v sc Heerenveen
+           FC Groningen            v Go Ahead Eagles
+           FC Utrecht              v Telstar
+           Fortuna Sittard         v NAC Breda
+           Heracles Almelo         v AFC Ajax
+           NEC Nijmegen            v Feyenoord
+           PEC Zwolle              v SBV Excelsior
+           Sparta Rotterdam        v PSV Eindhoven
+           FC Twente               v FC Volendam
+
+
+» Matchday 31
+  Thu Apr/23
+           SBV Excelsior           v FC Utrecht
+           Feyenoord               v FC Groningen
+           Go Ahead Eagles         v AZ Alkmaar
+           Heracles Almelo         v FC Volendam
+           NAC Breda               v AFC Ajax
+           PSV Eindhoven           v PEC Zwolle
+           sc Heerenveen           v Fortuna Sittard
+           Telstar                 v Sparta Rotterdam
+           FC Twente               v NEC Nijmegen
+
+
+» Matchday 32
+  Sat May/2
+           AFC Ajax                v PSV Eindhoven
+           AZ Alkmaar              v FC Twente
+           FC Groningen            v SBV Excelsior
+           FC Utrecht              v NAC Breda
+           FC Volendam             v sc Heerenveen
+           Fortuna Sittard         v Feyenoord
+           NEC Nijmegen            v Telstar
+           PEC Zwolle              v Heracles Almelo
+           Sparta Rotterdam        v Go Ahead Eagles
+
+
+» Matchday 33
+  Sun May/10
+    16.45  AFC Ajax                v FC Utrecht
+           SBV Excelsior           v FC Volendam
+           FC Groningen            v NEC Nijmegen
+           Feyenoord               v AZ Alkmaar
+           Fortuna Sittard         v PEC Zwolle
+           Go Ahead Eagles         v PSV Eindhoven
+           NAC Breda               v sc Heerenveen
+           Telstar                 v Heracles Almelo
+           FC Twente               v Sparta Rotterdam
+
+
+» Matchday 34
+  Sun May/17
+    14.30  AZ Alkmaar              v NAC Breda
+           FC Utrecht              v Fortuna Sittard
+           FC Volendam             v Telstar
+           Heracles Almelo         v FC Groningen
+           NEC Nijmegen            v Go Ahead Eagles
+           PEC Zwolle              v Feyenoord
+           PSV Eindhoven           v FC Twente
+           sc Heerenveen           v AFC Ajax
+           Sparta Rotterdam        v SBV Excelsior

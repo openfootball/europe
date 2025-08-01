@@ -1,0 +1,292 @@
+= Greek Super League 2025/26
+
+# Date       Sat Aug/23 2025 - Sat Mar/21 2026 (210d)
+# Teams      14
+# Matches    182
+
+
+
+» Matchday 1
+  Sat Aug/23 2025
+           AEK Athen               v Panserraikos
+           Aris Saloniki           v Volos NFC
+           Levadiakos              v AE Kifisias
+           Olympiakos Piraeus      v Asteras Tripolis
+           Panathinaikos           v OFI Heraklion
+           Panetolikos             v Atromitos
+           PAOK Saloniki           v AE Lárissa
+
+
+» Matchday 2
+  Sat Aug/30
+           AEK Athen               v Asteras Tripolis
+           AE Lárissa              v AE Kifisias
+           Aris Saloniki           v Panetolikos
+           Volos NFC               v Olympiakos Piraeus
+           Panathinaikos           v Levadiakos
+           Panserraikos            v OFI Heraklion
+           PAOK Saloniki           v Atromitos
+
+
+» Matchday 3
+  Sat Sep/13
+           Asteras Tripolis        v AE Lárissa
+           Atromitos               v Aris Saloniki
+           AE Kifisias             v Panathinaikos
+           Levadiakos              v AEK Athen
+           Olympiakos Piraeus      v Panserraikos
+           OFI Heraklion           v PAOK Saloniki
+           Panetolikos             v Volos NFC
+
+
+» Matchday 4
+  Sat Sep/20
+           AE Lárissa              v AEK Athen
+           Volos NFC               v Asteras Tripolis
+           AE Kifisias             v Aris Saloniki
+           Levadiakos              v OFI Heraklion
+           Panathinaikos           v Olympiakos Piraeus
+           Panserraikos            v Atromitos
+           PAOK Saloniki           v Panetolikos
+
+
+» Matchday 5
+  Sat Sep/27
+           AEK Athen               v Volos NFC
+           Asteras Tripolis        v PAOK Saloniki
+           Aris Saloniki           v Panserraikos
+           Atromitos               v AE Lárissa
+           Olympiakos Piraeus      v Levadiakos
+           OFI Heraklion           v AE Kifisias
+           Panetolikos             v Panathinaikos
+
+
+» Matchday 6
+  Sat Oct/4
+           AE Lárissa              v Volos NFC
+           AE Kifisias             v AEK Athen
+           Levadiakos              v Panetolikos
+           OFI Heraklion           v Aris Saloniki
+           Panathinaikos           v Atromitos
+           Panserraikos            v Asteras Tripolis
+           PAOK Saloniki           v Olympiakos Piraeus
+
+
+» Matchday 7
+  Sat Oct/18
+           AEK Athen               v PAOK Saloniki
+           Asteras Tripolis        v AE Kifisias
+           AE Lárissa              v Olympiakos Piraeus
+           Aris Saloniki           v Panathinaikos
+           Atromitos               v Levadiakos
+           Volos NFC               v Panserraikos
+           Panetolikos             v OFI Heraklion
+
+
+» Matchday 8
+  Sat Oct/25
+           AE Kifisias             v Panetolikos
+           Levadiakos              v Aris Saloniki
+           Olympiakos Piraeus      v AEK Athen
+           OFI Heraklion           v Atromitos
+           Panathinaikos           v Asteras Tripolis
+           Panserraikos            v AE Lárissa
+           PAOK Saloniki           v Volos NFC
+
+
+» Matchday 9
+  Sat Nov/1
+           AEK Athen               v Panetolikos
+           Asteras Tripolis        v OFI Heraklion
+           AE Lárissa              v Levadiakos
+           Atromitos               v AE Kifisias
+           Volos NFC               v Panathinaikos
+           Olympiakos Piraeus      v Aris Saloniki
+           Panserraikos            v PAOK Saloniki
+
+
+» Matchday 10
+  Sat Nov/8
+           Aris Saloniki           v Asteras Tripolis
+           Atromitos               v Volos NFC
+           AE Kifisias             v Olympiakos Piraeus
+           Levadiakos              v Panserraikos
+           OFI Heraklion           v AEK Athen
+           Panathinaikos           v PAOK Saloniki
+           Panetolikos             v AE Lárissa
+
+
+» Matchday 11
+  Sat Nov/22
+           AEK Athen               v Aris Saloniki
+           Asteras Tripolis        v Panetolikos
+           AE Lárissa              v OFI Heraklion
+           Volos NFC               v Levadiakos
+           Olympiakos Piraeus      v Atromitos
+           Panserraikos            v Panathinaikos
+           PAOK Saloniki           v AE Kifisias
+
+
+» Matchday 12
+  Sat Nov/29
+           Aris Saloniki           v AE Lárissa
+           Atromitos               v Asteras Tripolis
+           AE Kifisias             v Panserraikos
+           Levadiakos              v PAOK Saloniki
+           OFI Heraklion           v Volos NFC
+           Panathinaikos           v AEK Athen
+           Panetolikos             v Olympiakos Piraeus
+
+
+» Matchday 13
+  Sat Dec/6
+           AEK Athen               v Atromitos
+           Asteras Tripolis        v Levadiakos
+           AE Lárissa              v Panathinaikos
+           Volos NFC               v AE Kifisias
+           Olympiakos Piraeus      v OFI Heraklion
+           Panserraikos            v Panetolikos
+           PAOK Saloniki           v Aris Saloniki
+
+
+» Matchday 14
+  Sat Dec/13
+           Aris Saloniki           v Olympiakos Piraeus
+           Atromitos               v PAOK Saloniki
+           AE Kifisias             v Asteras Tripolis
+           Levadiakos              v AE Lárissa
+           OFI Heraklion           v Panserraikos
+           Panathinaikos           v Volos NFC
+           Panetolikos             v AEK Athen
+
+
+» Matchday 15
+  Sat Dec/20
+           AEK Athen               v OFI Heraklion
+           Asteras Tripolis        v Aris Saloniki
+           AE Lárissa              v Atromitos
+           Volos NFC               v Panetolikos
+           Olympiakos Piraeus      v AE Kifisias
+           Panserraikos            v Levadiakos
+           PAOK Saloniki           v Panathinaikos
+
+
+» Matchday 16
+  Sat Jan/10 2026
+           Aris Saloniki           v AEK Athen
+           Atromitos               v Olympiakos Piraeus
+           AE Kifisias             v AE Lárissa
+           Levadiakos              v Volos NFC
+           OFI Heraklion           v Asteras Tripolis
+           Panathinaikos           v Panserraikos
+           Panetolikos             v PAOK Saloniki
+
+
+» Matchday 17
+  Sat Jan/17
+           AEK Athen               v Panathinaikos
+           Asteras Tripolis        v Olympiakos Piraeus
+           AE Lárissa              v Aris Saloniki
+           Volos NFC               v Atromitos
+           Panetolikos             v Levadiakos
+           Panserraikos            v AE Kifisias
+           PAOK Saloniki           v OFI Heraklion
+
+
+» Matchday 18
+  Sat Jan/24
+           Asteras Tripolis        v AEK Athen
+           AE Lárissa              v Panserraikos
+           Aris Saloniki           v Levadiakos
+           Atromitos               v Panathinaikos
+           AE Kifisias             v PAOK Saloniki
+           Olympiakos Piraeus      v Volos NFC
+           OFI Heraklion           v Panetolikos
+
+
+» Matchday 19
+  Sat Jan/31
+           AEK Athen               v Olympiakos Piraeus
+           Atromitos               v OFI Heraklion
+           Volos NFC               v AE Lárissa
+           Levadiakos              v Asteras Tripolis
+           Panathinaikos           v AE Kifisias
+           Panetolikos             v Aris Saloniki
+           PAOK Saloniki           v Panserraikos
+
+
+» Matchday 20
+  Sat Feb/7
+           Asteras Tripolis        v Volos NFC
+           AE Lárissa              v Panetolikos
+           Aris Saloniki           v PAOK Saloniki
+           AE Kifisias             v Atromitos
+           Olympiakos Piraeus      v Panathinaikos
+           OFI Heraklion           v Levadiakos
+           Panserraikos            v AEK Athen
+
+
+» Matchday 21
+  Sat Feb/14
+           Atromitos               v Panserraikos
+           Volos NFC               v Aris Saloniki
+           AE Kifisias             v OFI Heraklion
+           Levadiakos              v Olympiakos Piraeus
+           Panathinaikos           v AE Lárissa
+           Panetolikos             v Asteras Tripolis
+           PAOK Saloniki           v AEK Athen
+
+
+» Matchday 22
+  Sat Feb/21
+           AEK Athen               v Levadiakos
+           Asteras Tripolis        v Atromitos
+           AE Lárissa              v PAOK Saloniki
+           Aris Saloniki           v AE Kifisias
+           Olympiakos Piraeus      v Panetolikos
+           OFI Heraklion           v Panathinaikos
+           Panserraikos            v Volos NFC
+
+
+» Matchday 23
+  Sat Feb/28
+           Atromitos               v Panetolikos
+           Volos NFC               v AEK Athen
+           AE Kifisias             v Levadiakos
+           OFI Heraklion           v AE Lárissa
+           Panathinaikos           v Aris Saloniki
+           Panserraikos            v Olympiakos Piraeus
+           PAOK Saloniki           v Asteras Tripolis
+
+
+» Matchday 24
+  Sat Mar/7
+           AEK Athen               v AE Lárissa
+           Asteras Tripolis        v Panserraikos
+           Aris Saloniki           v Atromitos
+           Volos NFC               v OFI Heraklion
+           Levadiakos              v Panathinaikos
+           Olympiakos Piraeus      v PAOK Saloniki
+           Panetolikos             v AE Kifisias
+
+
+» Matchday 25
+  Sat Mar/14
+           AE Lárissa              v Asteras Tripolis
+           Atromitos               v AEK Athen
+           AE Kifisias             v Volos NFC
+           OFI Heraklion           v Olympiakos Piraeus
+           Panathinaikos           v Panetolikos
+           Panserraikos            v Aris Saloniki
+           PAOK Saloniki           v Levadiakos
+
+
+» Matchday 26
+  Sat Mar/21
+           AEK Athen               v AE Kifisias
+           Asteras Tripolis        v Panathinaikos
+           Aris Saloniki           v OFI Heraklion
+           Volos NFC               v PAOK Saloniki
+           Levadiakos              v Atromitos
+           Olympiakos Piraeus      v AE Lárissa
+           Panetolikos             v Panserraikos

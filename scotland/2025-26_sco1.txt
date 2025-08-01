@@ -1,0 +1,341 @@
+= Scottish Premiership 2025/26
+
+# Date       Sat Aug/2 2025 - Sat Apr/11 2026 (252d)
+# Teams      12
+# Matches    198
+
+
+
+» Matchday 1
+  Sat Aug/2 2025
+    15.00  Kilmarnock FC           v Livingston FC
+    17.30  Motherwell FC           v Rangers FC
+  Sun Aug/3
+    14.00  Falkirk FC              v Dundee United
+    15.00  Dundee FC               v Hibernian FC
+    16.30  Celtic FC               v St. Mirren FC
+  Mon Aug/4
+    20.00  Heart of Midlothian     v Aberdeen FC
+
+
+» Matchday 2
+  Sat Aug/9
+    15.00  Dundee United           v Heart of Midlothian
+           St. Mirren FC           v Motherwell FC
+           Livingston FC           v Falkirk FC
+    17.45  Rangers FC              v Dundee FC
+  Sun Aug/10
+    12.30  Aberdeen FC             v Celtic FC
+    15.00  Hibernian FC            v Kilmarnock FC
+
+
+» Matchday 3
+  Sat Aug/23
+    15.00  Celtic FC               v Livingston FC
+           Dundee United           v Aberdeen FC
+           Kilmarnock FC           v Dundee FC
+           St. Mirren FC           v Rangers FC
+           Heart of Midlothian     v Motherwell FC
+    17.45  Falkirk FC              v Hibernian FC
+
+
+» Matchday 4
+  Sat Aug/30
+    15.00  Aberdeen FC             v Falkirk FC
+           Hibernian FC            v St. Mirren FC
+           Livingston FC           v Heart of Midlothian
+           Motherwell FC           v Kilmarnock FC
+  Sun Aug/31
+    12.00  Rangers FC              v Celtic FC
+    14.00  Dundee FC               v Dundee United
+
+
+» Matchday 5
+  Sat Sep/13
+           Dundee FC               v Motherwell FC
+           Falkirk FC              v St. Mirren FC
+           Aberdeen FC             v Livingston FC
+           Kilmarnock FC           v Celtic FC
+           Rangers FC              v Heart of Midlothian
+           Hibernian FC            v Dundee United
+
+
+» Matchday 6
+  Sat Sep/27
+           Celtic FC               v Hibernian FC
+           Dundee United           v Kilmarnock FC
+           St. Mirren FC           v Dundee FC
+           Heart of Midlothian     v Falkirk FC
+           Livingston FC           v Rangers FC
+           Motherwell FC           v Aberdeen FC
+
+
+» Matchday 7
+  Sat Oct/4
+           Celtic FC               v Motherwell FC
+           Dundee United           v Livingston FC
+           Falkirk FC              v Rangers FC
+           Aberdeen FC             v Dundee FC
+           Kilmarnock FC           v St. Mirren FC
+           Heart of Midlothian     v Hibernian FC
+
+
+» Matchday 8
+  Sat Oct/18
+           Dundee FC               v Celtic FC
+           Kilmarnock FC           v Heart of Midlothian
+           St. Mirren FC           v Aberdeen FC
+           Rangers FC              v Dundee United
+           Hibernian FC            v Livingston FC
+           Motherwell FC           v Falkirk FC
+
+
+» Matchday 9
+  Sat Oct/25
+           Dundee United           v St. Mirren FC
+           Falkirk FC              v Dundee FC
+           Aberdeen FC             v Hibernian FC
+           Rangers FC              v Kilmarnock FC
+           Heart of Midlothian     v Celtic FC
+           Livingston FC           v Motherwell FC
+
+
+» Matchday 10
+  Wed Oct/29
+           Celtic FC               v Falkirk FC
+           Dundee FC               v Livingston FC
+           Kilmarnock FC           v Aberdeen FC
+           St. Mirren FC           v Heart of Midlothian
+           Hibernian FC            v Rangers FC
+           Motherwell FC           v Dundee United
+
+
+» Matchday 11
+  Sat Nov/1
+           Dundee United           v Celtic FC
+           Falkirk FC              v Kilmarnock FC
+           Rangers FC              v Aberdeen FC
+           Heart of Midlothian     v Dundee FC
+           Livingston FC           v St. Mirren FC
+           Motherwell FC           v Hibernian FC
+
+
+» Matchday 12
+  Sat Nov/8
+           Celtic FC               v Kilmarnock FC
+           Dundee FC               v Rangers FC
+           Falkirk FC              v Livingston FC
+           Aberdeen FC             v Motherwell FC
+           St. Mirren FC           v Hibernian FC
+  Sun Nov/9
+           Heart of Midlothian     v Dundee United
+
+
+» Matchday 13
+  Sat Nov/22
+           Dundee United           v Falkirk FC
+           Aberdeen FC             v Heart of Midlothian
+           Kilmarnock FC           v Motherwell FC
+           St. Mirren FC           v Celtic FC
+           Rangers FC              v Livingston FC
+           Hibernian FC            v Dundee FC
+
+
+» Matchday 14
+  Sat Nov/29
+           Dundee FC               v St. Mirren FC
+           Kilmarnock FC           v Dundee United
+           Rangers FC              v Falkirk FC
+           Hibernian FC            v Celtic FC
+           Livingston FC           v Aberdeen FC
+           Motherwell FC           v Heart of Midlothian
+
+
+» Matchday 15
+  Wed Dec/3
+           Celtic FC               v Dundee FC
+           Dundee United           v Rangers FC
+           Falkirk FC              v Motherwell FC
+           Aberdeen FC             v St. Mirren FC
+           Heart of Midlothian     v Kilmarnock FC
+           Livingston FC           v Hibernian FC
+
+
+» Matchday 16
+  Sat Dec/6
+           Celtic FC               v Heart of Midlothian
+           Dundee FC               v Aberdeen FC
+           Kilmarnock FC           v Rangers FC
+           St. Mirren FC           v Dundee United
+           Hibernian FC            v Falkirk FC
+           Motherwell FC           v Livingston FC
+
+
+» Matchday 17
+  Sat Dec/13
+           Dundee United           v Motherwell FC
+           Falkirk FC              v Celtic FC
+           Aberdeen FC             v Kilmarnock FC
+           Rangers FC              v Hibernian FC
+           Heart of Midlothian     v St. Mirren FC
+           Livingston FC           v Dundee FC
+
+
+» Matchday 18
+  Sat Dec/20
+           Celtic FC               v Aberdeen FC
+           Dundee United           v Hibernian FC
+           Kilmarnock FC           v Falkirk FC
+           St. Mirren FC           v Livingston FC
+           Heart of Midlothian     v Rangers FC
+           Motherwell FC           v Dundee FC
+
+
+» Matchday 19
+  Sat Dec/27
+           Hibernian FC            v Heart of Midlothian
+           Dundee FC               v Falkirk FC
+           Aberdeen FC             v Dundee United
+           St. Mirren FC           v Kilmarnock FC
+           Rangers FC              v Motherwell FC
+           Livingston FC           v Celtic FC
+
+
+» Matchday 20
+  Tue Dec/30
+           Dundee FC               v Kilmarnock FC
+           Falkirk FC              v Heart of Midlothian
+           Rangers FC              v St. Mirren FC
+           Hibernian FC            v Aberdeen FC
+           Livingston FC           v Dundee United
+           Motherwell FC           v Celtic FC
+
+
+» Matchday 21
+  Sat Jan/3 2026
+           Celtic FC               v Rangers FC
+           Dundee United           v Dundee FC
+           Falkirk FC              v Aberdeen FC
+           Kilmarnock FC           v Hibernian FC
+           Heart of Midlothian     v Livingston FC
+           Motherwell FC           v St. Mirren FC
+
+
+» Matchday 22
+  Sat Jan/10
+           Celtic FC               v Dundee United
+           Dundee FC               v Heart of Midlothian
+           Aberdeen FC             v Rangers FC
+           St. Mirren FC           v Falkirk FC
+           Hibernian FC            v Motherwell FC
+           Livingston FC           v Kilmarnock FC
+
+
+» Matchday 23
+  Sat Jan/24
+           Dundee United           v St. Mirren FC
+           Falkirk FC              v Hibernian FC
+           Aberdeen FC             v Livingston FC
+           Rangers FC              v Dundee FC
+           Heart of Midlothian     v Celtic FC
+           Motherwell FC           v Kilmarnock FC
+
+
+» Matchday 24
+  Sat Jan/31
+           Celtic FC               v Falkirk FC
+           Dundee United           v Heart of Midlothian
+           Kilmarnock FC           v Aberdeen FC
+           St. Mirren FC           v Dundee FC
+           Hibernian FC            v Rangers FC
+           Livingston FC           v Motherwell FC
+
+
+» Matchday 25
+  Wed Feb/4
+           Dundee FC               v Motherwell FC
+           Aberdeen FC             v Celtic FC
+           St. Mirren FC           v Heart of Midlothian
+           Rangers FC              v Kilmarnock FC
+           Hibernian FC            v Dundee United
+           Livingston FC           v Falkirk FC
+
+
+» Matchday 26
+  Wed Feb/11
+           Celtic FC               v Livingston FC
+           Dundee United           v Aberdeen FC
+           Falkirk FC              v Dundee FC
+           Kilmarnock FC           v St. Mirren FC
+           Heart of Midlothian     v Hibernian FC
+           Motherwell FC           v Rangers FC
+
+
+» Matchday 27
+  Sat Feb/14
+           Dundee FC               v Livingston FC
+           Falkirk FC              v Dundee United
+           Kilmarnock FC           v Celtic FC
+           Rangers FC              v Heart of Midlothian
+           Hibernian FC            v St. Mirren FC
+           Motherwell FC           v Aberdeen FC
+
+
+» Matchday 28
+  Sat Feb/21
+           Celtic FC               v Hibernian FC
+           Dundee United           v Kilmarnock FC
+           Aberdeen FC             v Dundee FC
+           St. Mirren FC           v Motherwell FC
+           Heart of Midlothian     v Falkirk FC
+           Livingston FC           v Rangers FC
+
+
+» Matchday 29
+  Sat Feb/28
+           Dundee FC               v Hibernian FC
+           Falkirk FC              v Kilmarnock FC
+           Rangers FC              v Celtic FC
+           Heart of Midlothian     v Aberdeen FC
+           Livingston FC           v St. Mirren FC
+           Motherwell FC           v Dundee United
+
+
+» Matchday 30
+  Sat Mar/14
+           Celtic FC               v Motherwell FC
+           Dundee FC               v Dundee United
+           Aberdeen FC             v Falkirk FC
+           Kilmarnock FC           v Heart of Midlothian
+           St. Mirren FC           v Rangers FC
+           Hibernian FC            v Livingston FC
+
+
+» Matchday 31
+  Sat Mar/21
+           Dundee United           v Celtic FC
+           Falkirk FC              v St. Mirren FC
+           Kilmarnock FC           v Livingston FC
+           Rangers FC              v Aberdeen FC
+           Heart of Midlothian     v Dundee FC
+           Motherwell FC           v Hibernian FC
+
+
+» Matchday 32
+  Sat Apr/4
+           Dundee FC               v Celtic FC
+           St. Mirren FC           v Aberdeen FC
+           Rangers FC              v Dundee United
+           Hibernian FC            v Kilmarnock FC
+           Livingston FC           v Heart of Midlothian
+           Motherwell FC           v Falkirk FC
+
+
+» Matchday 33
+  Sat Apr/11
+           Celtic FC               v St. Mirren FC
+           Dundee United           v Livingston FC
+           Falkirk FC              v Rangers FC
+           Aberdeen FC             v Hibernian FC
+           Kilmarnock FC           v Dundee FC
+           Heart of Midlothian     v Motherwell FC

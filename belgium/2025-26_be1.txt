@@ -1,0 +1,379 @@
+= Belgium First Division A 2025/26
+
+# Date       Fri Jul/25 2025 - Sat Mar/21 2026 (239d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Fri Jul/25 2025
+    20.45  Royal Antwerp FC        v Union Saint-Gilloise     1-1 (1-0)
+  Sat Jul/26
+    16.00  FCV Dender EH           v Cercle Brugge            0-0
+    18.15  SV Zulte Waregem        v KV Mechelen              1-1 (0-1)
+    20.45  RAA La Louviére         v Standard Liège           0-2 (0-2)
+  Sun Jul/27
+    13.30  RSC Anderlecht          v KVC Westerlo             5-2 (2-0)
+    16.00  Oud-Heverlee Leuven     v Sporting Charleroi       2-2 (1-0)
+    18.30  Club Brugge KV          v KRC Genk                 2-1 (0-1)
+    19.15  Sint-Truidense VV       v KAA Gent                 3-1 (0-0)
+
+
+» Matchday 2
+  Fri Aug/1
+    20.45  KV Mechelen             v Club Brugge KV
+  Sat Aug/2
+    16.00  KVC Westerlo            v SV Zulte Waregem
+    18.15  Standard Liège          v FCV Dender EH
+    20.45  KAA Gent                v RAA La Louviére
+  Sun Aug/3
+    13.30  KRC Genk                v Royal Antwerp FC
+    16.00  Cercle Brugge           v RSC Anderlecht
+    18.30  Union Saint-Gilloise    v Oud-Heverlee Leuven
+    19.15  Sporting Charleroi      v Sint-Truidense VV
+
+
+» Matchday 3
+  Fri Aug/8
+    20.45  Sint-Truidense VV       v FCV Dender EH
+  Sat Aug/9
+    16.00  Club Brugge KV          v Cercle Brugge
+    18.15  KVC Westerlo            v KV Mechelen
+    20.45  KAA Gent                v Union Saint-Gilloise
+  Sun Aug/10
+    13.30  RAA La Louviére         v Sporting Charleroi
+    16.00  RSC Anderlecht          v SV Zulte Waregem
+    18.30  Standard Liège          v KRC Genk
+    19.15  Royal Antwerp FC        v Oud-Heverlee Leuven
+
+
+» Matchday 4
+  Fri Aug/15
+    20.45  Oud-Heverlee Leuven     v KRC Genk
+  Sat Aug/16
+    16.00  SV Zulte Waregem        v Club Brugge KV
+    18.15  KV Mechelen             v KAA Gent
+    20.45  Union Saint-Gilloise    v Standard Liège
+  Sun Aug/17
+    13.30  FCV Dender EH           v RSC Anderlecht
+    16.00  Sint-Truidense VV       v RAA La Louviére
+    18.30  Sporting Charleroi      v Royal Antwerp FC
+    19.15  Cercle Brugge           v KVC Westerlo
+
+
+» Matchday 5
+  Sat Aug/23
+    16.00  Club Brugge KV          v KVC Westerlo
+           KRC Genk                v Sporting Charleroi
+    18.15  Standard Liège          v Cercle Brugge
+    20.45  SV Zulte Waregem        v Sint-Truidense VV
+  Sun Aug/24
+    13.30  Royal Antwerp FC        v KV Mechelen
+    16.00  RSC Anderlecht          v KAA Gent
+    18.30  RAA La Louviére         v Union Saint-Gilloise
+    19.15  FCV Dender EH           v Oud-Heverlee Leuven
+
+
+» Matchday 6
+  Fri Aug/29
+    20.45  Cercle Brugge           v Sint-Truidense VV
+  Sat Aug/30
+    16.00  KV Mechelen             v RAA La Louviére
+    18.15  KVC Westerlo            v Royal Antwerp FC
+    20.45  Oud-Heverlee Leuven     v Standard Liège
+  Sun Aug/31
+    13.30  KAA Gent                v Club Brugge KV
+    16.00  Sporting Charleroi      v FCV Dender EH
+    18.30  Union Saint-Gilloise    v RSC Anderlecht
+    19.15  KRC Genk                v SV Zulte Waregem
+
+
+» Matchday 7
+  Fri Sep/12
+    20.45  Standard Liège          v KV Mechelen
+  Sat Sep/13
+    16.00  SV Zulte Waregem        v Oud-Heverlee Leuven
+    18.15  FCV Dender EH           v Union Saint-Gilloise
+    20.45  RAA La Louviére         v Club Brugge KV
+  Sun Sep/14
+    13.30  Royal Antwerp FC        v KAA Gent
+    16.00  Cercle Brugge           v Sporting Charleroi
+    18.30  RSC Anderlecht          v KRC Genk
+    19.15  Sint-Truidense VV       v KVC Westerlo
+
+
+» Matchday 8
+  Fri Sep/19
+           Club Brugge KV          v Sint-Truidense VV
+           KAA Gent                v FCV Dender EH
+           KRC Genk                v Union Saint-Gilloise
+           KV Mechelen             v Cercle Brugge
+           KVC Westerlo            v Standard Liège
+           Oud-Heverlee Leuven     v RAA La Louviére
+           RSC Anderlecht          v Royal Antwerp FC
+           Sporting Charleroi      v SV Zulte Waregem
+
+
+» Matchday 9
+  Fri Sep/26
+           Cercle Brugge           v KAA Gent
+           FCV Dender EH           v RAA La Louviére
+           Oud-Heverlee Leuven     v RSC Anderlecht
+           Sporting Charleroi      v KV Mechelen
+           Standard Liège          v Club Brugge KV
+           SV Zulte Waregem        v Royal Antwerp FC
+           Union Saint-Gilloise    v KVC Westerlo
+           Sint-Truidense VV       v KRC Genk
+
+
+» Matchday 10
+  Fri Oct/3
+           Club Brugge KV          v Union Saint-Gilloise
+           KAA Gent                v Sporting Charleroi
+           KRC Genk                v FCV Dender EH
+           KV Mechelen             v Sint-Truidense VV
+           KVC Westerlo            v Oud-Heverlee Leuven
+           RAA La Louviére         v SV Zulte Waregem
+           Royal Antwerp FC        v Cercle Brugge
+           RSC Anderlecht          v Standard Liège
+
+
+» Matchday 11
+  Fri Oct/17
+           Cercle Brugge           v KRC Genk
+           FCV Dender EH           v KV Mechelen
+           Oud-Heverlee Leuven     v Club Brugge KV
+           RAA La Louviére         v KVC Westerlo
+           Standard Liège          v Royal Antwerp FC
+           SV Zulte Waregem        v KAA Gent
+           Union Saint-Gilloise    v Sporting Charleroi
+           Sint-Truidense VV       v RSC Anderlecht
+
+
+» Matchday 12
+  Fri Oct/24
+           Cercle Brugge           v SV Zulte Waregem
+           KAA Gent                v Standard Liège
+           KRC Genk                v RAA La Louviére
+           KV Mechelen             v Oud-Heverlee Leuven
+           KVC Westerlo            v FCV Dender EH
+           Royal Antwerp FC        v Club Brugge KV
+           Sporting Charleroi      v RSC Anderlecht
+           Union Saint-Gilloise    v Sint-Truidense VV
+
+
+» Matchday 13
+  Sat Nov/1
+           Club Brugge KV          v FCV Dender EH
+           KVC Westerlo            v KRC Genk
+           Oud-Heverlee Leuven     v KAA Gent
+           RAA La Louviére         v Cercle Brugge
+           RSC Anderlecht          v KV Mechelen
+           Standard Liège          v Sporting Charleroi
+           SV Zulte Waregem        v Union Saint-Gilloise
+           Sint-Truidense VV       v Royal Antwerp FC
+
+
+» Matchday 14
+  Sat Nov/8
+           Cercle Brugge           v Oud-Heverlee Leuven
+           FCV Dender EH           v SV Zulte Waregem
+           KAA Gent                v KRC Genk
+           KV Mechelen             v Union Saint-Gilloise
+           Royal Antwerp FC        v RAA La Louviére
+           RSC Anderlecht          v Club Brugge KV
+           Sporting Charleroi      v KVC Westerlo
+           Sint-Truidense VV       v Standard Liège
+
+
+» Matchday 15
+  Sat Nov/22
+           Club Brugge KV          v Sporting Charleroi
+           KRC Genk                v KV Mechelen
+           KVC Westerlo            v KAA Gent
+           Oud-Heverlee Leuven     v Sint-Truidense VV
+           RAA La Louviére         v RSC Anderlecht
+           Royal Antwerp FC        v FCV Dender EH
+           Standard Liège          v SV Zulte Waregem
+           Union Saint-Gilloise    v Cercle Brugge
+
+
+» Matchday 16
+  Sat Nov/29
+           FCV Dender EH           v KVC Westerlo
+           Club Brugge KV          v Royal Antwerp FC
+           KAA Gent                v Sint-Truidense VV
+           KRC Genk                v Oud-Heverlee Leuven
+           KV Mechelen             v Standard Liège
+           RSC Anderlecht          v Union Saint-Gilloise
+           Sporting Charleroi      v RAA La Louviére
+           SV Zulte Waregem        v Cercle Brugge
+
+
+» Matchday 17
+  Sat Dec/6
+           Cercle Brugge           v Standard Liège
+           KV Mechelen             v Sporting Charleroi
+           KVC Westerlo            v RSC Anderlecht
+           Oud-Heverlee Leuven     v SV Zulte Waregem
+           RAA La Louviére         v FCV Dender EH
+           Royal Antwerp FC        v KRC Genk
+           Union Saint-Gilloise    v KAA Gent
+           Sint-Truidense VV       v Club Brugge KV
+
+
+» Matchday 18
+  Sat Dec/13
+           Cercle Brugge           v KV Mechelen
+           FCV Dender EH           v Club Brugge KV
+           KAA Gent                v Royal Antwerp FC
+           KRC Genk                v KVC Westerlo
+           RSC Anderlecht          v Sint-Truidense VV
+           Sporting Charleroi      v Union Saint-Gilloise
+           Standard Liège          v Oud-Heverlee Leuven
+           SV Zulte Waregem        v RAA La Louviére
+
+
+» Matchday 19
+  Sat Dec/20
+           FCV Dender EH           v Standard Liège
+           Club Brugge KV          v KAA Gent
+           KVC Westerlo            v RAA La Louviére
+           Oud-Heverlee Leuven     v Cercle Brugge
+           Royal Antwerp FC        v RSC Anderlecht
+           Sporting Charleroi      v KRC Genk
+           Union Saint-Gilloise    v SV Zulte Waregem
+           Sint-Truidense VV       v KV Mechelen
+
+
+» Matchday 20
+  Sat Dec/27
+           Cercle Brugge           v Union Saint-Gilloise
+           KAA Gent                v KVC Westerlo
+           KRC Genk                v Club Brugge KV
+           KV Mechelen             v FCV Dender EH
+           RAA La Louviére         v Oud-Heverlee Leuven
+           Royal Antwerp FC        v SV Zulte Waregem
+           RSC Anderlecht          v Sporting Charleroi
+           Standard Liège          v Sint-Truidense VV
+
+
+» Matchday 21
+  Sat Jan/17 2026
+           FCV Dender EH           v Royal Antwerp FC
+           Club Brugge KV          v RAA La Louviére
+           KAA Gent                v RSC Anderlecht
+           KVC Westerlo            v Cercle Brugge
+           Sporting Charleroi      v Standard Liège
+           SV Zulte Waregem        v KRC Genk
+           Union Saint-Gilloise    v KV Mechelen
+           Sint-Truidense VV       v Oud-Heverlee Leuven
+
+
+» Matchday 22
+  Sat Jan/24
+           Club Brugge KV          v SV Zulte Waregem
+           KRC Genk                v Cercle Brugge
+           KV Mechelen             v KVC Westerlo
+           Oud-Heverlee Leuven     v Union Saint-Gilloise
+           RAA La Louviére         v Sint-Truidense VV
+           Royal Antwerp FC        v Sporting Charleroi
+           RSC Anderlecht          v FCV Dender EH
+           Standard Liège          v KAA Gent
+
+
+» Matchday 23
+  Sat Jan/31
+           Cercle Brugge           v Royal Antwerp FC
+           FCV Dender EH           v KRC Genk
+           Oud-Heverlee Leuven     v KV Mechelen
+           RAA La Louviére         v KAA Gent
+           Standard Liège          v RSC Anderlecht
+           SV Zulte Waregem        v KVC Westerlo
+           Union Saint-Gilloise    v Club Brugge KV
+           Sint-Truidense VV       v Sporting Charleroi
+
+
+» Matchday 24
+  Sat Feb/7
+           Club Brugge KV          v Standard Liège
+           KAA Gent                v Oud-Heverlee Leuven
+           KRC Genk                v RSC Anderlecht
+           KV Mechelen             v Royal Antwerp FC
+           KVC Westerlo            v Sint-Truidense VV
+           Sporting Charleroi      v Cercle Brugge
+           SV Zulte Waregem        v FCV Dender EH
+           Union Saint-Gilloise    v RAA La Louviére
+
+
+» Matchday 25
+  Sat Feb/14
+           Cercle Brugge           v Club Brugge KV
+           KV Mechelen             v KRC Genk
+           Oud-Heverlee Leuven     v FCV Dender EH
+           Royal Antwerp FC        v KVC Westerlo
+           RSC Anderlecht          v RAA La Louviére
+           Sporting Charleroi      v KAA Gent
+           Standard Liège          v Union Saint-Gilloise
+           Sint-Truidense VV       v SV Zulte Waregem
+
+
+» Matchday 26
+  Sat Feb/21
+           FCV Dender EH           v Sint-Truidense VV
+           Club Brugge KV          v Oud-Heverlee Leuven
+           KAA Gent                v Cercle Brugge
+           KRC Genk                v Standard Liège
+           KVC Westerlo            v Sporting Charleroi
+           RAA La Louviére         v KV Mechelen
+           SV Zulte Waregem        v RSC Anderlecht
+           Union Saint-Gilloise    v Royal Antwerp FC
+
+
+» Matchday 27
+  Sat Feb/28
+           Cercle Brugge           v FCV Dender EH
+           KRC Genk                v KAA Gent
+           KV Mechelen             v SV Zulte Waregem
+           KVC Westerlo            v Union Saint-Gilloise
+           Royal Antwerp FC        v Sint-Truidense VV
+           RSC Anderlecht          v Oud-Heverlee Leuven
+           Sporting Charleroi      v Club Brugge KV
+           Standard Liège          v RAA La Louviére
+
+
+» Matchday 28
+  Sat Mar/7
+           FCV Dender EH           v Sporting Charleroi
+           Club Brugge KV          v RSC Anderlecht
+           KAA Gent                v KV Mechelen
+           Oud-Heverlee Leuven     v KVC Westerlo
+           RAA La Louviére         v Royal Antwerp FC
+           SV Zulte Waregem        v Standard Liège
+           Union Saint-Gilloise    v KRC Genk
+           Sint-Truidense VV       v Cercle Brugge
+
+
+» Matchday 29
+  Sat Mar/14
+           Cercle Brugge           v RAA La Louviére
+           KAA Gent                v SV Zulte Waregem
+           KRC Genk                v Sint-Truidense VV
+           KV Mechelen             v RSC Anderlecht
+           KVC Westerlo            v Club Brugge KV
+           Royal Antwerp FC        v Standard Liège
+           Sporting Charleroi      v Oud-Heverlee Leuven
+           Union Saint-Gilloise    v FCV Dender EH
+
+
+» Matchday 30
+  Sat Mar/21
+           FCV Dender EH           v KAA Gent
+           Club Brugge KV          v KV Mechelen
+           Oud-Heverlee Leuven     v Royal Antwerp FC
+           RAA La Louviére         v KRC Genk
+           RSC Anderlecht          v Cercle Brugge
+           Standard Liège          v KVC Westerlo
+           SV Zulte Waregem        v Sporting Charleroi
+           Sint-Truidense VV       v Union Saint-Gilloise
