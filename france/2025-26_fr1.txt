@@ -8,125 +8,138 @@
 
 » Matchday 1
   Fri Aug/15 2025
-    20.45  Stade Rennais           v Olympique Marseille
+    20.45  Stade Rennais           v Olympique Marseille   1-0 (0-0)
   Sat Aug/16
-    17.00  RC Lens                 v Olympique Lyonnais
-    19.00  AS Monaco               v Havre AC
-    21.05  OGC Nice                v Toulouse FC
+    17.00  RC Lens                 v Olympique Lyonnais    0-1 (0-1)
+    19.00  AS Monaco               v Havre AC              3-1 (1-0)
+    21.05  OGC Nice                v Toulouse FC           0-1 (0-0)
   Sun Aug/17
-    15.00  Stade Brestois 29       v Lille OSC
-    17.15  AJ Auxerre              v FC Lorient
-           FC Metz                 v RC Strasbourg
-           Angers SCO              v Paris FC
-    20.45  FC Nantes               v Paris Saint-Germain
+    15.00  Stade Brestois 29       v Lille OSC             3-3 (1-2)
+    17.15  AJ Auxerre              v FC Lorient            1-0 (0-0)
+           FC Metz                 v RC Strasbourg         0-1 (0-0)
+           Angers SCO              v Paris FC              1-0 (1-0)
+    20.45  FC Nantes               v Paris Saint-Germain   0-1 (0-0)
 
 
 » Matchday 2
   Fri Aug/22
-    20.45  Paris Saint-Germain     v Angers SCO
+    20.45  Paris Saint-Germain     v Angers SCO            1-0 (0-0)
   Sat Aug/23
-    17.00  Olympique Marseille     v Paris FC
-    19.00  OGC Nice                v AJ Auxerre
-    21.05  Olympique Lyonnais      v FC Metz
+    17.00  Olympique Marseille     v Paris FC              5-2 (2-1)
+    19.00  OGC Nice                v AJ Auxerre            3-1 (2-1)
+    21.05  Olympique Lyonnais      v FC Metz               3-0 (2-0)
   Sun Aug/24
-    15.00  FC Lorient              v Stade Rennais
-    17.00  Lille OSC               v AS Monaco
-    17.15  Havre AC                v RC Lens
-           Toulouse FC             v Stade Brestois 29
-           RC Strasbourg           v FC Nantes
+    15.00  FC Lorient              v Stade Rennais         4-0 (1-0)
+    17.15  Havre AC                v RC Lens               1-2 (1-2)
+           Toulouse FC             v Stade Brestois 29     2-0 (0-0)
+           RC Strasbourg           v FC Nantes             1-0 (0-0)
+    20.45  Lille OSC               v AS Monaco             1-0 (0-0)
 
 
 » Matchday 3
   Fri Aug/29
-    20.45  RC Lens                 v Stade Brestois 29
+    20.45  RC Lens                 v Stade Brestois 29     3-1 (0-1)
   Sat Aug/30
-    17.00  FC Lorient              v Lille OSC
-    19.00  FC Nantes               v AJ Auxerre
-    21.05  Toulouse FC             v Paris Saint-Germain
+    17.00  FC Lorient              v Lille OSC             1-7 (0-0)
+    19.00  FC Nantes               v AJ Auxerre            1-0 (1-0)
+    21.05  Toulouse FC             v Paris Saint-Germain   3-6 (1-4)
   Sun Aug/31
-    15.00  Angers SCO              v Stade Rennais
-    17.15  Havre AC                v OGC Nice
-           AS Monaco               v RC Strasbourg
-           Paris FC                v FC Metz
-    20.45  Olympique Lyonnais      v Olympique Marseille
+    15.00  Angers SCO              v Stade Rennais         1-1 (0-1)
+    17.15  Havre AC                v OGC Nice              3-1 (1-0)
+           AS Monaco               v RC Strasbourg         3-2 (1-0)
+           Paris FC                v FC Metz               3-2 (1-1)
+    20.45  Olympique Lyonnais      v Olympique Marseille   1-0 (0-0)
 
 
 » Matchday 4
+  Fri Sep/12
+    20.45  Olympique Marseille     v FC Lorient            4-0 (3-0)
+  Sat Sep/13
+    17.00  OGC Nice                v FC Nantes             1-0 (0-0)
+    21.05  AJ Auxerre              v AS Monaco             1-2 (0-1)
   Sun Sep/14
-           AJ Auxerre              v AS Monaco
-           FC Metz                 v Angers SCO
-           OGC Nice                v FC Nantes
-           Olympique Marseille     v FC Lorient
-           Lille OSC               v Toulouse FC
-           Paris Saint-Germain     v RC Lens
-           RC Strasbourg           v Havre AC
-           Stade Brestois 29       v Paris FC
-           Stade Rennais           v Olympique Lyonnais
+    15.00  Lille OSC               v Toulouse FC           2-1 (0-0)
+    17.15  FC Metz                 v Angers SCO            1-1 (1-0)
+    17.15  RC Strasbourg           v Havre AC              1-0 (0-0)
+    17.15  Paris Saint-Germain     v RC Lens               2-0 (1-0)
+    17.15  Stade Brestois 29       v Paris FC              1-2 (0-2)
+    20.45  Stade Rennais           v Olympique Lyonnais    3-1 (0-1)
 
 
 » Matchday 5
+  Fri Sep/19
+    20.45  Olympique Lyonnais      v Angers SCO            1-0 (0-0)
+  Sat Sep/20
+    17.00  FC Nantes               v Stade Rennais         2-2 (0-2)
+    19.00  Stade Brestois 29       v OGC Nice              4-1 (2-1)
+    21.05  RC Lens                 v Lille OSC             3-0 (2-0)
   Sun Sep/21
-           Havre AC                v FC Lorient
-           AJ Auxerre              v Toulouse FC
-           AS Monaco               v FC Metz
-           FC Nantes               v Stade Rennais
-           Paris FC                v RC Strasbourg
-           Olympique Marseille     v Paris Saint-Germain
-           Olympique Lyonnais      v Angers SCO
-           RC Lens                 v Lille OSC
-           Stade Brestois 29       v OGC Nice
+    15.00  Paris FC                v RC Strasbourg         2-3 (0-1)
+    17.15  AS Monaco               v FC Metz               5-2 (1-1)
+    17.15  Havre AC                v FC Lorient            1-1 (0-1)
+    17.15  AJ Auxerre              v Toulouse FC           1-0 (1-0)
+  Sun Sep/22
+    20.00  Olympique Marseille     v Paris Saint-Germain   1-0 (1-0)
 
 
 » Matchday 6
+  Fri Sep/26
+    20.45 RC Strasbourg           v Olympique Marseille    1-2 (0-0)
+  Sat Sep/27
+    17.00  FC Lorient              v AS Monaco             3-1 (1-0)
+    19.00  Toulouse FC             v FC Nantes             2-2 (1-0)
+    21.05  Paris Saint-Germain     v AJ Auxerre            2-0 (1-0)
   Sun Sep/28
-           FC Lorient              v AS Monaco
-           FC Metz                 v Havre AC
-           Toulouse FC             v FC Nantes
-           OGC Nice                v Paris FC
-           Lille OSC               v Olympique Lyonnais
-           Paris Saint-Germain     v AJ Auxerre
-           RC Strasbourg           v Olympique Marseille
-           Angers SCO              v Stade Brestois 29
-           Stade Rennais           v RC Lens
+    15.00  OGC Nice                v Paris FC              1-1 (1-0)
+    17.15  Angers SCO              v Stade Brestois 29     0-2 (0-2)
+    17.15  FC Metz                 v Havre AC              0-0 (0-0)
+    17.15  Lille OSC               v Olympique Lyonnais    0-1 (0-1)
+    20.45  Stade Rennais           v RC Lens               0-0 (0-0)
 
 
 » Matchday 7
+  Fri Oct/3
+    20.45  Paris FC                v FC Lorient            2-0 (2-0)
+  Sat Oct/4
+    17.00  FC Metz                 v Olympique Marseille   3-0 (0-0)
+    19.00  Stade Brestois 29       v FC Nantes             0-0 (0-0)
+    21.05  AJ Auxerre              v RC Lens               1-2 (0-1)
   Sun Oct/5
-           Havre AC                v Stade Rennais
-           AJ Auxerre              v RC Lens
-           AS Monaco               v OGC Nice
-           FC Metz                 v Olympique Marseille
-           Paris FC                v FC Lorient
-           Olympique Lyonnais      v Toulouse FC
-           Lille OSC               v Paris Saint-Germain
-           RC Strasbourg           v Angers SCO
-           Stade Brestois 29       v FC Nantes
+    15.00  Olympique Lyonnais      v Toulouse FC           1-2 (1-0)
+    17.15  RC Strasbourg           v Angers SCO            5-0 (1-0)
+    17.15  Havre AC                v Stade Rennais         2-2 (1-2)
+    17.15  AS Monaco               v OGC Nice              2-2 (1-2)
+    20.45  Lille OSC               v Paris Saint-Germain   1-1 (0-0)
 
 
 » Matchday 8
+  Fri Oct/17
+    20.45  Paris Saint-Germain     v RC Strasbourg
+  Sat Oct/18
+    17.00  OGC Nice                v Olympique Lyonnais
+    19.00  Angers SCO              v AS Monaco
+    21.05  Olympique Marseille     v Havre AC
   Sun Oct/19
-           FC Lorient              v Stade Brestois 29
-           FC Nantes               v Lille OSC
-           Toulouse FC             v FC Metz
-           OGC Nice                v Olympique Lyonnais
-           Olympique Marseille     v Havre AC
-           Paris Saint-Germain     v RC Strasbourg
-           RC Lens                 v Paris FC
-           Angers SCO              v AS Monaco
-           Stade Rennais           v AJ Auxerre
+    15.00  RC Lens                 v Paris FC
+    17.15  Stade Rennais           v AJ Auxerre
+    17.15  Toulouse FC             v FC Metz
+    17.15  FC Lorient              v Stade Brestois 29
+    20.45  FC Nantes               v Lille OSC
 
 
 » Matchday 9
-  Sun Oct/26
-           AJ Auxerre              v Havre AC
-           AS Monaco               v Toulouse FC
+  Sun Oct/24
            Paris FC                v FC Nantes
-           Olympique Lyonnais      v RC Strasbourg
-           Lille OSC               v FC Metz
-           RC Lens                 v Olympique Marseille
-           Angers SCO              v FC Lorient
+  Sun Oct/25
            Stade Brestois 29       v Paris Saint-Germain
+           AS Monaco               v Toulouse FC
+           RC Lens                 v Olympique Marseille
+  Sun Oct/26
+           Lille OSC               v FC Metz
+           Angers SCO              v FC Lorient
+           AJ Auxerre              v Havre AC
            Stade Rennais           v OGC Nice
+           Olympique Lyonnais      v RC Strasbourg
 
 
 » Matchday 10
@@ -143,16 +156,17 @@
 
 
 » Matchday 11
-  Sun Nov/2
-           AJ Auxerre              v Olympique Marseille
-           AS Monaco               v Paris FC
-           FC Nantes               v FC Metz
-           Toulouse FC             v Havre AC
-           Lille OSC               v Angers SCO
+  Sat Nov/1
            Paris Saint-Germain     v OGC Nice
+           AS Monaco               v Paris FC
+           AJ Auxerre              v Olympique Marseille
+  Sun Nov/2
+           Stade Rennais           v RC Strasbourg
+           Lille OSC               v Angers SCO
+           Toulouse FC             v Havre AC
+           FC Nantes               v FC Metz
            RC Lens                 v FC Lorient
            Stade Brestois 29       v Olympique Lyonnais
-           Stade Rennais           v RC Strasbourg
 
 
 » Matchday 12
@@ -452,3 +466,4 @@
            Lille OSC               v AJ Auxerre
            RC Strasbourg           v AS Monaco
            Stade Brestois 29       v Angers SCO
+
