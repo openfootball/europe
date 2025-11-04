@@ -6,234 +6,253 @@
 
 
 
-» Matchday 1
+» 1. Round
   Sat Aug/9 2025
-    14.00  EA Guingamp             v Le Mans FC
-    20.00  US Boulogne             v SC Bastia
-           ESTAC Troyes            v Grenoble Foot 38
-           Pau FC                  v FC Annecy
-           Montpellier HSC         v Red Star FC
-           Rodez AF                v AS Nancy Lorraine
-           Stade Lavallois         v AS Saint-Étienne
-           USL Dunkerque           v Clermont Foot 63
+    13.00  EA Guingamp             v Le Mans FC               3-3 (0-2)
+    19.00  ESTAC Troyes            v Grenoble Foot 38         2-1 (1-1)
+           Pau FC                  v FC Annecy                2-0 (1-0)
+           Montpellier HSC         v Red Star FC              1-1 (1-1)
+           Rodez AF                v AS Nancy Lorraine        0-0
+           Stade Lavallois         v AS Saint-Étienne         3-3 (2-2)
+           USL Dunkerque           v Clermont Foot 63         2-2 (1-2)
   Mon Aug/11
-    20.45  Amiens SC               v Stade de Reims
+    19.45  Amiens SC               v Stade de Reims           2-2 (1-1)
+  Tue Sep/16
+    18.00  US Boulogne             v SC Bastia                1-0 (0-0)
 
 
-» Matchday 2
+» 2. Round
   Fri Aug/15
-    20.00  AS Nancy Lorraine       v US Boulogne
-           Clermont Foot 63        v ESTAC Troyes
-           Red Star FC             v Amiens SC
-           Grenoble Foot 38        v Stade Lavallois
-           SC Bastia               v Pau FC
+    19.00  AS Nancy Lorraine       v US Boulogne              1-0 (1-0)
+           Clermont Foot 63        v ESTAC Troyes             0-0
+           Red Star FC             v Amiens SC                1-3 (0-1)
+           Grenoble Foot 38        v Stade Lavallois          1-1 (0-0)
+           SC Bastia               v Pau FC                   1-1 (1-0)
   Sat Aug/16
-    14.00  FC Annecy               v USL Dunkerque
-           Stade de Reims          v EA Guingamp
-    20.00  AS Saint-Étienne        v Rodez AF
+    13.00  FC Annecy               v USL Dunkerque            2-2 (2-1)
+           Stade de Reims          v EA Guingamp              1-0 (1-0)
+    19.00  AS Saint-Étienne        v Rodez AF                 4-0 (1-0)
   Mon Aug/18
-    20.45  Le Mans FC              v Montpellier HSC
+    19.45  Le Mans FC              v Montpellier HSC          1-2 (0-0)
 
 
-» Matchday 3
+» 3. Round
   Fri Aug/22
-    20.00  Clermont Foot 63        v Grenoble Foot 38
-           Le Mans FC              v SC Bastia
-           Rodez AF                v Stade Lavallois
-           Amiens SC               v FC Annecy
-           USL Dunkerque           v AS Nancy Lorraine
+    19.00  Clermont Foot 63        v Grenoble Foot 38         2-1 (0-0)
+           Le Mans FC              v SC Bastia                1-0 (0-0)
+           Rodez AF                v Stade Lavallois          1-1 (1-0)
+           Amiens SC               v FC Annecy                0-1 (0-1)
+           USL Dunkerque           v AS Nancy Lorraine        1-3 (1-2)
   Sat Aug/23
-    14.00  EA Guingamp             v Red Star FC
-           ESTAC Troyes            v Montpellier HSC
-    20.00  US Boulogne             v AS Saint-Étienne
+    13.00  EA Guingamp             v Red Star FC              0-4 (0-1)
+           ESTAC Troyes            v Montpellier HSC          1-0 (1-0)
+    19.00  US Boulogne             v AS Saint-Étienne         0-1 (0-0)
   Mon Aug/25
-    20.45  Pau FC                  v Stade de Reims
+    19.45  Pau FC                  v Stade de Reims           2-0 (2-0)
 
 
-» Matchday 4
+» 4. Round
   Fri Aug/29
-    20.00  AS Nancy Lorraine       v Pau FC
-           Red Star FC             v FC Annecy
-           Montpellier HSC         v Amiens SC
-           Rodez AF                v US Boulogne
-           Stade Lavallois         v Clermont Foot 63
-           USL Dunkerque           v ESTAC Troyes
+    19.00  AS Nancy Lorraine       v Pau FC                   2-2 (2-1)
+           Red Star FC             v FC Annecy                1-0 (1-0)
+           Montpellier HSC         v Amiens SC                1-1 (0-1)
+           Rodez AF                v US Boulogne              1-0 (1-0)
+           Stade Lavallois         v Clermont Foot 63         0-0
+           USL Dunkerque           v ESTAC Troyes             2-0 (0-0)
   Sat Aug/30
-    14.00  SC Bastia               v EA Guingamp
-           Stade de Reims          v Le Mans FC
-    20.00  AS Saint-Étienne        v Grenoble Foot 38
+    13.00  SC Bastia               v EA Guingamp              1-3 (0-2)
+           Stade de Reims          v Le Mans FC               1-0 (0-0)
+    19.00  AS Saint-Étienne        v Grenoble Foot 38         1-1 (1-0)
 
 
-» Matchday 5
+» 5. Round
   Fri Sep/12
-           US Boulogne             v Stade Lavallois
-           Clermont Foot 63        v AS Saint-Étienne
-           EA Guingamp             v Montpellier HSC
-           ESTAC Troyes            v AS Nancy Lorraine
-           FC Annecy               v Stade de Reims
-           Pau FC                  v Red Star FC
-           Grenoble Foot 38        v USL Dunkerque
-           Le Mans FC              v Rodez AF
-           Amiens SC               v SC Bastia
+    19.00  US Boulogne             v Stade Lavallois          1-2 (0-2)
+           ESTAC Troyes            v AS Nancy Lorraine        3-0 (1-0)
+           Pau FC                  v Red Star FC              0-3 (0-2)
+           Le Mans FC              v Rodez AF                 0-1 (0-0)
+           Amiens SC               v SC Bastia                0-0
+  Sat Sep/13
+    13.00  FC Annecy               v Stade de Reims           1-1 (1-0)
+           Grenoble Foot 38        v USL Dunkerque            1-0 (1-0)
+    19.00  Clermont Foot 63        v AS Saint-Étienne         1-2 (1-0)
+  Mon Sep/15
+    19.45  EA Guingamp             v Montpellier HSC          1-0 (1-0)
 
 
-» Matchday 6
+» 6. Round
   Fri Sep/19
-           US Boulogne             v Pau FC
-           AS Nancy Lorraine       v Red Star FC
-           AS Saint-Étienne        v Stade de Reims
-           ESTAC Troyes            v EA Guingamp
-           Grenoble Foot 38        v FC Annecy
-           Montpellier HSC         v SC Bastia
-           Rodez AF                v Clermont Foot 63
-           Stade Lavallois         v Amiens SC
-           USL Dunkerque           v Le Mans FC
+    19.00  US Boulogne             v Pau FC                   0-3 (0-3)
+           AS Nancy Lorraine       v Red Star FC              0-1 (0-0)
+           Grenoble Foot 38        v FC Annecy                1-3 (0-0)
+           Rodez AF                v Clermont Foot 63         0-1 (0-0)
+           Stade Lavallois         v Amiens SC                0-3 (0-1)
+           USL Dunkerque           v Le Mans FC               2-2 (1-1)
+  Sat Sep/20
+    13.00  ESTAC Troyes            v EA Guingamp              5-2 (3-1)
+           Montpellier HSC         v SC Bastia                2-0 (2-0)
+    19.00  AS Saint-Étienne        v Stade de Reims           3-2 (2-1)
 
 
-» Matchday 7
+» 7. Round
   Tue Sep/23
-           EA Guingamp             v USL Dunkerque
-           FC Annecy               v AS Nancy Lorraine
-           Pau FC                  v Stade Lavallois
-           Red Star FC             v ESTAC Troyes
-           Montpellier HSC         v US Boulogne
-           Le Mans FC              v Grenoble Foot 38
-           Amiens SC               v AS Saint-Étienne
-           SC Bastia               v Rodez AF
-           Stade de Reims          v Clermont Foot 63
+    19.30  EA Guingamp             v USL Dunkerque            2-1 (2-1)
+           FC Annecy               v AS Nancy Lorraine        1-2 (1-1)
+           Pau FC                  v Stade Lavallois          1-0 (0-0)
+           Red Star FC             v ESTAC Troyes             1-3 (1-2)
+           Montpellier HSC         v US Boulogne              1-3 (0-1)
+           Le Mans FC              v Grenoble Foot 38         1-0 (1-0)
+           Amiens SC               v AS Saint-Étienne         0-1 (0-0)
+           SC Bastia               v Rodez AF                 2-3 (1-0)
+           Stade de Reims          v Clermont Foot 63         4-1 (2-0)
 
 
-» Matchday 8
+» 8. Round
   Fri Sep/26
-           US Boulogne             v Red Star FC
-           AS Nancy Lorraine       v Stade de Reims
-           AS Saint-Étienne        v EA Guingamp
-           Clermont Foot 63        v Le Mans FC
-           ESTAC Troyes            v FC Annecy
-           Grenoble Foot 38        v SC Bastia
-           Rodez AF                v Pau FC
-           Stade Lavallois         v Montpellier HSC
-           USL Dunkerque           v Amiens SC
+    19.00  AS Nancy Lorraine       v Stade de Reims           0-1 (0-0)
+           Clermont Foot 63        v Le Mans FC               1-1 (1-0)
+           ESTAC Troyes            v FC Annecy                3-1 (1-0)
+           Grenoble Foot 38        v SC Bastia                0-0
+           Rodez AF                v Pau FC                   1-2 (1-1)
+  Sat Sep/27
+    13.00  Stade Lavallois         v Montpellier HSC          0-1 (0-1)
+           USL Dunkerque           v Amiens SC                6-2 (4-0)
+    19.00  AS Saint-Étienne        v EA Guingamp              2-3 (1-1)
+  Mon Sep/29
+    19.45  US Boulogne             v Red Star FC              1-2 (1-1)
 
 
-» Matchday 9
+» 9. Round
   Fri Oct/3
-           EA Guingamp             v AS Nancy Lorraine
-           FC Annecy               v Stade Lavallois
-           Pau FC                  v Clermont Foot 63
-           Red Star FC             v Rodez AF
-           Montpellier HSC         v AS Saint-Étienne
-           Le Mans FC              v ESTAC Troyes
-           Amiens SC               v US Boulogne
-           SC Bastia               v USL Dunkerque
-           Stade de Reims          v Grenoble Foot 38
+    19.00  EA Guingamp             v AS Nancy Lorraine        2-2 (0-0)
+           FC Annecy               v Stade Lavallois          0-0
+           Pau FC                  v Clermont Foot 63         3-1 (3-0)
+           Le Mans FC              v ESTAC Troyes             2-2 (0-0)
+           Amiens SC               v US Boulogne              0-1 (0-0)
+           SC Bastia               v USL Dunkerque            0-0
+  Sat Oct/4
+    13.00  Red Star FC             v Rodez AF                 1-1 (0-0)
+           Stade de Reims          v Grenoble Foot 38         2-4 (1-2)
+    19.00  Montpellier HSC         v AS Saint-Étienne         0-2 (0-2)
 
 
-» Matchday 10
+» 10. Round
   Fri Oct/17
-           US Boulogne             v EA Guingamp
-           AS Nancy Lorraine       v Amiens SC
-           AS Saint-Étienne        v Le Mans FC
-           Clermont Foot 63        v FC Annecy
-           ESTAC Troyes            v SC Bastia
-           Grenoble Foot 38        v Pau FC
-           Rodez AF                v Stade de Reims
-           Stade Lavallois         v Red Star FC
-           USL Dunkerque           v Montpellier HSC
+    19.00  US Boulogne             v EA Guingamp              2-2 (0-1)
+           Clermont Foot 63        v FC Annecy                0-1 (0-1)
+           ESTAC Troyes            v SC Bastia                1-0 (1-0)
+           Grenoble Foot 38        v Pau FC                   1-1 (0-0)
+           Rodez AF                v Stade de Reims           2-2 (1-1)
+  Sat Oct/18
+    13.00  Stade Lavallois         v Red Star FC              0-1 (0-0)
+           USL Dunkerque           v Montpellier HSC          0-1 (0-0)
+    19.00  AS Saint-Étienne        v Le Mans FC               2-3 (1-1)
+  Mon Oct/20
+    19.45  AS Nancy Lorraine       v Amiens SC                0-1 (0-1)
 
 
-» Matchday 11
+» 11. Round
   Fri Oct/24
-           EA Guingamp             v Clermont Foot 63
-           FC Annecy               v AS Saint-Étienne
-           Pau FC                  v USL Dunkerque
-           Red Star FC             v Grenoble Foot 38
-           Montpellier HSC         v AS Nancy Lorraine
-           Le Mans FC              v US Boulogne
-           Amiens SC               v Rodez AF
-           SC Bastia               v Stade Lavallois
-           Stade de Reims          v ESTAC Troyes
+           SC Bastia               v Stade Lavallois          [postponed]
+    19.00  EA Guingamp             v Clermont Foot 63         0-1 (0-0)
+           Pau FC                  v USL Dunkerque            0-3 (0-2)
+           Red Star FC             v Grenoble Foot 38         1-0 (0-0)
+           Le Mans FC              v US Boulogne              1-0 (0-0)
+           Stade de Reims          v ESTAC Troyes             0-0
+  Sat Oct/25
+    13.00  Montpellier HSC         v AS Nancy Lorraine        4-1 (1-1)
+           Amiens SC               v Rodez AF                 2-1 (0-1)
+    19.00  FC Annecy               v AS Saint-Étienne         4-0 (1-0)
 
 
-» Matchday 12
+» 12. Round
   Tue Oct/28
-           US Boulogne             v Stade de Reims
-           AS Nancy Lorraine       v SC Bastia
-           AS Saint-Étienne        v Pau FC
-           Clermont Foot 63        v Montpellier HSC
-           ESTAC Troyes            v Amiens SC
-           Grenoble Foot 38        v EA Guingamp
-           Rodez AF                v FC Annecy
-           Stade Lavallois         v Le Mans FC
-           USL Dunkerque           v Red Star FC
+    19.30  US Boulogne             v Stade de Reims           2-6 (2-4)
+           AS Nancy Lorraine       v SC Bastia                2-0 (1-0)
+           AS Saint-Étienne        v Pau FC                   6-0 (4-0)
+           Clermont Foot 63        v Montpellier HSC          1-1 (1-1)
+           ESTAC Troyes            v Amiens SC                3-1 (0-1)
+           Grenoble Foot 38        v EA Guingamp              0-0
+           Rodez AF                v FC Annecy                2-1 (0-0)
+           Stade Lavallois         v Le Mans FC               1-1 (0-1)
+           USL Dunkerque           v Red Star FC              3-0 (1-0)
 
 
-» Matchday 13
+» 13. Round
   Fri Oct/31
-           EA Guingamp             v Stade Lavallois
-           FC Annecy               v US Boulogne
-           Pau FC                  v ESTAC Troyes
-           Red Star FC             v AS Saint-Étienne
-           Montpellier HSC         v Rodez AF
-           Le Mans FC              v AS Nancy Lorraine
-           Amiens SC               v Grenoble Foot 38
-           SC Bastia               v Clermont Foot 63
-           Stade de Reims          v USL Dunkerque
+    19.00  EA Guingamp             v Stade Lavallois          2-0 (2-0)
+           FC Annecy               v US Boulogne              1-1 (1-0)
+           Montpellier HSC         v Rodez AF                 2-0 (0-0)
+           Le Mans FC              v AS Nancy Lorraine        1-0 (0-0)
+           SC Bastia               v Clermont Foot 63         1-0 (0-0)
+  Sat Nov/1
+    13.00  Amiens SC               v Grenoble Foot 38         2-3 (0-2)
+           Stade de Reims          v USL Dunkerque            1-2 (1-1)
+    19.00  Red Star FC             v AS Saint-Étienne         2-1 (2-0)
+  Mon Nov/3
+    19.45  Pau FC                  v ESTAC Troyes             1-1 (1-0)
 
 
-» Matchday 14
+» 14. Round
   Fri Nov/7
-           AS Nancy Lorraine       v Stade Lavallois
+    19.00  AS Nancy Lorraine       v Stade Lavallois
            Clermont Foot 63        v Amiens SC
-           EA Guingamp             v Pau FC
-           ESTAC Troyes            v AS Saint-Étienne
            Grenoble Foot 38        v Rodez AF
            Montpellier HSC         v FC Annecy
-           Le Mans FC              v Red Star FC
            SC Bastia               v Stade de Reims
            USL Dunkerque           v US Boulogne
+  Sat Nov/8
+    13.00  EA Guingamp             v Pau FC
+           Le Mans FC              v Red Star FC
+    19.00  ESTAC Troyes            v AS Saint-Étienne
 
 
-» Matchday 15
+» 15. Round
   Fri Nov/21
-           US Boulogne             v Grenoble Foot 38
-           AS Saint-Étienne        v AS Nancy Lorraine
+    19.00  US Boulogne             v Grenoble Foot 38
            FC Annecy               v SC Bastia
            Pau FC                  v Le Mans FC
-           Red Star FC             v Clermont Foot 63
            Rodez AF                v USL Dunkerque
-           Amiens SC               v EA Guingamp
            Stade Lavallois         v ESTAC Troyes
-           Stade de Reims          v Montpellier HSC
+  Sat Nov/22
+    13.00  Red Star FC             v Clermont Foot 63
+           Amiens SC               v EA Guingamp
+    19.00  AS Saint-Étienne        v AS Nancy Lorraine
+  Mon Nov/24
+    19.45  Stade de Reims          v Montpellier HSC
 
 
-» Matchday 16
+» 16. Round
   Fri Dec/5
-           Clermont Foot 63        v US Boulogne
+    19.00  Clermont Foot 63        v US Boulogne
            EA Guingamp             v FC Annecy
-           ESTAC Troyes            v Rodez AF
            Grenoble Foot 38        v AS Nancy Lorraine
-           Montpellier HSC         v Pau FC
            Le Mans FC              v Amiens SC
            SC Bastia               v Red Star FC
-           Stade de Reims          v Stade Lavallois
-           USL Dunkerque           v AS Saint-Étienne
+  Sat Dec/6
+    13.00  ESTAC Troyes            v Rodez AF
+           Montpellier HSC         v Pau FC
+    19.00  USL Dunkerque           v AS Saint-Étienne
+  Mon Dec/8
+    19.45  Stade de Reims          v Stade Lavallois
 
 
-» Matchday 17
+» 17. Round
   Fri Dec/12
-           US Boulogne             v ESTAC Troyes
-           AS Nancy Lorraine       v Clermont Foot 63
-           AS Saint-Étienne        v SC Bastia
+    19.00  AS Nancy Lorraine       v Clermont Foot 63
            FC Annecy               v Le Mans FC
            Pau FC                  v Amiens SC
-           Red Star FC             v Stade de Reims
-           Grenoble Foot 38        v Montpellier HSC
            Rodez AF                v EA Guingamp
            Stade Lavallois         v USL Dunkerque
+  Sat Dec/13
+    13.00  Red Star FC             v Stade de Reims
+           Grenoble Foot 38        v Montpellier HSC
+    19.00  AS Saint-Étienne        v SC Bastia
+  Mon Dec/15
+    19.45  US Boulogne             v ESTAC Troyes
 
 
-» Matchday 18
+» 18. Round
   Fri Jan/2 2026
            Clermont Foot 63        v Stade Lavallois
            EA Guingamp             v US Boulogne
@@ -246,7 +265,7 @@
            Stade de Reims          v FC Annecy
 
 
-» Matchday 19
+» 19. Round
   Fri Jan/16
            US Boulogne             v Montpellier HSC
            AS Nancy Lorraine       v EA Guingamp
@@ -259,7 +278,7 @@
            USL Dunkerque           v Pau FC
 
 
-» Matchday 20
+» 20. Round
   Fri Jan/23
            AS Nancy Lorraine       v Rodez AF
            EA Guingamp             v ESTAC Troyes
@@ -272,7 +291,7 @@
            Stade de Reims          v AS Saint-Étienne
 
 
-» Matchday 21
+» 21. Round
   Fri Jan/30
            AS Saint-Étienne        v US Boulogne
            Clermont Foot 63        v Stade de Reims
@@ -285,7 +304,7 @@
            USL Dunkerque           v FC Annecy
 
 
-» Matchday 22
+» 22. Round
   Fri Feb/6
            US Boulogne             v Rodez AF
            AS Nancy Lorraine       v ESTAC Troyes
@@ -298,7 +317,7 @@
            USL Dunkerque           v EA Guingamp
 
 
-» Matchday 23
+» 23. Round
   Fri Feb/13
            Clermont Foot 63        v Rodez AF
            EA Guingamp             v AS Saint-Étienne
@@ -311,7 +330,7 @@
            Stade Lavallois         v FC Annecy
 
 
-» Matchday 24
+» 24. Round
   Fri Feb/20
            US Boulogne             v Clermont Foot 63
            AS Nancy Lorraine       v Grenoble Foot 38
@@ -324,7 +343,7 @@
            USL Dunkerque           v SC Bastia
 
 
-» Matchday 25
+» 25. Round
   Fri Feb/27
            Clermont Foot 63        v USL Dunkerque
            EA Guingamp             v Rodez AF
@@ -337,7 +356,7 @@
            Stade Lavallois         v AS Nancy Lorraine
 
 
-» Matchday 26
+» 26. Round
   Fri Mar/6
            US Boulogne             v Amiens SC
            AS Nancy Lorraine       v Montpellier HSC
@@ -350,7 +369,7 @@
            USL Dunkerque           v Stade de Reims
 
 
-» Matchday 27
+» 27. Round
   Fri Mar/13
            AS Nancy Lorraine       v Le Mans FC
            Clermont Foot 63        v Pau FC
@@ -363,7 +382,7 @@
            Stade de Reims          v Rodez AF
 
 
-» Matchday 28
+» 28. Round
   Fri Mar/20
            US Boulogne             v AS Nancy Lorraine
            AS Saint-Étienne        v FC Annecy
@@ -376,7 +395,7 @@
            Stade Lavallois         v Grenoble Foot 38
 
 
-» Matchday 29
+» 29. Round
   Fri Apr/3
            AS Nancy Lorraine       v AS Saint-Étienne
            FC Annecy               v EA Guingamp
@@ -389,7 +408,7 @@
            USL Dunkerque           v Rodez AF
 
 
-» Matchday 30
+» 30. Round
   Fri Apr/10
            US Boulogne             v Le Mans FC
            AS Saint-Étienne        v USL Dunkerque
@@ -402,7 +421,7 @@
            Stade Lavallois         v Stade de Reims
 
 
-» Matchday 31
+» 31. Round
   Fri Apr/17
            AS Nancy Lorraine       v FC Annecy
            ESTAC Troyes            v US Boulogne
@@ -415,7 +434,7 @@
            USL Dunkerque           v Stade Lavallois
 
 
-» Matchday 32
+» 32. Round
   Fri Apr/24
            US Boulogne             v USL Dunkerque
            AS Saint-Étienne        v ESTAC Troyes
@@ -428,7 +447,7 @@
            Stade de Reims          v AS Nancy Lorraine
 
 
-» Matchday 33
+» 33. Round
   Fri May/1
            US Boulogne             v FC Annecy
            EA Guingamp             v SC Bastia
@@ -441,7 +460,7 @@
            USL Dunkerque           v Grenoble Foot 38
 
 
-» Matchday 34
+» 34. Round
   Fri May/8
            AS Nancy Lorraine       v USL Dunkerque
            AS Saint-Étienne        v Amiens SC
