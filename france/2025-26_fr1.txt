@@ -171,17 +171,17 @@
 
 » Matchday 12
   Fri Nov/7
-    20.45  Paris FC                v Stade Rennais FC 1901
+    20.45  Paris FC                v Stade Rennais FC 1901    0-1 (0-0)
   Sat Nov/8
-    17.00  Olympique de Marseille  v Stade Brestois 29
-    19.00  Le Havre AC             v FC Nantes
-    21.05  AS Monaco FC            v Racing Club de Lens
+    17.00  Olympique de Marseille  v Stade Brestois 29        3-0 (2-0)
+    19.00  Le Havre AC             v FC Nantes                1-1 (0-1)
+    21.05  AS Monaco FC            v Racing Club de Lens      1-4 (1-3)
   Sun Nov/9
-    15.00  FC Lorient              v Toulouse FC
-    17.15  FC Metz                 v OGC Nice
-           RC Strasbourg Alsace    v Lille OSC
-           Angers SCO              v AJ Auxerre
-    20.45  Olympique Lyonnais      v Paris Saint-Germain FC
+    15.00  FC Lorient              v Toulouse FC              1-1 (1-0)
+    17.15  FC Metz                 v OGC Nice                 2-1 (0-1)
+           RC Strasbourg Alsace    v Lille OSC                2-0 (1-0)
+           Angers SCO              v AJ Auxerre               2-0 (0-0)
+    20.45  Olympique Lyonnais      v Paris Saint-Germain FC   2-3 (1-2)
 
 
 » Matchday 13
@@ -245,55 +245,63 @@
 
 
 » Matchday 17
-  Sun Jan/4 2026
-           Le Havre AC             v Angers SCO
-           AS Monaco FC            v Olympique Lyonnais
+  Fri Jan/2 2026
+    20.45  Toulouse FC             v Racing Club de Lens
+  Sat Jan/3
+    17.00  AS Monaco FC            v Olympique Lyonnais
+    19.00  OGC Nice                v RC Strasbourg Alsace
+    21.05  Lille OSC               v Stade Rennais FC 1901
+  Sun Jan/4
+    15.00  Olympique de Marseille  v FC Nantes
+    17.15  Le Havre AC             v Angers SCO
            FC Lorient              v FC Metz
-           Toulouse FC             v Racing Club de Lens
-           OGC Nice                v RC Strasbourg Alsace
-           Olympique de Marseille  v FC Nantes                [postponed]
-           Lille OSC               v Stade Rennais FC 1901
-           Paris Saint-Germain FC  v Paris FC                 [postponed]
            Stade Brestois 29       v AJ Auxerre
+    20.45  Paris Saint-Germain FC  v Paris FC
 
 
 » Matchday 18
+  Fri Jan/16
+    19.00  AS Monaco FC            v FC Lorient
+    21.00  Paris Saint-Germain FC  v Lille OSC
+  Sat Jan/17
+    17.00  Racing Club de Lens     v AJ Auxerre
+    19.00  Toulouse FC             v OGC Nice
+    21.05  Angers SCO              v Olympique de Marseille
   Sun Jan/18
-           AS Monaco FC            v FC Lorient
-           FC Nantes               v Paris FC
-           Toulouse FC             v OGC Nice
-           Olympique Lyonnais      v Stade Brestois 29
-           Paris Saint-Germain FC  v Lille OSC
-           RC Strasbourg Alsace    v FC Metz
-           Racing Club de Lens     v AJ Auxerre
-           Angers SCO              v Olympique de Marseille
+    15.00  RC Strasbourg Alsace    v FC Metz
+    17.15  FC Nantes               v Paris FC
            Stade Rennais FC 1901   v Le Havre AC
+    20.45  Olympique Lyonnais      v Stade Brestois 29
 
 
 » Matchday 19
+  Fri Jan/23
+    20.00  AJ Auxerre              v Paris Saint-Germain FC
+  Sat Jan/24
+    17.00  Stade Rennais FC 1901   v FC Lorient
+    19.00  Le Havre AC             v AS Monaco FC
+    21.05  Olympique de Marseille  v Racing Club de Lens
   Sun Jan/25
-           Le Havre AC             v AS Monaco FC
-           AJ Auxerre              v Paris Saint-Germain FC
-           FC Metz                 v Olympique Lyonnais
-           FC Nantes               v OGC Nice
+    15.00  FC Nantes               v OGC Nice
+    17.15  FC Metz                 v Olympique Lyonnais
            Paris FC                v Angers SCO
-           Olympique de Marseille  v Racing Club de Lens
-           Lille OSC               v RC Strasbourg Alsace
            Stade Brestois 29       v Toulouse FC
-           Stade Rennais FC 1901   v FC Lorient
+    20.45  Lille OSC               v RC Strasbourg Alsace
 
 
 » Matchday 20
+  Fri Jan/30
+    20.45  Racing Club de Lens     v Le Havre AC
+  Sat Jan/31
+    17.00  Paris FC                v Olympique de Marseille
+    19.00  FC Lorient              v FC Nantes
+    21.05  AS Monaco FC            v Stade Rennais FC 1901
   Sun Feb/1
-           AS Monaco FC            v Stade Rennais FC 1901
-           FC Lorient              v FC Nantes
-           Paris FC                v Olympique de Marseille
-           Toulouse FC             v AJ Auxerre
+    15.00  Olympique Lyonnais      v Lille OSC
+    17.15  Toulouse FC             v AJ Auxerre
            OGC Nice                v Stade Brestois 29
-           Olympique Lyonnais      v Lille OSC
-           RC Strasbourg Alsace    v Paris Saint-Germain FC
-           Racing Club de Lens     v Le Havre AC
            Angers SCO              v FC Metz
+    20.45  RC Strasbourg Alsace    v Paris Saint-Germain FC
 
 
 » Matchday 21
