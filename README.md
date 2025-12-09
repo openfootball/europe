@@ -13,8 +13,10 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain match fixtures & results datasets in the Football.TXT format include:
 
-
+<!--  moved to its own repo in 2025/26
 - [**Belgium**](belgium) - First Division A
+--> 
+
 - [**Netherlands**](netherlands) - Eredivisie
 - [**Switzerland (Schweiz • Suisse • Svizzera • Svizra) incl. Liechtenstein**](switzerland) - Super League, Challenge League
 - [**Hungary**](hungary) - NB I
