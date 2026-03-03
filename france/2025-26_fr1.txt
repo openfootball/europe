@@ -351,17 +351,17 @@
 
 » Matchday 24
   Fri Feb/27
-    20.45  RC Strasbourg Alsace    v Racing Club de Lens
+    20.45  RC Strasbourg Alsace    v Racing Club de Lens      1-1 (1-0)
   Sat Feb/28
-    17.00  Stade Rennais FC 1901   v Toulouse FC
-    19.00  AS Monaco FC            v Angers SCO
-    21.05  Le Havre AC             v Paris Saint-Germain FC
+    17.00  Stade Rennais FC 1901   v Toulouse FC              1-0 (1-0)
+    19.00  AS Monaco FC            v Angers SCO               2-0 (0-0)
+    21.05  Le Havre AC             v Paris Saint-Germain FC   0-1 (0-1)
   Sun Mar/1
-    15.00  Paris FC                v OGC Nice
-    17.15  FC Lorient              v AJ Auxerre
-           FC Metz                 v Stade Brestois 29
-           Lille OSC               v FC Nantes
-    20.45  Olympique de Marseille  v Olympique Lyonnais
+    15.00  Paris FC                v OGC Nice                 1-0 (1-0)
+    17.15  FC Lorient              v AJ Auxerre               2-2 (2-2)
+           FC Metz                 v Stade Brestois 29        0-1 (0-0)
+           Lille OSC               v FC Nantes                1-0 (0-0)
+    20.45  Olympique de Marseille  v Olympique Lyonnais       3-2 (0-1)
 
 
 » Matchday 25
@@ -380,16 +380,18 @@
 
 
 » Matchday 26
+  Fri Mar/13
+    20.45  Olympique de Marseille  v AJ Auxerre
+  Sat Mar/14
+    17.00  FC Lorient              v Racing Club de Lens
+    19.00  Angers SCO              v OGC Nice
+    21.05  AS Monaco FC            v Stade Brestois 29
   Sun Mar/15
-           Le Havre AC             v Olympique Lyonnais
-           AS Monaco FC            v Stade Brestois 29
-           FC Lorient              v Racing Club de Lens
+           Paris Saint-Germain FC  v FC Nantes                [postponed]
+    15.00  RC Strasbourg Alsace    v Paris FC
+    17.15  Le Havre AC             v Olympique Lyonnais
            FC Metz                 v Toulouse FC
-           Olympique de Marseille  v AJ Auxerre
-           Paris Saint-Germain FC  v FC Nantes
-           RC Strasbourg Alsace    v Paris FC
-           Angers SCO              v OGC Nice
-           Stade Rennais FC 1901   v Lille OSC
+    20.45  Stade Rennais FC 1901   v Lille OSC
 
 
 » Matchday 27

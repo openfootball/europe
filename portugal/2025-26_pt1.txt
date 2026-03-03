@@ -380,57 +380,62 @@
 
 » Matchday 24
   Fri Feb/27
-    18.45  FC Porto                v FC Arouca
-    20.45  Sporting Clube de Portugal v GD Estoril Praia
+    18.45  FC Porto                v FC Arouca                3-1 (1-0)
+    20.45  Sporting Clube de Portugal v GD Estoril Praia         3-0 (2-0)
   Sat Feb/28
-    15.30  AVS                     v CF Estrela da Amadora
-    18.00  CD Nacional             v Sporting Clube de Braga
-    20.30  Vitória Guimarães       v FC Alverca
+    15.30  AVS                     v CF Estrela da Amadora    0-0
+    18.00  CD Nacional             v Sporting Clube de Braga  1-2 (0-1)
+    20.30  Vitória Guimarães       v FC Alverca               1-1 (0-0)
   Sun Mar/1
-    15.30  CD Tondela              v CD Santa Clara
-    18.00  Casa Pia AC             v Moreirense FC
-    20.30  Rio Ave FC              v FC Famalicão
+    15.30  CD Tondela              v CD Santa Clara           2-2 (1-1)
+    18.00  Casa Pia AC             v Moreirense FC            1-1 (1-0)
+    20.30  Rio Ave FC              v FC Famalicão             0-0
   Mon Mar/2
-    20.15  Gil Vicente FC          v Sport Lisboa e Benfica
+    20.15  Gil Vicente FC          v Sport Lisboa e Benfica   1-2 (0-1)
 
 
 » Matchday 25
-  Sun Mar/8
-           FC Alverca              v AVS
-           GD Estoril Praia        v Casa Pia AC
-           FC Famalicão            v FC Arouca
-           CD Tondela              v Rio Ave FC
-           CF Estrela da Amadora   v Gil Vicente FC
+  Fri Mar/6
+    20.15  FC Famalicão            v FC Arouca
+  Sat Mar/7
+    15.30  FC Alverca              v AVS
            Moreirense FC           v CD Nacional
-           CD Santa Clara          v Vitória Guimarães
-           Sporting Clube de Braga v Sporting Clube de Portugal
-           Sport Lisboa e Benfica  v FC Porto
+    18.00  Sporting Clube de Braga v Sporting Clube de Portugal
+    20.30  GD Estoril Praia        v Casa Pia AC
+  Sun Mar/8
+    15.30  CF Estrela da Amadora   v Gil Vicente FC
+    18.00  Sport Lisboa e Benfica  v FC Porto
+    20.30  CD Santa Clara          v Vitória Guimarães
+  Mon Mar/9
+    20.15  CD Tondela              v Rio Ave FC
 
 
 » Matchday 26
+  Sat Mar/14
+    15.30  Vitória Guimarães       v FC Famalicão
+    18.00  Gil Vicente FC          v FC Alverca
+    20.30  FC Arouca               v Sport Lisboa e Benfica
   Sun Mar/15
-           CD Nacional             v GD Estoril Praia
-           Rio Ave FC              v CF Estrela da Amadora
-           Gil Vicente FC          v FC Alverca
-           Vitória Guimarães       v FC Famalicão
-           FC Porto                v Moreirense FC
-           Casa Pia AC             v Sporting Clube de Braga
+           Sporting Clube de Portugal v CD Tondela               [postponed]
+    15.30  CD Nacional             v GD Estoril Praia
            AVS                     v CD Santa Clara
-           FC Arouca               v Sport Lisboa e Benfica
-           Sporting Clube de Portugal v CD Tondela
+    18.00  Rio Ave FC              v CF Estrela da Amadora
+    20.30  FC Porto                v Moreirense FC
 
 
 » Matchday 27
-  Sun Mar/22
-           CD Tondela              v AVS
-           CF Estrela da Amadora   v Casa Pia AC
-           Moreirense FC           v FC Arouca
-           GD Estoril Praia        v Rio Ave FC
-           FC Alverca              v Sporting Clube de Portugal
+  Fri Mar/20
+    20.15  CF Estrela da Amadora   v Casa Pia AC
+  Sat Mar/21
+    15.30  Moreirense FC           v FC Arouca
            FC Famalicão            v CD Nacional
-           CD Santa Clara          v Gil Vicente FC
-           Sporting Clube de Braga v FC Porto
+    18.00  CD Santa Clara          v Gil Vicente FC
            Sport Lisboa e Benfica  v Vitória Guimarães
+    20.30  CD Tondela              v AVS
+  Sun Mar/22
+    15.30  GD Estoril Praia        v Rio Ave FC
+    18.00  FC Alverca              v Sporting Clube de Portugal
+    20.30  Sporting Clube de Braga v FC Porto
 
 
 » Matchday 28
@@ -470,6 +475,11 @@
            FC Arouca               v CF Estrela da Amadora
            FC Porto                v CD Tondela
            Sporting Clube de Braga v FC Famalicão
+
+
+» Matchday 26
+  Thu Apr/23
+           Casa Pia AC             v Sporting Clube de Braga
 
 
 » Matchday 31
