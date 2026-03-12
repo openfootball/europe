@@ -366,17 +366,17 @@
 
 » Matchday 25
   Fri Mar/6
-    20.45  Paris Saint-Germain FC  v AS Monaco FC
+    20.45  Paris Saint-Germain FC  v AS Monaco FC             1-3 (0-1)
   Sat Mar/7
-    17.00  FC Nantes               v Angers SCO
-    19.00  AJ Auxerre              v RC Strasbourg Alsace
-    21.05  Toulouse FC             v Olympique de Marseille
+    17.00  FC Nantes               v Angers SCO               0-1 (0-0)
+    19.00  AJ Auxerre              v RC Strasbourg Alsace     0-0
+    21.05  Toulouse FC             v Olympique de Marseille   0-1 (0-1)
   Sun Mar/8
-    15.00  Racing Club de Lens     v FC Metz
-    17.15  OGC Nice                v Stade Rennais FC 1901
-           Lille OSC               v FC Lorient
-           Stade Brestois 29       v Le Havre AC
-    20.45  Olympique Lyonnais      v Paris FC
+    15.00  Racing Club de Lens     v FC Metz                  3-0 (1-0)
+    17.15  OGC Nice                v Stade Rennais FC 1901    0-4 (0-2)
+           Lille OSC               v FC Lorient               1-1 (0-0)
+           Stade Brestois 29       v Le Havre AC              2-0 (1-0)
+    20.45  Olympique Lyonnais      v Paris FC                 1-1 (0-0)
 
 
 » Matchday 26
@@ -395,42 +395,48 @@
 
 
 » Matchday 27
+  Fri Mar/20
+    20.45  Racing Club de Lens     v Angers SCO
+  Sat Mar/21
+    17.00  Toulouse FC             v FC Lorient
+    19.00  AJ Auxerre              v Stade Brestois 29
+    21.05  OGC Nice                v Paris Saint-Germain FC
   Sun Mar/22
-           AJ Auxerre              v Stade Brestois 29
-           FC Nantes               v RC Strasbourg Alsace
-           Paris FC                v Le Havre AC
-           Toulouse FC             v FC Lorient
-           OGC Nice                v Paris Saint-Germain FC
-           Olympique Lyonnais      v AS Monaco FC
+    15.00  Olympique Lyonnais      v AS Monaco FC
+    17.15  Paris FC                v Le Havre AC
            Olympique de Marseille  v Lille OSC
-           Racing Club de Lens     v Angers SCO
            Stade Rennais FC 1901   v FC Metz
+    20.45  FC Nantes               v RC Strasbourg Alsace
 
 
 » Matchday 28
+  Fri Apr/3
+    20.45  Paris Saint-Germain FC  v Toulouse FC
+  Sat Apr/4
+    17.00  RC Strasbourg Alsace    v OGC Nice
+    19.00  Stade Brestois 29       v Stade Rennais FC 1901
+    21.05  Lille OSC               v Racing Club de Lens
   Sun Apr/5
-           Le Havre AC             v AJ Auxerre
-           AS Monaco FC            v Olympique de Marseille
+    15.00  Angers SCO              v Olympique Lyonnais
+    17.15  Le Havre AC             v AJ Auxerre
            FC Lorient              v Paris FC
            FC Metz                 v FC Nantes
-           Lille OSC               v Racing Club de Lens
-           Paris Saint-Germain FC  v Toulouse FC
-           RC Strasbourg Alsace    v OGC Nice
-           Angers SCO              v Olympique Lyonnais
-           Stade Brestois 29       v Stade Rennais FC 1901
+    20.45  AS Monaco FC            v Olympique de Marseille
 
 
 » Matchday 29
+  Fri Apr/10
+    20.45  Olympique de Marseille  v FC Metz
+  Sat Apr/11
+    17.00  Racing Club de Lens     v Paris Saint-Germain FC
+    19.00  AJ Auxerre              v FC Nantes
+    21.05  Stade Rennais FC 1901   v Angers SCO
   Sun Apr/12
-           AJ Auxerre              v FC Nantes
-           Paris FC                v AS Monaco FC
-           Toulouse FC             v Lille OSC
+    15.00  Paris FC                v AS Monaco FC
+    17.15  Toulouse FC             v Lille OSC
            OGC Nice                v Le Havre AC
-           Olympique Lyonnais      v FC Lorient
-           Olympique de Marseille  v FC Metz
-           Racing Club de Lens     v Paris Saint-Germain FC
            Stade Brestois 29       v RC Strasbourg Alsace
-           Stade Rennais FC 1901   v Angers SCO
+    20.45  Olympique Lyonnais      v FC Lorient
 
 
 » Matchday 30

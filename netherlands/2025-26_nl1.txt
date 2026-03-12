@@ -396,17 +396,17 @@
 
 » Matchday 26
   Fri Mar/6
-    20.00  Heracles Almelo         v FC Utrecht
+    20.00  Heracles Almelo         v FC Utrecht               0-0
   Sat Mar/7
-    16.30  FC Groningen            v AFC Ajax
-    20.00  PSV                     v AZ
-    21.00  SBV Excelsior           v SC Heerenveen
+    16.30  FC Groningen            v AFC Ajax                 3-1 (1-1)
+    20.00  PSV                     v AZ                       2-1 (1-1)
+    21.00  SBV Excelsior           v SC Heerenveen            1-2 (0-1)
   Sun Mar/8
-    12.15  Sparta Rotterdam        v PEC Zwolle
-    14.30  Fortuna Sittard         v Telstar 1963
-           Go Ahead Eagles         v FC Twente '65
-    16.45  NAC Breda               v Feyenoord Rotterdam
-    20.00  NEC                     v FC Volendam
+    12.15  Sparta Rotterdam        v PEC Zwolle               1-1 (0-0)
+    14.30  Fortuna Sittard         v Telstar 1963             1-4 (1-2)
+           Go Ahead Eagles         v FC Twente '65            1-4 (0-2)
+    16.45  NAC Breda               v Feyenoord Rotterdam      3-3 (3-2)
+    20.00  NEC                     v FC Volendam              3-0 (1-0)
 
 
 » Matchday 27
@@ -436,7 +436,7 @@
     14.30  FC Utrecht              v Go Ahead Eagles
            Feyenoord Rotterdam     v AFC Ajax
     16.45  FC Groningen            v AZ
-    20.00  Telstar 1963            v PSV
+           Telstar 1963            v PSV
 
 
 » Matchday 29
