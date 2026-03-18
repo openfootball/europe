@@ -381,17 +381,17 @@
 
 » Matchday 26
   Fri Mar/13
-    20.45  Olympique de Marseille  v AJ Auxerre
+    20.45  Olympique de Marseille  v AJ Auxerre               1-0 (0-0)
   Sat Mar/14
-    17.00  FC Lorient              v Racing Club de Lens
-    19.00  Angers SCO              v OGC Nice
-    21.05  AS Monaco FC            v Stade Brestois 29
+    17.00  FC Lorient              v Racing Club de Lens      2-1 (1-0)
+    19.00  Angers SCO              v OGC Nice                 0-2 (0-0)
+    21.05  AS Monaco FC            v Stade Brestois 29        2-0 (1-0)
   Sun Mar/15
            Paris Saint-Germain FC  v FC Nantes                [postponed]
-    15.00  RC Strasbourg Alsace    v Paris FC
-    17.15  Le Havre AC             v Olympique Lyonnais
-           FC Metz                 v Toulouse FC
-    20.45  Stade Rennais FC 1901   v Lille OSC
+    15.00  RC Strasbourg Alsace    v Paris FC                 0-0
+    17.15  Le Havre AC             v Olympique Lyonnais       0-0
+           FC Metz                 v Toulouse FC              3-4 (2-3)
+    20.45  Stade Rennais FC 1901   v Lille OSC                1-2 (0-1)
 
 
 » Matchday 27
@@ -400,7 +400,7 @@
   Sat Mar/21
     17.00  Toulouse FC             v FC Lorient
     19.00  AJ Auxerre              v Stade Brestois 29
-    21.05  OGC Nice                v Paris Saint-Germain FC
+    21.00  OGC Nice                v Paris Saint-Germain FC
   Sun Mar/22
     15.00  Olympique Lyonnais      v AS Monaco FC
     17.15  Paris FC                v Le Havre AC
@@ -426,13 +426,13 @@
 
 » Matchday 29
   Fri Apr/10
+    19.00  Paris FC                v AS Monaco FC
     20.45  Olympique de Marseille  v FC Metz
   Sat Apr/11
     17.00  Racing Club de Lens     v Paris Saint-Germain FC
     19.00  AJ Auxerre              v FC Nantes
     21.05  Stade Rennais FC 1901   v Angers SCO
   Sun Apr/12
-    15.00  Paris FC                v AS Monaco FC
     17.15  Toulouse FC             v Lille OSC
            OGC Nice                v Le Havre AC
            Stade Brestois 29       v RC Strasbourg Alsace
