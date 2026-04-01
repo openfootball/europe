@@ -439,42 +439,50 @@
 
 
 » Matchday 28
+  Fri Apr/3
+    15.30  Gil Vicente FC          v AVS
+    18.00  Vitória Guimarães       v CD Tondela
+    20.30  Sporting Clube de Portugal v CD Santa Clara
   Sat Apr/4
-           Gil Vicente FC          v AVS
-           CD Nacional             v CF Estrela da Amadora
-           Rio Ave FC              v FC Alverca
-           FC Porto                v FC Famalicão
-           Sporting Clube de Portugal v CD Santa Clara
+    15.30  CD Nacional             v CF Estrela da Amadora
+    18.00  Rio Ave FC              v FC Alverca
            Moreirense FC           v Sporting Clube de Braga
-           Casa Pia AC             v Sport Lisboa e Benfica
-           FC Arouca               v GD Estoril Praia
-           Vitória Guimarães       v CD Tondela
+    20.30  FC Porto                v FC Famalicão
+  Mon Apr/6
+    18.45  FC Arouca               v GD Estoril Praia
+    20.45  Casa Pia AC             v Sport Lisboa e Benfica
 
 
 » Matchday 29
+  Fri Apr/10
+    20.45  FC Famalicão            v Moreirense FC
+  Sat Apr/11
+    15.30  AVS                     v Vitória Guimarães
+    18.00  CD Santa Clara          v Rio Ave FC
+    20.30  CF Estrela da Amadora   v Sporting Clube de Portugal
   Sun Apr/12
-           Sporting Clube de Braga v FC Arouca
-           CD Tondela              v Gil Vicente FC
-           AVS                     v Vitória Guimarães
-           GD Estoril Praia        v FC Porto
-           CF Estrela da Amadora   v Sporting Clube de Portugal
-           FC Alverca              v Casa Pia AC
-           FC Famalicão            v Moreirense FC
-           CD Santa Clara          v Rio Ave FC
+    15.30  FC Alverca              v Casa Pia AC
+    18.00  Sporting Clube de Braga v FC Arouca
            Sport Lisboa e Benfica  v CD Nacional
+    20.30  GD Estoril Praia        v FC Porto
+  Mon Apr/13
+    20.15  CD Tondela              v Gil Vicente FC
 
 
 » Matchday 30
+  Fri Apr/17
+    20.45  Rio Ave FC              v AVS
+  Sat Apr/18
+    15.30  CD Nacional             v FC Alverca
+    18.00  Casa Pia AC             v CD Santa Clara
+    20.30  Gil Vicente FC          v Vitória Guimarães
   Sun Apr/19
-           Rio Ave FC              v AVS
-           Moreirense FC           v GD Estoril Praia
-           CD Nacional             v FC Alverca
-           Casa Pia AC             v CD Santa Clara
-           Sporting Clube de Portugal v Sport Lisboa e Benfica
-           Gil Vicente FC          v Vitória Guimarães
-           FC Arouca               v CF Estrela da Amadora
-           FC Porto                v CD Tondela
+    15.30  FC Arouca               v CF Estrela da Amadora
+    18.00  Sporting Clube de Portugal v Sport Lisboa e Benfica
+    20.30  FC Porto                v CD Tondela
            Sporting Clube de Braga v FC Famalicão
+  Mon Apr/20
+    20.15  Moreirense FC           v GD Estoril Praia
 
 
 » Matchday 26
