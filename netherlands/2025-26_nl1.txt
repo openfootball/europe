@@ -441,16 +441,16 @@
 
 » Matchday 29
   Sat Apr/4
-    16.30  PSV                     v FC Utrecht
-    18.45  AZ                      v Fortuna Sittard
-           Telstar 1963            v FC Groningen
-    21.00  AFC Ajax                v FC Twente '65
-           SBV Excelsior           v NEC
+    16.30  PSV                     v FC Utrecht               4-3 (1-2)
+    18.45  Telstar 1963            v FC Groningen             0-2 (0-1)
+    19.00  AZ                      v Fortuna Sittard          2-0 (2-0)
+    21.00  AFC Ajax                v FC Twente '65            1-2 (1-1)
+           SBV Excelsior           v NEC                      0-2 (0-1)
   Sun Apr/5
-    12.15  Go Ahead Eagles         v PEC Zwolle
-    14.30  FC Volendam             v Feyenoord Rotterdam
-           SC Heerenveen           v Heracles Almelo
-    16.45  NAC Breda               v Sparta Rotterdam
+    12.15  Go Ahead Eagles         v PEC Zwolle               5-0 (3-0)
+    14.30  FC Volendam             v Feyenoord Rotterdam      0-0
+           SC Heerenveen           v Heracles Almelo          4-1 (2-1)
+    16.45  NAC Breda               v Sparta Rotterdam         0-0
 
 
 » Matchday 30
@@ -472,14 +472,16 @@
   Wed Apr/22
     20.00  Telstar 1963            v Sparta Rotterdam
   Thu Apr/23
-           SBV Excelsior           v FC Utrecht
-           Feyenoord Rotterdam     v FC Groningen
-           Heracles Almelo         v FC Volendam
-           NAC Breda               v AFC Ajax
-           SC Heerenveen           v Fortuna Sittard
-           FC Twente '65           v NEC
     18.45  Go Ahead Eagles         v AZ
     21.00  PSV                     v PEC Zwolle
+  Sat Apr/25
+    16.30  Feyenoord Rotterdam     v FC Groningen
+    18.45  SC Heerenveen           v Fortuna Sittard
+    20.00  NAC Breda               v AFC Ajax
+    21.00  FC Twente '65           v NEC
+  Sun Apr/26
+    12.15  SBV Excelsior           v FC Utrecht
+    14.30  Heracles Almelo         v FC Volendam
 
 
 » Matchday 32
