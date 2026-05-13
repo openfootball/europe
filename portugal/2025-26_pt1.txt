@@ -1,6 +1,6 @@
 = Portuguese Primeira Liga 2025/26
 
-# Date       Fri Aug/8 2025 - Sun May/17 2026 (282d)
+# Date       Fri Aug/8 2025 - Sat May/16 2026 (281d)
 # Teams      18
 # Matches    306
 
@@ -527,25 +527,26 @@
 
 » Matchday 33
   Sun May/10
-           Vitória Guimarães       v Casa Pia AC
-           Gil Vicente FC          v FC Arouca
-           CD Tondela              v Moreirense FC
-           AVS                     v FC Porto
-           CF Estrela da Amadora   v FC Famalicão
-           FC Alverca              v GD Estoril Praia
-           Rio Ave FC              v Sporting Clube de Portugal
-           CD Santa Clara          v CD Nacional
-           Sport Lisboa e Benfica  v Sporting Clube de Braga
+    18.00  AVS                     v FC Porto                 3-1 (1-0)
+    20.30  FC Alverca              v GD Estoril Praia         1-1 (1-0)
+  Mon May/11
+    20.15  Vitória Guimarães       v Casa Pia AC              0-1 (0-0)
+           Gil Vicente FC          v FC Arouca                1-3 (0-0)
+           CD Tondela              v Moreirense FC            2-0 (1-0)
+           CF Estrela da Amadora   v FC Famalicão             0-0
+           Rio Ave FC              v Sporting Clube de Portugal  1-4 (1-2)
+           CD Santa Clara          v CD Nacional              2-0 (1-0)
+           Sport Lisboa e Benfica  v Sporting Clube de Braga  2-2 (0-0)
 
 
 » Matchday 34
-  Sun May/17
-           Moreirense FC           v AVS
-           FC Famalicão            v FC Alverca
-           Sporting Clube de Portugal v Gil Vicente FC
+  Sat May/16
+    15.30  Moreirense FC           v AVS
            FC Porto                v CD Santa Clara
-           GD Estoril Praia        v Sport Lisboa e Benfica
-           CD Nacional             v Vitória Guimarães
+    18.00  CD Nacional             v Vitória Guimarães
            Casa Pia AC             v Rio Ave FC
            FC Arouca               v CD Tondela
            Sporting Clube de Braga v CF Estrela da Amadora
+    20.30  FC Famalicão            v FC Alverca
+           Sporting Clube de Portugal v Gil Vicente FC
+           GD Estoril Praia        v Sport Lisboa e Benfica
