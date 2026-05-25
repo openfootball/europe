@@ -1,536 +1,536 @@
 = Portuguese Primeira Liga 2025/26
 
-# Date       Fri Aug/8 2025 - Sat May/16 2026 (281d)
+# Date       Fri Aug 8 2025 - Sat May 16 2026 (281d)
 # Teams      18
 # Matches    306
 
 
 
-» Matchday 1
-  Fri Aug/8 2025
-    20.15  Casa Pia AC             v Sporting Clube de Portugal  0-2 (0-1)
-  Sat Aug/9
-    15.30  CD Nacional             v Gil Vicente FC           0-2 (0-2)
-    20.30  FC Arouca               v AVS                      3-1 (1-0)
-  Sun Aug/10
-    17.00  FC Famalicão            v CD Santa Clara           3-0 (2-0)
-    20.30  Sporting Clube de Braga v CD Tondela               3-0 (2-0)
+▪ Matchday 1
+  Fri Aug 8 2025
+    20:15  Casa Pia AC             v Sporting Clube de Portugal  0-2 (0-1)
+  Sat Aug 9
+    15:30  CD Nacional             v Gil Vicente FC           0-2 (0-2)
+    20:30  FC Arouca               v AVS                      3-1 (1-0)
+  Sun Aug 10
+    17:00  FC Famalicão            v CD Santa Clara           3-0 (2-0)
+    20:30  Sporting Clube de Braga v CD Tondela               3-0 (2-0)
            Moreirense FC           v FC Alverca               2-1 (1-1)
-  Mon Aug/11
-    18.45  GD Estoril Praia        v CF Estrela da Amadora    1-1 (1-0)
-    20.45  FC Porto                v Vitória Guimarães        3-0 (2-0)
+  Mon Aug 11
+    18:45  GD Estoril Praia        v CF Estrela da Amadora    1-1 (1-0)
+    20:45  FC Porto                v Vitória Guimarães        3-0 (2-0)
 
 
-» Matchday 2
-  Fri Aug/15
-    15.45  AVS                     v Casa Pia AC              0-2 (0-1)
-  Sat Aug/16
-    15.30  CD Tondela              v FC Famalicão             0-1 (0-0)
-    18.00  Vitória Guimarães       v GD Estoril Praia         3-2 (1-1)
-    20.30  CF Estrela da Amadora   v Sport Lisboa e Benfica   0-1 (0-0)
-  Sun Aug/17
-    15.30  Rio Ave FC              v CD Nacional              1-1 (1-0)
-    18.00  FC Alverca              v Sporting Clube de Braga  0-3 (0-3)
+▪ Matchday 2
+  Fri Aug 15
+    15:45  AVS                     v Casa Pia AC              0-2 (0-1)
+  Sat Aug 16
+    15:30  CD Tondela              v FC Famalicão             0-1 (0-0)
+    18:00  Vitória Guimarães       v GD Estoril Praia         3-2 (1-1)
+    20:30  CF Estrela da Amadora   v Sport Lisboa e Benfica   0-1 (0-0)
+  Sun Aug 17
+    15:30  Rio Ave FC              v CD Nacional              1-1 (1-0)
+    18:00  FC Alverca              v Sporting Clube de Braga  0-3 (0-3)
            CD Santa Clara          v Moreirense FC            0-1 (0-1)
-    20.30  Sporting Clube de Portugal v FC Arouca                6-0 (3-0)
-  Mon Aug/18
-    20.15  Gil Vicente FC          v FC Porto                 0-2 (0-1)
+    20:30  Sporting Clube de Portugal v FC Arouca                6-0 (3-0)
+  Mon Aug 18
+    20:15  Gil Vicente FC          v FC Porto                 0-2 (0-1)
 
 
-» Matchday 3
-  Sat Aug/23
-    16.00  Moreirense FC           v Vitória Guimarães        2-0 (0-0)
-    18.00  CD Nacional             v Sporting Clube de Portugal  1-4 (1-0)
-    20.30  FC Arouca               v Rio Ave FC               3-3 (1-0)
+▪ Matchday 3
+  Sat Aug 23
+    16:00  Moreirense FC           v Vitória Guimarães        2-0 (0-0)
+    18:00  CD Nacional             v Sporting Clube de Portugal  1-4 (1-0)
+    20:30  FC Arouca               v Rio Ave FC               3-3 (1-0)
            Sport Lisboa e Benfica  v CD Tondela               3-0 (2-0)
-  Sun Aug/24
-    15.30  FC Famalicão            v Gil Vicente FC           0-0
-    18.00  FC Porto                v Casa Pia AC              4-0 (3-0)
-    20.30  Sporting Clube de Braga v AVS                      2-2 (1-2)
-  Mon Aug/25
-    20.15  CF Estrela da Amadora   v FC Alverca               2-2 (1-2)
+  Sun Aug 24
+    15:30  FC Famalicão            v Gil Vicente FC           0-0
+    18:00  FC Porto                v Casa Pia AC              4-0 (3-0)
+    20:30  Sporting Clube de Braga v AVS                      2-2 (1-2)
+  Mon Aug 25
+    20:15  CF Estrela da Amadora   v FC Alverca               2-2 (1-2)
 
 
-» Matchday 4
-  Fri Aug/29
-    20.15  Gil Vicente FC          v Moreirense FC            2-0 (0-0)
-  Sat Aug/30
-    15.30  Casa Pia AC             v CD Nacional              0-2 (0-2)
-    18.00  AVS                     v FC Famalicão             0-1 (0-0)
+▪ Matchday 4
+  Fri Aug 29
+    20:15  Gil Vicente FC          v Moreirense FC            2-0 (0-0)
+  Sat Aug 30
+    15:30  Casa Pia AC             v CD Nacional              0-2 (0-2)
+    18:00  AVS                     v FC Famalicão             0-1 (0-0)
            Vitória Guimarães       v FC Arouca                1-1 (1-1)
-    20.30  Sporting Clube de Portugal v FC Porto                 1-2 (0-0)
-  Sun Aug/31
-    15.30  CD Tondela              v GD Estoril Praia         2-2 (0-1)
-    18.00  FC Alverca              v Sport Lisboa e Benfica   1-2 (0-2)
-    20.30  CD Santa Clara          v CF Estrela da Amadora    0-0
+    20:30  Sporting Clube de Portugal v FC Porto                 1-2 (0-0)
+  Sun Aug 31
+    15:30  CD Tondela              v GD Estoril Praia         2-2 (0-1)
+    18:00  FC Alverca              v Sport Lisboa e Benfica   1-2 (0-2)
+    20:30  CD Santa Clara          v CF Estrela da Amadora    0-0
            Rio Ave FC              v Sporting Clube de Braga  2-2 (2-1)
 
 
-» Matchday 3
-  Sat Sep/6
-    20.30  GD Estoril Praia        v CD Santa Clara           0-1 (0-0)
+▪ Matchday 3
+  Sat Sep 6
+    20:30  GD Estoril Praia        v CD Santa Clara           0-1 (0-0)
 
 
-» Matchday 5
-  Fri Sep/12
-    20.15  FC Alverca              v CD Tondela               1-0 (1-0)
+▪ Matchday 5
+  Fri Sep 12
+    20:15  FC Alverca              v CD Tondela               1-0 (1-0)
            Sport Lisboa e Benfica  v CD Santa Clara           1-1 (0-0)
-  Sat Sep/13
-    15.30  Moreirense FC           v Rio Ave FC               3-1 (0-0)
+  Sat Sep 13
+    15:30  Moreirense FC           v Rio Ave FC               3-1 (0-0)
            GD Estoril Praia        v AVS                      3-1 (2-0)
-    18.00  FC Porto                v CD Nacional              1-0 (1-0)
-    20.30  FC Famalicão            v Sporting Clube de Portugal  1-2 (1-1)
-  Sun Sep/14
-    15.30  CF Estrela da Amadora   v Vitória Guimarães        0-2 (0-1)
-    18.00  FC Arouca               v Casa Pia AC              0-2 (0-1)
-    20.30  Sporting Clube de Braga v Gil Vicente FC           0-1 (0-1)
+    18:00  FC Porto                v CD Nacional              1-0 (1-0)
+    20:30  FC Famalicão            v Sporting Clube de Portugal  1-2 (1-1)
+  Sun Sep 14
+    15:30  CF Estrela da Amadora   v Vitória Guimarães        0-2 (0-1)
+    18:00  FC Arouca               v Casa Pia AC              0-2 (0-1)
+    20:30  Sporting Clube de Braga v Gil Vicente FC           0-1 (0-1)
 
 
-» Matchday 6
-  Fri Sep/19
-    20.15  Rio Ave FC              v FC Porto                 0-3 (0-2)
-  Sat Sep/20
-    15.30  CD Santa Clara          v FC Alverca               2-1 (1-1)
+▪ Matchday 6
+  Fri Sep 19
+    20:15  Rio Ave FC              v FC Porto                 0-3 (0-2)
+  Sat Sep 20
+    15:30  CD Santa Clara          v FC Alverca               2-1 (1-1)
            CD Nacional             v FC Arouca                1-2 (0-0)
-    18.00  AVS                     v Sport Lisboa e Benfica   0-3 (0-1)
-    20.30  Vitória Guimarães       v Sporting Clube de Braga  1-1 (1-1)
-  Sun Sep/21
-    15.30  CD Tondela              v CF Estrela da Amadora    0-0
-    18.00  Gil Vicente FC          v GD Estoril Praia         2-0 (1-0)
-    20.30  Casa Pia AC             v FC Famalicão             1-1 (0-0)
-  Mon Sep/22
-    20.15  Sporting Clube de Portugal v Moreirense FC            3-0 (0-0)
+    18:00  AVS                     v Sport Lisboa e Benfica   0-3 (0-1)
+    20:30  Vitória Guimarães       v Sporting Clube de Braga  1-1 (1-1)
+  Sun Sep 21
+    15:30  CD Tondela              v CF Estrela da Amadora    0-0
+    18:00  Gil Vicente FC          v GD Estoril Praia         2-0 (1-0)
+    20:30  Casa Pia AC             v FC Famalicão             1-1 (0-0)
+  Mon Sep 22
+    20:15  Sporting Clube de Portugal v Moreirense FC            3-0 (0-0)
 
 
-» Matchday 1
-  Tue Sep/23
-    20.15  Sport Lisboa e Benfica  v Rio Ave FC               1-1 (0-0)
+▪ Matchday 1
+  Tue Sep 23
+    20:15  Sport Lisboa e Benfica  v Rio Ave FC               1-1 (0-0)
 
 
-» Matchday 7
-  Fri Sep/26
-    20.15  Sport Lisboa e Benfica  v Gil Vicente FC           2-1 (2-1)
-  Sat Sep/27
-    15.30  Moreirense FC           v Casa Pia AC              2-1 (1-1)
-    16.30  CD Santa Clara          v CD Tondela               1-2 (0-0)
-    18.00  CF Estrela da Amadora   v AVS                      3-0 (3-0)
-    20.30  GD Estoril Praia        v Sporting Clube de Portugal  0-1 (0-1)
-  Sun Sep/28
-    15.30  FC Alverca              v Vitória Guimarães        2-0 (1-0)
-    18.00  Sporting Clube de Braga v CD Nacional              0-1 (0-1)
-    20.30  FC Famalicão            v Rio Ave FC               0-0
-  Mon Sep/29
-    20.00  FC Arouca               v FC Porto                 0-4 (0-1)
+▪ Matchday 7
+  Fri Sep 26
+    20:15  Sport Lisboa e Benfica  v Gil Vicente FC           2-1 (2-1)
+  Sat Sep 27
+    15:30  Moreirense FC           v Casa Pia AC              2-1 (1-1)
+    16:30  CD Santa Clara          v CD Tondela               1-2 (0-0)
+    18:00  CF Estrela da Amadora   v AVS                      3-0 (3-0)
+    20:30  GD Estoril Praia        v Sporting Clube de Portugal  0-1 (0-1)
+  Sun Sep 28
+    15:30  FC Alverca              v Vitória Guimarães        2-0 (1-0)
+    18:00  Sporting Clube de Braga v CD Nacional              0-1 (0-1)
+    20:30  FC Famalicão            v Rio Ave FC               0-0
+  Mon Sep 29
+    20:00  FC Arouca               v FC Porto                 0-4 (0-1)
 
 
-» Matchday 8
-  Fri Oct/3
-    20.15  Casa Pia AC             v GD Estoril Praia         2-2 (2-1)
-  Sat Oct/4
-    15.30  Gil Vicente FC          v CF Estrela da Amadora    2-0 (2-0)
+▪ Matchday 8
+  Fri Oct 3
+    20:15  Casa Pia AC             v GD Estoril Praia         2-2 (2-1)
+  Sat Oct 4
+    15:30  Gil Vicente FC          v CF Estrela da Amadora    2-0 (2-0)
            CD Nacional             v Moreirense FC            3-2 (1-1)
-    18.00  AVS                     v FC Alverca               1-3 (1-1)
-    20.30  Vitória Guimarães       v CD Santa Clara           2-1 (0-1)
-  Sun Oct/5
-    15.30  FC Arouca               v FC Famalicão             1-1 (0-0)
-    17.30  Rio Ave FC              v CD Tondela               3-0 (2-0)
-    19.15  Sporting Clube de Portugal v Sporting Clube de Braga  1-1 (1-0)
-    21.15  FC Porto                v Sport Lisboa e Benfica   0-0
+    18:00  AVS                     v FC Alverca               1-3 (1-1)
+    20:30  Vitória Guimarães       v CD Santa Clara           2-1 (0-1)
+  Sun Oct 5
+    15:30  FC Arouca               v FC Famalicão             1-1 (0-0)
+    17:30  Rio Ave FC              v CD Tondela               3-0 (2-0)
+    19:15  Sporting Clube de Portugal v Sporting Clube de Braga  1-1 (1-0)
+    21:15  FC Porto                v Sport Lisboa e Benfica   0-0
 
 
-» Matchday 9
-  Fri Oct/24
-    20.15  FC Alverca              v Gil Vicente FC           0-4 (0-2)
-  Sat Oct/25
-    18.00  CD Santa Clara          v AVS                      2-0 (0-0)
-    20.30  CF Estrela da Amadora   v Rio Ave FC               1-2 (1-0)
+▪ Matchday 9
+  Fri Oct 24
+    20:15  FC Alverca              v Gil Vicente FC           0-4 (0-2)
+  Sat Oct 25
+    18:00  CD Santa Clara          v AVS                      2-0 (0-0)
+    20:30  CF Estrela da Amadora   v Rio Ave FC               1-2 (1-0)
            Sport Lisboa e Benfica  v FC Arouca                5-0 (3-0)
-  Sun Oct/26
-    15.30  GD Estoril Praia        v CD Nacional              1-1 (0-1)
+  Sun Oct 26
+    15:30  GD Estoril Praia        v CD Nacional              1-1 (0-1)
            FC Famalicão            v Vitória Guimarães        2-0 (1-0)
-    18.00  CD Tondela              v Sporting Clube de Portugal  0-3 (0-1)
-    20.30  Sporting Clube de Braga v Casa Pia AC              4-0 (2-0)
-  Mon Oct/27
-    20.15  Moreirense FC           v FC Porto                 1-2 (1-1)
+    18:00  CD Tondela              v Sporting Clube de Portugal  0-3 (0-1)
+    20:30  Sporting Clube de Braga v Casa Pia AC              4-0 (2-0)
+  Mon Oct 27
+    20:15  Moreirense FC           v FC Porto                 1-2 (1-1)
 
 
-» Matchday 10
-  Fri Oct/31
-    20.15  Sporting Clube de Portugal v FC Alverca               2-0 (0-0)
-  Sat Nov/1
-    15.30  CD Nacional             v FC Famalicão             0-1 (0-1)
-    18.00  Casa Pia AC             v CF Estrela da Amadora    3-5 (1-2)
+▪ Matchday 10
+  Fri Oct 31
+    20:15  Sporting Clube de Portugal v FC Alverca               2-0 (0-0)
+  Sat Nov 1
+    15:30  CD Nacional             v FC Famalicão             0-1 (0-1)
+    18:00  Casa Pia AC             v CF Estrela da Amadora    3-5 (1-2)
            Rio Ave FC              v GD Estoril Praia         0-4 (0-2)
-    20.30  Vitória Guimarães       v Sport Lisboa e Benfica   0-3 (0-0)
-  Sun Nov/2
-    15.30  AVS                     v CD Tondela               2-2 (1-1)
-    18.00  FC Arouca               v Moreirense FC            0-2 (0-2)
-    20.30  FC Porto                v Sporting Clube de Braga  2-1 (1-0)
-  Mon Nov/3
-    20.45  Gil Vicente FC          v CD Santa Clara           1-0 (1-0)
+    20:30  Vitória Guimarães       v Sport Lisboa e Benfica   0-3 (0-0)
+  Sun Nov 2
+    15:30  AVS                     v CD Tondela               2-2 (1-1)
+    18:00  FC Arouca               v Moreirense FC            0-2 (0-2)
+    20:30  FC Porto                v Sporting Clube de Braga  2-1 (1-0)
+  Mon Nov 3
+    20:45  Gil Vicente FC          v CD Santa Clara           1-0 (1-0)
 
 
-» Matchday 11
-  Fri Nov/7
-    20.15  GD Estoril Praia        v FC Arouca                4-3 (2-2)
-  Sat Nov/8
-    15.30  FC Alverca              v Rio Ave FC               1-1 (0-1)
-    18.00  CD Tondela              v Vitória Guimarães        0-1 (0-0)
-    20.30  CD Santa Clara          v Sporting Clube de Portugal  1-2 (1-1)
-  Sun Nov/9
-    15.30  AVS                     v Gil Vicente FC           1-1 (0-1)
+▪ Matchday 11
+  Fri Nov 7
+    20:15  GD Estoril Praia        v FC Arouca                4-3 (2-2)
+  Sat Nov 8
+    15:30  FC Alverca              v Rio Ave FC               1-1 (0-1)
+    18:00  CD Tondela              v Vitória Guimarães        0-1 (0-0)
+    20:30  CD Santa Clara          v Sporting Clube de Portugal  1-2 (1-1)
+  Sun Nov 9
+    15:30  AVS                     v Gil Vicente FC           1-1 (0-1)
            CF Estrela da Amadora   v CD Nacional              1-1 (0-1)
-    18.00  FC Famalicão            v FC Porto                 0-1 (0-1)
-    20.30  Sporting Clube de Braga v Moreirense FC            2-1 (1-0)
+    18:00  FC Famalicão            v FC Porto                 0-1 (0-1)
+    20:30  Sporting Clube de Braga v Moreirense FC            2-1 (1-0)
            Sport Lisboa e Benfica  v Casa Pia AC              2-2 (1-0)
 
 
-» Matchday 12
-  Fri Nov/28
-    20.15  Vitória Guimarães       v AVS                      4-0 (3-0)
-  Sat Nov/29
-    15.30  Casa Pia AC             v FC Alverca               0-2 (0-0)
+▪ Matchday 12
+  Fri Nov 28
+    20:15  Vitória Guimarães       v AVS                      4-0 (3-0)
+  Sat Nov 29
+    15:30  Casa Pia AC             v FC Alverca               0-2 (0-0)
            Moreirense FC           v FC Famalicão             2-2 (0-1)
-    18.00  CD Nacional             v Sport Lisboa e Benfica   1-2 (0-0)
-    20.30  Gil Vicente FC          v CD Tondela               0-1 (0-1)
-  Sun Nov/30
-    15.30  Rio Ave FC              v CD Santa Clara           1-1 (1-1)
-    18.00  Sporting Clube de Portugal v CF Estrela da Amadora    4-0 (3-0)
-    20.30  FC Porto                v GD Estoril Praia         1-0 (1-0)
-  Mon Dec/1
-    20.15  FC Arouca               v Sporting Clube de Braga  0-4 (0-3)
+    18:00  CD Nacional             v Sport Lisboa e Benfica   1-2 (0-0)
+    20:30  Gil Vicente FC          v CD Tondela               0-1 (0-1)
+  Sun Nov 30
+    15:30  Rio Ave FC              v CD Santa Clara           1-1 (1-1)
+    18:00  Sporting Clube de Portugal v CF Estrela da Amadora    4-0 (3-0)
+    20:30  FC Porto                v GD Estoril Praia         1-0 (1-0)
+  Mon Dec 1
+    20:15  FC Arouca               v Sporting Clube de Braga  0-4 (0-3)
 
 
-» Matchday 13
-  Fri Dec/5
-    20.15  Sport Lisboa e Benfica  v Sporting Clube de Portugal  1-1 (1-1)
-  Sat Dec/6
-    15.30  CD Santa Clara          v Casa Pia AC              1-0 (1-0)
-    18.00  AVS                     v Rio Ave FC               1-2 (0-1)
-    20.30  FC Famalicão            v Sporting Clube de Braga  1-2 (1-1)
-  Sun Dec/7
-    15.30  GD Estoril Praia        v Moreirense FC            3-3 (1-1)
-    18.00  FC Alverca              v CD Nacional              1-0 (0-0)
+▪ Matchday 13
+  Fri Dec 5
+    20:15  Sport Lisboa e Benfica  v Sporting Clube de Portugal  1-1 (1-1)
+  Sat Dec 6
+    15:30  CD Santa Clara          v Casa Pia AC              1-0 (1-0)
+    18:00  AVS                     v Rio Ave FC               1-2 (0-1)
+    20:30  FC Famalicão            v Sporting Clube de Braga  1-2 (1-1)
+  Sun Dec 7
+    15:30  GD Estoril Praia        v Moreirense FC            3-3 (1-1)
+    18:00  FC Alverca              v CD Nacional              1-0 (0-0)
            CF Estrela da Amadora   v FC Arouca                3-1 (2-0)
-    20.30  CD Tondela              v FC Porto                 0-2 (0-0)
-  Mon Dec/8
-    20.30  Vitória Guimarães       v Gil Vicente FC           0-0
+    20:30  CD Tondela              v FC Porto                 0-2 (0-0)
+  Mon Dec 8
+    20:30  Vitória Guimarães       v Gil Vicente FC           0-0
 
 
-» Matchday 14
-  Sat Dec/13
-    15.30  Casa Pia AC             v Gil Vicente FC           1-1 (0-1)
-    18.00  Rio Ave FC              v Vitória Guimarães        0-1 (0-1)
-    20.30  Sporting Clube de Portugal v AVS                      6-0 (3-0)
-  Sun Dec/14
-    15.30  FC Famalicão            v GD Estoril Praia         4-0 (2-0)
-    18.00  Moreirense FC           v Sport Lisboa e Benfica   0-4 (0-1)
-    20.30  FC Arouca               v FC Alverca               1-0 (0-0)
-  Mon Dec/15
-    17.30  CD Nacional             v CD Tondela               3-1 (0-0)
-    18.45  Sporting Clube de Braga v CD Santa Clara           1-0 (1-0)
-    20.45  FC Porto                v CF Estrela da Amadora    3-1 (1-0)
+▪ Matchday 14
+  Sat Dec 13
+    15:30  Casa Pia AC             v Gil Vicente FC           1-1 (0-1)
+    18:00  Rio Ave FC              v Vitória Guimarães        0-1 (0-1)
+    20:30  Sporting Clube de Portugal v AVS                      6-0 (3-0)
+  Sun Dec 14
+    15:30  FC Famalicão            v GD Estoril Praia         4-0 (2-0)
+    18:00  Moreirense FC           v Sport Lisboa e Benfica   0-4 (0-1)
+    20:30  FC Arouca               v FC Alverca               1-0 (0-0)
+  Mon Dec 15
+    17:30  CD Nacional             v CD Tondela               3-1 (0-0)
+    18:45  Sporting Clube de Braga v CD Santa Clara           1-0 (1-0)
+    20:45  FC Porto                v CF Estrela da Amadora    3-1 (1-0)
 
 
-» Matchday 15
-  Fri Dec/19
-    20.15  GD Estoril Praia        v Sporting Clube de Braga  1-0 (1-0)
-  Sat Dec/20
-    18.00  Gil Vicente FC          v Rio Ave FC               2-2 (1-1)
-    20.30  CF Estrela da Amadora   v Moreirense FC            0-0
-  Sun Dec/21
-    15.30  AVS                     v CD Nacional              2-2 (2-0)
-    18.00  CD Tondela              v Casa Pia AC              1-2 (0-0)
-    20.30  CD Santa Clara          v FC Arouca                0-0
-  Mon Dec/22
-    18.45  FC Alverca              v FC Porto                 0-3 (0-1)
-    20.45  Sport Lisboa e Benfica  v FC Famalicão             1-0 (1-0)
-  Tue Dec/23
-    20.45  Vitória Guimarães       v Sporting Clube de Portugal  1-4 (0-2)
+▪ Matchday 15
+  Fri Dec 19
+    20:15  GD Estoril Praia        v Sporting Clube de Braga  1-0 (1-0)
+  Sat Dec 20
+    18:00  Gil Vicente FC          v Rio Ave FC               2-2 (1-1)
+    20:30  CF Estrela da Amadora   v Moreirense FC            0-0
+  Sun Dec 21
+    15:30  AVS                     v CD Nacional              2-2 (2-0)
+    18:00  CD Tondela              v Casa Pia AC              1-2 (0-0)
+    20:30  CD Santa Clara          v FC Arouca                0-0
+  Mon Dec 22
+    18:45  FC Alverca              v FC Porto                 0-3 (0-1)
+    20:45  Sport Lisboa e Benfica  v FC Famalicão             1-0 (1-0)
+  Tue Dec 23
+    20:45  Vitória Guimarães       v Sporting Clube de Portugal  1-4 (0-2)
 
 
-» Matchday 16
-  Sat Dec/27
-    18.00  FC Famalicão            v CF Estrela da Amadora    2-3 (2-2)
-    20.30  GD Estoril Praia        v FC Alverca               4-1 (2-0)
-  Sun Dec/28
-    15.30  Casa Pia AC             v Vitória Guimarães        0-0
+▪ Matchday 16
+  Sat Dec 27
+    18:00  FC Famalicão            v CF Estrela da Amadora    2-3 (2-2)
+    20:30  GD Estoril Praia        v FC Alverca               4-1 (2-0)
+  Sun Dec 28
+    15:30  Casa Pia AC             v Vitória Guimarães        0-0
            FC Arouca               v Gil Vicente FC           2-2 (2-1)
-    18.00  Sporting Clube de Braga v Sport Lisboa e Benfica   2-2 (2-1)
-    20.30  Sporting Clube de Portugal v Rio Ave FC               4-0 (1-0)
-  Mon Dec/29
-    20.15  FC Porto                v AVS                      2-0 (0-0)
+    18:00  Sporting Clube de Braga v Sport Lisboa e Benfica   2-2 (2-1)
+    20:30  Sporting Clube de Portugal v Rio Ave FC               4-0 (1-0)
+  Mon Dec 29
+    20:15  FC Porto                v AVS                      2-0 (0-0)
 
 
-» Matchday 17
-  Fri Jan/2 2026
-    18.45  Gil Vicente FC          v Sporting Clube de Portugal  1-1 (0-1)
-    20.45  Vitória Guimarães       v CD Nacional              2-1 (0-0)
-  Sat Jan/3
-    15.30  CD Tondela              v FC Arouca                3-1 (2-1)
-    18.00  Sport Lisboa e Benfica  v GD Estoril Praia         3-1 (2-1)
+▪ Matchday 17
+  Fri Jan 2 2026
+    18:45  Gil Vicente FC          v Sporting Clube de Portugal  1-1 (0-1)
+    20:45  Vitória Guimarães       v CD Nacional              2-1 (0-0)
+  Sat Jan 3
+    15:30  CD Tondela              v FC Arouca                3-1 (2-1)
+    18:00  Sport Lisboa e Benfica  v GD Estoril Praia         3-1 (2-1)
            CF Estrela da Amadora   v Sporting Clube de Braga  3-3 (1-1)
-    20.30  AVS                     v Moreirense FC            0-2 (0-1)
-  Sun Jan/4
-    15.30  Rio Ave FC              v Casa Pia AC              3-1 (0-0)
-    18.00  CD Santa Clara          v FC Porto                 0-1 (0-0)
-    20.30  FC Alverca              v FC Famalicão             1-0 (0-0)
+    20:30  AVS                     v Moreirense FC            0-2 (0-1)
+  Sun Jan 4
+    15:30  Rio Ave FC              v Casa Pia AC              3-1 (0-0)
+    18:00  CD Santa Clara          v FC Porto                 0-1 (0-0)
+    20:30  FC Alverca              v FC Famalicão             1-0 (0-0)
 
 
-» Matchday 16
-  Sun Jan/11
-    15.30  CD Nacional             v CD Santa Clara           3-3 (2-2)
-    18.00  Moreirense FC           v CD Tondela               1-0 (0-0)
+▪ Matchday 16
+  Sun Jan 11
+    15:30  CD Nacional             v CD Santa Clara           3-3 (2-2)
+    18:00  Moreirense FC           v CD Tondela               1-0 (0-0)
 
 
-» Matchday 18
-  Fri Jan/16
-    20.15  Sporting Clube de Portugal v Casa Pia AC              3-0 (2-0)
-  Sat Jan/17
-    15.30  Gil Vicente FC          v CD Nacional              2-1 (1-1)
-    18.00  AVS                     v FC Arouca                0-1 (0-1)
+▪ Matchday 18
+  Fri Jan 16
+    20:15  Sporting Clube de Portugal v Casa Pia AC              3-0 (2-0)
+  Sat Jan 17
+    15:30  Gil Vicente FC          v CD Nacional              2-1 (1-1)
+    18:00  AVS                     v FC Arouca                0-1 (0-1)
            FC Alverca              v Moreirense FC            2-1 (0-0)
-    20.30  Rio Ave FC              v Sport Lisboa e Benfica   0-2 (0-2)
-  Sun Jan/18
-    15.30  CD Santa Clara          v FC Famalicão             0-1 (0-0)
-    18.00  CD Tondela              v Sporting Clube de Braga  0-1 (0-0)
-    20.30  Vitória Guimarães       v FC Porto                 0-1 (0-0)
-  Mon Jan/19
-    20.15  CF Estrela da Amadora   v GD Estoril Praia         0-5 (0-1)
+    20:30  Rio Ave FC              v Sport Lisboa e Benfica   0-2 (0-2)
+  Sun Jan 18
+    15:30  CD Santa Clara          v FC Famalicão             0-1 (0-0)
+    18:00  CD Tondela              v Sporting Clube de Braga  0-1 (0-0)
+    20:30  Vitória Guimarães       v FC Porto                 0-1 (0-0)
+  Mon Jan 19
+    20:15  CF Estrela da Amadora   v GD Estoril Praia         0-5 (0-1)
 
 
-» Matchday 19
-  Fri Jan/23
-    20.15  Casa Pia AC             v AVS                      3-3 (1-0)
-  Sat Jan/24
-    15.30  Moreirense FC           v CD Santa Clara           1-0 (0-0)
-    18.00  FC Arouca               v Sporting Clube de Portugal  1-2 (0-1)
-    20.30  GD Estoril Praia        v Vitória Guimarães        4-2 (1-2)
-  Sun Jan/25
-    15.30  CD Nacional             v Rio Ave FC               4-0 (1-0)
-    18.00  FC Famalicão            v CD Tondela               3-0 (1-0)
+▪ Matchday 19
+  Fri Jan 23
+    20:15  Casa Pia AC             v AVS                      3-3 (1-0)
+  Sat Jan 24
+    15:30  Moreirense FC           v CD Santa Clara           1-0 (0-0)
+    18:00  FC Arouca               v Sporting Clube de Portugal  1-2 (0-1)
+    20:30  GD Estoril Praia        v Vitória Guimarães        4-2 (1-2)
+  Sun Jan 25
+    15:30  CD Nacional             v Rio Ave FC               4-0 (1-0)
+    18:00  FC Famalicão            v CD Tondela               3-0 (1-0)
            Sport Lisboa e Benfica  v CF Estrela da Amadora    4-0 (1-0)
-    20.30  Sporting Clube de Braga v FC Alverca               5-0 (4-0)
-  Mon Jan/26
-    20.15  FC Porto                v Gil Vicente FC           3-0 (1-0)
+    20:30  Sporting Clube de Braga v FC Alverca               5-0 (4-0)
+  Mon Jan 26
+    20:15  FC Porto                v Gil Vicente FC           3-0 (1-0)
 
 
-» Matchday 20
-  Fri Jan/30
-    20.45  Vitória Guimarães       v Moreirense FC            1-0 (0-0)
-  Sat Jan/31
-    15.30  CD Santa Clara          v GD Estoril Praia         2-4 (0-2)
-    18.00  Rio Ave FC              v FC Arouca                0-3 (0-1)
-    20.30  FC Alverca              v CF Estrela da Amadora    1-1 (0-0)
-  Sun Feb/1
-    15.30  Gil Vicente FC          v FC Famalicão             5-0 (1-0)
-    18.00  Sporting Clube de Portugal v CD Nacional              2-1 (0-0)
-    20.30  CD Tondela              v Sport Lisboa e Benfica   0-0
-  Mon Feb/2
-    18.45  AVS                     v Sporting Clube de Braga  0-4 (0-2)
-    20.45  Casa Pia AC             v FC Porto                 2-1 (2-0)
+▪ Matchday 20
+  Fri Jan 30
+    20:45  Vitória Guimarães       v Moreirense FC            1-0 (0-0)
+  Sat Jan 31
+    15:30  CD Santa Clara          v GD Estoril Praia         2-4 (0-2)
+    18:00  Rio Ave FC              v FC Arouca                0-3 (0-1)
+    20:30  FC Alverca              v CF Estrela da Amadora    1-1 (0-0)
+  Sun Feb 1
+    15:30  Gil Vicente FC          v FC Famalicão             5-0 (1-0)
+    18:00  Sporting Clube de Portugal v CD Nacional              2-1 (0-0)
+    20:30  CD Tondela              v Sport Lisboa e Benfica   0-0
+  Mon Feb 2
+    18:45  AVS                     v Sporting Clube de Braga  0-4 (0-2)
+    20:45  Casa Pia AC             v FC Porto                 2-1 (2-0)
 
 
-» Matchday 21
-  Sat Feb/7
-    15.30  Moreirense FC           v Gil Vicente FC           1-2 (0-1)
+▪ Matchday 21
+  Sat Feb 7
+    15:30  Moreirense FC           v Gil Vicente FC           1-2 (0-1)
            CF Estrela da Amadora   v CD Santa Clara           1-0 (0-0)
-    18.00  GD Estoril Praia        v CD Tondela               2-2 (2-2)
-    20.30  FC Arouca               v Vitória Guimarães        3-2 (1-2)
-  Sun Feb/8
-    15.30  CD Nacional             v Casa Pia AC              0-0
-    18.00  Sporting Clube de Braga v Rio Ave FC               3-0 (1-0)
-    20.30  Sport Lisboa e Benfica  v FC Alverca               2-1 (1-1)
-  Mon Feb/9
-    18.45  FC Famalicão            v AVS                      3-1 (0-0)
-    20.45  FC Porto                v Sporting Clube de Portugal  1-1 (0-0)
+    18:00  GD Estoril Praia        v CD Tondela               2-2 (2-2)
+    20:30  FC Arouca               v Vitória Guimarães        3-2 (1-2)
+  Sun Feb 8
+    15:30  CD Nacional             v Casa Pia AC              0-0
+    18:00  Sporting Clube de Braga v Rio Ave FC               3-0 (1-0)
+    20:30  Sport Lisboa e Benfica  v FC Alverca               2-1 (1-1)
+  Mon Feb 9
+    18:45  FC Famalicão            v AVS                      3-1 (0-0)
+    20:45  FC Porto                v Sporting Clube de Portugal  1-1 (0-0)
 
 
-» Matchday 22
-  Fri Feb/13
-    18.30  CD Santa Clara          v Sport Lisboa e Benfica   1-2 (0-2)
-    20.45  CD Tondela              v FC Alverca               1-1 (0-1)
-  Sat Feb/14
-    15.30  Casa Pia AC             v FC Arouca                3-2 (3-2)
-    18.00  Vitória Guimarães       v CF Estrela da Amadora    2-1 (0-1)
-    20.30  Gil Vicente FC          v Sporting Clube de Braga  2-1 (0-1)
-  Sun Feb/15
-    15.30  CD Nacional             v FC Porto                 0-1 (0-0)
-    18.00  AVS                     v GD Estoril Praia         3-0 (0-0)
-    20.30  Sporting Clube de Portugal v FC Famalicão             1-0 (0-0)
-  Mon Feb/16
-    20.15  Rio Ave FC              v Moreirense FC            1-2 (1-1)
+▪ Matchday 22
+  Fri Feb 13
+    18:30  CD Santa Clara          v Sport Lisboa e Benfica   1-2 (0-2)
+    20:45  CD Tondela              v FC Alverca               1-1 (0-1)
+  Sat Feb 14
+    15:30  Casa Pia AC             v FC Arouca                3-2 (3-2)
+    18:00  Vitória Guimarães       v CF Estrela da Amadora    2-1 (0-1)
+    20:30  Gil Vicente FC          v Sporting Clube de Braga  2-1 (0-1)
+  Sun Feb 15
+    15:30  CD Nacional             v FC Porto                 0-1 (0-0)
+    18:00  AVS                     v GD Estoril Praia         3-0 (0-0)
+    20:30  Sporting Clube de Portugal v FC Famalicão             1-0 (0-0)
+  Mon Feb 16
+    20:15  Rio Ave FC              v Moreirense FC            1-2 (1-1)
 
 
-» Matchday 23
-  Fri Feb/20
-    20.45  CF Estrela da Amadora   v CD Tondela               0-2 (0-1)
-  Sat Feb/21
-    15.30  FC Alverca              v CD Santa Clara           1-1 (1-0)
+▪ Matchday 23
+  Fri Feb 20
+    20:45  CF Estrela da Amadora   v CD Tondela               0-2 (0-1)
+  Sat Feb 21
+    15:30  FC Alverca              v CD Santa Clara           1-1 (1-0)
            FC Arouca               v CD Nacional              3-0 (0-0)
-    18.00  Sport Lisboa e Benfica  v AVS                      3-0 (3-0)
+    18:00  Sport Lisboa e Benfica  v AVS                      3-0 (3-0)
            Moreirense FC           v Sporting Clube de Portugal  0-3 (0-0)
-    20.30  Sporting Clube de Braga v Vitória Guimarães        3-2 (2-1)
-  Sun Feb/22
-    18.00  GD Estoril Praia        v Gil Vicente FC           3-1 (1-1)
-    20.30  FC Porto                v Rio Ave FC               1-0 (1-0)
-  Mon Feb/23
-    20.15  FC Famalicão            v Casa Pia AC              2-0 (1-0)
+    20:30  Sporting Clube de Braga v Vitória Guimarães        3-2 (2-1)
+  Sun Feb 22
+    18:00  GD Estoril Praia        v Gil Vicente FC           3-1 (1-1)
+    20:30  FC Porto                v Rio Ave FC               1-0 (1-0)
+  Mon Feb 23
+    20:15  FC Famalicão            v Casa Pia AC              2-0 (1-0)
 
 
-» Matchday 24
-  Fri Feb/27
-    18.45  FC Porto                v FC Arouca                3-1 (1-0)
-    20.45  Sporting Clube de Portugal v GD Estoril Praia         3-0 (2-0)
-  Sat Feb/28
-    15.30  AVS                     v CF Estrela da Amadora    0-0
-    18.00  CD Nacional             v Sporting Clube de Braga  1-2 (0-1)
-    20.30  Vitória Guimarães       v FC Alverca               1-1 (0-0)
-  Sun Mar/1
-    15.30  CD Tondela              v CD Santa Clara           2-2 (1-1)
-    18.00  Casa Pia AC             v Moreirense FC            1-1 (1-0)
-    20.30  Rio Ave FC              v FC Famalicão             0-0
-  Mon Mar/2
-    20.15  Gil Vicente FC          v Sport Lisboa e Benfica   1-2 (0-1)
+▪ Matchday 24
+  Fri Feb 27
+    18:45  FC Porto                v FC Arouca                3-1 (1-0)
+    20:45  Sporting Clube de Portugal v GD Estoril Praia         3-0 (2-0)
+  Sat Feb 28
+    15:30  AVS                     v CF Estrela da Amadora    0-0
+    18:00  CD Nacional             v Sporting Clube de Braga  1-2 (0-1)
+    20:30  Vitória Guimarães       v FC Alverca               1-1 (0-0)
+  Sun Mar 1
+    15:30  CD Tondela              v CD Santa Clara           2-2 (1-1)
+    18:00  Casa Pia AC             v Moreirense FC            1-1 (1-0)
+    20:30  Rio Ave FC              v FC Famalicão             0-0
+  Mon Mar 2
+    20:15  Gil Vicente FC          v Sport Lisboa e Benfica   1-2 (0-1)
 
 
-» Matchday 25
-  Fri Mar/6
-    20.15  FC Famalicão            v FC Arouca                1-0 (0-0)
-  Sat Mar/7
-    15.30  FC Alverca              v AVS                      0-0
+▪ Matchday 25
+  Fri Mar 6
+    20:15  FC Famalicão            v FC Arouca                1-0 (0-0)
+  Sat Mar 7
+    15:30  FC Alverca              v AVS                      0-0
            Moreirense FC           v CD Nacional              1-1 (1-0)
-    18.00  Sporting Clube de Braga v Sporting Clube de Portugal  2-2 (1-2)
-    20.30  GD Estoril Praia        v Casa Pia AC              0-0
-  Sun Mar/8
-    15.30  CF Estrela da Amadora   v Gil Vicente FC           2-2 (0-1)
-    18.00  Sport Lisboa e Benfica  v FC Porto                 2-2 (0-2)
-    20.30  CD Santa Clara          v Vitória Guimarães        2-0 (2-0)
-  Mon Mar/9
-    20.15  CD Tondela              v Rio Ave FC               0-1 (0-0)
+    18:00  Sporting Clube de Braga v Sporting Clube de Portugal  2-2 (1-2)
+    20:30  GD Estoril Praia        v Casa Pia AC              0-0
+  Sun Mar 8
+    15:30  CF Estrela da Amadora   v Gil Vicente FC           2-2 (0-1)
+    18:00  Sport Lisboa e Benfica  v FC Porto                 2-2 (0-2)
+    20:30  CD Santa Clara          v Vitória Guimarães        2-0 (2-0)
+  Mon Mar 9
+    20:15  CD Tondela              v Rio Ave FC               0-1 (0-0)
 
 
-» Matchday 26
-  Sat Mar/14
-    15.30  Vitória Guimarães       v FC Famalicão             1-2 (1-1)
-    18.00  Gil Vicente FC          v FC Alverca               2-2 (1-0)
-    20.30  FC Arouca               v Sport Lisboa e Benfica   1-2 (1-0)
-  Sun Mar/15
-    15.30  CD Nacional             v GD Estoril Praia         0-1 (0-1)
+▪ Matchday 26
+  Sat Mar 14
+    15:30  Vitória Guimarães       v FC Famalicão             1-2 (1-1)
+    18:00  Gil Vicente FC          v FC Alverca               2-2 (1-0)
+    20:30  FC Arouca               v Sport Lisboa e Benfica   1-2 (1-0)
+  Sun Mar 15
+    15:30  CD Nacional             v GD Estoril Praia         0-1 (0-1)
            AVS                     v CD Santa Clara           0-1 (0-0)
-    18.00  Rio Ave FC              v CF Estrela da Amadora    2-1 (1-0)
-    20.30  FC Porto                v Moreirense FC            3-0 (2-0)
+    18:00  Rio Ave FC              v CF Estrela da Amadora    2-1 (1-0)
+    20:30  FC Porto                v Moreirense FC            3-0 (2-0)
 
 
-» Matchday 27
-  Fri Mar/20
-    20.15  CF Estrela da Amadora   v Casa Pia AC              4-0 (3-0)
-  Sat Mar/21
-    15.30  Moreirense FC           v FC Arouca                0-1 (0-0)
+▪ Matchday 27
+  Fri Mar 20
+    20:15  CF Estrela da Amadora   v Casa Pia AC              4-0 (3-0)
+  Sat Mar 21
+    15:30  Moreirense FC           v FC Arouca                0-1 (0-0)
            FC Famalicão            v CD Nacional              1-0 (0-0)
-    18.00  CD Santa Clara          v Gil Vicente FC           1-0 (0-0)
+    18:00  CD Santa Clara          v Gil Vicente FC           1-0 (0-0)
            Sport Lisboa e Benfica  v Vitória Guimarães        3-0 (1-0)
-    20.30  CD Tondela              v AVS                      0-0
-  Sun Mar/22
-    15.30  GD Estoril Praia        v Rio Ave FC               1-2 (1-0)
-    18.00  FC Alverca              v Sporting Clube de Portugal  1-4 (0-1)
-    20.30  Sporting Clube de Braga v FC Porto                 1-2 (0-0)
+    20:30  CD Tondela              v AVS                      0-0
+  Sun Mar 22
+    15:30  GD Estoril Praia        v Rio Ave FC               1-2 (1-0)
+    18:00  FC Alverca              v Sporting Clube de Portugal  1-4 (0-1)
+    20:30  Sporting Clube de Braga v FC Porto                 1-2 (0-0)
 
 
-» Matchday 28
-  Fri Apr/3
-    15.30  Gil Vicente FC          v AVS                      3-0 (2-0)
-    18.00  Vitória Guimarães       v CD Tondela               5-0 (2-0)
-    20.30  Sporting Clube de Portugal v CD Santa Clara           4-2 (3-1)
-  Sat Apr/4
-    15.30  CD Nacional             v CF Estrela da Amadora    2-0 (1-0)
-    18.00  Rio Ave FC              v FC Alverca               1-2 (0-2)
+▪ Matchday 28
+  Fri Apr 3
+    15:30  Gil Vicente FC          v AVS                      3-0 (2-0)
+    18:00  Vitória Guimarães       v CD Tondela               5-0 (2-0)
+    20:30  Sporting Clube de Portugal v CD Santa Clara           4-2 (3-1)
+  Sat Apr 4
+    15:30  CD Nacional             v CF Estrela da Amadora    2-0 (1-0)
+    18:00  Rio Ave FC              v FC Alverca               1-2 (0-2)
            Moreirense FC           v Sporting Clube de Braga  0-1 (0-1)
-    20.30  FC Porto                v FC Famalicão             2-2 (1-0)
-  Mon Apr/6
-    18.45  FC Arouca               v GD Estoril Praia         3-2 (2-2)
-    20.45  Casa Pia AC             v Sport Lisboa e Benfica   1-1 (0-0)
+    20:30  FC Porto                v FC Famalicão             2-2 (1-0)
+  Mon Apr 6
+    18:45  FC Arouca               v GD Estoril Praia         3-2 (2-2)
+    20:45  Casa Pia AC             v Sport Lisboa e Benfica   1-1 (0-0)
 
 
-» Matchday 29
-  Fri Apr/10
-    20.45  FC Famalicão            v Moreirense FC            1-1 (0-1)
-  Sat Apr/11
-    15.30  AVS                     v Vitória Guimarães        1-1 (1-1)
-    18.00  CD Santa Clara          v Rio Ave FC               0-2 (0-0)
-    20.30  CF Estrela da Amadora   v Sporting Clube de Portugal  0-1 (0-0)
-  Sun Apr/12
-    15.30  FC Alverca              v Casa Pia AC              3-1 (0-1)
-    18.00  Sporting Clube de Braga v FC Arouca                1-0 (0-0)
+▪ Matchday 29
+  Fri Apr 10
+    20:45  FC Famalicão            v Moreirense FC            1-1 (0-1)
+  Sat Apr 11
+    15:30  AVS                     v Vitória Guimarães        1-1 (1-1)
+    18:00  CD Santa Clara          v Rio Ave FC               0-2 (0-0)
+    20:30  CF Estrela da Amadora   v Sporting Clube de Portugal  0-1 (0-0)
+  Sun Apr 12
+    15:30  FC Alverca              v Casa Pia AC              3-1 (0-1)
+    18:00  Sporting Clube de Braga v FC Arouca                1-0 (0-0)
            Sport Lisboa e Benfica  v CD Nacional              2-0 (2-0)
-    20.30  GD Estoril Praia        v FC Porto                 1-3 (0-2)
-  Mon Apr/13
-    20.15  CD Tondela              v Gil Vicente FC           2-2 (1-1)
+    20:30  GD Estoril Praia        v FC Porto                 1-3 (0-2)
+  Mon Apr 13
+    20:15  CD Tondela              v Gil Vicente FC           2-2 (1-1)
 
 
-» Matchday 30
-  Fri Apr/17
-    20.45  Rio Ave FC              v AVS                      2-2 (1-1)
-  Sat Apr/18
-    15.30  CD Nacional             v FC Alverca               1-0 (0-0)
-    18.00  Casa Pia AC             v CD Santa Clara           0-0
-    20.30  Gil Vicente FC          v Vitória Guimarães        0-1 (0-0)
-  Sun Apr/19
-    15.30  FC Arouca               v CF Estrela da Amadora    1-0 (0-0)
-    18.15  Sporting Clube de Portugal v Sport Lisboa e Benfica   1-2 (0-1)
-    20.30  FC Porto                v CD Tondela               2-0 (0-0)
+▪ Matchday 30
+  Fri Apr 17
+    20:45  Rio Ave FC              v AVS                      2-2 (1-1)
+  Sat Apr 18
+    15:30  CD Nacional             v FC Alverca               1-0 (0-0)
+    18:00  Casa Pia AC             v CD Santa Clara           0-0
+    20:30  Gil Vicente FC          v Vitória Guimarães        0-1 (0-0)
+  Sun Apr 19
+    15:30  FC Arouca               v CF Estrela da Amadora    1-0 (0-0)
+    18:15  Sporting Clube de Portugal v Sport Lisboa e Benfica   1-2 (0-1)
+    20:30  FC Porto                v CD Tondela               2-0 (0-0)
            Sporting Clube de Braga v FC Famalicão             2-2 (1-1)
-  Mon Apr/20
-    20.15  Moreirense FC           v GD Estoril Praia         1-0 (1-0)
+  Mon Apr 20
+    20:15  Moreirense FC           v GD Estoril Praia         1-0 (1-0)
 
 
-» Matchday 26
-  Thu Apr/23
-    19.00  Casa Pia AC             v Sporting Clube de Braga  0-1 (0-1)
+▪ Matchday 26
+  Thu Apr 23
+    19:00  Casa Pia AC             v Sporting Clube de Braga  0-1 (0-1)
 
 
-» Matchday 31
-  Fri Apr/24
-    20.15  FC Alverca              v FC Arouca                2-1 (1-0)
-  Sat Apr/25
-    15.30  CD Tondela              v CD Nacional              0-2 (0-2)
-    18.00  Sport Lisboa e Benfica  v Moreirense FC            4-1 (2-1)
-    20.30  Vitória Guimarães       v Rio Ave FC               2-0 (0-0)
-  Sun Apr/26
-    15.30  GD Estoril Praia        v FC Famalicão             0-1 (0-0)
-    18.00  CD Santa Clara          v Sporting Clube de Braga  2-1 (0-1)
+▪ Matchday 31
+  Fri Apr 24
+    20:15  FC Alverca              v FC Arouca                2-1 (1-0)
+  Sat Apr 25
+    15:30  CD Tondela              v CD Nacional              0-2 (0-2)
+    18:00  Sport Lisboa e Benfica  v Moreirense FC            4-1 (2-1)
+    20:30  Vitória Guimarães       v Rio Ave FC               2-0 (0-0)
+  Sun Apr 26
+    15:30  GD Estoril Praia        v FC Famalicão             0-1 (0-0)
+    18:00  CD Santa Clara          v Sporting Clube de Braga  2-1 (0-1)
            CF Estrela da Amadora   v FC Porto                 1-2 (0-2)
-    20.30  AVS                     v Sporting Clube de Portugal  1-1 (0-0)
-  Mon Apr/27
-    20.15  Gil Vicente FC          v Casa Pia AC              2-1 (1-1)
+    20:30  AVS                     v Sporting Clube de Portugal  1-1 (0-0)
+  Mon Apr 27
+    20:15  Gil Vicente FC          v Casa Pia AC              2-1 (1-1)
 
 
-» Matchday 26
-  Wed Apr/29
-    20.15  Sporting Clube de Portugal v CD Tondela               2-2 (0-0)
+▪ Matchday 26
+  Wed Apr 29
+    20:15  Sporting Clube de Portugal v CD Tondela               2-2 (0-0)
 
 
-» Matchday 32
-  Sat May/2
-    15.30  CD Nacional             v AVS                      1-2 (1-1)
+▪ Matchday 32
+  Sat May 2
+    15:30  CD Nacional             v AVS                      1-2 (1-1)
            Moreirense FC           v CF Estrela da Amadora    3-2 (1-2)
            FC Arouca               v CD Santa Clara           2-2 (1-1)
-    18.00  FC Famalicão            v Sport Lisboa e Benfica   2-2 (0-2)
-    20.30  FC Porto                v FC Alverca               1-0 (1-0)
-  Sun May/3
-    15.30  Casa Pia AC             v CD Tondela               0-1 (0-0)
-    18.00  Sporting Clube de Braga v GD Estoril Praia         1-1 (1-0)
-    20.30  Rio Ave FC              v Gil Vicente FC           0-0
-  Mon May/4
-    20.15  Sporting Clube de Portugal v Vitória Guimarães        5-1 (3-0)
+    18:00  FC Famalicão            v Sport Lisboa e Benfica   2-2 (0-2)
+    20:30  FC Porto                v FC Alverca               1-0 (1-0)
+  Sun May 3
+    15:30  Casa Pia AC             v CD Tondela               0-1 (0-0)
+    18:00  Sporting Clube de Braga v GD Estoril Praia         1-1 (1-0)
+    20:30  Rio Ave FC              v Gil Vicente FC           0-0
+  Mon May 4
+    20:15  Sporting Clube de Portugal v Vitória Guimarães        5-1 (3-0)
 
 
-» Matchday 33
-  Sun May/10
-    18.00  AVS                     v FC Porto                 3-1 (1-0)
-    20.30  FC Alverca              v GD Estoril Praia         1-1 (1-0)
-  Mon May/11
-    20.15  Vitória Guimarães       v Casa Pia AC              0-1 (0-0)
+▪ Matchday 33
+  Sun May 10
+    18:00  AVS                     v FC Porto                 3-1 (1-0)
+    20:30  FC Alverca              v GD Estoril Praia         1-1 (1-0)
+  Mon May 11
+    20:15  Vitória Guimarães       v Casa Pia AC              0-1 (0-0)
            Gil Vicente FC          v FC Arouca                1-3 (0-0)
            CD Tondela              v Moreirense FC            2-0 (1-0)
            CF Estrela da Amadora   v FC Famalicão             0-0
@@ -539,14 +539,14 @@
            Sport Lisboa e Benfica  v Sporting Clube de Braga  2-2 (0-0)
 
 
-» Matchday 34
-  Sat May/16
-    15.30  Moreirense FC           v AVS                      0-0
+▪ Matchday 34
+  Sat May 16
+    15:30  Moreirense FC           v AVS                      0-1 (0-0)
            FC Porto                v CD Santa Clara           1-0 (0-0)
-    18.00  CD Nacional             v Vitória Guimarães        2-0 (0-0)
-           Casa Pia AC             v Rio Ave FC               1-1 (1-0)
+    18:00  CD Nacional             v Vitória Guimarães        2-0 (0-0)
+           Casa Pia AC             v Rio Ave FC               2-1 (1-0)
            FC Arouca               v CD Tondela               3-1 (1-0)
            Sporting Clube de Braga v CF Estrela da Amadora    2-2 (1-1)
-    20.30  FC Famalicão            v FC Alverca               1-0 (0-0)
+    20:30  FC Famalicão            v FC Alverca               1-0 (0-0)
            Sporting Clube de Portugal v Gil Vicente FC           3-0 (2-0)
            GD Estoril Praia        v Sport Lisboa e Benfica   1-3 (0-3)
