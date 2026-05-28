@@ -1,401 +1,401 @@
 = Croatia HNL 2024/25
 
-# Date       Fri Aug/2 2024 - Sun May/25 2025 (296d)
+# Date       Fri Aug 2 2024 - Sun May 25 2025 (296d)
 # Teams      10
 # Matches    180
 
 
 
-» Matchday 1
-  Fri Aug/2 2024
-    21.00  Dinamo Zagreb           v NK Istra 1961            5-0 (3-0)
-  Sat Aug/3
-    21.00  HNK Gorica              v NK Varaždin              0-0
-  Sun Aug/4
-    18.50  HNK Rijeka              v Lokomotiva Zagreb        4-0 (2-0)
-    21.00  Hajduk Split            v Slaven Belupo            2-1 (2-1)
+▪ Matchday 1
+  Fri Aug 2 2024
+    21:00  Dinamo Zagreb           v NK Istra 1961            5-0 (3-0)
+  Sat Aug 3
+    21:00  HNK Gorica              v NK Varaždin              0-0
+  Sun Aug 4
+    18:50  HNK Rijeka              v Lokomotiva Zagreb        4-0 (2-0)
+    21:00  Hajduk Split            v Slaven Belupo            2-1 (2-1)
            NK Osijek               v HNK Šibenik              1-2 (0-1)
 
 
-» Matchday 2
-  Fri Aug/9
-    18.30  HNK Šibenik             v Slaven Belupo            2-0 (2-0)
-  Sat Aug/10
-    21.00  NK Istra 1961           v HNK Gorica               2-1 (0-0)
-  Sun Aug/11
-    18.30  Lokomotiva Zagreb       v Hajduk Split             1-1 (0-0)
-    21.00  NK Osijek               v Dinamo Zagreb            1-2 (1-1)
+▪ Matchday 2
+  Fri Aug 9
+    18:30  HNK Šibenik             v Slaven Belupo            2-0 (2-0)
+  Sat Aug 10
+    21:00  NK Istra 1961           v HNK Gorica               2-1 (0-0)
+  Sun Aug 11
+    18:30  Lokomotiva Zagreb       v Hajduk Split             1-1 (0-0)
+    21:00  NK Osijek               v Dinamo Zagreb            1-2 (1-1)
            NK Varaždin             v HNK Rijeka               0-0
 
 
-» Matchday 3
-  Fri Aug/16
-    21.00  Dinamo Zagreb           v HNK Šibenik              3-0 (2-0)
-  Sat Aug/17
-    21.00  Slaven Belupo           v Lokomotiva Zagreb        2-2 (1-2)
-  Sun Aug/18
-    18.50  Hajduk Split            v NK Varaždin              2-1 (0-1)
-    21.00  HNK Gorica              v NK Osijek                2-2 (1-0)
+▪ Matchday 3
+  Fri Aug 16
+    21:00  Dinamo Zagreb           v HNK Šibenik              3-0 (2-0)
+  Sat Aug 17
+    21:00  Slaven Belupo           v Lokomotiva Zagreb        2-2 (1-2)
+  Sun Aug 18
+    18:50  Hajduk Split            v NK Varaždin              2-1 (0-1)
+    21:00  HNK Gorica              v NK Osijek                2-2 (1-0)
            HNK Rijeka              v NK Istra 1961            4-0 (3-0)
 
 
-» Matchday 4
-  Fri Aug/23
-    20.00  Lokomotiva Zagreb       v HNK Šibenik              0-1 (0-1)
-  Sat Aug/24
-    18.15  NK Varaždin             v Slaven Belupo            2-0 (0-0)
-    20.30  Dinamo Zagreb           v HNK Gorica               2-1 (1-0)
-  Sun Aug/25
-    18.15  NK Istra 1961           v Hajduk Split             1-1 (1-0)
-    20.45  NK Osijek               v HNK Rijeka               0-2 (0-1)
-
-
-» Matchday 5
-  Fri Aug/30
-    20.00  HNK Gorica              v HNK Šibenik              2-1 (1-0)
-  Sat Aug/31
-    18.15  Slaven Belupo           v NK Istra 1961            0-1 (0-1)
-    20.45  Hajduk Split            v NK Osijek                1-0 (0-0)
-  Sun Sep/1
-    18.15  Lokomotiva Zagreb       v NK Varaždin              0-1 (0-0)
-    20.45  HNK Rijeka              v Dinamo Zagreb            1-1 (0-1)
-
-
-» Matchday 6
-  Fri Sep/13
-    20.00  Dinamo Zagreb           v Hajduk Split             0-1 (0-0)
-  Sat Sep/14
-    17.30  NK Istra 1961           v Lokomotiva Zagreb        0-2 (0-1)
-    20.00  HNK Gorica              v HNK Rijeka               0-1 (0-0)
-  Sun Sep/15
-    17.30  NK Osijek               v Slaven Belupo            1-0 (1-0)
-    20.00  HNK Šibenik             v NK Varaždin              0-0
-
-
-» Matchday 7
-  Fri Sep/20
-    18.00  NK Varaždin             v NK Istra 1961            1-0 (0-0)
-  Sat Sep/21
-    17.30  Slaven Belupo           v Dinamo Zagreb            4-1 (1-1)
-    20.00  Hajduk Split            v HNK Gorica               4-1 (1-1)
-  Sun Sep/22
-    17.30  Lokomotiva Zagreb       v NK Osijek                0-1 (0-1)
-    20.00  HNK Rijeka              v HNK Šibenik              3-0 (2-0)
-
-
-» Matchday 8
-  Fri Sep/27
-    18.00  HNK Šibenik             v NK Istra 1961            0-0
-  Sat Sep/28
-    20.00  Dinamo Zagreb           v Lokomotiva Zagreb        5-1 (2-0)
-  Sun Sep/29
-    17.30  NK Osijek               v NK Varaždin              2-1 (2-0)
-    20.00  HNK Rijeka              v Hajduk Split             0-0
-  Mon Sep/30
-    16.00  HNK Gorica              v Slaven Belupo            2-1 (1-1)
-
-
-» Matchday 9
-  Fri Oct/4
-    18.00  NK Istra 1961           v NK Osijek                2-1 (2-0)
-  Sat Oct/5
-    16.00  Lokomotiva Zagreb       v HNK Gorica               2-0 (1-0)
-    18.30  Slaven Belupo           v HNK Rijeka               0-0
-  Sun Oct/6
-    16.00  NK Varaždin             v Dinamo Zagreb            0-1 (0-1)
-    18.30  Hajduk Split            v HNK Šibenik              4-0 (2-0)
-
-
-» Matchday 10
-  Fri Oct/18
-    18.00  Lokomotiva Zagreb       v HNK Rijeka               2-2 (1-1)
-  Sat Oct/19
-    16.00  HNK Šibenik             v NK Osijek                1-3 (1-1)
-    18.30  NK Istra 1961           v Dinamo Zagreb            2-2 (1-0)
-  Sun Oct/20
-    16.00  Slaven Belupo           v Hajduk Split             0-2 (0-2)
-    18.30  NK Varaždin             v HNK Gorica               2-1 (1-0)
-
-
-» Matchday 11
-  Fri Oct/25
-    18.00  Slaven Belupo           v HNK Šibenik              2-2 (1-1)
-  Sat Oct/26
-    16.00  Hajduk Split            v Lokomotiva Zagreb        2-1 (1-1)
-    18.30  HNK Rijeka              v NK Varaždin              1-1 (1-1)
-  Sun Oct/27
-    16.00  Dinamo Zagreb           v NK Osijek                2-4 (1-2)
-    18.30  HNK Gorica              v NK Istra 1961            1-0 (0-0)
-
-
-» Matchday 12
-  Fri Nov/1
-    18.00  HNK Šibenik             v Dinamo Zagreb            0-4 (0-2)
-  Sat Nov/2
-    15.00  Lokomotiva Zagreb       v Slaven Belupo            0-1 (0-1)
-    17.30  NK Osijek               v HNK Gorica               2-0 (1-0)
-  Sun Nov/3
-    15.00  NK Istra 1961           v HNK Rijeka               0-1 (0-0)
-    17.30  NK Varaždin             v Hajduk Split             1-0 (1-0)
-
-
-» Matchday 13
-  Fri Nov/8
-    18.00  HNK Šibenik             v Lokomotiva Zagreb        0-3 (0-0)
-  Sat Nov/9
-    15.00  HNK Gorica              v Dinamo Zagreb            2-2 (1-1)
-    17.30  Hajduk Split            v NK Istra 1961            1-1 (0-0)
-  Sun Nov/10
-    15.00  Slaven Belupo           v NK Varaždin              1-1 (0-1)
-    17.45  HNK Rijeka              v NK Osijek                1-1 (0-0)
-
-
-» Matchday 14
-  Fri Nov/22
-    18.00  NK Istra 1961           v Slaven Belupo            2-3 (1-1)
-  Sat Nov/23
-    15.00  NK Varaždin             v Lokomotiva Zagreb        1-1 (0-1)
-    17.45  Dinamo Zagreb           v HNK Rijeka               0-0
-  Sun Nov/24
-    15.00  NK Osijek               v Hajduk Split             2-2 (1-1)
-    17.45  HNK Šibenik             v HNK Gorica               1-0 (1-0)
-
-
-» Matchday 15
-  Fri Nov/29
-    18.00  NK Varaždin             v HNK Šibenik              2-1 (1-0)
-  Sat Nov/30
-    15.00  Slaven Belupo           v NK Osijek                3-2 (1-1)
-    17.30  HNK Rijeka              v HNK Gorica               1-0 (0-0)
-  Sun Dec/1
-    15.00  Lokomotiva Zagreb       v NK Istra 1961            1-2 (0-2)
-    17.45  Hajduk Split            v Dinamo Zagreb            1-0 (0-0)
-
-
-» Matchday 16
-  Fri Dec/6
-    18.00  Dinamo Zagreb           v Slaven Belupo            1-1 (1-0)
-  Sat Dec/7
-    15.00  NK Istra 1961           v NK Varaždin              0-0
-    17.30  HNK Gorica              v Hajduk Split             1-0 (0-0)
-  Sun Dec/8
-    15.00  HNK Šibenik             v HNK Rijeka               0-1 (0-1)
-    17.30  NK Osijek               v Lokomotiva Zagreb        3-0 (2-0)
-
-
-» Matchday 17
-  Fri Dec/13
-    18.00  Slaven Belupo           v HNK Gorica               2-1 (0-1)
-  Sat Dec/14
-    15.00  Lokomotiva Zagreb       v Dinamo Zagreb            3-1 (3-1)
-    17.30  NK Istra 1961           v HNK Šibenik              3-3 (1-2)
-  Sun Dec/15
-    15.00  NK Varaždin             v NK Osijek                0-0
-    17.45  Hajduk Split            v HNK Rijeka               2-2 (2-1)
-
-
-» Matchday 18
-  Fri Dec/20
-    18.00  NK Osijek               v NK Istra 1961            2-2 (0-1)
-  Sat Dec/21
-    15.00  HNK Gorica              v Lokomotiva Zagreb        1-4 (1-1)
-  Sun Dec/22
-    13.00  Dinamo Zagreb           v NK Varaždin              3-2 (2-0)
-    15.00  HNK Rijeka              v Slaven Belupo            2-0 (0-0)
-    17.30  HNK Šibenik             v Hajduk Split             1-2 (0-0)
-
-
-» Matchday 19
-  Fri Jan/24 2025
-    18.00  NK Osijek               v HNK Šibenik              2-2 (2-1)
-  Sat Jan/25
-    15.00  HNK Gorica              v NK Varaždin              1-1 (1-1)
-    17.30  Dinamo Zagreb           v NK Istra 1961            3-1 (1-1)
-  Sun Jan/26
-    15.00  HNK Rijeka              v Lokomotiva Zagreb        4-1 (2-0)
-    17.30  Hajduk Split            v Slaven Belupo            0-0
-
-
-» Matchday 20
-  Fri Jan/31
-    17.00  NK Istra 1961           v HNK Gorica               0-0
-  Sat Feb/1
-    15.00  HNK Šibenik             v Slaven Belupo            1-1 (0-1)
-    17.30  NK Varaždin             v HNK Rijeka               1-0 (1-0)
-  Sun Feb/2
-    12.50  Lokomotiva Zagreb       v Hajduk Split             3-2 (2-1)
-    15.00  NK Osijek               v Dinamo Zagreb            2-1 (1-0)
-
-
-» Matchday 21
-  Fri Feb/7
-    18.00  Dinamo Zagreb           v HNK Šibenik              3-0 (1-0)
-  Sat Feb/8
-    15.00  HNK Gorica              v NK Osijek                1-0 (0-0)
-    17.30  Hajduk Split            v NK Varaždin              1-0 (1-0)
-  Sun Feb/9
-    15.00  HNK Rijeka              v NK Istra 1961            0-1 (0-1)
-    17.45  Slaven Belupo           v Lokomotiva Zagreb        2-1 (1-1)
-
-
-» Matchday 22
-  Fri Feb/14
-    18.00  HNK Šibenik             v Lokomotiva Zagreb        1-2 (0-0)
-  Sat Feb/15
-    15.00  NK Istra 1961           v Hajduk Split             1-1 (1-1)
-    17.30  Dinamo Zagreb           v HNK Gorica               3-1 (1-1)
-  Sun Feb/16
-    15.00  NK Varaždin             v Slaven Belupo            0-1 (0-1)
-    17.45  NK Osijek               v HNK Rijeka               0-2 (0-2)
-
-
-» Matchday 23
-  Fri Feb/21
-    18.00  Lokomotiva Zagreb       v NK Varaždin              1-0 (0-0)
-  Sat Feb/22
-    15.00  Hajduk Split            v NK Osijek                4-0 (3-0)
-    17.45  HNK Rijeka              v Dinamo Zagreb            4-0 (3-0)
-  Sun Feb/23
-    15.00  HNK Gorica              v HNK Šibenik              1-0 (1-0)
-    17.30  Slaven Belupo           v NK Istra 1961            0-0
-
-
-» Matchday 24
-  Fri Feb/28
-    18.00  NK Istra 1961           v Lokomotiva Zagreb        3-2 (3-1)
-  Sat Mar/1
-    15.00  HNK Gorica              v HNK Rijeka               0-0
-    17.30  NK Osijek               v Slaven Belupo            1-2 (1-0)
-  Sun Mar/2
-    15.00  Dinamo Zagreb           v Hajduk Split             2-2 (1-1)
-    17.45  HNK Šibenik             v NK Varaždin              0-2 (0-1)
-
-
-» Matchday 25
-  Fri Mar/7
-    18.00  HNK Rijeka              v HNK Šibenik              1-1 (1-1)
-  Sat Mar/8
-    15.00  NK Varaždin             v NK Istra 1961            0-0
-    17.30  Lokomotiva Zagreb       v NK Osijek                3-0 (1-0)
-  Sun Mar/9
-    15.00  Hajduk Split            v HNK Gorica               2-1 (1-0)
-    17.30  Slaven Belupo           v Dinamo Zagreb            0-1 (0-1)
-
-
-» Matchday 26
-  Fri Mar/14
-    18.00  HNK Gorica              v Slaven Belupo            0-3 (0-2)
-  Sat Mar/15
-    15.00  HNK Šibenik             v NK Istra 1961            1-0 (1-0)
-    17.30  Dinamo Zagreb           v Lokomotiva Zagreb        3-0 (2-0)
-  Sun Mar/16
-    15.00  NK Osijek               v NK Varaždin              0-0
-    17.45  HNK Rijeka              v Hajduk Split             3-0 (2-0)
-
-
-» Matchday 27
-  Fri Mar/28
-    18.00  Lokomotiva Zagreb       v HNK Gorica               1-1 (1-1)
-  Sat Mar/29
-    16.00  NK Istra 1961           v NK Osijek                2-1 (1-0)
-    18.45  Slaven Belupo           v HNK Rijeka               2-1 (0-1)
-  Sun Mar/30
-    16.00  Hajduk Split            v HNK Šibenik              1-0 (0-0)
-    18.45  NK Varaždin             v Dinamo Zagreb            1-1 (0-0)
-
-
-» Matchday 28
-  Fri Apr/4
-    18.00  NK Varaždin             v HNK Gorica               0-0
-  Sat Apr/5
-    16.00  Slaven Belupo           v Hajduk Split             0-1 (0-1)
-    18.45  NK Istra 1961           v Dinamo Zagreb            3-0 (1-0)
-  Sun Apr/6
-    16.00  Lokomotiva Zagreb       v HNK Rijeka               0-1 (0-0)
-    18.45  HNK Šibenik             v NK Osijek                4-1 (2-0)
-
-
-» Matchday 29
-  Fri Apr/11
-    18.00  Slaven Belupo           v HNK Šibenik              2-0 (0-0)
-  Sat Apr/12
-    16.00  HNK Gorica              v NK Istra 1961            3-2 (2-2)
-    18.45  Dinamo Zagreb           v NK Osijek                2-0 (1-0)
-  Sun Apr/13
-    16.00  HNK Rijeka              v NK Varaždin              1-0 (0-0)
-    18.45  Hajduk Split            v Lokomotiva Zagreb        1-1 (0-1)
-
-
-» Matchday 30
-  Thu Apr/17
-    18.00  HNK Šibenik             v Dinamo Zagreb            0-4 (0-1)
-  Fri Apr/18
-    16.00  Lokomotiva Zagreb       v Slaven Belupo            0-2 (0-0)
-    18.45  NK Varaždin             v Hajduk Split             1-1 (1-0)
-  Sat Apr/19
-    16.00  NK Osijek               v HNK Gorica               0-1 (0-1)
-    18.45  NK Istra 1961           v HNK Rijeka               2-0 (1-0)
-
-
-» Matchday 31
-  Tue Apr/22
-    17.00  Slaven Belupo           v NK Varaždin              0-1 (0-0)
-    19.15  Lokomotiva Zagreb       v HNK Šibenik              1-2 (1-1)
-  Wed Apr/23
-    15.00  HNK Gorica              v Dinamo Zagreb            1-0 (0-0)
-    17.30  Hajduk Split            v NK Istra 1961            0-1 (0-1)
-    20.00  HNK Rijeka              v NK Osijek                0-2 (0-1)
-
-
-» Matchday 32
-  Sat Apr/26
-    18.00  NK Varaždin             v Lokomotiva Zagreb        2-1 (0-1)
-  Sun Apr/27
-    16.00  NK Osijek               v Hajduk Split             2-0 (0-0)
-    18.45  Dinamo Zagreb           v HNK Rijeka               1-0 (1-0)
-  Mon Apr/28
-    17.00  NK Istra 1961           v Slaven Belupo            1-1 (1-1)
-    19.15  HNK Šibenik             v HNK Gorica               0-0
-
-
-» Matchday 33
-  Fri May/2
-    18.00  NK Varaždin             v HNK Šibenik              1-1 (0-1)
-  Sat May/3
-    16.00  Hajduk Split            v Dinamo Zagreb            1-3 (0-0)
-    18.45  Lokomotiva Zagreb       v NK Istra 1961            0-0
-  Sun May/4
-    16.00  Slaven Belupo           v NK Osijek                1-4 (0-3)
-    18.15  HNK Rijeka              v HNK Gorica               2-1 (2-0)
-
-
-» Matchday 34
-  Fri May/9
-    18.00  NK Osijek               v Lokomotiva Zagreb        1-1 (1-0)
-  Sat May/10
-    17.00  HNK Šibenik             v HNK Rijeka               0-1 (0-0)
-    19.45  Dinamo Zagreb           v Slaven Belupo            5-0 (3-0)
-  Sun May/11
-    16.00  HNK Gorica              v Hajduk Split             1-1 (0-0)
-    18.15  NK Istra 1961           v NK Varaždin              0-0
-
-
-» Matchday 35
-  Fri May/16
-    18.00  NK Istra 1961           v HNK Šibenik              3-0 (2-0)
-  Sat May/17
-    17.00  NK Varaždin             v NK Osijek                2-1 (2-1)
-    19.15  Lokomotiva Zagreb       v Dinamo Zagreb            1-1 (0-1)
-  Sun May/18
-    16.00  Slaven Belupo           v HNK Gorica               4-0 (2-0)
-    18.45  Hajduk Split            v HNK Rijeka               2-1 (1-0)
-
-
-» Matchday 36
-  Sat May/24
-    19.15  HNK Gorica              v Lokomotiva Zagreb        0-3 (0-1)
-  Sun May/25
-    17.00  Dinamo Zagreb           v NK Varaždin              1-0 (1-0)
+▪ Matchday 4
+  Fri Aug 23
+    20:00  Lokomotiva Zagreb       v HNK Šibenik              0-1 (0-1)
+  Sat Aug 24
+    18:15  NK Varaždin             v Slaven Belupo            2-0 (0-0)
+    20:30  Dinamo Zagreb           v HNK Gorica               2-1 (1-0)
+  Sun Aug 25
+    18:15  NK Istra 1961           v Hajduk Split             1-1 (1-0)
+    20:45  NK Osijek               v HNK Rijeka               0-2 (0-1)
+
+
+▪ Matchday 5
+  Fri Aug 30
+    20:00  HNK Gorica              v HNK Šibenik              2-1 (1-0)
+  Sat Aug 31
+    18:15  Slaven Belupo           v NK Istra 1961            0-1 (0-1)
+    20:45  Hajduk Split            v NK Osijek                1-0 (0-0)
+  Sun Sep 1
+    18:15  Lokomotiva Zagreb       v NK Varaždin              0-1 (0-0)
+    20:45  HNK Rijeka              v Dinamo Zagreb            1-1 (0-1)
+
+
+▪ Matchday 6
+  Fri Sep 13
+    20:00  Dinamo Zagreb           v Hajduk Split             0-1 (0-0)
+  Sat Sep 14
+    17:30  NK Istra 1961           v Lokomotiva Zagreb        0-2 (0-1)
+    20:00  HNK Gorica              v HNK Rijeka               0-1 (0-0)
+  Sun Sep 15
+    17:30  NK Osijek               v Slaven Belupo            1-0 (1-0)
+    20:00  HNK Šibenik             v NK Varaždin              0-0
+
+
+▪ Matchday 7
+  Fri Sep 20
+    18:00  NK Varaždin             v NK Istra 1961            1-0 (0-0)
+  Sat Sep 21
+    17:30  Slaven Belupo           v Dinamo Zagreb            4-1 (1-1)
+    20:00  Hajduk Split            v HNK Gorica               4-1 (1-1)
+  Sun Sep 22
+    17:30  Lokomotiva Zagreb       v NK Osijek                0-1 (0-1)
+    20:00  HNK Rijeka              v HNK Šibenik              3-0 (2-0)
+
+
+▪ Matchday 8
+  Fri Sep 27
+    18:00  HNK Šibenik             v NK Istra 1961            0-0
+  Sat Sep 28
+    20:00  Dinamo Zagreb           v Lokomotiva Zagreb        5-1 (2-0)
+  Sun Sep 29
+    17:30  NK Osijek               v NK Varaždin              2-1 (2-0)
+    20:00  HNK Rijeka              v Hajduk Split             0-0
+  Mon Sep 30
+    16:00  HNK Gorica              v Slaven Belupo            2-1 (1-1)
+
+
+▪ Matchday 9
+  Fri Oct 4
+    18:00  NK Istra 1961           v NK Osijek                2-1 (2-0)
+  Sat Oct 5
+    16:00  Lokomotiva Zagreb       v HNK Gorica               2-0 (1-0)
+    18:30  Slaven Belupo           v HNK Rijeka               0-0
+  Sun Oct 6
+    16:00  NK Varaždin             v Dinamo Zagreb            0-1 (0-1)
+    18:30  Hajduk Split            v HNK Šibenik              4-0 (2-0)
+
+
+▪ Matchday 10
+  Fri Oct 18
+    18:00  Lokomotiva Zagreb       v HNK Rijeka               2-2 (1-1)
+  Sat Oct 19
+    16:00  HNK Šibenik             v NK Osijek                1-3 (1-1)
+    18:30  NK Istra 1961           v Dinamo Zagreb            2-2 (1-0)
+  Sun Oct 20
+    16:00  Slaven Belupo           v Hajduk Split             0-2 (0-2)
+    18:30  NK Varaždin             v HNK Gorica               2-1 (1-0)
+
+
+▪ Matchday 11
+  Fri Oct 25
+    18:00  Slaven Belupo           v HNK Šibenik              2-2 (1-1)
+  Sat Oct 26
+    16:00  Hajduk Split            v Lokomotiva Zagreb        2-1 (1-1)
+    18:30  HNK Rijeka              v NK Varaždin              1-1 (1-1)
+  Sun Oct 27
+    16:00  Dinamo Zagreb           v NK Osijek                2-4 (1-2)
+    18:30  HNK Gorica              v NK Istra 1961            1-0 (0-0)
+
+
+▪ Matchday 12
+  Fri Nov 1
+    18:00  HNK Šibenik             v Dinamo Zagreb            0-4 (0-2)
+  Sat Nov 2
+    15:00  Lokomotiva Zagreb       v Slaven Belupo            0-1 (0-1)
+    17:30  NK Osijek               v HNK Gorica               2-0 (1-0)
+  Sun Nov 3
+    15:00  NK Istra 1961           v HNK Rijeka               0-1 (0-0)
+    17:30  NK Varaždin             v Hajduk Split             1-0 (1-0)
+
+
+▪ Matchday 13
+  Fri Nov 8
+    18:00  HNK Šibenik             v Lokomotiva Zagreb        0-3 (0-0)
+  Sat Nov 9
+    15:00  HNK Gorica              v Dinamo Zagreb            2-2 (1-1)
+    17:30  Hajduk Split            v NK Istra 1961            1-1 (0-0)
+  Sun Nov 10
+    15:00  Slaven Belupo           v NK Varaždin              1-1 (0-1)
+    17:45  HNK Rijeka              v NK Osijek                1-1 (0-0)
+
+
+▪ Matchday 14
+  Fri Nov 22
+    18:00  NK Istra 1961           v Slaven Belupo            2-3 (1-1)
+  Sat Nov 23
+    15:00  NK Varaždin             v Lokomotiva Zagreb        1-1 (0-1)
+    17:45  Dinamo Zagreb           v HNK Rijeka               0-0
+  Sun Nov 24
+    15:00  NK Osijek               v Hajduk Split             2-2 (1-1)
+    17:45  HNK Šibenik             v HNK Gorica               1-0 (1-0)
+
+
+▪ Matchday 15
+  Fri Nov 29
+    18:00  NK Varaždin             v HNK Šibenik              2-1 (1-0)
+  Sat Nov 30
+    15:00  Slaven Belupo           v NK Osijek                3-2 (1-1)
+    17:30  HNK Rijeka              v HNK Gorica               1-0 (0-0)
+  Sun Dec 1
+    15:00  Lokomotiva Zagreb       v NK Istra 1961            1-2 (0-2)
+    17:45  Hajduk Split            v Dinamo Zagreb            1-0 (0-0)
+
+
+▪ Matchday 16
+  Fri Dec 6
+    18:00  Dinamo Zagreb           v Slaven Belupo            1-1 (1-0)
+  Sat Dec 7
+    15:00  NK Istra 1961           v NK Varaždin              0-0
+    17:30  HNK Gorica              v Hajduk Split             1-0 (0-0)
+  Sun Dec 8
+    15:00  HNK Šibenik             v HNK Rijeka               0-1 (0-1)
+    17:30  NK Osijek               v Lokomotiva Zagreb        3-0 (2-0)
+
+
+▪ Matchday 17
+  Fri Dec 13
+    18:00  Slaven Belupo           v HNK Gorica               2-1 (0-1)
+  Sat Dec 14
+    15:00  Lokomotiva Zagreb       v Dinamo Zagreb            3-1 (3-1)
+    17:30  NK Istra 1961           v HNK Šibenik              3-3 (1-2)
+  Sun Dec 15
+    15:00  NK Varaždin             v NK Osijek                0-0
+    17:45  Hajduk Split            v HNK Rijeka               2-2 (2-1)
+
+
+▪ Matchday 18
+  Fri Dec 20
+    18:00  NK Osijek               v NK Istra 1961            2-2 (0-1)
+  Sat Dec 21
+    15:00  HNK Gorica              v Lokomotiva Zagreb        1-4 (1-1)
+  Sun Dec 22
+    13:00  Dinamo Zagreb           v NK Varaždin              3-2 (2-0)
+    15:00  HNK Rijeka              v Slaven Belupo            2-0 (0-0)
+    17:30  HNK Šibenik             v Hajduk Split             1-2 (0-0)
+
+
+▪ Matchday 19
+  Fri Jan 24 2025
+    18:00  NK Osijek               v HNK Šibenik              2-2 (2-1)
+  Sat Jan 25
+    15:00  HNK Gorica              v NK Varaždin              1-1 (1-1)
+    17:30  Dinamo Zagreb           v NK Istra 1961            3-1 (1-1)
+  Sun Jan 26
+    15:00  HNK Rijeka              v Lokomotiva Zagreb        4-1 (2-0)
+    17:30  Hajduk Split            v Slaven Belupo            0-0
+
+
+▪ Matchday 20
+  Fri Jan 31
+    17:00  NK Istra 1961           v HNK Gorica               0-0
+  Sat Feb 1
+    15:00  HNK Šibenik             v Slaven Belupo            1-1 (0-1)
+    17:30  NK Varaždin             v HNK Rijeka               1-0 (1-0)
+  Sun Feb 2
+    12:50  Lokomotiva Zagreb       v Hajduk Split             3-2 (2-1)
+    15:00  NK Osijek               v Dinamo Zagreb            2-1 (1-0)
+
+
+▪ Matchday 21
+  Fri Feb 7
+    18:00  Dinamo Zagreb           v HNK Šibenik              3-0 (1-0)
+  Sat Feb 8
+    15:00  HNK Gorica              v NK Osijek                1-0 (0-0)
+    17:30  Hajduk Split            v NK Varaždin              1-0 (1-0)
+  Sun Feb 9
+    15:00  HNK Rijeka              v NK Istra 1961            0-1 (0-1)
+    17:45  Slaven Belupo           v Lokomotiva Zagreb        2-1 (1-1)
+
+
+▪ Matchday 22
+  Fri Feb 14
+    18:00  HNK Šibenik             v Lokomotiva Zagreb        1-2 (0-0)
+  Sat Feb 15
+    15:00  NK Istra 1961           v Hajduk Split             1-1 (1-1)
+    17:30  Dinamo Zagreb           v HNK Gorica               3-1 (1-1)
+  Sun Feb 16
+    15:00  NK Varaždin             v Slaven Belupo            0-1 (0-1)
+    17:45  NK Osijek               v HNK Rijeka               0-2 (0-2)
+
+
+▪ Matchday 23
+  Fri Feb 21
+    18:00  Lokomotiva Zagreb       v NK Varaždin              1-0 (0-0)
+  Sat Feb 22
+    15:00  Hajduk Split            v NK Osijek                4-0 (3-0)
+    17:45  HNK Rijeka              v Dinamo Zagreb            4-0 (3-0)
+  Sun Feb 23
+    15:00  HNK Gorica              v HNK Šibenik              1-0 (1-0)
+    17:30  Slaven Belupo           v NK Istra 1961            0-0
+
+
+▪ Matchday 24
+  Fri Feb 28
+    18:00  NK Istra 1961           v Lokomotiva Zagreb        3-2 (3-1)
+  Sat Mar 1
+    15:00  HNK Gorica              v HNK Rijeka               0-0
+    17:30  NK Osijek               v Slaven Belupo            1-2 (1-0)
+  Sun Mar 2
+    15:00  Dinamo Zagreb           v Hajduk Split             2-2 (1-1)
+    17:45  HNK Šibenik             v NK Varaždin              0-2 (0-1)
+
+
+▪ Matchday 25
+  Fri Mar 7
+    18:00  HNK Rijeka              v HNK Šibenik              1-1 (1-1)
+  Sat Mar 8
+    15:00  NK Varaždin             v NK Istra 1961            0-0
+    17:30  Lokomotiva Zagreb       v NK Osijek                3-0 (1-0)
+  Sun Mar 9
+    15:00  Hajduk Split            v HNK Gorica               2-1 (1-0)
+    17:30  Slaven Belupo           v Dinamo Zagreb            0-1 (0-1)
+
+
+▪ Matchday 26
+  Fri Mar 14
+    18:00  HNK Gorica              v Slaven Belupo            0-3 (0-2)
+  Sat Mar 15
+    15:00  HNK Šibenik             v NK Istra 1961            1-0 (1-0)
+    17:30  Dinamo Zagreb           v Lokomotiva Zagreb        3-0 (2-0)
+  Sun Mar 16
+    15:00  NK Osijek               v NK Varaždin              0-0
+    17:45  HNK Rijeka              v Hajduk Split             3-0 (2-0)
+
+
+▪ Matchday 27
+  Fri Mar 28
+    18:00  Lokomotiva Zagreb       v HNK Gorica               1-1 (1-1)
+  Sat Mar 29
+    16:00  NK Istra 1961           v NK Osijek                2-1 (1-0)
+    18:45  Slaven Belupo           v HNK Rijeka               2-1 (0-1)
+  Sun Mar 30
+    16:00  Hajduk Split            v HNK Šibenik              1-0 (0-0)
+    18:45  NK Varaždin             v Dinamo Zagreb            1-1 (0-0)
+
+
+▪ Matchday 28
+  Fri Apr 4
+    18:00  NK Varaždin             v HNK Gorica               0-0
+  Sat Apr 5
+    16:00  Slaven Belupo           v Hajduk Split             0-1 (0-1)
+    18:45  NK Istra 1961           v Dinamo Zagreb            3-0 (1-0)
+  Sun Apr 6
+    16:00  Lokomotiva Zagreb       v HNK Rijeka               0-1 (0-0)
+    18:45  HNK Šibenik             v NK Osijek                4-1 (2-0)
+
+
+▪ Matchday 29
+  Fri Apr 11
+    18:00  Slaven Belupo           v HNK Šibenik              2-0 (0-0)
+  Sat Apr 12
+    16:00  HNK Gorica              v NK Istra 1961            3-2 (2-2)
+    18:45  Dinamo Zagreb           v NK Osijek                2-0 (1-0)
+  Sun Apr 13
+    16:00  HNK Rijeka              v NK Varaždin              1-0 (0-0)
+    18:45  Hajduk Split            v Lokomotiva Zagreb        1-1 (0-1)
+
+
+▪ Matchday 30
+  Thu Apr 17
+    18:00  HNK Šibenik             v Dinamo Zagreb            0-4 (0-1)
+  Fri Apr 18
+    16:00  Lokomotiva Zagreb       v Slaven Belupo            0-2 (0-0)
+    18:45  NK Varaždin             v Hajduk Split             1-1 (1-0)
+  Sat Apr 19
+    16:00  NK Osijek               v HNK Gorica               0-1 (0-1)
+    18:45  NK Istra 1961           v HNK Rijeka               2-0 (1-0)
+
+
+▪ Matchday 31
+  Tue Apr 22
+    17:00  Slaven Belupo           v NK Varaždin              0-1 (0-0)
+    19:15  Lokomotiva Zagreb       v HNK Šibenik              1-2 (1-1)
+  Wed Apr 23
+    15:00  HNK Gorica              v Dinamo Zagreb            1-0 (0-0)
+    17:30  Hajduk Split            v NK Istra 1961            0-1 (0-1)
+    20:00  HNK Rijeka              v NK Osijek                0-2 (0-1)
+
+
+▪ Matchday 32
+  Sat Apr 26
+    18:00  NK Varaždin             v Lokomotiva Zagreb        2-1 (0-1)
+  Sun Apr 27
+    16:00  NK Osijek               v Hajduk Split             2-0 (0-0)
+    18:45  Dinamo Zagreb           v HNK Rijeka               1-0 (1-0)
+  Mon Apr 28
+    17:00  NK Istra 1961           v Slaven Belupo            1-1 (1-1)
+    19:15  HNK Šibenik             v HNK Gorica               0-0
+
+
+▪ Matchday 33
+  Fri May 2
+    18:00  NK Varaždin             v HNK Šibenik              1-1 (0-1)
+  Sat May 3
+    16:00  Hajduk Split            v Dinamo Zagreb            1-3 (0-0)
+    18:45  Lokomotiva Zagreb       v NK Istra 1961            0-0
+  Sun May 4
+    16:00  Slaven Belupo           v NK Osijek                1-4 (0-3)
+    18:15  HNK Rijeka              v HNK Gorica               2-1 (2-0)
+
+
+▪ Matchday 34
+  Fri May 9
+    18:00  NK Osijek               v Lokomotiva Zagreb        1-1 (1-0)
+  Sat May 10
+    17:00  HNK Šibenik             v HNK Rijeka               0-1 (0-0)
+    19:45  Dinamo Zagreb           v Slaven Belupo            5-0 (3-0)
+  Sun May 11
+    16:00  HNK Gorica              v Hajduk Split             1-1 (0-0)
+    18:15  NK Istra 1961           v NK Varaždin              0-0
+
+
+▪ Matchday 35
+  Fri May 16
+    18:00  NK Istra 1961           v HNK Šibenik              3-0 (2-0)
+  Sat May 17
+    17:00  NK Varaždin             v NK Osijek                2-1 (2-1)
+    19:15  Lokomotiva Zagreb       v Dinamo Zagreb            1-1 (0-1)
+  Sun May 18
+    16:00  Slaven Belupo           v HNK Gorica               4-0 (2-0)
+    18:45  Hajduk Split            v HNK Rijeka               2-1 (1-0)
+
+
+▪ Matchday 36
+  Sat May 24
+    19:15  HNK Gorica              v Lokomotiva Zagreb        0-3 (0-1)
+  Sun May 25
+    17:00  Dinamo Zagreb           v NK Varaždin              1-0 (1-0)
            HNK Rijeka              v Slaven Belupo            2-0 (1-0)
            NK Osijek               v NK Istra 1961            1-1 (0-1)
            HNK Šibenik             v Hajduk Split             0-1 (0-0)

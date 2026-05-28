@@ -1,73 +1,73 @@
 = French Ligue 2 2024/25
 
-# Date       Fri Aug/16 2024 - Sat May/10 2025 (267d)
+# Date       Fri Aug 16 2024 - Sat May 10 2025 (267d)
 # Teams      18
 # Matches    306
 
 
 
-» Matchday 1
-  Fri Aug/16 2024
-    20.00  AC Ajaccio              v Rodez AF                 1-0 (0-0)
+▪ Matchday 1
+  Fri Aug 16 2024
+    20:00  AC Ajaccio              v Rodez AF                 1-0 (0-0)
            Clermont Foot 63        v Pau FC                   2-2 (1-2)
            EA Guingamp             v ESTAC Troyes             4-0 (2-0)
            Grenoble Foot 38        v Stade Lavallois          2-1 (0-0)
            Amiens SC               v Red Star FC              3-0 (1-0)
            USL Dunkerque           v FC Annecy                0-2 (0-0)
-  Sat Aug/17
-    14.30  SM Caen                 v Paris FC                 0-2 (0-0)
-  Mon Aug/19
-    20.45  FC Martigues            v FC Lorient               0-1 (0-0)
+  Sat Aug 17
+    14:30  SM Caen                 v Paris FC                 0-2 (0-0)
+  Mon Aug 19
+    20:45  FC Martigues            v FC Lorient               0-1 (0-0)
            FC Metz                 v SC Bastia                1-1 (0-1)
 
 
-» Matchday 2
-  Fri Aug/23
-    20.00  FC Annecy               v FC Martigues             2-4 (1-2)
+▪ Matchday 2
+  Fri Aug 23
+    20:00  FC Annecy               v FC Martigues             2-4 (1-2)
            Paris FC                v USL Dunkerque            3-2 (0-1)
            Pau FC                  v SM Caen                  1-0 (1-0)
            ESTAC Troyes            v Clermont Foot 63         0-1 (0-1)
            Rodez AF                v FC Metz                  1-3 (0-3)
            SC Bastia               v Amiens SC                1-0 (0-0)
            Stade Lavallois         v EA Guingamp              0-1 (0-1)
-  Sat Aug/24
-    14.30  FC Lorient              v Grenoble Foot 38         2-0 (0-0)
-  Mon Aug/26
-    20.45  Red Star FC             v AC Ajaccio               1-0 (1-0)
+  Sat Aug 24
+    14:30  FC Lorient              v Grenoble Foot 38         2-0 (0-0)
+  Mon Aug 26
+    20:45  Red Star FC             v AC Ajaccio               1-0 (1-0)
 
 
-» Matchday 3
-  Fri Aug/30
-    20.00  AC Ajaccio              v ESTAC Troyes             2-1 (0-1)
+▪ Matchday 3
+  Fri Aug 30
+    20:00  AC Ajaccio              v ESTAC Troyes             2-1 (0-1)
            Clermont Foot 63        v Paris FC                 0-1 (0-1)
            EA Guingamp             v Red Star FC              3-4 (2-2)
            FC Martigues            v SC Bastia                0-1 (0-0)
            Grenoble Foot 38        v Pau FC                   1-1 (0-0)
            SM Caen                 v FC Annecy                1-1 (0-0)
            USL Dunkerque           v Rodez AF                 1-0 (1-0)
-  Sat Aug/31
-    14.30  FC Metz                 v Stade Lavallois          1-1 (0-1)
+  Sat Aug 31
+    14:30  FC Metz                 v Stade Lavallois          1-1 (0-1)
            Amiens SC               v FC Lorient               1-0 (1-0)
 
 
-» Matchday 4
-  Fri Sep/13
-    20.00  Clermont Foot 63        v USL Dunkerque            0-1 (0-0)
+▪ Matchday 4
+  Fri Sep 13
+    20:00  Clermont Foot 63        v USL Dunkerque            0-1 (0-0)
            FC Annecy               v Amiens SC                3-0 (1-0)
            FC Lorient              v Red Star FC              2-1 (1-0)
            Pau FC                  v FC Martigues             3-0 (1-0)
            Rodez AF                v EA Guingamp              1-2 (0-1)
            SC Bastia               v ESTAC Troyes             0-0
            Stade Lavallois         v AC Ajaccio               1-1 (1-1)
-  Sat Sep/14
-    14.30  Paris FC                v FC Metz                  1-2 (1-2)
-  Mon Sep/16
-    20.45  Grenoble Foot 38        v SM Caen                  3-1 (2-1)
+  Sat Sep 14
+    14:30  Paris FC                v FC Metz                  1-2 (1-2)
+  Mon Sep 16
+    20:45  Grenoble Foot 38        v SM Caen                  3-1 (2-1)
 
 
-» Matchday 5
-  Fri Sep/20
-    20.00  EA Guingamp             v FC Annecy                2-2 (1-1)
+▪ Matchday 5
+  Fri Sep 20
+    20:00  EA Guingamp             v FC Annecy                2-2 (1-1)
            FC Martigues            v Grenoble Foot 38         0-4 (0-0)
            Red Star FC             v Stade Lavallois          0-3 (0-2)
            ESTAC Troyes            v Rodez AF                 0-3 (0-1)
@@ -75,13 +75,13 @@
            SC Bastia               v Paris FC                 2-1 (2-1)
            SM Caen                 v AC Ajaccio               1-0 (0-0)
            USL Dunkerque           v Pau FC                   3-2 (2-1)
-  Sat Sep/21
-    14.30  FC Metz                 v FC Lorient               1-1 (1-0)
+  Sat Sep 21
+    14:30  FC Metz                 v FC Lorient               1-1 (1-0)
 
 
-» Matchday 6
-  Tue Sep/24
-    20.30  AC Ajaccio              v Grenoble Foot 38         2-0 (0-0)
+▪ Matchday 6
+  Tue Sep 24
+    20:30  AC Ajaccio              v Grenoble Foot 38         2-0 (0-0)
            Clermont Foot 63        v Red Star FC              1-1 (1-0)
            FC Annecy               v ESTAC Troyes             1-0 (1-0)
            FC Metz                 v FC Martigues             6-0 (3-0)
@@ -92,69 +92,69 @@
            USL Dunkerque           v SC Bastia                2-1 (0-1)
 
 
-» Matchday 7
-  Fri Sep/27
-    20.00  FC Lorient              v AC Ajaccio               3-0 (0-0)
+▪ Matchday 7
+  Fri Sep 27
+    20:00  FC Lorient              v AC Ajaccio               3-0 (0-0)
            FC Martigues            v USL Dunkerque            1-1 (1-0)
            Grenoble Foot 38        v Clermont Foot 63         3-0 (1-0)
            Amiens SC               v Rodez AF                 2-1 (0-1)
            SC Bastia               v FC Annecy                2-2 (1-1)
            Stade Lavallois         v Pau FC                   3-1 (2-0)
-  Sat Sep/28
-    14.00  Red Star FC             v Paris FC                 1-3 (1-2)
-    20.00  ESTAC Troyes            v FC Metz                  2-1 (1-0)
-  Mon Sep/30
-    20.45  EA Guingamp             v SM Caen                  3-1 (1-0)
+  Sat Sep 28
+    14:00  Red Star FC             v Paris FC                 1-3 (1-2)
+    20:00  ESTAC Troyes            v FC Metz                  2-1 (1-0)
+  Mon Sep 30
+    20:45  EA Guingamp             v SM Caen                  3-1 (1-0)
 
 
-» Matchday 8
-  Fri Oct/4
-    20.00  FC Annecy               v Red Star FC              1-0 (0-0)
+▪ Matchday 8
+  Fri Oct 4
+    20:00  FC Annecy               v Red Star FC              1-0 (0-0)
            Paris FC                v Stade Lavallois          1-0 (0-0)
            Rodez AF                v Grenoble Foot 38         2-1 (0-1)
            USL Dunkerque           v ESTAC Troyes             2-1 (0-1)
-  Sat Oct/5
-    14.00  AC Ajaccio              v FC Martigues             1-1 (1-1)
+  Sat Oct 5
+    14:00  AC Ajaccio              v FC Martigues             1-1 (1-1)
            Clermont Foot 63        v EA Guingamp              4-1 (2-0)
            SM Caen                 v FC Lorient               1-2 (1-1)
-    20.00  FC Metz                 v Amiens SC                3-2 (3-1)
-  Tue Oct/22
-    19.30  Pau FC                  v SC Bastia                1-1 (1-0)
+    20:00  FC Metz                 v Amiens SC                3-2 (3-1)
+  Tue Oct 22
+    19:30  Pau FC                  v SC Bastia                1-1 (1-0)
 
 
-» Matchday 9
-  Fri Oct/18
-    20.00  EA Guingamp             v Pau FC                   0-1 (0-0)
+▪ Matchday 9
+  Fri Oct 18
+    20:00  EA Guingamp             v Pau FC                   0-1 (0-0)
            FC Martigues            v Rodez AF                 0-2 (0-2)
            Red Star FC             v SM Caen                  2-2 (0-1)
            Grenoble Foot 38        v FC Metz                  2-0 (1-0)
            SC Bastia               v Clermont Foot 63         0-0
            Stade Lavallois         v USL Dunkerque            3-2 (3-0)
-  Sat Oct/19
-    14.00  Amiens SC               v AC Ajaccio               3-1 (2-1)
-    20.00  FC Lorient              v FC Annecy                4-2 (0-1)
-  Mon Oct/21
-    20.45  ESTAC Troyes            v Paris FC                 0-3 (0-2)
+  Sat Oct 19
+    14:00  Amiens SC               v AC Ajaccio               3-1 (2-1)
+    20:00  FC Lorient              v FC Annecy                4-2 (0-1)
+  Mon Oct 21
+    20:45  ESTAC Troyes            v Paris FC                 0-3 (0-2)
 
 
-» Matchday 10
-  Fri Oct/25
-    20.00  Clermont Foot 63        v FC Martigues             0-1 (0-1)
+▪ Matchday 10
+  Fri Oct 25
+    20:00  Clermont Foot 63        v FC Martigues             0-1 (0-1)
            FC Annecy               v Stade Lavallois          2-0 (1-0)
            FC Metz                 v EA Guingamp              1-0 (0-0)
            Pau FC                  v Amiens SC                0-2 (0-2)
            Rodez AF                v FC Lorient               3-3 (0-1)
            USL Dunkerque           v Red Star FC              2-0 (1-0)
-  Sat Oct/26
-    14.00  Paris FC                v Grenoble Foot 38         2-1 (2-0)
+  Sat Oct 26
+    14:00  Paris FC                v Grenoble Foot 38         2-1 (2-0)
            SM Caen                 v ESTAC Troyes             0-1 (0-1)
-  Tue Dec/3
-    19.30  AC Ajaccio              v SC Bastia                0-0
+  Tue Dec 3
+    19:30  AC Ajaccio              v SC Bastia                0-0
 
 
-» Matchday 11
-  Tue Oct/29
-    20.30  EA Guingamp             v AC Ajaccio               1-0 (0-0)
+▪ Matchday 11
+  Tue Oct 29
+    20:30  EA Guingamp             v AC Ajaccio               1-0 (0-0)
            FC Lorient              v USL Dunkerque            4-2 (1-2)
            FC Martigues            v SM Caen                  0-3 (0-0)
            Red Star FC             v FC Metz                  1-0 (0-0)
@@ -165,317 +165,317 @@
            Stade Lavallois         v Clermont Foot 63         1-2 (1-0)
 
 
-» Matchday 12
-  Fri Nov/1
-    20.00  Clermont Foot 63        v FC Lorient               2-1 (1-0)
+▪ Matchday 12
+  Fri Nov 1
+    20:00  Clermont Foot 63        v FC Lorient               2-1 (1-0)
            FC Annecy               v Pau FC                   2-0 (1-0)
            FC Martigues            v Red Star FC              0-1 (0-0)
            Paris FC                v Rodez AF                 3-3 (1-2)
            ESTAC Troyes            v Stade Lavallois          0-0
            USL Dunkerque           v Amiens SC                3-1 (2-0)
-  Sat Nov/2
-    14.00  SM Caen                 v SC Bastia                2-0 (1-0)
-    20.00  EA Guingamp             v Grenoble Foot 38         3-0 (1-0)
-  Mon Nov/4
-    20.45  AC Ajaccio              v FC Metz                  0-1 (0-1)
+  Sat Nov 2
+    14:00  SM Caen                 v SC Bastia                2-0 (1-0)
+    20:00  EA Guingamp             v Grenoble Foot 38         3-0 (1-0)
+  Mon Nov 4
+    20:45  AC Ajaccio              v FC Metz                  0-1 (0-1)
 
 
-» Matchday 13
-  Fri Nov/8
-    20.00  AC Ajaccio              v Clermont Foot 63         2-0 (0-0)
+▪ Matchday 13
+  Fri Nov 8
+    20:00  AC Ajaccio              v Clermont Foot 63         2-0 (0-0)
            Red Star FC             v ESTAC Troyes             0-3 (0-1)
            Grenoble Foot 38        v USL Dunkerque            0-1 (0-0)
            Rodez AF                v FC Annecy                5-1 (2-1)
            Amiens SC               v FC Martigues             1-1 (0-1)
            Stade Lavallois         v SC Bastia                2-2 (1-1)
-  Sat Nov/9
-    14.00  FC Lorient              v EA Guingamp              3-1 (2-0)
+  Sat Nov 9
+    14:00  FC Lorient              v EA Guingamp              3-1 (2-0)
            Pau FC                  v Paris FC                 0-0
-    20.00  FC Metz                 v SM Caen                  1-0 (1-0)
+    20:00  FC Metz                 v SM Caen                  1-0 (1-0)
 
 
-» Matchday 14
-  Fri Nov/22
-    20.00  Clermont Foot 63        v FC Metz                  1-1 (1-1)
+▪ Matchday 14
+  Fri Nov 22
+    20:00  Clermont Foot 63        v FC Metz                  1-1 (1-1)
            EA Guingamp             v Amiens SC                3-0 (2-0)
            FC Martigues            v Stade Lavallois          0-3 (0-1)
            Pau FC                  v Red Star FC              4-1 (1-1)
            ESTAC Troyes            v Grenoble Foot 38         0-0
            SM Caen                 v Rodez AF                 3-3 (1-2)
-  Sat Nov/23
-    14.00  Paris FC                v FC Annecy                0-0
-    20.00  SC Bastia               v FC Lorient               0-0
-  Mon Nov/25
-    20.45  USL Dunkerque           v AC Ajaccio               1-0 (1-0)
+  Sat Nov 23
+    14:00  Paris FC                v FC Annecy                0-0
+    20:00  SC Bastia               v FC Lorient               0-0
+  Mon Nov 25
+    20:45  USL Dunkerque           v AC Ajaccio               1-0 (1-0)
 
 
-» Matchday 15
-  Fri Dec/6
-    20.00  FC Annecy               v Clermont Foot 63         2-0 (1-0)
+▪ Matchday 15
+  Fri Dec 6
+    20:00  FC Annecy               v Clermont Foot 63         2-0 (1-0)
            FC Lorient              v ESTAC Troyes             2-0 (1-0)
            FC Martigues            v EA Guingamp              0-1 (0-0)
            Red Star FC             v SC Bastia                0-0
            Rodez AF                v Pau FC                   1-0 (0-0)
            Stade Lavallois         v SM Caen                  1-0 (1-0)
-  Sat Dec/7
-    14.00  Grenoble Foot 38        v Amiens SC                0-2 (0-0)
-    20.00  AC Ajaccio              v Paris FC                 0-2 (0-0)
-  Mon Dec/9
-    20.45  FC Metz                 v USL Dunkerque            2-0 (0-0)
+  Sat Dec 7
+    14:00  Grenoble Foot 38        v Amiens SC                0-2 (0-0)
+    20:00  AC Ajaccio              v Paris FC                 0-2 (0-0)
+  Mon Dec 9
+    20:45  FC Metz                 v USL Dunkerque            2-0 (0-0)
 
 
-» Matchday 16
-  Fri Dec/13
-    20.00  Clermont Foot 63        v Rodez AF                 1-1 (0-1)
+▪ Matchday 16
+  Fri Dec 13
+    20:00  Clermont Foot 63        v Rodez AF                 1-1 (0-1)
            Pau FC                  v AC Ajaccio               1-0 (1-0)
            ESTAC Troyes            v FC Martigues             4-0 (1-0)
            Amiens SC               v Stade Lavallois          1-3 (0-1)
            SC Bastia               v EA Guingamp              3-1 (0-1)
-  Sat Dec/14
-    14.00  FC Lorient              v Paris FC                 2-0 (1-0)
+  Sat Dec 14
+    14:00  FC Lorient              v Paris FC                 2-0 (1-0)
            Red Star FC             v Grenoble Foot 38         3-1 (3-0)
-    20.00  FC Annecy               v FC Metz                  0-0
-  Mon Dec/16
-    20.45  USL Dunkerque           v SM Caen                  3-1 (0-0)
+    20:00  FC Annecy               v FC Metz                  0-0
+  Mon Dec 16
+    20:45  USL Dunkerque           v SM Caen                  3-1 (0-0)
 
 
-» Matchday 17
-  Fri Jan/3 2025
-    20.00  AC Ajaccio              v FC Annecy                1-2 (1-1)
+▪ Matchday 17
+  Fri Jan 3 2025
+    20:00  AC Ajaccio              v FC Annecy                1-2 (1-1)
            Paris FC                v FC Martigues             1-2 (1-0)
            Grenoble Foot 38        v SC Bastia                3-2 (1-1)
            Rodez AF                v Red Star FC              0-2 (0-1)
            Amiens SC               v ESTAC Troyes             0-3 (0-2)
            SM Caen                 v Clermont Foot 63         0-1 (0-0)
-  Sat Jan/4
-    14.00  EA Guingamp             v USL Dunkerque            1-1 (0-0)
+  Sat Jan 4
+    14:00  EA Guingamp             v USL Dunkerque            1-1 (0-0)
            FC Metz                 v Pau FC                   0-0
-    20.00  Stade Lavallois         v FC Lorient               2-0 (0-0)
+    20:00  Stade Lavallois         v FC Lorient               2-0 (0-0)
 
 
-» Matchday 18
-  Fri Jan/10
-    20.00  FC Annecy               v EA Guingamp              1-4 (0-1)
+▪ Matchday 18
+  Fri Jan 10
+    20:00  FC Annecy               v EA Guingamp              1-4 (0-1)
            FC Martigues            v Clermont Foot 63         0-1 (0-0)
            Pau FC                  v USL Dunkerque            1-1 (0-1)
            Rodez AF                v ESTAC Troyes             2-1 (1-0)
            Stade Lavallois         v Red Star FC              1-1 (1-1)
-  Sat Jan/11
-    14.00  Paris FC                v Amiens SC                1-0 (0-0)
+  Sat Jan 11
+    14:00  Paris FC                v Amiens SC                1-0 (0-0)
            SC Bastia               v AC Ajaccio               4-0 (3-0)
            SM Caen                 v Grenoble Foot 38         0-1 (0-1)
-    20.00  FC Lorient              v FC Metz                  0-0
+    20:00  FC Lorient              v FC Metz                  0-0
 
 
-» Matchday 19
-  Fri Jan/17
-    20.00  AC Ajaccio              v SM Caen                  2-1 (0-0)
+▪ Matchday 19
+  Fri Jan 17
+    20:00  AC Ajaccio              v SM Caen                  2-1 (0-0)
            EA Guingamp             v Rodez AF                 3-0 (1-0)
            Red Star FC             v Pau FC                   1-3 (1-1)
            Grenoble Foot 38        v FC Martigues             1-0 (0-0)
            Amiens SC               v SC Bastia                1-0 (0-0)
-  Sat Jan/18
-    14.00  Clermont Foot 63        v Stade Lavallois          1-1 (0-0)
+  Sat Jan 18
+    14:00  Clermont Foot 63        v Stade Lavallois          1-1 (0-0)
            FC Metz                 v Paris FC                 3-1 (1-1)
-    20.00  USL Dunkerque           v FC Lorient               0-1 (0-1)
-  Mon Jan/20
-    20.45  ESTAC Troyes            v FC Annecy                0-1 (0-1)
+    20:00  USL Dunkerque           v FC Lorient               0-1 (0-1)
+  Mon Jan 20
+    20:45  ESTAC Troyes            v FC Annecy                0-1 (0-1)
 
 
-» Matchday 20
-  Fri Jan/24
-    20.00  FC Martigues            v Amiens SC                3-0 (3-0)
+▪ Matchday 20
+  Fri Jan 24
+    20:00  FC Martigues            v Amiens SC                3-0 (3-0)
            FC Metz                 v Grenoble Foot 38         3-0 (1-0)
            Rodez AF                v AC Ajaccio               1-2 (0-2)
            SC Bastia               v Pau FC                   1-1 (0-0)
            SM Caen                 v EA Guingamp              0-1 (0-1)
            Stade Lavallois         v ESTAC Troyes             1-0 (0-0)
-  Sat Jan/25
-    14.00  Paris FC                v Red Star FC              4-1 (1-0)
-    20.00  FC Lorient              v Clermont Foot 63         3-2 (2-1)
-  Mon Jan/27
-    20.45  FC Annecy               v USL Dunkerque            0-2 (0-1)
+  Sat Jan 25
+    14:00  Paris FC                v Red Star FC              4-1 (1-0)
+    20:00  FC Lorient              v Clermont Foot 63         3-2 (2-1)
+  Mon Jan 27
+    20:45  FC Annecy               v USL Dunkerque            0-2 (0-1)
 
 
-» Matchday 21
-  Fri Jan/31
-    20.00  Clermont Foot 63        v AC Ajaccio               0-1 (0-0)
+▪ Matchday 21
+  Fri Jan 31
+    20:00  Clermont Foot 63        v AC Ajaccio               0-1 (0-0)
            Pau FC                  v Stade Lavallois          1-1 (0-0)
            Grenoble Foot 38        v Rodez AF                 2-1 (1-1)
            Amiens SC               v FC Annecy                1-0 (1-0)
            SC Bastia               v FC Metz                  1-1 (1-0)
            USL Dunkerque           v FC Martigues             0-1 (0-0)
-  Sat Feb/1
-    14.00  Red Star FC             v FC Lorient               1-2 (0-1)
+  Sat Feb 1
+    14:00  Red Star FC             v FC Lorient               1-2 (0-1)
            ESTAC Troyes            v SM Caen                  3-0 (0-0)
-    20.00  EA Guingamp             v Paris FC                 0-1 (0-1)
+    20:00  EA Guingamp             v Paris FC                 0-1 (0-1)
 
 
-» Matchday 22
-  Fri Feb/7
-    20.00  FC Martigues            v ESTAC Troyes             1-2 (0-2)
+▪ Matchday 22
+  Fri Feb 7
+    20:00  FC Martigues            v ESTAC Troyes             1-2 (0-2)
            Paris FC                v Pau FC                   3-1 (1-1)
            Grenoble Foot 38        v Red Star FC              0-0
            Rodez AF                v SC Bastia                0-2 (0-1)
            Stade Lavallois         v FC Annecy                0-1 (0-0)
-  Sat Feb/8
-    14.00  AC Ajaccio              v EA Guingamp              0-3 (0-2)
+  Sat Feb 8
+    14:00  AC Ajaccio              v EA Guingamp              0-3 (0-2)
            FC Lorient              v Amiens SC                3-1 (1-1)
-    20.00  FC Metz                 v Clermont Foot 63         3-1 (2-0)
-  Mon Feb/10
-    20.45  SM Caen                 v USL Dunkerque            0-2 (0-1)
+    20:00  FC Metz                 v Clermont Foot 63         3-1 (2-0)
+  Mon Feb 10
+    20:45  SM Caen                 v USL Dunkerque            0-2 (0-1)
 
 
-» Matchday 23
-  Fri Feb/14
-    20.00  AC Ajaccio              v Stade Lavallois          3-0 (2-0)
+▪ Matchday 23
+  Fri Feb 14
+    20:00  AC Ajaccio              v Stade Lavallois          3-0 (2-0)
            Clermont Foot 63        v SC Bastia                1-1 (0-1)
            Pau FC                  v Rodez AF                 0-5 (0-2)
            Red Star FC             v FC Martigues             1-0 (0-0)
            ESTAC Troyes            v FC Lorient               0-1 (0-0)
            Amiens SC               v Grenoble Foot 38         1-4 (1-3)
-  Sat Feb/15
-    14.00  USL Dunkerque           v Paris FC                 1-0 (0-0)
-    20.00  EA Guingamp             v FC Metz                  0-3 (0-1)
-  Mon Feb/17
-    20.45  FC Annecy               v SM Caen                  1-0 (1-0)
+  Sat Feb 15
+    14:00  USL Dunkerque           v Paris FC                 1-0 (0-0)
+    20:00  EA Guingamp             v FC Metz                  0-3 (0-1)
+  Mon Feb 17
+    20:45  FC Annecy               v SM Caen                  1-0 (1-0)
 
 
-» Matchday 24
-  Fri Feb/21
-    20.00  FC Martigues            v FC Annecy                2-0 (1-0)
+▪ Matchday 24
+  Fri Feb 21
+    20:00  FC Martigues            v FC Annecy                2-0 (1-0)
            Paris FC                v ESTAC Troyes             1-0 (0-0)
            Grenoble Foot 38        v EA Guingamp              1-1 (1-0)
            Rodez AF                v Amiens SC                1-1 (1-0)
            SC Bastia               v Red Star FC              1-0 (0-0)
            USL Dunkerque           v Clermont Foot 63         3-0 (2-0)
-  Sat Feb/22
-    14.00  FC Lorient              v Stade Lavallois          0-1 (0-0)
+  Sat Feb 22
+    14:00  FC Lorient              v Stade Lavallois          0-1 (0-0)
            SM Caen                 v Pau FC                   2-2 (1-1)
-    20.00  FC Metz                 v AC Ajaccio               0-1 (0-0)
+    20:00  FC Metz                 v AC Ajaccio               0-1 (0-0)
 
 
-» Matchday 25
-  Fri Feb/28
-    20.00  Clermont Foot 63        v SM Caen                  0-1 (0-0)
+▪ Matchday 25
+  Fri Feb 28
+    20:00  Clermont Foot 63        v SM Caen                  0-1 (0-0)
            FC Annecy               v Paris FC                 2-3 (1-1)
            Pau FC                  v Grenoble Foot 38         1-0 (0-0)
            ESTAC Troyes            v SC Bastia                2-0 (1-0)
            Stade Lavallois         v FC Martigues             0-1 (0-0)
-  Sat Mar/1
-    14.00  Red Star FC             v EA Guingamp              3-1 (1-1)
+  Sat Mar 1
+    14:00  Red Star FC             v EA Guingamp              3-1 (1-1)
            Amiens SC               v FC Metz                  1-2 (1-0)
-    20.00  FC Lorient              v Rodez AF                 3-1 (1-1)
-  Mon Mar/3
-    20.45  AC Ajaccio              v USL Dunkerque            1-2 (0-1)
+    20:00  FC Lorient              v Rodez AF                 3-1 (1-1)
+  Mon Mar 3
+    20:45  AC Ajaccio              v USL Dunkerque            1-2 (0-1)
 
 
-» Matchday 26
-  Fri Mar/7
-    20.00  EA Guingamp             v Clermont Foot 63         3-1 (0-1)
+▪ Matchday 26
+  Fri Mar 7
+    20:00  EA Guingamp             v Clermont Foot 63         3-1 (0-1)
            Pau FC                  v ESTAC Troyes             0-2 (0-0)
            Red Star FC             v Amiens SC                2-0 (1-0)
            Grenoble Foot 38        v AC Ajaccio               2-2 (1-1)
            SC Bastia               v FC Martigues             1-0 (1-0)
            SM Caen                 v Stade Lavallois          0-1 (0-1)
-  Sat Mar/8
-    14.00  Paris FC                v FC Lorient               3-2 (3-1)
-    20.00  FC Metz                 v FC Annecy                5-1 (2-0)
-  Mon Mar/10
-    20.45  Rodez AF                v USL Dunkerque            5-1 (0-1)
+  Sat Mar 8
+    14:00  Paris FC                v FC Lorient               3-2 (3-1)
+    20:00  FC Metz                 v FC Annecy                5-1 (2-0)
+  Mon Mar 10
+    20:45  Rodez AF                v USL Dunkerque            5-1 (0-1)
 
 
-» Matchday 27
-  Fri Mar/14
-    20.00  AC Ajaccio              v Red Star FC              2-1 (0-1)
+▪ Matchday 27
+  Fri Mar 14
+    20:00  AC Ajaccio              v Red Star FC              2-1 (0-1)
            Clermont Foot 63        v Grenoble Foot 38         0-0
            FC Annecy               v Rodez AF                 1-1 (0-0)
            FC Martigues            v Pau FC                   2-2 (1-0)
            ESTAC Troyes            v EA Guingamp              0-1 (0-0)
            Amiens SC               v SM Caen                  2-1 (0-0)
-  Sat Mar/15
-    14.00  Stade Lavallois         v Paris FC                 3-0 (1-0)
+  Sat Mar 15
+    14:00  Stade Lavallois         v Paris FC                 3-0 (1-0)
            USL Dunkerque           v FC Metz                  2-3 (0-1)
-    20.00  FC Lorient              v SC Bastia                4-0 (2-0)
+    20:00  FC Lorient              v SC Bastia                4-0 (2-0)
 
 
-» Matchday 28
-  Fri Mar/28
-    20.00  Clermont Foot 63        v Amiens SC                1-1 (1-0)
+▪ Matchday 28
+  Fri Mar 28
+    20:00  Clermont Foot 63        v Amiens SC                1-1 (1-0)
            FC Martigues            v AC Ajaccio               2-0 (2-0)
            FC Metz                 v ESTAC Troyes             2-1 (1-0)
            Pau FC                  v FC Annecy                1-0 (0-0)
            Red Star FC             v Rodez AF                 1-1 (1-1)
            SC Bastia               v USL Dunkerque            2-0 (1-0)
-  Sat Mar/29
-    14.00  Grenoble Foot 38        v FC Lorient               1-2 (1-2)
-    20.00  EA Guingamp             v Stade Lavallois          2-0 (2-0)
-  Mon Mar/31
-    20.45  Paris FC                v SM Caen                  4-2 (3-0)
+  Sat Mar 29
+    14:00  Grenoble Foot 38        v FC Lorient               1-2 (1-2)
+    20:00  EA Guingamp             v Stade Lavallois          2-0 (2-0)
+  Mon Mar 31
+    20:45  Paris FC                v SM Caen                  4-2 (3-0)
 
 
-» Matchday 29
-  Fri Apr/4
-    20.00  AC Ajaccio              v Amiens SC                2-1 (1-1)
+▪ Matchday 29
+  Fri Apr 4
+    20:00  AC Ajaccio              v Amiens SC                2-1 (1-1)
            FC Annecy               v SC Bastia                1-1 (1-0)
            Paris FC                v Clermont Foot 63         2-0 (1-0)
            Rodez AF                v FC Martigues             1-0 (0-0)
            Stade Lavallois         v Grenoble Foot 38         1-2 (1-2)
-  Sat Apr/5
-    14.00  SM Caen                 v FC Metz                  2-2 (0-1)
-    20.00  FC Lorient              v Pau FC                   5-0 (1-0)
+  Sat Apr 5
+    14:00  SM Caen                 v FC Metz                  2-2 (0-1)
+    20:00  FC Lorient              v Pau FC                   5-0 (1-0)
            ESTAC Troyes            v Red Star FC              2-2 (2-2)
-  Mon Apr/7
-    20.45  USL Dunkerque           v EA Guingamp              3-1 (0-0)
+  Mon Apr 7
+    20:45  USL Dunkerque           v EA Guingamp              3-1 (0-0)
 
 
-» Matchday 30
-  Fri Apr/11
-    20.00  FC Martigues            v FC Metz                  1-4 (1-3)
+▪ Matchday 30
+  Fri Apr 11
+    20:00  FC Martigues            v FC Metz                  1-4 (1-3)
            Pau FC                  v Clermont Foot 63         2-2 (1-1)
            Red Star FC             v FC Annecy                0-1 (0-1)
            ESTAC Troyes            v AC Ajaccio               0-0
            Rodez AF                v SM Caen                  2-2 (0-0)
            Amiens SC               v USL Dunkerque            1-0 (0-0)
-  Sat Apr/12
-    14.00  EA Guingamp             v FC Lorient               1-2 (0-0)
-    20.00  Grenoble Foot 38        v Paris FC                 1-2 (0-1)
-  Mon Apr/14
-    20.45  SC Bastia               v Stade Lavallois          5-2 (2-1)
+  Sat Apr 12
+    14:00  EA Guingamp             v FC Lorient               1-2 (0-0)
+    20:00  Grenoble Foot 38        v Paris FC                 1-2 (0-1)
+  Mon Apr 14
+    20:45  SC Bastia               v Stade Lavallois          5-2 (2-1)
 
 
-» Matchday 31
-  Fri Apr/18
-    20.00  AC Ajaccio              v Pau FC                   1-1 (0-1)
+▪ Matchday 31
+  Fri Apr 18
+    20:00  AC Ajaccio              v Pau FC                   1-1 (0-1)
            Clermont Foot 63        v ESTAC Troyes             0-2 (0-1)
            Amiens SC               v EA Guingamp              3-2 (2-1)
            SM Caen                 v FC Martigues             0-3 (0-2)
            Stade Lavallois         v Rodez AF                 2-1 (1-0)
            USL Dunkerque           v Grenoble Foot 38         2-0 (0-0)
-  Sat Apr/19
-    14.00  Paris FC                v SC Bastia                1-0 (1-0)
-    20.00  FC Metz                 v Red Star FC              2-2 (1-1)
-  Mon Apr/21
-    20.45  FC Annecy               v FC Lorient               0-0
+  Sat Apr 19
+    14:00  Paris FC                v SC Bastia                1-0 (1-0)
+    20:00  FC Metz                 v Red Star FC              2-2 (1-1)
+  Mon Apr 21
+    20:45  FC Annecy               v FC Lorient               0-0
 
 
-» Matchday 32
-  Fri Apr/25
-    20.00  EA Guingamp             v FC Martigues             2-1 (1-0)
+▪ Matchday 32
+  Fri Apr 25
+    20:00  EA Guingamp             v FC Martigues             2-1 (1-0)
            FC Annecy               v AC Ajaccio               2-0 (0-0)
            Red Star FC             v Clermont Foot 63         1-1 (1-0)
            ESTAC Troyes            v USL Dunkerque            1-0 (1-0)
            SC Bastia               v Grenoble Foot 38         2-3 (1-1)
            Stade Lavallois         v Amiens SC                1-0 (0-0)
-  Sat Apr/26
-    14.00  Rodez AF                v Paris FC                 1-1 (0-1)
-    20.00  FC Lorient              v SM Caen                  4-0 (2-0)
+  Sat Apr 26
+    14:00  Rodez AF                v Paris FC                 1-1 (0-1)
+    20:00  FC Lorient              v SM Caen                  4-0 (2-0)
            Pau FC                  v FC Metz                  2-1 (0-0)
 
 
-» Matchday 33
-  Fri May/2
-    20.00  AC Ajaccio              v FC Lorient               2-1 (1-0)
+▪ Matchday 33
+  Fri May 2
+    20:00  AC Ajaccio              v FC Lorient               2-1 (1-0)
            Clermont Foot 63        v FC Annecy                3-2 (2-0)
            EA Guingamp             v SC Bastia                2-2 (1-1)
            FC Martigues            v Paris FC                 1-1 (0-0)
@@ -486,9 +486,9 @@
            USL Dunkerque           v Stade Lavallois          0-0
 
 
-» Matchday 34
-  Sat May/10
-    17.00  FC Annecy               v Grenoble Foot 38         3-1 (1-1)
+▪ Matchday 34
+  Sat May 10
+    17:00  FC Annecy               v Grenoble Foot 38         3-1 (1-1)
            FC Lorient              v FC Martigues             5-1 (1-0)
            Paris FC                v AC Ajaccio               2-0 (0-0)
            Pau FC                  v EA Guingamp              1-3 (1-1)

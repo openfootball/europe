@@ -1,266 +1,266 @@
 = Turkish Süper Lig 2025/26
 
-# Date       Fri Aug/8 2025 - Sun May/17 2026 (282d)
+# Date       Fri Aug 8 2025 - Sun May 17 2026 (282d)
 # Teams      18
 # Matches    306
 
 
 
-» 1. Round
-  Fri Aug/8 2025
-    20.30  Gaziantep FK            v Galatasaray              0-3 (0-3)
-  Sat Aug/9
-    18.00  Samsunspor              v Gençlerbirliği           2-1 (1-0)
-    20.30  Antalyaspor             v Kasımpaşa SK             2-1 (2-1)
-  Sun Aug/10
-    18.00  Çaykur Rizespor         v Göztepe                  0-3 (0-0)
-    20.30  Eyüpspor                v Konyaspor                1-4 (0-3)
-  Mon Aug/11
-    20.30  Trabzonspor             v Kocaelispor              1-0 (0-0)
-  Wed Sep/17
-    19.00  Fatih Karagümrük        v İstanbul Başakşehir      0-2 (0-0)
+▪ 1. Round
+  Fri Aug 8 2025
+    20:30  Gaziantep FK            v Galatasaray              0-3 (0-3)
+  Sat Aug 9
+    18:00  Samsunspor              v Gençlerbirliği           2-1 (1-0)
+    20:30  Antalyaspor             v Kasımpaşa SK             2-1 (2-1)
+  Sun Aug 10
+    18:00  Çaykur Rizespor         v Göztepe                  0-3 (0-0)
+    20:30  Eyüpspor                v Konyaspor                1-4 (0-3)
+  Mon Aug 11
+    20:30  Trabzonspor             v Kocaelispor              1-0 (0-0)
+  Wed Sep 17
+    19:00  Fatih Karagümrük        v İstanbul Başakşehir      0-2 (0-0)
            Fenerbahçe              v Alanyaspor               2-2 (0-1)
-  Wed Sep/24
-    19.00  Kayserispor             v Beşiktaş                 0-4 (0-3)
+  Wed Sep 24
+    19:00  Kayserispor             v Beşiktaş                 0-4 (0-3)
 
 
-» 2. Round
-  Fri Aug/15
-    20.30  Galatasaray             v Fatih Karagümrük         3-0 (1-0)
-  Sat Aug/16
-    18.00  Kocaelispor             v Samsunspor               0-1 (0-0)
-    20.30  Alanyaspor              v Çaykur Rizespor          0-0
+▪ 2. Round
+  Fri Aug 15
+    20:30  Galatasaray             v Fatih Karagümrük         3-0 (1-0)
+  Sat Aug 16
+    18:00  Kocaelispor             v Samsunspor               0-1 (0-0)
+    20:30  Alanyaspor              v Çaykur Rizespor          0-0
            Göztepe                 v Fenerbahçe               0-0
-  Sun Aug/17
-    18.00  Konyaspor               v Gaziantep FK             3-0 (1-0)
+  Sun Aug 17
+    18:00  Konyaspor               v Gaziantep FK             3-0 (1-0)
            Gençlerbirliği          v Antalyaspor              0-1 (0-0)
-    20.30  Beşiktaş                v Eyüpspor                 2-1 (1-1)
+    20:30  Beşiktaş                v Eyüpspor                 2-1 (1-1)
            İstanbul Başakşehir     v Kayserispor              1-1 (1-0)
-  Mon Aug/18
-    20.30  Kasımpaşa SK            v Trabzonspor              0-1 (0-0)
+  Mon Aug 18
+    20:30  Kasımpaşa SK            v Trabzonspor              0-1 (0-0)
 
 
-» 3. Round
-  Fri Aug/22
-    20.30  Fatih Karagümrük        v Göztepe                  0-2 (0-1)
-  Sat Aug/23
-    20.30  Gaziantep FK            v Gençlerbirliği           2-1 (1-1)
+▪ 3. Round
+  Fri Aug 22
+    20:30  Fatih Karagümrük        v Göztepe                  0-2 (0-1)
+  Sat Aug 23
+    20:30  Gaziantep FK            v Gençlerbirliği           2-1 (1-1)
            Fenerbahçe              v Kocaelispor              3-1 (1-1)
-  Sun Aug/24
-    18.00  Trabzonspor             v Antalyaspor              1-0 (1-0)
-    20.30  Kayserispor             v Galatasaray              0-4 (0-1)
-  Mon Aug/25
-    18.00  Eyüpspor                v Alanyaspor               2-1 (1-0)
-  Wed Sep/17
-    19.00  Samsunspor              v Kasımpaşa SK             0-0
-  Wed Oct/22
-    19.00  Konyaspor               v Beşiktaş                 0-2 (0-1)
+  Sun Aug 24
+    18:00  Trabzonspor             v Antalyaspor              1-0 (1-0)
+    20:30  Kayserispor             v Galatasaray              0-4 (0-1)
+  Mon Aug 25
+    18:00  Eyüpspor                v Alanyaspor               2-1 (1-0)
+  Wed Sep 17
+    19:00  Samsunspor              v Kasımpaşa SK             0-0
+  Wed Oct 22
+    19:00  Konyaspor               v Beşiktaş                 0-2 (0-1)
            Çaykur Rizespor         v İstanbul Başakşehir      0-0
 
 
-» 4. Round
-  Fri Aug/29
-    20.30  Göztepe                 v Konyaspor                1-1 (0-0)
-  Sat Aug/30
-    18.00  Kasımpaşa SK            v Gaziantep FK             2-3 (0-2)
+▪ 4. Round
+  Fri Aug 29
+    20:30  Göztepe                 v Konyaspor                1-1 (0-0)
+  Sat Aug 30
+    18:00  Kasımpaşa SK            v Gaziantep FK             2-3 (0-2)
            Kocaelispor             v Kayserispor              1-1 (0-0)
-    20.30  Antalyaspor             v Fatih Karagümrük         1-2 (1-1)
+    20:30  Antalyaspor             v Fatih Karagümrük         1-2 (1-1)
            Galatasaray             v Çaykur Rizespor          3-1 (1-0)
-  Sun Aug/31
-    18.00  İstanbul Başakşehir     v Eyüpspor                 0-0
+  Sun Aug 31
+    18:00  İstanbul Başakşehir     v Eyüpspor                 0-0
            Gençlerbirliği          v Fenerbahçe               1-3 (0-3)
-    20.30  Trabzonspor             v Samsunspor               1-1 (1-0)
+    20:30  Trabzonspor             v Samsunspor               1-1 (1-0)
            Alanyaspor              v Beşiktaş                 2-0 (1-0)
 
 
-» 5. Round
-  Sat Sep/13
-    16.00  Eyüpspor                v Galatasaray              0-2 (0-0)
+▪ 5. Round
+  Sat Sep 13
+    16:00  Eyüpspor                v Galatasaray              0-2 (0-0)
            Samsunspor              v Antalyaspor              1-2 (0-1)
            Fatih Karagümrük        v Kasımpaşa SK             0-1 (0-1)
-    19.00  Konyaspor               v Alanyaspor               1-2 (0-1)
+    19:00  Konyaspor               v Alanyaspor               1-2 (0-1)
            Beşiktaş                v İstanbul Başakşehir      2-1 (0-0)
-  Sun Sep/14
-    16.00  Kayserispor             v Göztepe                  1-1 (0-0)
-    18.00  Gaziantep FK            v Kocaelispor              2-0 (0-0)
+  Sun Sep 14
+    16:00  Kayserispor             v Göztepe                  1-1 (0-0)
+    18:00  Gaziantep FK            v Kocaelispor              2-0 (0-0)
            Fenerbahçe              v Trabzonspor              1-0 (1-0)
-  Mon Sep/15
-    19.00  Çaykur Rizespor         v Gençlerbirliği           1-0 (0-0)
+  Mon Sep 15
+    19:00  Çaykur Rizespor         v Gençlerbirliği           1-0 (0-0)
 
 
-» 6. Round
-  Fri Sep/19
-    19.00  Göztepe                 v Beşiktaş                 3-0 (2-0)
-  Sat Sep/20
-    16.00  Gençlerbirliği          v Eyüpspor                 1-0 (1-0)
-    19.00  Antalyaspor             v Kayserispor              1-1 (0-0)
+▪ 6. Round
+  Fri Sep 19
+    19:00  Göztepe                 v Beşiktaş                 3-0 (2-0)
+  Sat Sep 20
+    16:00  Gençlerbirliği          v Eyüpspor                 1-0 (1-0)
+    19:00  Antalyaspor             v Kayserispor              1-1 (0-0)
            Trabzonspor             v Gaziantep FK             1-1 (0-1)
-  Sun Sep/21
-    16.00  İstanbul Başakşehir     v Alanyaspor               1-1 (1-0)
+  Sun Sep 21
+    16:00  İstanbul Başakşehir     v Alanyaspor               1-1 (1-0)
            Kocaelispor             v Çaykur Rizespor          1-1 (1-1)
-    19.00  Kasımpaşa SK            v Fenerbahçe               1-1 (0-1)
+    19:00  Kasımpaşa SK            v Fenerbahçe               1-1 (0-1)
            Samsunspor              v Fatih Karagümrük         3-2 (0-1)
-  Mon Sep/22
-    19.00  Galatasaray             v Konyaspor                3-1 (2-0)
+  Mon Sep 22
+    19:00  Galatasaray             v Konyaspor                3-1 (2-0)
 
 
-» 7. Round
-  Fri Sep/26
-    19.00  Alanyaspor              v Galatasaray              0-1 (0-1)
-  Sat Sep/27
-    16.00  Eyüpspor                v Göztepe                  0-0
+▪ 7. Round
+  Fri Sep 26
+    19:00  Alanyaspor              v Galatasaray              0-1 (0-1)
+  Sat Sep 27
+    16:00  Eyüpspor                v Göztepe                  0-0
            Gaziantep FK            v Samsunspor               2-2 (1-2)
-    19.00  Fatih Karagümrük        v Trabzonspor              3-4 (1-3)
-  Sun Sep/28
-    16.00  Konyaspor               v İstanbul Başakşehir      2-1 (2-0)
+    19:00  Fatih Karagümrük        v Trabzonspor              3-4 (1-3)
+  Sun Sep 28
+    16:00  Konyaspor               v İstanbul Başakşehir      2-1 (2-0)
            Çaykur Rizespor         v Kasımpaşa SK             1-2 (0-1)
-    19.00  Fenerbahçe              v Antalyaspor              2-0 (0-0)
+    19:00  Fenerbahçe              v Antalyaspor              2-0 (0-0)
            Kayserispor             v Gençlerbirliği           1-1 (0-1)
-  Mon Sep/29
-    19.00  Beşiktaş                v Kocaelispor              3-1 (2-0)
+  Mon Sep 29
+    19:00  Beşiktaş                v Kocaelispor              3-1 (2-0)
 
 
-» 8. Round
-  Fri Oct/3
-    19.00  Antalyaspor             v Çaykur Rizespor          2-5 (1-2)
+▪ 8. Round
+  Fri Oct 3
+    19:00  Antalyaspor             v Çaykur Rizespor          2-5 (1-2)
            Trabzonspor             v Kayserispor              4-0 (1-0)
-  Sat Oct/4
-    13.30  Gençlerbirliği          v Alanyaspor               2-2 (0-1)
-    16.00  Kocaelispor             v Eyüpspor                 1-0 (0-0)
-    19.00  Galatasaray             v Beşiktaş                 1-1 (0-1)
-  Sun Oct/5
-    13.30  Kasımpaşa SK            v Konyaspor                1-1 (0-1)
-    16.00  Fatih Karagümrük        v Gaziantep FK             0-2 (0-0)
-    19.00  Samsunspor              v Fenerbahçe               0-0
+  Sat Oct 4
+    13:30  Gençlerbirliği          v Alanyaspor               2-2 (0-1)
+    16:00  Kocaelispor             v Eyüpspor                 1-0 (0-0)
+    19:00  Galatasaray             v Beşiktaş                 1-1 (0-1)
+  Sun Oct 5
+    13:30  Kasımpaşa SK            v Konyaspor                1-1 (0-1)
+    16:00  Fatih Karagümrük        v Gaziantep FK             0-2 (0-0)
+    19:00  Samsunspor              v Fenerbahçe               0-0
            Göztepe                 v İstanbul Başakşehir      1-0 (1-0)
 
 
-» 9. Round
-  Sat Oct/18
-    13.30  Konyaspor               v Kocaelispor              2-3 (0-1)
-    16.00  Beşiktaş                v Gençlerbirliği           1-2 (0-0)
+▪ 9. Round
+  Sat Oct 18
+    13:30  Konyaspor               v Kocaelispor              2-3 (0-1)
+    16:00  Beşiktaş                v Gençlerbirliği           1-2 (0-0)
            Çaykur Rizespor         v Trabzonspor              1-2 (1-2)
-    19.00  İstanbul Başakşehir     v Galatasaray              1-2 (0-1)
-  Sun Oct/19
-    13.30  Kayserispor             v Samsunspor               1-3 (0-1)
-    16.00  Alanyaspor              v Göztepe                  1-0 (0-0)
+    19:00  İstanbul Başakşehir     v Galatasaray              1-2 (0-1)
+  Sun Oct 19
+    13:30  Kayserispor             v Samsunspor               1-3 (0-1)
+    16:00  Alanyaspor              v Göztepe                  1-0 (0-0)
            Gaziantep FK            v Antalyaspor              3-2 (3-0)
-    19.00  Fenerbahçe              v Fatih Karagümrük         2-1 (2-0)
-  Mon Oct/20
-    19.00  Eyüpspor                v Kasımpaşa SK             2-0 (1-0)
+    19:00  Fenerbahçe              v Fatih Karagümrük         2-1 (2-0)
+  Mon Oct 20
+    19:00  Eyüpspor                v Kasımpaşa SK             2-0 (1-0)
 
 
-» 10. Round
-  Fri Oct/24
-    19.00  Fatih Karagümrük        v Kayserispor              2-2 (1-0)
-  Sat Oct/25
-    16.00  Kocaelispor             v Alanyaspor               2-0 (0-0)
-    19.00  Trabzonspor             v Eyüpspor                 2-0 (1-0)
-  Sun Oct/26
-    13.30  Antalyaspor             v İstanbul Başakşehir      0-4 (0-2)
-    16.00  Galatasaray             v Göztepe                  3-1 (1-1)
+▪ 10. Round
+  Fri Oct 24
+    19:00  Fatih Karagümrük        v Kayserispor              2-2 (1-0)
+  Sat Oct 25
+    16:00  Kocaelispor             v Alanyaspor               2-0 (0-0)
+    19:00  Trabzonspor             v Eyüpspor                 2-0 (1-0)
+  Sun Oct 26
+    13:30  Antalyaspor             v İstanbul Başakşehir      0-4 (0-2)
+    16:00  Galatasaray             v Göztepe                  3-1 (1-1)
            Gençlerbirliği          v Konyaspor                1-2 (1-1)
-    19.00  Kasımpaşa SK            v Beşiktaş                 1-1 (1-1)
-  Mon Oct/27
-    19.00  Samsunspor              v Çaykur Rizespor          1-1 (1-1)
+    19:00  Kasımpaşa SK            v Beşiktaş                 1-1 (1-1)
+  Mon Oct 27
+    19:00  Samsunspor              v Çaykur Rizespor          1-1 (1-1)
            Gaziantep FK            v Fenerbahçe               0-4 (0-2)
 
 
-» 11. Round
-  Fri Oct/31
-    19.00  İstanbul Başakşehir     v Kocaelispor              1-0 (0-0)
-  Sat Nov/1
-    16.00  Göztepe                 v Gençlerbirliği           1-0 (1-0)
-    19.00  Galatasaray             v Trabzonspor              0-0
-  Sun Nov/2
-    13.30  Konyaspor               v Samsunspor               1-3 (0-2)
-    16.00  Kayserispor             v Kasımpaşa SK             3-2 (2-1)
-    19.00  Beşiktaş                v Fenerbahçe               2-3 (2-2)
-  Mon Nov/3
-    19.00  Eyüpspor                v Antalyaspor              0-1 (0-0)
+▪ 11. Round
+  Fri Oct 31
+    19:00  İstanbul Başakşehir     v Kocaelispor              1-0 (0-0)
+  Sat Nov 1
+    16:00  Göztepe                 v Gençlerbirliği           1-0 (1-0)
+    19:00  Galatasaray             v Trabzonspor              0-0
+  Sun Nov 2
+    13:30  Konyaspor               v Samsunspor               1-3 (0-2)
+    16:00  Kayserispor             v Kasımpaşa SK             3-2 (2-1)
+    19:00  Beşiktaş                v Fenerbahçe               2-3 (2-2)
+  Mon Nov 3
+    19:00  Eyüpspor                v Antalyaspor              0-1 (0-0)
            Alanyaspor              v Gaziantep FK             0-0
            Çaykur Rizespor         v Fatih Karagümrük         1-0 (0-0)
 
 
-» 12. Round
-  Fri Nov/7
-    19.00  Gençlerbirliği          v İstanbul Başakşehir
-  Sat Nov/8
-    13.30  Gaziantep FK            v Çaykur Rizespor
-    16.00  Trabzonspor             v Alanyaspor
-    19.00  Kasımpaşa SK            v Göztepe
+▪ 12. Round
+  Fri Nov 7
+    19:00  Gençlerbirliği          v İstanbul Başakşehir
+  Sat Nov 8
+    13:30  Gaziantep FK            v Çaykur Rizespor
+    16:00  Trabzonspor             v Alanyaspor
+    19:00  Kasımpaşa SK            v Göztepe
            Antalyaspor             v Beşiktaş
-  Sun Nov/9
-    13.30  Fatih Karagümrük        v Konyaspor
-    16.00  Kocaelispor             v Galatasaray
-    19.00  Samsunspor              v Eyüpspor
+  Sun Nov 9
+    13:30  Fatih Karagümrük        v Konyaspor
+    16:00  Kocaelispor             v Galatasaray
+    19:00  Samsunspor              v Eyüpspor
            Fenerbahçe              v Kayserispor
 
 
-» 13. Round
-  Sat Nov/22
-    13.30  Kayserispor             v Gaziantep FK
-    16.00  Eyüpspor                v Fatih Karagümrük
-    19.00  Galatasaray             v Gençlerbirliği
-  Sun Nov/23
-    13.30  Göztepe                 v Kocaelispor
-    16.00  Beşiktaş                v Samsunspor
+▪ 13. Round
+  Sat Nov 22
+    13:30  Kayserispor             v Gaziantep FK
+    16:00  Eyüpspor                v Fatih Karagümrük
+    19:00  Galatasaray             v Gençlerbirliği
+  Sun Nov 23
+    13:30  Göztepe                 v Kocaelispor
+    16:00  Beşiktaş                v Samsunspor
            Alanyaspor              v Kasımpaşa SK
-    19.00  Çaykur Rizespor         v Fenerbahçe
-  Mon Nov/24
-    19.00  Konyaspor               v Antalyaspor
+    19:00  Çaykur Rizespor         v Fenerbahçe
+  Mon Nov 24
+    19:00  Konyaspor               v Antalyaspor
            İstanbul Başakşehir     v Trabzonspor
 
 
-» 14. Round
-  Fri Nov/28
-    19.00  Kocaelispor             v Gençlerbirliği
-  Sat Nov/29
-    13.30  Çaykur Rizespor         v Kayserispor
-    16.00  Gaziantep FK            v Eyüpspor
-    19.00  Kasımpaşa SK            v İstanbul Başakşehir
+▪ 14. Round
+  Fri Nov 28
+    19:00  Kocaelispor             v Gençlerbirliği
+  Sat Nov 29
+    13:30  Çaykur Rizespor         v Kayserispor
+    16:00  Gaziantep FK            v Eyüpspor
+    19:00  Kasımpaşa SK            v İstanbul Başakşehir
            Trabzonspor             v Konyaspor
-  Sun Nov/30
-    16.00  Antalyaspor             v Göztepe
-    19.00  Fatih Karagümrük        v Beşiktaş
-  Mon Dec/1
-    19.00  Samsunspor              v Alanyaspor
+  Sun Nov 30
+    16:00  Antalyaspor             v Göztepe
+    19:00  Fatih Karagümrük        v Beşiktaş
+  Mon Dec 1
+    19:00  Samsunspor              v Alanyaspor
            Fenerbahçe              v Galatasaray
 
 
-» 15. Round
-  Fri Dec/5
-    19.00  Galatasaray             v Samsunspor
-  Sat Dec/6
-    13.30  Eyüpspor                v Kayserispor
-    16.00  Konyaspor               v Çaykur Rizespor
-    19.00  İstanbul Başakşehir     v Fenerbahçe
-  Sun Dec/7
-    13.30  Gençlerbirliği          v Fatih Karagümrük
-    16.00  Kocaelispor             v Kasımpaşa SK
-    19.00  Göztepe                 v Trabzonspor
-  Mon Dec/8
-    19.00  Beşiktaş                v Gaziantep FK
+▪ 15. Round
+  Fri Dec 5
+    19:00  Galatasaray             v Samsunspor
+  Sat Dec 6
+    13:30  Eyüpspor                v Kayserispor
+    16:00  Konyaspor               v Çaykur Rizespor
+    19:00  İstanbul Başakşehir     v Fenerbahçe
+  Sun Dec 7
+    13:30  Gençlerbirliği          v Fatih Karagümrük
+    16:00  Kocaelispor             v Kasımpaşa SK
+    19:00  Göztepe                 v Trabzonspor
+  Mon Dec 8
+    19:00  Beşiktaş                v Gaziantep FK
            Alanyaspor              v Antalyaspor
 
 
-» 16. Round
-  Fri Dec/12
-    19.00  Kasımpaşa SK            v Gençlerbirliği
-  Sat Dec/13
-    13.30  Çaykur Rizespor         v Eyüpspor
-    16.00  Kayserispor             v Alanyaspor
-    19.00  Antalyaspor             v Galatasaray
-  Sun Dec/14
-    13.30  Gaziantep FK            v Göztepe
-    16.00  Fatih Karagümrük        v Kocaelispor
-    19.00  Trabzonspor             v Beşiktaş
+▪ 16. Round
+  Fri Dec 12
+    19:00  Kasımpaşa SK            v Gençlerbirliği
+  Sat Dec 13
+    13:30  Çaykur Rizespor         v Eyüpspor
+    16:00  Kayserispor             v Alanyaspor
+    19:00  Antalyaspor             v Galatasaray
+  Sun Dec 14
+    13:30  Gaziantep FK            v Göztepe
+    16:00  Fatih Karagümrük        v Kocaelispor
+    19:00  Trabzonspor             v Beşiktaş
            Samsunspor              v İstanbul Başakşehir
            Fenerbahçe              v Konyaspor
 
 
-» 17. Round
-  Sun Dec/21
+▪ 17. Round
+  Sun Dec 21
            Eyüpspor                v Fenerbahçe
            Konyaspor               v Kayserispor
            Beşiktaş                v Çaykur Rizespor
@@ -272,8 +272,8 @@
            Kocaelispor             v Antalyaspor
 
 
-» 18. Round
-  Sun Jan/18 2026
+▪ 18. Round
+  Sun Jan 18 2026
            Konyaspor               v Eyüpspor
            Kasımpaşa SK            v Antalyaspor
            Kocaelispor             v Trabzonspor
@@ -285,8 +285,8 @@
            Beşiktaş                v Kayserispor
 
 
-» 19. Round
-  Sun Jan/25
+▪ 19. Round
+  Sun Jan 25
            Trabzonspor             v Kasımpaşa SK
            Gaziantep FK            v Konyaspor
            Eyüpspor                v Beşiktaş
@@ -298,8 +298,8 @@
            Samsunspor              v Kocaelispor
 
 
-» 20. Round
-  Sun Feb/1
+▪ 20. Round
+  Sun Feb 1
            Alanyaspor              v Eyüpspor
            Beşiktaş                v Konyaspor
            Antalyaspor             v Trabzonspor
@@ -311,8 +311,8 @@
            Galatasaray             v Kayserispor
 
 
-» 21. Round
-  Sun Feb/8
+▪ 21. Round
+  Sun Feb 8
            Gaziantep FK            v Kasımpaşa SK
            Fatih Karagümrük        v Antalyaspor
            Samsunspor              v Trabzonspor
@@ -324,8 +324,8 @@
            Kayserispor             v Kocaelispor
 
 
-» 22. Round
-  Sun Feb/15
+▪ 22. Round
+  Sun Feb 15
            Galatasaray             v Eyüpspor
            Alanyaspor              v Konyaspor
            İstanbul Başakşehir     v Beşiktaş
@@ -337,8 +337,8 @@
            Göztepe                 v Kayserispor
 
 
-» 23. Round
-  Sun Feb/22
+▪ 23. Round
+  Sun Feb 22
            Fenerbahçe              v Kasımpaşa SK
            Kayserispor             v Antalyaspor
            Gaziantep FK            v Trabzonspor
@@ -350,8 +350,8 @@
            Çaykur Rizespor         v Kocaelispor
 
 
-» 24. Round
-  Sun Mar/1
+▪ 24. Round
+  Sun Mar 1
            Göztepe                 v Eyüpspor
            İstanbul Başakşehir     v Konyaspor
            Kocaelispor             v Beşiktaş
@@ -363,8 +363,8 @@
            Gençlerbirliği          v Kayserispor
 
 
-» 25. Round
-  Sun Mar/8
+▪ 25. Round
+  Sun Mar 8
            Konyaspor               v Kasımpaşa SK
            Çaykur Rizespor         v Antalyaspor
            Kayserispor             v Trabzonspor
@@ -376,8 +376,8 @@
            Eyüpspor                v Kocaelispor
 
 
-» 26. Round
-  Sun Mar/15
+▪ 26. Round
+  Sun Mar 15
            Kasımpaşa SK            v Eyüpspor
            Kocaelispor             v Konyaspor
            Gençlerbirliği          v Beşiktaş
@@ -389,8 +389,8 @@
            Samsunspor              v Kayserispor
 
 
-» 27. Round
-  Sun Mar/22
+▪ 27. Round
+  Sun Mar 22
            Beşiktaş                v Kasımpaşa SK
            İstanbul Başakşehir     v Antalyaspor
            Eyüpspor                v Trabzonspor
@@ -402,8 +402,8 @@
            Alanyaspor              v Kocaelispor
 
 
-» 28. Round
-  Sun Apr/5
+▪ 28. Round
+  Sun Apr 5
            Antalyaspor             v Eyüpspor
            Samsunspor              v Konyaspor
            Fenerbahçe              v Beşiktaş
@@ -415,8 +415,8 @@
            Kasımpaşa SK            v Kayserispor
 
 
-» 29. Round
-  Sun Apr/12
+▪ 29. Round
+  Sun Apr 12
            Göztepe                 v Kasımpaşa SK
            Beşiktaş                v Antalyaspor
            Alanyaspor              v Trabzonspor
@@ -428,8 +428,8 @@
            Galatasaray             v Kocaelispor
 
 
-» 30. Round
-  Sun Apr/19
+▪ 30. Round
+  Sun Apr 19
            Fatih Karagümrük        v Eyüpspor
            Antalyaspor             v Konyaspor
            Samsunspor              v Beşiktaş
@@ -441,8 +441,8 @@
            Gaziantep FK            v Kayserispor
 
 
-» 31. Round
-  Sun Apr/26
+▪ 31. Round
+  Sun Apr 26
            İstanbul Başakşehir     v Kasımpaşa SK
            Göztepe                 v Antalyaspor
            Konyaspor               v Trabzonspor
@@ -454,8 +454,8 @@
            Gençlerbirliği          v Kocaelispor
 
 
-» 32. Round
-  Sun May/3
+▪ 32. Round
+  Sun May 3
            Kayserispor             v Eyüpspor
            Çaykur Rizespor         v Konyaspor
            Gaziantep FK            v Beşiktaş
@@ -467,8 +467,8 @@
            Kasımpaşa SK            v Kocaelispor
 
 
-» 33. Round
-  Sun May/10
+▪ 33. Round
+  Sun May 10
            Gençlerbirliği          v Kasımpaşa SK
            Galatasaray             v Antalyaspor
            Beşiktaş                v Trabzonspor
@@ -480,8 +480,8 @@
            Alanyaspor              v Kayserispor
 
 
-» 34. Round
-  Sun May/17
+▪ 34. Round
+  Sun May 17
            Fenerbahçe              v Eyüpspor
            Kayserispor             v Konyaspor
            Çaykur Rizespor         v Beşiktaş

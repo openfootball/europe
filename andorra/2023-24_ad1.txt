@@ -1,274 +1,274 @@
 = Andorra Premier Division 2023/24
 
-# Date       Sat Sep/16 2023 - Sun May/19 2024 (246d)
+# Date       Sat Sep 16 2023 - Sun May 19 2024 (246d)
 # Teams      10
 # Matches    135
 
 
 
-» Matchday 1
-  Sat Sep/16 2023
-    20.30  UE Santa Coloma         v FC Ordino                2-0 (1-0)
-  Sun Sep/17
-    11.00  Penya Encarnada         v CF Esperança d'Andorra   1-0 (1-0)
-    13.30  CE Carroi               v CF Atlètic Amèrica       2-2 (0-1)
-    16.00  Atlétic Escaldes        v FC Pas de la Casa        1-1 (0-0)
-    18.30  Inter Club d'Escaldes   v FC Santa Coloma          2-0 (1-0)
+▪ Matchday 1
+  Sat Sep 16 2023
+    20:30  UE Santa Coloma         v FC Ordino                2-0 (1-0)
+  Sun Sep 17
+    11:00  Penya Encarnada         v CF Esperança d'Andorra   1-0 (1-0)
+    13:30  CE Carroi               v CF Atlètic Amèrica       2-2 (0-1)
+    16:00  Atlétic Escaldes        v FC Pas de la Casa        1-1 (0-0)
+    18:30  Inter Club d'Escaldes   v FC Santa Coloma          2-0 (1-0)
 
 
-» Matchday 2
-  Sat Sep/23
-    20.30  FC Santa Coloma         v Atlétic Escaldes         1-0 (1-0)
-  Sun Sep/24
-    11.00  FC Pas de la Casa       v CE Carroi                0-1 (0-0)
-    13.30  CF Esperança d'Andorra  v UE Santa Coloma          0-2 (0-1)
-    16.00  CF Atlètic Amèrica      v Penya Encarnada          1-1 (1-1)
-    18.30  FC Ordino               v Inter Club d'Escaldes    2-2 (1-2)
+▪ Matchday 2
+  Sat Sep 23
+    20:30  FC Santa Coloma         v Atlétic Escaldes         1-0 (1-0)
+  Sun Sep 24
+    11:00  FC Pas de la Casa       v CE Carroi                0-1 (0-0)
+    13:30  CF Esperança d'Andorra  v UE Santa Coloma          0-2 (0-1)
+    16:00  CF Atlètic Amèrica      v Penya Encarnada          1-1 (1-1)
+    18:30  FC Ordino               v Inter Club d'Escaldes    2-2 (1-2)
 
 
-» Matchday 3
-  Sat Sep/30
-    20.30  UE Santa Coloma         v Inter Club d'Escaldes    2-1 (1-0)
-  Sun Oct/1
-    11.00  Atlétic Escaldes        v FC Ordino                1-0 (0-0)
-    13.30  Penya Encarnada         v FC Pas de la Casa        2-0 (1-0)
-    16.00  CE Carroi               v FC Santa Coloma          0-2 (0-1)
-    18.30  CF Esperança d'Andorra  v CF Atlètic Amèrica       2-0 (0-0)
+▪ Matchday 3
+  Sat Sep 30
+    20:30  UE Santa Coloma         v Inter Club d'Escaldes    2-1 (1-0)
+  Sun Oct 1
+    11:00  Atlétic Escaldes        v FC Ordino                1-0 (0-0)
+    13:30  Penya Encarnada         v FC Pas de la Casa        2-0 (1-0)
+    16:00  CE Carroi               v FC Santa Coloma          0-2 (0-1)
+    18:30  CF Esperança d'Andorra  v CF Atlètic Amèrica       2-0 (0-0)
 
 
-» Matchday 4
-  Sat Oct/7
-    20.30  FC Pas de la Casa       v CF Esperança d'Andorra   3-2 (2-2)
-  Sun Oct/8
-    11.00  CF Atlètic Amèrica      v UE Santa Coloma          0-1 (0-0)
-    13.30  Inter Club d'Escaldes   v Atlétic Escaldes         1-0 (1-0)
-    16.00  FC Ordino               v CE Carroi                4-0 (2-0)
-    18.30  FC Santa Coloma         v Penya Encarnada          0-1 (0-1)
+▪ Matchday 4
+  Sat Oct 7
+    20:30  FC Pas de la Casa       v CF Esperança d'Andorra   3-2 (2-2)
+  Sun Oct 8
+    11:00  CF Atlètic Amèrica      v UE Santa Coloma          0-1 (0-0)
+    13:30  Inter Club d'Escaldes   v Atlétic Escaldes         1-0 (1-0)
+    16:00  FC Ordino               v CE Carroi                4-0 (2-0)
+    18:30  FC Santa Coloma         v Penya Encarnada          0-1 (0-1)
 
 
-» Matchday 5
-  Sat Oct/21
-    20.30  CF Atlètic Amèrica      v FC Pas de la Casa        1-3 (1-2)
-  Sun Oct/22
-    11.00  CF Esperança d'Andorra  v FC Santa Coloma          0-5 (0-3)
-    13.30  Penya Encarnada         v FC Ordino                2-1 (1-1)
-    16.00  CE Carroi               v Inter Club d'Escaldes    1-6 (0-3)
-    18.30  UE Santa Coloma         v Atlétic Escaldes         2-1 (1-0)
+▪ Matchday 5
+  Sat Oct 21
+    20:30  CF Atlètic Amèrica      v FC Pas de la Casa        1-3 (1-2)
+  Sun Oct 22
+    11:00  CF Esperança d'Andorra  v FC Santa Coloma          0-5 (0-3)
+    13:30  Penya Encarnada         v FC Ordino                2-1 (1-1)
+    16:00  CE Carroi               v Inter Club d'Escaldes    1-6 (0-3)
+    18:30  UE Santa Coloma         v Atlétic Escaldes         2-1 (1-0)
 
 
-» Matchday 6
-  Sat Oct/28
-    20.30  FC Ordino               v CF Esperança d'Andorra   4-0 (3-0)
-  Sun Oct/29
-    11.00  Inter Club d'Escaldes   v Penya Encarnada          4-2 (1-1)
-    13.30  FC Santa Coloma         v CF Atlètic Amèrica       4-0 (0-0)
-    16.00  FC Pas de la Casa       v UE Santa Coloma          1-5 (1-2)
-    18.30  Atlétic Escaldes        v CE Carroi                8-1 (5-0)
+▪ Matchday 6
+  Sat Oct 28
+    20:30  FC Ordino               v CF Esperança d'Andorra   4-0 (3-0)
+  Sun Oct 29
+    11:00  Inter Club d'Escaldes   v Penya Encarnada          4-2 (1-1)
+    13:30  FC Santa Coloma         v CF Atlètic Amèrica       4-0 (0-0)
+    16:00  FC Pas de la Casa       v UE Santa Coloma          1-5 (1-2)
+    18:30  Atlétic Escaldes        v CE Carroi                8-1 (5-0)
 
 
-» Matchday 7
-  Sat Nov/4
-    20.30  Penya Encarnada         v Atlétic Escaldes         1-1 (0-1)
-  Sun Nov/5
-    11.00  FC Pas de la Casa       v FC Santa Coloma          0-5 (0-1)
-    13.30  UE Santa Coloma         v CE Carroi                3-0 (1-0)
-    16.00  CF Esperança d'Andorra  v Inter Club d'Escaldes    0-2 (0-1)
-    18.30  CF Atlètic Amèrica      v FC Ordino                1-2 (0-2)
+▪ Matchday 7
+  Sat Nov 4
+    20:30  Penya Encarnada         v Atlétic Escaldes         1-1 (0-1)
+  Sun Nov 5
+    11:00  FC Pas de la Casa       v FC Santa Coloma          0-5 (0-1)
+    13:30  UE Santa Coloma         v CE Carroi                3-0 (1-0)
+    16:00  CF Esperança d'Andorra  v Inter Club d'Escaldes    0-2 (0-1)
+    18:30  CF Atlètic Amèrica      v FC Ordino                1-2 (0-2)
 
 
-» Matchday 8
-  Sat Nov/11
-    20.30  CE Carroi               v Penya Encarnada          0-2 (0-1)
-  Sun Nov/12
-    11.00  Inter Club d'Escaldes   v CF Atlètic Amèrica       6-0 (5-0)
-    13.30  FC Ordino               v FC Pas de la Casa        1-0 (0-0)
-    16.00  UE Santa Coloma         v FC Santa Coloma          1-2 (0-1)
-    18.30  Atlétic Escaldes        v CF Esperança d'Andorra   3-1 (1-1)
+▪ Matchday 8
+  Sat Nov 11
+    20:30  CE Carroi               v Penya Encarnada          0-2 (0-1)
+  Sun Nov 12
+    11:00  Inter Club d'Escaldes   v CF Atlètic Amèrica       6-0 (5-0)
+    13:30  FC Ordino               v FC Pas de la Casa        1-0 (0-0)
+    16:00  UE Santa Coloma         v FC Santa Coloma          1-2 (0-1)
+    18:30  Atlétic Escaldes        v CF Esperança d'Andorra   3-1 (1-1)
 
 
-» Matchday 9
-  Sat Nov/25
-    20.30  Penya Encarnada         v UE Santa Coloma          1-2 (1-2)
-  Sun Nov/26
-    11.00  FC Santa Coloma         v FC Ordino                2-0 (0-0)
-    13.30  CF Esperança d'Andorra  v CE Carroi                0-2 (0-0)
-    16.00  CF Atlètic Amèrica      v Atlétic Escaldes         1-4 (1-3)
-    18.30  FC Pas de la Casa       v Inter Club d'Escaldes    0-3 (0-2)
+▪ Matchday 9
+  Sat Nov 25
+    20:30  Penya Encarnada         v UE Santa Coloma          1-2 (1-2)
+  Sun Nov 26
+    11:00  FC Santa Coloma         v FC Ordino                2-0 (0-0)
+    13:30  CF Esperança d'Andorra  v CE Carroi                0-2 (0-0)
+    16:00  CF Atlètic Amèrica      v Atlétic Escaldes         1-4 (1-3)
+    18:30  FC Pas de la Casa       v Inter Club d'Escaldes    0-3 (0-2)
 
 
-» Matchday 10
-  Sat Dec/2
-    20.30  CF Atlètic Amèrica      v Inter Club d'Escaldes    0-3 (0-2)
-  Sun Dec/3
-    11.00  Atlétic Escaldes        v UE Santa Coloma          1-2 (0-0)
-    13.30  FC Pas de la Casa       v FC Ordino                1-1 (0-0)
-    16.00  CF Esperança d'Andorra  v Penya Encarnada          0-3 (0-1)
-    18.30  FC Santa Coloma         v CE Carroi                2-1 (1-0)
+▪ Matchday 10
+  Sat Dec 2
+    20:30  CF Atlètic Amèrica      v Inter Club d'Escaldes    0-3 (0-2)
+  Sun Dec 3
+    11:00  Atlétic Escaldes        v UE Santa Coloma          1-2 (0-0)
+    13:30  FC Pas de la Casa       v FC Ordino                1-1 (0-0)
+    16:00  CF Esperança d'Andorra  v Penya Encarnada          0-3 (0-1)
+    18:30  FC Santa Coloma         v CE Carroi                2-1 (1-0)
 
 
-» Matchday 11
-  Sat Dec/9
-    20.30  FC Pas de la Casa       v Atlétic Escaldes         0-2 (0-0)
-  Sun Dec/10
-    11.00  CF Atlètic Amèrica      v CE Carroi                1-3 (0-2)
-    13.30  Inter Club d'Escaldes   v CF Esperança d'Andorra   6-0 (4-0)
-    16.00  FC Ordino               v Penya Encarnada          1-0 (0-0)
-    18.30  FC Santa Coloma         v UE Santa Coloma          1-2 (0-0)
+▪ Matchday 11
+  Sat Dec 9
+    20:30  FC Pas de la Casa       v Atlétic Escaldes         0-2 (0-0)
+  Sun Dec 10
+    11:00  CF Atlètic Amèrica      v CE Carroi                1-3 (0-2)
+    13:30  Inter Club d'Escaldes   v CF Esperança d'Andorra   6-0 (4-0)
+    16:00  FC Ordino               v Penya Encarnada          1-0 (0-0)
+    18:30  FC Santa Coloma         v UE Santa Coloma          1-2 (0-0)
 
 
-» Matchday 12
-  Sat Dec/16
-    20.30  UE Santa Coloma         v CF Atlètic Amèrica       6-0 (2-0)
-  Sun Dec/17
-    11.00  CF Esperança d'Andorra  v FC Ordino                0-3 (0-0)
-    13.30  Atlétic Escaldes        v Penya Encarnada          3-0 (1-0)
-    16.00  FC Santa Coloma         v FC Pas de la Casa        3-2 (2-0)
-    18.30  Inter Club d'Escaldes   v CE Carroi                3-1 (3-0)
+▪ Matchday 12
+  Sat Dec 16
+    20:30  UE Santa Coloma         v CF Atlètic Amèrica       6-0 (2-0)
+  Sun Dec 17
+    11:00  CF Esperança d'Andorra  v FC Ordino                0-3 (0-0)
+    13:30  Atlétic Escaldes        v Penya Encarnada          3-0 (1-0)
+    16:00  FC Santa Coloma         v FC Pas de la Casa        3-2 (2-0)
+    18:30  Inter Club d'Escaldes   v CE Carroi                3-1 (3-0)
 
 
-» Matchday 13
-  Sat Jan/20 2024
-    20.30  CE Carroi               v CF Esperança d'Andorra   0-4 (0-2)
-  Sun Jan/21
-    11.00  UE Santa Coloma         v Inter Club d'Escaldes    0-0
-    13.30  Penya Encarnada         v FC Santa Coloma          0-2 (0-0)
-    16.00  FC Ordino               v Atlétic Escaldes         1-1 (0-1)
-    18.30  FC Pas de la Casa       v CF Atlètic Amèrica       1-2 (1-1)
+▪ Matchday 13
+  Sat Jan 20 2024
+    20:30  CE Carroi               v CF Esperança d'Andorra   0-4 (0-2)
+  Sun Jan 21
+    11:00  UE Santa Coloma         v Inter Club d'Escaldes    0-0
+    13:30  Penya Encarnada         v FC Santa Coloma          0-2 (0-0)
+    16:00  FC Ordino               v Atlétic Escaldes         1-1 (0-1)
+    18:30  FC Pas de la Casa       v CF Atlètic Amèrica       1-2 (1-1)
 
 
-» Matchday 14
-  Sat Jan/27
-    20.30  FC Ordino               v FC Santa Coloma          1-1 (1-1)
-  Sun Jan/28
-    11.00  Inter Club d'Escaldes   v FC Pas de la Casa        2-0 (0-0)
-    13.30  CF Esperança d'Andorra  v Atlétic Escaldes         0-5 (0-1)
-    16.00  Penya Encarnada         v CF Atlètic Amèrica       6-0 (2-0)
-    18.30  CE Carroi               v UE Santa Coloma          0-5 (0-4)
+▪ Matchday 14
+  Sat Jan 27
+    20:30  FC Ordino               v FC Santa Coloma          1-1 (1-1)
+  Sun Jan 28
+    11:00  Inter Club d'Escaldes   v FC Pas de la Casa        2-0 (0-0)
+    13:30  CF Esperança d'Andorra  v Atlétic Escaldes         0-5 (0-1)
+    16:00  Penya Encarnada         v CF Atlètic Amèrica       6-0 (2-0)
+    18:30  CE Carroi               v UE Santa Coloma          0-5 (0-4)
 
 
-» Matchday 15
-  Sat Feb/3
-    20.30  FC Ordino               v CF Atlètic Amèrica       1-0 (1-0)
-  Sun Feb/4
-    11.00  FC Pas de la Casa       v CE Carroi                2-2 (1-1)
-    13.30  Atlétic Escaldes        v FC Santa Coloma          5-1 (3-0)
-    16.00  UE Santa Coloma         v CF Esperança d'Andorra   6-0 (3-0)
-    18.30  Penya Encarnada         v Inter Club d'Escaldes    0-2 (0-1)
+▪ Matchday 15
+  Sat Feb 3
+    20:30  FC Ordino               v CF Atlètic Amèrica       1-0 (1-0)
+  Sun Feb 4
+    11:00  FC Pas de la Casa       v CE Carroi                2-2 (1-1)
+    13:30  Atlétic Escaldes        v FC Santa Coloma          5-1 (3-0)
+    16:00  UE Santa Coloma         v CF Esperança d'Andorra   6-0 (3-0)
+    18:30  Penya Encarnada         v Inter Club d'Escaldes    0-2 (0-1)
 
 
-» Matchday 16
-  Sat Feb/10
-    20.30  FC Santa Coloma         v CF Esperança d'Andorra   6-1 (3-0)
-  Sun Feb/11
-    11.00  Penya Encarnada         v CE Carroi                4-1 (1-0)
-    13.30  Inter Club d'Escaldes   v FC Ordino                2-0 (1-0)
-    16.00  CF Atlètic Amèrica      v Atlétic Escaldes         1-8 (0-2)
-    18.30  UE Santa Coloma         v FC Pas de la Casa        0-0
+▪ Matchday 16
+  Sat Feb 10
+    20:30  FC Santa Coloma         v CF Esperança d'Andorra   6-1 (3-0)
+  Sun Feb 11
+    11:00  Penya Encarnada         v CE Carroi                4-1 (1-0)
+    13:30  Inter Club d'Escaldes   v FC Ordino                2-0 (1-0)
+    16:00  CF Atlètic Amèrica      v Atlétic Escaldes         1-8 (0-2)
+    18:30  UE Santa Coloma         v FC Pas de la Casa        0-0
 
 
-» Matchday 17
-  Sat Feb/17
-    20.30  Atlétic Escaldes        v Inter Club d'Escaldes    2-1 (0-1)
-  Sun Feb/18
-    11.00  Penya Encarnada         v UE Santa Coloma          0-0
-    13.30  FC Santa Coloma         v CF Atlètic Amèrica       3-0 (1-0)
-    16.00  CE Carroi               v FC Ordino                0-2 (0-1)
-    18.30  CF Esperança d'Andorra  v FC Pas de la Casa        0-0
+▪ Matchday 17
+  Sat Feb 17
+    20:30  Atlétic Escaldes        v Inter Club d'Escaldes    2-1 (0-1)
+  Sun Feb 18
+    11:00  Penya Encarnada         v UE Santa Coloma          0-0
+    13:30  FC Santa Coloma         v CF Atlètic Amèrica       3-0 (1-0)
+    16:00  CE Carroi               v FC Ordino                0-2 (0-1)
+    18:30  CF Esperança d'Andorra  v FC Pas de la Casa        0-0
 
 
-» Matchday 18
-  Sat Feb/24
-    20.30  CF Atlètic Amèrica      v CF Esperança d'Andorra   6-3 (0-2)
-  Sun Feb/25
-    11.00  CE Carroi               v Atlétic Escaldes         0-4 (0-1)
-    13.30  UE Santa Coloma         v FC Ordino                2-0 (0-0)
-    16.00  FC Santa Coloma         v Inter Club d'Escaldes    0-1 (0-1)
-    18.30  FC Pas de la Casa       v Penya Encarnada          0-1 (0-0)
+▪ Matchday 18
+  Sat Feb 24
+    20:30  CF Atlètic Amèrica      v CF Esperança d'Andorra   6-3 (0-2)
+  Sun Feb 25
+    11:00  CE Carroi               v Atlétic Escaldes         0-4 (0-1)
+    13:30  UE Santa Coloma         v FC Ordino                2-0 (0-0)
+    16:00  FC Santa Coloma         v Inter Club d'Escaldes    0-1 (0-1)
+    18:30  FC Pas de la Casa       v Penya Encarnada          0-1 (0-0)
 
 
-» Matchday 19
-  Sat Mar/2
-    20.30  Inter Club d'Escaldes   v FC Santa Coloma          1-2 (0-0)
-  Sun Mar/3
-    11.00  CF Esperança d'Andorra  v Atlétic Escaldes         1-3 (0-1)
-    13.30  CE Carroi               v FC Pas de la Casa        0-0
-    16.00  CF Atlètic Amèrica      v UE Santa Coloma          0-1 (0-1)
-    18.30  Penya Encarnada         v FC Ordino                2-1 (0-0)
+▪ Matchday 19
+  Sat Mar 2
+    20:30  Inter Club d'Escaldes   v FC Santa Coloma          1-2 (0-0)
+  Sun Mar 3
+    11:00  CF Esperança d'Andorra  v Atlétic Escaldes         1-3 (0-1)
+    13:30  CE Carroi               v FC Pas de la Casa        0-0
+    16:00  CF Atlètic Amèrica      v UE Santa Coloma          0-1 (0-1)
+    18:30  Penya Encarnada         v FC Ordino                2-1 (0-0)
 
 
-» Matchday 20
-  Sun Mar/10
-    11.00  FC Santa Coloma         v CF Atlètic Amèrica       4-2 (2-0)
-    13.30  UE Santa Coloma         v CF Esperança d'Andorra   2-0 (1-0)
-    16.00  FC Ordino               v Inter Club d'Escaldes    0-1 (0-1)
-    18.30  Atlétic Escaldes        v CE Carroi                2-1 (2-1)
-    20.45  FC Pas de la Casa       v Penya Encarnada          2-2 (1-0)
+▪ Matchday 20
+  Sun Mar 10
+    11:00  FC Santa Coloma         v CF Atlètic Amèrica       4-2 (2-0)
+    13:30  UE Santa Coloma         v CF Esperança d'Andorra   2-0 (1-0)
+    16:00  FC Ordino               v Inter Club d'Escaldes    0-1 (0-1)
+    18:30  Atlétic Escaldes        v CE Carroi                2-1 (2-1)
+    20:45  FC Pas de la Casa       v Penya Encarnada          2-2 (1-0)
 
 
-» Matchday 21
-  Sat Apr/6
-    20.30  CE Carroi               v UE Santa Coloma          0-3 (0-1)
-  Sun Apr/7
-    11.00  FC Ordino               v FC Pas de la Casa        1-1 (0-0)
-    13.30  Inter Club d'Escaldes   v CF Atlètic Amèrica       2-0 (2-0)
-    16.00  CF Esperança d'Andorra  v FC Santa Coloma          0-6 (0-4)
-    18.30  Penya Encarnada         v Atlétic Escaldes         1-2 (0-1)
+▪ Matchday 21
+  Sat Apr 6
+    20:30  CE Carroi               v UE Santa Coloma          0-3 (0-1)
+  Sun Apr 7
+    11:00  FC Ordino               v FC Pas de la Casa        1-1 (0-0)
+    13:30  Inter Club d'Escaldes   v CF Atlètic Amèrica       2-0 (2-0)
+    16:00  CF Esperança d'Andorra  v FC Santa Coloma          0-6 (0-4)
+    18:30  Penya Encarnada         v Atlétic Escaldes         1-2 (0-1)
 
 
-» Matchday 22
-  Sat Apr/13
-    20.30  UE Santa Coloma         v Penya Encarnada          1-1 (0-0)
-  Sun Apr/14
-    11.00  Atlétic Escaldes        v FC Ordino                1-0 (1-0)
-    13.30  FC Santa Coloma         v CE Carroi                4-0 (0-0)
-    16.00  FC Pas de la Casa       v Inter Club d'Escaldes    0-1 (0-1)
-    18.30  CF Atlètic Amèrica      v CF Esperança d'Andorra   0-5 (0-2)
+▪ Matchday 22
+  Sat Apr 13
+    20:30  UE Santa Coloma         v Penya Encarnada          1-1 (0-0)
+  Sun Apr 14
+    11:00  Atlétic Escaldes        v FC Ordino                1-0 (1-0)
+    13:30  FC Santa Coloma         v CE Carroi                4-0 (0-0)
+    16:00  FC Pas de la Casa       v Inter Club d'Escaldes    0-1 (0-1)
+    18:30  CF Atlètic Amèrica      v CF Esperança d'Andorra   0-5 (0-2)
 
 
-» Matchday 23
-  Sat Apr/20
-    20.30  CE Carroi               v CF Atlètic Amèrica       2-3 (1-0)
-  Sun Apr/21
-    11.00  Penya Encarnada         v FC Santa Coloma          2-4 (1-0)
-    13.30  FC Pas de la Casa       v Atlétic Escaldes         1-2 (0-1)
-    16.00  Inter Club d'Escaldes   v CF Esperança d'Andorra   4-0 (2-0)
-    18.30  FC Ordino               v UE Santa Coloma          1-2 (0-2)
+▪ Matchday 23
+  Sat Apr 20
+    20:30  CE Carroi               v CF Atlètic Amèrica       2-3 (1-0)
+  Sun Apr 21
+    11:00  Penya Encarnada         v FC Santa Coloma          2-4 (1-0)
+    13:30  FC Pas de la Casa       v Atlétic Escaldes         1-2 (0-1)
+    16:00  Inter Club d'Escaldes   v CF Esperança d'Andorra   4-0 (2-0)
+    18:30  FC Ordino               v UE Santa Coloma          1-2 (0-2)
 
 
-» Matchday 24
-  Sat Apr/27
-    20.30  CF Esperança d'Andorra  v CE Carroi                2-0 (1-0)
-  Sun Apr/28
-    11.00  Atlétic Escaldes        v Inter Club d'Escaldes    2-0 (1-0)
-    13.30  CF Atlètic Amèrica      v Penya Encarnada          1-4 (0-1)
-    16.00  UE Santa Coloma         v FC Pas de la Casa        2-1 (1-1)
-    18.30  FC Santa Coloma         v FC Ordino                2-0 (1-0)
+▪ Matchday 24
+  Sat Apr 27
+    20:30  CF Esperança d'Andorra  v CE Carroi                2-0 (1-0)
+  Sun Apr 28
+    11:00  Atlétic Escaldes        v Inter Club d'Escaldes    2-0 (1-0)
+    13:30  CF Atlètic Amèrica      v Penya Encarnada          1-4 (0-1)
+    16:00  UE Santa Coloma         v FC Pas de la Casa        2-1 (1-1)
+    18:30  FC Santa Coloma         v FC Ordino                2-0 (1-0)
 
 
-» Matchday 25
-  Sat May/4
-    20.30  FC Pas de la Casa       v FC Santa Coloma          0-2 (0-1)
-  Sun May/5
-    11.00  FC Ordino               v CF Atlètic Amèrica       1-0 (0-0)
-    13.30  Penya Encarnada         v CF Esperança d'Andorra   3-2 (0-0)
-    16.00  Atlétic Escaldes        v UE Santa Coloma          0-2 (0-2)
-    18.30  Inter Club d'Escaldes   v CE Carroi                6-0 (3-0)
+▪ Matchday 25
+  Sat May 4
+    20:30  FC Pas de la Casa       v FC Santa Coloma          0-2 (0-1)
+  Sun May 5
+    11:00  FC Ordino               v CF Atlètic Amèrica       1-0 (0-0)
+    13:30  Penya Encarnada         v CF Esperança d'Andorra   3-2 (0-0)
+    16:00  Atlétic Escaldes        v UE Santa Coloma          0-2 (0-2)
+    18:30  Inter Club d'Escaldes   v CE Carroi                6-0 (3-0)
 
 
-» Matchday 26
-  Sat May/11
-    20.30  FC Santa Coloma         v Atlétic Escaldes         0-1 (0-1)
+▪ Matchday 26
+  Sat May 11
+    20:30  FC Santa Coloma         v Atlétic Escaldes         0-1 (0-1)
            Inter Club d'Escaldes   v UE Santa Coloma          1-1 (1-0)
-  Sun May/12
-    11.00  CF Atlètic Amèrica      v FC Pas de la Casa        0-3 (0-1)
+  Sun May 12
+    11:00  CF Atlètic Amèrica      v FC Pas de la Casa        0-3 (0-1)
            CE Carroi               v Penya Encarnada          0-2 (0-1)
            CF Esperança d'Andorra  v FC Ordino                2-4 (1-2)
 
 
-» Matchday 27
-  Sun May/19
-    16.00  Atlétic Escaldes        v CF Atlètic Amèrica       8-0 (6-0)
-    17.00  FC Ordino               v CE Carroi                1-1 (1-0)
+▪ Matchday 27
+  Sun May 19
+    16:00  Atlétic Escaldes        v CF Atlètic Amèrica       8-0 (6-0)
+    17:00  FC Ordino               v CE Carroi                1-1 (1-0)
            FC Pas de la Casa       v CF Esperança d'Andorra   2-2 (0-1)
            Penya Encarnada         v Inter Club d'Escaldes    1-3 (1-2)
            UE Santa Coloma         v FC Santa Coloma          0-0

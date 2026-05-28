@@ -1,131 +1,131 @@
 = Norway Eliteserien 2025
 
-# Date       Sat Mar/29 - Sun Nov/30 2025 (246d)
+# Date       Sat Mar 29 - Sun Nov 30 2025 (246d)
 # Teams      16
 # Matches    240
 
 
 
-» Matchday 1
-  Sat Mar/29 2025
-    16.00  Strømsgodset IF         v Rosenborg BK             1-2 (0-1)
-    18.00  Fredrikstad FK          v SK Brann                 3-0 (2-0)
-  Sun Mar/30
-    14.30  Vålerenga IF            v Viking FK                3-1 (1-0)
-    17.00  Hamarkameratene         v Kristiansund BK          2-1 (1-1)
+▪ Matchday 1
+  Sat Mar 29 2025
+    16:00  Strømsgodset IF         v Rosenborg BK             1-2 (0-1)
+    18:00  Fredrikstad FK          v SK Brann                 3-0 (2-0)
+  Sun Mar 30
+    14:30  Vålerenga IF            v Viking FK                3-1 (1-0)
+    17:00  Hamarkameratene         v Kristiansund BK          2-1 (1-1)
            KFUM Oslo               v Sandefjord Fotball       3-1 (1-1)
            Molde FK                v Sarpsborg 08             0-2 (0-1)
            Tromsø IL               v FK Haugesund             1-0 (1-0)
-    19.15  Bryne FK                v FK Bodø/Glimt            0-1 (0-1)
+    19:15  Bryne FK                v FK Bodø/Glimt            0-1 (0-1)
 
 
-» Matchday 2
-  Sat Apr/5
-    16.00  FK Bodø/Glimt           v Hamarkameratene          3-0 (1-0)
-    18.00  Rosenborg BK            v Fredrikstad FK           1-0 (1-0)
-  Sun Apr/6
-    14.30  SK Brann                v Tromsø IL                3-1 (0-1)
-    17.00  FK Haugesund            v Strømsgodset IF          0-5 (0-2)
+▪ Matchday 2
+  Sat Apr 5
+    16:00  FK Bodø/Glimt           v Hamarkameratene          3-0 (1-0)
+    18:00  Rosenborg BK            v Fredrikstad FK           1-0 (1-0)
+  Sun Apr 6
+    14:30  SK Brann                v Tromsø IL                3-1 (0-1)
+    17:00  FK Haugesund            v Strømsgodset IF          0-5 (0-2)
            Kristiansund BK         v Bryne FK                 2-1 (1-1)
            Sandefjord Fotball      v Molde FK                 3-0 (2-0)
            Sarpsborg 08            v Vålerenga IF             1-1 (0-1)
-    19.15  Viking FK               v KFUM Oslo                3-1 (1-1)
+    19:15  Viking FK               v KFUM Oslo                3-1 (1-1)
 
 
-» Matchday 3
-  Sun Apr/20
-    14.30  Tromsø IL               v Kristiansund BK          2-3 (1-0)
-  Mon Apr/21
-    14.30  Vålerenga IF            v Rosenborg BK             0-2 (0-1)
-    17.00  Bryne FK                v FK Haugesund             3-1 (2-0)
+▪ Matchday 3
+  Sun Apr 20
+    14:30  Tromsø IL               v Kristiansund BK          2-3 (1-0)
+  Mon Apr 21
+    14:30  Vålerenga IF            v Rosenborg BK             0-2 (0-1)
+    17:00  Bryne FK                v FK Haugesund             3-1 (2-0)
            Fredrikstad FK          v Sandefjord Fotball       3-1 (3-1)
            Hamarkameratene         v Viking FK                2-5 (0-4)
            KFUM Oslo               v Sarpsborg 08             1-3 (0-2)
            Strømsgodset IF         v SK Brann                 1-2 (1-0)
-    19.15  Molde FK                v FK Bodø/Glimt            2-2 (0-2)
+    19:15  Molde FK                v FK Bodø/Glimt            2-2 (0-2)
 
 
-» Matchday 4
-  Sun Apr/27
-    14.30  Rosenborg BK            v Molde FK                 0-0
-    17.00  FK Bodø/Glimt           v KFUM Oslo                3-0 (0-0)
+▪ Matchday 4
+  Sun Apr 27
+    14:30  Rosenborg BK            v Molde FK                 0-0
+    17:00  FK Bodø/Glimt           v KFUM Oslo                3-0 (0-0)
            SK Brann                v Bryne FK                 3-2 (0-2)
            FK Haugesund            v Fredrikstad FK           0-0
            Kristiansund BK         v Vålerenga IF             0-2 (0-0)
            Sandefjord Fotball      v Hamarkameratene          2-0 (1-0)
            Sarpsborg 08            v Strømsgodset IF          2-3 (0-1)
-    19.15  Viking FK               v Tromsø IL                4-4 (0-1)
+    19:15  Viking FK               v Tromsø IL                4-4 (0-1)
 
 
-» Matchday 5
-  Fri May/2
-    19.00  Hamarkameratene         v KFUM Oslo                0-0
-  Sat May/3
-    18.00  Vålerenga IF            v SK Brann                 2-4 (0-2)
-  Sun May/4
-    17.00  Molde FK                v FK Haugesund             2-1 (1-0)
+▪ Matchday 5
+  Fri May 2
+    19:00  Hamarkameratene         v KFUM Oslo                0-0
+  Sat May 3
+    18:00  Vålerenga IF            v SK Brann                 2-4 (0-2)
+  Sun May 4
+    17:00  Molde FK                v FK Haugesund             2-1 (1-0)
            Strømsgodset IF         v Kristiansund BK          1-2 (1-0)
            Tromsø IL               v Sandefjord Fotball       0-1 (0-0)
            Viking FK               v Sarpsborg 08             0-0
-    19.15  Rosenborg BK            v Bryne FK                 3-0 (1-0)
-  Wed Jul/16
-    19.00  Fredrikstad FK          v FK Bodø/Glimt
+    19:15  Rosenborg BK            v Bryne FK                 3-0 (1-0)
+  Wed Jul 16
+    19:00  Fredrikstad FK          v FK Bodø/Glimt
 
 
-» Matchday 6
-  Sun May/11
-    14.30  SK Brann                v Rosenborg BK
-    17.00  Bryne FK                v Molde FK
+▪ Matchday 6
+  Sun May 11
+    14:30  SK Brann                v Rosenborg BK
+    17:00  Bryne FK                v Molde FK
            KFUM Oslo               v Tromsø IL
            Kristiansund BK         v Fredrikstad FK
            Sandefjord Fotball      v Vålerenga IF
            Sarpsborg 08            v Hamarkameratene
-    19.15  FK Haugesund            v Viking FK
-  Wed Jul/30
-    19.00  FK Bodø/Glimt           v Strømsgodset IF
+    19:15  FK Haugesund            v Viking FK
+  Wed Jul 30
+    19:00  FK Bodø/Glimt           v Strømsgodset IF
 
 
-» Matchday 7
-  Fri May/16
-    18.00  SK Brann                v Sarpsborg 08
+▪ Matchday 7
+  Fri May 16
+    18:00  SK Brann                v Sarpsborg 08
            Fredrikstad FK          v KFUM Oslo
            Molde FK                v Kristiansund BK
            Rosenborg BK            v FK Haugesund
            Strømsgodset IF         v Bryne FK
            Tromsø IL               v FK Bodø/Glimt
            Viking FK               v Sandefjord Fotball
-    20.00  Vålerenga IF            v Hamarkameratene
+    20:00  Vålerenga IF            v Hamarkameratene
 
 
-» Matchday 8
-  Sat May/24
-    16.00  Bryne FK                v Fredrikstad FK
-    18.00  FK Bodø/Glimt           v Rosenborg BK
-  Sun May/25
-    14.30  Hamarkameratene         v Molde FK
-    17.00  Kristiansund BK         v Viking FK
+▪ Matchday 8
+  Sat May 24
+    16:00  Bryne FK                v Fredrikstad FK
+    18:00  FK Bodø/Glimt           v Rosenborg BK
+  Sun May 25
+    14:30  Hamarkameratene         v Molde FK
+    17:00  Kristiansund BK         v Viking FK
            Sandefjord Fotball      v Strømsgodset IF
            Sarpsborg 08            v Tromsø IL
-    19.15  FK Haugesund            v SK Brann
-  Mon May/26
-    19.00  KFUM Oslo               v Vålerenga IF
+    19:15  FK Haugesund            v SK Brann
+  Mon May 26
+    19:00  KFUM Oslo               v Vålerenga IF
 
 
-» Matchday 9
-  Sat May/31
-    16.00  Strømsgodset IF         v Hamarkameratene
-    18.45  Tromsø IL               v Vålerenga IF
-  Sun Jun/1
-    14.30  Fredrikstad FK          v Sarpsborg 08
-    17.00  SK Brann                v Kristiansund BK
+▪ Matchday 9
+  Sat May 31
+    16:00  Strømsgodset IF         v Hamarkameratene
+    18:45  Tromsø IL               v Vålerenga IF
+  Sun Jun 1
+    14:30  Fredrikstad FK          v Sarpsborg 08
+    17:00  SK Brann                v Kristiansund BK
            Bryne FK                v Sandefjord Fotball
            FK Haugesund            v FK Bodø/Glimt
            Rosenborg BK            v KFUM Oslo
-    19.15  Molde FK                v Viking FK
+    19:15  Molde FK                v Viking FK
 
 
-» Matchday 10
-  Sat Jun/21
+▪ Matchday 10
+  Sat Jun 21
            FK Bodø/Glimt           v SK Brann
            Hamarkameratene         v Tromsø IL
            KFUM Oslo               v Strømsgodset IF
@@ -136,8 +136,8 @@
            Vålerenga IF            v Molde FK
 
 
-» Matchday 11
-  Sat Jun/28
+▪ Matchday 11
+  Sat Jun 28
            FK Bodø/Glimt           v Sarpsborg 08
            SK Brann                v Sandefjord Fotball
            Bryne FK                v Hamarkameratene
@@ -148,8 +148,8 @@
            Strømsgodset IF         v Vålerenga IF
 
 
-» Matchday 12
-  Sat Jul/5
+▪ Matchday 12
+  Sat Jul 5
            Hamarkameratene         v SK Brann
            KFUM Oslo               v Bryne FK
            Kristiansund BK         v FK Bodø/Glimt
@@ -160,8 +160,8 @@
            Vålerenga IF            v Fredrikstad FK
 
 
-» Matchday 13
-  Sat Jul/12
+▪ Matchday 13
+  Sat Jul 12
            FK Bodø/Glimt           v Sandefjord Fotball
            SK Brann                v Viking FK
            Bryne FK                v Vålerenga IF
@@ -172,8 +172,8 @@
            Strømsgodset IF         v Tromsø IL
 
 
-» Matchday 14
-  Sat Jul/19
+▪ Matchday 14
+  Sat Jul 19
            Hamarkameratene         v Fredrikstad FK
            KFUM Oslo               v SK Brann
            Molde FK                v Strømsgodset IF
@@ -184,10 +184,10 @@
            Vålerenga IF            v FK Haugesund
 
 
-» Matchday 15
-  Thu May/29
-    18.00  SK Brann                v Molde FK
-  Sat Jul/26
+▪ Matchday 15
+  Thu May 29
+    18:00  SK Brann                v Molde FK
+  Sat Jul 26
            FK Bodø/Glimt           v Vålerenga IF
            Bryne FK                v Viking FK
            Fredrikstad FK          v Strømsgodset IF
@@ -197,10 +197,10 @@
            Sandefjord Fotball      v Sarpsborg 08
 
 
-» Matchday 16
-  Thu Apr/10
-    19.00  Viking FK               v Kristiansund BK          3-1 (0-1)
-  Sat Aug/2
+▪ Matchday 16
+  Thu Apr 10
+    19:00  Viking FK               v Kristiansund BK          3-1 (0-1)
+  Sat Aug 2
            Hamarkameratene         v FK Bodø/Glimt
            KFUM Oslo               v Rosenborg BK
            Molde FK                v Bryne FK
@@ -210,14 +210,14 @@
            Vålerenga IF            v Sandefjord Fotball
 
 
-» Matchday 17
-  Wed Apr/9
-    19.00  Fredrikstad FK          v Vålerenga IF             2-0 (1-0)
-  Thu Apr/10
-    19.00  SK Brann                v Strømsgodset IF          2-1 (1-0)
-  Thu May/1
-    18.00  Rosenborg BK            v Kristiansund BK          1-1 (0-0)
-  Sat Aug/9
+▪ Matchday 17
+  Wed Apr 9
+    19:00  Fredrikstad FK          v Vålerenga IF             2-0 (1-0)
+  Thu Apr 10
+    19:00  SK Brann                v Strømsgodset IF          2-1 (1-0)
+  Thu May 1
+    18:00  Rosenborg BK            v Kristiansund BK          1-1 (0-0)
+  Sat Aug 9
            FK Bodø/Glimt           v Tromsø IL
            Bryne FK                v KFUM Oslo
            FK Haugesund            v Sarpsborg 08
@@ -225,12 +225,12 @@
            Sandefjord Fotball      v Viking FK
 
 
-» Matchday 18
-  Wed Apr/30
-    18.00  Viking FK               v FK Haugesund             5-1 (2-1)
-  Wed May/28
-    19.00  Fredrikstad FK          v Rosenborg BK
-  Sat Aug/16
+▪ Matchday 18
+  Wed Apr 30
+    18:00  Viking FK               v FK Haugesund             5-1 (2-1)
+  Wed May 28
+    19:00  Fredrikstad FK          v Rosenborg BK
+  Sat Aug 16
            Hamarkameratene         v Bryne FK
            KFUM Oslo               v Molde FK
            Kristiansund BK         v Sandefjord Fotball
@@ -239,10 +239,10 @@
            Vålerenga IF            v Sarpsborg 08
 
 
-» Matchday 19
-  Wed May/28
-    21.00  FK Bodø/Glimt           v Viking FK
-  Sat Aug/23
+▪ Matchday 19
+  Wed May 28
+    21:00  FK Bodø/Glimt           v Viking FK
+  Sat Aug 23
            SK Brann                v Fredrikstad FK
            Bryne FK                v Strømsgodset IF
            FK Haugesund            v Vålerenga IF
@@ -252,8 +252,8 @@
            Sarpsborg 08            v Kristiansund BK
 
 
-» Matchday 20
-  Sat Aug/30
+▪ Matchday 20
+  Sat Aug 30
            Fredrikstad FK          v FK Haugesund
            Hamarkameratene         v Sarpsborg 08
            Kristiansund BK         v SK Brann
@@ -264,8 +264,8 @@
            Vålerenga IF            v Bryne FK
 
 
-» Matchday 21
-  Sat Sep/13
+▪ Matchday 21
+  Sat Sep 13
            FK Bodø/Glimt           v Kristiansund BK
            SK Brann                v Vålerenga IF
            Bryne FK                v Tromsø IL
@@ -276,8 +276,8 @@
            Sarpsborg 08            v Sandefjord Fotball
 
 
-» Matchday 22
-  Sat Sep/20
+▪ Matchday 22
+  Sat Sep 20
            Fredrikstad FK          v Bryne FK
            Kristiansund BK         v FK Haugesund
            Rosenborg BK            v FK Bodø/Glimt
@@ -288,8 +288,8 @@
            Vålerenga IF            v KFUM Oslo
 
 
-» Matchday 23
-  Sat Sep/27
+▪ Matchday 23
+  Sat Sep 27
            SK Brann                v FK Bodø/Glimt
            Bryne FK                v Kristiansund BK
            Hamarkameratene         v Rosenborg BK
@@ -300,8 +300,8 @@
            Tromsø IL               v Strømsgodset IF
 
 
-» Matchday 24
-  Sat Oct/4
+▪ Matchday 24
+  Sat Oct 4
            FK Bodø/Glimt           v FK Haugesund
            Fredrikstad FK          v Hamarkameratene
            Kristiansund BK         v Molde FK
@@ -312,8 +312,8 @@
            Vålerenga IF            v Tromsø IL
 
 
-» Matchday 25
-  Sat Oct/18
+▪ Matchday 25
+  Sat Oct 18
            SK Brann                v FK Haugesund
            Bryne FK                v Rosenborg BK
            Hamarkameratene         v Vålerenga IF
@@ -324,8 +324,8 @@
            Tromsø IL               v Viking FK
 
 
-» Matchday 26
-  Sat Oct/25
+▪ Matchday 26
+  Sat Oct 25
            FK Bodø/Glimt           v Molde FK
            FK Haugesund            v Tromsø IL
            Kristiansund BK         v Hamarkameratene
@@ -336,8 +336,8 @@
            Vålerenga IF            v Strømsgodset IF
 
 
-» Matchday 27
-  Sat Nov/1
+▪ Matchday 27
+  Sat Nov 1
            Bryne FK                v SK Brann
            Fredrikstad FK          v Kristiansund BK
            Hamarkameratene         v Sandefjord Fotball
@@ -348,8 +348,8 @@
            Vålerenga IF            v FK Bodø/Glimt
 
 
-» Matchday 28
-  Sat Nov/8
+▪ Matchday 28
+  Sat Nov 8
            FK Bodø/Glimt           v Bryne FK
            SK Brann                v KFUM Oslo
            FK Haugesund            v Molde FK
@@ -360,8 +360,8 @@
            Viking FK               v Hamarkameratene
 
 
-» Matchday 29
-  Sun Nov/23
+▪ Matchday 29
+  Sun Nov 23
            Bryne FK                v Sarpsborg 08
            Fredrikstad FK          v Viking FK
            Hamarkameratene         v FK Haugesund
@@ -372,8 +372,8 @@
            Vålerenga IF            v Kristiansund BK
 
 
-» Matchday 30
-  Sun Nov/30
+▪ Matchday 30
+  Sun Nov 30
            FK Bodø/Glimt           v Fredrikstad FK
            SK Brann                v Hamarkameratene
            FK Haugesund            v Bryne FK

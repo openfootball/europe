@@ -34,6 +34,23 @@ marseille,    Marseille|Olympique Marseille,  OM
 ```
 = Ligue 1
 
+▪ Matchday 1
+  Fri Aug 15
+    20:45  Stade Rennais FC 1901   v Olympique de Marseille   1-0 (0-0)
+  Sat Aug 16
+    17:00  Racing Club de Lens     v Olympique Lyonnais       0-1 (0-1)
+    19:00  AS Monaco FC            v Le Havre AC              3-1 (1-0)
+    21:05  OGC Nice                v Toulouse FC              0-1 (0-0)
+  Sun Aug 17
+    15:00  Stade Brestois 29       v Lille OSC                3-3 (1-2)
+    17:15  AJ Auxerre              v FC Lorient               1-0 (0-0)
+           FC Metz                 v RC Strasbourg Alsace     0-1 (0-0)
+           Angers SCO              v Paris FC                 1-0 (1-0)
+    20:45  FC Nantes               v Paris Saint-Germain FC   0-1 (0-0)
+```
+
+
+<!--
 Journée 1
 
 [Ven 8 Août]
@@ -50,11 +67,15 @@ Journée 1
   17h00  Olympique Lyonnais  2-0  Stade Rennais FC
   21h00  AS Monaco FC        1-2  FC Lorient
 ```
+-->
 
 
+## Build Your Own `france.db` Database or `france.json/france.csv` Datasets
 
-## Build Your Own `france.db` Copy
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
 
+
+<!--
 Use the `sportdb` command line tool to build your own `france.db` copy
 from the plain text datasets. [More »](https://github.com/openfootball/datafile)
 
@@ -93,6 +114,7 @@ This will
 - read in all datasets in plain text (`.txt`)
 
 That's it.
+-->
 
 
 
@@ -100,4 +122,3 @@ That's it.
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
-

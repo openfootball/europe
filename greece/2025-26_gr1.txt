@@ -1,199 +1,199 @@
 = Greek Super League 2025/26
 
-# Date       Sat Aug/23 2025 - Sat Mar/21 2026 (210d)
+# Date       Sat Aug 23 2025 - Sat Mar 21 2026 (210d)
 # Teams      14
 # Matches    182
 
 
 
-» 1. Round
-  Sat Aug/23 2025
-    19.00  Aris Saloniki           v Volos NFC                2-0 (0-0)
+▪ 1. Round
+  Sat Aug 23 2025
+    19:00  Aris Saloniki           v Volos NFC                2-0 (0-0)
            Olympiakos Piraeus      v Asteras Tripolis         2-0 (0-0)
-    21.00  Panetolikos             v Atromitos                0-2 (0-1)
-  Sun Aug/24
+    21:00  Panetolikos             v Atromitos                0-2 (0-1)
+  Sun Aug 24
            Panathinaikos           v OFI Heraklion            [postponed]
-    19.15  AEK Athen               v Panserraikos             2-0 (2-0)
-    20.00  PAOK Saloniki           v AE Lárissa               1-0 (0-0)
-  Mon Aug/25
-    18.30  Levadiakos              v AE Kifisias              3-2 (2-2)
+    19:15  AEK Athen               v Panserraikos             2-0 (2-0)
+    20:00  PAOK Saloniki           v AE Lárissa               1-0 (0-0)
+  Mon Aug 25
+    18:30  Levadiakos              v AE Kifisias              3-2 (2-2)
 
 
-» 2. Round
-  Sat Aug/30
-    18.00  Volos NFC               v Olympiakos Piraeus       0-2 (0-0)
-    18.30  Panserraikos            v OFI Heraklion            0-1 (0-0)
-    20.00  Aris Saloniki           v Panetolikos              0-2 (0-0)
-    20.30  AE Lárissa              v AE Kifisias              1-1 (0-0)
-  Sun Aug/31
-    19.00  AEK Athen               v Asteras Tripolis         1-0 (1-0)
-    20.00  PAOK Saloniki           v Atromitos                1-0 (0-0)
-    21.00  Panathinaikos           v Levadiakos               1-1 (1-0)
+▪ 2. Round
+  Sat Aug 30
+    18:00  Volos NFC               v Olympiakos Piraeus       0-2 (0-0)
+    18:30  Panserraikos            v OFI Heraklion            0-1 (0-0)
+    20:00  Aris Saloniki           v Panetolikos              0-2 (0-0)
+    20:30  AE Lárissa              v AE Kifisias              1-1 (0-0)
+  Sun Aug 31
+    19:00  AEK Athen               v Asteras Tripolis         1-0 (1-0)
+    20:00  PAOK Saloniki           v Atromitos                1-0 (0-0)
+    21:00  Panathinaikos           v Levadiakos               1-1 (1-0)
 
 
-» 3. Round
-  Sat Sep/13
-    17.00  Olympiakos Piraeus      v Panserraikos             5-0 (0-0)
-    19.00  Atromitos               v Aris Saloniki            1-2 (1-1)
+▪ 3. Round
+  Sat Sep 13
+    17:00  Olympiakos Piraeus      v Panserraikos             5-0 (0-0)
+    19:00  Atromitos               v Aris Saloniki            1-2 (1-1)
            Panetolikos             v Volos NFC                1-2 (1-2)
-  Sun Sep/14
-    17.00  Asteras Tripolis        v AE Lárissa               2-2 (2-0)
+  Sun Sep 14
+    17:00  Asteras Tripolis        v AE Lárissa               2-2 (2-0)
            AE Kifisias             v Panathinaikos            3-2 (1-1)
-    19.00  Levadiakos              v AEK Athen                0-1 (0-0)
-    20.30  OFI Heraklion           v PAOK Saloniki            1-2 (0-2)
+    19:00  Levadiakos              v AEK Athen                0-1 (0-0)
+    20:30  OFI Heraklion           v PAOK Saloniki            1-2 (0-2)
 
 
-» 4. Round
-  Sat Sep/20
-    17.00  AE Kifisias             v Aris Saloniki            0-1 (0-0)
+▪ 4. Round
+  Sat Sep 20
+    17:00  AE Kifisias             v Aris Saloniki            0-1 (0-0)
            Panserraikos            v Atromitos                1-1 (0-1)
-    19.00  Volos NFC               v Asteras Tripolis         2-1 (1-0)
-    19.30  PAOK Saloniki           v Panetolikos              0-0
-  Sun Sep/21
-    16.30  AE Lárissa              v AEK Athen                1-1 (0-0)
-    17.00  Levadiakos              v OFI Heraklion            4-0 (1-0)
-    20.00  Panathinaikos           v Olympiakos Piraeus       1-1 (0-0)
+    19:00  Volos NFC               v Asteras Tripolis         2-1 (1-0)
+    19:30  PAOK Saloniki           v Panetolikos              0-0
+  Sun Sep 21
+    16:30  AE Lárissa              v AEK Athen                1-1 (0-0)
+    17:00  Levadiakos              v OFI Heraklion            4-0 (1-0)
+    20:00  Panathinaikos           v Olympiakos Piraeus       1-1 (0-0)
 
 
-» 5. Round
-  Sat Sep/27
-    17.00  Olympiakos Piraeus      v Levadiakos               3-2 (1-0)
-    19.30  Aris Saloniki           v Panserraikos             1-1 (1-0)
-  Sun Sep/28
-    16.00  AEK Athen               v Volos NFC                1-0 (0-0)
-    18.00  OFI Heraklion           v AE Kifisias              1-3 (0-1)
-    19.30  Asteras Tripolis        v PAOK Saloniki            3-3 (2-3)
-    20.00  Panetolikos             v Panathinaikos            1-2 (1-0)
-  Mon Sep/29
-    17.00  Atromitos               v AE Lárissa               1-1 (1-0)
+▪ 5. Round
+  Sat Sep 27
+    17:00  Olympiakos Piraeus      v Levadiakos               3-2 (1-0)
+    19:30  Aris Saloniki           v Panserraikos             1-1 (1-0)
+  Sun Sep 28
+    16:00  AEK Athen               v Volos NFC                1-0 (0-0)
+    18:00  OFI Heraklion           v AE Kifisias              1-3 (0-1)
+    19:30  Asteras Tripolis        v PAOK Saloniki            3-3 (2-3)
+    20:00  Panetolikos             v Panathinaikos            1-2 (1-0)
+  Mon Sep 29
+    17:00  Atromitos               v AE Lárissa               1-1 (1-0)
 
 
-» 6. Round
-  Sat Oct/4
-    17.00  OFI Heraklion           v Aris Saloniki            3-0 (1-0)
+▪ 6. Round
+  Sat Oct 4
+    17:00  OFI Heraklion           v Aris Saloniki            3-0 (1-0)
            Panserraikos            v Asteras Tripolis         2-1 (1-0)
-    19.30  AE Lárissa              v Volos NFC                2-5 (1-2)
-  Sun Oct/5
-    17.00  AE Kifisias             v AEK Athen                2-3 (2-1)
+    19:30  AE Lárissa              v Volos NFC                2-5 (1-2)
+  Sun Oct 5
+    17:00  AE Kifisias             v AEK Athen                2-3 (2-1)
            Levadiakos              v Panetolikos              6-0 (4-0)
-    19.30  PAOK Saloniki           v Olympiakos Piraeus       2-1 (0-1)
-    20.30  Panathinaikos           v Atromitos                1-0 (0-0)
+    19:30  PAOK Saloniki           v Olympiakos Piraeus       2-1 (0-1)
+    20:30  Panathinaikos           v Atromitos                1-0 (0-0)
 
 
-» 7. Round
-  Sat Oct/18
-    16.00  AE Lárissa              v Olympiakos Piraeus       0-2 (0-2)
-    18.30  Atromitos               v Levadiakos               2-2 (2-1)
-    19.00  Panetolikos             v OFI Heraklion            4-2 (0-0)
-  Sun Oct/19
-    15.00  Asteras Tripolis        v AE Kifisias              2-2 (0-1)
-    16.30  Volos NFC               v Panserraikos             2-1 (1-0)
-    18.30  Aris Saloniki           v Panathinaikos            1-1 (0-1)
-    20.00  AEK Athen               v PAOK Saloniki            0-2 (0-1)
+▪ 7. Round
+  Sat Oct 18
+    16:00  AE Lárissa              v Olympiakos Piraeus       0-2 (0-2)
+    18:30  Atromitos               v Levadiakos               2-2 (2-1)
+    19:00  Panetolikos             v OFI Heraklion            4-2 (0-0)
+  Sun Oct 19
+    15:00  Asteras Tripolis        v AE Kifisias              2-2 (0-1)
+    16:30  Volos NFC               v Panserraikos             2-1 (1-0)
+    18:30  Aris Saloniki           v Panathinaikos            1-1 (0-1)
+    20:00  AEK Athen               v PAOK Saloniki            0-2 (0-1)
 
 
-» 8. Round
-  Sat Oct/25
-    16.00  AE Kifisias             v Panetolikos              1-1 (1-1)
-    18.30  Panserraikos            v AE Lárissa               0-2 (0-2)
-    19.00  OFI Heraklion           v Atromitos                1-3 (1-1)
-  Sun Oct/26
-    16.00  Levadiakos              v Aris Saloniki            1-1 (0-1)
-    16.30  Panathinaikos           v Asteras Tripolis         2-0 (1-0)
-    18.30  PAOK Saloniki           v Volos NFC                3-0 (0-0)
-    20.00  Olympiakos Piraeus      v AEK Athen                2-0 (1-0)
+▪ 8. Round
+  Sat Oct 25
+    16:00  AE Kifisias             v Panetolikos              1-1 (1-1)
+    18:30  Panserraikos            v AE Lárissa               0-2 (0-2)
+    19:00  OFI Heraklion           v Atromitos                1-3 (1-1)
+  Sun Oct 26
+    16:00  Levadiakos              v Aris Saloniki            1-1 (0-1)
+    16:30  Panathinaikos           v Asteras Tripolis         2-0 (1-0)
+    18:30  PAOK Saloniki           v Volos NFC                3-0 (0-0)
+    20:00  Olympiakos Piraeus      v AEK Athen                2-0 (1-0)
 
 
-» 9. Round
-  Sat Nov/1
-    17.00  Volos NFC               v Panathinaikos            1-0 (1-0)
-    18.30  Atromitos               v AE Kifisias              1-2 (0-0)
-    19.00  Olympiakos Piraeus      v Aris Saloniki            2-1 (0-0)
-  Sun Nov/2
-    16.30  AE Lárissa              v Levadiakos               0-2 (0-1)
-    18.30  Panserraikos            v PAOK Saloniki            0-5 (0-2)
-    20.00  AEK Athen               v Panetolikos              1-0 (0-0)
-  Mon Nov/3
-    16.00  Asteras Tripolis        v OFI Heraklion            3-0 (1-0)
+▪ 9. Round
+  Sat Nov 1
+    17:00  Volos NFC               v Panathinaikos            1-0 (1-0)
+    18:30  Atromitos               v AE Kifisias              1-2 (0-0)
+    19:00  Olympiakos Piraeus      v Aris Saloniki            2-1 (0-0)
+  Sun Nov 2
+    16:30  AE Lárissa              v Levadiakos               0-2 (0-1)
+    18:30  Panserraikos            v PAOK Saloniki            0-5 (0-2)
+    20:00  AEK Athen               v Panetolikos              1-0 (0-0)
+  Mon Nov 3
+    16:00  Asteras Tripolis        v OFI Heraklion            3-0 (1-0)
 
 
-» 10. Round
-  Sat Nov/8
-    16.00  Panetolikos             v AE Lárissa
-  Sun Nov/9
-    14.00  Aris Saloniki           v Asteras Tripolis
+▪ 10. Round
+  Sat Nov 8
+    16:00  Panetolikos             v AE Lárissa
+  Sun Nov 9
+    14:00  Aris Saloniki           v Asteras Tripolis
            AE Kifisias             v Olympiakos Piraeus
-    16.00  Levadiakos              v Panserraikos
-    16.30  OFI Heraklion           v AEK Athen
-    18.00  Atromitos               v Volos NFC
-    20.00  Panathinaikos           v PAOK Saloniki
+    16:00  Levadiakos              v Panserraikos
+    16:30  OFI Heraklion           v AEK Athen
+    18:00  Atromitos               v Volos NFC
+    20:00  Panathinaikos           v PAOK Saloniki
 
 
-» 11. Round
-  Sat Nov/22
-    18.30  Asteras Tripolis        v Panetolikos
-    19.00  Olympiakos Piraeus      v Atromitos
-  Sun Nov/23
-    16.00  Panserraikos            v Panathinaikos
-    18.00  PAOK Saloniki           v AE Kifisias
-    20.00  AEK Athen               v Aris Saloniki
-  Mon Nov/24
-    17.00  Volos NFC               v Levadiakos
-    19.00  AE Lárissa              v OFI Heraklion
+▪ 11. Round
+  Sat Nov 22
+    18:30  Asteras Tripolis        v Panetolikos
+    19:00  Olympiakos Piraeus      v Atromitos
+  Sun Nov 23
+    16:00  Panserraikos            v Panathinaikos
+    18:00  PAOK Saloniki           v AE Kifisias
+    20:00  AEK Athen               v Aris Saloniki
+  Mon Nov 24
+    17:00  Volos NFC               v Levadiakos
+    19:00  AE Lárissa              v OFI Heraklion
 
 
-» 12. Round
-  Sat Nov/29
-    17.00  OFI Heraklion           v Volos NFC
-    18.30  Aris Saloniki           v AE Lárissa
-    19.00  AE Kifisias             v Panserraikos
-  Sun Nov/30
-    16.00  Atromitos               v Asteras Tripolis
+▪ 12. Round
+  Sat Nov 29
+    17:00  OFI Heraklion           v Volos NFC
+    18:30  Aris Saloniki           v AE Lárissa
+    19:00  AE Kifisias             v Panserraikos
+  Sun Nov 30
+    16:00  Atromitos               v Asteras Tripolis
            Panetolikos             v Olympiakos Piraeus
-    18.00  Levadiakos              v PAOK Saloniki
-    20.00  Panathinaikos           v AEK Athen
+    18:00  Levadiakos              v PAOK Saloniki
+    20:00  Panathinaikos           v AEK Athen
 
 
-» 13. Round
-  Sat Dec/6
-    16.00  Olympiakos Piraeus      v OFI Heraklion
-    19.30  Volos NFC               v AE Kifisias
-  Sun Dec/7
-    16.00  Asteras Tripolis        v Levadiakos
-    16.30  AE Lárissa              v Panathinaikos
-    18.30  PAOK Saloniki           v Aris Saloniki
-    20.00  AEK Athen               v Atromitos
-  Mon Dec/8
-    17.00  Panserraikos            v Panetolikos
+▪ 13. Round
+  Sat Dec 6
+    16:00  Olympiakos Piraeus      v OFI Heraklion
+    19:30  Volos NFC               v AE Kifisias
+  Sun Dec 7
+    16:00  Asteras Tripolis        v Levadiakos
+    16:30  AE Lárissa              v Panathinaikos
+    18:30  PAOK Saloniki           v Aris Saloniki
+    20:00  AEK Athen               v Atromitos
+  Mon Dec 8
+    17:00  Panserraikos            v Panetolikos
 
 
-» 14. Round
-  Sat Dec/13
-    16.00  Levadiakos              v AE Lárissa
-    17.00  OFI Heraklion           v Panserraikos
-    19.00  AE Kifisias             v Asteras Tripolis
-  Sun Dec/14
-    16.30  Panetolikos             v AEK Athen
-    17.00  Atromitos               v PAOK Saloniki
-    19.00  Aris Saloniki           v Olympiakos Piraeus
-    20.00  Panathinaikos           v Volos NFC
+▪ 14. Round
+  Sat Dec 13
+    16:00  Levadiakos              v AE Lárissa
+    17:00  OFI Heraklion           v Panserraikos
+    19:00  AE Kifisias             v Asteras Tripolis
+  Sun Dec 14
+    16:30  Panetolikos             v AEK Athen
+    17:00  Atromitos               v PAOK Saloniki
+    19:00  Aris Saloniki           v Olympiakos Piraeus
+    20:00  Panathinaikos           v Volos NFC
 
 
-» 15. Round
-  Sat Dec/20
-    15.00  Asteras Tripolis        v Aris Saloniki
-    17.00  Volos NFC               v Panetolikos
-    19.30  Olympiakos Piraeus      v AE Kifisias
-  Sun Dec/21
-    16.30  AE Lárissa              v Atromitos
-    18.30  PAOK Saloniki           v Panathinaikos
-    20.00  AEK Athen               v OFI Heraklion
-  Mon Dec/22
-    17.00  Panserraikos            v Levadiakos
+▪ 15. Round
+  Sat Dec 20
+    15:00  Asteras Tripolis        v Aris Saloniki
+    17:00  Volos NFC               v Panetolikos
+    19:30  Olympiakos Piraeus      v AE Kifisias
+  Sun Dec 21
+    16:30  AE Lárissa              v Atromitos
+    18:30  PAOK Saloniki           v Panathinaikos
+    20:00  AEK Athen               v OFI Heraklion
+  Mon Dec 22
+    17:00  Panserraikos            v Levadiakos
 
 
-» 16. Round
-  Sat Jan/10 2026
+▪ 16. Round
+  Sat Jan 10 2026
            Aris Saloniki           v AEK Athen
            Atromitos               v Olympiakos Piraeus
            AE Kifisias             v AE Lárissa
@@ -203,8 +203,8 @@
            Panetolikos             v PAOK Saloniki
 
 
-» 17. Round
-  Sat Jan/17
+▪ 17. Round
+  Sat Jan 17
            AEK Athen               v Panathinaikos
            Asteras Tripolis        v Olympiakos Piraeus
            AE Lárissa              v Aris Saloniki
@@ -214,8 +214,8 @@
            PAOK Saloniki           v OFI Heraklion
 
 
-» 18. Round
-  Sat Jan/24
+▪ 18. Round
+  Sat Jan 24
            Asteras Tripolis        v AEK Athen
            AE Lárissa              v Panserraikos
            Aris Saloniki           v Levadiakos
@@ -225,8 +225,8 @@
            OFI Heraklion           v Panetolikos
 
 
-» 19. Round
-  Sat Jan/31
+▪ 19. Round
+  Sat Jan 31
            AEK Athen               v Olympiakos Piraeus
            Atromitos               v OFI Heraklion
            Volos NFC               v AE Lárissa
@@ -236,8 +236,8 @@
            PAOK Saloniki           v Panserraikos
 
 
-» 20. Round
-  Sat Feb/7
+▪ 20. Round
+  Sat Feb 7
            Asteras Tripolis        v Volos NFC
            AE Lárissa              v Panetolikos
            Aris Saloniki           v PAOK Saloniki
@@ -247,8 +247,8 @@
            Panserraikos            v AEK Athen
 
 
-» 21. Round
-  Sat Feb/14
+▪ 21. Round
+  Sat Feb 14
            Atromitos               v Panserraikos
            Volos NFC               v Aris Saloniki
            AE Kifisias             v OFI Heraklion
@@ -258,8 +258,8 @@
            PAOK Saloniki           v AEK Athen
 
 
-» 22. Round
-  Sat Feb/21
+▪ 22. Round
+  Sat Feb 21
            AEK Athen               v Levadiakos
            Asteras Tripolis        v Atromitos
            AE Lárissa              v PAOK Saloniki
@@ -269,8 +269,8 @@
            Panserraikos            v Volos NFC
 
 
-» 23. Round
-  Sat Feb/28
+▪ 23. Round
+  Sat Feb 28
            Atromitos               v Panetolikos
            Volos NFC               v AEK Athen
            AE Kifisias             v Levadiakos
@@ -280,8 +280,8 @@
            PAOK Saloniki           v Asteras Tripolis
 
 
-» 24. Round
-  Sat Mar/7
+▪ 24. Round
+  Sat Mar 7
            AEK Athen               v AE Lárissa
            Asteras Tripolis        v Panserraikos
            Aris Saloniki           v Atromitos
@@ -291,8 +291,8 @@
            Panetolikos             v AE Kifisias
 
 
-» 25. Round
-  Sat Mar/14
+▪ 25. Round
+  Sat Mar 14
            AE Lárissa              v Asteras Tripolis
            Atromitos               v AEK Athen
            AE Kifisias             v Volos NFC
@@ -302,8 +302,8 @@
            PAOK Saloniki           v Levadiakos
 
 
-» 26. Round
-  Sat Mar/21
+▪ 26. Round
+  Sat Mar 21
            AEK Athen               v AE Kifisias
            Asteras Tripolis        v Panathinaikos
            Aris Saloniki           v OFI Heraklion

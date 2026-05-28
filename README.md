@@ -15,7 +15,7 @@ Free open public domain match fixtures & results datasets in the Football.TXT fo
 
 <!--  moved to its own repo in 2025/26
 - [**Belgium**](belgium) - First Division A
---> 
+-->
 
 - [**Netherlands**](netherlands) - Eredivisie
 - [**Switzerland (Schweiz • Suisse • Svizzera • Svizra) incl. Liechtenstein**](switzerland) - Super League, Challenge League
@@ -45,8 +45,13 @@ todo: add
 
 
 
-## Build Your Own `europe.db` Copy
+## Build Your Own `europe.db` Database or `europe.json/.csv` Datasets
 
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
+
+
+<!--
 ### Alternative I - Do-It-Yourself (DIY) - Download and Unpack Zip Archive or Git Clone
 
 Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
@@ -89,17 +94,16 @@ Note: If the single-file SQLite database (and its tables, views & indices) do no
 they get auto-created on the first run.
 
 [More »](https://github.com/sportdb/football.db/tree/master/football-to-sqlite)
-
+-->
 
 
 
 ## License
 
-The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The football.db schema, data and scripts are dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
-
