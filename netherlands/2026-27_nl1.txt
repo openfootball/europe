@@ -1,0 +1,479 @@
+= Netherlands Eredivisie 2026/27
+
+# Date       Fri Aug 7 2026 - Sun May 23 2027 (289d)
+# Teams      18
+# Matches    306
+
+
+
+▪ Matchday 1
+  Fri Aug 7 2026
+    20:00  SC Cambuur-Leeuwarden   v SBV Excelsior
+  Sat Aug 8
+    16:30  NEC                     v Telstar 1963
+    18:45  Go Ahead Eagles         v Willem II Tilburg
+    20:00  PSV                     v Fortuna Sittard
+    21:00  AZ                      v ADO Den Haag
+  Sun Aug 9
+    12:15  Sparta Rotterdam        v Feyenoord Rotterdam
+    14:30  FC Groningen            v FC Utrecht
+           PEC Zwolle              v AFC Ajax
+    16:45  SC Heerenveen           v FC Twente '65
+
+
+▪ Matchday 2
+  Fri Aug 14
+    20:00  Telstar 1963            v Sparta Rotterdam
+  Sat Aug 15
+    16:30  Willem II Tilburg       v NEC
+    18:45  FC Utrecht              v AZ
+    20:00  SBV Excelsior           v PSV
+    21:00  Fortuna Sittard         v SC Cambuur-Leeuwarden
+  Sun Aug 16
+    12:15  ADO Den Haag            v FC Groningen
+    14:30  Feyenoord Rotterdam     v Go Ahead Eagles
+           FC Twente '65           v PEC Zwolle
+    16:45  AFC Ajax                v SC Heerenveen
+
+
+▪ Matchday 3
+  Sat Aug 22
+    16:30  Fortuna Sittard         v AZ
+    18:45  NEC                     v SBV Excelsior
+    20:00  Sparta Rotterdam        v FC Utrecht
+    21:00  SC Heerenveen           v PEC Zwolle
+  Sun Aug 23
+    12:15  Go Ahead Eagles         v ADO Den Haag
+    14:30  PSV                     v FC Groningen
+    16:45  SC Cambuur-Leeuwarden   v Feyenoord Rotterdam
+
+
+▪ Matchday 4
+  Fri Aug 28
+    20:00  FC Groningen            v Fortuna Sittard
+  Sat Aug 29
+    16:30  SBV Excelsior           v Sparta Rotterdam
+    18:45  AZ                      v Go Ahead Eagles
+    21:00  PEC Zwolle              v NEC
+  Sun Aug 30
+    12:15  FC Utrecht              v PSV
+    14:30  Willem II Tilburg       v SC Heerenveen
+           Feyenoord Rotterdam     v ADO Den Haag
+    16:45  Telstar 1963            v AFC Ajax
+    20:00  SC Cambuur-Leeuwarden   v FC Twente '65
+
+
+▪ Matchday 5
+  Fri Sep 4
+    20:00  Sparta Rotterdam        v PEC Zwolle
+  Sat Sep 5
+    16:30  NEC                     v Feyenoord Rotterdam
+    18:45  FC Utrecht              v Go Ahead Eagles
+    20:00  AFC Ajax                v PSV
+    21:00  Willem II Tilburg       v SBV Excelsior
+  Sun Sep 6
+    12:15  FC Groningen            v FC Twente '65
+    14:30  SC Heerenveen           v AZ
+           Telstar 1963            v SC Cambuur-Leeuwarden
+    16:45  ADO Den Haag            v Fortuna Sittard
+
+
+▪ Matchday 3
+  Wed Sep 9
+    18:45  FC Twente '65           v Telstar 1963
+
+
+▪ Matchday 6
+  Fri Sep 11
+    20:00  AZ                      v Willem II Tilburg
+  Sat Sep 12
+    16:30  FC Twente '65           v ADO Den Haag
+    18:45  Go Ahead Eagles         v FC Groningen
+    20:00  Fortuna Sittard         v AFC Ajax
+    21:00  SC Heerenveen           v Telstar 1963
+  Sun Sep 13
+    12:15  SBV Excelsior           v FC Utrecht
+    14:30  SC Cambuur-Leeuwarden   v NEC
+           PSV                     v Sparta Rotterdam
+    16:45  PEC Zwolle              v Feyenoord Rotterdam
+
+
+▪ Matchday 3
+  Tue Sep 15
+    20:00  AFC Ajax                v Willem II Tilburg
+
+
+▪ Matchday 7
+  Fri Sep 18
+    20:00  Sparta Rotterdam        v SC Heerenveen
+  Sat Sep 19
+    16:30  ADO Den Haag            v SC Cambuur-Leeuwarden
+    18:45  FC Groningen            v PEC Zwolle
+    20:00  AFC Ajax                v SBV Excelsior
+    21:00  Willem II Tilburg       v Fortuna Sittard
+  Sun Sep 20
+    12:15  Feyenoord Rotterdam     v FC Utrecht
+    14:30  NEC                     v Go Ahead Eagles
+           AZ                      v Telstar 1963
+    16:45  FC Twente '65           v PSV
+
+
+▪ Matchday 8
+  Sat Oct 10
+    16:30  PSV                     v SC Heerenveen
+    18:45  Feyenoord Rotterdam     v AZ
+           Go Ahead Eagles         v Sparta Rotterdam
+    21:00  Fortuna Sittard         v FC Twente '65
+           AFC Ajax                v NEC
+  Sun Oct 11
+    12:15  FC Utrecht              v Willem II Tilburg
+    14:30  PEC Zwolle              v SC Cambuur-Leeuwarden
+           Telstar 1963            v ADO Den Haag
+    16:45  SBV Excelsior           v FC Groningen
+
+
+▪ Matchday 9
+  Fri Oct 16
+    20:00  SC Heerenveen           v SBV Excelsior
+  Sat Oct 17
+    16:30  ADO Den Haag            v PSV
+    18:45  NEC                     v Fortuna Sittard
+    20:00  Telstar 1963            v Feyenoord Rotterdam
+    21:00  Sparta Rotterdam        v Willem II Tilburg
+  Sun Oct 18
+    12:15  PEC Zwolle              v Go Ahead Eagles
+    14:30  SC Cambuur-Leeuwarden   v AZ
+           FC Twente '65           v FC Utrecht
+    16:45  FC Groningen            v AFC Ajax
+
+
+▪ Matchday 10
+  Fri Oct 23
+    20:00  Go Ahead Eagles         v Telstar 1963
+  Sat Oct 24
+    16:30  FC Utrecht              v PEC Zwolle
+    18:45  Willem II Tilburg       v SC Cambuur-Leeuwarden
+    21:00  ADO Den Haag            v SC Heerenveen
+  Sun Oct 25
+    12:15  Fortuna Sittard         v SBV Excelsior
+    14:30  NEC                     v FC Groningen
+           PSV                     v Feyenoord Rotterdam
+    16:45  Sparta Rotterdam        v AFC Ajax
+    20:00  AZ                      v FC Twente '65
+
+
+▪ Matchday 11
+  Sat Oct 31
+    16:30  Feyenoord Rotterdam     v Fortuna Sittard
+    18:45  SC Heerenveen           v NEC
+           PSV                     v Willem II Tilburg
+    21:00  SC Cambuur-Leeuwarden   v Go Ahead Eagles
+           AFC Ajax                v AZ
+  Sun Nov 1
+    12:15  PEC Zwolle              v ADO Den Haag
+    14:30  Telstar 1963            v FC Utrecht
+           SBV Excelsior           v FC Twente '65
+    16:45  FC Groningen            v Sparta Rotterdam
+
+
+▪ Matchday 12
+  Fri Nov 6
+    20:00  Willem II Tilburg       v PEC Zwolle
+  Sat Nov 7
+    16:30  Fortuna Sittard         v Telstar 1963
+    18:45  SBV Excelsior           v Go Ahead Eagles
+    20:00  SC Cambuur-Leeuwarden   v PSV
+    21:00  ADO Den Haag            v Sparta Rotterdam
+  Sun Nov 8
+    12:15  SC Heerenveen           v Feyenoord Rotterdam
+    14:30  FC Utrecht              v NEC
+           FC Twente '65           v AFC Ajax
+    16:45  AZ                      v FC Groningen
+
+
+▪ Matchday 13
+  Sun Nov 22
+    17:00  FC Twente '65           v Willem II Tilburg
+           Go Ahead Eagles         v Fortuna Sittard
+           Sparta Rotterdam        v AZ
+           Feyenoord Rotterdam     v SBV Excelsior
+           Telstar 1963            v PEC Zwolle
+           NEC                     v PSV
+           FC Groningen            v SC Heerenveen
+           FC Utrecht              v SC Cambuur-Leeuwarden
+           AFC Ajax                v ADO Den Haag
+
+
+▪ Matchday 14
+  Sun Nov 29
+    17:00  SC Cambuur-Leeuwarden   v Sparta Rotterdam
+           FC Groningen            v Willem II Tilburg
+           Fortuna Sittard         v SC Heerenveen
+           NEC                     v FC Twente '65
+           PEC Zwolle              v AZ
+           Feyenoord Rotterdam     v AFC Ajax
+           SBV Excelsior           v Telstar 1963
+           PSV                     v Go Ahead Eagles
+           ADO Den Haag            v FC Utrecht
+
+
+▪ Matchday 15
+  Sun Dec 6
+    17:00  ADO Den Haag            v SBV Excelsior
+           AFC Ajax                v FC Utrecht
+           Telstar 1963            v FC Groningen
+           Fortuna Sittard         v PEC Zwolle
+           AZ                      v PSV
+           SC Heerenveen           v SC Cambuur-Leeuwarden
+           Willem II Tilburg       v Feyenoord Rotterdam
+           Sparta Rotterdam        v NEC
+           Go Ahead Eagles         v FC Twente '65
+
+
+▪ Matchday 16
+  Sun Dec 13
+    17:00  AFC Ajax                v SC Cambuur-Leeuwarden
+           PEC Zwolle              v SBV Excelsior
+           FC Groningen            v Feyenoord Rotterdam
+           FC Utrecht              v Fortuna Sittard
+           PSV                     v Telstar 1963
+           Willem II Tilburg       v ADO Den Haag
+           AZ                      v NEC
+           FC Twente '65           v Sparta Rotterdam
+           SC Heerenveen           v Go Ahead Eagles
+
+
+▪ Matchday 17
+  Sun Dec 20
+    17:00  SC Cambuur-Leeuwarden   v FC Groningen
+           Fortuna Sittard         v Sparta Rotterdam
+           Telstar 1963            v Willem II Tilburg
+           PSV                     v PEC Zwolle
+           Go Ahead Eagles         v AFC Ajax
+           Feyenoord Rotterdam     v FC Twente '65
+           NEC                     v ADO Den Haag
+           FC Utrecht              v SC Heerenveen
+           SBV Excelsior           v AZ
+
+
+▪ Matchday 18
+  Fri Jan 8 2027
+    13:00  FC Twente '65           v Fortuna Sittard
+  Sat Jan 9
+    13:00  Sparta Rotterdam        v SBV Excelsior
+           AZ                      v SC Heerenveen
+           Willem II Tilburg       v AFC Ajax
+           PEC Zwolle              v FC Utrecht
+  Sun Jan 10
+    13:00  Feyenoord Rotterdam     v PSV
+           ADO Den Haag            v Telstar 1963
+           NEC                     v SC Cambuur-Leeuwarden
+           FC Groningen            v Go Ahead Eagles
+
+
+▪ Matchday 19
+  Sun Jan 17
+    13:00  Go Ahead Eagles         v AZ
+           SC Cambuur-Leeuwarden   v Willem II Tilburg
+           Telstar 1963            v NEC
+           SBV Excelsior           v Feyenoord Rotterdam
+           SC Heerenveen           v Sparta Rotterdam
+           Fortuna Sittard         v PSV
+           ADO Den Haag            v PEC Zwolle
+           AFC Ajax                v FC Groningen
+           FC Utrecht              v FC Twente '65
+
+
+▪ Matchday 20
+  Sun Jan 24
+    13:00  NEC                     v Willem II Tilburg
+           FC Twente '65           v SC Heerenveen
+           PSV                     v ADO Den Haag
+           AFC Ajax                v Telstar 1963
+           AZ                      v FC Utrecht
+           SBV Excelsior           v Fortuna Sittard
+           Sparta Rotterdam        v FC Groningen
+           Feyenoord Rotterdam     v PEC Zwolle
+           Go Ahead Eagles         v SC Cambuur-Leeuwarden
+
+
+▪ Matchday 21
+  Sun Jan 31
+    13:00  ADO Den Haag            v Go Ahead Eagles
+           SC Heerenveen           v AFC Ajax
+           PEC Zwolle              v Fortuna Sittard
+           FC Twente '65           v SC Cambuur-Leeuwarden
+           AZ                      v Feyenoord Rotterdam
+           Willem II Tilburg       v PSV
+           Sparta Rotterdam        v Telstar 1963
+           FC Utrecht              v SBV Excelsior
+           FC Groningen            v NEC
+
+
+▪ Matchday 22
+  Sun Feb 14
+    13:00  Telstar 1963            v SC Heerenveen
+           Fortuna Sittard         v ADO Den Haag
+           Feyenoord Rotterdam     v NEC
+           SC Cambuur-Leeuwarden   v FC Utrecht
+           PSV                     v FC Twente '65
+           FC Groningen            v AZ
+           Go Ahead Eagles         v PEC Zwolle
+           SBV Excelsior           v AFC Ajax
+           Willem II Tilburg       v Sparta Rotterdam
+
+
+▪ Matchday 23
+  Sun Feb 21
+    13:00  NEC                     v Sparta Rotterdam
+           Feyenoord Rotterdam     v Telstar 1963
+           FC Utrecht              v ADO Den Haag
+           AZ                      v Fortuna Sittard
+           SC Heerenveen           v Willem II Tilburg
+           PEC Zwolle              v FC Groningen
+           AFC Ajax                v Go Ahead Eagles
+           PSV                     v SC Cambuur-Leeuwarden
+           FC Twente '65           v SBV Excelsior
+
+
+▪ Matchday 24
+  Sun Feb 28
+    13:00  Sparta Rotterdam        v PSV
+           NEC                     v AZ
+           SC Cambuur-Leeuwarden   v PEC Zwolle
+           SBV Excelsior           v SC Heerenveen
+           ADO Den Haag            v FC Twente '65
+           AFC Ajax                v Feyenoord Rotterdam
+           Willem II Tilburg       v FC Groningen
+           Fortuna Sittard         v FC Utrecht
+           Telstar 1963            v Go Ahead Eagles
+
+
+▪ Matchday 25
+  Sun Mar 7
+    13:00  FC Twente '65           v AZ
+           Feyenoord Rotterdam     v SC Heerenveen
+           Go Ahead Eagles         v SBV Excelsior
+           PSV                     v FC Utrecht
+           ADO Den Haag            v AFC Ajax
+           FC Groningen            v Telstar 1963
+           PEC Zwolle              v Willem II Tilburg
+           Fortuna Sittard         v NEC
+           Sparta Rotterdam        v SC Cambuur-Leeuwarden
+
+
+▪ Matchday 26
+  Sun Mar 14
+    13:00  AFC Ajax                v PEC Zwolle
+           SC Cambuur-Leeuwarden   v ADO Den Haag
+           SBV Excelsior           v NEC
+           Go Ahead Eagles         v Feyenoord Rotterdam
+           Telstar 1963            v PSV
+           AZ                      v Sparta Rotterdam
+           Willem II Tilburg       v FC Twente '65
+           FC Utrecht              v FC Groningen
+           SC Heerenveen           v Fortuna Sittard
+
+
+▪ Matchday 27
+  Sun Mar 21
+    13:00  FC Utrecht              v Sparta Rotterdam
+           Feyenoord Rotterdam     v SC Cambuur-Leeuwarden
+           AZ                      v SBV Excelsior
+           PEC Zwolle              v SC Heerenveen
+           Telstar 1963            v Fortuna Sittard
+           NEC                     v AFC Ajax
+           FC Groningen            v PSV
+           ADO Den Haag            v Willem II Tilburg
+           FC Twente '65           v Go Ahead Eagles
+
+
+▪ Matchday 28
+  Sun Apr 4
+    14:00  PSV                     v AZ
+           Fortuna Sittard         v Feyenoord Rotterdam
+           SC Heerenveen           v FC Groningen
+           AFC Ajax                v FC Twente '65
+           SC Cambuur-Leeuwarden   v Telstar 1963
+           SBV Excelsior           v PEC Zwolle
+           Sparta Rotterdam        v ADO Den Haag
+           Go Ahead Eagles         v NEC
+           Willem II Tilburg       v FC Utrecht
+
+
+▪ Matchday 29
+  Sun Apr 11
+    14:00  ADO Den Haag            v Feyenoord Rotterdam
+           SC Cambuur-Leeuwarden   v Fortuna Sittard
+           NEC                     v SC Heerenveen
+           FC Groningen            v SBV Excelsior
+           Willem II Tilburg       v AZ
+           FC Utrecht              v AFC Ajax
+           Telstar 1963            v FC Twente '65
+           PEC Zwolle              v PSV
+           Sparta Rotterdam        v Go Ahead Eagles
+
+
+▪ Matchday 30
+  Sun Apr 25
+    14:00  FC Twente '65           v NEC
+           SC Heerenveen           v ADO Den Haag
+           SBV Excelsior           v Willem II Tilburg
+           Go Ahead Eagles         v FC Utrecht
+           AZ                      v SC Cambuur-Leeuwarden
+           PEC Zwolle              v Telstar 1963
+           Fortuna Sittard         v FC Groningen
+           Feyenoord Rotterdam     v Sparta Rotterdam
+           PSV                     v AFC Ajax
+
+
+▪ Matchday 31
+  Sun May 2
+    14:00  Go Ahead Eagles         v PSV
+           SC Heerenveen           v FC Utrecht
+           Sparta Rotterdam        v FC Twente '65
+           FC Groningen            v ADO Den Haag
+           NEC                     v PEC Zwolle
+           AFC Ajax                v Fortuna Sittard
+           SBV Excelsior           v SC Cambuur-Leeuwarden
+           Telstar 1963            v AZ
+           Feyenoord Rotterdam     v Willem II Tilburg
+
+
+▪ Matchday 32
+  Sun May 9
+    14:00  PSV                     v SBV Excelsior
+           FC Utrecht              v Feyenoord Rotterdam
+           FC Twente '65           v FC Groningen
+           PEC Zwolle              v Sparta Rotterdam
+           Fortuna Sittard         v Go Ahead Eagles
+           SC Cambuur-Leeuwarden   v SC Heerenveen
+           AZ                      v AFC Ajax
+           ADO Den Haag            v NEC
+           Willem II Tilburg       v Telstar 1963
+
+
+▪ Matchday 33
+  Sun May 16
+    14:00  AZ                      v PEC Zwolle
+           Go Ahead Eagles         v SC Heerenveen
+           FC Twente '65           v Feyenoord Rotterdam
+           AFC Ajax                v Sparta Rotterdam
+           SBV Excelsior           v ADO Den Haag
+           PSV                     v NEC
+           Fortuna Sittard         v Willem II Tilburg
+           FC Utrecht              v Telstar 1963
+           FC Groningen            v SC Cambuur-Leeuwarden
+
+
+▪ Matchday 34
+  Sun May 23
+    14:00  NEC                     v FC Utrecht
+           SC Heerenveen           v PSV
+           Sparta Rotterdam        v Fortuna Sittard
+           SC Cambuur-Leeuwarden   v AFC Ajax
+           PEC Zwolle              v FC Twente '65
+           Feyenoord Rotterdam     v FC Groningen
+           ADO Den Haag            v AZ
+           Telstar 1963            v SBV Excelsior
+           Willem II Tilburg       v Go Ahead Eagles

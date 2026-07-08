@@ -1,0 +1,448 @@
+= Portuguese Primeira Liga 2026/27
+
+# Date       Sat Aug 8 2026 - Sun May 16 2027 (281d)
+# Teams      18
+# Matches    306
+
+
+
+▪ Matchday 1
+  Sat Aug 8 2026
+    16:00  CD Santa Clara          v CD Nacional
+           Vitória Guimarães       v FC Arouca
+           Moreirense FC           v Sporting Clube de Braga
+           CF Estrela da Amadora   v Sporting Clube de Portugal
+           Gil Vicente FC          v Rio Ave FC
+           Sport Lisboa e Benfica  v Académico de Viseu FC
+           CS Marítimo             v Casa Pia AC
+           GD Estoril Praia        v FC Famalicão
+           FC Porto                v FC Alverca
+
+
+▪ Matchday 2
+  Sun Aug 16
+    16:00  FC Alverca              v CF Estrela da Amadora
+           Casa Pia AC             v Sport Lisboa e Benfica
+           Sporting Clube de Portugal v Vitória Guimarães
+           FC Famalicão            v CS Marítimo
+           CD Nacional             v GD Estoril Praia
+           Sporting Clube de Braga v Gil Vicente FC
+           FC Arouca               v Moreirense FC
+           Académico de Viseu FC   v CD Santa Clara
+           Rio Ave FC              v FC Porto
+
+
+▪ Matchday 3
+  Sun Aug 23
+    16:00  Sporting Clube de Portugal v FC Alverca
+           CF Estrela da Amadora   v Sporting Clube de Braga
+           Gil Vicente FC          v Casa Pia AC
+           Vitória Guimarães       v CD Nacional
+           GD Estoril Praia        v Rio Ave FC
+           FC Porto                v FC Arouca
+           CD Santa Clara          v FC Famalicão
+           Moreirense FC           v Sport Lisboa e Benfica
+           CS Marítimo             v Académico de Viseu FC
+
+
+▪ Matchday 4
+  Sun Aug 30
+    16:00  FC Famalicão            v Gil Vicente FC
+           FC Alverca              v CD Santa Clara
+           CD Nacional             v CF Estrela da Amadora
+           FC Arouca               v CS Marítimo
+           Sport Lisboa e Benfica  v GD Estoril Praia
+           Académico de Viseu FC   v FC Porto
+           Casa Pia AC             v Moreirense FC
+           Rio Ave FC              v Sporting Clube de Portugal
+           Sporting Clube de Braga v Vitória Guimarães
+
+
+▪ Matchday 5
+  Sun Sep 6
+    16:00  FC Alverca              v Sporting Clube de Braga
+           CF Estrela da Amadora   v FC Famalicão
+           Sporting Clube de Portugal v CD Nacional
+           FC Porto                v Moreirense FC
+           CD Santa Clara          v Rio Ave FC
+           Gil Vicente FC          v Académico de Viseu FC
+           CS Marítimo             v Sport Lisboa e Benfica
+           Vitória Guimarães       v Casa Pia AC
+           GD Estoril Praia        v FC Arouca
+
+
+▪ Matchday 6
+  Sun Sep 13
+    16:00  Moreirense FC           v CS Marítimo
+           Rio Ave FC              v CF Estrela da Amadora
+           Sport Lisboa e Benfica  v Gil Vicente FC
+           FC Famalicão            v Sporting Clube de Portugal
+           CD Nacional             v FC Alverca
+           Casa Pia AC             v FC Porto
+           Sporting Clube de Braga v GD Estoril Praia
+           Académico de Viseu FC   v Vitória Guimarães
+           FC Arouca               v CD Santa Clara
+
+
+▪ Matchday 7
+  Sun Sep 20
+    16:00  CD Nacional             v FC Famalicão
+           Gil Vicente FC          v CS Marítimo
+           Sporting Clube de Portugal v FC Arouca
+           CD Santa Clara          v Sporting Clube de Braga
+           Vitória Guimarães       v Moreirense FC
+           FC Porto                v Sport Lisboa e Benfica
+           CF Estrela da Amadora   v Académico de Viseu FC
+           FC Alverca              v Rio Ave FC
+           GD Estoril Praia        v Casa Pia AC
+
+
+▪ Matchday 8
+  Sun Oct 11
+    16:00  Sport Lisboa e Benfica  v Vitória Guimarães
+           Casa Pia AC             v CD Santa Clara
+           Académico de Viseu FC   v GD Estoril Praia
+           CS Marítimo             v FC Porto
+           FC Arouca               v CF Estrela da Amadora
+           FC Famalicão            v FC Alverca
+           Sporting Clube de Braga v Sporting Clube de Portugal
+           Moreirense FC           v Gil Vicente FC
+           Rio Ave FC              v CD Nacional
+
+
+▪ Matchday 9
+  Sun Oct 25
+    16:00  Vitória Guimarães       v CS Marítimo
+           Rio Ave FC              v FC Famalicão
+           CD Santa Clara          v Sport Lisboa e Benfica
+           Sporting Clube de Portugal v Académico de Viseu FC
+           FC Alverca              v FC Arouca
+           CD Nacional             v Sporting Clube de Braga
+           Gil Vicente FC          v FC Porto
+           GD Estoril Praia        v Moreirense FC
+           CF Estrela da Amadora   v Casa Pia AC
+
+
+▪ Matchday 10
+  Sun Nov 1
+    16:00  FC Porto                v GD Estoril Praia
+           Sporting Clube de Braga v FC Famalicão
+           CS Marítimo             v CD Santa Clara
+           FC Arouca               v CD Nacional
+           Sport Lisboa e Benfica  v FC Alverca
+           Moreirense FC           v CF Estrela da Amadora
+           Casa Pia AC             v Sporting Clube de Portugal
+           Académico de Viseu FC   v Rio Ave FC
+           Gil Vicente FC          v Vitória Guimarães
+
+
+▪ Matchday 11
+  Sun Nov 8
+    16:00  FC Alverca              v Casa Pia AC
+           GD Estoril Praia        v CS Marítimo
+           Vitória Guimarães       v FC Porto
+           Sporting Clube de Portugal v Moreirense FC
+           CD Santa Clara          v Gil Vicente FC
+           CD Nacional             v Académico de Viseu FC
+           FC Famalicão            v FC Arouca
+           Rio Ave FC              v Sporting Clube de Braga
+           CF Estrela da Amadora   v Sport Lisboa e Benfica
+
+
+▪ Matchday 12
+  Sun Nov 29
+    16:00  Vitória Guimarães       v CF Estrela da Amadora
+           Moreirense FC           v CD Santa Clara
+           FC Porto                v Sporting Clube de Portugal
+           Casa Pia AC             v Sporting Clube de Braga
+           Sport Lisboa e Benfica  v FC Famalicão
+           CS Marítimo             v CD Nacional
+           FC Arouca               v Rio Ave FC
+           Gil Vicente FC          v GD Estoril Praia
+           Académico de Viseu FC   v FC Alverca
+
+
+▪ Matchday 13
+  Sun Dec 6
+    16:00  Sporting Clube de Portugal v CS Marítimo
+           CF Estrela da Amadora   v Gil Vicente FC
+           FC Alverca              v Moreirense FC
+           CD Santa Clara          v FC Porto
+           CD Nacional             v Sport Lisboa e Benfica
+           GD Estoril Praia        v Vitória Guimarães
+           Rio Ave FC              v Casa Pia AC
+           Sporting Clube de Braga v FC Arouca
+           FC Famalicão            v Académico de Viseu FC
+
+
+▪ Matchday 14
+  Sun Dec 13
+    16:00  CS Marítimo             v Rio Ave FC
+           Académico de Viseu FC   v FC Arouca
+           Gil Vicente FC          v Sporting Clube de Portugal
+           Casa Pia AC             v CD Nacional
+           Vitória Guimarães       v FC Alverca
+           Moreirense FC           v FC Famalicão
+           GD Estoril Praia        v CD Santa Clara
+           Sport Lisboa e Benfica  v Sporting Clube de Braga
+           FC Porto                v CF Estrela da Amadora
+
+
+▪ Matchday 15
+  Sun Dec 20
+    16:00  Rio Ave FC              v Sport Lisboa e Benfica
+           Sporting Clube de Braga v Académico de Viseu FC
+           Sporting Clube de Portugal v GD Estoril Praia
+           CF Estrela da Amadora   v CS Marítimo
+           FC Famalicão            v FC Porto
+           FC Alverca              v Gil Vicente FC
+           CD Santa Clara          v Vitória Guimarães
+           CD Nacional             v Moreirense FC
+           FC Arouca               v Casa Pia AC
+
+
+▪ Matchday 16
+  Sun Dec 27
+    16:00  Vitória Guimarães       v Rio Ave FC
+           Casa Pia AC             v FC Famalicão
+           FC Porto                v CD Nacional
+           CD Santa Clara          v CF Estrela da Amadora
+           Moreirense FC           v Académico de Viseu FC
+           Sport Lisboa e Benfica  v Sporting Clube de Portugal
+           Gil Vicente FC          v FC Arouca
+           CS Marítimo             v Sporting Clube de Braga
+           GD Estoril Praia        v FC Alverca
+
+
+▪ Matchday 17
+  Sun Jan 10 2027
+    12:00  Sporting Clube de Braga v FC Porto
+           CF Estrela da Amadora   v GD Estoril Praia
+           FC Famalicão            v Vitória Guimarães
+           CD Nacional             v Gil Vicente FC
+           Rio Ave FC              v Moreirense FC
+           FC Arouca               v Sport Lisboa e Benfica
+           FC Alverca              v CS Marítimo
+           Académico de Viseu FC   v Casa Pia AC
+           Sporting Clube de Portugal v CD Santa Clara
+
+
+▪ Matchday 18
+  Sun Jan 17
+    12:00  FC Famalicão            v GD Estoril Praia
+           Sporting Clube de Portugal v CF Estrela da Amadora
+           Sporting Clube de Braga v Moreirense FC
+           Rio Ave FC              v Gil Vicente FC
+           Casa Pia AC             v CS Marítimo
+           CD Nacional             v CD Santa Clara
+           FC Alverca              v FC Porto
+           Académico de Viseu FC   v Sport Lisboa e Benfica
+           FC Arouca               v Vitória Guimarães
+
+
+▪ Matchday 19
+  Sun Jan 24
+    12:00  CF Estrela da Amadora   v FC Alverca
+           Moreirense FC           v FC Arouca
+           GD Estoril Praia        v CD Nacional
+           FC Porto                v Rio Ave FC
+           Sport Lisboa e Benfica  v Casa Pia AC
+           CD Santa Clara          v Académico de Viseu FC
+           CS Marítimo             v FC Famalicão
+           Gil Vicente FC          v Sporting Clube de Braga
+           Vitória Guimarães       v Sporting Clube de Portugal
+
+
+▪ Matchday 20
+  Sun Jan 31
+    12:00  Casa Pia AC             v Gil Vicente FC
+           CD Nacional             v Vitória Guimarães
+           Sport Lisboa e Benfica  v Moreirense FC
+           Sporting Clube de Braga v CF Estrela da Amadora
+           FC Arouca               v FC Porto
+           FC Famalicão            v CD Santa Clara
+           Académico de Viseu FC   v CS Marítimo
+           Rio Ave FC              v GD Estoril Praia
+           FC Alverca              v Sporting Clube de Portugal
+
+
+▪ Matchday 21
+  Sun Feb 7
+    12:00  CS Marítimo             v FC Arouca
+           CD Santa Clara          v FC Alverca
+           GD Estoril Praia        v Sport Lisboa e Benfica
+           Sporting Clube de Portugal v Rio Ave FC
+           FC Porto                v Académico de Viseu FC
+           CF Estrela da Amadora   v CD Nacional
+           Vitória Guimarães       v Sporting Clube de Braga
+           Gil Vicente FC          v FC Famalicão
+           Moreirense FC           v Casa Pia AC
+
+
+▪ Matchday 22
+  Sun Feb 14
+    12:00  FC Arouca               v GD Estoril Praia
+           CD Nacional             v Sporting Clube de Portugal
+           Moreirense FC           v FC Porto
+           Sporting Clube de Braga v FC Alverca
+           Académico de Viseu FC   v Gil Vicente FC
+           Sport Lisboa e Benfica  v CS Marítimo
+           Casa Pia AC             v Vitória Guimarães
+           FC Famalicão            v CF Estrela da Amadora
+           Rio Ave FC              v CD Santa Clara
+
+
+▪ Matchday 23
+  Sun Feb 21
+    12:00  Vitória Guimarães       v Académico de Viseu FC
+           CS Marítimo             v Moreirense FC
+           GD Estoril Praia        v Sporting Clube de Braga
+           Gil Vicente FC          v Sport Lisboa e Benfica
+           FC Porto                v Casa Pia AC
+           Sporting Clube de Portugal v FC Famalicão
+           CD Santa Clara          v FC Arouca
+           CF Estrela da Amadora   v Rio Ave FC
+           FC Alverca              v CD Nacional
+
+
+▪ Matchday 24
+  Sun Feb 28
+    12:00  Rio Ave FC              v FC Alverca
+           CS Marítimo             v Gil Vicente FC
+           Casa Pia AC             v GD Estoril Praia
+           Moreirense FC           v Vitória Guimarães
+           Sport Lisboa e Benfica  v FC Porto
+           FC Famalicão            v CD Nacional
+           Sporting Clube de Braga v CD Santa Clara
+           FC Arouca               v Sporting Clube de Portugal
+           Académico de Viseu FC   v CF Estrela da Amadora
+
+
+▪ Matchday 25
+  Sun Mar 7
+    12:00  Gil Vicente FC          v Moreirense FC
+           FC Porto                v CS Marítimo
+           FC Alverca              v FC Famalicão
+           CD Santa Clara          v Casa Pia AC
+           Sporting Clube de Portugal v Sporting Clube de Braga
+           CF Estrela da Amadora   v FC Arouca
+           Vitória Guimarães       v Sport Lisboa e Benfica
+           CD Nacional             v Rio Ave FC
+           GD Estoril Praia        v Académico de Viseu FC
+
+
+▪ Matchday 26
+  Sun Mar 14
+    12:00  CS Marítimo             v Vitória Guimarães
+           Sport Lisboa e Benfica  v CD Santa Clara
+           FC Arouca               v FC Alverca
+           Académico de Viseu FC   v Sporting Clube de Portugal
+           FC Porto                v Gil Vicente FC
+           Casa Pia AC             v CF Estrela da Amadora
+           Sporting Clube de Braga v CD Nacional
+           FC Famalicão            v Rio Ave FC
+           Moreirense FC           v GD Estoril Praia
+
+
+▪ Matchday 27
+  Sun Mar 21
+    12:00  CD Nacional             v FC Arouca
+           Vitória Guimarães       v Gil Vicente FC
+           CF Estrela da Amadora   v Moreirense FC
+           FC Alverca              v Sport Lisboa e Benfica
+           GD Estoril Praia        v FC Porto
+           CD Santa Clara          v CS Marítimo
+           Sporting Clube de Portugal v Casa Pia AC
+           Rio Ave FC              v Académico de Viseu FC
+           FC Famalicão            v Sporting Clube de Braga
+
+
+▪ Matchday 28
+  Sun Apr 4
+    13:00  FC Arouca               v FC Famalicão
+           Gil Vicente FC          v CD Santa Clara
+           Casa Pia AC             v FC Alverca
+           Moreirense FC           v Sporting Clube de Portugal
+           Académico de Viseu FC   v CD Nacional
+           Sporting Clube de Braga v Rio Ave FC
+           CS Marítimo             v GD Estoril Praia
+           FC Porto                v Vitória Guimarães
+           Sport Lisboa e Benfica  v CF Estrela da Amadora
+
+
+▪ Matchday 29
+  Sun Apr 11
+    13:00  Sporting Clube de Portugal v FC Porto
+           FC Famalicão            v Sport Lisboa e Benfica
+           CD Nacional             v CS Marítimo
+           CD Santa Clara          v Moreirense FC
+           Rio Ave FC              v FC Arouca
+           Sporting Clube de Braga v Casa Pia AC
+           FC Alverca              v Académico de Viseu FC
+           CF Estrela da Amadora   v Vitória Guimarães
+           GD Estoril Praia        v Gil Vicente FC
+
+
+▪ Matchday 30
+  Sun Apr 18
+    13:00  Sport Lisboa e Benfica  v CD Nacional
+           FC Porto                v CD Santa Clara
+           CS Marítimo             v Sporting Clube de Portugal
+           Moreirense FC           v FC Alverca
+           Académico de Viseu FC   v FC Famalicão
+           Vitória Guimarães       v GD Estoril Praia
+           Casa Pia AC             v Rio Ave FC
+           Gil Vicente FC          v CF Estrela da Amadora
+           FC Arouca               v Sporting Clube de Braga
+
+
+▪ Matchday 31
+  Sun Apr 25
+    13:00  FC Alverca              v Vitória Guimarães
+           Rio Ave FC              v CS Marítimo
+           CD Nacional             v Casa Pia AC
+           CF Estrela da Amadora   v FC Porto
+           Sporting Clube de Portugal v Gil Vicente FC
+           Sporting Clube de Braga v Sport Lisboa e Benfica
+           CD Santa Clara          v GD Estoril Praia
+           FC Arouca               v Académico de Viseu FC
+           FC Famalicão            v Moreirense FC
+
+
+▪ Matchday 32
+  Sun May 2
+    13:00  Gil Vicente FC          v FC Alverca
+           Vitória Guimarães       v CD Santa Clara
+           GD Estoril Praia        v Sporting Clube de Portugal
+           FC Porto                v FC Famalicão
+           Moreirense FC           v CD Nacional
+           Casa Pia AC             v FC Arouca
+           Académico de Viseu FC   v Sporting Clube de Braga
+           CS Marítimo             v CF Estrela da Amadora
+           Sport Lisboa e Benfica  v Rio Ave FC
+
+
+▪ Matchday 33
+  Sun May 9
+    13:00  Sporting Clube de Portugal v Sport Lisboa e Benfica
+           CF Estrela da Amadora   v CD Santa Clara
+           Rio Ave FC              v Vitória Guimarães
+           Académico de Viseu FC   v Moreirense FC
+           FC Famalicão            v Casa Pia AC
+           Sporting Clube de Braga v CS Marítimo
+           FC Alverca              v GD Estoril Praia
+           FC Arouca               v Gil Vicente FC
+           CD Nacional             v FC Porto
+
+
+▪ Matchday 34
+  Sun May 16
+    13:00  CS Marítimo             v FC Alverca
+           Gil Vicente FC          v CD Nacional
+           Sport Lisboa e Benfica  v FC Arouca
+           GD Estoril Praia        v CF Estrela da Amadora
+           FC Porto                v Sporting Clube de Braga
+           Casa Pia AC             v Académico de Viseu FC
+           Vitória Guimarães       v FC Famalicão
+           CD Santa Clara          v Sporting Clube de Portugal
+           Moreirense FC           v Rio Ave FC
