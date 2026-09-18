@@ -75,34 +75,34 @@
            Telstar 1963            v SC Cambuur-Leeuwarden    2-2 (0-0)
     16:45  ADO Den Haag            v Fortuna Sittard          2-3 (0-2)
   Tue Sep 8
-    14:00  FC Utrecht              v Go Ahead Eagles          [cancelled]
+    14:00  FC Utrecht              v Go Ahead Eagles          3-3 (0-1)
 
 
 ▪ Matchday 3
   Tue Sep 8
-    18:45  NEC                     v SBV Excelsior
+    18:45  NEC                     v SBV Excelsior            2-2 (1-1)
   Wed Sep 9
-    18:45  FC Twente '65           v Telstar 1963
+    18:45  FC Twente '65           v Telstar 1963             1-0 (0-0)
 
 
 ▪ Matchday 6
   Fri Sep 11
-    20:00  AZ                      v Willem II Tilburg
+    20:00  AZ                      v Willem II Tilburg        1-1 (1-0)
   Sat Sep 12
-    16:30  FC Twente '65           v ADO Den Haag
-    18:45  Go Ahead Eagles         v FC Groningen
-    20:00  Fortuna Sittard         v AFC Ajax
-    21:00  SC Cambuur-Leeuwarden   v NEC
+    16:30  FC Twente '65           v ADO Den Haag             2-0 (0-0)
+    18:45  Go Ahead Eagles         v FC Groningen             1-1 (0-1)
+    20:00  Fortuna Sittard         v AFC Ajax                 1-5 (0-1)
+    21:00  SC Cambuur-Leeuwarden   v NEC                      3-0 (1-0)
   Sun Sep 13
-    12:15  SBV Excelsior           v FC Utrecht
-    14:30  SC Heerenveen           v Telstar 1963
-    16:45  PEC Zwolle              v Feyenoord Rotterdam
-    20:00  PSV                     v Sparta Rotterdam
+    12:15  SBV Excelsior           v FC Utrecht               1-2 (0-1)
+    14:30  SC Heerenveen           v Telstar 1963             0-0
+    16:45  PEC Zwolle              v Feyenoord Rotterdam      0-7 (0-3)
+    20:00  PSV                     v Sparta Rotterdam         4-1 (2-1)
 
 
 ▪ Matchday 3
   Tue Sep 15
-    20:00  AFC Ajax                v Willem II Tilburg
+    20:00  AFC Ajax                v Willem II Tilburg        5-1 (2-0)
 
 
 ▪ Matchday 7
@@ -121,12 +121,13 @@
 
 
 ▪ Matchday 8
+  Fri Oct 9
+    20:00  PSV                     v SC Heerenveen
   Sat Oct 10
-    16:30  PSV                     v SC Heerenveen
+    16:30  Go Ahead Eagles         v Sparta Rotterdam
     18:45  Feyenoord Rotterdam     v AZ
-           Go Ahead Eagles         v Sparta Rotterdam
-    21:00  Fortuna Sittard         v FC Twente '65
-           AFC Ajax                v NEC
+    20:00  Fortuna Sittard         v FC Twente '65
+    21:00  AFC Ajax                v NEC
   Sun Oct 11
     12:15  FC Utrecht              v Willem II Tilburg
     14:30  PEC Zwolle              v SC Cambuur-Leeuwarden
@@ -144,9 +145,9 @@
   Sun Oct 18
     12:15  PEC Zwolle              v Go Ahead Eagles
     14:30  SC Cambuur-Leeuwarden   v AZ
-           FC Twente '65           v FC Utrecht
     16:45  FC Groningen            v AFC Ajax
-    20:00  NEC                     v Fortuna Sittard
+    20:00  FC Twente '65           v FC Utrecht
+           NEC                     v Fortuna Sittard
 
 
 ▪ Matchday 10
@@ -184,78 +185,85 @@
   Sat Nov 7
     16:30  Fortuna Sittard         v Telstar 1963
     18:45  ADO Den Haag            v Sparta Rotterdam
-    20:00  SC Cambuur-Leeuwarden   v PSV
     21:00  SBV Excelsior           v Go Ahead Eagles
   Sun Nov 8
     12:15  SC Heerenveen           v Feyenoord Rotterdam
-    14:30  FC Utrecht              v NEC
-           FC Twente '65           v AFC Ajax
+    14:30  FC Twente '65           v AFC Ajax
     16:45  AZ                      v FC Groningen
+           SC Cambuur-Leeuwarden   v PSV
+    20:00  FC Utrecht              v NEC
 
 
 ▪ Matchday 13
   Sat Nov 21
-           FC Twente '65           v Willem II Tilburg
-           Go Ahead Eagles         v Fortuna Sittard
-           Sparta Rotterdam        v AZ
-           Feyenoord Rotterdam     v SBV Excelsior
-           Telstar 1963            v PEC Zwolle
-           NEC                     v PSV
-           FC Groningen            v SC Heerenveen
+    16:30  NEC                     v PSV
+    18:45  Feyenoord Rotterdam     v SBV Excelsior
            FC Utrecht              v SC Cambuur-Leeuwarden
+    21:00  Telstar 1963            v PEC Zwolle
+           FC Groningen            v SC Heerenveen
+  Sun Nov 22
+    12:15  FC Twente '65           v Willem II Tilburg
+    14:30  Sparta Rotterdam        v AZ
            AFC Ajax                v ADO Den Haag
+    16:45  Go Ahead Eagles         v Fortuna Sittard
 
 
 ▪ Matchday 14
+  Fri Nov 27
+    20:00  FC Groningen            v Willem II Tilburg
   Sat Nov 28
-           SC Cambuur-Leeuwarden   v Sparta Rotterdam
-           FC Groningen            v Willem II Tilburg
-           Fortuna Sittard         v SC Heerenveen
-           NEC                     v FC Twente '65
-           PEC Zwolle              v AZ
+    16:30  SBV Excelsior           v Telstar 1963
+    18:45  PSV                     v Go Ahead Eagles
+    21:00  SC Cambuur-Leeuwarden   v Sparta Rotterdam
+  Sun Nov 29
+    12:15  ADO Den Haag            v FC Utrecht
+    14:30  Fortuna Sittard         v SC Heerenveen
            Feyenoord Rotterdam     v AFC Ajax
-           SBV Excelsior           v Telstar 1963
-           PSV                     v Go Ahead Eagles
-           ADO Den Haag            v FC Utrecht
+    16:45  PEC Zwolle              v AZ
+    20:00  NEC                     v FC Twente '65
 
 
 ▪ Matchday 15
+  Fri Dec 4
+    20:00  Telstar 1963            v FC Groningen
   Sat Dec 5
-           ADO Den Haag            v SBV Excelsior
-           AFC Ajax                v FC Utrecht
-           Telstar 1963            v FC Groningen
-           Fortuna Sittard         v PEC Zwolle
-           AZ                      v PSV
-           SC Heerenveen           v SC Cambuur-Leeuwarden
-           Willem II Tilburg       v Feyenoord Rotterdam
-           Sparta Rotterdam        v NEC
+    16:30  Willem II Tilburg       v Feyenoord Rotterdam
+    18:45  Sparta Rotterdam        v NEC
+    20:00  AZ                      v PSV
+    21:00  Fortuna Sittard         v PEC Zwolle
+  Sun Dec 6
+    12:15  SC Heerenveen           v SC Cambuur-Leeuwarden
+    14:30  AFC Ajax                v FC Utrecht
            Go Ahead Eagles         v FC Twente '65
+    16:45  ADO Den Haag            v SBV Excelsior
 
 
 ▪ Matchday 16
   Sat Dec 12
-           AFC Ajax                v SC Cambuur-Leeuwarden
-           PEC Zwolle              v SBV Excelsior
-           FC Groningen            v Feyenoord Rotterdam
-           FC Utrecht              v Fortuna Sittard
-           PSV                     v Telstar 1963
+    16:30  FC Utrecht              v Fortuna Sittard
+    18:45  SC Heerenveen           v Go Ahead Eagles
+    21:00  PEC Zwolle              v SBV Excelsior
+  Sun Dec 13
+    12:15  PSV                     v Telstar 1963
+    14:30  FC Groningen            v Feyenoord Rotterdam
            Willem II Tilburg       v ADO Den Haag
-           AZ                      v NEC
-           FC Twente '65           v Sparta Rotterdam
-           SC Heerenveen           v Go Ahead Eagles
+    16:45  AZ                      v NEC
+    20:00  AFC Ajax                v SC Cambuur-Leeuwarden
 
 
 ▪ Matchday 17
+  Fri Dec 18
+    20:00  Telstar 1963            v Willem II Tilburg
   Sat Dec 19
-           SC Cambuur-Leeuwarden   v FC Groningen
-           Fortuna Sittard         v Sparta Rotterdam
-           Telstar 1963            v Willem II Tilburg
-           PSV                     v PEC Zwolle
-           Go Ahead Eagles         v AFC Ajax
+    16:30  SBV Excelsior           v AZ
+    18:45  Fortuna Sittard         v Sparta Rotterdam
+    21:00  FC Utrecht              v SC Heerenveen
+  Sun Dec 20
+    12:15  NEC                     v ADO Den Haag
+    14:30  SC Cambuur-Leeuwarden   v FC Groningen
            Feyenoord Rotterdam     v FC Twente '65
-           NEC                     v ADO Den Haag
-           FC Utrecht              v SC Heerenveen
-           SBV Excelsior           v AZ
+    16:45  Go Ahead Eagles         v AFC Ajax
+    20:00  PSV                     v PEC Zwolle
 
 
 ▪ Matchday 18
@@ -274,42 +282,53 @@
 
 
 ▪ Matchday 19
+  Fri Jan 15
+    20:00  SC Heerenveen           v Sparta Rotterdam
   Sat Jan 16
-           Go Ahead Eagles         v AZ
-           SC Cambuur-Leeuwarden   v Willem II Tilburg
-           Telstar 1963            v NEC
-           SBV Excelsior           v Feyenoord Rotterdam
-           SC Heerenveen           v Sparta Rotterdam
-           Fortuna Sittard         v PSV
-           ADO Den Haag            v PEC Zwolle
+    16:30  Telstar 1963            v NEC
+    18:45  SBV Excelsior           v Feyenoord Rotterdam
+    20:00  ADO Den Haag            v PEC Zwolle
+    21:00  Fortuna Sittard         v PSV
+  Sun Jan 17
+    12:15  FC Utrecht              v FC Twente '65
+    14:30  Go Ahead Eagles         v AZ
            AFC Ajax                v FC Groningen
-           FC Utrecht              v FC Twente '65
+    16:45  SC Cambuur-Leeuwarden   v Willem II Tilburg
 
 
 ▪ Matchday 20
+  Fri Jan 22
+    20:00  SBV Excelsior           v Fortuna Sittard
   Sat Jan 23
-           NEC                     v Willem II Tilburg
-           FC Twente '65           v SC Heerenveen
-           PSV                     v ADO Den Haag
-           AFC Ajax                v Telstar 1963
-           AZ                      v FC Utrecht
-           SBV Excelsior           v Fortuna Sittard
+    16:30  AFC Ajax                v Telstar 1963
+    18:45  Feyenoord Rotterdam     v PEC Zwolle
+    20:00  FC Twente '65           v SC Heerenveen
+    21:00  PSV                     v ADO Den Haag
+  Sun Jan 24
+    12:15  Go Ahead Eagles         v SC Cambuur-Leeuwarden
+    14:30  NEC                     v Willem II Tilburg
            Sparta Rotterdam        v FC Groningen
-           Feyenoord Rotterdam     v PEC Zwolle
-           Go Ahead Eagles         v SC Cambuur-Leeuwarden
+    16:45  AZ                      v FC Utrecht
 
 
 ▪ Matchday 21
+  Fri Jan 29
+    20:00  FC Utrecht              v SBV Excelsior
   Sat Jan 30
-           ADO Den Haag            v Go Ahead Eagles
-           SC Heerenveen           v AFC Ajax
-           PEC Zwolle              v Fortuna Sittard
-           FC Twente '65           v SC Cambuur-Leeuwarden
+    16:30  Sparta Rotterdam        v Telstar 1963
+    18:45  ADO Den Haag            v Go Ahead Eagles
+    20:00  Willem II Tilburg       v PSV
+    21:00  PEC Zwolle              v Fortuna Sittard
+  Sun Jan 31
+    12:15  SC Heerenveen           v AFC Ajax
+    14:30  FC Twente '65           v SC Cambuur-Leeuwarden
            AZ                      v Feyenoord Rotterdam
-           Willem II Tilburg       v PSV
-           Sparta Rotterdam        v Telstar 1963
-           FC Utrecht              v SBV Excelsior
-           FC Groningen            v NEC
+    16:45  FC Groningen            v NEC
+
+
+▪ Matchday 16
+  Sat Feb 6
+           FC Twente '65           v Sparta Rotterdam
 
 
 ▪ Matchday 22
